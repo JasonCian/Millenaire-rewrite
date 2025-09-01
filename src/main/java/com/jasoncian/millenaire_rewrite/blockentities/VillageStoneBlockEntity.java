@@ -4,6 +4,7 @@ import net.minecraft.core.BlockPos;
 import net.minecraft.nbt.CompoundTag;
 import net.minecraft.world.level.Level;
 import net.minecraft.world.level.block.entity.BlockEntity;
+import net.minecraft.world.level.block.entity.BlockEntityType;
 import net.minecraft.world.level.block.state.BlockState;
 import com.jasoncian.millenaire_rewrite.core.ModBlockEntities;
 
@@ -32,6 +33,14 @@ public class VillageStoneBlockEntity extends BlockEntity {
 
     public VillageStoneBlockEntity(BlockPos pPos, BlockState pBlockState) {
         super(ModBlockEntities.VILLAGE_STONE.get(), pPos, pBlockState);
+    }
+    
+    /**
+     * 辅助构造器，用于处理BlockEntityType的注册
+     * 避免循环依赖问题
+     */
+    public VillageStoneBlockEntity(BlockEntityType<?> pType, BlockPos pPos, BlockState pBlockState) {
+        super(pType, pPos, pBlockState);
     }
 
     /**

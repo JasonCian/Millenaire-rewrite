@@ -573,11 +573,8 @@ public class ModItems {
     );
 
     // ================ Block Items ================
-    
-    /** Village Stone Block Item - Core village management block */
-    public static final RegistryObject<Item> VILLAGE_STONE = ITEMS.register("village_stone",
-        () -> new BlockItem(ModBlocks.VILLAGE_STONE.get(), new Item.Properties())
-    );
+    // 注意：方块物品现在在ModBlockItems中单独注册
+    // 这样可以更好地处理装饰方块的各个变体
 
     /**
      * Register all items to the mod event bus

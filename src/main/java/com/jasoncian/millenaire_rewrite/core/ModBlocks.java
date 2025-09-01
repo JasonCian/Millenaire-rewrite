@@ -1,6 +1,9 @@
 package com.jasoncian.millenaire_rewrite.core;
 
 import com.jasoncian.millenaire_rewrite.MillenaireRewrite;
+import com.jasoncian.millenaire_rewrite.blocks.decorative.DecorativeStoneBlock;
+import com.jasoncian.millenaire_rewrite.blocks.decorative.DecorativeWoodBlock;
+import com.jasoncian.millenaire_rewrite.blocks.decorative.DecorativeEarthBlock;
 import com.jasoncian.millenaire_rewrite.blocks.functional.VillageStoneBlock;
 import net.minecraft.world.level.block.Block;
 import net.minecraftforge.eventbus.api.IEventBus;
@@ -29,9 +32,35 @@ public class ModBlocks {
     public static final RegistryObject<Block> VILLAGE_STONE = BLOCKS.register("village_stone",
         VillageStoneBlock::new);
 
-    // TODO: 后续添加装饰方块系统
+    // ================ 装饰方块系统 ================
+    
+    /**
+     * 石材装饰方块
+     * 基于legacy BlockDecorativeStone重新实现
+     * 包含：金装饰、烧制砖、Galianite方块
+     */
+    public static final RegistryObject<Block> DECORATIVE_STONE = BLOCKS.register("decorative_stone",
+        DecorativeStoneBlock::new);
+    
+    /**
+     * 木材装饰方块  
+     * 基于legacy BlockDecorativeWood重新实现
+     * 包含：简朴木框架、十字木框架、茅草、养蚕架
+     */
+    public static final RegistryObject<Block> DECORATIVE_WOOD = BLOCKS.register("decorative_wood",
+        DecorativeWoodBlock::new);
+    
+    /**
+     * 土质装饰方块
+     * 基于legacy BlockDecorativeEarth重新实现  
+     * 包含：土墙、风干砖
+     */
+    public static final RegistryObject<Block> DECORATIVE_EARTH = BLOCKS.register("decorative_earth",
+        DecorativeEarthBlock::new);
+
     // TODO: 添加路径系统
-    // TODO: 添加功能性方块
+    // TODO: 添加功能性方块（Mill Chest, Mill Sign等）
+    // TODO: 添加方向性装饰方块（楼梯、半砖等）
 
     /**
      * 注册所有方块到模组事件总线

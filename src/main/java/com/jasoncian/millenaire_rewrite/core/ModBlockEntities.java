@@ -24,9 +24,11 @@ public class ModBlockEntities {
      * 替代legacy的TileEntityVillageStone
      */
     public static final RegistryObject<BlockEntityType<VillageStoneBlockEntity>> VILLAGE_STONE =
-        BLOCK_ENTITIES.register("village_stone", () ->
-            BlockEntityType.Builder.of(VillageStoneBlockEntity::new,
-                ModBlocks.VILLAGE_STONE.get()).build(null));
+        BLOCK_ENTITIES.register("village_stone", 
+            () -> BlockEntityType.Builder.<VillageStoneBlockEntity>of(
+                VillageStoneBlockEntity::new,
+                ModBlocks.VILLAGE_STONE.get()
+            ).build(null));
 
     /**
      * 注册所有BlockEntity类型到模组事件总线

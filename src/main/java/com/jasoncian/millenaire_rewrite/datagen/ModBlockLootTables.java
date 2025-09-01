@@ -25,8 +25,12 @@ public class ModBlockLootTables extends BlockLootSubProvider {
         // Village Stone - 不掉落任何物品（参考legacy的quantityDropped返回0）
         // 通过不添加战利品表来实现无掉落
         
+        // 装饰方块 - 掉落自身
+        this.dropSelf(ModBlocks.DECORATIVE_STONE.get());
+        this.dropSelf(ModBlocks.DECORATIVE_WOOD.get());
+        this.dropSelf(ModBlocks.DECORATIVE_EARTH.get());
+        
         // TODO: 后续为其他方块添加适当的战利品表
-        // 例如：this.dropSelf(ModBlocks.SOME_BLOCK.get());
     }
 
     @Override

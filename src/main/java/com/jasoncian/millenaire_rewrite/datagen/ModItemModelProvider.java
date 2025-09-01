@@ -23,6 +23,11 @@ public class ModItemModelProvider extends ItemModelProvider {
     }
 
     @Override
+    public String getName() {
+        return "Regular Item Models: " + MillenaireRewrite.MOD_ID;
+    }
+
+    @Override
     protected void registerModels() {
         // 货币系统
         simpleItem(ModItems.DENIER);

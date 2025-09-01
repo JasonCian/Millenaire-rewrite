@@ -95,6 +95,7 @@
   "item.millenaire_rewrite.parchment_japanese_building": "Japanese Building Parchment",
   "item.millenaire_rewrite.parchment_japanese_item": "Japanese Item Parchment",
   "item.millenaire_rewrite.parchment_japanese_all": "Japanese Complete Parchment",
+  "block.millenaire_rewrite.village_stone": "Village Stone",
   "debug.millenaire_rewrite.amulet_alchemist.detection": "Alchemist Amulet - Ore Detection Level: %s/%s (More ores nearby = higher frame)",
   "debug.millenaire_rewrite.amulet_vishnu.detection": "Vishnu Amulet - Monster Threat Level: %s/%s (Closer monsters = higher frame)",
   "debug.millenaire_rewrite.amulet_yggdrasil.detection": "Yggdrasil Amulet - Altitude Level: %s/%s (Current altitude: %s blocks)",

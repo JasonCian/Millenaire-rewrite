@@ -95,6 +95,7 @@
   "item.millenaire_rewrite.parchment_japanese_building": "日本建筑羊皮纸",
   "item.millenaire_rewrite.parchment_japanese_item": "日本物品羊皮纸",
   "item.millenaire_rewrite.parchment_japanese_all": "日本完整羊皮纸",
+  "block.millenaire_rewrite.village_stone": "村庄石",
   "debug.millenaire_rewrite.amulet_alchemist.detection": "炼金术师护符 - 矿物检测强度: %s/%s (检测到的矿物越多，护符帧数越高)",
   "debug.millenaire_rewrite.amulet_vishnu.detection": "毗湿奴护符 - 怪物威胁等级: %s/%s (附近怪物越近，护符帧数越高)",
   "debug.millenaire_rewrite.amulet_yggdrasil.detection": "世界树护符 - 高度等级: %s/%s (当前海拔: %s 格)",

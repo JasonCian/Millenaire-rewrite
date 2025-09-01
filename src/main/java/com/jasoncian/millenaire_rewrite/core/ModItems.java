@@ -572,6 +572,13 @@ public class ModItems {
         () -> new ItemMillParchment(new Item.Properties().stacksTo(16))
     );
 
+    // ================ Block Items ================
+    
+    /** Village Stone Block Item - Core village management block */
+    public static final RegistryObject<Item> VILLAGE_STONE = ITEMS.register("village_stone",
+        () -> new BlockItem(ModBlocks.VILLAGE_STONE.get(), new Item.Properties())
+    );
+
     /**
      * Register all items to the mod event bus
      * 

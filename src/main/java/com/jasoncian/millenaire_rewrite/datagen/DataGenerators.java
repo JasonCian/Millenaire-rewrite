@@ -1,15 +1,12 @@
 package com.jasoncian.millenaire_rewrite.datagen;
 
 import com.jasoncian.millenaire_rewrite.MillenaireRewrite;
-import net.minecraft.core.HolderLookup;
 import net.minecraft.data.DataGenerator;
 import net.minecraft.data.PackOutput;
 import net.minecraftforge.common.data.ExistingFileHelper;
 import net.minecraftforge.data.event.GatherDataEvent;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.fml.common.Mod;
-
-import java.util.concurrent.CompletableFuture;
 
 /**
  * 数据生成器事件处理器
@@ -26,8 +23,23 @@ public class DataGenerators {
         PackOutput packOutput = generator.getPackOutput();
         ExistingFileHelper existingFileHelper = event.getExistingFileHelper();
 
-        // 注册物品模型数据生成器
-        generator.addProvider(event.includeClient(), new ModItemModelProvider(packOutput, existingFileHelper));
+        // 客户端数据生成器
+        if (event.includeClient()) {
+            // 方块状态和模型数据生成器
+            generator.addProvider(true, new ModBlockStateProvider(packOutput, existingFileHelper));
+            
+            // 普通物品模型数据生成器（护符、钱袋、工具等）
+            generator.addProvider(true, new ModItemModelProvider(packOutput, existingFileHelper));
+            
+            // 方块物品模型数据生成器
+            generator.addProvider(true, new ModBlockItemModelProvider(packOutput, existingFileHelper));
+        }
+
+        // 服务端数据生成器
+        if (event.includeServer()) {
+            // 方块战利品表生成器
+            generator.addProvider(true, ModLootTableProvider.create(packOutput));
+        }
 
         // 注册语言文件数据生成器（可选，目前我们手动维护）
         // generator.addProvider(event.includeClient(), new

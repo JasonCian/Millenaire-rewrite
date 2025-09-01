@@ -1,6 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "millenaire_rewrite:item/amulet_yggdrasil"
+    "layer0": "millenaire_rewrite:item/amulet_yggdrasil",
+    "layer1": "millenaire_rewrite:item/amulet_yggdrasil_overlay"
   }
 }

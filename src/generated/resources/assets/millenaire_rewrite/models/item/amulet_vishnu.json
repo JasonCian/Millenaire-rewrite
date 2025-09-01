@@ -1,6 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "millenaire_rewrite:item/amulet_vishnu"
+    "layer0": "millenaire_rewrite:item/amulet_vishnu",
+    "layer1": "millenaire_rewrite:item/amulet_vishnu_overlay"
   }
 }

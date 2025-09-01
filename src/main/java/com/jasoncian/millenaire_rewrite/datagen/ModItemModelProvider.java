@@ -138,10 +138,10 @@ public class ModItemModelProvider extends ItemModelProvider {
         handheldItem(ModItems.TUNING_FORK);
 
         // ================ Magic Items - Amulets ================
-        simpleItem(ModItems.AMULET_SKOLL_HATI);
-        simpleItem(ModItems.AMULET_ALCHEMIST);  // 使用原版动画系统
-        simpleItem(ModItems.AMULET_VISHNU);     // 使用原版动画系统
-        simpleItem(ModItems.AMULET_YGGDRASIL);  // 使用原版动画系统
+        layeredItem(ModItems.AMULET_ALCHEMIST);  // 使用双层纹理系统
+        layeredItem(ModItems.AMULET_VISHNU);     // 使用双层纹理系统
+        layeredItem(ModItems.AMULET_YGGDRASIL);  // 使用双层纹理系统
+        simpleItem(ModItems.AMULET_SKOLL_HATI);  // 功能性物品，不需要overlay
         
         // ================ Parchments/Scrolls ================
         // Norman Parchments - 使用对应类型的材质
@@ -213,5 +213,17 @@ public class ModItemModelProvider extends ItemModelProvider {
         return withExistingParent(item.getId().getPath(),
                 ResourceLocation.withDefaultNamespace("item/generated")).texture("layer0",
                 ResourceLocation.fromNamespaceAndPath(MillenaireRewrite.MOD_ID, "item/" + textureName));
+    }
+    
+    /**
+     * 创建双层纹理物品模型
+     * 适用于需要base + overlay的护身符等物品
+     */
+    private ItemModelBuilder layeredItem(RegistryObject<Item> item) {
+        String itemName = item.getId().getPath();
+        return withExistingParent(itemName,
+                ResourceLocation.withDefaultNamespace("item/generated"))
+                .texture("layer0", ResourceLocation.fromNamespaceAndPath(MillenaireRewrite.MOD_ID, "item/" + itemName))
+                .texture("layer1", ResourceLocation.fromNamespaceAndPath(MillenaireRewrite.MOD_ID, "item/" + itemName + "_overlay"));
     }
 }

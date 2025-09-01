@@ -1,6 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "millenaire_rewrite:item/amulet_alchemist"
+    "layer0": "millenaire_rewrite:item/amulet_alchemist",
+    "layer1": "millenaire_rewrite:item/amulet_alchemist_overlay"
   }
 }

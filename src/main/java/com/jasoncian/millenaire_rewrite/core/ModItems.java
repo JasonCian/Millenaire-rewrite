@@ -423,22 +423,34 @@ public class ModItems {
     
     /** Skoll and Hati Amulet - Controls day/night cycle */
     public static final RegistryObject<Item> AMULET_SKOLL_HATI = ITEMS.register("amulet_skoll_hati",
-        () -> new org.millenaire.items.ItemMillAmulet()
+        () -> new com.jasoncian.millenaire_rewrite.items.magic.DynamicAmuletItem(
+            com.jasoncian.millenaire_rewrite.items.magic.DynamicAmuletItem.AmuletType.SKOLL_HATI, 
+            new Item.Properties()
+        )
     );
     
     /** Alchemist Amulet - Detects nearby ores */
     public static final RegistryObject<Item> AMULET_ALCHEMIST = ITEMS.register("amulet_alchemist",
-        () -> new org.millenaire.items.ItemMillAmulet()
+        () -> new com.jasoncian.millenaire_rewrite.items.magic.DynamicAmuletItem(
+            com.jasoncian.millenaire_rewrite.items.magic.DynamicAmuletItem.AmuletType.ALCHEMIST, 
+            new Item.Properties()
+        )
     );
     
     /** Vishnu Amulet - Detects nearby creatures */
     public static final RegistryObject<Item> AMULET_VISHNU = ITEMS.register("amulet_vishnu",
-        () -> new org.millenaire.items.ItemMillAmulet()
+        () -> new com.jasoncian.millenaire_rewrite.items.magic.DynamicAmuletItem(
+            com.jasoncian.millenaire_rewrite.items.magic.DynamicAmuletItem.AmuletType.VISHNU, 
+            new Item.Properties()
+        )
     );
     
     /** Yggdrasil Amulet - Shows altitude information */
     public static final RegistryObject<Item> AMULET_YGGDRASIL = ITEMS.register("amulet_yggdrasil",
-        () -> new org.millenaire.items.ItemMillAmulet()
+        () -> new com.jasoncian.millenaire_rewrite.items.magic.DynamicAmuletItem(
+            com.jasoncian.millenaire_rewrite.items.magic.DynamicAmuletItem.AmuletType.YGGDRASIL, 
+            new Item.Properties()
+        )
     );
 
     // ================ Parchments/Scrolls ================

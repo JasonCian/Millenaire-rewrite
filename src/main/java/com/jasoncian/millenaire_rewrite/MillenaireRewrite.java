@@ -1,0 +1,144 @@
+package com.jasoncian.millenaire_rewrite;
+
+import com.jasoncian.millenaire_rewrite.core.ModBlocks;
+import com.jasoncian.millenaire_rewrite.core.ModItems;
+import com.jasoncian.millenaire_rewrite.core.ModEntities;
+import com.jasoncian.millenaire_rewrite.core.ModToolMaterials;
+import com.jasoncian.millenaire_rewrite.config.MillenaireConfig;
+import com.mojang.logging.LogUtils;
+import net.minecraft.core.registries.Registries;
+import net.minecraft.network.chat.Component;
+import net.minecraft.world.item.CreativeModeTab;
+import net.minecraft.world.item.ItemStack;
+import net.minecraftforge.api.distmarker.Dist;
+import net.minecraftforge.common.MinecraftForge;
+import net.minecraftforge.event.BuildCreativeModeTabContentsEvent;
+import net.minecraftforge.event.server.ServerStartingEvent;
+import net.minecraftforge.eventbus.api.IEventBus;
+import net.minecraftforge.eventbus.api.SubscribeEvent;
+import net.minecraftforge.fml.common.Mod;
+import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
+import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
+import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
+import net.minecraftforge.registries.DeferredRegister;
+import net.minecraftforge.registries.RegistryObject;
+import org.slf4j.Logger;
+
+/**
+ * Millenaire Rewrite - 现代化重制版主类
+ * 
+ * 这是Millenaire mod的1.20.1现代化重制版本，使用最新的Forge API
+ * 和现代Java开发实践重新实现经典的村庄生成mod。
+ * 
+ * @author JasonCian
+ * @version 0.1.0-alpha
+ */
+@Mod(MillenaireRewrite.MOD_ID)
+public class MillenaireRewrite {
+    
+    // 模组基本信息
+    public static final String MOD_ID = "millenaire_rewrite";
+    public static final String MOD_NAME = "Millenaire Rewrite";
+    public static final String VERSION = "0.1.0-alpha";
+    
+    // 日志记录器
+    public static final Logger LOGGER = LogUtils.getLogger();
+    
+    // 创意模式标签页注册器
+    public static final DeferredRegister<CreativeModeTab> CREATIVE_MODE_TABS = 
+        DeferredRegister.create(Registries.CREATIVE_MODE_TAB, MOD_ID);
+    
+    // 创意模式标签页
+    public static final RegistryObject<CreativeModeTab> MILLENAIRE_TAB = CREATIVE_MODE_TABS.register("millenaire_tab", () -> 
+        CreativeModeTab.builder()
+            .title(Component.translatable("creativetab.millenaire_rewrite"))
+            .icon(() -> new ItemStack(ModItems.DENIER_OR.get())) // 使用金德尼尔作为图标
+            .displayItems((parameters, output) -> {
+                // 添加所有模组物品到创意标签页
+                ModItems.ITEMS.getEntries().forEach(item -> output.accept(item.get()));
+                // ModBlocks暂时为空，所以注释掉
+                // ModBlocks.BLOCKS.getEntries().forEach(block -> output.accept(block.get()));
+            })
+            .build()
+    );
+
+    @SuppressWarnings("removal") // FMLJavaModLoadingContext.get() 在1.20.1中是正确的用法
+    public MillenaireRewrite() {
+        // 获取mod事件总线
+        IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
+
+        // 注册核心组件
+        ModBlocks.register(modEventBus);
+        ModItems.register(modEventBus);
+        ModEntities.register(modEventBus);
+        CREATIVE_MODE_TABS.register(modEventBus);
+
+        // 注册事件监听器
+        modEventBus.addListener(this::commonSetup);
+        modEventBus.addListener(this::addCreative);
+
+        // 注册Forge事件总线
+        MinecraftForge.EVENT_BUS.register(this);
+
+        // 注册配置（使用现代方式）
+        modEventBus.addListener(MillenaireConfig::onLoad);
+        modEventBus.addListener(MillenaireConfig::onReload);
+
+        LOGGER.info("Millenaire Rewrite mod initialized!");
+    }
+
+    /**
+     * 通用设置阶段
+     * 在这里进行与客户端/服务器无关的初始化
+     */
+    private void commonSetup(final FMLCommonSetupEvent event) {
+        LOGGER.info("Millenaire Rewrite common setup starting...");
+        
+        event.enqueueWork(() -> {
+            // 初始化工具层级排序
+            ModToolMaterials.initializeTierSorting();
+            
+            // 在这里进行需要主线程的初始化工作
+            // 例如：配置网络数据包、注册生物群系特性等
+        });
+        
+        LOGGER.info("Millenaire Rewrite common setup completed!");
+    }
+
+    /**
+     * 添加物品到创意模式标签页
+     */
+    private void addCreative(BuildCreativeModeTabContentsEvent event) {
+        // 如果需要向原版标签页添加物品，可以在这里处理
+        // 我们的物品已经通过自定义标签页处理了
+    }
+
+    /**
+     * 服务器启动事件处理
+     */
+    @SubscribeEvent
+    public void onServerStarting(ServerStartingEvent event) {
+        LOGGER.info("Millenaire Rewrite server is starting...");
+        // 在这里进行服务器启动时的初始化
+        // 例如：加载村庄数据、初始化全局状态等
+    }
+
+    /**
+     * 仅客户端的事件处理
+     */
+    @Mod.EventBusSubscriber(modid = MOD_ID, bus = Mod.EventBusSubscriber.Bus.MOD, value = Dist.CLIENT)
+    public static class ClientModEvents {
+        
+        @SubscribeEvent
+        public static void onClientSetup(FMLClientSetupEvent event) {
+            LOGGER.info("Millenaire Rewrite client setup starting...");
+            
+            event.enqueueWork(() -> {
+                // 在这里进行客户端特定的初始化
+                // 例如：注册渲染器、键位绑定等
+            });
+            
+            LOGGER.info("Millenaire Rewrite client setup completed!");
+        }
+    }
+}

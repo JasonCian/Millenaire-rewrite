@@ -1,0 +1,60 @@
+# 千禧年重制版 mods.toml 配置文件
+# 包含模组在Forge加载器中的元数据信息
+
+# 模组加载器类型 - 对于常规的FML @Mod模组应该是javafml
+modLoader="javafml" #必需
+# 模组加载器的版本范围匹配 - 对于常规FML @Mod模组是forge版本
+loaderVersion="${loader_version_range}" #必需
+# 模组的许可证
+license="${mod_license}"
+# 当此模组出现问题时人们可以参考的URL
+#issueTrackerURL="https://github.com/jasoncian/millenaire-rewrite/issues" #可选
+# 如果您的模组是纯客户端且没有多人游戏功能，
+# 请将此设置为true。千禧年是多人游戏模组，所以这是false。
+#clientSideOnly=false #可选 - 默认为false
+
+# 模组定义
+[[mods]] #必需
+# 模组的标识符 - 必须与@Mod注解匹配
+modId="${mod_id}" #必需
+# 模组的版本号
+version="${mod_version}" #必需
+# 模组的显示名称
+displayName="${mod_name}" #必需
+# 查询此模组更新的URL
+#updateJSONURL="https://example.com/millenaire-rewrite-updates.json" #可选
+# 此模组的"主页"URL
+#displayURL="https://github.com/jasoncian/millenaire-rewrite" #可选
+# 模组JAR根目录中包含显示徽标的文件名
+#logoFile="millenaire_logo.png" #可选
+# 模组的制作人员名单
+credits="基于Kinniken的原版千禧年模组重制。由JasonCian为现代Minecraft重写。" #可选
+# 模组的作者
+authors="${mod_authors}" #可选
+# 显示测试 - MATCH_VERSION意味着客户端和服务端版本必须匹配
+displayTest="MATCH_VERSION" #可选
+
+# 模组的描述文本 (多行!)
+description='''${mod_description}'''
+
+# 依赖项 - Forge
+[[dependencies.${mod_id}]] #可选
+    modId="forge" #mandatory
+    mandatory=true #mandatory
+    versionRange="${forge_version_range}" #mandatory
+    ordering="NONE"
+    side="BOTH"
+
+# 依赖项 - Minecraft
+[[dependencies.${mod_id}]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="${minecraft_version_range}"
+    ordering="NONE"
+    side="BOTH"
+
+# Features are specific properties of the game environment, that you may want to declare you require. This example declares
+# that your mod requires GL version 3.2 or higher. Other features will be added. They are side aware so declaring this won't
+# stop your mod loading on the server for example.
+#[features.${mod_id}]
+#openGLVersion="[3.2,)"

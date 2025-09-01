@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "millenaire_rewrite:item/norman_hoe"
+  }
+}

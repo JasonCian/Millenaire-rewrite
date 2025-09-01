@@ -401,22 +401,34 @@ public class ModItems {
     
     /** Summoning Wand - Used for building import from templates */
     public static final RegistryObject<Item> WAND_SUMMONING = ITEMS.register("wand_summoning",
-        () -> new org.millenaire.items.ItemMillWand()
+        () -> new com.jasoncian.millenaire_rewrite.items.tools.MillWandItem(
+            com.jasoncian.millenaire_rewrite.items.tools.MillWandItem.WandType.SUMMONING,
+            new Item.Properties()
+        )
     );
     
     /** Negation Wand - Used for building export to templates */
     public static final RegistryObject<Item> WAND_NEGATION = ITEMS.register("wand_negation",
-        () -> new org.millenaire.items.ItemMillWand()
+        () -> new com.jasoncian.millenaire_rewrite.items.tools.MillWandItem(
+            com.jasoncian.millenaire_rewrite.items.tools.MillWandItem.WandType.NEGATION,
+            new Item.Properties()
+        )
     );
     
     /** Creative Wand - Manage crop permissions and chest locks */
     public static final RegistryObject<Item> WAND_CREATIVE = ITEMS.register("wand_creative",
-        () -> new org.millenaire.items.ItemMillWand()
+        () -> new com.jasoncian.millenaire_rewrite.items.tools.MillWandItem(
+            com.jasoncian.millenaire_rewrite.items.tools.MillWandItem.WandType.CREATIVE,
+            new Item.Properties()
+        )
     );
     
     /** Tuning Fork - Block inspection tool */
     public static final RegistryObject<Item> TUNING_FORK = ITEMS.register("tuning_fork",
-        () -> new org.millenaire.items.ItemMillWand()
+        () -> new com.jasoncian.millenaire_rewrite.items.tools.MillWandItem(
+            com.jasoncian.millenaire_rewrite.items.tools.MillWandItem.WandType.TUNING_FORK,
+            new Item.Properties()
+        )
     );
 
     // ================ Magic Items - Amulets ================

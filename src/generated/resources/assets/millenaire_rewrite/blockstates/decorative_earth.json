@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "variant=dirt_wall": {
+      "model": "millenaire_rewrite:block/decorative_earth_dirt_wall"
+    },
+    "variant=dried_brick": {
+      "model": "millenaire_rewrite:block/decorative_earth_dried_brick"
+    }
+  }
+}

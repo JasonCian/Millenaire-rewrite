@@ -2,7 +2,9 @@ package com.jasoncian.millenaire_rewrite;
 
 import com.jasoncian.millenaire_rewrite.core.ModBlocks;
 import com.jasoncian.millenaire_rewrite.core.ModItems;
+import com.jasoncian.millenaire_rewrite.core.ModBlockItems;
 import com.jasoncian.millenaire_rewrite.core.ModEntities;
+import com.jasoncian.millenaire_rewrite.core.ModBlockEntities;
 import com.jasoncian.millenaire_rewrite.core.ModToolMaterials;
 import com.jasoncian.millenaire_rewrite.config.MillenaireConfig;
 import com.mojang.logging.LogUtils;
@@ -56,8 +58,9 @@ public class MillenaireRewrite {
             .displayItems((parameters, output) -> {
                 // 添加所有模组物品到创意标签页
                 ModItems.ITEMS.getEntries().forEach(item -> output.accept(item.get()));
-                // ModBlocks暂时为空，所以注释掉
-                // ModBlocks.BLOCKS.getEntries().forEach(block -> output.accept(block.get()));
+                
+                // 添加方块物品（现在在ModBlockItems中注册）
+                ModBlockItems.BLOCK_ITEMS.getEntries().forEach(item -> output.accept(item.get()));
             })
             .build()
     );
@@ -70,7 +73,9 @@ public class MillenaireRewrite {
         // 注册核心组件
         ModBlocks.register(modEventBus);
         ModItems.register(modEventBus);
+        ModBlockItems.register(modEventBus); // 注册方块物品
         ModEntities.register(modEventBus);
+        ModBlockEntities.register(modEventBus);
         CREATIVE_MODE_TABS.register(modEventBus);
 
         // 注册事件监听器

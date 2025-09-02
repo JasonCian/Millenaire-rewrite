@@ -239,6 +239,17 @@ public class ModLanguageProvider extends LanguageProvider {
         add("item.millenaire_rewrite.wand.negation.tooltip", "Export buildings to templates");
         add("item.millenaire_rewrite.wand.creative.tooltip", "Manage crop permissions and chest locks");
 
+        // Debug wand messages
+        add("debug.millenaire_rewrite.wand.position", "Position: %d, %d, %d");
+        add("debug.millenaire_rewrite.wand.creative.help", "Creative Wand - Right-click to manage crop permissions and chest locks");
+        add("debug.millenaire_rewrite.wand.block_info", "Block: %s at %d, %d, %d");
+        add("debug.millenaire_rewrite.wand.summoning.use", "Summoning Wand activated at %d, %d, %d");
+        add("debug.millenaire_rewrite.wand.negation.use", "Negation Wand activated at %d, %d, %d");
+        add("debug.millenaire_rewrite.wand.creative.use", "Creative Wand activated at %d, %d, %d");
+        add("debug.millenaire_rewrite.wand.tuning_fork.help", "Tuning Fork - Right-click blocks to inspect their properties");
+        add("debug.millenaire_rewrite.wand.summoning.help", "Summoning Wand - Import and place building templates");
+        add("debug.millenaire_rewrite.wand.negation.help", "Negation Wand - Export building areas to templates");
+
         // Parchment content headers
         add("item.millenaire_rewrite.parchment.culture.norman", "Norman");
         add("item.millenaire_rewrite.parchment.culture.byzantine", "Byzantine");
@@ -467,6 +478,17 @@ public class ModLanguageProvider extends LanguageProvider {
         add("item.millenaire_rewrite.wand.summoning.tooltip", "从模板导入建筑");
         add("item.millenaire_rewrite.wand.negation.tooltip", "将建筑导出为模板");
         add("item.millenaire_rewrite.wand.creative.tooltip", "管理作物权限和箱子锁定");
+
+        // Debug wand messages
+        add("debug.millenaire_rewrite.wand.position", "位置: %d, %d, %d");
+        add("debug.millenaire_rewrite.wand.creative.help", "创意法杖 - 右键管理作物权限和箱子锁定");
+        add("debug.millenaire_rewrite.wand.block_info", "方块: %s 位于 %d, %d, %d");
+        add("debug.millenaire_rewrite.wand.summoning.use", "召唤法杖在 %d, %d, %d 处激活");
+        add("debug.millenaire_rewrite.wand.negation.use", "否定法杖在 %d, %d, %d 处激活");
+        add("debug.millenaire_rewrite.wand.creative.use", "创意法杖在 %d, %d, %d 处激活");
+        add("debug.millenaire_rewrite.wand.tuning_fork.help", "调音叉 - 右键方块检查其属性");
+        add("debug.millenaire_rewrite.wand.summoning.help", "召唤法杖 - 导入并放置建筑模板");
+        add("debug.millenaire_rewrite.wand.negation.help", "否定法杖 - 将建筑区域导出为模板");
 
         // Parchment content headers
         add("item.millenaire_rewrite.parchment.culture.norman", "诺曼");

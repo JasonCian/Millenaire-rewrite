@@ -17,7 +17,7 @@ import net.minecraftforge.registries.RegistryObject;
  * 减少手动创建模型的工作量
  */
 public class ModItemModelProvider extends ItemModelProvider {
-    
+
     public ModItemModelProvider(PackOutput output, ExistingFileHelper existingFileHelper) {
         super(output, MillenaireRewrite.MOD_ID, existingFileHelper);
     }
@@ -33,51 +33,51 @@ public class ModItemModelProvider extends ItemModelProvider {
         simpleItem(ModItems.DENIER);
         simpleItem(ModItems.DENIER_OR);
         simpleItem(ModItems.DENIER_ARGENT);
-        
+
         // 基础材料
         simpleItem(ModItems.SILK);
         simpleItem(ModItems.OBSIDIAN_FLAKE);
         simpleItem(ModItems.UNKNOWN_POWDER);
         simpleItem(ModItems.GALIANITE_DUST);
-        
+
         // 服装材料
         simpleItem(ModItems.WOOL_CLOTHES);
         simpleItem(ModItems.SILK_CLOTHES);
-        
+
         // 农作物
         simpleItem(ModItems.TURMERIC);
         simpleItem(ModItems.RICE);
         simpleItem(ModItems.MAIZE);
         simpleItem(ModItems.GRAPES);
-        
+
         // 诺曼食物
         simpleItem(ModItems.CIDER_APPLE);
         simpleItem(ModItems.CIDER);
         simpleItem(ModItems.CALVA);
         simpleItem(ModItems.TRIPES);
         simpleItem(ModItems.BOUDIN_NOIR);
-        
+
         // 印度食物
         simpleItem(ModItems.VEG_CURRY);
         simpleItem(ModItems.MURGH_CURRY);
         simpleItem(ModItems.RASGULLA);
-        
+
         // 玛雅食物
         simpleItem(ModItems.CACAUHAA);
         simpleItem(ModItems.MASA);
         simpleItem(ModItems.WAH);
-        
+
         // 日本食物
         simpleItem(ModItems.SAKE);
         simpleItem(ModItems.UDON);
         simpleItem(ModItems.IKAYAKI);
-        
+
         // 拜占庭食物
         simpleItem(ModItems.WINE);
         simpleItem(ModItems.MALVASIA_WINE);
         simpleItem(ModItems.FETA);
         simpleItem(ModItems.SOUVLAKI);
-        
+
         // 特殊物品
         simpleItem(ModItems.PURSE);
         simpleItem(ModItems.VILLAGE_SIGN);
@@ -143,43 +143,43 @@ public class ModItemModelProvider extends ItemModelProvider {
         handheldItem(ModItems.TUNING_FORK);
 
         // ================ Magic Items - Amulets ================
-        layeredItem(ModItems.AMULET_ALCHEMIST);  // 使用双层纹理系统
-        layeredItem(ModItems.AMULET_VISHNU);     // 使用双层纹理系统
-        layeredItem(ModItems.AMULET_YGGDRASIL);  // 使用双层纹理系统
-        simpleItem(ModItems.AMULET_SKOLL_HATI);  // 功能性物品，不需要overlay
-        
+        layeredItem(ModItems.AMULET_ALCHEMIST); // 使用双层纹理系统
+        layeredItem(ModItems.AMULET_VISHNU); // 使用双层纹理系统
+        layeredItem(ModItems.AMULET_YGGDRASIL); // 使用双层纹理系统
+        simpleItem(ModItems.AMULET_SKOLL_HATI); // 功能性物品，不需要overlay
+
         // ================ Parchments/Scrolls ================
         // Norman Parchments - 使用对应类型的材质
         parchmentItem(ModItems.PARCHMENT_NORMAN_VILLAGER, "parchmentvillagers");
         parchmentItem(ModItems.PARCHMENT_NORMAN_BUILDING, "parchmentbuildings");
         parchmentItem(ModItems.PARCHMENT_NORMAN_ITEM, "parchmentitems");
         parchmentItem(ModItems.PARCHMENT_NORMAN_ALL, "parchmentall");
-        
+
         // Byzantine Parchments - 使用对应类型的材质
         parchmentItem(ModItems.PARCHMENT_BYZANTINE_VILLAGER, "parchmentvillagers");
         parchmentItem(ModItems.PARCHMENT_BYZANTINE_BUILDING, "parchmentbuildings");
         parchmentItem(ModItems.PARCHMENT_BYZANTINE_ITEM, "parchmentitems");
         parchmentItem(ModItems.PARCHMENT_BYZANTINE_ALL, "parchmentall");
-        
+
         // Hindi Parchments - 使用对应类型的材质
         parchmentItem(ModItems.PARCHMENT_HINDI_VILLAGER, "parchmentvillagers");
         parchmentItem(ModItems.PARCHMENT_HINDI_BUILDING, "parchmentbuildings");
         parchmentItem(ModItems.PARCHMENT_HINDI_ITEM, "parchmentitems");
         parchmentItem(ModItems.PARCHMENT_HINDI_ALL, "parchmentall");
-        
+
         // Mayan Parchments - 使用对应类型的材质
         parchmentItem(ModItems.PARCHMENT_MAYAN_VILLAGER, "parchmentvillagers");
         parchmentItem(ModItems.PARCHMENT_MAYAN_BUILDING, "parchmentbuildings");
         parchmentItem(ModItems.PARCHMENT_MAYAN_ITEM, "parchmentitems");
         parchmentItem(ModItems.PARCHMENT_MAYAN_ALL, "parchmentall");
-        
+
         // Japanese Parchments - 使用对应类型的材质
         parchmentItem(ModItems.PARCHMENT_JAPANESE_VILLAGER, "parchmentvillagers");
         parchmentItem(ModItems.PARCHMENT_JAPANESE_BUILDING, "parchmentbuildings");
         parchmentItem(ModItems.PARCHMENT_JAPANESE_ITEM, "parchmentitems");
         parchmentItem(ModItems.PARCHMENT_JAPANESE_ALL, "parchmentall");
     }
-    
+
     /**
      * 创建简单物品模型
      * 使用标准的generated父模型和对应的材质
@@ -187,9 +187,10 @@ public class ModItemModelProvider extends ItemModelProvider {
     private ItemModelBuilder simpleItem(RegistryObject<Item> item) {
         return withExistingParent(item.getId().getPath(),
                 ResourceLocation.withDefaultNamespace("item/generated")).texture("layer0",
-                ResourceLocation.fromNamespaceAndPath(MillenaireRewrite.MOD_ID, "item/" + item.getId().getPath()));
+                        ResourceLocation.fromNamespaceAndPath(MillenaireRewrite.MOD_ID,
+                                "item/" + item.getId().getPath()));
     }
-    
+
     /**
      * 创建手持工具模型
      * 使用handheld父模型，适用于剑、斧头、镐子等工具
@@ -197,19 +198,47 @@ public class ModItemModelProvider extends ItemModelProvider {
     private ItemModelBuilder handheldItem(RegistryObject<Item> item) {
         return withExistingParent(item.getId().getPath(),
                 ResourceLocation.withDefaultNamespace("item/handheld")).texture("layer0",
-                ResourceLocation.fromNamespaceAndPath(MillenaireRewrite.MOD_ID, "item/" + item.getId().getPath()));
+                        ResourceLocation.fromNamespaceAndPath(MillenaireRewrite.MOD_ID,
+                                "item/" + item.getId().getPath()));
     }
-    
+
     /**
      * 创建弓类武器模型
      * 使用bow父模型，适用于弓箭类武器
+     * 包含完整的拉弓动画状态配置
      */
     private ItemModelBuilder bowItem(RegistryObject<Item> item) {
-        return withExistingParent(item.getId().getPath(),
-                ResourceLocation.withDefaultNamespace("item/bow")).texture("layer0",
-                ResourceLocation.fromNamespaceAndPath(MillenaireRewrite.MOD_ID, "item/" + item.getId().getPath()));
+        String itemName = item.getId().getPath();
+        
+        // 先显式创建并保存拉弓状态的子模型
+        withExistingParent(itemName + "_pulling_0", mcLoc("item/bow"))
+                .texture("layer0", modLoc("item/" + itemName + "_pulling_0"));
+        
+        withExistingParent(itemName + "_pulling_1", mcLoc("item/bow"))
+                .texture("layer0", modLoc("item/" + itemName + "_pulling_1"));
+        
+        withExistingParent(itemName + "_pulling_2", mcLoc("item/bow"))
+                .texture("layer0", modLoc("item/" + itemName + "_pulling_2"));
+        
+        // 创建基础弓模型并添加拉弓状态的overrides
+        return withExistingParent(itemName, mcLoc("item/bow"))
+                .texture("layer0", modLoc("item/" + itemName))
+                .override()
+                    .predicate(mcLoc("pulling"), 1.0f)
+                    .model(getExistingFile(modLoc("item/" + itemName + "_pulling_0")))
+                .end()
+                .override()
+                    .predicate(mcLoc("pulling"), 1.0f)
+                    .predicate(mcLoc("pull"), 0.65f)
+                    .model(getExistingFile(modLoc("item/" + itemName + "_pulling_1")))
+                .end()
+                .override()
+                    .predicate(mcLoc("pulling"), 1.0f)
+                    .predicate(mcLoc("pull"), 0.9f)
+                    .model(getExistingFile(modLoc("item/" + itemName + "_pulling_2")))
+                .end();
     }
-    
+
     /**
      * 创建羊皮纸物品模型
      * 使用指定的材质文件
@@ -217,9 +246,9 @@ public class ModItemModelProvider extends ItemModelProvider {
     private ItemModelBuilder parchmentItem(RegistryObject<Item> item, String textureName) {
         return withExistingParent(item.getId().getPath(),
                 ResourceLocation.withDefaultNamespace("item/generated")).texture("layer0",
-                ResourceLocation.fromNamespaceAndPath(MillenaireRewrite.MOD_ID, "item/" + textureName));
+                        ResourceLocation.fromNamespaceAndPath(MillenaireRewrite.MOD_ID, "item/" + textureName));
     }
-    
+
     /**
      * 创建双层纹理物品模型
      * 适用于需要base + overlay的护身符等物品
@@ -229,6 +258,7 @@ public class ModItemModelProvider extends ItemModelProvider {
         return withExistingParent(itemName,
                 ResourceLocation.withDefaultNamespace("item/generated"))
                 .texture("layer0", ResourceLocation.fromNamespaceAndPath(MillenaireRewrite.MOD_ID, "item/" + itemName))
-                .texture("layer1", ResourceLocation.fromNamespaceAndPath(MillenaireRewrite.MOD_ID, "item/" + itemName + "_overlay"));
+                .texture("layer1", ResourceLocation.fromNamespaceAndPath(MillenaireRewrite.MOD_ID,
+                        "item/" + itemName + "_overlay"));
     }
 }

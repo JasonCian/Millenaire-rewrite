@@ -6,6 +6,7 @@ import net.minecraft.world.entity.player.Player;
 import net.minecraft.world.entity.player.Inventory;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.network.chat.Component;
+import net.minecraft.network.chat.MutableComponent;
 
 /**
  * 货币系统工具类
@@ -250,40 +251,58 @@ public class CurrencyUtils {
     /**
      * 货币格式化显示
      */
-    public static String formatCurrency(int copperValue) {
+    public static Component formatCurrency(int copperValue) {
         if (copperValue <= 0) {
-            return Component.translatable("currency.millenaire_rewrite.zero").getString();
+            return Component.translatable("currency.millenaire_rewrite.zero");
         }
-        
+
         int gold = copperValue / COPPER_PER_GOLD;
         copperValue %= COPPER_PER_GOLD;
-        
+
         int silver = copperValue / COPPER_PER_SILVER;
         copperValue %= COPPER_PER_SILVER;
-        
-        StringBuilder sb = new StringBuilder();
-        
+
+        MutableComponent result = Component.empty();
+        boolean hasContent = false;
+
         if (gold > 0) {
-            sb.append(gold).append(" ")
-              .append(Component.translatable("currency.millenaire_rewrite.gold").getString());
+            result = result.append(Component.literal(String.valueOf(gold)))
+                           .append(Component.literal(" "))
+                           .append(Component.translatable("currency.millenaire_rewrite.gold"));
+            hasContent = true;
         }
-        
+
         if (silver > 0) {
-            if (sb.length() > 0) sb.append(" ");
-            sb.append(silver).append(" ")
-              .append(Component.translatable("currency.millenaire_rewrite.silver").getString());
+            if (hasContent) {
+                result = result.append(Component.literal(" "));
+            }
+            result = result.append(Component.literal(String.valueOf(silver)))
+                           .append(Component.literal(" "))
+                           .append(Component.translatable("currency.millenaire_rewrite.silver"));
+            hasContent = true;
         }
-        
+
         if (copperValue > 0) {
-            if (sb.length() > 0) sb.append(" ");
-            sb.append(copperValue).append(" ")
-              .append(Component.translatable("currency.millenaire_rewrite.copper").getString());
+            if (hasContent) {
+                result = result.append(Component.literal(" "));
+            }
+            result = result.append(Component.literal(String.valueOf(copperValue)))
+                           .append(Component.literal(" "))
+                           .append(Component.translatable("currency.millenaire_rewrite.copper"));
+            hasContent = true;
         }
-        
-        if (sb.length() == 0) {
-            return Component.translatable("currency.millenaire_rewrite.zero").getString();
+
+        if (!hasContent) {
+            return Component.translatable("currency.millenaire_rewrite.zero");
         }
-        
-        return sb.toString() + Component.translatable("currency.millenaire_rewrite.denier").getString();
+
+        return result.append(Component.translatable("currency.millenaire_rewrite.denier"));
+    }
+
+    /**
+     * 货币格式化显示（字符串版本）
+     */
+    public static String formatCurrencyString(int copperValue) {
+        return formatCurrency(copperValue).getString();
     }
 }

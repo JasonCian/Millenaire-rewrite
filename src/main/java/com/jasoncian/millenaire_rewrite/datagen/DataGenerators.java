@@ -41,9 +41,11 @@ public class DataGenerators {
             generator.addProvider(true, ModLootTableProvider.create(packOutput));
         }
 
-        // 注册语言文件数据生成器（可选，目前我们手动维护）
-        // generator.addProvider(event.includeClient(), new
-        // ModLanguageProvider(packOutput, "en_us"));
+        // 语言文件数据生成器 - 支持中文和英文
+        if (event.includeClient()) {
+            generator.addProvider(true, new ModLanguageProvider(packOutput, "en_us"));
+            generator.addProvider(true, new ModLanguageProvider(packOutput, "zh_cn"));
+        }
 
         // 注册配方数据生成器（当我们有配方时）
         // generator.addProvider(event.includeServer(), new

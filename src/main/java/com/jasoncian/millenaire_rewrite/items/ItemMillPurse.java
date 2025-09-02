@@ -82,28 +82,22 @@ public class ItemMillPurse extends Item {
         int silver = getSilverDeniers(purseStack);
         int gold = getGoldDeniers(purseStack);
         
-        player.sendSystemMessage(Component.literal("钱包内容: ")
-            .withStyle(ChatFormatting.YELLOW)
-            .append(Component.literal(gold + "金 ")
-                .withStyle(ChatFormatting.GOLD))
-            .append(Component.literal(silver + "银 ")
-                .withStyle(ChatFormatting.WHITE))
-            .append(Component.literal(copper + "铜")
-                .withStyle(ChatFormatting.YELLOW)));
+        player.sendSystemMessage(Component.translatable("item.millenaire_rewrite.purse.contents", gold, silver, copper)
+            .withStyle(ChatFormatting.YELLOW));
                 
         // 提示如何收集散币
         int looseCoins = countLooseCoinsInInventory(player);
         if (looseCoins > 0) {
-            player.sendSystemMessage(Component.literal("背包中有 " + looseCoins + " 个散币，")
+            player.sendSystemMessage(Component.translatable("item.millenaire_rewrite.purse.loose_coins", looseCoins)
                 .withStyle(ChatFormatting.GRAY)
-                .append(Component.literal("潜行右键收集到钱包")
+                .append(Component.translatable("item.millenaire_rewrite.purse.collect_hint")
                     .withStyle(ChatFormatting.GREEN)));
         }
         
         // 提示如何取出货币 - 暂时通过命令，后续可以改为GUI
         int totalInPurse = getCopperDeniers(purseStack) + getSilverDeniers(purseStack) + getGoldDeniers(purseStack);
         if (totalInPurse > 0) {
-            player.sendSystemMessage(Component.literal("双击快速取出所有货币")
+            player.sendSystemMessage(Component.translatable("item.millenaire_rewrite.purse.quick_withdraw")
                 .withStyle(ChatFormatting.GRAY));
         }
     }
@@ -155,19 +149,14 @@ public class ItemMillPurse extends Item {
             addGoldDeniers(purseStack, collectedGold);
             
             // 通知玩家
-            player.sendSystemMessage(Component.literal("收集到钱包: ")
-                .withStyle(ChatFormatting.GREEN)
-                .append(Component.literal(collectedGold + "金 ")
-                    .withStyle(ChatFormatting.GOLD))
-                .append(Component.literal(collectedSilver + "银 ")
-                    .withStyle(ChatFormatting.WHITE))
-                .append(Component.literal(collectedCopper + "铜")
-                    .withStyle(ChatFormatting.YELLOW)));
+            player.sendSystemMessage(Component.translatable("item.millenaire_rewrite.purse.collected", 
+                collectedGold, collectedSilver, collectedCopper)
+                .withStyle(ChatFormatting.GREEN));
                     
             // 显示新的钱包内容
             displayPurseContents(purseStack, player);
         } else {
-            player.sendSystemMessage(Component.literal("背包中没有散币可收集")
+            player.sendSystemMessage(Component.translatable("item.millenaire_rewrite.purse.no_loose_coins")
                 .withStyle(ChatFormatting.GRAY));
         }
     }
@@ -201,21 +190,21 @@ public class ItemMillPurse extends Item {
         int gold = getGoldDeniers(stack);
         
         // 显示货币数量
-        tooltip.add(Component.literal("货币存储:").withStyle(ChatFormatting.GRAY));
-        tooltip.add(Component.literal("  金德尼尔: " + gold).withStyle(ChatFormatting.GOLD));
-        tooltip.add(Component.literal("  银德尼尔: " + silver).withStyle(ChatFormatting.WHITE));
-        tooltip.add(Component.literal("  铜德尼尔: " + copper).withStyle(ChatFormatting.YELLOW));
+        tooltip.add(Component.translatable("item.millenaire_rewrite.purse.tooltip.storage").withStyle(ChatFormatting.GRAY));
+        tooltip.add(Component.translatable("item.millenaire_rewrite.purse.tooltip.gold", gold).withStyle(ChatFormatting.GOLD));
+        tooltip.add(Component.translatable("item.millenaire_rewrite.purse.tooltip.silver", silver).withStyle(ChatFormatting.WHITE));
+        tooltip.add(Component.translatable("item.millenaire_rewrite.purse.tooltip.copper", copper).withStyle(ChatFormatting.YELLOW));
         
         // 显示总价值（转换为铜德尼尔）
         int totalCopper = getTotalValueInCopper(stack);
         if (totalCopper > 0) {
-            tooltip.add(Component.literal("总价值: " + totalCopper + " 铜德尼尔")
+            tooltip.add(Component.translatable("item.millenaire_rewrite.purse.tooltip.total_value", totalCopper)
                 .withStyle(ChatFormatting.AQUA));
         }
         
-        tooltip.add(Component.literal("右键查看内容").withStyle(ChatFormatting.DARK_GRAY));
-        tooltip.add(Component.literal("潜行右键收集散币").withStyle(ChatFormatting.GREEN));
-        tooltip.add(Component.literal("双击取出所有货币").withStyle(ChatFormatting.GOLD));
+        tooltip.add(Component.translatable("item.millenaire_rewrite.purse.tooltip.right_click").withStyle(ChatFormatting.DARK_GRAY));
+        tooltip.add(Component.translatable("item.millenaire_rewrite.purse.tooltip.sneak_collect").withStyle(ChatFormatting.GREEN));
+        tooltip.add(Component.translatable("item.millenaire_rewrite.purse.tooltip.double_click").withStyle(ChatFormatting.GOLD));
     }
     
     // ================ 货币管理方法 ================
@@ -417,7 +406,7 @@ public class ItemMillPurse extends Item {
         int gold = getGoldDeniers(purseStack);
         
         if (copper == 0 && silver == 0 && gold == 0) {
-            player.sendSystemMessage(Component.literal("钱包是空的")
+            player.sendSystemMessage(Component.translatable("item.millenaire_rewrite.purse.empty")
                 .withStyle(ChatFormatting.GRAY));
             return;
         }
@@ -448,13 +437,8 @@ public class ItemMillPurse extends Item {
         }
         
         // 通知玩家
-        player.sendSystemMessage(Component.literal("从钱包取出: ")
-            .withStyle(ChatFormatting.GREEN)
-            .append(Component.literal(gold + "金 ")
-                .withStyle(ChatFormatting.GOLD))
-            .append(Component.literal(silver + "银 ")
-                .withStyle(ChatFormatting.WHITE))
-            .append(Component.literal(copper + "铜")
-                .withStyle(ChatFormatting.YELLOW)));
+        player.sendSystemMessage(Component.translatable("item.millenaire_rewrite.purse.withdrawn", 
+            gold, silver, copper)
+            .withStyle(ChatFormatting.GREEN));
     }
 }

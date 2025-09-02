@@ -41,23 +41,26 @@ public class ItemMillParchment extends Item {
     
     /** 羊皮纸类型枚举 */
     public enum ParchmentType {
-        VILLAGER("villager", "村民指南", ChatFormatting.GREEN),
-        BUILDING("building", "建筑指南", ChatFormatting.BLUE),
-        ITEM("item", "物品指南", ChatFormatting.YELLOW),
-        ALL("all", "完整指南", ChatFormatting.GOLD);
+        VILLAGER("villager", "item.millenaire_rewrite.parchment.type.villager", ChatFormatting.GREEN),
+        BUILDING("building", "item.millenaire_rewrite.parchment.type.building", ChatFormatting.BLUE),
+        ITEM("item", "item.millenaire_rewrite.parchment.type.item", ChatFormatting.YELLOW),
+        ALL("all", "item.millenaire_rewrite.parchment.type.all", ChatFormatting.GOLD);
         
         private final String name;
-        private final String displayName;
+        private final String translationKey;
         private final ChatFormatting color;
         
-        ParchmentType(String name, String displayName, ChatFormatting color) {
+        ParchmentType(String name, String translationKey, ChatFormatting color) {
             this.name = name;
-            this.displayName = displayName;
+            this.translationKey = translationKey;
             this.color = color;
         }
         
         public String getName() { return name; }
-        public String getDisplayName() { return displayName; }
+        public String getTranslationKey() { return translationKey; }
+        public String getDisplayName() { 
+            return Component.translatable(translationKey).getString(); 
+        }
         public ChatFormatting getColor() { return color; }
         
         public static ParchmentType fromName(String name) {
@@ -72,24 +75,27 @@ public class ItemMillParchment extends Item {
     
     /** 文化类型枚举 */
     public enum Culture {
-        NORMAN("norman", "诺曼", ChatFormatting.BLUE),
-        BYZANTINE("byzantine", "拜占庭", ChatFormatting.DARK_PURPLE),
-        HINDI("hindi", "印度", ChatFormatting.GOLD),
-        MAYAN("mayan", "玛雅", ChatFormatting.GREEN),
-        JAPANESE("japanese", "日本", ChatFormatting.RED);
+        NORMAN("norman", "item.millenaire_rewrite.parchment.culture.norman", ChatFormatting.BLUE),
+        BYZANTINE("byzantine", "item.millenaire_rewrite.parchment.culture.byzantine", ChatFormatting.DARK_PURPLE),
+        HINDI("hindi", "item.millenaire_rewrite.parchment.culture.hindi", ChatFormatting.GOLD),
+        MAYAN("mayan", "item.millenaire_rewrite.parchment.culture.mayan", ChatFormatting.GREEN),
+        JAPANESE("japanese", "item.millenaire_rewrite.parchment.culture.japanese", ChatFormatting.RED);
         
         private final String name;
-        private final String displayName;
+        private final String translationKey;
         private final ChatFormatting color;
         
-        Culture(String name, String displayName, ChatFormatting color) {
+        Culture(String name, String translationKey, ChatFormatting color) {
             this.name = name;
-            this.displayName = displayName;
+            this.translationKey = translationKey;
             this.color = color;
         }
         
         public String getName() { return name; }
-        public String getDisplayName() { return displayName; }
+        public String getTranslationKey() { return translationKey; }
+        public String getDisplayName() { 
+            return Component.translatable(translationKey).getString(); 
+        }
         public ChatFormatting getColor() { return color; }
         
         public static Culture fromName(String name) {

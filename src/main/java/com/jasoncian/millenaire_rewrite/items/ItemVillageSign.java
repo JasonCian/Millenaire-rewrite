@@ -92,20 +92,21 @@ public class ItemVillageSign extends Item {
             String villageName = getVillageName(itemStack);
             
             if (culture != null && villageType != null) {
-                player.sendSystemMessage(Component.literal("村庄标牌: ")
-                    .withStyle(ChatFormatting.YELLOW)
-                    .append(Component.literal(villageName.isEmpty() ? "未命名村庄" : villageName)
-                        .withStyle(culture.getColor()))
-                    .append(Component.literal(" (" + culture.getDisplayName() + " " + villageType.getDisplayName() + ")")
-                        .withStyle(ChatFormatting.GRAY)));
+                String displayName = villageName.isEmpty() ? 
+                    Component.translatable("item.millenaire_rewrite.village_sign.unnamed").getString() : 
+                    villageName;
+                
+                player.sendSystemMessage(Component.translatable("item.millenaire_rewrite.village_sign.established", 
+                        displayName, culture.getDisplayName(), villageType.getDisplayName())
+                    .withStyle(ChatFormatting.YELLOW));
                         
-                player.sendSystemMessage(Component.literal("右键地面可建立村庄")
+                player.sendSystemMessage(Component.translatable("item.millenaire_rewrite.village_sign.place_hint")
                     .withStyle(ChatFormatting.GREEN));
             } else {
                 // 空白标牌，可以设置
-                player.sendSystemMessage(Component.literal("空白村庄标牌")
+                player.sendSystemMessage(Component.translatable("item.millenaire_rewrite.village_sign.blank")
                     .withStyle(ChatFormatting.GRAY));
-                player.sendSystemMessage(Component.literal("需要先设置村庄类型和文化")
+                player.sendSystemMessage(Component.translatable("item.millenaire_rewrite.village_sign.configure_hint")
                     .withStyle(ChatFormatting.YELLOW));
             }
         }
@@ -125,27 +126,27 @@ public class ItemVillageSign extends Item {
         String villageName = getVillageName(stack);
         
         if (culture != null && villageType != null) {
-            tooltip.add(Component.literal("村庄信息:").withStyle(ChatFormatting.GRAY));
+            tooltip.add(Component.translatable("item.millenaire_rewrite.village_sign.info").withStyle(ChatFormatting.GRAY));
             
             if (!villageName.isEmpty()) {
-                tooltip.add(Component.literal("  名称: " + villageName)
+                tooltip.add(Component.translatable("item.millenaire_rewrite.village_sign.name", villageName)
                     .withStyle(culture.getColor()));
             }
             
-            tooltip.add(Component.literal("  文化: " + culture.getDisplayName())
+            tooltip.add(Component.translatable("item.millenaire_rewrite.village_sign.culture", culture.getDisplayName())
                 .withStyle(culture.getColor()));
-            tooltip.add(Component.literal("  类型: " + villageType.getDisplayName())
+            tooltip.add(Component.translatable("item.millenaire_rewrite.village_sign.type", villageType.getDisplayName())
                 .withStyle(ChatFormatting.WHITE));
             tooltip.add(Component.literal("  " + villageType.getDescription())
                 .withStyle(ChatFormatting.DARK_GRAY));
             
             tooltip.add(Component.empty());
-            tooltip.add(Component.literal("右键地面建立村庄")
+            tooltip.add(Component.translatable("item.millenaire_rewrite.village_sign.place_hint")
                 .withStyle(ChatFormatting.GREEN));
         } else {
-            tooltip.add(Component.literal("空白村庄标牌")
+            tooltip.add(Component.translatable("item.millenaire_rewrite.village_sign.blank")
                 .withStyle(ChatFormatting.GRAY));
-            tooltip.add(Component.literal("需要配置村庄信息")
+            tooltip.add(Component.translatable("item.millenaire_rewrite.village_sign.configure_hint")
                 .withStyle(ChatFormatting.YELLOW));
         }
     }

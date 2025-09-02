@@ -5,6 +5,7 @@ import com.jasoncian.millenaire_rewrite.items.ItemMillPurse;
 import net.minecraft.world.entity.player.Player;
 import net.minecraft.world.entity.player.Inventory;
 import net.minecraft.world.item.ItemStack;
+import net.minecraft.network.chat.Component;
 
 /**
  * 货币系统工具类
@@ -250,7 +251,9 @@ public class CurrencyUtils {
      * 货币格式化显示
      */
     public static String formatCurrency(int copperValue) {
-        if (copperValue <= 0) return "0 铜德尼尔";
+        if (copperValue <= 0) {
+            return Component.translatable("currency.millenaire_rewrite.zero").getString();
+        }
         
         int gold = copperValue / COPPER_PER_GOLD;
         copperValue %= COPPER_PER_GOLD;
@@ -261,23 +264,26 @@ public class CurrencyUtils {
         StringBuilder sb = new StringBuilder();
         
         if (gold > 0) {
-            sb.append(gold).append(" 金");
+            sb.append(gold).append(" ")
+              .append(Component.translatable("currency.millenaire_rewrite.gold").getString());
         }
         
         if (silver > 0) {
             if (sb.length() > 0) sb.append(" ");
-            sb.append(silver).append(" 银");
+            sb.append(silver).append(" ")
+              .append(Component.translatable("currency.millenaire_rewrite.silver").getString());
         }
         
         if (copperValue > 0) {
             if (sb.length() > 0) sb.append(" ");
-            sb.append(copperValue).append(" 铜");
+            sb.append(copperValue).append(" ")
+              .append(Component.translatable("currency.millenaire_rewrite.copper").getString());
         }
         
         if (sb.length() == 0) {
-            return "0 铜德尼尔";
+            return Component.translatable("currency.millenaire_rewrite.zero").getString();
         }
         
-        return sb.toString() + "德尼尔";
+        return sb.toString() + Component.translatable("currency.millenaire_rewrite.denier").getString();
     }
 }

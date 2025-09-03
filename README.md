@@ -18,7 +18,13 @@
 
 Originally created as one of Minecraft's most ambitious civilization mods, Millenaire adds living, breathing villages with unique cultures that grow and evolve over time. This rewrite preserves the core spirit while embracing modern modding standards.
 
-btw,I did not find the open source code library for 1.12. The reference code of the project is forked from https://github.com/MoonCutter2B/Millenaire seems to be version 1.8.
+~~btw,I did not find the open source code library for 1.12. The reference code of the project is forked from https://github.com/MoonCutter2B/Millenaire seems to be version 1.8.~~
+
+thanks https://github.com/Leviaria/Millenaire-Reborn, I found 1.12 version open source
+now I'll rewrite based 1.12
+
+
+
 
 ### ✨ Key Features
 
@@ -169,8 +175,10 @@ This project is licensed under the MIT License - see [LICENSE.txt](LICENSE.txt) 
 
 作为 Minecraft 最具雄心的文明类模组之一，千年村庄添加了具有独特文化的活跃村庄，这些村庄会随时间增长和演化。这次重制保留了核心精神，同时拥抱现代模组开发标准。
 
-提一嘴，我没有找到 1.12 的开源代码库，项目的参考代码 fork 自https://github.com/MoonCutter2B/Millenaire
-貌似是 1.8 版本
+~~提一嘴，我没有找到 1.12 的开源代码库，项目的参考代码 fork 自https://github.com/MoonCutter2B/Millenaire
+貌似是 1.8 版本~~
+谢谢这个写https://github.com/Leviaria/Millenaire-Reborn的哥们儿，我在他代码里找到1.12的源码
+之后我会基于1.12去重做这个mod了
 
 ### ✨ 核心特性
 
@@ -316,4 +324,4 @@ cd millenaire-rewrite
 
 ---
 
-_Last updated: September 2, 2025 | 最后更新：2025 年 9 月 2 日_
+_Last updated: September 4, 2025 | 最后更新：2025 年 9 月 4 日_

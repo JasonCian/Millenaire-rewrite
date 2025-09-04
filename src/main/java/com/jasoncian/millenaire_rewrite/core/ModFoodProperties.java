@@ -143,6 +143,15 @@ public class ModFoodProperties {
         .effect(() -> new MobEffectInstance(MobEffects.HEAL, 1, 0), 1.0f) // 100% chance for instant healing
         .build();
 
+    /** Olives - Mediterranean olives, provides small nutrition and slow health regeneration */
+    public static final FoodProperties OLIVES = new FoodProperties.Builder()
+        .nutrition(2)           // Small snack food
+        .saturationMod(0.2f)    // Low saturation
+        .effect(() -> new MobEffectInstance(MobEffects.REGENERATION, 60, 0), 0.5f) // 50% chance for brief regeneration
+        .alwaysEat()            // Can always be eaten like berries
+        .fast()                 // Quick eating animation
+        .build();
+
     // ================ Japanese Seafood ================
     
     /** Ikayaki - Japanese specialty food, provides water breathing */
@@ -150,6 +159,124 @@ public class ModFoodProperties {
         .nutrition(10)
         .saturationMod(1.0f)
         .effect(() -> new MobEffectInstance(MobEffects.WATER_BREATHING, 480, 2), 1.0f) // 100% chance for water breathing III
+        .build();
+
+    // ================ Inuit Foods ================
+    
+    /** Bear Meat Raw - Raw bear meat, high nutrition but can cause hunger */
+    public static final FoodProperties BEAR_MEAT_RAW = new FoodProperties.Builder()
+        .nutrition(3)
+        .saturationMod(0.3f)
+        .effect(() -> new MobEffectInstance(MobEffects.HUNGER, 600, 0), 0.3f) // 30% chance for hunger
+        .meat()
+        .build();
+
+    /** Bear Meat Cooked - Cooked bear meat, excellent nutrition and cold resistance */
+    public static final FoodProperties BEAR_MEAT_COOKED = new FoodProperties.Builder()
+        .nutrition(12)          // Very high nutrition
+        .saturationMod(1.2f)    // Excellent saturation
+        .effect(() -> new MobEffectInstance(MobEffects.DAMAGE_RESISTANCE, 600, 0), 1.0f) // Cold resistance effect
+        .meat()
+        .build();
+
+    /** Wolf Meat Raw - Raw wolf meat */
+    public static final FoodProperties WOLF_MEAT_RAW = new FoodProperties.Builder()
+        .nutrition(2)
+        .saturationMod(0.2f)
+        .effect(() -> new MobEffectInstance(MobEffects.HUNGER, 400, 0), 0.4f) // 40% chance for hunger
+        .meat()
+        .build();
+
+    /** Wolf Meat Cooked - Cooked wolf meat, provides pack hunter benefits */
+    public static final FoodProperties WOLF_MEAT_COOKED = new FoodProperties.Builder()
+        .nutrition(8)
+        .saturationMod(0.8f)
+        .effect(() -> new MobEffectInstance(MobEffects.MOVEMENT_SPEED, 400, 0), 1.0f) // Speed boost
+        .meat()
+        .build();
+
+    /** Seafood Raw - Raw arctic seafood */
+    public static final FoodProperties SEAFOOD_RAW = new FoodProperties.Builder()
+        .nutrition(2)
+        .saturationMod(0.1f)
+        .effect(() -> new MobEffectInstance(MobEffects.HUNGER, 200, 0), 0.3f) // 30% chance for hunger
+        .build();
+
+    /** Seafood Cooked - Cooked arctic seafood, provides water breathing */
+    public static final FoodProperties SEAFOOD_COOKED = new FoodProperties.Builder()
+        .nutrition(6)
+        .saturationMod(0.6f)
+        .effect(() -> new MobEffectInstance(MobEffects.WATER_BREATHING, 300, 0), 1.0f) // Water breathing
+        .build();
+
+    /** Inuit Bear Stew - Hearty stew providing warmth and strength */
+    public static final FoodProperties INUIT_BEAR_STEW = new FoodProperties.Builder()
+        .nutrition(14)          // Excellent nutrition
+        .saturationMod(1.4f)    // Excellent saturation
+        .effect(() -> new MobEffectInstance(MobEffects.DAMAGE_RESISTANCE, 1200, 1), 1.0f) // Resistance II
+        .effect(() -> new MobEffectInstance(MobEffects.DAMAGE_BOOST, 800, 0), 1.0f) // Strength
+        .build();
+
+    /** Inuit Meaty Stew - Mixed meat stew for survival */
+    public static final FoodProperties INUIT_MEATY_STEW = new FoodProperties.Builder()
+        .nutrition(12)
+        .saturationMod(1.0f)
+        .effect(() -> new MobEffectInstance(MobEffects.SATURATION, 200, 1), 1.0f) // Saturation II
+        .build();
+
+    /** Inuit Potato Stew - Vegetable-based survival food */
+    public static final FoodProperties INUIT_POTATO_STEW = new FoodProperties.Builder()
+        .nutrition(8)
+        .saturationMod(0.8f)
+        .effect(() -> new MobEffectInstance(MobEffects.HEALTH_BOOST, 600, 0), 1.0f) // Health boost
+        .build();
+
+    // ================ Seljuk Foods ================
+    
+    /** Pide - Turkish flatbread, provides good saturation */
+    public static final FoodProperties PIDE = new FoodProperties.Builder()
+        .nutrition(6)
+        .saturationMod(0.8f)
+        .build();
+
+    /** Helva - Turkish confection, provides speed boost */
+    public static final FoodProperties HELVA = new FoodProperties.Builder()
+        .nutrition(4)
+        .saturationMod(0.3f)
+        .effect(() -> new MobEffectInstance(MobEffects.MOVEMENT_SPEED, 300, 0), 1.0f) // Speed boost
+        .alwaysEat()
+        .build();
+
+    /** Lokum - Turkish delight, provides jump boost */
+    public static final FoodProperties LOKUM = new FoodProperties.Builder()
+        .nutrition(3)
+        .saturationMod(0.2f)
+        .effect(() -> new MobEffectInstance(MobEffects.JUMP, 400, 1), 1.0f) // Jump boost II
+        .alwaysEat()
+        .fast()
+        .build();
+
+    /** Ayran - Traditional yogurt drink, provides healing */
+    public static final FoodProperties AYRAN = new FoodProperties.Builder()
+        .nutrition(2)
+        .saturationMod(0.4f)
+        .effect(() -> new MobEffectInstance(MobEffects.REGENERATION, 100, 0), 1.0f) // Regeneration
+        .alwaysEat()
+        .build();
+
+    /** Yogurt - Fermented dairy, provides health boost */
+    public static final FoodProperties YOGURT = new FoodProperties.Builder()
+        .nutrition(3)
+        .saturationMod(0.3f)
+        .effect(() -> new MobEffectInstance(MobEffects.HEALTH_BOOST, 200, 0), 0.7f) // Health boost
+        .build();
+
+    /** Pistachios - Nutritious nuts, provides experience */
+    public static final FoodProperties PISTACHIOS = new FoodProperties.Builder()
+        .nutrition(2)
+        .saturationMod(0.1f)
+        .alwaysEat()
+        .fast()
         .build();
 
     // ================ Builder Pattern Helper Methods ================

@@ -156,6 +156,7 @@ public class ModItems {
         () -> new Item(new Item.Properties().food(ModFoodProperties.WAH))
     );
 
+
     // ================ Japanese Foods ================
     
     /** Sake - Japanese specialty drink, provides jump effect */
@@ -205,6 +206,59 @@ public class ModItems {
     /** Village Sign - Village construction sign */
     public static final RegistryObject<Item> VILLAGE_SIGN = ITEMS.register("village_sign", 
         () -> new ItemVillageSign(new Item.Properties().stacksTo(16))
+    );
+
+
+
+    // ================ Decorative Items ================
+    
+    /** Tapestry - Norman decorative wall hanging */
+    public static final RegistryObject<Item> TAPESTRY = ITEMS.register("tapestry",
+        () -> new Item(new Item.Properties())
+    );
+    
+    /** Indian Statue - Decorative statue from Indian culture */
+    public static final RegistryObject<Item> INDIAN_STATUE = ITEMS.register("indian_statue",
+        () -> new Item(new Item.Properties())
+    );
+    
+    /** Mayan Statue - Decorative statue from Mayan culture */
+    public static final RegistryObject<Item> MAYAN_STATUE = ITEMS.register("mayan_statue",
+        () -> new Item(new Item.Properties())
+    );
+    
+    /** Byzantine Icon Small - Small religious icon from Byzantine culture */
+    public static final RegistryObject<Item> BYZANTINE_ICON_SMALL = ITEMS.register("byzantine_icon_small",
+        () -> new Item(new Item.Properties())
+    );
+    
+    /** Byzantine Icon Medium - Medium religious icon from Byzantine culture */
+    public static final RegistryObject<Item> BYZANTINE_ICON_MEDIUM = ITEMS.register("byzantine_icon_medium",
+        () -> new Item(new Item.Properties())
+    );
+    
+    /** Byzantine Icon Large - Large religious icon from Byzantine culture */
+    public static final RegistryObject<Item> BYZANTINE_ICON_LARGE = ITEMS.register("byzantine_icon_large",
+        () -> new Item(new Item.Properties())
+    );
+
+    // ================ Special Tools & Materials ================
+    
+    /** Brick Mould - Tool for making bricks in Indian culture */
+    public static final RegistryObject<Item> BRICK_MOULD = ITEMS.register("brick_mould",
+        () -> new Item(new Item.Properties())
+    );
+
+    // ================ Byzantine Foods (Missing Items) ================
+    
+    /** Olives - Mediterranean olives used in Byzantine cuisine */
+    public static final RegistryObject<Item> OLIVES = ITEMS.register("olives",
+        () -> new Item(new Item.Properties().food(ModFoodProperties.OLIVES))
+    );
+    
+    /** Olive Oil - Premium cooking oil from olives */
+    public static final RegistryObject<Item> OLIVE_OIL = ITEMS.register("olive_oil",
+        () -> new Item(new Item.Properties())
     );
 
     // ================ Norman Tools & Weapons ================
@@ -388,6 +442,209 @@ public class ModItems {
     /** Japanese Red Boots - Master red samurai boots */
     public static final RegistryObject<Item> JAPANESE_RED_BOOTS = ITEMS.register("japanese_red_boots",
         () -> new ArmorItem(ModArmorMaterials.JAPANESE_RED, ArmorItem.Type.BOOTS, new Item.Properties())
+    );
+
+    // ================ Inuit Civilization ================
+    
+    /** Inuit Trident - Traditional fishing and hunting spear */
+    public static final RegistryObject<Item> INUIT_TRIDENT = ITEMS.register("inuit_trident",
+        () -> new SwordItem(ModToolMaterials.INUIT, 5, -2.8F, new Item.Properties())
+    );
+    
+    /** Inuit Bow - Traditional bone and sinew composite bow */
+    public static final RegistryObject<Item> INUIT_BOW = ITEMS.register("inuit_bow",
+        () -> new BowItem(new Item.Properties().durability(384))
+    );
+    
+    /** Ulu - Traditional Inuit women's knife for processing hides and food */
+    public static final RegistryObject<Item> ULU = ITEMS.register("ulu",
+        () -> new SwordItem(ModToolMaterials.INUIT, 2, -1.0F, new Item.Properties())
+    );
+
+    // ================ Inuit Fur Armor ================
+    
+    /** Fur Helmet - Warm winter headgear */
+    public static final RegistryObject<Item> FUR_HELMET = ITEMS.register("fur_helmet",
+        () -> new ArmorItem(ModArmorMaterials.FUR, ArmorItem.Type.HELMET, new Item.Properties())
+    );
+    
+    /** Fur Chestplate - Warm winter chest protection */
+    public static final RegistryObject<Item> FUR_CHESTPLATE = ITEMS.register("fur_chestplate",
+        () -> new ArmorItem(ModArmorMaterials.FUR, ArmorItem.Type.CHESTPLATE, new Item.Properties())
+    );
+    
+    /** Fur Leggings - Warm winter leg protection */
+    public static final RegistryObject<Item> FUR_LEGGINGS = ITEMS.register("fur_leggings",
+        () -> new ArmorItem(ModArmorMaterials.FUR, ArmorItem.Type.LEGGINGS, new Item.Properties())
+    );
+    
+    /** Fur Boots - Warm winter foot protection */
+    public static final RegistryObject<Item> FUR_BOOTS = ITEMS.register("fur_boots",
+        () -> new ArmorItem(ModArmorMaterials.FUR, ArmorItem.Type.BOOTS, new Item.Properties())
+    );
+
+    // ================ Inuit Foods ================
+    
+    /** Bear Meat Raw - Raw bear meat for cooking */
+    public static final RegistryObject<Item> BEAR_MEAT_RAW = ITEMS.register("bear_meat_raw",
+        () -> new Item(new Item.Properties().food(ModFoodProperties.BEAR_MEAT_RAW))
+    );
+    
+    /** Bear Meat Cooked - Cooked bear meat, provides cold resistance */
+    public static final RegistryObject<Item> BEAR_MEAT_COOKED = ITEMS.register("bear_meat_cooked",
+        () -> new Item(new Item.Properties().food(ModFoodProperties.BEAR_MEAT_COOKED))
+    );
+    
+    /** Wolf Meat Raw - Raw wolf meat for cooking */
+    public static final RegistryObject<Item> WOLF_MEAT_RAW = ITEMS.register("wolf_meat_raw",
+        () -> new Item(new Item.Properties().food(ModFoodProperties.WOLF_MEAT_RAW))
+    );
+    
+    /** Wolf Meat Cooked - Cooked wolf meat, provides speed boost */
+    public static final RegistryObject<Item> WOLF_MEAT_COOKED = ITEMS.register("wolf_meat_cooked",
+        () -> new Item(new Item.Properties().food(ModFoodProperties.WOLF_MEAT_COOKED))
+    );
+    
+    /** Seafood Raw - Raw arctic seafood */
+    public static final RegistryObject<Item> SEAFOOD_RAW = ITEMS.register("seafood_raw",
+        () -> new Item(new Item.Properties().food(ModFoodProperties.SEAFOOD_RAW))
+    );
+    
+    /** Seafood Cooked - Cooked arctic seafood */
+    public static final RegistryObject<Item> SEAFOOD_COOKED = ITEMS.register("seafood_cooked",
+        () -> new Item(new Item.Properties().food(ModFoodProperties.SEAFOOD_COOKED))
+    );
+    
+    /** Inuit Bear Stew - Hearty survival stew */
+    public static final RegistryObject<Item> INUIT_BEAR_STEW = ITEMS.register("inuit_bear_stew",
+        () -> new Item(new Item.Properties().food(ModFoodProperties.INUIT_BEAR_STEW))
+    );
+    
+    /** Inuit Meaty Stew - Mixed meat survival stew */
+    public static final RegistryObject<Item> INUIT_MEATY_STEW = ITEMS.register("inuit_meaty_stew",
+        () -> new Item(new Item.Properties().food(ModFoodProperties.INUIT_MEATY_STEW))
+    );
+    
+    /** Inuit Potato Stew - Vegetable-based survival stew */
+    public static final RegistryObject<Item> INUIT_POTATO_STEW = ITEMS.register("inuit_potato_stew",
+        () -> new Item(new Item.Properties().food(ModFoodProperties.INUIT_POTATO_STEW))
+    );
+
+    // ================ Inuit Materials ================
+    
+    /** Tanned Hide - Processed hide for crafting */
+    public static final RegistryObject<Item> TANNED_HIDE = ITEMS.register("tanned_hide",
+        () -> new Item(new Item.Properties())
+    );
+    
+    /** Hide Hanging - Decorative hide wall hanging */
+    public static final RegistryObject<Item> HIDE_HANGING = ITEMS.register("hide_hanging",
+        () -> new Item(new Item.Properties())
+    );
+
+    // ================ Seljuk Civilization ================
+    
+    /** Seljuk Scimitar - Curved steel sword of the Seljuk Turks */
+    public static final RegistryObject<Item> SELJUK_SCIMITAR = ITEMS.register("seljuk_scimitar",
+        () -> new SwordItem(ModToolMaterials.SELJUK, 4, -2.2F, new Item.Properties())
+    );
+    
+    /** Seljuk Bow - Composite recurved bow */
+    public static final RegistryObject<Item> SELJUK_BOW = ITEMS.register("seljuk_bow",
+        () -> new BowItem(new Item.Properties().durability(450))
+    );
+
+    // ================ Seljuk Armor ================
+    
+    /** Seljuk Turban - Traditional headwear */
+    public static final RegistryObject<Item> SELJUK_TURBAN = ITEMS.register("seljuk_turban",
+        () -> new ArmorItem(ModArmorMaterials.SELJUK_WOOL, ArmorItem.Type.HELMET, new Item.Properties())
+    );
+    
+    /** Seljuk Helmet - Steel helmet with Islamic design */
+    public static final RegistryObject<Item> SELJUK_HELMET = ITEMS.register("seljuk_helmet",
+        () -> new ArmorItem(ModArmorMaterials.SELJUK, ArmorItem.Type.HELMET, new Item.Properties())
+    );
+    
+    /** Seljuk Chestplate - Lamellar steel armor */
+    public static final RegistryObject<Item> SELJUK_CHESTPLATE = ITEMS.register("seljuk_chestplate",
+        () -> new ArmorItem(ModArmorMaterials.SELJUK, ArmorItem.Type.CHESTPLATE, new Item.Properties())
+    );
+    
+    /** Seljuk Leggings - Steel leg protection */
+    public static final RegistryObject<Item> SELJUK_LEGGINGS = ITEMS.register("seljuk_leggings",
+        () -> new ArmorItem(ModArmorMaterials.SELJUK, ArmorItem.Type.LEGGINGS, new Item.Properties())
+    );
+    
+    /** Seljuk Boots - Steel foot protection */
+    public static final RegistryObject<Item> SELJUK_BOOTS = ITEMS.register("seljuk_boots",
+        () -> new ArmorItem(ModArmorMaterials.SELJUK, ArmorItem.Type.BOOTS, new Item.Properties())
+    );
+
+    // ================ Seljuk Foods ================
+    
+    /** Pide - Turkish flatbread */
+    public static final RegistryObject<Item> PIDE = ITEMS.register("pide",
+        () -> new Item(new Item.Properties().food(ModFoodProperties.PIDE))
+    );
+    
+    /** Helva - Turkish sweet confection */
+    public static final RegistryObject<Item> HELVA = ITEMS.register("helva",
+        () -> new Item(new Item.Properties().food(ModFoodProperties.HELVA))
+    );
+    
+    /** Lokum - Turkish delight candy */
+    public static final RegistryObject<Item> LOKUM = ITEMS.register("lokum",
+        () -> new Item(new Item.Properties().food(ModFoodProperties.LOKUM))
+    );
+    
+    /** Ayran - Traditional yogurt drink */
+    public static final RegistryObject<Item> AYRAN = ITEMS.register("ayran",
+        () -> new Item(new Item.Properties().food(ModFoodProperties.AYRAN))
+    );
+    
+    /** Yogurt - Fermented dairy product */
+    public static final RegistryObject<Item> YOGURT = ITEMS.register("yogurt",
+        () -> new Item(new Item.Properties().food(ModFoodProperties.YOGURT))
+    );
+    
+    /** Pistachios - Nuts from pistachio trees */
+    public static final RegistryObject<Item> PISTACHIOS = ITEMS.register("pistachios",
+        () -> new Item(new Item.Properties().food(ModFoodProperties.PISTACHIOS))
+    );
+
+    // ================ Seljuk Materials & Crops ================
+    
+    /** Cotton - Textile crop from Seljuk regions */
+    public static final RegistryObject<Item> COTTON = ITEMS.register("cotton",
+        () -> new Item(new Item.Properties())
+    );
+    
+    /** Seljuk Wool Clothes - Traditional wool garments */
+    public static final RegistryObject<Item> SELJUK_WOOL_CLOTHES = ITEMS.register("seljuk_wool_clothes",
+        () -> new Item(new Item.Properties())
+    );
+    
+    /** Seljuk Cotton Clothes - Luxury cotton garments */
+    public static final RegistryObject<Item> SELJUK_COTTON_CLOTHES = ITEMS.register("seljuk_cotton_clothes",
+        () -> new Item(new Item.Properties())
+    );
+
+    // ================ Seljuk Decorative Items ================
+    
+    /** Wall Carpet Small - Small decorative carpet */
+    public static final RegistryObject<Item> WALL_CARPET_SMALL = ITEMS.register("wall_carpet_small",
+        () -> new Item(new Item.Properties())
+    );
+    
+    /** Wall Carpet Medium - Medium decorative carpet */
+    public static final RegistryObject<Item> WALL_CARPET_MEDIUM = ITEMS.register("wall_carpet_medium",
+        () -> new Item(new Item.Properties())
+    );
+    
+    /** Wall Carpet Large - Large decorative carpet */
+    public static final RegistryObject<Item> WALL_CARPET_LARGE = ITEMS.register("wall_carpet_large",
+        () -> new Item(new Item.Properties())
     );
 
     // ================ Special Armor ================

@@ -10,6 +10,13 @@ import net.minecraftforge.client.model.generators.ItemModelProvider;
 import net.minecraftforge.common.data.ExistingFileHelper;
 import net.minecraftforge.registries.RegistryObject;
 
+import java.io.IOException;
+import java.nio.charset.StandardCharsets;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.util.concurrent.CompletableFuture;
+import net.minecraft.data.CachedOutput;
+
 /**
  * 物品模型数据生成器
  * 
@@ -25,6 +32,40 @@ public class ModItemModelProvider extends ItemModelProvider {
     @Override
     public String getName() {
         return "Regular Item Models: " + MillenaireRewrite.MOD_ID;
+    }
+
+    @Override
+    public CompletableFuture<?> run(CachedOutput cache) {
+        return super.run(cache).thenRun(() -> {
+            try {
+                fixBowModelPredicates();
+            } catch (IOException e) {
+                throw new RuntimeException("Failed to fix bow model predicates", e);
+            }
+        });
+    }
+
+    private void fixBowModelPredicates() throws IOException {
+        // 修复生成的弓模型文件中的predicate格式
+        String[] bowItems = {"inuit_bow", "seljuk_bow", "japanese_bow"};
+        
+        for (String bowItem : bowItems) {
+            Path modelFile = output.getOutputFolder()
+                    .resolve("assets")
+                    .resolve(MillenaireRewrite.MOD_ID)
+                    .resolve("models")
+                    .resolve("item")
+                    .resolve(bowItem + ".json");
+            
+            if (Files.exists(modelFile)) {
+                String content = Files.readString(modelFile, StandardCharsets.UTF_8);
+                // 替换 "minecraft:pulling" 为 "pulling"
+                content = content.replace("\"minecraft:pulling\"", "\"pulling\"");
+                // 替换 "minecraft:pull" 为 "pull"
+                content = content.replace("\"minecraft:pull\"", "\"pull\"");
+                Files.writeString(modelFile, content, StandardCharsets.UTF_8);
+            }
+        }
     }
 
     @Override
@@ -142,11 +183,81 @@ public class ModItemModelProvider extends ItemModelProvider {
         handheldItem(ModItems.WAND_CREATIVE);
         handheldItem(ModItems.TUNING_FORK);
 
-        // ================ Magic Items - Amulets ================
-        layeredItem(ModItems.AMULET_ALCHEMIST); // 使用双层纹理系统
-        layeredItem(ModItems.AMULET_VISHNU); // 使用双层纹理系统
-        layeredItem(ModItems.AMULET_YGGDRASIL); // 使用双层纹理系统
-        simpleItem(ModItems.AMULET_SKOLL_HATI); // 功能性物品，不需要overlay
+        // ================ Magic Amulets ================
+        simpleItem(ModItems.AMULET_SKOLL_HATI);  // 没有overlay纹理，使用simple
+        layeredItem(ModItems.AMULET_ALCHEMIST);
+        layeredItem(ModItems.AMULET_VISHNU);
+        layeredItem(ModItems.AMULET_YGGDRASIL);
+
+        // ================ Decorative Items ================
+        simpleItem(ModItems.TAPESTRY);
+        simpleItem(ModItems.INDIAN_STATUE);
+        simpleItem(ModItems.MAYAN_STATUE);
+        simpleItem(ModItems.BYZANTINE_ICON_SMALL);
+        simpleItem(ModItems.BYZANTINE_ICON_MEDIUM);
+        simpleItem(ModItems.BYZANTINE_ICON_LARGE);
+
+        // ================ 特殊工具和材料 ================
+        simpleItem(ModItems.BRICK_MOULD);
+        simpleItem(ModItems.OLIVES);
+        simpleItem(ModItems.OLIVE_OIL);
+
+        // ================ 因纽特文明 ================
+        // 因纽特武器
+        handheldItem(ModItems.INUIT_TRIDENT);
+        bowItem(ModItems.INUIT_BOW);
+        handheldItem(ModItems.ULU);
+
+        // 因纽特盔甲
+        simpleItem(ModItems.FUR_HELMET);
+        simpleItem(ModItems.FUR_CHESTPLATE);
+        simpleItem(ModItems.FUR_LEGGINGS);
+        simpleItem(ModItems.FUR_BOOTS);
+
+        // 因纽特食物
+        simpleItem(ModItems.BEAR_MEAT_RAW);
+        simpleItem(ModItems.BEAR_MEAT_COOKED);
+        simpleItem(ModItems.WOLF_MEAT_RAW);
+        simpleItem(ModItems.WOLF_MEAT_COOKED);
+        simpleItem(ModItems.SEAFOOD_RAW);
+        simpleItem(ModItems.SEAFOOD_COOKED);
+        simpleItem(ModItems.INUIT_BEAR_STEW);
+        simpleItem(ModItems.INUIT_MEATY_STEW);
+        simpleItem(ModItems.INUIT_POTATO_STEW);
+
+        // 因纽特材料
+        simpleItem(ModItems.TANNED_HIDE);
+        simpleItem(ModItems.HIDE_HANGING);
+
+        // ================ 塞尔柱文明 ================
+        // 塞尔柱武器
+        handheldItem(ModItems.SELJUK_SCIMITAR);
+        bowItem(ModItems.SELJUK_BOW);
+
+        // 塞尔柱盔甲
+        simpleItem(ModItems.SELJUK_TURBAN);
+        simpleItem(ModItems.SELJUK_HELMET);
+        simpleItem(ModItems.SELJUK_CHESTPLATE);
+        simpleItem(ModItems.SELJUK_LEGGINGS);
+        simpleItem(ModItems.SELJUK_BOOTS);
+
+        // 塞尔柱食物
+        simpleItem(ModItems.PIDE);
+        simpleItem(ModItems.HELVA);
+        simpleItem(ModItems.LOKUM);
+        simpleItem(ModItems.AYRAN);
+        simpleItem(ModItems.YOGURT);
+        simpleItem(ModItems.PISTACHIOS);
+
+        // 塞尔柱材料和作物
+        simpleItem(ModItems.COTTON);
+        simpleItem(ModItems.SELJUK_WOOL_CLOTHES);
+        simpleItem(ModItems.SELJUK_COTTON_CLOTHES);
+
+        // 塞尔柱装饰品
+        simpleItem(ModItems.WALL_CARPET_SMALL);
+        simpleItem(ModItems.WALL_CARPET_MEDIUM);
+        simpleItem(ModItems.WALL_CARPET_LARGE);
 
         // ================ Parchments/Scrolls ================
         // Norman Parchments - 使用对应类型的材质
@@ -209,33 +320,33 @@ public class ModItemModelProvider extends ItemModelProvider {
      */
     private ItemModelBuilder bowItem(RegistryObject<Item> item) {
         String itemName = item.getId().getPath();
-        
+
         // 先显式创建并保存拉弓状态的子模型
         withExistingParent(itemName + "_pulling_0", mcLoc("item/bow"))
                 .texture("layer0", modLoc("item/" + itemName + "_pulling_0"));
-        
+
         withExistingParent(itemName + "_pulling_1", mcLoc("item/bow"))
                 .texture("layer0", modLoc("item/" + itemName + "_pulling_1"));
-        
+
         withExistingParent(itemName + "_pulling_2", mcLoc("item/bow"))
                 .texture("layer0", modLoc("item/" + itemName + "_pulling_2"));
-        
+
         // 创建基础弓模型并添加拉弓状态的overrides
         return withExistingParent(itemName, mcLoc("item/bow"))
                 .texture("layer0", modLoc("item/" + itemName))
                 .override()
-                    .predicate(mcLoc("pulling"), 1.0f)
-                    .model(getExistingFile(modLoc("item/" + itemName + "_pulling_0")))
+                .predicate(ResourceLocation.withDefaultNamespace("pulling"), 1.0f)
+                .model(getExistingFile(modLoc("item/" + itemName + "_pulling_0")))
                 .end()
                 .override()
-                    .predicate(mcLoc("pulling"), 1.0f)
-                    .predicate(mcLoc("pull"), 0.65f)
-                    .model(getExistingFile(modLoc("item/" + itemName + "_pulling_1")))
+                .predicate(ResourceLocation.withDefaultNamespace("pulling"), 1.0f)
+                .predicate(ResourceLocation.withDefaultNamespace("pull"), 0.65f)
+                .model(getExistingFile(modLoc("item/" + itemName + "_pulling_1")))
                 .end()
                 .override()
-                    .predicate(mcLoc("pulling"), 1.0f)
-                    .predicate(mcLoc("pull"), 0.9f)
-                    .model(getExistingFile(modLoc("item/" + itemName + "_pulling_2")))
+                .predicate(ResourceLocation.withDefaultNamespace("pulling"), 1.0f)
+                .predicate(ResourceLocation.withDefaultNamespace("pull"), 0.9f)
+                .model(getExistingFile(modLoc("item/" + itemName + "_pulling_2")))
                 .end();
     }
 

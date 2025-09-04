@@ -1,8 +1,9 @@
 package com.jasoncian.millenaire_rewrite.datagen;
 
 import com.jasoncian.millenaire_rewrite.MillenaireRewrite;
-import com.jasoncian.millenaire_rewrite.core.ModItems;
 import com.jasoncian.millenaire_rewrite.core.ModBlocks;
+import com.jasoncian.millenaire_rewrite.core.ModItems;
+
 import net.minecraft.data.PackOutput;
 import net.minecraftforge.common.data.LanguageProvider;
 
@@ -145,12 +146,6 @@ public class ModLanguageProvider extends LanguageProvider {
         add(ModItems.WAND_CREATIVE.get(), "Creative Wand");
         add(ModItems.TUNING_FORK.get(), "Tuning Fork");
 
-        // ================ Magic Items - Amulets ================
-        add(ModItems.AMULET_SKOLL_HATI.get(), "Skoll and Hati Amulet");
-        add(ModItems.AMULET_ALCHEMIST.get(), "Alchemist Amulet");
-        add(ModItems.AMULET_VISHNU.get(), "Vishnu Amulet");
-        add(ModItems.AMULET_YGGDRASIL.get(), "Yggdrasil Amulet");
-
         // ================ Parchments ================
         // Norman Parchments
         add(ModItems.PARCHMENT_NORMAN_VILLAGER.get(), "Norman Villager Parchment");
@@ -241,12 +236,14 @@ public class ModLanguageProvider extends LanguageProvider {
 
         // Debug wand messages
         add("debug.millenaire_rewrite.wand.position", "Position: %d, %d, %d");
-        add("debug.millenaire_rewrite.wand.creative.help", "Creative Wand - Right-click to manage crop permissions and chest locks");
+        add("debug.millenaire_rewrite.wand.creative.help",
+                "Creative Wand - Right-click to manage crop permissions and chest locks");
         add("debug.millenaire_rewrite.wand.block_info", "Block: %s at %d, %d, %d");
         add("debug.millenaire_rewrite.wand.summoning.use", "Summoning Wand activated at %d, %d, %d");
         add("debug.millenaire_rewrite.wand.negation.use", "Negation Wand activated at %d, %d, %d");
         add("debug.millenaire_rewrite.wand.creative.use", "Creative Wand activated at %d, %d, %d");
-        add("debug.millenaire_rewrite.wand.tuning_fork.help", "Tuning Fork - Right-click blocks to inspect their properties");
+        add("debug.millenaire_rewrite.wand.tuning_fork.help",
+                "Tuning Fork - Right-click blocks to inspect their properties");
         add("debug.millenaire_rewrite.wand.summoning.help", "Summoning Wand - Import and place building templates");
         add("debug.millenaire_rewrite.wand.negation.help", "Negation Wand - Export building areas to templates");
 
@@ -261,6 +258,66 @@ public class ModLanguageProvider extends LanguageProvider {
         add("item.millenaire_rewrite.parchment.type.building", "Building Guide");
         add("item.millenaire_rewrite.parchment.type.item", "Item Guide");
         add("item.millenaire_rewrite.parchment.type.all", "Complete Guide");
+
+        // ================ Magic Amulets ================
+        add(ModItems.AMULET_VISHNU.get(), "Vishnu Amulet");
+        add(ModItems.AMULET_ALCHEMIST.get(), "Alchemist Amulet");
+        add(ModItems.AMULET_YGGDRASIL.get(), "Yggdrasil Amulet");
+        add(ModItems.AMULET_SKOLL_HATI.get(), "Skoll Hati Amulet");
+
+        // ================ Decorative Items ================
+        add(ModItems.TAPESTRY.get(), "Tapestry");
+        add(ModItems.INDIAN_STATUE.get(), "Indian Statue");
+        add(ModItems.MAYAN_STATUE.get(), "Mayan Statue");
+        add(ModItems.BYZANTINE_ICON_SMALL.get(), "Small Byzantine Icon");
+        add(ModItems.BYZANTINE_ICON_MEDIUM.get(), "Medium Byzantine Icon");
+        add(ModItems.BYZANTINE_ICON_LARGE.get(), "Large Byzantine Icon");
+
+        // ================ Special Tools & Materials ================
+        add(ModItems.BRICK_MOULD.get(), "Brick Mould");
+        add(ModItems.OLIVES.get(), "Olives");
+        add(ModItems.OLIVE_OIL.get(), "Olive Oil");
+
+        // ================ Inuit Civilization ================
+        add(ModItems.INUIT_TRIDENT.get(), "Inuit Trident");
+        add(ModItems.INUIT_BOW.get(), "Inuit Bow");
+        add(ModItems.ULU.get(), "Ulu Knife");
+        add(ModItems.FUR_HELMET.get(), "Fur Helmet");
+        add(ModItems.FUR_CHESTPLATE.get(), "Fur Chestplate");
+        add(ModItems.FUR_LEGGINGS.get(), "Fur Leggings");
+        add(ModItems.FUR_BOOTS.get(), "Fur Boots");
+        add(ModItems.BEAR_MEAT_RAW.get(), "Raw Bear Meat");
+        add(ModItems.BEAR_MEAT_COOKED.get(), "Cooked Bear Meat");
+        add(ModItems.WOLF_MEAT_RAW.get(), "Raw Wolf Meat");
+        add(ModItems.WOLF_MEAT_COOKED.get(), "Cooked Wolf Meat");
+        add(ModItems.SEAFOOD_RAW.get(), "Raw Seafood");
+        add(ModItems.SEAFOOD_COOKED.get(), "Cooked Seafood");
+        add(ModItems.INUIT_BEAR_STEW.get(), "Inuit Bear Stew");
+        add(ModItems.INUIT_MEATY_STEW.get(), "Inuit Meaty Stew");
+        add(ModItems.INUIT_POTATO_STEW.get(), "Inuit Potato Stew");
+        add(ModItems.TANNED_HIDE.get(), "Tanned Hide");
+        add(ModItems.HIDE_HANGING.get(), "Hide Hanging");
+
+        // ================ Seljuk Civilization ================
+        add(ModItems.SELJUK_SCIMITAR.get(), "Seljuk Scimitar");
+        add(ModItems.SELJUK_BOW.get(), "Seljuk Bow");
+        add(ModItems.SELJUK_TURBAN.get(), "Seljuk Turban");
+        add(ModItems.SELJUK_HELMET.get(), "Seljuk Helmet");
+        add(ModItems.SELJUK_CHESTPLATE.get(), "Seljuk Chestplate");
+        add(ModItems.SELJUK_LEGGINGS.get(), "Seljuk Leggings");
+        add(ModItems.SELJUK_BOOTS.get(), "Seljuk Boots");
+        add(ModItems.PIDE.get(), "Pide");
+        add(ModItems.HELVA.get(), "Helva");
+        add(ModItems.LOKUM.get(), "Turkish Delight");
+        add(ModItems.AYRAN.get(), "Ayran");
+        add(ModItems.YOGURT.get(), "Yogurt");
+        add(ModItems.PISTACHIOS.get(), "Pistachios");
+        add(ModItems.COTTON.get(), "Cotton");
+        add(ModItems.SELJUK_WOOL_CLOTHES.get(), "Seljuk Wool Clothes");
+        add(ModItems.SELJUK_COTTON_CLOTHES.get(), "Seljuk Cotton Clothes");
+        add(ModItems.WALL_CARPET_SMALL.get(), "Small Wall Carpet");
+        add(ModItems.WALL_CARPET_MEDIUM.get(), "Medium Wall Carpet");
+        add(ModItems.WALL_CARPET_LARGE.get(), "Large Wall Carpet");
 
         // Currency formatting
         add("currency.millenaire_rewrite.gold", "Gold");
@@ -385,12 +442,6 @@ public class ModLanguageProvider extends LanguageProvider {
         add(ModItems.WAND_CREATIVE.get(), "创意法杖");
         add(ModItems.TUNING_FORK.get(), "调音叉");
 
-        // ================ Magic Items - Amulets ================
-        add(ModItems.AMULET_SKOLL_HATI.get(), "斯库尔与哈提护符");
-        add(ModItems.AMULET_ALCHEMIST.get(), "炼金术师护符");
-        add(ModItems.AMULET_VISHNU.get(), "毗湿奴护符");
-        add(ModItems.AMULET_YGGDRASIL.get(), "世界树护符");
-
         // ================ Parchments ================
         // Norman Parchments
         add(ModItems.PARCHMENT_NORMAN_VILLAGER.get(), "诺曼村民羊皮纸");
@@ -501,6 +552,66 @@ public class ModLanguageProvider extends LanguageProvider {
         add("item.millenaire_rewrite.parchment.type.building", "建筑指南");
         add("item.millenaire_rewrite.parchment.type.item", "物品指南");
         add("item.millenaire_rewrite.parchment.type.all", "完整指南");
+
+        // ================ 魔法护身符 ================
+        add(ModItems.AMULET_VISHNU.get(), "毗湿奴护身符");
+        add(ModItems.AMULET_ALCHEMIST.get(), "炼金术士护身符");
+        add(ModItems.AMULET_YGGDRASIL.get(), "世界树护身符");
+        add(ModItems.AMULET_SKOLL_HATI.get(), "斯库尔·哈提护身符");
+
+        // ================ 装饰物品 ================
+        add(ModItems.TAPESTRY.get(), "挂毯");
+        add(ModItems.INDIAN_STATUE.get(), "印度雕像");
+        add(ModItems.MAYAN_STATUE.get(), "玛雅雕像");
+        add(ModItems.BYZANTINE_ICON_SMALL.get(), "小型拜占庭圣像");
+        add(ModItems.BYZANTINE_ICON_MEDIUM.get(), "中型拜占庭圣像");
+        add(ModItems.BYZANTINE_ICON_LARGE.get(), "大型拜占庭圣像");
+
+        // ================ 特殊工具与材料 ================
+        add(ModItems.BRICK_MOULD.get(), "砖块模具");
+        add(ModItems.OLIVES.get(), "橄榄");
+        add(ModItems.OLIVE_OIL.get(), "橄榄油");
+
+        // ================ 因纽特文明 ================
+        add(ModItems.INUIT_TRIDENT.get(), "因纽特三叉戟");
+        add(ModItems.INUIT_BOW.get(), "因纽特弓");
+        add(ModItems.ULU.get(), "乌鲁刀");
+        add(ModItems.FUR_HELMET.get(), "毛皮头盔");
+        add(ModItems.FUR_CHESTPLATE.get(), "毛皮胸甲");
+        add(ModItems.FUR_LEGGINGS.get(), "毛皮护腿");
+        add(ModItems.FUR_BOOTS.get(), "毛皮靴子");
+        add(ModItems.BEAR_MEAT_RAW.get(), "生熊肉");
+        add(ModItems.BEAR_MEAT_COOKED.get(), "熟熊肉");
+        add(ModItems.WOLF_MEAT_RAW.get(), "生狼肉");
+        add(ModItems.WOLF_MEAT_COOKED.get(), "熟狼肉");
+        add(ModItems.SEAFOOD_RAW.get(), "生海鲜");
+        add(ModItems.SEAFOOD_COOKED.get(), "熟海鲜");
+        add(ModItems.INUIT_BEAR_STEW.get(), "因纽特熊肉炖菜");
+        add(ModItems.INUIT_MEATY_STEW.get(), "因纽特肉类炖菜");
+        add(ModItems.INUIT_POTATO_STEW.get(), "因纽特土豆炖菜");
+        add(ModItems.TANNED_HIDE.get(), "鞣制兽皮");
+        add(ModItems.HIDE_HANGING.get(), "悬挂兽皮");
+
+        // ================ 塞尔柱文明 ================
+        add(ModItems.SELJUK_SCIMITAR.get(), "塞尔柱弯刀");
+        add(ModItems.SELJUK_BOW.get(), "塞尔柱弓");
+        add(ModItems.SELJUK_TURBAN.get(), "塞尔柱头巾");
+        add(ModItems.SELJUK_HELMET.get(), "塞尔柱头盔");
+        add(ModItems.SELJUK_CHESTPLATE.get(), "塞尔柱胸甲");
+        add(ModItems.SELJUK_LEGGINGS.get(), "塞尔柱护腿");
+        add(ModItems.SELJUK_BOOTS.get(), "塞尔柱靴子");
+        add(ModItems.PIDE.get(), "土耳其薄饼");
+        add(ModItems.HELVA.get(), "哈尔瓦");
+        add(ModItems.LOKUM.get(), "土耳其软糖");
+        add(ModItems.AYRAN.get(), "酸奶饮料");
+        add(ModItems.YOGURT.get(), "酸奶");
+        add(ModItems.PISTACHIOS.get(), "开心果");
+        add(ModItems.COTTON.get(), "棉花");
+        add(ModItems.SELJUK_WOOL_CLOTHES.get(), "塞尔柱羊毛服装");
+        add(ModItems.SELJUK_COTTON_CLOTHES.get(), "塞尔柱棉质服装");
+        add(ModItems.WALL_CARPET_SMALL.get(), "小型壁毯");
+        add(ModItems.WALL_CARPET_MEDIUM.get(), "中型壁毯");
+        add(ModItems.WALL_CARPET_LARGE.get(), "大型壁毯");
 
         // Currency formatting
         add("currency.millenaire_rewrite.gold", "金");

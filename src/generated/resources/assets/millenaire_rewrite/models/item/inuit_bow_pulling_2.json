@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/bow",
+  "textures": {
+    "layer0": "millenaire_rewrite:item/inuit_bow_pulling_2"
+  }
+}

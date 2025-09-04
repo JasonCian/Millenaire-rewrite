@@ -90,6 +90,42 @@ public class ModToolMaterials {
         List.of()
     );
     
+    // ================ Inuit Survival Tools ================
+    
+    /** Inuit Tools - Traditional Arctic survival tools, balanced for harsh conditions */
+    public static final Tier INUIT = TierSortingRegistry.registerTier(
+        new ForgeTier(
+            1,                              // Harvest level (stone level)
+            250,                            // Uses/Durability (moderate for survival tools)
+            5.0F,                           // Speed (moderate)
+            2.0F,                           // Attack damage bonus (decent)
+            10,                             // Enchantability (good)
+            null,                           // Tag
+            () -> Ingredient.of(Items.BONE)  // Repair material (bone for traditional tools)
+        ),
+        ResourceLocation.fromNamespaceAndPath(MillenaireRewrite.MOD_ID, "inuit"),
+        List.of(),
+        List.of()
+    );
+    
+    // ================ Seljuk Steel Tools ================
+    
+    /** Seljuk Steel - High-quality Damascus steel weapons */
+    public static final Tier SELJUK = TierSortingRegistry.registerTier(
+        new ForgeTier(
+            3,                              // Harvest level (diamond level)
+            600,                            // Uses/Durability (excellent)
+            7.5F,                           // Speed (good)
+            4.0F,                           // Attack damage bonus (very good)
+            20,                             // Enchantability (excellent)
+            null,                           // Tag
+            () -> Ingredient.of(Items.GOLD_INGOT)  // Repair material (gold for luxury)
+        ),
+        ResourceLocation.fromNamespaceAndPath(MillenaireRewrite.MOD_ID, "seljuk"),
+        List.of(),
+        List.of()
+    );
+    
     /**
      * Initialize tier sorting relationships
      * Called during mod setup to ensure proper tool tier ordering

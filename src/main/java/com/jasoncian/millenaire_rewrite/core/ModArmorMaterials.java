@@ -110,6 +110,52 @@ public enum ModArmorMaterials implements ArmorMaterial {
         () -> Ingredient.of(Items.GOLD_BLOCK),     // Expensive repair
         0.0F,
         0.0F
+    ),
+    
+    // ================ Inuit Armor ================
+    
+    /** Fur Armor - Inuit winter survival gear, provides warmth */
+    FUR("fur", 8,
+        Util.make(new EnumMap<>(ArmorItem.Type.class), map -> {
+            map.put(ArmorItem.Type.BOOTS, 2);       // Good cold protection
+            map.put(ArmorItem.Type.LEGGINGS, 4);
+            map.put(ArmorItem.Type.CHESTPLATE, 5);
+            map.put(ArmorItem.Type.HELMET, 2);
+        }),
+        SoundEvents.ARMOR_EQUIP_LEATHER,           // Soft material sound
+        () -> Ingredient.of(Items.LEATHER),        // Leather repair
+        0.0F,                                      // No toughness
+        0.0F                                       // No knockback resistance
+    ),
+    
+    // ================ Seljuk Armor ================
+    
+    /** Seljuk Steel Armor - High-quality medieval Islamic armor */
+    SELJUK("seljuk", 16,
+        Util.make(new EnumMap<>(ArmorItem.Type.class), map -> {
+            map.put(ArmorItem.Type.BOOTS, 3);       // Excellent protection
+            map.put(ArmorItem.Type.LEGGINGS, 7);
+            map.put(ArmorItem.Type.CHESTPLATE, 8);
+            map.put(ArmorItem.Type.HELMET, 3);
+        }),
+        SoundEvents.ARMOR_EQUIP_IRON,
+        () -> Ingredient.of(Items.GOLD_INGOT),     // Gold repair (luxury)
+        1.5F,                                      // Good toughness
+        0.05F                                      // Slight knockback resistance
+    ),
+    
+    /** Seljuk Wool Clothing - Traditional Turkish garments */
+    SELJUK_WOOL("seljuk_wool", 5,
+        Util.make(new EnumMap<>(ArmorItem.Type.class), map -> {
+            map.put(ArmorItem.Type.BOOTS, 1);       // Light protection
+            map.put(ArmorItem.Type.LEGGINGS, 2);
+            map.put(ArmorItem.Type.CHESTPLATE, 3);
+            map.put(ArmorItem.Type.HELMET, 1);
+        }),
+        SoundEvents.ARMOR_EQUIP_LEATHER,           // Soft material sound
+        () -> Ingredient.of(Items.WHITE_WOOL),     // Wool repair
+        0.0F,
+        0.0F
     );
     
     // ================ Material Properties ================

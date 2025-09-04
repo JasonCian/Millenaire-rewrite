@@ -5,6 +5,7 @@ import com.jasoncian.millenaire_rewrite.core.ModItems;
 import com.jasoncian.millenaire_rewrite.items.magic.DynamicAmuletItem;
 import net.minecraft.client.renderer.item.ItemProperties;
 import net.minecraft.resources.ResourceLocation;
+import net.minecraft.world.item.Item;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.client.event.RegisterColorHandlersEvent;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
@@ -32,23 +33,33 @@ public class ClientColorHandlers {
     public static void clientSetup(FMLClientSetupEvent event) {
         // 注册弓的拉弓动画属性
         event.enqueueWork(() -> {
-            // pull属性：拉弓的程度（0.0到1.0）
-            ItemProperties.register(ModItems.JAPANESE_BOW.get(), 
-                ResourceLocation.withDefaultNamespace("pull"), 
-                (itemStack, clientWorld, livingEntity, seed) -> {
-                    if (livingEntity == null) {
-                        return 0.0F;
-                    } else {
-                        return livingEntity.getUseItem() != itemStack ? 0.0F : 
-                            (float)(itemStack.getUseDuration() - livingEntity.getUseItemRemainingTicks()) / 20.0F;
-                    }
-                });
-
-            // pulling属性：是否正在拉弓（0.0或1.0）
-            ItemProperties.register(ModItems.JAPANESE_BOW.get(), 
-                ResourceLocation.withDefaultNamespace("pulling"), 
-                (itemStack, clientWorld, livingEntity, seed) -> 
-                    livingEntity != null && livingEntity.isUsingItem() && livingEntity.getUseItem() == itemStack ? 1.0F : 0.0F);
+            // 为所有mod弓注册拉弓属性
+            registerBowProperties(ModItems.JAPANESE_BOW.get());
+            registerBowProperties(ModItems.INUIT_BOW.get());
+            registerBowProperties(ModItems.SELJUK_BOW.get());
         });
+    }
+    
+    /**
+     * 为指定的弓物品注册拉弓动画属性
+     */
+    private static void registerBowProperties(Item bowItem) {
+        // pull属性：拉弓的程度（0.0到1.0）
+        ItemProperties.register(bowItem, 
+            ResourceLocation.withDefaultNamespace("pull"), 
+            (itemStack, clientWorld, livingEntity, seed) -> {
+                if (livingEntity == null) {
+                    return 0.0F;
+                } else {
+                    return livingEntity.getUseItem() != itemStack ? 0.0F : 
+                        (float)(itemStack.getUseDuration() - livingEntity.getUseItemRemainingTicks()) / 20.0F;
+                }
+            });
+
+        // pulling属性：是否正在拉弓（0.0或1.0）
+        ItemProperties.register(bowItem, 
+            ResourceLocation.withDefaultNamespace("pulling"), 
+            (itemStack, clientWorld, livingEntity, seed) -> 
+                livingEntity != null && livingEntity.isUsingItem() && livingEntity.getUseItem() == itemStack ? 1.0F : 0.0F);
     }
 }

@@ -11,8 +11,17 @@ import net.minecraftforge.fml.common.Mod;
 /**
  * 数据生成器事件处理器
  * 
- * 负责协调所有数据生成器的注册和执行
- * 现代Minecraft模组开发的最佳实践
+ * 功能列表:
+ * - 协调所有数据生成器的注册
+ * - 方块状态和模型生成
+ * - 物品模型生成
+ * - 战利品表生成
+ * - 配方生成
+ * - 语言文件生成
+ * 
+ * @author JasonCian
+ * @version 0.1.3-alpha
+ * @since 1.20.1
  */
 @Mod.EventBusSubscriber(modid = MillenaireRewrite.MOD_ID, bus = Mod.EventBusSubscriber.Bus.MOD)
 public class DataGenerators {

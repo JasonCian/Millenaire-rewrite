@@ -19,14 +19,19 @@ import net.minecraft.world.phys.BlockHitResult;
 import org.jetbrains.annotations.Nullable;
 
 /**
- * Village Stone Block - 村庄核心方块
- * 
+ * 村庄石方块 - 村庄系统的核心功能方块
+ *
  * 基于legacy的BlockVillageStone.java重新实现
- * 这是整个Millenaire mod的核心方块，负责：
+ * 这是整个Millenaire mod的核心方块
+ *
+ * 功能特性：
  * - 标记和管理村庄
  * - 存储村庄数据
  * - 处理玩家交互
  * - 村庄事件和爆炸逻辑
+ *
+ * @author JasonCian
+ * @version 0.1.0-alpha
  */
 public class VillageStoneBlock extends BaseEntityBlock {
 

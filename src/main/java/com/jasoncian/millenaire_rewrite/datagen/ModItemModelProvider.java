@@ -18,10 +18,19 @@ import java.util.concurrent.CompletableFuture;
 import net.minecraft.data.CachedOutput;
 
 /**
- * 物品模型数据生成器
- * 
- * 自动生成所有mod物品的基础模型文件
- * 减少手动创建模型的工作量
+ * 物品模型数据生成器 - 自动生成所有mod物品的模型文件
+ *
+ * 自动生成所有模组物品的基础模型文件
+ * 减少手动创建模型的工作量，提高开发效率
+ *
+ * 功能特性：
+ * - 简单物品模型生成
+ * - 工具物品模型生成
+ * - 羊皮纸特殊模型生成
+ * - 自定义材质路径支持
+ *
+ * @author JasonCian
+ * @version 0.1.0-alpha
  */
 public class ModItemModelProvider extends ItemModelProvider {
 
@@ -107,11 +116,15 @@ public class ModItemModelProvider extends ItemModelProvider {
         simpleItem(ModItems.CACAUHAA);
         simpleItem(ModItems.MASA);
         simpleItem(ModItems.WAH);
+        simpleItem(ModItems.BALCHE);
+        simpleItem(ModItems.SIKILPAH);
 
         // 日本食物
         simpleItem(ModItems.SAKE);
         simpleItem(ModItems.UDON);
         simpleItem(ModItems.IKAYAKI);
+        simpleItem(ModItems.CHERRIES);
+        simpleItem(ModItems.CHERRY_BLOSSOM);
 
         // 拜占庭食物
         simpleItem(ModItems.WINE);
@@ -145,6 +158,10 @@ public class ModItemModelProvider extends ItemModelProvider {
 
         // ================ Byzantine Tools & Weapons ================
         handheldItem(ModItems.BYZANTINE_MACE);
+        handheldItem(ModItems.BYZANTINE_PICKAXE);
+        handheldItem(ModItems.BYZANTINE_AXE);
+        handheldItem(ModItems.BYZANTINE_SHOVEL);
+        handheldItem(ModItems.BYZANTINE_HOE);
 
         // ================ Byzantine Armor ================
         simpleItem(ModItems.BYZANTINE_HELMET);
@@ -289,6 +306,28 @@ public class ModItemModelProvider extends ItemModelProvider {
         parchmentItem(ModItems.PARCHMENT_JAPANESE_BUILDING, "parchmentbuildings");
         parchmentItem(ModItems.PARCHMENT_JAPANESE_ITEM, "parchmentitems");
         parchmentItem(ModItems.PARCHMENT_JAPANESE_ALL, "parchmentall");
+
+        // Special Parchments - 特殊羊皮纸使用特定材质
+        parchmentItem(ModItems.PARCHMENT_VILLAGE_SCROLL, "parchmentvillagers");
+        parchmentItem(ModItems.PARCHMENT_SADHU, "parchmentall");
+
+        // ================ Paint Buckets ================
+        simpleItem(ModItems.PAINT_BUCKET_WHITE);
+        simpleItem(ModItems.PAINT_BUCKET_ORANGE);
+        simpleItem(ModItems.PAINT_BUCKET_MAGENTA);
+        simpleItem(ModItems.PAINT_BUCKET_LIGHT_BLUE);
+        simpleItem(ModItems.PAINT_BUCKET_YELLOW);
+        simpleItem(ModItems.PAINT_BUCKET_LIME);
+        simpleItem(ModItems.PAINT_BUCKET_PINK);
+        simpleItem(ModItems.PAINT_BUCKET_GRAY);
+        simpleItem(ModItems.PAINT_BUCKET_LIGHT_GRAY);
+        simpleItem(ModItems.PAINT_BUCKET_CYAN);
+        simpleItem(ModItems.PAINT_BUCKET_PURPLE);
+        simpleItem(ModItems.PAINT_BUCKET_BLUE);
+        simpleItem(ModItems.PAINT_BUCKET_BROWN);
+        simpleItem(ModItems.PAINT_BUCKET_GREEN);
+        simpleItem(ModItems.PAINT_BUCKET_RED);
+        simpleItem(ModItems.PAINT_BUCKET_BLACK);
     }
 
     /**

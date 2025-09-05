@@ -13,16 +13,26 @@ import java.util.EnumMap;
 import java.util.function.Supplier;
 
 /**
- * Mod Armor Materials
+ * 模组盔甲材料
  * 
- * Defines custom armor materials for different cultures in Millenaire
- * Each culture has unique armor characteristics and appearance
+ * 为千年村庄中的不同文明定义自定义盔甲材料
+ * 每个文化都有独特的盔甲特征和外观
+ *
+ * 功能特性：
+ * - 诺曼文明盔甲材料
+ * - 拜占庭文明盔甲材料
+ * - 日本文明盔甲材料
+ * - 特殊文明盔甲材料
+ * - 平衡的防护等级和耐久度设计
+ *
+ * @author JasonCian
+ * @version 0.1.0-alpha
  */
 public enum ModArmorMaterials implements ArmorMaterial {
     
-    // ================ Norman Armor ================
+    // ================ 诺曼盔甲 ================
     
-    /** Norman Chain/Plate - Heavy medieval armor */
+    /** 诺曼锁甲/板甲 - 重型中世纪盔甲 */
     NORMAN("norman", 12, 
         Util.make(new EnumMap<>(ArmorItem.Type.class), map -> {
             map.put(ArmorItem.Type.BOOTS, 2);       // Defense points
@@ -36,9 +46,9 @@ public enum ModArmorMaterials implements ArmorMaterial {
         0.0F                                       // Knockback resistance
     ),
     
-    // ================ Byzantine Armor ================
+    // ================ 拜占庭盔甲 ================
     
-    /** Byzantine Lamellar - Advanced eastern armor */
+    /** 拜占庭札甲 - 先进的东方盔甲 */
     BYZANTINE("byzantine", 15,
         Util.make(new EnumMap<>(ArmorItem.Type.class), map -> {
             map.put(ArmorItem.Type.BOOTS, 2);
@@ -52,9 +62,9 @@ public enum ModArmorMaterials implements ArmorMaterial {
         0.0F
     ),
     
-    // ================ Japanese Armor ================
+    // ================ 日本盔甲 ================
     
-    /** Japanese Samurai - Masterwork layered armor */
+    /** 日本武士 - 大师级层叠盔甲 */
     JAPANESE_GUARD("japanese_guard", 10,
         Util.make(new EnumMap<>(ArmorItem.Type.class), map -> {
             map.put(ArmorItem.Type.BOOTS, 2);
@@ -68,7 +78,7 @@ public enum ModArmorMaterials implements ArmorMaterial {
         0.0F
     ),
     
-    /** Japanese Blue Samurai - Elite warrior armor */
+    /** 日本蓝色武士 - 精英战士盔甲 */
     JAPANESE_BLUE("japanese_blue", 18,
         Util.make(new EnumMap<>(ArmorItem.Type.class), map -> {
             map.put(ArmorItem.Type.BOOTS, 3);       // Better protection
@@ -82,7 +92,7 @@ public enum ModArmorMaterials implements ArmorMaterial {
         0.05F                                      // Slight knockback resistance
     ),
     
-    /** Japanese Red Samurai - Master warrior armor */
+    /** 日本红色武士 - 大师级战士盔甲 */
     JAPANESE_RED("japanese_red", 20,
         Util.make(new EnumMap<>(ArmorItem.Type.class), map -> {
             map.put(ArmorItem.Type.BOOTS, 3);
@@ -96,9 +106,9 @@ public enum ModArmorMaterials implements ArmorMaterial {
         0.1F                                       // Good knockback resistance
     ),
     
-    // ================ Special Armor ================
+    // ================ 特殊盔甲 ================
     
-    /** Mayan Quest Crown - Ceremonial headpiece */
+    /** 玛雅任务王冠 - 仪式头饰 */
     MAYAN_CEREMONIAL("mayan_ceremonial", 25,
         Util.make(new EnumMap<>(ArmorItem.Type.class), map -> {
             map.put(ArmorItem.Type.BOOTS, 1);       // Light protection
@@ -112,9 +122,9 @@ public enum ModArmorMaterials implements ArmorMaterial {
         0.0F
     ),
     
-    // ================ Inuit Armor ================
+    // ================ 因纽特盔甲 ================
     
-    /** Fur Armor - Inuit winter survival gear, provides warmth */
+    /** 毛皮盔甲 - 因纽特冬季生存装备，提供保暖 */
     FUR("fur", 8,
         Util.make(new EnumMap<>(ArmorItem.Type.class), map -> {
             map.put(ArmorItem.Type.BOOTS, 2);       // Good cold protection
@@ -128,9 +138,9 @@ public enum ModArmorMaterials implements ArmorMaterial {
         0.0F                                       // No knockback resistance
     ),
     
-    // ================ Seljuk Armor ================
+    // ================ 塞尔柱盔甲 ================
     
-    /** Seljuk Steel Armor - High-quality medieval Islamic armor */
+    /** 塞尔柱钢制盔甲 - 高品质中世纪伊斯兰盔甲 */
     SELJUK("seljuk", 16,
         Util.make(new EnumMap<>(ArmorItem.Type.class), map -> {
             map.put(ArmorItem.Type.BOOTS, 3);       // Excellent protection
@@ -144,7 +154,7 @@ public enum ModArmorMaterials implements ArmorMaterial {
         0.05F                                      // Slight knockback resistance
     ),
     
-    /** Seljuk Wool Clothing - Traditional Turkish garments */
+    /** 塞尔柱羊毛服装 - 传统土耳其服饰 */
     SELJUK_WOOL("seljuk_wool", 5,
         Util.make(new EnumMap<>(ArmorItem.Type.class), map -> {
             map.put(ArmorItem.Type.BOOTS, 1);       // Light protection

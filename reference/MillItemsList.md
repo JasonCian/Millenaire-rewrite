@@ -1,8 +1,9 @@
 # Millénaire Mod 已注册物品列表
 
-以下为 `MillItems.java` 中注册的所有 item（部分为简要名称，具体属性可查源码）：
+以下为旧 mod 中 `MillItems.java` 中注册的所有 item（部分为简要名称，具体属性可查源码）：
 
 ## 基础物品
+
 - summoningwand
 - negationwand
 - denier
@@ -11,6 +12,7 @@
 - purse
 
 ## 种子类
+
 - rice
 - turmeric
 - maize
@@ -18,6 +20,7 @@
 - cotton
 
 ## 工具类
+
 - normanpickaxe
 - normanaxe
 - normanshovel
@@ -32,6 +35,7 @@
 - byzantinehoe
 
 ## 武器类
+
 - normanbroadsword
 - mayanmace
 - tachisword
@@ -40,11 +44,13 @@
 - seljukscimitar
 
 ## 弓类
+
 - yumibow
 - inuitbow
 - seljukbow
 
 ## 护甲类
+
 - normanhelmet
 - normanplate
 - normanlegs
@@ -76,6 +82,7 @@
 - seljukboots
 
 ## 食物类
+
 - ciderapple
 - olives
 - oliveoil
@@ -117,6 +124,7 @@
 - cherry_blossom
 
 ## 壁饰类
+
 - tapestry
 - indianstatue
 - mayanstatue
@@ -129,9 +137,11 @@
 - wallcarpetlarge
 
 ## 颜料桶
-- paint_bucket_<颜色>（每种 EnumDyeColor 均有一个）
+
+- paint*bucket*<颜色>（每种 EnumDyeColor 均有一个）
 
 ## 羊皮纸类
+
 - parchment_normanvillagers
 - parchment_normanbuildings
 - parchment_normanitems
@@ -151,6 +161,7 @@
 - parchment_villagescroll
 
 ## 其他
+
 - brickmould
 - obsidianflake
 - silk

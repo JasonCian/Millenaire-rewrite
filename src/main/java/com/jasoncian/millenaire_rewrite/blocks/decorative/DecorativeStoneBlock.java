@@ -7,15 +7,22 @@ import net.minecraft.world.level.block.state.properties.EnumProperty;
 import net.minecraft.world.level.material.MapColor;
 
 /**
- * 石材装饰方块 - 1.20.1现代化实现
- * 
- * 基于legacy BlockDecorativeStone重新实现，提供：
+ * 石材装饰方块 - 1.20.1现代化实现的石质装饰方块系统
+ *
+ * 基于legacy BlockDecorativeStone重新实现
+ * 提供多种石质装饰变体用于建筑装饰
+ *
+ * 功能特性：
  * - 金装饰石块（高级建筑）
- * - 烧制砖块（基础建筑）  
+ * - 烧制砖块（基础建筑）
  * - Galianite方块（特殊材料）
- * 
+ * - 现代化的BlockState系统
+ *
  * 对应legacy: BlockDecorativeStone.java
  * 材质: Material.rock (现代化为MapColor.STONE)
+ *
+ * @author JasonCian
+ * @version 0.1.0-alpha
  */
 public class DecorativeStoneBlock extends BaseDecorativeBlock<StoneDecorativeVariant> {
     

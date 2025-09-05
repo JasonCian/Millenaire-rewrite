@@ -12,10 +12,19 @@ import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
 
 /**
- * 模组方块注册器
- * 
- * 负责注册所有Millenaire mod的方块
+ * 方块注册器 - 管理所有Millenaire mod方块的注册
+ *
+ * 负责注册所有模组方块，按功能分类组织
  * 开始方块系统迁移，从核心的Village Stone开始
+ *
+ * 功能特性：
+ * - 核心功能方块（村庄石等）
+ * - 装饰性方块系统
+ * - 文化特色建筑方块
+ * - 功能性建筑方块
+ *
+ * @author JasonCian
+ * @version 0.1.0-alpha
  */
 public class ModBlocks {
 

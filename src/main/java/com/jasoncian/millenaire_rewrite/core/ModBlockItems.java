@@ -24,103 +24,84 @@ import net.minecraftforge.registries.RegistryObject;
  * - 类型安全：使用泛型确保类型安全
  */
 public class ModBlockItems {
-    
-    public static final DeferredRegister<Item> BLOCK_ITEMS = 
-        DeferredRegister.create(ForgeRegistries.ITEMS, MillenaireRewrite.MOD_ID);
+
+    public static final DeferredRegister<Item> BLOCK_ITEMS = DeferredRegister.create(ForgeRegistries.ITEMS,
+            MillenaireRewrite.MOD_ID);
 
     // ================ 核心功能方块物品 ================
-    
+
     /** Village Stone Block Item - 村庄核心方块物品 */
     public static final RegistryObject<Item> VILLAGE_STONE = BLOCK_ITEMS.register("village_stone",
-        () -> new BlockItem(ModBlocks.VILLAGE_STONE.get(), new Item.Properties())
-    );
+            () -> new BlockItem(ModBlocks.VILLAGE_STONE.get(), new Item.Properties()));
 
     // ================ 石材装饰方块变体物品 ================
-    
+
     /** 金装饰石块物品 - 高级装饰建筑 */
     public static final RegistryObject<Item> GOLD_ORNAMENT = BLOCK_ITEMS.register("gold_ornament",
-        () -> new DecorativeBlockItem<>(
-            ModBlocks.DECORATIVE_STONE, 
-            StoneDecorativeVariant.GOLD_ORNAMENT,
-            new Item.Properties()
-        )
-    );
-    
+            () -> new DecorativeBlockItem<>(
+                    ModBlocks.DECORATIVE_STONE,
+                    StoneDecorativeVariant.GOLD_ORNAMENT,
+                    new Item.Properties()));
+
     /** 烧制砖块物品 - 基础建筑材料 */
     public static final RegistryObject<Item> COOKED_BRICK = BLOCK_ITEMS.register("cooked_brick",
-        () -> new DecorativeBlockItem<>(
-            ModBlocks.DECORATIVE_STONE, 
-            StoneDecorativeVariant.COOKED_BRICK,
-            new Item.Properties()
-        )
-    );
-    
+            () -> new DecorativeBlockItem<>(
+                    ModBlocks.DECORATIVE_STONE,
+                    StoneDecorativeVariant.COOKED_BRICK,
+                    new Item.Properties()));
+
     /** Galianite方块物品 - 特殊魔法材料 */
     public static final RegistryObject<Item> GALIANITE_BLOCK = BLOCK_ITEMS.register("galianite_block",
-        () -> new DecorativeBlockItem<>(
-            ModBlocks.DECORATIVE_STONE, 
-            StoneDecorativeVariant.GALIANITE_BLOCK,
-            new Item.Properties()
-        )
-    );
+            () -> new DecorativeBlockItem<>(
+                    ModBlocks.DECORATIVE_STONE,
+                    StoneDecorativeVariant.GALIANITE_BLOCK,
+                    new Item.Properties()));
 
     // ================ 木材装饰方块变体物品 ================
-    
+
     /** 简朴木框架物品 - 基础诺曼建筑 */
     public static final RegistryObject<Item> PLAIN_TIMBER_FRAME = BLOCK_ITEMS.register("plain_timber_frame",
-        () -> new DecorativeBlockItem<>(
-            ModBlocks.DECORATIVE_WOOD, 
-            WoodDecorativeVariant.PLAIN_TIMBER_FRAME,
-            new Item.Properties()
-        )
-    );
-    
+            () -> new DecorativeBlockItem<>(
+                    ModBlocks.DECORATIVE_WOOD,
+                    WoodDecorativeVariant.PLAIN_TIMBER_FRAME,
+                    new Item.Properties()));
+
     /** 十字木框架物品 - 高级诺曼建筑 */
     public static final RegistryObject<Item> CROSS_TIMBER_FRAME = BLOCK_ITEMS.register("cross_timber_frame",
-        () -> new DecorativeBlockItem<>(
-            ModBlocks.DECORATIVE_WOOD, 
-            WoodDecorativeVariant.CROSS_TIMBER_FRAME,
-            new Item.Properties()
-        )
-    );
-    
+            () -> new DecorativeBlockItem<>(
+                    ModBlocks.DECORATIVE_WOOD,
+                    WoodDecorativeVariant.CROSS_TIMBER_FRAME,
+                    new Item.Properties()));
+
     /** 茅草物品 - 屋顶材料 */
     public static final RegistryObject<Item> THATCH = BLOCK_ITEMS.register("thatch",
-        () -> new DecorativeBlockItem<>(
-            ModBlocks.DECORATIVE_WOOD, 
-            WoodDecorativeVariant.THATCH,
-            new Item.Properties()
-        )
-    );
-    
+            () -> new DecorativeBlockItem<>(
+                    ModBlocks.DECORATIVE_WOOD,
+                    WoodDecorativeVariant.THATCH,
+                    new Item.Properties()));
+
     /** 养蚕架物品 - 日式农业建筑 */
     public static final RegistryObject<Item> SERICULTURE = BLOCK_ITEMS.register("sericulture",
-        () -> new DecorativeBlockItem<>(
-            ModBlocks.DECORATIVE_WOOD, 
-            WoodDecorativeVariant.SERICULTURE,
-            new Item.Properties()
-        )
-    );
+            () -> new DecorativeBlockItem<>(
+                    ModBlocks.DECORATIVE_WOOD,
+                    WoodDecorativeVariant.SERICULTURE,
+                    new Item.Properties()));
 
     // ================ 土质装饰方块变体物品 ================
-    
+
     /** 土墙物品 - 基础建筑材料 */
     public static final RegistryObject<Item> DIRT_WALL = BLOCK_ITEMS.register("dirt_wall",
-        () -> new DecorativeBlockItem<>(
-            ModBlocks.DECORATIVE_EARTH, 
-            EarthDecorativeVariant.DIRT_WALL,
-            new Item.Properties()
-        )
-    );
-    
+            () -> new DecorativeBlockItem<>(
+                    ModBlocks.DECORATIVE_EARTH,
+                    EarthDecorativeVariant.DIRT_WALL,
+                    new Item.Properties()));
+
     /** 风干砖物品 - 印度风格建筑 */
     public static final RegistryObject<Item> DRIED_BRICK = BLOCK_ITEMS.register("dried_brick",
-        () -> new DecorativeBlockItem<>(
-            ModBlocks.DECORATIVE_EARTH, 
-            EarthDecorativeVariant.DRIED_BRICK,
-            new Item.Properties()
-        )
-    );
+            () -> new DecorativeBlockItem<>(
+                    ModBlocks.DECORATIVE_EARTH,
+                    EarthDecorativeVariant.DRIED_BRICK,
+                    new Item.Properties()));
 
     // TODO: 后续添加更多方块变体物品
     // TODO: 添加路径系统方块物品

@@ -11,16 +11,25 @@ import net.minecraftforge.common.TierSortingRegistry;
 import java.util.List;
 
 /**
- * Mod Tool Materials
- * 
- * Defines custom tool materials for different cultures in Millenaire
- * Each culture has unique tool characteristics and repair materials
+ * 工具材料配置器 - 定义Millenaire各文明的自定义工具材料
+ *
+ * 为各个文明定义独特的工具特性和修复材料
+ * 每个文化都有独特的工具特征和修复材料
+ *
+ * 功能特性：
+ * - 诺曼文明工具材料
+ * - 玛雅文明工具材料
+ * - 拜占庭文明工具材料
+ * - 平衡的挖掘等级和耐久度设计
+ *
+ * @author JasonCian
+ * @version 0.1.0-alpha
  */
 public class ModToolMaterials {
     
-    // ================ Norman Tools ================
+    // ================ 诺曼工具 ================
     
-    /** Norman Steel - Well-balanced medieval tools */
+    /** 诺曼钢 - 平衡的中世纪工具 */
     public static final Tier NORMAN = TierSortingRegistry.registerTier(
         new ForgeTier(
             2,                              // Harvest level (iron level)
@@ -36,9 +45,9 @@ public class ModToolMaterials {
         List.of()   // Before tiers
     );
     
-    // ================ Mayan Obsidian Tools ================
+    // ================ 玛雅黑曜石工具 ================
     
-    /** Mayan Obsidian - Sharp but fragile volcanic glass tools */
+    /** 玛雅黑曜石 - 锋利但易碎的火山玻璃工具 */
     public static final Tier MAYAN_OBSIDIAN = TierSortingRegistry.registerTier(
         new ForgeTier(
             1,                              // Harvest level (stone level)
@@ -54,9 +63,9 @@ public class ModToolMaterials {
         List.of()
     );
     
-    // ================ Byzantine Steel Tools ================
+    // ================ 拜占庭钢制工具 ================
     
-    /** Byzantine Steel - Advanced medieval metalworking */
+    /** 拜占庭钢 - 先进的中世纪金属工艺 */
     public static final Tier BYZANTINE = TierSortingRegistry.registerTier(
         new ForgeTier(
             2,                              // Harvest level (iron level)
@@ -72,9 +81,9 @@ public class ModToolMaterials {
         List.of()
     );
     
-    // ================ Japanese Steel Tools ================
+    // ================ 日本钢制工具 ================
     
-    /** Japanese Steel - Masterwork folded steel weapons */
+    /** 日本钢 - 大师级折叠钢武器 */
     public static final Tier JAPANESE = TierSortingRegistry.registerTier(
         new ForgeTier(
             3,                              // Harvest level (diamond level)
@@ -90,9 +99,9 @@ public class ModToolMaterials {
         List.of()
     );
     
-    // ================ Inuit Survival Tools ================
+    // ================ 因纽特生存工具 ================
     
-    /** Inuit Tools - Traditional Arctic survival tools, balanced for harsh conditions */
+    /** 因纽特工具 - 传统北极生存工具，针对严酷环境平衡 */
     public static final Tier INUIT = TierSortingRegistry.registerTier(
         new ForgeTier(
             1,                              // Harvest level (stone level)
@@ -108,9 +117,9 @@ public class ModToolMaterials {
         List.of()
     );
     
-    // ================ Seljuk Steel Tools ================
+    // ================ 塞尔柱钢制工具 ================
     
-    /** Seljuk Steel - High-quality Damascus steel weapons */
+    /** 塞尔柱钢 - 高品质大马士革钢武器 */
     public static final Tier SELJUK = TierSortingRegistry.registerTier(
         new ForgeTier(
             3,                              // Harvest level (diamond level)

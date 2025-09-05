@@ -19,13 +19,18 @@ import java.util.List;
 
 /**
  * Millenaire法杖物品 - 现代化实现
- * 基于旧版本Millenaire的法杖实现，包含多种工具功能
  * 
- * 包含的法杖类型：
- * - 调音叉 (Tuning Fork): 检查方块信息
- * - 召唤法杖 (Summoning Wand): 建筑导入功能
- * - 否定法杖 (Negation Wand): 建筑导出功能  
- * - 创意法杖 (Creative Wand): 作物权限和箱子管理
+ * 功能列表:
+ * - 调音叉功能：检查方块信息
+ * - 召唤法杖：建筑导入功能
+ * - 否定法杖：建筑导出功能  
+ * - 创意法杖：作物权限和箱子管理
+ * - 右键交互系统
+ * - 工具提示信息显示
+ * 
+ * @author JasonCian
+ * @version 0.1.3-alpha
+ * @since 1.20.1
  */
 public class MillWandItem extends Item {
     

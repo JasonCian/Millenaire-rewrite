@@ -8,10 +8,19 @@ import net.minecraft.data.PackOutput;
 import net.minecraftforge.common.data.LanguageProvider;
 
 /**
- * 语言文件数据生成器
- * 
+ * 语言文件数据生成器 - 自动生成多语言翻译文件
+ *
  * 自动生成中文和英文语言文件，避免硬编码问题
- * 支持物品、方块、工具提示、GUI等各种翻译键
+ * 支持物品、方块、工具提示等各种翻译键的生成
+ *
+ * 功能特性：
+ * - 英文翻译生成（en_us）
+ * - 中文翻译生成（zh_cn）
+ * - 物品和方块名称翻译
+ * - UI文本和提示翻译
+ *
+ * @author JasonCian
+ * @version 0.1.0-alpha
  */
 public class ModLanguageProvider extends LanguageProvider {
 
@@ -72,11 +81,15 @@ public class ModLanguageProvider extends LanguageProvider {
         add(ModItems.CACAUHAA.get(), "Cacauhaa");
         add(ModItems.MASA.get(), "Masa");
         add(ModItems.WAH.get(), "Wah");
+        add(ModItems.BALCHE.get(), "Balche");
+        add(ModItems.SIKILPAH.get(), "Sikilpah");
 
         // ================ Japanese Foods ================
         add(ModItems.SAKE.get(), "Sake");
         add(ModItems.UDON.get(), "Udon");
         add(ModItems.IKAYAKI.get(), "Ikayaki");
+        add(ModItems.CHERRIES.get(), "Cherries");
+        add(ModItems.CHERRY_BLOSSOM.get(), "Cherry Blossom");
 
         // ================ Byzantine Foods ================
         add(ModItems.WINE.get(), "Wine");
@@ -110,6 +123,10 @@ public class ModLanguageProvider extends LanguageProvider {
 
         // ================ Byzantine Tools & Weapons ================
         add(ModItems.BYZANTINE_MACE.get(), "Byzantine Mace");
+        add(ModItems.BYZANTINE_PICKAXE.get(), "Byzantine Pickaxe");
+        add(ModItems.BYZANTINE_AXE.get(), "Byzantine Axe");
+        add(ModItems.BYZANTINE_SHOVEL.get(), "Byzantine Shovel");
+        add(ModItems.BYZANTINE_HOE.get(), "Byzantine Hoe");
 
         // ================ Byzantine Armor ================
         add(ModItems.BYZANTINE_HELMET.get(), "Byzantine Helmet");
@@ -176,6 +193,28 @@ public class ModLanguageProvider extends LanguageProvider {
         add(ModItems.PARCHMENT_JAPANESE_BUILDING.get(), "Japanese Building Parchment");
         add(ModItems.PARCHMENT_JAPANESE_ITEM.get(), "Japanese Item Parchment");
         add(ModItems.PARCHMENT_JAPANESE_ALL.get(), "Japanese Complete Parchment");
+
+        // Special Parchments
+        add(ModItems.PARCHMENT_VILLAGE_SCROLL.get(), "Village Scroll");
+        add(ModItems.PARCHMENT_SADHU.get(), "Sadhu Book");
+
+        // ================ Paint Buckets ================
+        add(ModItems.PAINT_BUCKET_WHITE.get(), "White Paint Bucket");
+        add(ModItems.PAINT_BUCKET_ORANGE.get(), "Orange Paint Bucket");
+        add(ModItems.PAINT_BUCKET_MAGENTA.get(), "Magenta Paint Bucket");
+        add(ModItems.PAINT_BUCKET_LIGHT_BLUE.get(), "Light Blue Paint Bucket");
+        add(ModItems.PAINT_BUCKET_YELLOW.get(), "Yellow Paint Bucket");
+        add(ModItems.PAINT_BUCKET_LIME.get(), "Lime Paint Bucket");
+        add(ModItems.PAINT_BUCKET_PINK.get(), "Pink Paint Bucket");
+        add(ModItems.PAINT_BUCKET_GRAY.get(), "Gray Paint Bucket");
+        add(ModItems.PAINT_BUCKET_LIGHT_GRAY.get(), "Light Gray Paint Bucket");
+        add(ModItems.PAINT_BUCKET_CYAN.get(), "Cyan Paint Bucket");
+        add(ModItems.PAINT_BUCKET_PURPLE.get(), "Purple Paint Bucket");
+        add(ModItems.PAINT_BUCKET_BLUE.get(), "Blue Paint Bucket");
+        add(ModItems.PAINT_BUCKET_BROWN.get(), "Brown Paint Bucket");
+        add(ModItems.PAINT_BUCKET_GREEN.get(), "Green Paint Bucket");
+        add(ModItems.PAINT_BUCKET_RED.get(), "Red Paint Bucket");
+        add(ModItems.PAINT_BUCKET_BLACK.get(), "Black Paint Bucket");
 
         // ================ Blocks ================
         add(ModBlocks.VILLAGE_STONE.get(), "Village Stone");
@@ -373,6 +412,8 @@ public class ModLanguageProvider extends LanguageProvider {
         add(ModItems.SAKE.get(), "清酒");
         add(ModItems.UDON.get(), "乌冬面");
         add(ModItems.IKAYAKI.get(), "鱿鱼烧");
+        add(ModItems.CHERRIES.get(), "樱桃");
+        add(ModItems.CHERRY_BLOSSOM.get(), "樱花");
 
         // ================ Byzantine Foods ================
         add(ModItems.WINE.get(), "葡萄酒");
@@ -406,6 +447,10 @@ public class ModLanguageProvider extends LanguageProvider {
 
         // ================ Byzantine Tools & Weapons ================
         add(ModItems.BYZANTINE_MACE.get(), "拜占庭权杖");
+        add(ModItems.BYZANTINE_PICKAXE.get(), "拜占庭镐");
+        add(ModItems.BYZANTINE_AXE.get(), "拜占庭斧");
+        add(ModItems.BYZANTINE_SHOVEL.get(), "拜占庭铲");
+        add(ModItems.BYZANTINE_HOE.get(), "拜占庭锄");
 
         // ================ Byzantine Armor ================
         add(ModItems.BYZANTINE_HELMET.get(), "拜占庭头盔");
@@ -472,6 +517,10 @@ public class ModLanguageProvider extends LanguageProvider {
         add(ModItems.PARCHMENT_JAPANESE_BUILDING.get(), "日本建筑羊皮纸");
         add(ModItems.PARCHMENT_JAPANESE_ITEM.get(), "日本物品羊皮纸");
         add(ModItems.PARCHMENT_JAPANESE_ALL.get(), "日本完整羊皮纸");
+
+        // Special Parchments
+        add(ModItems.PARCHMENT_VILLAGE_SCROLL.get(), "村庄卷轴");
+        add(ModItems.PARCHMENT_SADHU.get(), "圣者之书");
 
         // ================ Blocks ================
         add(ModBlocks.VILLAGE_STONE.get(), "村庄石头");
@@ -612,6 +661,24 @@ public class ModLanguageProvider extends LanguageProvider {
         add(ModItems.WALL_CARPET_SMALL.get(), "小型壁毯");
         add(ModItems.WALL_CARPET_MEDIUM.get(), "中型壁毯");
         add(ModItems.WALL_CARPET_LARGE.get(), "大型壁毯");
+
+        // ================ 颜料桶 ================
+        add(ModItems.PAINT_BUCKET_WHITE.get(), "白色颜料桶");
+        add(ModItems.PAINT_BUCKET_ORANGE.get(), "橙色颜料桶");
+        add(ModItems.PAINT_BUCKET_MAGENTA.get(), "品红颜料桶");
+        add(ModItems.PAINT_BUCKET_LIGHT_BLUE.get(), "淡蓝颜料桶");
+        add(ModItems.PAINT_BUCKET_YELLOW.get(), "黄色颜料桶");
+        add(ModItems.PAINT_BUCKET_LIME.get(), "黄绿颜料桶");
+        add(ModItems.PAINT_BUCKET_PINK.get(), "粉色颜料桶");
+        add(ModItems.PAINT_BUCKET_GRAY.get(), "灰色颜料桶");
+        add(ModItems.PAINT_BUCKET_LIGHT_GRAY.get(), "淡灰颜料桶");
+        add(ModItems.PAINT_BUCKET_CYAN.get(), "青色颜料桶");
+        add(ModItems.PAINT_BUCKET_PURPLE.get(), "紫色颜料桶");
+        add(ModItems.PAINT_BUCKET_BLUE.get(), "蓝色颜料桶");
+        add(ModItems.PAINT_BUCKET_BROWN.get(), "棕色颜料桶");
+        add(ModItems.PAINT_BUCKET_GREEN.get(), "绿色颜料桶");
+        add(ModItems.PAINT_BUCKET_RED.get(), "红色颜料桶");
+        add(ModItems.PAINT_BUCKET_BLACK.get(), "黑色颜料桶");
 
         // Currency formatting
         add("currency.millenaire_rewrite.gold", "金");

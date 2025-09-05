@@ -16,14 +16,19 @@ import java.util.List;
 
 /**
  * 高级钱包系统 - 存储和管理三种货币
- * 基于原版Millenaire的ItemMillPurse实现
  * 
- * 功能特性：
+ * 功能列表:
  * - 存储三种货币：铜德尼尔、银德尼尔、金德尼尔
  * - NBT数据持久化
  * - 工具提示显示货币数量
- * - 右键打开钱包界面（后续实现GUI）
+ * - 右键打开钱包界面
  * - 自动币种转换（1金=10银=100铜）
+ * - 货币验证和处理
+ * - 动态界面更新
+ * 
+ * @author JasonCian
+ * @version 0.1.3-alpha
+ * @since 1.20.1
  */
 public class ItemMillPurse extends Item {
     

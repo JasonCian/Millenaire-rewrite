@@ -10,13 +10,18 @@ import net.minecraft.network.chat.MutableComponent;
 
 /**
  * 货币系统工具类
- * 提供玩家货币管理的便捷方法
  * 
- * 功能特性：
+ * 功能列表:
  * - 在玩家背包中查找钱包
  * - 统计玩家所有货币
  * - 执行货币交易
- * - 货币转换
+ * - 货币转换和验证
+ * - 背包货币管理
+ * - 交易结算系统
+ * 
+ * @author JasonCian
+ * @version 0.1.3-alpha
+ * @since 1.20.1
  */
 public class CurrencyUtils {
     

@@ -22,14 +22,18 @@ import java.util.List;
 
 /**
  * 羊皮纸/卷轴系统 - 显示文档和指南信息
- * 基于原版Millenaire的ItemMillParchment实现
  * 
- * 功能特性：
+ * 功能列表:
  * - 存储文档标题和内容
  * - 右键显示文档内容
- * - 支持多页内容
- * - 文化主题的信息展示
+ * - 支持多页内容系统
  * - NBT数据持久化
+ * - 客户端GUI界面显示
+ * - 工具提示信息展示
+ * 
+ * @author JasonCian
+ * @version 0.1.3-alpha
+ * @since 1.20.1
  */
 public class ItemMillParchment extends Item {
     

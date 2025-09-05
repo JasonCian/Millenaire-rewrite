@@ -23,14 +23,15 @@ Originally created as one of Minecraft's most ambitious civilization mods, Mille
 thanks https://github.com/Leviaria/Millenaire-Reborn, I found 1.12 version open source
 now I'll rewrite based 1.12
 
-
-
-
 ### ✨ Key Features
 
-### Core Systems
+#### Core Systems
 
 - **Advanced Currency System**: Three-tier currency with copper, silver, and gold deniers
+- **Complete Bilingual Translation**: 249 English + 249 Chinese entries, all creative tabs and items fully translated
+- **Creative Mode Tabs**: 8 civilization tabs, all items categorized
+- **Decorative Blocks**: Stone, wood, earth, and more, with full data generation
+- **Magic Items**: Dynamic amulets, wands, and more
 
 #### 🏘️ Living Villages
 
@@ -41,11 +42,7 @@ now I'll rewrite based 1.12
 
 #### 🎨 Cultural Systems
 
-- **Norman Culture**: Medieval European architecture and feudal society
-- **Byzantine Culture**: Eastern Roman Empire aesthetics and governance
-- **Hindi Culture**: Indian subcontinent traditions and architecture
-- **Japanese Culture**: Traditional Japanese buildings and social structure
-- **Mayan Culture**: Pre-Columbian Mesoamerican civilization
+- **Norman, Byzantine, Hindi, Japanese, Mayan, Seljuk, Inuit, Generic**: All cultures implemented in creative tabs and item registration
 
 #### 🔮 Magic & Technology
 
@@ -55,27 +52,30 @@ now I'll rewrite based 1.12
 
 ### 🚀 Development Status
 
-**Current Version**: `0.1.0-alpha` (Active Development)
-**Last Updated**: September 2, 2025
+**Current Version**: `0.1.3-alpha` (Active Development)
+**Last Updated**: September 5, 2025
 
 #### ✅ Completed Systems
 
-| System                | Items        | Status      | Description                                          |
-| --------------------- | ------------ | ----------- | ---------------------------------------------------- |
-| **Item System**       | 95 items     | ✅ Complete | All legacy items migrated with modern mechanics      |
-| **Currency System**   | 6 currencies | ✅ Complete | Multi-cultural monetary system                       |
-| **Food System**       | 27 foods     | ✅ Complete | Culture-specific cuisine with proper nutrition       |
-| **Decorative Blocks** | 9 variants   | ✅ Complete | Stone, wood, and earth decorative building materials |
-| **Magic Items**       | 4 amulets    | ✅ Complete | Dynamic color-changing magical amulets               |
-| **Core Architecture** | -            | ✅ Complete | Modern Forge 1.20.1 foundation                       |
+| System                 | Items        | Status      | Description                                          |
+| ---------------------- | ------------ | ----------- | ---------------------------------------------------- |
+| **Item System**        | 100+ items   | ✅ Complete | All cultural items, tools, food, currency registered |
+| **Currency System**    | 6 currencies | ✅ Complete | Multi-cultural monetary system                       |
+| **Food System**        | 30+ foods    | ✅ Complete | Culture-specific cuisine with proper nutrition       |
+| **Decorative Blocks**  | 9+ variants  | ✅ Complete | Stone, wood, and earth decorative building materials |
+| **Magic Items**        | 5+ amulets   | ✅ Complete | Dynamic color-changing magical amulets               |
+| **Core Architecture**  | -            | ✅ Complete | Modern Forge 1.20.1 foundation                       |
+| **Translation System** | 249+ entries | ✅ Complete | English/Chinese, all creative tabs/items translated  |
+| **Creative Tabs**      | 8 cultures   | ✅ Complete | All tabs and categorization working                  |
 
 #### 🔄 In Progress
 
 | System                  | Progress | Expected Completion |
 | ----------------------- | -------- | ------------------- |
-| **Village Core System** | 25%      | October 2025        |
+| **Village Core System** | 30%      | October 2025        |
 | **Building Framework**  | 15%      | November 2025       |
 | **Entity System**       | 10%      | December 2025       |
+| **Mill Chest System**   | 10%      | October 2025        |
 
 #### 📋 Planned Features
 
@@ -92,16 +92,17 @@ now I'll rewrite based 1.12
 
 - **Package Structure**: Clean `com.jasoncian.millenaire_rewrite` organization
 - **Type Safety**: Full generic system for variant blocks and items
-- **Data Generation**: Automated resource file generation (126+ files)
+- **Data Generation**: Automated resource file generation (200+ files)
 - **Localization**: Complete English/Chinese translation support
+- **Creative Tabs**: All cultures implemented and categorized
 
 #### 📊 Project Statistics
 
-- **Java Classes**: 72 modern implementations
-- **Texture Assets**: 107 high-quality PNG files
-- **Generated Resources**: 126 automatically created files
-- **Registered Items**: 95 unique items with proper integration
-- **Registered Blocks**: 4 foundational blocks with entity support
+- **Java Classes**: 80+ modern implementations
+- **Texture Assets**: 120+ high-quality PNG files
+- **Generated Resources**: 200+ automatically created files
+- **Registered Items**: 100+ unique items with proper integration
+- **Registered Blocks**: 10+ foundational blocks with entity support
 
 #### 🔧 Code Quality
 
@@ -178,54 +179,59 @@ This project is licensed under the MIT License - see [LICENSE.txt](LICENSE.txt) 
 ~~提一嘴，我没有找到 1.12 的开源代码库，项目的参考代码 fork 自https://github.com/MoonCutter2B/Millenaire
 貌似是 1.8 版本~~
 谢谢这个写https://github.com/Leviaria/Millenaire-Reborn的哥们儿，我在他代码里找到1.12的源码
-之后我会基于1.12去重做这个mod了
+之后我会基于 1.12 去重做这个 mod 了
 
 ### ✨ 核心特性
 
+- **三层货币系统**：铜、银、金第纳尔
+- **完整双语翻译**：249 条英文+249 条中文，所有创造标签和物品均已翻译
+- **创造模式标签页**：8 个文明分类，所有物品已归类
+- **装饰方块系统**：石材、木材、土质等，数据自动生成
+- **魔法物品**：动态护符、法杖等
+
 #### 🏘️ 活跃村庄
 
-- **动态增长**: 村庄根据人口和资源有机扩张
-- **文化多样性**: 多个文明，具有独特的建筑风格和习俗
-- **经济系统**: 复杂的贸易网络和货币交换
-- **社交互动**: 深度的村民关系和声望系统
+- **动态增长**：村庄根据人口和资源有机扩张
+- **文化多样性**：诺曼、拜占庭、印度、日本、玛雅、塞尔柱、因纽特、通用
+- **经济系统**：复杂的贸易网络和货币交换
+- **社交互动**：深度的村民关系和声望系统
 
 #### 🎨 文化系统
 
-- **诺曼文化**: 中世纪欧洲建筑和封建社会
-- **拜占庭文化**: 东罗马帝国美学和治理
-- **印度文化**: 印度次大陆传统和建筑
-- **日本文化**: 传统日式建筑和社会结构
-- **玛雅文化**: 前哥伦布时期中美洲文明
+- 所有文化已在创造标签和物品注册中实现
 
 #### 🔮 魔法与科技
 
-- **动态护符**: 根据环境改变外观的魔法物品
-- **高级制作**: 文化特定的配方和材料
-- **独特工具**: 每个文明的专用装备
+- **动态护符**：根据环境改变外观的魔法物品
+- **高级制作**：文化特定的配方和材料
+- **独特工具**：每个文明的专用装备
 
 ### 🚀 开发状态
 
-**当前版本**: `0.1.0-alpha` (积极开发中)
-**最后更新**: 2025 年 9 月 2 日
+**当前版本**: `0.1.3-alpha` (积极开发中)
+**最后更新**: 2025 年 9 月 5 日
 
 #### ✅ 已完成系统
 
-| 系统         | 数量      | 状态    | 描述                             |
-| ------------ | --------- | ------- | -------------------------------- |
-| **物品系统** | 95 个物品 | ✅ 完成 | 所有遗留物品已迁移并具有现代机制 |
-| **货币系统** | 6 种货币  | ✅ 完成 | 多文化货币体系                   |
-| **食物系统** | 27 种食物 | ✅ 完成 | 文化特色料理，具有合适的营养值   |
-| **装饰方块** | 9 个变体  | ✅ 完成 | 石材、木材和土质装饰建筑材料     |
-| **魔法物品** | 4 个护符  | ✅ 完成 | 动态变色魔法护符                 |
-| **核心架构** | -         | ✅ 完成 | 现代 Forge 1.20.1 基础           |
+| 系统         | 数量       | 状态    | 描述                                  |
+| ------------ | ---------- | ------- | ------------------------------------- |
+| **物品系统** | 100+个物品 | ✅ 完成 | 所有文化物品、工具、食物、货币已注册  |
+| **货币系统** | 6 种货币   | ✅ 完成 | 多文化货币体系                        |
+| **食物系统** | 30+ 种食物 | ✅ 完成 | 文化特色料理，具有合适的营养值        |
+| **装饰方块** | 9+ 个变体  | ✅ 完成 | 石材、木材和土质装饰建筑材料          |
+| **魔法物品** | 5+ 个护符  | ✅ 完成 | 动态变色魔法护符                      |
+| **核心架构** | -          | ✅ 完成 | 现代 Forge 1.20.1 基础                |
+| **翻译系统** | 249+条     | ✅ 完成 | 英文/中文，所有创造标签和物品均已翻译 |
+| **创造标签** | 8 个文明   | ✅ 完成 | 所有标签和分类均已实现                |
 
 #### 🔄 开发中
 
 | 系统             | 进度 | 预期完成时间  |
 | ---------------- | ---- | ------------- |
-| **村庄核心系统** | 25%  | 2025 年 10 月 |
+| **村庄核心系统** | 30%  | 2025 年 10 月 |
 | **建筑框架**     | 15%  | 2025 年 11 月 |
 | **实体系统**     | 10%  | 2025 年 12 月 |
+| **千年箱系统**   | 10%  | 2025 年 10 月 |
 
 #### 📋 计划功能
 
@@ -242,16 +248,17 @@ This project is licensed under the MIT License - see [LICENSE.txt](LICENSE.txt) 
 
 - **包结构**: 清洁的 `com.jasoncian.millenaire_rewrite`组织
 - **类型安全**: 变体方块和物品的完整泛型系统
-- **数据生成**: 自动化资源文件生成（126+文件）
+- **数据生成**: 自动化资源文件生成（200+文件）
 - **本地化**: 完整的英中文翻译支持
+- **创造标签**: 所有文化已实现并分类
 
 #### 📊 项目统计
 
-- **Java 类**: 72 个现代实现
-- **材质资产**: 107 个高质量 PNG 文件
-- **生成资源**: 126 个自动创建的文件
-- **注册物品**: 95 个独特物品，完整集成
-- **注册方块**: 4 个基础方块，支持实体
+- **Java 类**: 80+ 个现代实现
+- **材质资产**: 120+ 个高质量 PNG 文件
+- **生成资源**: 200+ 个自动创建的文件
+- **注册物品**: 100+ 个独特物品，完整集成
+- **注册方块**: 10+ 个基础方块，支持实体
 
 #### 🔧 代码质量
 

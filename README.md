@@ -331,4 +331,4 @@ cd millenaire-rewrite
 
 ---
 
-_Last updated: September 4, 2025 | 最后更新：2025 年 9 月 4 日_
+_Last updated: September 5, 2025 | 最后更新：2025 年 9 月 5 日_

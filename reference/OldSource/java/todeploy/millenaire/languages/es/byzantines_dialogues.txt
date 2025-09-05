@@ -1,0 +1,590 @@
+//*     Las líneas de diálogo comienzan con un código como "v2; 30;" que especifican quién está hablando y cuándo aparece la línea. Por favor cópialo exactamente en tus traducciones.
+//*     La primera mitad de la línea (hasta el /) está en el idioma de los aldeanos y debe mantenerse tal y como está, la segunda parte es la que debe traducirse
+
+
+newchat;key:nicevillage,weigth:10
+v1;0;Eínai pánta mia efcharístisi na doúme oraío chorió mas, étsi den eínai? / Siempre es un placer ver como crece nuestra pequeña aldea, ¿verdad?
+v2;30;Fysiká, kai eínai óla lógo ton terástion prospatheión mas! / Por su puesto, ¡y es todo gracias a nuestros esfuerzos!
+
+newchat;key:sunzombie,tag:notraining,weigth:2
+v1;0;Agapo ilióloustes méres! / ¡Me encantan los días soleados!
+v2;30;Poios den échei? / ¿Y a quién no?
+v1;60;Den to káno. / A mí no.
+v2;120;Giatí óchi? / ¿Por qué no?
+v1;150;O ílios kaíei! Misó to exoterikó! / ¡El sol quema! ¡Odio el exterior!
+v2;180;Eísai san zómpi! / ¡Actúas como un zombie!
+v1;210;Ísos eímai ... / A lo mejor lo soy...
+
+newchat;key:nothomeyet,weigth:6
+v1;0;Eínai pánta mia efcharístisi na doúme oraío chorió mas, étsi den eínai? / Siempre es un placer ver como crece nuestra pequeña aldea, ¿verdad?
+v2;30;Fysiká eínai! Échoume xodépsei tóso polý chróno na doulépsoume se aftó to méros. / ¡Por supuesto! Llevamos tanto tiempo trabajando en este lugar.
+v1;60;Eínai schedón san sto spíti, akrivós ópos prin írthame edó. / Es casi como estar en casa, como antes de que viniésemos aquí.
+v2;90;Aftó eínai to spíti mas tóra, aplá prépei na to apodechtoúme. / Este es ahora nuestro hogar, es hora de aceptarlo.
+v1;120;Xéro, tha to dechtó me ton kairó ... / Lo sé, lo acepto a su tiempo ...
+
+newchat;key:ishome,weigth:6
+v1;0;Eínai pánta mia efcharístisi na doúme oraío chorió mas, étsi den eínai? / Siempre es un placer ver nuestro pequeño y agradable pueblo, ¿no?
+v2;30;Fysiká eínai! Échoume xodépsei tóso polý chróno na doulépsoume se aftó to méros. / ¡Por supuesto que lo es! Llevamos tanto tiempo trabajando en este lugar.
+v1;60;Eínai schedón san sto spíti, akrivós ópos prin írthame edó. / Es casi como estar en casa, como antes de que viniésemos aquí.
+v2;90;Aftó eínai to spíti mas tóra, aplá prépei na to apodechtoúme. / Este es ahora nuestro hogar, es hora de aceptarlo.
+v1;120;Aftó eínai to spíti mas tóra, aftí i syzítisi me ékane na to syneiditopoiíso. / Este es nuestro hogar ahora, esta conversación me ha hecho darme cuenta de ello.
+
+newchat;key:goodharvest1,v1:adult,v2:adult,v2:notvtype:pastor_byzantine-metropolit_byzantine,building:farm,building:vineyard,notbuilding:taverna,weigth:24
+v1;0;To sitári kai ta stafýlia mas afxánontai polý fétos. / Este año hemos cosechado muchísimo trigo y uvas.
+v2;30;Nai, oi agrótes anaféroun rekór rekór kai dokimásate to krasí? / Sí, los agricultores hablan de un récord en la producción de las cosechas y ¿has probado el vino?
+v1;60;Den échoume tavérna gia na kánoume krasí ... / Um, no tenemos tabernas para hacer vino...
+v2;120;O ..., tóte ti épaiza chthes ?!/ Oh ... ¡¿Entonces qué bebí yo ayer?!
+
+newchat;key:goodharvest1withtavern,v1:adult,v2:adult,v2:notvtype:pastor_byzantine-metropolit_byzantine,building:farm,building:vineyard,building:taverna,weigth:14
+v1;0;To sitári kai ta stafýlia mas afxánontai polý fétos. / Este año hemos cosechado muchísimo trigo y uvas.
+v2;30;Nai, oi agrótes anaféroun rekór rekór kai dokimásate to krasí? / Sí, los agricultores hablan de un récord en la producción de las cosechas. Y ¿has probado el vino?
+v1;60;Echo! To exairetikó romaïkó mas krasí échei kalýteri géfsi apó poté!/ ¡Por supuesto! ¡Nuestro buen vino romano sabe mejor que nunca!
+v2;90;Xéro, den eínai katapliktikó? Eícha pénte olóklira boukália chthes. To kalýtero krasí pou eícha poté! / Lo sé, ¿no es sorprendente? Ayer me tome cinco botellas enteras. ¡El mejor vino que he probado!
+v1;120;Pénte olóklira boukália? Prépei na epivradýneis ton ánthropo! Akómi kai an eínai mia exairetikí epochí, kindynéveis na gíneis methysménos me aftó to polý krasí!/ ¿Cinco botellas enteras? ¡Tienes que relajarte hombre! ¡Aunque haya sido una gran temporada, corres el riesgo de convertirte en un borracho si bebes tanto vino!
+v2;150;Tha eímai kalá ótan o ponokéfalos aftós enkataleiftheí ... / Estaré bien una vez que este dolor de cabeza desaparezca...
+
+newchat;key:cider,v1:adult,v2:adult,notbuilding:taverna,weigth:2
+v1;0;Chreiazómaste mia tavérna gia na ftiáxoume to krasí polý sýntoma. / Necesitamos una taberna enseguida para preparar el vino.
+v2;30;Ti? Giatí? Sígoura, to krasí eínai kaló, allá éna olókliro ktírio gia to krasí? Prépei na váloume proteraiótites stis proteraiótités sas! / ¿Qué? ¿Por qué? Sí, el vino es bueno, ¿pero tanto como para hacer un edificio entero sólo para el vino? ¡Necesitas aclarar tus prioridades!
+v1;60;Dokímasa lígo chymó Norman chtes. Ítan friktó! Pós oi ágrioi san aftó? / Probé un poco de sidra normanda ayer. ¡Fue horrible! ¿Cómo les puede gustar a esos salvajes?
+v2;90;Giatí dokimázete ta potá ton ágrion? Eísai ilíthios?! / ¿Por qué pruebas las bebidas de los salvajes? ¡¿Eres idiota?!
+v1;120;Ego eimai... / Parece que lo soy...
+v2;130;Pánta na píneis romaïkí ousía! ROMAÏKÍ OUSÍA! / ¡Bebe siempre cosas romanas! ¡COSAS ROMANAS!
+
+newchat;key:harvest,weigth:10
+v1;0;sitári afxánetai polý kalá aftí ti chroniá, étsi eínai ta stafýlia, kathos kai. Lampro, den eínai? / El trigo está creciendo muy bien este año, al igual que las uvas. Qué bien, ¿no?
+v2;30;Nai, faínetai étsi: Échoume to períergo kairo edo na efcharistíso. / Sí, eso parece: se lo debemos a este clima tan raro.
+v1;60;Akoma kai an afto den échei kanéna noima gia ména! / ¡Incluso si para mí no tiene el menor sentido!
+
+newchat;key:lightning,weigth:7
+v1;0;Thymáste tin kataigída pou eíchame? Thélo na po to pragmatiká varý! / ¿Recuerdas la tormenta que tuvimos? ¡Hablo de esa tan fuerte!
+v2;30;Fysiká. Schedon katastráfike synkomidí mas. I fýsi eínai arketá entyposiako, e? / Por supuesto. Casi arruinó nuestras cosechas. La naturaleza es impresionante, ¿eh?
+v1;60;Entyposiakí eínai éna prágma. Allá ímoun schedon chtypíthike apo keravno! / Será impresionante. ¡Pero es que casi me cae un rayo!
+v2;100;Den ítan mésa sto spíti sas? Xérete oti eínai epikíndyno éxo katá ti diárkeia mias kataigídas! / ¿No estabas en tu casa? ¡Sabes que es peligroso andar afuera durante las tormentas!
+v1;120;Zontaná kai na máthoun. / Vive y aprende.
+
+newchat;key:lightningpig,weigth:1,v1:adult,v2:adult
+v1;0;Ego den aisthánomai kalá ... / No me encuentro bien...
+v2;30;Ti tréchei me séna? Eísai árrostos? / ¿Qué te ocurre? ¿Estás enfermo?
+v1;60;Ochi, ego jj-molis thymíthike kápoia ora-na symveí. / No, ac-aca-acabo de recordar al-algo.
+v2;100;Boreíte íchou pragmatiká epireázontai. Eíste sígouroi oti den eínai árrostos? / Suenas realmente afectado. ¿Estás seguro de que no estás enfermo?
+v1;120;N-ochi, ego aplá f-aisthánontai fovisménoi. / N-no, solo te-tengo miedo.
+v2;150;Ti synévi loipon? / ¿Qué ha pasado?
+v1;180;Katá ti diárkeia tis l-teleftaía kataigída. Perpátisa éxo apo to chorio-vv, íxera oti den boroúsa na páro píso sto chorio prin apo tin kataigída. Gi 'afto kai krýftike káto apo éna déntro. / Du-durante la última tormenta. Salí del p-p-pueblo, sabía que no podría regresar antes de la tormenta. Así que me escondí debajo de un árbol.
+v2;210;Tha diakindýneve ti zoí sas éxo apo to chorio! Tha boroúse na eíche pethánei! / ¡Arriesgaste tu vida fuera del pueblo! ¡Podrías haber muerto!
+v1;240;Loipon, ímoun asfalís. Sti synécheia, omos eída éna gouroúni. I lighning chtýpise. Kai oi nekroí p-gouroúni ... I-afto sikothike kai kiníthike l-san ki emás, ch-kynigoún eména me éna lampero sw-spathí! / Bueno, estaba a salvo. Entonces vi un cerdo. Un rayo lo golpeó. Y el c-cerdo muerto ... ¡Se-se levanto y se movió como nosotros, per-persiguiéndome con una reluciente espada!
+v2;290;Tha eínai anoisíes. Tha prépei na ítan énas efiáltis. / Estas diciendo tonterias. Debe haber sido una pesadilla.
+v1;320;Ítan alítheia! Sosto! Sosto! Sosto! / ¡Es cierto! ¡Cierto! ¡Cierto! ¡Cierto!
+v2;350;Eíste treloí. Pigaínete na párete lígo krasí, kai na iremísoun. / Estás loco. Ve a por un poco de vino y cálmate.
+v1;380;Tha d-kánoume afto. Boreí-Ísos afto tha voithísei. / Voy a hacer eso. Tal-Talvez vez ayude.
+
+newchat;key:souvlaki,v1:adult,v2:adult,v1:male,v2:female,weigth:10
+v1;0;Ach ... Souvláki, to éna kai monadiko fagito! / Ah ... ¡Souvlaki, la mejor comida!
+v2;30;An oi ándres den échoun trofí mas-kánei tis gynaíkes ... / Si los hombres no nos tuvieseis a nosotras para hacer la comida ...
+v1;60;Tha kánoun to fagito tous eaftoús mas! / ¡Nos la haríamos nosotros mismos!
+v2;100;Alítheia? Pos gínetai kai páli souvláki? / ¿De Verdad? ¿Cómo dices que se hace el souvlaki?
+v1;130;Err ... Vázete ta psária, ochi, païdákia sto foúrno, tote ... / Emm ... Metes pescado, no, chuletas de cordero en el horno, entonces ....
+v2;190;... vázeis me kápoion féta se éna ravdí. Den boreíte pragmatiká na mageirépsoun! / ... lo pones con queso feta en un palo. ¡Realmente no sabes cocinar!
+
+newchat;key:lonevillage,weigth:10
+v1;0;Vareto. ola eínai pánta to ídio edo. / Qué aburrimiento. Aquí siempre es todo igual.
+v2;30;Touláchiston eínai eirinikí. / Al menos se está tranquilo.
+v1;60;Típota idiaítero gia éna apomakrysméno chorio san ti dikí mas! / ¡Nada especial para una aldea tan remota como la nuestra!
+
+newchat;key:city,v1:adult,v2:adult,weigth:2
+v1;0;Otan ímoun mikros, íthela na eínai énas exerevnitís, na anakalýpsoun néa edáfi kai na pliroún endiaférontes néous anthropous. Allá tora? Eímai kollísei se afto to apomakrysméno chorioudáki. Thélo na páo kai na episkeftheíte néa méri. / Cuando era joven, quería ser un explorador, descubrir nuevas tierras y conocer a gente nueva e interesantes. ¿Pero ahora? Estoy atrapado en este pequeño pueblo perdido. Quiero visitar nuevos lugares.
+v2;30;Allá den tha vreíte megáli diaforá sto állo chorio. Eímaste oloi lígo polý to ídio. / Pero no encontrarás nada nuevo en el otro pueblo. Es casi más de lo mismo.
+v1;60;Den milo gia ta choriá. Milo gia tis poleis, í akoma kai i poli! / No hablo de pueblos. Hablo de urbes, ¡o incluso la ciudad!
+v2;90;I poli? Ennoeís Konstantinoúpoli? / ¿La ciudad? ¿Te refieres a Constantinopla?
+v1;120;Nai! To kéntro tis éndoxis aftokratorías mas. Eínai to thávma tou kosmou. / ¡Sí! El centro de nuestro glorioso imperio. Es la maravilla del mundo.
+v1;150;Ypárchoun perissoteroi apo 500 000 ánthropoi pou zoun ekeí, boreíte na imangine afto?! / Hay más de 500 000 personas viviendo allí, ¡¿te lo puedes imaginar?!
+v2;180;Akoúgetai adýnato gia ména. 500 000 ánthropoi se éna méros? / Es imposible. ¿500 000 personas en un solo lugar? ¡Sigue soñando!
+
+newchat;key:wine,v1:adult,v2:adult,v1:male,v2:male,weigth:10
+v1;0;Min pieíte krasí mono! / ¡No bebas vino solo!
+v2;30;Posimou mazí eínai pio diaskedastiko! / ¡Beber juntos es más divertido!
+v1;50;Cheers gia to krasí! / ¡Viva el vino!
+v2;70;Cheers! / ¡Salud!
+
+newchat;key:boyvillagechief,v1:child,v1:vtype:baron_byzantine-centurio_byzantine-metropolit_byzantine,v1:male,weigth:5
+v1;0;Tha eímai o archigos tou chorioú argotera, oldie! / ¡Seré el líder de esta aldea cuando crezca, viejo!
+v2;30;Min eísai toso thrasýs, agoráki. Í tha párei éna chastoúki! / No seas tan descarado, mocoso. ¡O te llevarás una bofetada!
+v1;60;Kai ego tha sas párei sti synécheia chastoúkise! / ¡Y yo te daré la bofetada!
+v2;80;*chastoúkia* / *bofetada*
+v1;85;Och, afto ponáei! / ¡Ay, eso duele!
+v2;105;Ísos échete máthei káti! / ¡Quizás hayas aprendido algo!
+
+newchat;key:kids1,v1:child,v2:child,notrel:sibling,weigth:10
+v1;0;O bampás mou eínai ischyroteri apo ti dikí sas. / Mi padre es más fuerte que el tuyo.
+v2;30;Ochi! O bampás mou eínai i ischyroteri sto chorio! / ¡No! ¡Mi papá es el más fuerte del pueblo!
+v1;60;Ochi! O bampás mou eínai o ischyroteros stin aftokratoría! / ¡No! ¡Mi papá es el más fuerte del Imperio!
+v2;90;Impossible! O bampás mou eínai i ischyroteri ston kosmo! / ¡Imposible! ¡Mi papá es el más fuerte del mundo!
+v1;120;Sígoura o bampás mou tha boroúse na nikísei dikí sas se ligotero apo dýo chtypímata! / ¡Apuesto a que mi padre podría vencer al tuyo con menos de dos golpes!
+v2;150;Párte ton bampá sas étoimos gia énan agona! / ¡Prepara a tu papá para una pelea!
+
+newchat;key:kids2,v1:child,v1:male,v2:child,v2:female,weigth:10
+v1;0;Korítsia eínai ilíthioi. / Las chicas son tontas.
+
+newchat;key:kids3,v2:child,v2:male,v1:child,v1:female,weigth:10
+v1;0;Échete dei pouthená koúkla mou? Den boro na to vro ... / ¿Has visto mi muñeca en algun sitio? No puedo encontrarla ...
+v2;30;Dose mou píso to spathí mou kai tha to párei píso! / ¡Devuélveme mi espada y la recuperarás!
+v3;60;Boreíte na to éklepse! Kléftis! / ¡Tú la robaste! ¡Ladrón!
+
+newchat;key:clothes1,v1:adult,v1:female,v2:adult,v2:female,weigth:10
+v1;0;Écheis dei kainoúrgia roúcha mou? / ¿Has visto mi ropa nueva?
+v2;30;Eíste mia pragmatikí omorfiá agapité mou. o, ti tairiázei! / Eres una verdadera belleza cariño. ¡Todo te queda bien!
+v1;60;Allá den eímai toso omorfi oso boreíte! / ¡Pero no soy tan hermosa como tú!
+v2;90;Ohh afto den eínai alítheia, $targetfirstname! / Ohh eso no es cierto, $targetfirstname!
+
+newchat;key:clothes2,v1:adult,v1:female,v2:adult,v2:female,weigth:1
+v1;0;Échete dei néa roúcha mou? / ¿Has visto mi ropa nueva?
+v2;30;Eíste mia omorfiá. o, ti tairiázei, agapité $targetfirstname mou! / Eres una belleza. Todo te queda bien, mi querida $targetfirstname!
+v1;60;Allá den eímai toso omorfi oso boreíte! / ¡Pero no soy tan hermosa como tú!
+v2;90;aliquid / Cierto.
+v1;100;!!!
+
+newchat;key:clothes3,v1:adult,v1:female,v2:adult,v2:male,weigth:5
+v1;0;Écheis dei kainoúrgia roúcha mou, $targetfirstname? / ¿Has visto mi ropa nueva, $targetfirstname?
+v2;30;Nomízo oti paliá roúcha sas fainotan polý kalýtera gia esás. / Creo que tu ropa de antes te quedaba mucho mejor.
+v1;60;TI? / ¿Qué?
+v2;70;Ochi. ochi! Eíste omorfi! Mou arései afto to néo ... prágmata! / ¡Nada, nada! ¡Eres hermosa! Me gustan estas nuevas ... ¡cosas!
+
+newchat;key:clothes4,v1:adult,v1:female,v2:adult,v2:male,weigth:5
+v1;0;Étsi den tha arései to néo mou forema? / Entonces, ¿te gusta mi nuevo vestido?
+v2;30;I paliá sas tairiázei kalýtera. / Lo de antes te sentaba mejor.
+v1;60;TI? / ¿Qué?
+v2;70;Hey $targetfirstname, eínai aplá i gnomi mou. / Hey $targetfirstname, es solo mi opinión.
+v1;90;Touláchiston eísai eilikrinís! / ¡Al menos eres honesto!
+
+newchat;key:girl,v1:adult,v1:female,v2:child,v2:male,rel:parent,weigth:5
+v2;0;Ti prépei na kánete otan sas arései éna korítsi? / ¿Qué deberías hacer si te gusta una chica?
+v1;30;Kánte kompliménta tis kai eínai oraío na tis. / Hazle cumplidos y sé amable con ella.
+v2;60;Ochi! Afto eínai adýnaton! Poies tha eínai oi álloi skéftontai gia ména tote? / ¡No! ¡Eso es imposible! ¿Qué pensarán los demás de mí entonces?
+v1;90;An agapoúse pragmatiká, den tha noiázontai gia tous állous. / Si de verdad la quisieras, no te importarían los demás.
+
+newchat;key:householdtry,v1:adult,v1:female,v2:child,v2:female,rel:parent,weigth:10
+v1;0;Írthe i ora na sas didáxei pos na frontísei éna spíti. / Es hora de enseñarte cómo cuidar de un hogar.
+v2;30;Megáli, ti échoume archísei me? Boro na káno souvláki? Pleaaase! / Genial, ¿con qué comenzamos? ¿Puedo hacer souvlaki? ¡Pooor favooor!
+v1;60;As doúme poso kaloí eíste sto na kánei ton katharismo prota. / Veamos primero qué tan bueno eres limpiando.
+v2;90;Entáxei, allá tha mou deíxei pos na kánei souvláki argotera, yposchéthike? / De acuerdo, pero me mostrarás cómo hacer souvlaki más tarde, ¿lo prometes?
+v1;120;Yposchetheí. / Prometido.
+
+newchat;key:doll,v1:adult,v1:male,v2:child,v2:female,rel:parent,weigth:5
+v2;0;Boreís na mou agorásei afto to néo koúkla? O kathénas échei éna néo, allá ego ... / ¿Me puedes comprar una muñeca nueva? Todos tienen una nueva, excepto yo ...
+v1;30;Poia eínai i magikí léxi ? / ¿Cuál es la palabra magica?
+v2;60;Boreíte sas parakalo na mou agorásei mia néa koúkla? / ¿Puedes POR FAVOR comprarme una nueva muñeca?
+v1;90;Entáxei, allá tha prépei na min yposchontai na milísoume pia píso! / De acuerdo, ¡pero tienes que prometer que vas a limpiar tu cuarto!
+v2;120;Yposchetheí. / ¡Lo prometo!
+
+newchat;key:woodsword,v1:adult,v1:male,v2:child,v2:male,rel:parent,weigth:5
+v2;0;Ouch...
+v1;30;Eísai foverí! Ti synévi? / ¡Estás horrible! ¿Qué ha pasado?
+v2;60;Loipon, o kathénas échei éna xýlino spathí, allá eména. / Bueno, todos tienen una espada de madera menos yo.
+v2;80;Étsi apofásisan na mou epitethoún! / ¡Así que decidieron atacarme!
+v2;100;Tha prépei na páro éna, pára polý! / ¡Tienes que conseguirme una también!
+v1;120;Vlépo échete chrisimopoiísei chroma gia ta simádia kai tis pligés sou. Kalí prospátheia! / Estoy viendo que has usado pintura para tus cicatrices y heridas. ¡Buen intento!
+v2;150;Télos pánton! Parakalo na mou dosete éna spathí! / ¡De todas formas! ¡Por favor dame una espada!
+v1;180;Spathí eínai epikíndynes. Den xífos gia séna! / Las espadas son peligrosas ¡No te voy a dar una!
+
+newchat;key:pride1,v1:adult,v1:male,v2:adult,v2:male,v1:vtype:architect_byzantine,weigth:3
+v1;0;Ktíria mas eínai toso omorfo pou eínai pánta megáli gia na deíte to érgo mas! / Nuestros edificios son preciosos, siempre es genial ver nuestro trabajo.
+v2;30;Oi Mágia théloun na dimiourgísoun polý oraía domés, kathos kai. / Esos mayas construyen estructuras muy bonitas también.
+v1;60;Min me enochloún me tétoia weirdos. Ta ktíriá mas faínontai polý kalýtera! / No me molestes con esos raritos. ¡Nuestros edificios son mucho mejores!
+v2;90;Loipon ... / Bueno...
+v1;100;Prodoti! Écheis kamía ethnikí yperifáneia? / ¡Traidor! ¿No tienes orgullo nacional?
+
+newchat;key:pride2,weigth:10
+v1;0;Emeís oi Romaíoi boreí na eínai pragmatiká yperífanoi gia osa échoume petýchei! / ¡Los romanos podemos estar muy orgullosos de lo que hemos logrado!
+v2;30;Fysiká! o, ti égine deíte apo emás! / ¡Por supuesto! ¡Todo lo que ves fue hecho por nosotros!
+v1;60;I pio ischyrí aftokratoría stin istoría tou kosmou! / ¡El imperio más poderoso de la historia mundial!
+v2;90;Álla éthni tha apoláfsete se doxa mas. / Otras naciones se postrarán ante nuestra gloria.
+v1;120;Tha prépei na! Eímaste oi kyríarchoi! / ¡Deberán de hacerlo! ¡Somos los que mandan!
+
+newchat;key:pride3,weigth:10
+v1;0;I romaïkí aftokratoría tha kyvernísei ton kosmo gia álli mia forá! / ¡El imperio romano gobernará el mundo una vez más!
+v2;30;Emeís tha! / ¡Lo haremos!
+v1;60;Ola tha eínai kalýtera sti synécheia! / ¡Todo mejorará!
+v2;90;Nai! / ¡Sí!
+v1;100;Cheers gia tin aftokratoría! / ¡Que viva el imperio!
+v2;110;Cheers! / ¡Viva!
+
+newchat;key:rain,tag:notraining,weigth:10
+v1;0;Tha vréxei. Sýntoma. / Va a llover. Pronto.
+v2;30;Boro na aisthánomai, pára polý. / Yo también puedo sentirlo.
+v1;60;Períergo. Eínai pánta i ídia posotita iméres méchri vréchei. / Qué extraño. Siempre pasa la misma cantidad de días hasta que vuelve a llover.
+v2;100;Nomízete oti étsi, pára polý? / ¿Tú también lo crees?
+v2;125;Períergo zoí edo, étsi den eínai? / La vida aquí es extraña, ¿verdad?
+v1;155;Sígoura! / ¡Sin lugar a duda!
+
+newchat;key:weird1,v2:child,weigth:1
+v1;0;Koíta afto to gouroúni! Eínai charitoméno, étsi den eínai? / ¡Mira este cerdo! Es muy mono, ¿verdad?
+v2;30;WAAAaaah, fýge! / WAAAaaah, ¡fuera!
+v1;60;Fovásai ton choíron? / ¿Tienes miedo de los cerdos?
+v2;80;N-ochi! Den eímai! / ¡N-no! No les tengo miedo!
+v1;110;Hahahahahaha! Tora afto eínai asteío! / ¡Jajajajajaja! ¡Esto sí que es gracioso!
+
+newchat;key:weird2,weigth:1
+v2;0;Aaa ... Kalí souvláki. Thélete mia boukiá? / Ahh ... Qué buen souvlaki. ¿Quieres un bocado?
+v1;30;*Bites* / *Muerde*
+v1;40;Sas efcharisto! Agapo souvláki. / ¡Gracias! Me encanta el souvlaki.
+v2;70;Poios den! / ¡Y a quién no!
+v1;100;Échete poté prospathísei na thései kápoia vromiá gia souvláki? / ¿Alguna vez has probado a poner un poco de tierra en el souvlaki?
+v2;140;...
+v2;150;Ochi? / ¿No?
+v1;170;Merikés forés káno ... Ach .. ola xekínisan otan souvláki mou épese sto édafos pérysi ... Delicous! / A veces lo hago ... Ah ... Todo comenzó cuando mi souvlaki se me cayó al suelo el año pasado ... ¡Qué rico!
+v2;220;Periménete! Vázete souvláki sas sti vromiá kai sti synécheia na to fáte? Ti sto diáolo ..? / ¡Espera! ¿Tiras tu souvlaki al suelo y luego te lo comes? ¿Qué demonios..?
+v1;260;Allá kalo goústo! / ¡Pero sabe bien!
+v2;280;Eíste pragmatiká trelos. / Estás loco de remate.
+
+newchat;key:weird3,weigth:1
+v1;0;Thélo na odigíso éna gouroúni! / ¡Quiero montar un cerdo!
+v2;30;Giatí? / ¿Por qué?
+v1;60;Eínai diaskedastiko! / ¡Es divertido!
+v2;80;Giatí sto kalo tha odigíso éna gouroúni? / ¿Por qué demonios montarías un cerdo?
+v1;110;Epeidí eínai diaskédasi! / ¡Porque es divertido!
+v2;120;Eísai trelos. / Estás loco.
+
+newchat;key:chatter1,v1:female,v2:female,v1:adult,v2:adult,weigth:15
+v1;0;Échete ídi akoúsei gia to mystiko tou xylokopos tou? / ¿Ya has oído lo del secreto del leñador?
+v2;30;Ochi, ti eínai láthos me afton? / No, ¿qué pasa con él?
+v1;60;Faínetai na syllégoun ta míla, kai ta poloún stous Normandoús! / ¡Al parecer recoge manzanas y se las vende a esos normandos!
+v2;90;No way! Kai kratá ta chrímata? / ¡No puede ser! ¿Y se queda con el dinero?
+v1;120;Fysiká! / ¡Por supuesto!
+
+newchat;key:chatter2,v1:female,v2:female,v1:adult,v2:adult,weigth:15
+v1;0;O sýzygos mou eípe oti énas varonos tha episkeftheí to chorio mas sýntoma! / ¡Mi esposo dijo que un barón de esos visitará nuestra aldea pronto!
+v2;30;Giatí tha prépei na échei érthei edo? / ¿Por qué vendría él aquí?
+v2;40;Éna tétoio ischyro, ischyros kai omorfos ántras ... / Un hombre tan poderoso, fuerte y guapo ...
+v1;70;Ti? Boreíte na tous arései? / ¿Qué? ¿Te gustan?
+v2;100;Tha prépei na paradechto oti eínai elkystikí! / ¡Tienes que admitir que son atractivos!
+
+newchat;key:chatter3,v1:female,v2:female,v1:adult,v2:adult,v1:hasspouse,v2:hasspouse,weigth:15
+v1;0;Ypárchei mia chalarí gynaíka sto geitoniko chorio! / ¡Hay una fulana en el pueblo vecino!
+v1;20;Sýmfona me tous ischyrismoús, akomi kai oi ándres tou chorioú mas échoun páei ekeí! / ¡Eso parece, incluso los hombres de nuestra aldea han ido allí!
+v2;60;Kako eidíseis! Écho na amfisvitísei ton ántra mou! / ¡Eso es horrible! ¡Tengo que preguntar a mi esposo!
+v1;90;Mine faínetai na eínai athoos. Den eíste sígouroi gia to diko sas, agapité mou! / El mío parece ser inocente. ¡No estoy segura si el tuyo también, querida!
+v2;120;Elpízo na eínai toso kalá. Échei kalýtera. / Espero que también. Será mejor que lo sea.
+
+newchat;key:chatter4,v1:female,v2:female,v1:adult,v2:adult,,v1:hasspouse,weigth:15
+v1;0;Mou arései na vlépo paidiá na paízoun! / ¡Me encanta ver a los niños jugando!
+v1;20;Tha me kánei pánta na théloun na échoun éna moro! / ¡Me hace tener ganas de tener un bebé!
+v2;50;Eíste sígouroi oti eíste se thési na to antéxoun oikonomiká? / ¿Estás segura de poder permitírtelo?
+v2;70;Ta paidiá eínai akrivá! / ¡Los niños cuestan dinero!
+v1;100;Den anisycheí edo! O ánthropos mou échei perissotero apo arketá chrímata. / ¡No te preocupes! Mi hombre tiene dinero más que suficiente.
+
+newchat;key:chatter5,v1:female,v2:female,v1:adult,v2:adult,v2:hasspouse,weigth:15
+v1;0;Agapité mou, o ánthropos sas eínai énas méthysos! / Querida mía, ¡tu hombre es un borracho!
+v2;15;Pos boreís na to les afto? / ¿Cómo puedes decir eso?
+v1;45;Sýzygos sas írthe methysménos sto spíti mas chthes to vrády! / ¡Tu esposo vino borracho a nuestra casa anoche!
+v1;70;Eípe oti thélei na pantrefteí éna provato. / Dijo que quería casarse con una oveja.
+v1;100;Kai oti tha ypárxei mia terástia celebretion gámo! / ¡Y que habría una gran celebración de bodas!
+v1;130;Parakaloúme, anaktísei ton élencho páno apo to átomo sas. / Por favor, recupera el control sobre tu hombre.
+v1;150;Eínai pragmatiká anatrichiastiko. / Es realmente espeluznante.
+v2;180;Entáxei entáxei, ego tha ton timorísei! / Vale, vale, ¡lo castigaré!
+v2;210;Den krasí gi 'afton! / ¡Me quedaré con su vino!
+
+newchat;key:chatter6,v1:female,v2:female,v1:adult,v2:adult,weigth:15
+v1;0;Psomí sas eínai toso nostimo! Poio eínai to mystiko sas? / ¡Tu pan está buenísimo! ¿Cuál es tú secreto?
+v2;30;Aplá prosthéste lígi záchari mésa. / Solo métele un poco de azúcar adentro.
+v1;60;Alítheia? Típota perissotero? / ¿De verdad? ¿Nada más?
+v2;90;Afto ítan! Tha gefteíte tin diaforá. / ¡Eso es todo! Ya verás la diferencia.
+
+newchat;key:chatter7,v1:female,v2:female,v1:adult,v2:adult,v2:hasspouse,weigth:15
+v1;0;Poios ítan o ánthropos pou échete episkeftheí chthes to vrády? / ¿Quién fue el hombre que te visitó anoche?
+v2;30;Ti ánthropos? / ¿Qué hombre?
+v1;40;O ánthropos pou sýrthike éxo apo to paráthyro sas! / ¡El hombre que se coló por tu ventana!
+v1;45;Min nomízete oti den tha paratirísete! / ¡No creerías que no me daría cuenta!
+v2;60;Pos tolmás ..? Ímoun kai eímai pánta pistí sto sýzygo mou. / ¿Cómo te atreves..? Yo soy y siempre seré fiel a mi esposo.
+v1;80;Nai, nai. Tha élega oti, kathos, an ímoun sti thési sou. / Sí, sí. Yo diría eso también si fuera tú.
+v2;110;fto den eínai díkaio! Min diadídoun fímes gia ména. / ¡No es justo! No difundas rumores sobre mí.
+
+newchat;key:chatter8,v1:female,v2:female,v1:adult,v2:adult,weigth:15
+v1;0;Aftá ta néa ergaleía mageirikís eínai exairetiko! / ¡Estas nuevas herramientas de cocina son extraordinarias!
+v2;30;Nai, kánei to mageírema toso éfkolo! Eínai diaskedastiko! / Sí, ¡hace que cocinar sea más fácil! ¡Es divertido!
+v1;60;Efcharisto pigaínei stous Smiths kai technítes, oi opoíoi skefteí tétoia prágmata! / ¡Gracias a los herreros y artesanos, a los que se les ocurrieron estas cosas!
+v2;90;Nai! Gi 'afto mou arései na Romaïkí. / ¡Sí! Por eso me encanta ser romana.
+
+newchat;key:chatter9,v1:female,v2:female,v1:adult,v2:adult,v1:notvtype:baroness_byzantine,v2:notvtype:baroness_byzantine,weigth:15
+v1;0;Eímai ziliáris afton ton plousíon. / Envidio a esa gente rica.
+v1;20;Échoun tétoia oraía roúcha apo metáxi! / ¡Tienen ropajes de seda tan bonitos!
+v2;50;Afto den eínai pragmatiká díkaios. Den kánoun típota kai na párete ta kalýtera prágmata pou oútos í állos. / Es que no es justo. No hacen nada y encima tienen lo mejor de lo mejor.
+
+newchat;key:chatter10,v1:female,v2:female,v1:adult,v2:adult,weigth:1
+v1;0;Échete akoúsei gia afto to varono se éna geitoniko chorio? / ¿Has oído hablar del barón este de un pueblo vecino?
+v2;30;Nai, afto eínai to éna tou opoíou i gynaíka vréthike dolofoniméni? / Sí, ¿ese que tenía una esposa que encontraron muerta?
+v1;60;Akrivos! O sýzygos mou mou eípe mono oti o varonos aftoktonise ti gynaíka tou! / ¡Ese! Mi marido me acaba de decir que el barón mismo mató a su propia esposa!
+v2;100; .. Ti? / ¿Qué..?
+v2;130;Pánta íxera oti eprokeito na! / ¡Sabía que lo acabaría haciendo!
+v2;150;Allá kaneís den me písteve ..! / ¡Pero nadie me creyó ...!
+
+newchat;key:chatter11,v1:female,v2:female,v1:adult,v2:adult,v1:hasspouse,weigth:15
+v1;0;Échete poté skefteí gia to pos tha ítan an eíchame ton polemo? / ¿Alguna vez has pensado en cómo sería si tuviésemos una guerra?
+v1;30;Ypárchoun akomi kai tora oi ándres agonízontai gia ti chora mas! / ¡Incluso en este momento hay hombres luchando por nuestro país!
+v1;55;Thavmázo pragmatiká tous! / ¡Los admiro de verdad!
+v2;80;Énas polemos tha eínai tromero. / Una guerra sería terrible.
+v2;110;Ego na mantépsete akrivos san stratiotes. / Creo que simplemente te gustan los soldados.
+v2;140;Allá échete énan ántra! / ¡Pero igualmente tienes un marido!
+v1;170;Allá énas tempélis kai sychná methysménos éna! / ¡Pero es que es un perezoso y además un borrachuzo!
+
+newchat;key:talking1,v1:male,v2:male,v1:adult,v2:adult,v1:hasspouse,v2:notvtype:metropolit_byzantine-pastor_byzantine,weigth:15
+v1;0;Xérete tin omorfiá sto geitoniko chorio? / ¿Conoces al bellezón del pueblo vecino?
+v2;30;Fysiká, eínai polý charitoméno. / Por supuesto, ella es guapísima.
+v1;60;Ti tha gínei me tin epískepsi tis? / ¿Qué tal si vamos a visitarla?
+v2;90;Xérete oti i gynaíka sas tha trelatho tote! / ¡Sabes que tu esposa se volverá loca si se entera!
+
+newchat;key:talking2,v1:male,v2:male,v1:adult,v2:adult,v1:notvtype:monk_byzantine-pastor_byzantine-metropolit_byzantine,v2:notvtype:monk_byzantine-pastor_byzantine-metropolit_byzantine,weigth:15
+v1;0;Sýzygos tou techníti eínai polý omorfos, ti nomízete? / La esposa del artesano es preciosa, ¿qué opinas?
+v2;40;Nai, den eínai kako. Dystychos aftí eínai ídi pantreméni! / Sí, no está mal. Lamentablemente ya está casada.
+v1;70;Kalá nai. Kai den tha ítan díkaii gia afton. / Bueno sí. Y no sería justo para él.
+v2;100;Symfono. / Estoy de acuerdo.
+
+newchat;key:talking3,v1:male,v2:male,v1:adult,v2:adult,v1:hasspouse,v2:hasspouse,weigth:15
+v1;0;Den échoume arketo krasí se afto to chorio! / ¡No tenemos suficiente vino en este pueblo!
+v2;30;Symfono! Prépei na chtísoume páno ampélia! / ¡Estoy de acuerdo! ¡Necesitamos construir más bodegas!
+v1;60;Kai perissoteres tavérnes! / ¡Y más tabernas!
+v2;90;Ti tha gínei me to ánoigma dikí mas tavérna? / ¿Qué tal si abrimos nuestra propia taberna?
+v1;120;Megáli idéa! As to schédio afto. / ¡Es una gran idea! Vamos a planificarlo.
+v2;150;Allá poú na archísoume? / Pero, ¿por dónde empezamos?
+v1;180;Kai oi gynaíkes mas den tha eínai eftychís na akoúso afto! / ¡Además a nuestras esposas no les gustará escuchar esto!
+v2;210;Ochi, polisi romaïko krasí eínai pánta mia dikaiología! / ¡No, vender vino romano siempre es una excusa!
+v1;240;Entáxei! Sti synécheia, afíste mas na exoikonomísete chrímata mas. / ¡Bien! Entonces, vamos a ahorrar dinero.
+v1;270;Otan échoume kerdísei arketá, as ekplirosei to schédio mas! / ¡Cuando hayamos ganado suficiente, llevaremos a cabo el plan!
+v2;300;Tha échoume ti megalýteri tavérna se oli tin aftokratoría! / ¡Tendremos la mejor taberna de todo el Imperio!
+v1;325;Sígoura! / ¡Sin lugar a duda!
+
+newchat;key:talking4,v1:male,v2:male,v1:adult,v2:adult,v1:vtype:miner_byzantine-farmiller_byzantine-lumberman_byzantine,v2:vtype:miner_byzantine-farmiller_byzantine-lumberman_byzantine,weigth:15
+v1;0;Échete dokimásei poté Norman ergaleía? / ¿Alguna vez has probado las herramientas normandas?
+v2;30;Ochi, allá écho akoúsei oti eínai polý apotelesmatikí! / ¡No, pero he oído que son muy efectivas!
+v1;60;Eínai alítheia. Poté den eícha doulépsei me tétoia kalá ergaleía prin. / Es verdad. Nunca antes había trabajado con herramientas tan buenas.
+v2;90;Periménete ... Échete éna ergaleío Norman? / Espera ... ¿Tienes una herramienta normanda?
+v1;120;Err, eícha. Échei kápos chatheí! / Emm, la tenía. ¡Ha desaparecido por algún motivo!
+v2;140;TI? Eíches éna tétoio ergaleío kai na to chásei? / ¿QUÉ? ¿Tenías una herramienta como esa y la has perdido?
+v1;170;Nai ... Tora ypárchoun mono anamníseis aristerá ... / Sí ... Ahora solo me quedan los recuerdos ...
+
+newchat;key:talking5,v1:male,v2:male,v1:adult,v2:adult,v1:notvtype:pastor_byzantine-metropolit_byzantine-armysmith_byzantine-baron_byzantine,v2:notvtype:pastor_byzantine-metropolit_byzantine-armysmith_byzantine-baron_byzantine,weigth:15
+v1;0;Boom! Ímoun molis eínai se thési na elénxei éxo ti néa ropalo! / ¡Boom! ¡Acabo de probar la nueva maza!
+v2;30;Nai! Prokeitai gia éna fovero oplo! Eínai chtypá tous echthroús makriá! / ¡Sí! ¡Es un arma increíble! ¡Es capaz de derribar a los enemigos de solo un golpe!
+v1;60;Entyposiako, e? Afto to aristoúrgima Romaïkí den boreí na synkritheí me otidípote állo se afto ton kosmo. / Impresionante, ¿eh? Esta obra maestra romana no se puede comparar con ninguna otra cosa de este mundo.
+v2;100;Thats giatí boroúme na eímaste yperífanoi na eínai Romaíoi! / ¡Por eso podemos estar orgullosos de ser romanos!
+
+newchat;key:talking6,v1:male,v2:male,v1:adult,v2:adult,weigth:15
+v1;0;Megáli trofímon, megála opla, megáli téchni - afto eínai o, ti eínai to éthnos mas! / Buena comida, buenas armas, gran arte. ¡De eso se trata nuestra nación!
+v2;30;Kai kalo krasí! / ¡Y buen vino!
+
+newchat;key:talking7,v1:male,v2:male,v1:adult,v2:adult,v1:hasspouse,v2:hasspouse,weigth:15
+v1;0;Echo varetheí ti sýzygo mou. Thélo na écho éna kainoúrgio! / Me aburre mi esposa. ¡Quiero una nueva!
+v2;30;Poios den échei? / ¿ Y quién no?
+v1;60;Ísos prépei na afísoume xafniká to chorio kai sti synécheia na psáxoume gia néa! / ¡Quizás deberíamos irnos del pueblo sin avisar y buscar una nueva!
+v2;90;Nai! Oi Mágia kai oi Indoí échoun tétoies omorfes gynaíkes, échete dei? / ¡Sí! Los mayas y los indios tienen esposas muy hermosas, ¿las has visto?
+v2;140;Allá ... To chorio chánetai chorís emás. / Pero ... Este pueblo estária perdido sin nosotros.
+v2;160;Kai min xechnáte ta paidiá mas! / ¡Y no te olvides de nuestros hijos!
+v1;180;Urgh! Ta paidiá mas! Den tha epiviosei chorís patéra! / ¡Urgh! ¡Nuestros hijos! ¡No sobrevivirán sin un padre!
+v1;220;Allá ... afto den simaínei oti prépei na synechísoume me varetí zoí mas edo? / Pero ... ¿esto significa que tenemos que seguir aquí con nuestra vida aburrida?
+v2;255;Ypothéto oti aftos eínai o kalýteros tropos na páei. / Así es... bueno, mejor sigamos trabajando.
+
+newchat;key:talking8,v1:male,v2:male,v1:adult,v2:adult,v2:vtype:silkfarmer_byzantine,weigth:15
+v1;0;Eínai apístefto poso leptomerí matiá eikones sas. / Es increíble lo detalladas que se ven tus pinturas.
+v2;30;Fysiká, dedoménou oti eínai megáli romaïkí téchni! / Por supuesto, ¡Es por ser arte romano!
+v1;60;Opos kai o, ti kánoume. Koitáxte omorfa spítia mas! / Como todo lo que hacemos ¡Mira nuestras hermosas casas!
+v2;90;Kai min xechnáte éndoxi istoría mas! / ¡Y no te olvides de nuestra gloriosa historia!
+
+newchat;key:talking9,v1:male,v2:male,v1:adult,v2:adult,weigth:15
+v1;0;Thymáste to korítsi pou polémisan páno stin paidikí ilikía mas? / ¿Recuerdas la chica por la que nos peleamos cuando éramos niños?
+v2;30; Nai ... Ítan mia polý kakí stigmí. Kalí oti eínai páno. / Sí ... Fue un mal momento. Qué bien que se acabó.
+v1;60;Chaíromai pou to akoúo, giatí mou eípe aplá oti mou árese pánta! / Me alegra oír eso, ¡porque ella acaba de decirme que siempre le he gustado!
+v2;90;Ti? Afto den eínai alítheia! / ¿Qué? ¡Eso no es cierto!
+
+newchat;key:flirt1,v1:male,v2:female,v1:adult,v2:adult,v1:hasspouse,v2:nospouse,notrel:sibling,notrel:child,notrel:parent,weigth:5
+v1;0;Geia sou omorfiá, sas arései afto pou vlépete? / Hola guapa, ¿te gusta lo que ves?
+v2;20;*chastoúki* / *bofetada*
+v2;25;Échete mia gynaíka. / Tienes una esposa.
+
+newchat;key:flirt2,v1:male,v2:female,v1:adult,v2:adult,notrel:sibling,notrel:child,notrel:parent,weigth:5
+v1;0;Geia sou, koitás polý oraía símera $targetfirstname! / Oye, ¡hoy se te ve muy bien $targetfirstname!
+v2;30;Sas efcharisto! / ¡Gracias!
+v1;60;Opos pánta, agapité mou! / ¡Cómo siempre, querida!
+
+newchat;key:flirt3,v1:male,v2:female,v1:adult,v2:adult,v1:hasspouse,v2:hasspouse,notrel:sibling,notrel:child,notrel:parent,weigth:5
+v1;0;Hey $targetfirstname, kánei mia omorfiá opos eseís thélete eínai éna omorfos ántras san ki eména? / Hey $targetfirstname, ¿una belleza como tú querría estar con un chico guapo como yo?
+v2;40;Eíste pantreménos, kai eímai toso kalá. / Estás casado, y yo también.
+v2;60;Ypothéto oti den eíste pistoí! Tha po sti gynaíka sas! / ¡Tú no eres fiel! ¡Se lo diré a tu esposa!
+v1;75;OCHI - Min kánete tha- / NO - No lo hag-
+v1;85;Eímai kako dídymo adelfo tou! / ¡Soy su gemelo malvado!
+v2;120;Fysiká eíste! To ídio kako dídymo pou eínai pánta methysménos! / ¡Por supuesto que lo eres! ¡El mismo gemelo malvado que está siempre borracho!
+
+newchat;key:flirt4,v1:male,v2:female,v1:adult,v2:adult,notrel:sibling,notrel:child,notrel:parent,weigth:10
+v1;0;Pos tha me gynaíka-ta prágmatá sas? / ¿Cómo te va con tus cosas de mujer?
+v2;30;Kalí kalí, ektos apo tin aísthisi lígo áschima ... / Bien, solo que, me siento un poco mal ...
+v1;60;O, ochi, ti synévi? / ¿Oh no qué ha pasado?
+v2;90;O sýzygos mou moú fonaxe. / Mi esposo me ha gritado.
+v1;120;Pos boreí o ídios se mia tétoia omorfiá? / ¿Cómo ha podido gritarle a una preciosidad como tú?
+v2;150;Sas efcharistoúme gia epeffimíes mou epáno, $targetfirstname! / ¡Gracias por animarme, $targetfirstname!
+
+newchat;key:flirt5,v1:male,v2:female,v1:adult,v2:adult,notrel:sibling,notrel:child,notrel:parent,weigth:10
+v2;0;*urgh*
+v1;30;Eísai entáxei, $targetfirstname? / ¿Estás bien, $targetfirstname?
+v2;50;Nai, afto eínai mono i sklirí douleiá! / Sí, ¡es solo que estoy trabajando duro!
+v1;70;Boro na sas voithíso? Tha aisthantheíte kalýtera sti synécheia? / ¿Quieres que te ayude? ¿Así te sentirías mejor?
+v2;90;Fysiká! Sas efcharistoúme! / ¡Por supuesto! ¡Gracias!
+
+newchat;key:flirt6,v1:male,v2:female,v1:adult,v2:adult,,weigth:10
+v1;0;Pos páei? / ¿Cómo te va?
+v2;30;Ola eínai mia chará, ti gia sas? / Todo está bien, ¿y tú?
+v1;60;Eínai pára polý! Efcharisto gia tin erotisi. / ¡También! Gracias por preguntar.
+v1;75;Allá vlépo oti ypárchei káti pou sas enochleí! / ¡Pero veo que hay algo que te molesta!
+v2;90;Eínai - típota. / No es - nada.
+v1;110;Parakalo peíte mou! / ¡Por favor, dímelo!
+v2;130;Eínai mono oti i zoí mou edo eínai toso varetí. / Es solo que mi vida aquí es muy aburrida.
+v2;160;Efchomai pragmatiká eícha apofasísei na páei se mia poli otan ímoun néos! / ¡Ojalá cuando era joven hubiese decidido ir a una ciudad!
+
+newchat;key:brothertalk1,v1:male,v1:adult,v2:male,v2:adult,rel:sibling,weigth:10
+v1;0;Adelfos $targetfirstname, eínai kalo na sas doúme! / Hermano $targetfirstname, ¡qué bueno verte!
+v1;30;Vríka ton palio xýlino spathí mas! / ¡Acabo de encontrar nuestra vieja espada de madera!
+v1;50;Thymáste? / ¿Te acuerdas?
+v2;80;Periménete! Eínai afto to xífos tou patéra mas, mas édose? / ¡Espera! ¿Es la espada que nuestro padre nos dio?
+v1;110;Eínai! Thymáste tous agones mas me afto? / ¡Lo es! ¿Recuerdas nuestras peleas con esto?
+v2;140;Pos tha boroúsa na xecháso! Exakoloutho na écho kápoia simádia. / ¡Cómo podría olvidarlo! Todavía tengo algunas cicatrices.
+v2;170;An skéfteste perissotero gi 'afto ... / Ahora que lo pienso ...
+v2;200;Ítan to eídos tis sklirís tou patéra mas gia na mas dosei mono éna spathí! / ¡Fue un poco cruel por parte de nuestro padre el darnos solo una espada!
+v2;240;Íxere oti tha agonistoúme gia afto! / ¡Sabría que nos pelearíamos por ella!
+v1;270;Ypothéto oti eínai entáxei! / ¡Supongo que está bien!
+v2;300;Epeidí to krátisa! / ¡Porque la guardaste!
+
+newchat;key:sistertalk1,v1:female,v1:adult,v2:female,v2:adult,rel:sibling,weigth:10
+v1;0;Thymáste ton iníocho pou agápise toso polý stin paidikí ilikía mas? / ¿Recuerdas al auriga que tanto amábamos en nuestra infancia?
+v2;30;Apo tin adelfí poreía. Ímastan oi megalýteroi opadoí! / Por supuesto hermana. ¡Éramos sus mayores fans!
+v1;60;Anarotiémai ti synévi s 'afton. / Me pregunto qué habrá pasado con él.
+v1;90;Tha akoúsei típota gi 'afton pia ... / No volví a saber de él ...
+v2;120;Eínai pithanon enkatastáthikan s 'éna chorio san ti dikí mas kai eíche mia sýzygo kai ta paidiá. / Probablemente se asentó en una aldea como la nuestra y tuvo esposa e hijos.
+v1;150;Télos pánton exakoloutho na elpízo na ton synantíso kápoia stigmí! / De todos modos, ¡aún espero volver a verle de nuevo!
+v2;180;Ki ego! / ¡Yo también!
+
+newchat;key:brothersister,v1:male,v1:adult,v2:female,v2:adult,v2:hasspouse,rel:sibling,weigth:10
+v1;0;$targetfirstname, i adelfí mou, pánta íthela na mátho giatí pantréftike afto to trántagma. / $targetfirstname, hermana mía, siempre quise saber por qué te casaste con este idiota.
+v2;30;Epeidí ton agapo! / ¡Porque lo amo!
+v1;60;Kai tora to onomá sas eínai $targetlastname. $targetlastname! Akoúgetai toso kako! / Y ahora tu nombre es $targetlastname. $targetlastname ¡Suena tan mal!
+v2;90;Hey! Min simaínei étsi! Ítan eseís pou xekínise i sýnkrousi. / ¡Oye! ¡No seas tan malo! Fuiste tú quien empezó el conflicto.
+v2;110;Tha ítan methysménos! / ¡Estabas borracho!
+
+newchat;key:religious1,v1:vtype:metropolit_byzantine-pastor_byzantine,v2:male,weigth:10
+v1;0;$targetfirstname, o gios mou, ego den eída na proséfchetai símera! / $targetfirstname, hijo mío, ¡hoy no te he visto rezar!
+v2;30;Patéras $targetlastname, ego sígoura ékane. / Padre $targetlastname, te aseguro que lo he hecho.
+
+newchat;key:religious2,v1:vtype:metropolit_byzantine-pastor_byzantine,v2:female,weigth:10
+v1;0;$targetfirstname, kori mou, ego den eída na proséfchetai símera! / $targetfirstname, hija mía, ¡no te vi orando hoy!
+v2;30;Patéras $targetlastname, ego sígoura ékane. / Padre $targetlastname, te aseguro que lo he hecho.
+
+newchat;key:religious3,v1:vtype:metropolit_byzantine-pastor_byzantine,v2:female,weigth:10
+v1;0;$targetfirstname, kóri mou, eísai eirinikí sto myaló sou? / $targetfirstname, hija mía, ¿estás en paz?
+v2;30;Patéras $targetlastname, Den eímai eirinikós, apó tóte pou ftásame edó, aisthánomai óti ypárchei káti diaforetikó. / Padre $targetlastname, no estoy en paz, desde que llegamos aquí siento que hay algo diferente.
+v1;60;Paidí, polloí apó emás aisthánontai óti ypárchei káti diaforetikó edó./ Hija, muchos de nosotros sentimos que hay algo diferente aquí.
+v2;90;Allá ti boró na káno? I zoí mou edó tha eínai gia pánta diaforetikí edó. / ¿Pero qué puedo hacer? Mi vida aquí siempre será diferente.
+v1;120;To móno pou boroúme na kánoume eínai na prosefchómaste afoú o Theós échei éna schédio gia mas. / Todo lo que podemos hacer es orar ya que Dios tiene un plan para nosotros.
+
+newchat;key:religious4,v1:vtype:metropolit_byzantine-pastor_byzantine,v2:male,weigth:10
+v1;0;$targetfirstname, O gios mou, eíste eirinikós sto myaló? / $targetfirstname, hijo mío, ¿estás en paz?
+v2;30;Patéras $targetlastname, Den eímai eirinikós, apó tóte pou ftásame edó, aisthánomai óti ypárchei káti diaforetikó. / Padre $targetlastname, No estoy en paz, desde que llegamos aquí siento que hay algo diferente.
+v1;60;Paidí, polloí apó emás aisthánontai óti ypárchei káti diaforetikó edó./ Hijo, muchos de nosotros sentimos que hay algo diferente aquí.
+v2;90;Allá ti boró na káno? I zoí mou edó tha eínai gia pánta diaforetikí edó. / ¿Pero qué puedo hacer? Mi vida aquí siempre será diferente.
+v1;120;To móno pou boroúme na kánoume eínai na prosefchómaste afoú o Theós échei éna schédio gia mas. / Todo lo que podemos hacer es orar ya que Dios tiene un plan para nosotros.
+
+newchat;key:ticlon,v1:notvtype:pastor_byzantine-metropolit_byzantine,v2:vtype:pastor_byzantine-metropolit_byzantine,weigth:1
+v1;0;Patéras $targetlastname, otan proséfchomai, eída kápoia períerga sýmvola../ Padre $targetlastname, cuando estaba orando vi algunos símbolos extraños.
+v2;30;Paidí, ti sou édeixe o Theós?/ Hija, ¿qué te mostró Dios?
+v1;60;Patéra, ta sýmvola ítan "Tiklón". Xérate ti ennooún? / Padre, los símbolos fueron "Ticlón". ¿Sabes lo que significan?
+v2;90;O Theós doulévei me mystiriódi trópo / Dios trabaja de maneras misteriosas.
+
+newchat;key:seljuks,v1:adult,v2:adult,weigth:10
+v1;0;Échete akoúsei gia tous Seljuks apó ti stigmí pou ftásame edó? / ¿Has oído hablar de los selyúcidas desde que llegamos aquí?
+v2;30;Óchi, den to écho nomísei óti írthan mazí mas se aftí ti gi? / No, qué va, ¿crees que vinieron con nosotros a esta tierra?
+v1;60;Amfivállo, échoume ídi akoúsei apó anthrópous pou den gnorízame óti ypírchan. / Lo dudo, ya hemos escuchado de personas que no sabíamos que existían.
+v2;90;Ypothéto óti prépei na kánoume néous echthroús se aftí ti gi. / Supongo que tenemos que hacer nuevos enemigos en esta tierra.
+v1;120;Échoume akóma tous Normandoús na antimetopísoun. / Todavía tenemos que lidiar con los normandos.
+v2;150;Loipón, eímaste Romaíoi! Boroúme éfkola na nikísoume tétoious epidromeís, sti Rómi! /Bueno, ¡somos romanos! ¡Podemos derrotar fácilmente a tales invasores, ¡Por Roma!
+v1;165;Sti Rómi! / ¡Por Roma!
+
+newchat;key:nobakery,building:farm,notbuilding:windmill,v1:adult,v2:adult,weigth:15
+v1;0;Ach, poios den thélei frésko, nóstimo psomí apó to agróktima sitarioú? / Ah, ¿quién no querría un sabroso pan recién horneado de la granja de trigo?
+v2;30;Xérete óti chreiazómaste éna artopoieío gia na metatrépsoume to sitári se psomí sostá? / ¿Sabes que necesitamos una panadería para convertir el trigo en pan, verdad?
+v1;60;Prépei na me gelás. Tóra tha petháno. / Tienes que estar bromeando. Ahora me voy a morir de hambre.
+v2;90;Limoktonó? Símera to proí fágate to proinó mou! Tha eímai o peinasménos. / ¿Morir de hambre? ¡Esta mañana te has comido mi desayuno! En todo caso seré yo el que se muera de hambre.
+v1;120;To chreiázomai perissótero apó eséna! / ¡Lo necesito más que tú!
+v2;150;Den xéro giatí sas miláo! / ¡No sé por qué hablo contigo!
+v1;180;Chreiazómaste éna artopoieío, aftó eínai simantikó. / Necesitamos una panadería, eso es lo único que importa.
+
+newchat;key:normans,v1:adult,v2:adult,weigth:6
+v1;0;Akoúsate gia to kontinó chorió Norman? / ¿Has oído hablar de que hay una aldea normanda cercana?
+v2;30;Aftó den eínai kaló, thymámai óti synéchizan na epitíthentai sti nótia Italía protoú ftásoume edó. / Eso no es bueno, recuerdo que estuvieron atacando el sur de Italia antes de que viniésemos aquí.
+v1;60;As elpísoume óti den tha mas epitethoún. / Esperemos que no nos ataquen.
+v2;90;Elpízo kai egó. / Yo también lo espero.
+
+newchat;key:constantinople,v1:adult,v2:adult,weigth:9
+v1;0;Anarotiémai ti synévi stin Konstantinoúpoli? / Me pregunto qué le pasó a Constantinopla.
+v2;30;Nomízo óti írthe edó mazí mas se aftí ti néa gi. / Creo que se encuentra en la misma tierra que habitamos.
+v1;60;Giatí to pistéveis aftó? / ¿Por qué piensas eso?
+v2;90;Ézisa kontá sti megáli póli kai me odígisan edó. / Porque yo vivía cerca , hasta que me trasladaron a este pueblo.
+v1;120;Eínai alítheia, allá échei tósous polloús anthrópous. Tha to eíchame akoúsei méchri tóra. / Es cierto, mucha gente emigró desde allí. Aunque si estuviera por aquí cerca nos hubiéramos enterado hace tiempo.
+v2;150;Tha boroúse na eínai polý makriá. / Podría estar muy lejos.
+v1;180;Nai, allá i dóxa kai i megaloprépeia tis Konstantinoúpolis ítan tóso megáli pou akómi kai ánthropoi stin Kína ákousan gi 'aftó. / Sí, pero la gloria y el esplendor de Constantinopla es tan grande que hasta la gente de la China la conoce.
+v2;210;Mi mou peíte óti pistévete se aftés tis istoríes gia tin Kína? / ¿No me digas que crees en esas historias sobre la China?
+v1;240;Pistévo óti ypárchei kápoia alítheia se aftá. / Creo que hay algo de verdad en ellas.
+v2;270;Allá ypárchei tósa pollá mystíria gia tin Kína pou den boroúme na ypothésoume an ypárchei kápoia alítheia se aftá. / Pero hay tantos misterios sobre la China que no podemos asumir si hay algo de verdad en ellos.
+v1;300;Ypárchei tósa pollá mystíria an i Konstantinoúpoli eínai edó, étsi den boroúme na to ypothésoume. / También hay muchos misterios sobre si Constantinopla está aquí, así que tampoco podemos asumir eso.
+v2;330;Loipón, nai, allá akóma ki an i Konstantinoúpoli den eínai edó. Prépei na megalósoume kai na prostatépsoume ti Romaïkí Aftokratoría. / Bueno, sí, pero incluso si Constantinopla no está aquí. Necesitamos expandirnos y proteger el Imperio Romano.
+v1;360;Tóra boró na symfoníso mazí sas gia aftó! / ¡En eso estamos de acuerdo!
+v2;390;Máios Rómi diarkeí gia pánta! / ¡Larga vida a Roma!
+
+newchat;key:baron1,v1:adult,v1:vtype:baron_byzantine,v2:adult,v2:male,v2:notvtype:pastor_byzantine,weigth:10
+v1;0;Óra na plirósete tous fórous sas. / Es hora de que pagues tus impuestos.
+v2;30;Lypámai, allá den ímoun se thési na synkentróso arketoús pórous. / Lo siento pero no he podido obtener suficientes recursos.
+v1;60;Thélete na sas ekdióxo apó to chorió? / ¿Quieres que te destierre de la aldea, imbécil?
+v2;80;Ochi... / No...
+v1;90;Sti synécheia epistrépste me tous fórous sas TORA! / Entonces vuelve con tus impuestos, ¡AHORA MISMO!
+v2;120;Entáxei entáxei. / Bien, bien.
+
+newchat;key:soldiers2,v1:adult,v1:male,v1:vtype:soldier_byzantine,v2:adult,v2:male,v2:vtype:soldier_byzantine,weigth:3
+v1;0;Elpízo óti den tha chreiasteí na vgoúme éxo kai na polemísoume opoiondípote várvaro ópote sýntoma. / Espero que no tengamos que salir a luchar contra ningún bárbaro.
+v2;30;Ti? Eímaste stratiótes, i douleiá mas eínai na vgoúme éxo kai na skotósoume várvarous. Giatí tha beíte ston strató an den sas arései na agonízeste? / ¿Qué? Somos soldados, nuestro trabajo es salir a matar bárbaros. ¿Por qué te unirías al ejército si no te gusta luchar?
+v1;60;Skéftika óti o stratiótis tha ítan efkolóteros, to móno pou perímena na káno eínai na stamatíso kai na skotóso lígous óchlous kai to peristasiakó várvaro. Allá tóra ótan skotóno éna várvaro, koitázo to prósopó tou kai skéftomai, "Ísos den prépei na skotónoume aftoús tous anthrópous". / Pensé que ser un soldado sería más fácil, todo lo que esperaba hacer era esperar de pie y matar a algún monstruo y de vez en cuando a un bárbaro. Pero ahora cuando mato a un bárbaro, lo miro a la cara y pienso: "Tal vez no deberíamos matar a esta gente".
+v2;120;Skéftesai pára polý! Vgeíte éxo kai skotóste várvarous gia ti Rómi. Tha mas skotósoun kai tha katastrépsoun ta spítia mas! Eínai móno asyneíditoi ágrioi. / ¡Piensas demasiado! Sal y mata bárbaros para Roma. ¡Nos matarían y destruirían nuestros hogares! Solo son salvajes incivilizados.
+v1;150;Synantísate aftoús tous anthrópous pou kirýttete na skotónete? Óchi, den échete, ísos eínai diaforetikoí apó aftó pou mas eípan. / ¿Has conocido a estas personas que tanto dices que hay que matar? No, no lo has hecho, tal vez sean diferentes de lo que nos han dicho.
+v2;180;Eínai alítheia óti tha boroúsan na eínai polý cheirótera. / Es cierto, podrían ser mucho peores.
+v1;210;Den nomízo óti katalavaínete tis sképseis kai ta deiná pou pernáo. / No creo que entiendas los pensamientos que tengo ni el apuro por el que estoy pasando.
+v2;240;Eímai stratiótis, óchi filósofos. Tha prépei na páte na prosefchitheíte sto Theó gia kathodígisi, kathós safós chreiázeste kápoio. / Soy un soldado, no un filósofo. Deberías ir a orar a Dios para que te guíe porque claramente lo necesitas.
+v1;270;Écho ídi kai den écho típota perissótero apó ton Theó. Ótan prosefchómoun, émeina me to ídio sympérasma ópos écho tóra. / Ya lo he hecho y no he recibido nada de Dios. Cuando terminé de rezar, llegué a la misma conclusión que ya antes pensaba.
+v2;300;Ti? Échete afísei safós ton Theó gia na min sas po tin alítheia! Pigaínete píso stin prosefchí méchri na borésete na skotósete kai páli tous varvárous! / ¿Qué? ¡Claramente has renunciado a Dios para que no descubrir la verdad! ¡Vete de vuelta a rezar hasta que puedas volver a matar bárbaros!
+v1;330;Ísos aftó eínai to sympérasma pou o Theós símane gia ména na écho! Tha páo na proséfchomai tóra. / ¡Quizás sea esta la conclusión a la que Dios quería que llegara!
+v2;360;Akoúgetai perissótero ópos o Theós thélei na syntaxiodotitheíte ... / Más bien suena a que Dios quiere que te retires...
+
+newchat;key:sun,tag:notraining,weigth:10
+v1;0;Agapo ilióloustes méres! / ¡Me encantan los días soleados!
+v2;30;Poios den échei? / ¿Y a quién no?
+
+newchat;key:inuits,v1:adult,v2:adult,weigth:10
+v1;0;Norítera, miloúsa me énan vyzantinó émporo kai mou eípe gia choriá makriná sto chióni. / Antes estaba hablando con un comerciante bizantino y me habló de unas lejanas aldeas que hay en la nieve.
+v2;30;Choriá sto chióni? / ¿Aldeas en la nieve?
+v1;60;Nai, onomázontai "Inuits". / Sí, se llaman "Inuits".
+v2;90;Inuits? Ti paráxeno ónoma, ti ítan?/ ¿Inuits? Qué nombre tan extraño, ¿Cómo son?
+v1;120;O émporos eípe óti den pistévoun se chrímata. / El comerciante dijo que no creen en el dinero.
+v2;150;Min pistévete sta chrímata ?! Pós tha boroúsan na zísoun? / ¡¿No creen en el dinero ?! ¿Cómo pueden vivir?
+v1;180;Óloi moirástikan ta pánta exísou. Ékane polý dýskoli ti diapragmátefsi mazí tous. / Todos ellos simplemente comparten todo por igual, lo que hizo que negociar con ellos fuera muy complicado.
+v2;210;Kakí émporos. Touláchiston eínai píso sti Romaïkí Aftokratoría, makriá apó aftoús tous várvarous. / Pobre comerciante. Al menos está de vuelta en el Imperio Romano, lejos de esos bárbaros.
+v1;240;I Romaïkí Aftokratoría eínai i kalýteri gi gia empório! / ¡Estoy de acuerdo!¡El Imperio Romano es la mejor tierra para comerciar!
+
+newchat;key:notavern,v1:adult,v1:male,v2:adult,v2:male,notbuilding:taverna,weigth:20
+v1;0;Geiá sou! Den faínetai na eíste polý efcharistiménoi símera / ¡Hola! No pareces estar muy feliz hoy.
+v2;30;Nai, den ypárchei tavérna gia na pioúme. / Sí, no hay una taberna donde podamos beber.
+v1;60;Éfchomai na ypárchei mia tavérna. Tóte tha boroúsame na pioúme romaïkó krasí. / Ya, ojalá hubiera una taberna. Entonces podríamos beber vino romano.
+v2;90;An móno... / Si fuera posible...
+
+newchat;key:soldiers1,v1:adult,v1:male,v1:vtype:soldier_byzantine,v2:adult,v2:male,v2:vtype:soldier_byzantine,weigth:5
+v1;0;Elpízo óti den tha chreiasteí na vgoúme éxo kai na polemísoume opoiondípote várvaro ópote sýntoma. / Espero que no tengamos que salir a luchar contra ningún bárbaro.
+v2;30;Ti? Eímaste stratiótes, i douleiá mas eínai na vgoúme éxo kai na skotósoume várvarous. Giatí tha beíte ston strató an den sas arései na agonízeste? / ¿Qué? Somos soldados, nuestro trabajo es salir a matar bárbaros. ¿Por qué te unirías al ejército si no te gusta luchar?
+v1;60;Skéftika óti o stratiótis tha ítan efkolóteros, to móno pou perímena na káno eínai na stamatíso kai na skotóso lígous óchlous kai to peristasiakó várvaro. Allá tóra ótan skotóno éna várvaro, koitázo to prósopó tou kai skéftomai, "Ísos den prépei na skotónoume aftoús tous anthrópous". / Pensé que ser un soldado sería más fácil, todo lo que esperaba hacer era esperar de pie y matar a algún monstruo y de vez en cuando a un bárbaro. Pero ahora cuando mato a un bárbaro, lo miro a la cara y pienso: "Tal vez no deberíamos matar a esta gente".
+v2;120;Skéftesai pára polý! Vgeíte éxo kai skotóste várvarous gia ti Rómi. Tha mas skotósoun kai tha katastrépsoun ta spítia mas! Eínai móno asyneíditoi ágrioi. / ¡Piensas demasiado! Sal y mata bárbaros para Roma. ¡Nos matarían y destruirían nuestros hogares! Solo son salvajes incivilizados.
+v1;150;Synantísate aftoús tous anthrópous pou kirýttete na skotónete? Óchi, den échete, ísos eínai diaforetikoí apó aftó pou mas eípan. / ¿Has conocido a estas personas que tanto dices que hay que matar? No, no lo has hecho, tal vez sean diferentes de lo que nos han dicho.
+v2;180;Eínai alítheia óti tha boroúsan na eínai polý cheirótera. / Es cierto, podrían ser mucho peores.
+v1;210;Den nomízo óti katalavaínete tis sképseis kai ta deiná pou pernáo. / No creo que entiendas los pensamientos que tengo ni el apuro por el que estoy pasando.
+v2;240;Eímai stratiótis, óchi filósofos. Tha prépei na páte na prosefchitheíte sto Theó gia kathodígisi, kathós safós chreiázeste kápoio. / Soy un soldado, no un filósofo. Deberías ir a orar a Dios para que te guíe porque claramente lo necesitas.
+v1;270;I prosefchí voithá se periódous psychikís krísis. Tha páo na proséfchomai tóra. / La oración ayuda en tiempos de crisis mental. Iré a rezar ahora.
+v2;300;Elpízo óti o Theós tha teleiósei ti sýnchysi sas. / Espero que Dios acabe con tu confusión.

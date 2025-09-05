@@ -1,0 +1,25 @@
+//Parameters for the building as a whole
+building.length=15
+building.width=15
+building.buildingorientation=3
+building.max=2
+building.startinggood=maize,1.0,1,16
+building.startinggood=denier,1.0,20,44
+building.startinggood=denierargent,0.3,2,2
+building.startinggood=chickenmeat,1.0,1,8
+building.startinggood=mayanstatue,0.5,1,4
+building.startinggood=gold,0.8,4,15
+building.startinggood=bow,0.8,1,1
+building.startinggood=arrow,0.8,10,30
+building.startinggood=pumpkin,1.0,1,5
+
+building.icon=mayanmace
+
+//Parameters for initial construction
+initial.startlevel=-3
+initial.nativename=K'as Koloh-che'
+initial.priority=10
+initial.male=mayanbanditwarrior
+initial.male=mayanbanditwarrior
+initial.male=mayanbanditwarrior
+

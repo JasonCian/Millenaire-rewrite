@@ -1,0 +1,17 @@
+//Parameters for the building as a whole
+building.length=10
+building.width=12
+building.buildingorientation=3
+building.max=0
+building.reputation=8192
+building.price=640
+building.icon=door_spruce
+building.areatoclear=3
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Megálo Ktíma
+initial.priority=1000000
+initial.pathlevel=2
+

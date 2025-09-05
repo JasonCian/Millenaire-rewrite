@@ -1,0 +1,15 @@
+//Parameters for the building as a whole
+building.length=11
+building.width=8
+building.buildingorientation=3
+building.max=0
+building.isgift=true
+building.icon=cake
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Maison bonus
+initial.priority=1000000
+initial.pathlevel=1
+

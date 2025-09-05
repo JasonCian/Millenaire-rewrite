@@ -1,0 +1,14 @@
+name=Mono Paratiritio
+weight=0
+radius=10
+
+//Vanilla biomes
+biome=Birch Forest Hills
+biome=Birch Forest Hills M
+biome=ForestHills
+
+//biomes o'plenty
+biome=bamboo forest
+
+//starting buildings=
+centre=birchtower

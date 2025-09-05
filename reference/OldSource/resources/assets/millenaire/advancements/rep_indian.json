@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "millenaire:rasgulla"
+        },
+        "title": {
+            "translate": "advancements.rep_indian.name"
+        },
+        "description": {
+            "translate": "advancements.rep_indian.desc"
+        }
+    },
+    "parent": "millenaire:friendindeed",
+    "criteria": {
+        "villagebhai": {
+            "trigger": "rep_indian"
+        }
+    }
+}

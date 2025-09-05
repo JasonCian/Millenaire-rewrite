@@ -1,0 +1,25 @@
+//Note pour les utilisateurs de Windows: si vous voyez le fichier entier sur une seule ligne, ouvrez-le avec PSPAd ou UltraEdit plutôt que Notepad
+//Note to Windows users: if you see the entire file in one line, open it using PSPad or UltraEdit instead of Notepad
+
+priority=50
+priorityrandom=30
+
+labelkey=godrink
+sentencekey=godrink
+
+//Si vrai ("true"), ce but se passe dans le bâtiment central 
+//If true, this goal happens in the central building
+buildingTag=drinking
+
+minimumhour=10000
+
+duration=20000
+
+//once a day more or less (every ten minutes)
+reoccurdelay=600000
+
+allowrandommoves=true
+
+leasure=true
+
+heldItemsDestination=cacauhaa

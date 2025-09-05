@@ -1,0 +1,10 @@
+
+Wersja: 3.4
+<darkblue> Zadania
+Zadania to dodatkowa praca którą można wykonać dla wioski. Kiedy zadanie jest dostępne, będzie pokazane nad głową osadnika w kwadratowych nawiasach. Przykład: <darkblue> [Spragniony!]<black>". Kliknij PPM by porozmawiać z osadnikiem na ten temat, i albo zadanie przyjąć lub odrzucić. Zadanie są nagradzane pieniędzmi, reputacją bądź przedmiotami. Niektóre zadania są dostępne tylko bo osiągnięciu dobrej reputacji z wioską.
+By zobaczyć które zadania są przyjęte a także co potrzebujesz zrobić, naciśnij "M".
+<darkblue> Zadania Stworzenia
+Specjalna kolekcja zadań składa się z wielu misji, a także posiada oddzielną wersję dla Norman, Hindusów i Majów. Pierwsza misja każdej wersji będzie ci wręczona przez losowego osadnika po osiągnięciu reputacjo "Przyjaciel wioski" (początek jest losowy).
+Te zadania wymagają od ciebie odnalezienia specjalnego osamotnionego budynku. Musisz odkrywać dopóki go nie znajdziesz; niestety są dość rzadkie. W przeciwieństwie do innych samotnych budynków, te pojawiają się po użyciu klawisza "V".
+Specjalna kolekcja zadań składa się z wielu misji, a także posiada oddzielną wersję dla Norman, Hindusów i Majów. Pierwsza misja każdej wersji będzie ci wręczona przez losowego osadnika po osiągnięciu reputacjo "Przyjaciel wioski" (początek jest losowy).
+Te zadania wymagają od ciebie odnalezienia specjalnego osamotnionego budynku. Musisz odkrywać dopóki go nie znajdziesz; niestety są dość rzadkie. W przeciwieństwie do innych samotnych budynków, te pojawiają się po użyciu klawisza "V".

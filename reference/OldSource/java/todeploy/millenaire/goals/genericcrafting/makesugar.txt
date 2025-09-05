@@ -1,0 +1,17 @@
+priority=50
+
+//en/in millisecondes
+duration=2500
+
+//objets tenus par le villageois
+heldItems=sugarcane,sugar
+
+//chaque action consome tous les objets "input" et produit tous les "output"
+//each action will require and use all the inputs and produce all the outputs
+input=sugarcane,1
+output=sugar,1
+
+
+//s'il y a plus d'objets dans le batiment que ça, arrêter le but
+//if more than that number of item is present in building, stop goal
+buildinglimit=sugar,64

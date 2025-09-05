@@ -1,0 +1,99 @@
+﻿villager.greeting=Bonjour, $name! / مرحبا, يا $name!.
+villager.greeting=Belle journée, n'est ce pas؟ / يوم جميل, اليس كذلك؟
+villager.greeting=Il va pleuvoir, je le sens / سوف تمطر ,اشعر بذلك.
+villager.greeting=Je ne me souvenais pas de la Normandie comme ça. / لم اتذكر أن ايام النورمان هادئة مثل هذا اليوم.
+guard.greeting=Vous avez l'air un peu faible, $name. Je vous protègerais si vous avez des ennuis. / تبدو متوترا بعض الشيئ,لاتقلق لن يحدث لك شيءيا $name ,لأني سوف احميك.
+priest.greeting=Soyez béni, mon fils. / لتحل البركة عليك,ياابني.
+monk.greeting=Dieu soit avec toi, mon frère. / ليكون الرب معك , ياابني.
+boy.greeting=Quand je serai grand, je veux être comme papa. / عندما اكبر ,اتمنى ان اصبح مثل ابي!
+knight.greeting=Je n'obéi qu'au Roi Guillaume, Duc de Normandie, et à Dieu. Dans cet ordre. / انا فقط اطيع الملك ويليام,والدوق النورمادي ,والرب,في الأوامر.
+knight.greeting=$name, saviez-vous que j'ai combattu à Hastings؟ / هل تعلم اني قاتلت ب هاستنق يا $name؟
+knight.greeting=Je prend possession de cette terre au nom du Duc de Normandie! / أخذت حيازة هذه الأرض باسم الدوق نورماندي!
+lady.greeting=Ma sœur a épousé un duc. Je vis ici. / اختي تزوجت دوق, لذلك انا اعيش هنا.
+lady.greeting=Vous auriez dû voir le château de mon père. Ca c'était une vrai forteresse. / يجب ان ترى قلعة ابي , انها قلعة مبهرة حقا.
+viking_merchant.greeting=Cette terre appartient aux vikings. L'Angleterre aussi. La Sicile aussi. Vive nous! / هذه الأرض ملك الفايكنج. وانجلتراأيضا.و صقليةأيضا.نحن نحكم!
+viking_merchant.greeting=Aujourd'hui je vient commercer. Demain... / اليوم أتيت للمتاجرة. لاكن ربما غداً لشيْ أخر...
+weapon_merchant.greeting=Vous voulez vraiment savoir comment j'ai survécu toutes ces années voyageant seul avec des marchandises précieuses؟ / هل تريد ان تعلم كيف نجوت كل هذه السنوات من السفر مع اغراضي الثمينة وحدي بدون حراسة؟
+plant_merchant.greeting=Certaines personnes disent que je suis un rêveur, mais je ne suis pas le seul ... / بعض الناس يقولون اني حالم, لكني لست الوحيد اللذي يحلم...
+oriental_merchant.greeting=Ce pays est riche, mais fallait il vraiment qu'il soit si froid؟ / هذه البلاد غنية,لاكن هل وجب ان تكون بهذه البرودة؟
+oriental_merchant.greeting=Etes vous allez à Cordoue؟ Ca, c'est une ville civilisée. / هل كنت يوما بقرطبة , المكان هناك حضاري.
+art_merchant.greeting=Les gens ici sont des barbares. / الناس هنا بربريين.
+art_merchant.greeting=Aucune ville dans le monde n'est comparable à Constantinople. / لامدينة بالعالم تقارن بالقسطنطينية.
+art_merchant.greeting=Nous les byzantins sont les derniers vrais romans. Admirez notre civilisation! / نحن البيزنطينين  اخر الروم الحقيقين, عد وانظر لأمجاد حضارتنا.
+wool_merchant.greeting=Les textiles hollandais sont les meilleurs à l'ouest de Cathay. / المنسوجات الهولندية هي الأفضل بغرب كاثي.
+seneschal.greeting=Je gère ces terres pour mon roi. / انا ادير هذه الاراضي لملكي.
+seneschal.greeting=J'ai hâte de retourner à la cours du roi. / انا اترقب بصبر إلا حين عودتي للديوان الملكي.
+guildmaster.greeting=Les artisans ne valent rien sans quelqu'un pour les superviser. / الحرفيين ليسوا جيدين بدون احد يوجههم.
+
+knight.patrol=Je reigne sur ces terres. / انا احكم هذه الاراضي.
+knight.patrol=La force fait le droit, et je suis fort. / القوة هي الصواب ,وانا قوي.
+
+lady.MakeTapestry=Personne ici n'apprécie l'art. / لا احد يقدر الفن هنا.
+lady.MakeTapestry=Peut-être que ces pièces seront moins glauques avec ces tapisseries. Peut-être. / ربما سيبدو المكان اقل قذارة مع وجود هذه على الجدران ,ربما.
+
+villager.gorest=Un peu de repos me ferait du bien... / حقا سأقدر بعض الراحة...
+villager.gorest=La vie ici est un peu morne. / الحياة هنا تحدي صغير.
+villager.gorest=Rien d'intéressant n'arrive jamais ici. / لاشيئ مثير حصل هنا.
+villager.gorest=Je suis fatigué. / أشعر بالتعب.
+villager.godrink=C'est à boire qu'il nous faut! / احتاج لمشروب!
+villager.godrink=Un cidre n'a jamais fait de mal à personne. / عصير التفاح لايؤذي احد.
+villager.gopray=Je parle à Dieu, pas vous, $name. / انا اتحدث للرب ,وليس لك , يا $name.
+
+farmer.BringBackResourcesHome=Récoltons ce blé doré. / لنذهب لنوصل هذا القمح الذهبي..
+farmer.CollectCrop=On dirait que le blé est mûr. / يبدو ان هذا القمح نضج.
+farmer.PlantSeeds=Je plante, et je récolterai. / سوف ازرع ,وبعد ذكل سأحصد.
+
+lumberman.BringBackResourcesHome=Même ma femme devra admettre que c’est beaucoup de bois. / حتى زوجتي سوف تعترف بأن الخشب كثير.
+lumberman.ChopTrees=Regardez-moi couper cet arbre ! / شاهدني اقطع تلك الشجرة!
+lumberman.GatherGoods=Bel arbrisseau là-bas. / شجيرة جيدة هناك.
+lumberman.PlantSaplings=Bientôt ce sera un arbre magnifique ! Et je le couperai. / قريبا , سوف تكون هذه شجرة عظيمة ,وسوف اقطعها.
+
+wife.GetHouseTHResources=On dirai que mon mari a travaillé pour une fois. / يبدو ان زوجي الكسول قد انتج اخيرا.
+wife.GetResourcesForBuild=Je part chercher une tonne ou deux de matérieaux. Je suis plus forte que j’en ai l’air ! / سوف اغادر لجمع طن او اثنين من ادوات البناء,لايخدعك شكلي فأنا اقوى من ما أبدو.
+//villager.DeliverResourcesShop=fournir des ressources du village / توصيل الموارد للقرية
+wife.MakeBread=Mon pain est le meilleure du village. / خبزي هو الافضل بالقرية.
+//villager.BeSeller=تعال , تعال!
+wife.MakeCider=Préparer le cidre n’est pas le pire travail par ici. / تحضير عصير التفاح ليس اسؤا عمل هنا.
+wife.MakeCalva=Une boisson d'homme, faite par une femme. / عصير الرجال ,صنع بواسطة الزوجات.
+wife.construction=Je construit, je construit, comme seule une femme le peu ! / بناء , بناء ,كأنه لايستطيع فعله إلا امرأة!
+wife.construction=Les hommes n’ont pas la finesse nécessaire au travail de précision. / الرجال ليس لديهم مايتطلب للعمل بدقة.
+wife.construction=Ca va être un bâtiment superbe. / هذا سوف يكون مبنى راقي وجميل.
+wife.getGoodsHousehold=Pourquoi est ce toujours moi qui doit tout aller chercher ؟ / لماذا انا الوحيدة التي ترسل لحمل الاشياء؟
+wife.DeliverGoodsHousehold="Vas chercher ça, vas chercher ça", ils me disent. Un jour je refuserais ! /  "اجلبي هذا ,احضري هذا" يوما ما سأكون ,اجلبه بنفسك ’احضره بنفسك!
+
+villager.GoPlay=Je vais aller jouer dehors. / سوف اذهب للعب بالخارج.
+villager.BecomeAdult=Il est l’heure de devenir quelqu’un ! / حان الوقت لأكون بالغ واصنع من نفسي شيئ افتخر به!
+
+villager.MakeBoudin=Vous ne le mangeriez pas si vous saviez comment c’est fait. / انت لن تأكله عندما تعلم كيف تم صناعته.
+
+smith.MakeNormanTools=Les outils normands sont les meilleurs du monde. / ادوات النورمان هي الافضل بالعالم.
+smith.MakeNormanWeapons=N'essayez pas d'affronter un homme armé par moi. / لاتحاول مقاتلة شخص تسلح وتدرع من ما اصنع.
+
+
+miner.Mining=Miner est un art, vous savez. / التنقيب فن , كما تعلم.
+miner.Mining=Personne d’autre dans le village n’a la force et l’endurance nécessaire à ce travail. Et vous pensez qu’ils sont reconnaissants ؟ /  لا احد بالقرية ,لديه القدرة والذكاء والتحمل , ليتمكن بالقيام بعملي ,وبالنهاية لا احصل حتى على كلمة شكرا.
+miner.Cooking=Ca c’est de la vrai cuisson. / الان هذا حقاً بدأ بالتسخين.
+
+villager.gopray.chosen=Ca fait longtemps que je n’ai pas prié… / مدة طويلة منذ اخر مرة دعوت فيها الرب…
+priest.gopray.chosen=Prier est plus dur qu’il n’y paraît. / الدعاء عمل يطتلب اكثر من مجرد كلام.
+
+villager.calltoarms=Aux armes ! Aux armes ! / إلى دروعكم ! إلى اسلحتكم هيا هيا!
+villager.calltoarms=Montjoi Saint-Denis!  / سوف ينكلون اليوم اللذي اختاروا فيه محاربتنا!
+villager.calltoarms=Tous pour un ! / الكل للفرد والفرد للجميع!
+villager.calltoarms=Aux armes, citoyens!  /هيا استعدو للحرب!
+
+monk.makebooks=Si la vanité n’était pas un péché, je dirai que mes manuscrits sont les plus beaux du pays. / إذا لم يكن الغرور إثماً,اود ان اقول ان مخطوطاتي هي الافضل بالبلاد.
+priest.makeamulets=Ceci ne devrait pas être vu par un étranger… / ما اعطيتك لايجب ان يراه الغرباء...
+
+viking_merchant.KeepStall=La magie viking est puissance. / سحر الفايكنق اقوى سحر.
+viking_merchant.KeepStall=Venez et achetez. Je ne vous parlerai pas des sacrifices nécessaires pour rendre ces amulettes puissantes. / تعال واشتري ,لأخبرك كم من تضحيات قمنا بها لتصبح هذه التمائم الاقوى بلا منازع.
+weapon_merchant.KeepStall=Vous ne voulez pas savoir ce qui est arrivé à l’homme qui m’a fait cette cicatrice. Mais vous pouvez acheter la lame que j’ai utilisée. / انت لاتريد ان تعلم ماللذي حصل للرجل اللذي تسبب لي بهذا الندب ,اشتري الشفرة اللتي استخدمتها.
+plant_merchant.KeepStall=Je vend toutes les herbes dont vous aurez jamais besoin. / انا ابيع جميع الاعشاب اللتي قد تخطر على بالك.
+oriental_merchant.KeepStall=Venez voir des produits de luxes tels que les gens d’ici ne voient jamais ! / تعال وانظر إلى الكماليات لدي , انها مايحلم الناس به هنا!.
+art_merchant.KeepStall=Des perles pour des cochons, comme ils disent ici. / اللؤلؤة قبل الحثالة,كما يقولون هنا.
+wool_merchant.KeepStall=Toute la laine rose qu’il vous faut ! / لدي جميع الصوف الوردي اللذي تحتاجه!
+
+villager.makeglassbottles=Une fiole de qualité, c'est une potion réussie! / زجاجة جيدة الصنع تصنع لتعطي افضل الجرعات!
+villager.harvestwarts=Heuresement que je porte des gants. / شكرا للرب , اني ارتدي قفازات.
+villager.plantwarts=Seul Maître Vif-argent aurait pu comprendre comment cultiver ces horreurs. / فقط الماستر فيف-ارجينت يعلم كيف يزرع هذه الرجسات.
+villager.brewpotions=Un jour je serais un maître alchimiste! / يوم ما سوف اكون خبير كيميائي!

@@ -1,0 +1,15 @@
+// mc ++
+
+priority=60
+priorityrandom=10
+
+buildingtag=centralworkshop
+
+helditems=iron
+
+sentencekey=takefrombuilding
+labelkey=takefrombuilding
+
+collect_good=iron,32
+
+minimumpickup=4

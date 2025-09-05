@@ -1,0 +1,27 @@
+name=Tour de l'Achimiste
+weight=10
+radius=15
+
+//Vanilla biomes
+biome=Extreme Hills
+biome=Extreme Hills M
+biome=Extreme Hills+
+biome=Extreme Hills+ M
+
+//biomes o'plenty
+biome=alps
+biome=crag
+biome=highland
+biome=moor
+biome=mountain
+
+max=1
+keyLoneBuildingGenerateTag=alchemist_tower_generate
+
+mindistancefromspawn=1000
+
+//starting buildings=
+centre=alchemisttower
+
+//% of biome validity required
+minimumBiomeValidity=0.50

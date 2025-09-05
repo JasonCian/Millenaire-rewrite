@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "millenaire:sake"
+        },
+        "title": {
+            "translate": "advancements.rep_japanese.name"
+        },
+        "description": {
+            "translate": "advancements.rep_japanese.desc"
+        }
+    },
+    "parent": "millenaire:friendindeed",
+    "criteria": {
+        "rep_japanese": {
+            "trigger": "rep_japanese"
+        }
+    }
+}

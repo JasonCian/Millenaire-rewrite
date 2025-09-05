@@ -1,0 +1,13 @@
+chanceperhour:1               
+maxsimultaneous:1
+definevillager:key=localshaman,requiredtag=fallenking_villageshaman
+forbiddenplayertag:fallenking_5_thepyramid
+requiredplayertag:fallenking_4_newomens
+
+step:new
+villager:localshaman
+setplayertagsuccess:fallenking_pyramid_generate
+setplayertagsuccess:fallenking_5_thepyramid
+setactiondatasuccess:fallenkingqueststatus,5
+duration:1048
+rewardreputation:2*64

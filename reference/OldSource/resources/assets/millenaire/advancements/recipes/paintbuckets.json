@@ -1,0 +1,39 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "millenaire:paint_bucket_black",
+      "millenaire:paint_bucket_blue",
+      "millenaire:paint_bucket_brown",
+      "millenaire:paint_bucket_cyan",
+      "millenaire:paint_bucket_gray",
+      "millenaire:paint_bucket_green",
+      "millenaire:paint_bucket_light_blue",
+      "millenaire:paint_bucket_lime",
+      "millenaire:paint_bucket_magenta",
+      "millenaire:paint_bucket_orange",
+      "millenaire:paint_bucket_pink",
+      "millenaire:paint_bucket_purple",
+      "millenaire:paint_bucket_red",
+      "millenaire:paint_bucket_silver",
+      "millenaire:paint_bucket_yellow"
+    ]
+  },
+  "criteria": {
+    "has_paint_bucket_white": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "millenaire:paint_bucket_white"
+          }
+        ]
+	  }
+    }
+  },
+  "requirements": [
+    [
+      "has_paint_bucket_white"
+    ]
+  ]
+}

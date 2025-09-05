@@ -1,0 +1,18 @@
+//Parameters for the building as a whole
+building.length=21
+building.width=25
+building.buildingorientation=0
+building.fixedorientation=east
+building.issubbuilding=true
+building.parentbuildingplan=loneabbey_A0
+building.travelbook_display=false
+
+building.icon=carpet_yellow
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Autel
+initial.priority=3000
+initial.tag=praying
+
+//Parameters for specific upgrades

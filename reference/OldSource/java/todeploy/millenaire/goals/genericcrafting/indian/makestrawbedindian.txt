@@ -1,0 +1,24 @@
+priority=50
+
+//en/in millisecondes
+duration=5000
+
+//objets tenus par le villageois
+heldItems=rice,bed_straw
+
+//chaque action consome tous les objets "input" et produit tous les "output"
+//each action will require and use all the inputs and produce all the outputs
+output=bed_straw,1
+
+
+//s'il y a plus d'objets dans le batiment que ça, arrêter le but
+//if more than that number of item is present in building, stop goal
+townhalllimit=bed_straw,16
+
+
+maxsimultaneoustotal=1
+
+labelkey=makestrawbed
+sentencekey=makestrawbed
+
+sound=wood

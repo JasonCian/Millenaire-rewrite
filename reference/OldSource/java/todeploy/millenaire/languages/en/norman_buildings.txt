@@ -1,0 +1,158 @@
+abbey_A0=Abbey
+abbey_A_cell_0_A0=Monk Cell
+abbey_A_cell_1_A0=Monk Cell
+abbey_A_cell_2_A0=Monk Cell
+abbey_A_altar_A0=Altar
+abbey_A_tower_A0=Abbey Tower
+abbey_A_tower_B0=Abbey Tower
+alchemyworkshop_A0=Alchemy Workshop
+archives_A0= Archives
+armoury_A0=Armory
+bakery_A0=Bakery
+carpenterhouse_A0=Carpenter's House
+cattlefarm_A0=Cattle Farm
+church_A0=Church
+church_A2=Church
+chickenfarmnorm_a0=Chicken Farm
+darkoakgrove_a0=Dark Oak Grove
+farm_A0=Farm
+farm_B0=Farm
+forge_A0=Forge
+fort_A0=Fort
+fort_A_lefttower_A0=Guard Tower
+fort_A_righttower_A0=Guard Tower
+fountain_A0=Fountain
+grove_A0=Grove
+grove_B0=Grove
+grove_C0=Grove
+guardhouse_A0=Guard House
+guesthouse_A0=Guest House
+guildhouse_A0=Guild Hall
+inn_A0=Inn
+largefort_A0=Large Fort
+largefort_A_armoury_A0=Large Fort Armory
+largefort_A_barrack_A0=Guard Room
+largefountain_A0=Large Fountain
+lumbermanhut_A0=Lumberman's Hut
+lumbermanhut_B0=Lumberman's Hut
+manor_A0=Manor
+market_A0=Market
+pigfarm_A0=Pig Farm
+playerestate_A0=City Estate
+playerhugefield_A0=Huge Plot
+playerlargefield_A0=Large Plot
+playerlargefort_A0=Player Large Fort
+playerlargehouse_A0=Bourgeois House
+playersmallfield_A0=Small Plot
+playersmallhouse_A0=Small House
+presbytery_A0=Presbytery
+quarry_A0=Quarry
+sheepchickenfarm_A0=Sheep Farm
+tavern_A0=Tavern
+townhall_A0=Town Hall
+townhallagricole_A0=Town Hall
+watchtower_A0=Watchtower
+well_A0=Well
+
+playerfort_A0=Player Fort
+anomalyone_A0=Anomaly
+anomalytwo_A0=Anomaly
+anomalythree_A0=Anomaly
+
+custom_chickenfarm=Chicken Farm
+
+abandonedmill_A0=Abandoned Mill
+abandonedmine_A0=Abandoned Mine
+abandonedtower_A0=Destroyed Tower
+alchemisttower_A0=Alchemist Tower
+banditlair_A0=Bandit Lair
+bandittower_A0=Bandit Tower
+feloncastle_A0=Bandit Castle
+loneabbey_A0=Lone Abbey
+loneabbey_A_altar_A0=Altar
+lonegrove_A0=Lone Grove
+lonegrovetaiga_A0=Lone Grove
+loneinn_A0=Lone Inn
+loneinn_A_stall_0_A0=Lone Inn Stall
+loneinn_A_stall_1_A0=Lone Inn Stall
+loneroadhouse_A0=Lone Road House
+lonelumbermanhut_A0=Lumberman's Hut
+lonelumbermantaigahut_A0=Lumberman's Hut
+lonemill_A0=Lone Watermill
+lonemine_A0=Lone Mine
+loneorchard_A0=Lone Orchard
+pantheon_A0=Pantheon
+ruinedfarm_A0=Ruined Farm
+ruinedfarm_B0=Destroyed Farm
+ruinedfarm_C0=Former Farm
+
+gifthouse_a0=Gift House
+
+glassblower_a0=Glassblower's Workshop
+weaverhouse_a0=Weaver's Workshop
+
+smallorchard_a0=Small Orchard
+largeorchard_a0=Cidery
+
+abbaye_a0=Cathedral
+manor_a_inn_a0=Manor's Inn
+pilgrimhall_a0=Pilgrims' Hall
+warehouse_a0=Warehouse
+workerhall_a0=Workers' Hall
+
+abbaye_A0=
+abbaye_A_altar_A0=Altar
+abbaye_A_apse_bottom_A0=Apse (North)
+abbaye_A_apse_top_A0=Apse (South)
+abbaye_A_choir_bottom_A0=Choir (North)
+abbaye_A_choir_top_A0=Choir (South)
+abbaye_A_confessional_A0=Confessional
+abbaye_A_council_A0=Council Chamber
+abbaye_A_dome_A0=
+abbaye_A_library_A0=Library
+abbaye_A_nave_left_bottom_A0=Nave (Northeast)
+abbaye_A_nave_left_top_A0=Nave (Southeast)
+abbaye_A_nave_right_bottom_A0=Nave (Northwest)
+abbaye_A_nave_right_top_A0=Nave (Southwest)
+abbaye_A_organ_A0=Organ
+abbaye_A_pews_A0=Pews
+abbaye_A_portal_A0=Portal
+abbaye_A_pulpit_A0=Pulpit
+abbaye_A_tower_bottom_A0=North Tower
+abbaye_A_tower_top_A0=South Tower
+abbaye_A_transept_bottom_A0=North Transept
+abbaye_A_transept_top_A0=South Transept
+abbaye_A_treasury_A0=Church Treasure
+
+guardroom_a0=Guardroom
+largeguardhouse_a0=Large Guard House
+largeinn_a0=Inn
+largeinn_a_dormitorymen_a0=Men's Dormitory
+largeinn_a_dormitorywomen_a0=Women's Dormitory
+largeinn_a_tavern_a0=
+residence_a0=Bishop's Palace
+residence_a_orderoutpost_a0=Headquarter of the Order
+residence_a_priest_a0=Priest's Room
+residence_a_vicar_a0=Vicar's Room
+
+
+
+
+full_wall_gateway_a0=Village Gate
+full_wall_a0=Village Wall
+full_wall_slope_right1_a0=Village Wall
+full_wall_slope_right2_a0=Village Wall
+full_wall_slope_left3_a0=Village Wall
+full_wall_slope_left2_a0=Village Wall
+full_wall_slope_left1_a0=Village Wall
+full_wall_slope_right3_a0=Village Wall
+
+full_wall_tower_a0=Wall Tower
+full_wall_cap_both_a0=End Wall
+full_wall_cap_right_a0=End Wall
+full_wall_cap_left_a0=End Wall
+full_wall_corner_a0=Corner Tower
+
+borderpost_a0=Border Post
+borderpost_corner_a0=Border Post (Corner)
+borderpost_gate_a0=Border Post (Entrance)

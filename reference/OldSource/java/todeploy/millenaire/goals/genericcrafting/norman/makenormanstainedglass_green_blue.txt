@@ -1,0 +1,31 @@
+//Note pour les utilisateurs de Windows: si vous voyez le fichier entier sur une seule ligne, ouvrez-le avec PSPAd ou UltraEdit plutôt que Notepad
+
+//Note to Windows users: if you see the entire file in one line, open it using PSPad or UltraEdit instead of Notepad
+
+priority=50
+
+//spécifier si l'étiquette ou les phrases pour ce but n'ont pas le code du but lui-même
+//specify if the label and sentences for this goal is not the name of the goal itself
+sentencekey=makestainedglass
+labelkey=makestainedglass
+
+//en/in millisecondes
+duration=20000
+
+//objets tenus par le villageois
+heldItems=glass,stained_glass_green_blue,dye_lightblue
+
+//chaque action consome tous les objets "input" et produit tous les "output"
+//each action will require and use all the inputs and produce all the outputs
+input=glass,1
+input=dye_lightblue,1
+output=stained_glass_green_blue,2
+
+//s'il y a plus d'objets dans le batiment que ça, arrêter le but
+//if more than that number of item is present in building, stop goal
+townhalllimit=stained_glass_green_blue,64
+
+
+//son à jouer quand un objet est fabriqué
+//sound to play once an object is done
+sound=glass

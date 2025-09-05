@@ -1,0 +1,18 @@
+
+
+newchat;key:sun,tag:notraining,weigth:18
+v1;0;Agapo ilióloustes méres! / ฉันชอบวันที่อากาศสดใส!
+v2;30;Poios den échei? / ฉันก็เหมือนกัน!
+
+newchat;key:nicevillage,weigth:10
+v1;0;Eínai pánta mia efcharístisi na doúme oraío chorió mas, étsi den eínai? / ฉันมีความสุขที่ได้มองหมู่บ้านของเรา
+v2;30;Fysiká, kai eínai óla lógo ton terástion prospatheión mas! / ก็อยู่แล้ว! เพราะหมู่บ้านเราคือผลกำไรที่เราสร้าง
+
+newchat;key:sunzombie,tag:notraining,weigth:2
+v1;0;Agapo ilióloustes méres! / ฉันชอบพระอาทิตย์นะ
+v2;30;Poios den échei? / ฉันก็เหมือนกัน
+v1;60;Den to káno. / แต่ฉันไม่
+v2;120;Giatí óchi? / Why don't you? ทำไมละ
+v1;150;O ílios kaíei! Misó to exoterikó! / พระอาทิตย์มันร้อน ฉันเกลียดอากาศร้อน
+v2;180;Eísai san zómpi! / ทำตัวเหมือนแวมไพน์เลย
+v1;210;Ísos eímai ... / คงงั้นแหละ

@@ -1,0 +1,1 @@
+native:Lakarhara ka Ghar;gameNameKey:lumbermanhouse_A0;male:indian_lumberman;female:indian_peasantwife;chest:1-5;sign:1;moveinpriority:10

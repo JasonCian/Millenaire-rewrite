@@ -1,0 +1,15 @@
+//Parameters for the building as a whole
+building.length=18
+building.width=18
+building.buildingorientation=3
+building.max=0
+building.reputation=3200
+building.price=2816
+building.icon=fence_birch
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Napaaqtuq Nuna
+initial.translatedname=name_en,large grove
+

@@ -1,0 +1,19 @@
+
+travelbook.culture.desc=Os normandos parecem um povo resistente, com uma culinária saudável e um gosto pelo álcool forte. Quando bêbados, eles falam de sua terra natal perdida na costa francesa, onde quer que seja, e se orgulham de suas conquistas generalizadas em lugares misteriosos como "Inglaterra" ou "Sicília".
+travelbook.villager.abbot.desc=O Abade é um homem de Deus, encarregado de manter os normandos que ele lidera no "Caminho Certo"
+travelbook.villager.alchemist.desc=O famoso Vif-Argent é um homem sábio, que é conhecido por usar poções e alquimia na tentativa de descobrir os segredos desta terra.
+travelbook.villager.alchemistapprentice.desc=O aprendiz deste Alquimista treina diligentemente nos caminhos da Alquimia, para que ele possa retomar o ofício de seu mestre algum dia.
+travelbook.villager.alchemistassistant.desc=O Alquimista é um homem ocupado e precisa da ajuda de seu assistente de confiança para revelar os mistérios da vida.
+travelbook.villager.architect.desc=Nicolas de Weilbourg é um arquiteto mestre da Alemanha que jurou lealdade ao trono Normando pela chance de ver seu nome imortalizado nesta nova terra através da criação da Maravilha normanda!
+travelbook.villager.armoredbandit.desc=Um cavaleiro veterano que Virou um Bandido e, esse bandido é muito mais difícil de derrotar do que seus irmãos desarmados.
+travelbook.villager.boy.desc=Esse Menino Pequeno passa seus dias Brincando, Lendo é Aprendendo, para que um dia Vire um Aldeão-Produtivo Normando.
+travelbook.villager.carpenter.desc=Carpinteiros são importantes para as aldeias Normandas, pois são os únicos qualificados o suficiente para trabalhar com Estruturas de Madeira.
+travelbook.villager.cattlefarmerfemale.desc=Esposa de um criador de Rebanho, ela é igualmente importante para cuidar dos animais.
+travelbook.villager.cattlefarmermale.desc=Este Fazendeiro vigia seu Rebanho, Constituído por Gados,Porcos e Galinhas. Uma parte Essencial de qualquer vila Normanda.
+travelbook.villager.farmer.desc=Este Fazendeiro cultiva trigo e cenoura, fornecendo alimento para á Cidade.
+travelbook.villager.felonbaron.desc=o Barão Normando virou um Traidor, ele se mantem no Seu Castelo com seus Soldados mais Confiantes.
+travelbook.villager.felonsoldier.desc=A lealdade ao barão e um bom salário convenceram esse soldado de que uma vida de crime é realmente a melhor.
+travelbook.villager.girl.desc=Essa jovem gosta de passar seus dias brincando, aprendendo e ansiosa para crescer e se tornar uma produtora normanda.
+travelbook.villager.glassblower.desc=Os "Sopradores de Vidro" criam todas as formas de esplêndido vitral usando vidro e corantes.
+travelbook.villager.guard.desc=Guardas são soldados que passam seu tempo Protegendo seus companheiros Normandos, mesmo que isso signifique tomar a ofensiva de vez em quando.
+travelbook.villager.guildmaster.desc=Um homem de comércio e negócios encarregado da liderança de uma vila. Se alguém aqui entende as complexidades dos mercados e finanças, é ele.

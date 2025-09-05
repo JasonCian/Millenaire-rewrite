@@ -1,0 +1,14 @@
+//Special goal for Indian pandits to get them to pray where the player can find them for pujas
+
+sentencekey=gopray
+labelkey=gopray
+
+priority=200
+
+buildingTag=pujas
+
+duration=30000
+
+leasure=true
+
+sprint=false

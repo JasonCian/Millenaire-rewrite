@@ -1,0 +1,10 @@
+//Parameters for the building as a whole
+building.length=20
+building.width=30
+building.buildingorientation=3
+building.travelbook_display=false
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Anomalie Trois
+

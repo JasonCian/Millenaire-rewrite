@@ -1,0 +1,70 @@
+culture.inuits=Inuit
+culture.fullname=The Inuit
+
+village.artisanalvillage=artisanal village
+village.community_farminghamlet=farming hamlet
+village.community_religioushamlet=religious hamlet
+village.communityvillage=community village
+village.huntingvillage=hunting village
+village.huntingvillage_controlled=custom controlled village
+village.religiousvillage=religious village
+village.farmingvillage=farming village
+
+villager.inuit_boy=Boy
+villager.inuit_carver=Carver
+villager.inuit_chef=Food Preparer
+villager.inuit_farmer=Farmer
+villager.inuit_fisherman=Fisherman
+villager.inuit_girl=Girl
+villager.inuit_hunter=Hunter
+villager.inuit_hunterth=Hunter
+villager.inuit_husband=Husband
+villager.inuit_localmerchant=Merchant
+villager.inuit_lonehunter=Hunter
+villager.inuit_lonemurderer=Murderer
+villager.inuit_loneshaman=Shaman
+villager.inuit_lumberman=Lumberman
+villager.inuit_oldlady=Old Lady
+villager.inuit_shaman0=Shaman
+villager.inuit_shaman=Shaman
+villager.inuit_smith=Smith
+villager.inuit_sodder=Sodder
+villager.inuit_tanner=Tanner
+villager.inuit_wife=Wife
+villager.merchant_byzantine=Byzantine Trader
+villager.merchant_hindi=Indian Trader
+villager.merchant_japanese=Japanese Trader
+villager.merchant_mayan=Maya Trader
+villager.teenagerFemale=Youth
+villager.teenagerMale=Youth
+
+villager.merchant_art=Art Merchant
+villager.merchant_food=Food Merchant
+villager.merchant_materials=Stone Merchant
+villager.smuggler_silk=Silk Merchant
+
+villager.inuit_dogbreeder=Dog Breeder
+villager.inuit_madman=Madman
+villager.inuit_merchant_armorer=Armour Merchant
+villager.inuit_merchant_building=Construction Goods Merchant
+villager.inuit_merchant_hunter=Hunting Supplies Merchant
+villager.merchant_viking=Viking Merchant
+
+villager.inuit_lonecarver=Lone Carver
+villager.inuit_lonefisherman=Lone Fisherman
+villager.inuit_lonehunter2=Lone Hunter
+villager.inuit_lonelumberman=Lone Lumberman
+villager.inuit_madman2=Madman
+villager.inuit_sanduitdaughter=Daughter
+villager.inuit_sanduithusband=Husband
+villager.inuit_sanduitson=Son
+villager.inuit_sanduitwife=Wife
+
+shop.armoury=Tools, Arms, and Armor
+shop.cheffery=Food Hut
+shop.inuittownhall=Central Store
+shop.loneartisan=Lone Artisan's Store
+shop.lonefisherman=Lone Fisherman's Store
+shop.lonesanduit=Mysterious Store
+shop.loneshaman=Lone Shaman's Store
+shop.lonewoodworker=Lone Woodworker's Store

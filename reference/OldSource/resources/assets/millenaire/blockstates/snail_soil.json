@@ -1,0 +1,9 @@
+{
+	"forge_marker": 1,
+    "variants": {
+        "progress=snail_soil_empty": { "model": "millenaire:snail_soil_empty" },
+        "progress=snail_soil_ip1": { "model": "millenaire:snail_soil_empty" },
+        "progress=snail_soil_ip2": { "model": "millenaire:snail_soil_empty" },
+        "progress=snail_soil_full": { "model": "millenaire:snail_soil_full" }
+    }
+}

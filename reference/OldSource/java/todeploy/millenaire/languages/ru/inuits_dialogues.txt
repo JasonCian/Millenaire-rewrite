@@ -1,0 +1,114 @@
+newchat;key:rain,tag:notraining,weigth:10
+v1;0;kisu qanniqtuq? / Идет снег?
+v2;30;aamai qiuvit?? / Это похоже на снег, но он не выглядит холодным.
+
+newchat;key:beautiful,weigth:10
+v1;0;asiujivaa, / Где мы находимся, это место непохоже ни на одно из тех, что я видел раньше. Оно выглядит таким же, но ощущается по-другому.
+v2;30;angakkuq uqalaittuq unillarvik tuurngaq, ittukki! / Шаманы говорят, что мы находимся в благословенной стране духов,приносящих пользу, поэтому здесь так удивительно!
+
+newchat;key:sunset,weigth:10
+v1;0;sinigiaqaqtunga, unnusak... / Я устал, сегодняшний день проходит не достаточно быстро ...
+
+newchat;key:seasons,weigth:10
+v1;0;aaqqiktausimalluni angunasungniq suvallituq ukiuq? / Как вы думаете, охота будет хорошей в этом году?
+v2;30;aamai, uqqulimajuq. / Кто знает, с такой-то погодой.
+v1;60;upirngalaaq ippigijaillingajuq. / Времена года здесь не имеют значения.
+
+newchat;key:normans,weigth:5
+v1;0;qallunaat uivirripaa, uiguit? / Я встретил странных людей, они называют себя норманнами?
+v2;30;ii uigit anittaa pirlajuq. / Да, норманны великолепны, но им, конечно, нужно много.
+v1;60;nauk ilitsimajuq? / Что ты имеешь в виду?
+v2;90;uiguit ungalliani pimajaqpuq, pirlajuq. / Один из них приходил на днях, и мне пришлось опустошить весь свой дом, отдавая ему вещи, а он просто продолжал требовать всё больше и больше.
+v1;120;saipaaqsauti / Бедный парень.
+
+newchat;key:japanese,v1:adult,v2:adult,weigth:5
+v1;0;ualiniq immikkuurtuq qallunaat nirrimaatsiutit iqaluk! / Те японцы наверняка знают, как готовить рыбу!
+v2;30;"nirrimaatsiutit" iqaluk? uugitsanguivuq, ii? / «Готовить» рыбу? Ты имеешь в виду, что они просто готовят её, верно?
+v1;60;aakka nirrimaatsiutit papa mamaqtuq. / Нет, я имею в виду, что они подают свою еду со всеми этими сложными церемониями и ароматами.
+v2;90;aungajuaq mamailliungusuttuq tangiq aakka? / Еда может быть разной на вкус, не будучи испорченной?
+v1;120;siaruulaaqtumi suurmi! / Да, ты должен пойти со мной в следующий раз, тогда я проверю их!
+
+newchat;key:murderer,weigth:10
+v1;0;tusarniiluttuq sukutsiq sivunittini. / Вы слышали, что случилось с ним после несчастного случая?
+v2;30;ilinngatuq inuarniq aakka. / Несчастный случай или нет, убивать людей - это неправильно.
+v1;60;pirlajuq inuillitiqtuq ii tuqutsiarivaa / Да, но нужно ли было выгонять его из деревни? Я слышал, он сам сошел с ума.
+v2;90;manguppaa! akka itjiunngittuq aakka qiqumajuq. / Мы должны были! По крайней мере, здесь не так холодно, и он не замерзнет до смерти.
+v1;120;inuillitiqtuq! / Разве это лучше? Теперь он вынужден жить один на один с самим собой!
+
+newchat;key:kys,weigth:10
+v1;0;qarungu avasirngulik tuqutsiarivaa? / Когда старейшина собирается уйти, чтобы умереть?
+v2;30;aakka pirlajuq, suvallituq! / Я не думаю, что нам нужно делать это здесь, этот новый мир гораздо более гостеприимный!
+v1;60;aamai... uummangajuq / Я тоже так думаю ... но странно видеть ее еще живой.
+
+newchat;key:visitors,weigth:10
+v1;0; nunasiuriijaqtuq tikittusiaqpaa, upaajut qallunaat. / Это странное место, оно полно странных людей.
+v2;30;qallunaat $name? / Ты имеешь в виду таких, как $name?
+v1;60;aakka $name, qinungati / Ну, $name - это всего лишь один человек, а я имею в виду всех остальных.
+
+newchat;key:endermen,weigth:10
+v1;0;avasirngulik uqautivaa takisuuq, haattuq, iliranaqtuq kallupilluk? / Ты слышал, что старейшина говорит об этих высоких, тощих и страшных людях?
+v2;30;unniluppuq tariaksuq? aamai... / Что они люди-тени? Я не знаю...
+v1;60;maituaq! ii uqalaittuq unillarvik irinaliut / Всё же это имеет смысл! Если бы мы действительно были на благословенной земле, они были бы так вытянуты!
+v2;90;uqalaittuq unillarvik summat tariaksuq? / Но если мы находимся на благословенной земле, то почему люди-тени даже здесь?
+v2;120;quingaaluk... aamai... / Ох ... ммм, я не знаю ...
+
+newchat;key:likingrain,tag:raining,v1:adult,v2:adult,weigth:10
+v1;0;unganaqtuq aput. / Я люблю снег.
+v2;42;mamaaqpi inuk! / Хорошая вещь для инуитов!
+
+newchat;key:meat,weigth:10
+v1;0;pijurivaa niqituinnaq nangminiqaqatiujjutit, uumisuttuq niqiinniatuq / Я думаю, что наши мясные склады пустеют,а я ненавижу, когда они пустеют.
+v1;30;niqituinnaq aakka qaluniq / Мясо - это не то же самое, что рагу...
+v2;60;qaluniq pigivaa niqituinnaq? / Но в большинстве рагу есть мясо?
+v1;90;qaluniq aakka niqituinnaq... / Да, но это не одно и то же...
+
+newchat;key:carribou,weigth:10
+v1;0;nauk tuttuq? uggualuppuq tuttuvinik / Где все карибу? Я скучаю по мясу карибу.
+v2;30;tuttuliaq aakka pitsasiaq tuttuq. / Мы много охотились, но никто так и не нашел карибу.
+v2;60;pitsasiaq immuksiugaq! / Зато мы нашли много того, что похоже на бизона!
+v1;60;kiinaujat piiqsiviulauqtinnagit, uumisuttuq immuksiugaq, tuttuq ikullajuq. / Фу, я ненавижу бизонов, карибу лучше.
+v2;90;tamualitiqpait iqaluk, minallakaat. / Ну, тогда возьми рыбу, у нас ее много.
+
+newchat;key:countingcows,v1:child,v2:adult,weigth:10
+v1;0;iqianngunaqtuq. / Здесь особо нечем заняться.
+v2;30;mamaaq, qasungajuq. / Это хорошо, мирно.
+v1;60;sarimaikuni... / И скучно ...
+v2;75;iluliuqpuq, illulinnipuq! / Ты можешь выкопать яму или построить снежное иглу!
+v1;110;igluvijaq?! / Мое собственное снежное иглу?!
+
+newchat;key:shamans,v1:child,v2:adult,weigth:5
+v1;0;ilaavigivaa angakkuq, uqasiriittuq tuurngaq. / Я завидую шаманам, жаль, что я не могу общаться с духами, как они.
+v2;30;ilinniaqtuq angakkuq ilippuq / Может быть, шаман возьмётся учить тебя?
+v1;60;aamai... tuurngaq iliranaqtuq / Возможно... но некоторые духи страшные.
+v2;70;ii, taimanngat tuurngaq iliranaqtuq ivaaqpuq. / Верно, всегда будут страшные духи, которых нужно остерегаться.
+
+newchat;key:kids1,v1:child,v2:child,weigth:10
+v1;0;ataata pakkiggumiuttut ivvit. / Мой отец намного сильнее твоего.
+v2;30;ataata pakkiggumiut illugasatjuat, tukiittulivuq! / Мой папа-самый сильный в деревне, болван!
+v1;60;tikittusiaqpaa, ataata pakkiggumiuttut ivvit attaiq. / Мечтай. Мой отец может побить твоего за две минуты.
+
+newchat;key:badflirt,v1:adult,v2:child,v1:male,v2:female,weigth:11
+v1;0;takuminaqsalaivuq, suvit unnuaq? / Красавица, что ты делаешь сегодня вечером?
+v2;40;$targetfirstname, qinungavik suvit, qinuaqarvik! / $targetfirstname, я уже сказал тебе, что я обещана другому!
+
+newchat;key:hunting,weigth:10
+v1;0;takurngiunaqsivaa. / Я снова улучшил свои навыки.
+v2;30;piusivuq uummajuqsutuq! / Ты быстро становишься великим охотником!
+v1;90;ii isumanaqtuq? / Ты действительно так думаешь?
+
+newchat;key:foodpreparer,building:foodpreparer,weigth:10
+v1;0;takutsugusuppuq pujaniq niqituinnaq igaarniq niq?iuqti. / Я люблю запах мяса, готовящегося в здании для приготовления пищи.
+v2;30;aamai mikitjipuq, surratippaa nainguumivuq. / Не знаю, я обычно предпочитаю сырое мясо, оно изменяет вкус.
+v1;60;ua taamannak asianngutuq uuppaa. / Эй, мне нравится этот изменяющийся вкус!
+
+newchat;key:mikiruk,v1:adult,v2:adult,weigth:8
+v1;0;umingmak kaszruruk mikiruk. / Тьфу, посмотри, какие маленькие и хилые здесь бизоны.
+v2;42;tunisiruq, "immulivik..?" / Иностранный купец называет их "коровами..?"
+
+//a shaman and another guy
+//alapittuk, muruaneq, qanir, aakka kikkitigaa? / Я не понимаю, снег на земле, снег в небе, почему мы не умираем от обморожения?
+//uqalaittuq unillarvik Sanna! / Это действительно благословенные святые земли Седны, я уверен!
+
+//a shaman0 and another guy
+//alapittuk, muruaneq, qanir, aakka kikkitigaa? / Я не понимаю, снег на земле, снег в небе, почему мы не умираем от обморожения?
+//uqalaittuq unillarvik Sanna! / Это действительно благословенные святые земли Седны, я уверен!

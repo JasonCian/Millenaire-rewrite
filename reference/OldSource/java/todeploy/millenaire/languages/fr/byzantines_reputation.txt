@@ -1,0 +1,16 @@
+
+0;Étranger;En tant que peuple commercant nous nous devons d'accepter quiconque, sans toutefois accorder notre confiance.
+4*64;Personne connue;Finalement, On vous voit souvent dans ce quartier Romain.
+8*64;Visage Connu;D'autres Romains semblent vous avoir remarqués et parlent en bien de vous! Vous ne semblez pas être un barbare après tout.
+16*64;Visiteur fréquent;Xaire, $name! Enchanté de vous revoir. Comment allez vous ?
+32*64;Ami civilisé;Ah, ça fait plaisir de voir que d'autres personnes en dehors de l'empire romain peuvent être civilisées comme nous de temps en temps.
+64*64;Marchand préféré;Tout le monde ici est content de vous revoir. Avez-vous quelque chose à échanger ?
+2*64*64;Ami du village;Vous faites partie du village $name, nous vous faisons confiance maintenant !
+4*64*64;Allié respectable;Félicitations $name! Vous avez gagné notre respect. Il est difficile pour des étrangers de devenir des amis de l'empire romain, encore moins d'être respectés. Mais VOUS, vous en avez fait la preuve!
+8*64*64;Un des nôtres;Nous vous voyons comme un citoyen Romain maintenant. Peut-être n'êtes vous pas né parmi nous, mais vous pouvez être fier d'être appellé comme un vrai Romain.
+32*64*64;Chef reconnu;$name, vous avez gagné la confiance et le respect des Byzantins. Ils vous suivront où que ce soit.
+4*32*64*64;Le Prochain Caesar;Vous serez le prochain César! La quantité de travail que vous avez accompli pour ce village est inimaginable et nous vous suivrons pour faire de ce monde un monde meilleur. Salut $name !
+-64;Nuisance;Vous n'êtes pas très aimable. Faites attention où vous allez.
+-4*64;Peste;Nous acceptons les commerçants, mais pas les gens de votre espèce. Soyez-en prévenu.
+-16*64;Ennemi public;Cela embarrasse l'empire Romain tout entier de vous laisser vivre. Si vous tenez à la vie, quittez les terres romaines et ne revenez jamais.
+-64*64;Barbare apparent;Ne nous comprends-tu pas? Bien, nous allons essayer autre chose: BAR BAR BAR, BAR BAR, BAR BARRRRR!

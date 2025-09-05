@@ -1,0 +1,22 @@
+//Parameters for the building as a whole
+building.length=17
+building.width=21
+building.mindistance=0.6
+building.icon=dye_black
+
+//Parameters for initial construction
+initial.startlevel=-2
+initial.nativename=Ika Sakuba
+initial.priority=1000
+initial.tag=squids
+
+//Parameters for specific upgrades
+upgrade1.priority=100
+
+upgrade2.priority=90
+upgrade2.pathlevel=1
+
+upgrade3.priority=85
+
+upgrade4.priority=80
+

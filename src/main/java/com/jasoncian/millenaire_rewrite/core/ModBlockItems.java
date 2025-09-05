@@ -1,9 +1,6 @@
 package com.jasoncian.millenaire_rewrite.core;
 
 import com.jasoncian.millenaire_rewrite.MillenaireRewrite;
-import com.jasoncian.millenaire_rewrite.blocks.decorative.DecorativeStoneBlock;
-import com.jasoncian.millenaire_rewrite.blocks.decorative.DecorativeWoodBlock;
-import com.jasoncian.millenaire_rewrite.blocks.decorative.DecorativeEarthBlock;
 import com.jasoncian.millenaire_rewrite.blocks.decorative.StoneDecorativeVariant;
 import com.jasoncian.millenaire_rewrite.blocks.decorative.WoodDecorativeVariant;
 import com.jasoncian.millenaire_rewrite.blocks.decorative.EarthDecorativeVariant;

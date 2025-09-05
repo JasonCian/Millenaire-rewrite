@@ -1,0 +1,13 @@
+minreputation:0
+chanceperhour:1
+maxsimultaneous:1
+definevillager:key=alchemist,type=norman/alchemist
+forbiddenplayertag:alchemist_2_meeting
+requiredplayertag:alchemist_1_intro
+
+step:new
+villager:alchemist
+duration:48
+setplayertagsuccess:alchemist_2_meeting
+clearplayertagsuccess:alchemist_tower_generate
+setactiondatasuccess:alchemistqueststatus,2

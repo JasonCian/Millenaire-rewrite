@@ -1,0 +1,14 @@
+//Parameters for the building as a whole
+building.length=24
+building.width=30
+building.max=0
+building.reputation=32768
+building.price=32768
+building.icon=denieror
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Kai Ie
+initial.priority=1000000
+initial.pathlevel=2
+

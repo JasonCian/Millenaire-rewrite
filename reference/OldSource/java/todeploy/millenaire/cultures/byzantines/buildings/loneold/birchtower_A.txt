@@ -1,0 +1,13 @@
+//Parameters for the building as a whole
+building.length=7
+building.width=7
+building.buildingorientation=3
+building.icon=wood_birch
+building.showtownhallsigns=false
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Mono Paratiritio
+initial.male=keeperbirch_byzantine
+initial.shop=lonetower
+

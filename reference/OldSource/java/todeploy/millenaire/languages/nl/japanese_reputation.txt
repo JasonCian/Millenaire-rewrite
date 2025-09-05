@@ -1,0 +1,10 @@
+0;Vreemdeling;We mogen vreemdelingen niet echt. Wees voorzichtig.
+4*64;Bekend gezicht;We hebben je al eens gezien, maar dat betekent niet dat we je vertrouwen.
+16*64;Geregelde bezoeker;Hoe waren je reizen $name?
+64*64;Favoriete Handelaar;Ah, $name, je komt van een lange weg in de ogen van de burgers.
+2*64*64;Vriend van het dorp;Hallo vriend, wat kunnen we voor je doen vandaag?
+8*64*64;Een van ons;Hallo, $name, we hebben gewacht op je terugkeer.
+32*64*64;Natuurlijke leider;$name, je hebt het respect en vertrouwen van mijn mensen gewonnen. Ze zullen je overal volgen.
+-64;Overlastveroorzaker;O jij bent het, wat wil je?
+-4*64;Ongevraagde buitenstaander;Verlaat ons dorp nu zwijn!
+-16*64;Vijand;Hoe durf je hier te komen. Confronteer je straf!

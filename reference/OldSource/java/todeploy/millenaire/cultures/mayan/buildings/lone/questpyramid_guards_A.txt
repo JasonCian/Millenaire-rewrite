@@ -1,0 +1,30 @@
+//Parameters for the building as a whole
+building.length=38
+building.width=38
+building.buildingorientation=3
+building.issubbuilding=true
+building.parentbuildingplan=questpyramid_A0
+building.max=0
+building.startinggood=arrow,1.0,64,256
+building.startinggood=gold,0.8,4,15
+building.startinggood=diamond,0.5,2,8
+building.startinggood=iron,1.0,8,32
+building.startinggood=gold,0.8,4,15
+building.startinggood=mayangold,1.0,2,4
+building.startinggood=gold,0.8,4,15
+building.startinggood=denierargent,1.0,4,15
+building.startinggood=steelsword,1.0,2,3
+building.startinggood=wah,1.0,2,2
+building.startinggood=cacauhaa,1.0,1,3
+
+building.travelbook_display=false
+building.icon=mayanmace
+
+//Parameters for initial construction
+initial.startlevel=-30
+initial.nativename=Keban Muul
+initial.male=questkingelitewarrior
+initial.male=questkingelitewarrior
+initial.male=questkinglieutnant
+initial.male=questkingwarrior
+

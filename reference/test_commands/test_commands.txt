@@ -1,0 +1,64 @@
+# Millenaire Rewrite - 测试命令集合
+# 在游戏中按T打开聊天框，复制下面的命令来获取所有新物品
+
+# 工具武器装备
+/give @p millenaire_rewrite:norman_sword
+/give @p millenaire_rewrite:norman_axe
+/give @p millenaire_rewrite:norman_pickaxe
+/give @p millenaire_rewrite:norman_shovel
+/give @p millenaire_rewrite:norman_hoe
+/give @p millenaire_rewrite:norman_helmet
+/give @p millenaire_rewrite:norman_chestplate
+/give @p millenaire_rewrite:norman_leggings
+/give @p millenaire_rewrite:norman_boots
+
+/give @p millenaire_rewrite:mayan_axe
+/give @p millenaire_rewrite:mayan_pickaxe
+/give @p millenaire_rewrite:mayan_shovel
+/give @p millenaire_rewrite:mayan_hoe
+/give @p millenaire_rewrite:mayan_mace
+/give @p millenaire_rewrite:mayan_quest_crown
+
+/give @p millenaire_rewrite:byzantine_mace
+/give @p millenaire_rewrite:byzantine_helmet
+/give @p millenaire_rewrite:byzantine_chestplate
+/give @p millenaire_rewrite:byzantine_leggings
+/give @p millenaire_rewrite:byzantine_boots
+
+/give @p millenaire_rewrite:japanese_sword
+/give @p millenaire_rewrite:japanese_bow
+/give @p millenaire_rewrite:japanese_guard_helmet
+/give @p millenaire_rewrite:japanese_guard_chestplate
+/give @p millenaire_rewrite:japanese_guard_leggings
+/give @p millenaire_rewrite:japanese_guard_boots
+/give @p millenaire_rewrite:japanese_blue_helmet
+/give @p millenaire_rewrite:japanese_blue_chestplate
+/give @p millenaire_rewrite:japanese_blue_leggings
+/give @p millenaire_rewrite:japanese_blue_boots
+/give @p millenaire_rewrite:japanese_red_helmet
+/give @p millenaire_rewrite:japanese_red_chestplate
+/give @p millenaire_rewrite:japanese_red_leggings
+/give @p millenaire_rewrite:japanese_red_boots
+
+# 快速获取所有新武器装备
+/give @p millenaire_rewrite:norman_sword
+/give @p millenaire_rewrite:mayan_mace
+/give @p millenaire_rewrite:byzantine_mace
+/give @p millenaire_rewrite:japanese_sword
+/give @p millenaire_rewrite:japanese_bow
+
+# 快速获取所有护甲套装
+/give @p millenaire_rewrite:norman_helmet
+/give @p millenaire_rewrite:norman_chestplate
+/give @p millenaire_rewrite:norman_leggings
+/give @p millenaire_rewrite:norman_boots
+
+/give @p millenaire_rewrite:byzantine_helmet
+/give @p millenaire_rewrite:byzantine_chestplate
+/give @p millenaire_rewrite:byzantine_leggings
+/give @p millenaire_rewrite:byzantine_boots
+
+/give @p millenaire_rewrite:japanese_guard_helmet
+/give @p millenaire_rewrite:japanese_guard_chestplate
+/give @p millenaire_rewrite:japanese_guard_leggings
+/give @p millenaire_rewrite:japanese_guard_boots

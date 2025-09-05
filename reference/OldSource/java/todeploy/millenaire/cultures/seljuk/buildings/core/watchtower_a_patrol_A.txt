@@ -1,0 +1,16 @@
+building.length=10
+building.width=10
+building.buildingorientation=0
+building.issubbuilding=true
+building.max=0
+
+building.icon=seljukscimitar
+building.travelbook_display=false
+
+building.parentbuildingplan=watchtower_A0
+
+initial.startlevel=-1
+initial.nativename=Devriye
+initial.priority=1000
+
+initial.tag=patrol

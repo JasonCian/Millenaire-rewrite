@@ -1,0 +1,33 @@
+name=Ajaw Cah
+weight=0
+radius=50
+
+//Vanilla biomes
+biome=JungleEdge
+biome=JungleEdge M
+biome=Jungle
+biome=Jungle M
+biome=Birch Forest
+biome=Birch Forest Hills
+biome=Birch Forest M
+biome=Birch Forest Hills M
+
+//biomes o'plenty
+biome=bayou
+biome=lush swamp
+biome=rainforest
+biome=tropical rainforest
+
+keyLoneBuildingGenerateTag=fallenking_camp_generate
+generateforplayer=true
+
+mindistancefromspawn=1000
+
+//starting buildings=
+centre=mayancamp
+
+start=questcamphouse
+start=questcamphouse
+start=questguardtower
+start=questguardtower
+start=questguardtower

@@ -1,0 +1,73 @@
+culture.norman=Normanni
+
+//Norman:
+villager.abbot=Abate
+villager.carpenter=Carpentiere
+villager.cattleFarmerMale=Allevatore
+villager.cattleFarmerFemale=Allevatrice
+villager.pigherd=Allevatore
+villager.pigherdF=Allevatrice
+villager.shepherd=Pastore
+villager.shepherdF=Pastorella
+villager.boy=Bambino
+villager.girl=Bambina
+villager.teenagerMale=Ragazzo
+villager.teenagerFemale=Ragazza
+villager.farmer=Agricoltore
+villager.merchant_viking=Mercante vichingo
+villager.merchant_weapon=Mercante di armi
+villager.merchant_plant=Mercante di erbe
+villager.merchant_art=Mercante d'arte
+villager.merchant_wool=Mercante di lana
+villager.merchant_food=Mercante di alimenti
+villager.guard=Guardia
+villager.guildmaster=Maestro della Corporazione
+villager.knight=Cavaliere
+villager.lady=Dama
+villager.lumberman=Boscaiolo
+villager.merchant=Mercante
+villager.miner=Minatore
+villager.monk=Monaco
+villager.priest=Prete
+villager.seneschal=Siniscalco
+villager.smith=Fabbro
+villager.wife=Donna del villaggio
+
+villager.innkeeperfemale=Oste
+villager.innkeepermale=Oste
+villager.lonemiller=Mugnaio
+villager.merchant_weapons=Mercante d'armi
+villager.robberbaron=Capo dei ladri
+villager.robberleader=Capo dei ladri
+
+villager.lonelumberman=Boscaiolo solitario
+villager.lonelumbermantaiga=Boscaiolo solitario
+villager.loneminer=Minatore solitario
+villager.lonemonk=Monaco solitario
+villager.loneabbot=Abate solitario
+villager.alchemist=Alchimista
+villager.alchemistassistant=Assistente alchimista
+villager.alchemistapprentice=Apprendista alchimista
+villager.bandit=Bandito
+villager.armoredbandit=Bandito
+villager.felonbaron=Bandito
+villager.felonsoldier=Bandito
+
+
+
+shop.townhall=Negozio principale
+shop.forge=Utensili
+shop.armoury=Armi e armature
+shop.bakery=Fornaio
+shop.cattlefarm=Prodotti bovini
+shop.pigfarm=Prodotti suini
+shop.sheepchickenfarm=Pollame e ovini
+shop.tavern=Alcool
+shop.lumberman=Mele da sidro
+shop.lonemine=Pietre
+shop.alchemyworkshop=Prodotti alchemici
+shop.lonelumberman=Legname e mele
+shop.lonemill=Pane
+shop.loneinn=Cibo e bevande
+shop.lonelumbermantaiga=Legname
+shop.loneabbey=Prodotti dell'abbazia

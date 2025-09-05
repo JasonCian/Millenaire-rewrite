@@ -1,0 +1,28 @@
+//Parameters for the building as a whole
+building.length=27
+building.width=27
+building.max=0
+building.farfromtag=leasure,30
+building.icon=bucketwater
+
+//Parameters for initial construction
+initial.startlevel=-2
+initial.nativename=Sentou
+initial.priority=400
+initial.pathlevel=1
+initial.tag=leasure
+
+//Parameters for specific upgrades
+upgrade1.priority=40
+
+upgrade2.priority=35
+
+upgrade3.priority=30
+
+upgrade4.priority=25
+upgrade4.pathlevel=2
+
+upgrade5.priority=20
+
+upgrade6.priority=15
+

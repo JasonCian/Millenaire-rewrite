@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+	"group": "paint_bucket",
+	"ingredients": [
+        {
+            "item": "millenaire:paint_bucket_white"
+        },
+        {
+            "item": "minecraft:dye",
+            "data": 0
+        }
+    ],
+    "result": {
+        "item": "millenaire:paint_bucket_black"
+    }
+}

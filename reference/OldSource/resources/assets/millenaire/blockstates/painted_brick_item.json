@@ -1,0 +1,21 @@
+{
+	"forge_marker": 1,
+    "variants": {
+        "up=true,down=true,color=black": { "model": "millenaire:painted_brick_black" },
+        "up=true,down=true,color=blue": { "model": "millenaire:painted_brick_blue" },
+        "up=true,down=true,color=brown": { "model": "millenaire:painted_brick_brown" },
+        "up=true,down=true,color=cyan": { "model": "millenaire:painted_brick_cyan" },
+        "up=true,down=true,color=gray": { "model": "millenaire:painted_brick_gray" },
+        "up=true,down=true,color=green": { "model": "millenaire:painted_brick_green" },
+        "up=true,down=true,color=light_blue": { "model": "millenaire:painted_brick_light_blue" },
+        "up=true,down=true,color=lime": { "model": "millenaire:painted_brick_lime" },
+        "up=true,down=true,color=magenta": { "model": "millenaire:painted_brick_magenta" },
+        "up=true,down=true,color=orange": { "model": "millenaire:painted_brick_orange" },
+        "up=true,down=true,color=pink": { "model": "millenaire:painted_brick_pink" },
+        "up=true,down=true,color=purple": { "model": "millenaire:painted_brick_purple" },
+        "up=true,down=true,color=red": { "model": "millenaire:painted_brick_red" },
+        "up=true,down=true,color=silver": { "model": "millenaire:painted_brick_silver" },
+        "up=true,down=true,color=white": { "model": "millenaire:painted_brick_white" },
+        "up=true,down=true,color=yellow": { "model": "millenaire:painted_brick_yellow" }
+    }
+}

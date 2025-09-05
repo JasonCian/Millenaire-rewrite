@@ -1,0 +1,18 @@
+{
+	"forge_marker": 1,
+    "variants": {
+        "normal": {"model": "millenaire:markerBlock"},
+        "resource=stone": { "model": "millenaire:source_stone" },
+        "resource=sand": { "model": "millenaire:source_sand" },
+        "resource=sandstone": { "model": "millenaire:source_sandstone" },
+        "resource=redsandstone": { "model": "millenaire:source_redsandstone" },
+        "resource=clay": { "model": "millenaire:source_clay" },
+        "resource=gravel": { "model": "millenaire:source_gravel" },
+        "resource=granite": { "model": "millenaire:source_granite" },
+        "resource=diorite": { "model": "millenaire:source_diorite" },
+        "resource=andesite": { "model": "millenaire:source_andesite" },
+        "resource=snow": { "model": "millenaire:source_snow" },
+        "resource=ice": { "model": "millenaire:source_ice" },
+        "resource=quartz": { "model": "millenaire:source_quartz" }
+    }
+}

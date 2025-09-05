@@ -1,0 +1,174 @@
+alchemist_1_introb_0_label=炼金术士
+alchemist_1_introb_0_description=我的孩子，某种预示在我耳边低语，你寻<ret>求的知识已经超过了主所能给予我们的。<ret>要走上异端之路！如果你需要指引，你应<ret>该去修道院祈祷。神会很乐意人们发现自<ret>己所能理解的智慧的极限。但是你还太年<ret>轻，太愚蠢，我知道你会对我的建议充耳<ret>不闻，直到你自己给自己一个教训。年轻<ret>人总是这样！<ret><ret>有另一个人你可<ret>以拜访一下，或许他能帮助你，或是让你<ret>的发现旅程徒劳无功。虽然他在为人处世<ret>上并不在行，但是他却是一个有教养的聪<ret>明人。你希望我指引你去找他吗？
+alchemist_1_introb_0_description_success=他的名字叫 Guillaume Vif-argent，<ret>而且他自称是一个‘炼金术士’。<ret>我没有他的确切位置，但是他总是喜欢<ret>在山上建立他的工作站来观察星星。
+alchemist_1_introb_0_description_refuse=你比看上去更聪明。
+alchemist_1_introb_1_label=向 $startvillager_villagerrole$ 报告
+alchemist_1_introb_1_description=你找到那个人了吗？对他你有什么想说的吗？
+alchemist_1_introb_1_description_success=我看到他给你的知识了。小心，$name。
+alchemist_1_introb_1_description_refuse=我会在这里祈祷你改变主意，$name。
+alchemist_1_introb_1_listing=在山脉区域找到炼金术士的高塔，<ret>然后向 $startvillager_villagename$ 村的 $startvillager_villagerrole$ 汇报。
+
+alchemist_1_introguildmasterb_0_label=炼金术士
+alchemist_1_introguildmasterb_0_description=$name，我知道你为了发现这个世界的秘密而探索了整个土地。<ret>那你应该来找我而不是像你以前那样！我知道一个人，<ret>他拥有当今世上还活着的最伟大的心灵，<ret>他就是炼金术士 Guillaume Vif-argent，<ret>他在哲学的研究中拥有无可比拟的声望。<ret>他就是你要找的人。
+alchemist_1_introguildmasterb_0_description_success=他会把工作站建立在山脉区域，<ret>在那里研究岩石和星星。
+alchemist_1_introguildmasterb_0_description_refuse=所以你不会听从自柏拉图以来最博学<ret>的人的建议？<ret>你让我感到失望，$name。
+alchemist_1_introguildmasterb_1_label=向工会大师报告
+alchemist_1_introguildmasterb_1_description=你有关于伟大的炼金术士的新消息吗？
+alchemist_1_introguildmasterb_1_description_success=他的意志一如既往的透彻。<ret>倾听并且学习于他，<ret>年轻的 $name。
+alchemist_1_introguildmasterb_1_description_refuse=我会在这里祈祷你改变主意，$name。
+alchemist_1_introguildmasterb_1_listing=在山脉区域找到炼金术士的高塔<ret>然后向 $startvillager_villagename$ 村的 $startvillager_villagerrole$ 汇报。
+
+alchemist_1_introknight_0_label=炼金术士
+alchemist_1_introknight_0_description=那么你想知道谁在我们领域里会拥有这个<ret>世界的知识？可以肯定那不会是牧师。注<ret>意工会大师，他们总是想要知道的更多。<ret>有一个人可能帮到你，只是可能帮到你-<ret>他声称自己聪明且受过良好教育，曾提出<ret>要把铅转化成金从而让我们回到旧世界。<ret>我一直认为他是一个阴暗的人，但是他也<ret>许会知道些什么。
+alchemist_1_introknight_0_description_success=他定居在靠近山脉的旷野之中。他说过他<ret>的工作需要平和，但是我能确定他一定在<ret>隐瞒什么。不管怎样，他的名字叫<ret>Guillaume Vif-argent。
+alchemist_1_introknight_0_description_refuse=明智的决定。
+alchemist_1_introknight_1_label=向 $startvillager_villagerrole$ 报告
+alchemist_1_introknight_1_description=你找到那个人了吗？
+alchemist_1_introknight_1_description_success=那么在你看来他很坦率？<ret>好吧，只要不在我的管辖范围内随他怎么样……
+alchemist_1_introknight_1_description_refuse=我会在这里祈祷你改变主意，$name。
+alchemist_1_introknight_1_listing=在山脉区域找到炼金术士的高塔<ret>然后向 $startvillager_villagename$ 村<ret>的 $startvillager_villagerrole$ 汇报。
+
+alchemist_2_meeting_0_label=欢迎
+alchemist_2_meeting_0_description=所以你是来我这里寻求知识的，$name？<ret>看来你得到了不错的建议。<ret>我是你能在这个被上帝遗忘的世界里所能<ret>找到的唯一一个真正的炼金术士，我的孩<ret>子。如果你想要从我这里学到东西，那么<ret>你就会需要一些帮助。我总是能找到更多<ret>资源丰富的年轻人。你应该不是仅仅出于<ret>纯粹的知识才来找我，要知道我还没有成<ret>功的把铅转化为金子，但是我已经成功的<ret>打开了炼金术这一圣殿的大门。
+alchemist_2_meeting_0_description_success=如果你想的话可以待在房子外面。我和我<ret>的助手太忙了以至于都没时间去修理它。
+alchemist_2_meeting_0_description_refuse=你走吧，我还有工作要做。
+
+alchemist_3_ores_0_label=收集石头
+alchemist_3_ores_0_description=我目前正在对这个世界的岩石进行分析。<ret>很明显它们和旧世界的岩石在某些方面很<ret>相似，但是它们的分布范围是不同的。我<ret>需要样本，现在就要！或者你认为我是那<ret>种只会纸上谈兵的没用的哲学家吗？
+alchemist_3_ores_0_description_refuse=那你为什么打扰我？
+alchemist_3_ores_0_description_success=很好。我的助手会为你提供你所需要的工具。<ret>放心，我不会让你带回来钻石的。我已经<ret>完成了对钻石的研究工作了。
+alchemist_3_ores_1_label=拿起工具
+alchemist_3_ores_1_description=你好$name，我是大师Vif-argent的助手。<ret>不要因他的行为而愤慨，他是一个真正为科学<ret>献身的人，以至于没有时间去学习社交礼仪！<ret>但是据我所知他非常睿智。<ret>不管怎么样，这是你需要的工具。
+alchemist_3_ores_1_description_success=祝你好运，$name！
+alchemist_3_ores_1_description_refuse=我会通知大师的。
+alchemist_3_ores_1_listing=拿起炼金术士助手给你的工具。
+alchemist_3_ores_2_label=交回样本
+alchemist_3_ores_2_description=你发现了什么？
+alchemist_3_ores_2_description_success=很好，非常好！<ret>你是一个很有效率的人，$name。<ret>我就喜欢这样的人。
+alchemist_3_ores_2_description_refuse=我会在这里祈祷你改变主意，$name。
+alchemist_3_ores_2_listing=会见炼金术士以交回样本。
+
+alchemist_4_lavab_0_label=燃烧的需求
+alchemist_4_lavab_0_description=我在心中酝酿着一个很特别的实验，$name。<ret>你可能在这个世界的旅途中没有发现那些<ret>在我们旧世界欧洲很常见的火山，<ret>但是土壤中却充满了并不少见的熔岩，<ret>有些甚至还会在地表流淌。<ret>我需要知道这些熔岩的构成，或者它能不能<ret>被用来转换金属。我的老 Robert 太年长了，<ret>不能去做这些工作，但是你看起来像是有足够的<ret>机智来带回我需要的样品。
+alchemist_4_lavab_0_description_refuse=那你为什么打扰我？
+alchemist_4_lavab_0_description_success=去找 Robert，他有你需要的装备。
+alchemist_4_lavab_1_label=拿起装备
+alchemist_4_lavab_1_description=这次他又需要熔岩了？我相信他为此所做的<ret>工作一定是伟大！拿着这些桶，祝你好运。<ret>记住，大师需要所有 16 个装满的桶。
+alchemist_4_lavab_1_description_success=快回来，$name！
+alchemist_4_lavab_1_description_refuse=我会通知大师的。
+alchemist_4_lavab_1_listing=拿起炼金术士助手给你的装备。
+alchemist_4_lavab_2_label=交回熔岩
+alchemist_4_lavab_2_description=你拿到所有熔岩了吗？
+alchemist_4_lavab_2_description_success=非常好，这些在我的试验中会很有用。
+alchemist_4_lavab_2_description_refuse=我会在这里祈祷你改变主意，$name。
+alchemist_4_lavab_2_listing=会见炼金术士以交回熔岩。
+
+alchemist_5_creeper_0_label=爆炸需求
+alchemist_5_creeper_0_description=啊，$name！<ret>大师给你什么比较紧要的任务了吗？<ret>没有？很好……我有麻烦了，$name。<ret>大师需要大量神秘爆炸生物（爬行者）的<ret>产物，村民们经常能在村庄四周发现这些东西，<ret>但是我一直没法找到足够的那些东西。<ret>他会为此感到很失望的！你能帮忙吗？<ret>我可以为你提供可能需要的任何工具。
+alchemist_5_creeper_0_description_refuse=我该怎么办？
+alchemist_5_creeper_0_description_success=谢谢你！当然如果你需要我会为你提供弓箭。
+alchemist_5_creeper_1_label=带回火药
+alchemist_5_creeper_1_description=你已经找到一些了吗？
+alchemist_5_creeper_1_description_success=你是怎么这么迅速的找到这么多火药的？你真<ret>是一个了不起的人，$name。<ret>我已经无法表达我的谢意了！
+alchemist_5_creeper_1_description_refuse=我会通知大师的。
+alchemist_5_creeper_1_listing=为炼金术士的助手收集火药。
+
+alchemist_6_boreholec_0_label=大挖特挖
+alchemist_6_boreholec_0_description=我在遵循严谨的炼金术的前提下一直在研究<ret>这个世界的地质。我发现有很多奇怪和陌生<ret>的特性，但是没有一样要比基岩更奇特，我<ret>的助手经过各种尝试还是无法破坏它。他也<ret>许并没有真正在这件事上用过心，或许基岩<ret>的下面会有一些不允许我们接触的有趣的东<ret>西。无论那是什么，我想要改变这一现状。<ret><ret>你准备干一些疯狂的事了吗，$name？
+alchemist_6_boreholec_0_description_refuse=那你为什么打扰我？
+alchemist_6_boreholec_0_description_success=在我们认真地试图破坏这个障碍之前，我们<ret>需要一个合适的方法。$name，<ret>我需要你挖出一个通向这个世界底部的钻孔。<ret>随便在那里挖都行，但是我需要至少 5x5<ret>范围的基岩暴露在阳光之下。<ret><ret>别担心，你不需要用手来挖坑。去找我的助手，<ret>他会给你炼金术士可以给你的最棒的工具。
+alchemist_6_boreholec_1_label=带上炸药
+alchemist_6_boreholec_1_description=所以他真的要实施他的钻孔计划了吗？真是<ret>一个伟大而又有野心的人！当然，现在我们<ret>需要做一些实际的工作了。额，真有你的。<ret><ret>不管怎样……感谢你为我<ret>收集的火药，我已经在他的指示下准备好了<ret>这些炸药。这些东西会帮你挖的更快。
+alchemist_6_boreholec_1_description_success=祝你好运，要小心！
+alchemist_6_boreholec_1_description_refuse=我会通知大师的。
+alchemist_6_boreholec_1_listing=捡起炼金术士助手的炸药。
+alchemist_6_boreholec_2_label=向炼金术士汇报
+alchemist_6_boreholec_2_description=我相信我的炸药会帮你成功完成这个任务。
+alchemist_6_boreholec_2_description_success=干得漂亮！你做的与一个炼金术士所能做的<ret>一样出色，$name。<ret>没有吹嘘自己而展示出<ret>自己真正的技巧来完成这个任务。<ret><ret>我欠你太多了，$name。<ret>请接受我发明的这种炼金术护符以表谢意<ret>-你的样品是我能完成设计的最重要的一环。<ret>这个护符会在你接近珍贵矿物时发出光芒。<ret><ret>我正在为突破这些基岩的计划做<ret>最后收尾。休息一会之后再来找我。
+alchemist_6_boreholec_2_description_refuse=我会在这里祈祷你改变主意，$name。
+alchemist_6_boreholec_2_listing=挖一个直达基岩的 5x5 的深坑，然后向炼金术士<ret>汇报。
+
+alchemist_7_boreholetnt_0_label=爆炸物
+alchemist_7_boreholetnt_0_description=最伟大的时刻即将到来，$name！<ret>我一直在研究如何为了突破基岩而使爆炸力<ret>最好的集中起来，我相信我已经找到方法了。<ret>黑曜石应该能很好的使爆炸力集中向下从而<ret>确保我们的成功。你准备好了吗？
+alchemist_7_boreholetnt_0_description_refuse=那你为什么打扰我？
+alchemist_7_boreholetnt_0_description_success=Robert 会给你那些炸药的。确保你把炸药安<ret>放在深坑底部，并且在上面用黑曜石覆盖。<ret>根据我的计算，你需要至少 20 个炸药才能<ret>有所进展。别在下去的时候摔断了腿。
+alchemist_7_boreholetnt_1_label=带上炸药
+alchemist_7_boreholetnt_1_description=万事俱备！炸药，黑曜石和足够你在点燃<ret>炸药的情况下安全离开的绳缆。
+alchemist_7_boreholetnt_1_description_success=我真羡慕你，我年轻的朋友 - 你将是第一个<ret>目睹基岩之下隐藏的财富的人！
+alchemist_7_boreholetnt_1_description_refuse=我会通知大师的。
+alchemist_7_boreholetnt_1_listing=带上炼金术士助手的炸药。
+alchemist_7_boreholetnt_2_label=向炼金术士汇报
+alchemist_7_boreholetnt_2_description=那么，$name！<ret>一切都顺利吗？你在那下面看到了什么<ret>伟大的东西？
+alchemist_7_boreholetnt_2_description_success=什么都没有？什么都没发生？怎么会这样？<ret>怎么会有东西能抵抗如此集中的爆破？<ret>这不可能，你肯定做错了什么！你太无能！<ret><ret>好吧，好吧，我道歉，$name。<ret>你的工作一直都完成的很漂亮。我简单的认为<ret>普通的炸药也会有效了。你不得不先离开<ret>好让我好好研究一下。肯定存在某种解决方案<ret>-而且想象一下，有什么样的东西隐藏在下面<ret>被保护的如此完美！
+alchemist_7_boreholetnt_2_description_refuse=我会在这里祈祷你改变主意，$name。
+alchemist_7_boreholetnt_2_listing=把 20 个 TNT 放在深坑底部，覆盖一层黑曜石<ret>后点燃炸药，然后向炼金术士汇报结果。
+
+alchemist_8_anomalyb_0_label=异常之地
+alchemist_8_anomalyb_0_description=我已经权衡过了我们的失败，$name。<ret>经过自己的考虑之后，我想我错在没有事先<ret>研究透这种奇特的基岩之前就开始想办法<ret>对付它。而它本身就是一个迷。现在我已经<ret>取得了重大进展，$name！<ret>我已经设法制作了一种发现基岩存在就会有<ret>反应的粉末，而且我已经派出我的助手在世界<ret>各地使用来研究这个物质的反应。总之，结<ret>果肯定了我最初的猜想-基岩这是一个常量，<ret>在海平面六十米以下都存在这种东西。<ret><ret>然而……他最终还是发现至少一个地方<ret>并非如此，在那里基岩更为接近地表并且<ret>看起来数量还很多！你能帮我调查一下吗？
+alchemist_8_anomalyb_0_description_refuse=那你为什么打扰我？
+alchemist_8_anomalyb_0_description_success=小心，$name！<ret>我不知道那意味着什么，但很有可能意味着<ret>危险。
+alchemist_8_anomalyb_1_label=向炼金术士汇报
+alchemist_8_anomalyb_1_description=那么你回来了？你发现了什么？
+alchemist_8_anomalyb_1_description_success=一个房间？用基岩做出来的人工产物？这是<ret>一个自从我们抵达这个世界以来最伟大的发<ret>现……这个世界上有或者曾经有一些人拥有<ret>比我们还强大的力量，这是第一个绝对的证据可证<ret>明这一点。我从来没听过任何结构<ret>与此相同，那些矿山和地下堡垒，令人印象深刻<ret>的建筑物都没有超出我们的想象。这却是<ret>另外一回事。而且你说它们设计用来繁殖<ret>那些怪物的？<ret><ret>$name，我需要在这上面<ret>花一些时间来思考，这已经超出了我的知识<ret>和经验。我也会看看我们能做些什么来继续<ret>我们的调查，因为你拜访的那个地方空无一<ret>物，除了那些怪物。
+alchemist_8_anomalyb_1_description_refuse=
+alchemist_8_anomalyb_1_listing=探索异常之地并向炼金术士汇报。
+
+alchemist_9_anomalytwob_0_label=第二次闪光
+alchemist_9_anomalytwob_0_description=$name，我有一个好消息！<ret>Robert 在离我们不远的地方找到了一个新的<ret>异常之地，而且远大于我们所发现的第一个。<ret>谁知道你会在那里发现什么？或许是一些徒<ret>劳无用的东西，亦或是能让我们最终穿透<ret>基岩的东西？<ret><ret>我都快忘乎所以了……首先要做的就是确定<ret>那个地方是安全的。你在第一个异常之地遇<ret>到的那些生物给你造成的困难让我很<ret>担忧，$name。<ret>带上一些食物……在这儿，带上我的剑。<ret>你比我更需要它。
+alchemist_9_anomalytwob_0_description_refuse=交还回我的剑然后再去烦扰别人？
+alchemist_9_anomalytwob_0_description_success=祝你好运，要谨慎行事。
+alchemist_9_anomalytwob_1_label=向炼金术士汇报
+alchemist_9_anomalytwob_1_description=$name，我很高兴看到你安然无恙！<ret>你看起来很疲惫。看来你需要喝一杯，<ret>然后在说吧。
+alchemist_9_anomalytwob_1_description_success=炼金装备？多么迷人！那么这些神秘建筑的<ret>建造者是我的同行！当然，一些比我更博学<ret>的同行……当然只是现在比我博学！那么你带<ret>回来了他们培养的神秘植物的样本。他们肯<ret>定拥有强大的炼金用处。
+alchemist_9_anomalytwob_1_description_refuse=
+alchemist_9_anomalytwob_1_listing=探索第二个异常之地并带回你发现的任何<ret>奇特的东西给炼金术士。
+
+alchemist_10_anomalythree_0_label=有两次必有第三次
+alchemist_10_anomalythree_0_description=当我在研究你最后一次探索成果的时候，<ret>Robert 还在继续寻找异常之地。他相信他<ret>已经找到了另一个更大的。想想一定有什么<ret>东西隐藏在那里！而我甚至还没完成上一个<ret>异常之地所包含秘密的研究！
+alchemist_10_anomalythree_0_description_refuse=那你为什么打扰我？
+alchemist_10_anomalythree_0_description_success=我发现你和我一样已经迫不及待想要知道那<ret>里有什么了。我喜欢这样，我的孩子！
+alchemist_10_anomalythree_1_label=向炼金术士汇报
+alchemist_10_anomalythree_1_description=我勇敢的$name，伟大的探险家！<ret>我知道那很不容易。来一杯苹果白兰地酒和一些<ret>不错的诺曼黑香肠然后告诉我一切！
+alchemist_10_anomalythree_1_description_success=难以置信……你认为最后一个房间是某种<ret>熔岩炉？那些炼金术士的知识超越我太多了！<ret>还有更多的刷怪箱，以及一些看起来像是<ret>样品室的房间……如果我不是一个炼金术士<ret>我会相信我拜访了神的工作间，我的好朋友。<ret><ret>我会研究那些你带回来的粉末。<ret>这些粉末一定对那些被建造出来的庞大<ret>构造很重要。我现在只能祈求我的学识能让我<ret>对此做一些什么，即使我完全不能理解它是<ret>什么。
+alchemist_10_anomalythree_1_description_refuse=
+alchemist_10_anomalythree_1_listing=探索第三个异常之地并带回你发现的任何<ret>奇特的东西给炼金术士。
+
+alchemist_11_brewingstudents_0_label=传播知识
+alchemist_11_brewingstudents_0_description=$name，我有一些好消息！我设法让这些<ret>植物成长起来。看起来它们不是原产于这片<ret>土地，但是我的设计的肥料可以让它们生长。<ret>看起来它们极具炼金特性。我没有时间继续<ret>进行进一步的调查了，但是我准备了一本<ret>关于这个问题的书。你应该把这本书带到<ret>一个诺曼村庄，我希望有一个雄心勃勃的<ret>年轻人能从它里面提取出有用的药剂。
+alchemist_11_brewingstudents_0_description_success=去找一个工会大师，或骑士，或管家。我怀疑<ret>修道院对此不会感兴趣。他们总是很狭隘。
+alchemist_11_brewingstudents_0_description_refuse=那你为什么打扰我？
+alchemist_11_brewingstudents_1_label=与炼金术士交谈
+alchemist_11_brewingstudents_1_description=你分享了知识了吗？
+alchemist_11_brewingstudents_1_description_success=非常好。我希望村里的年轻人能熟练掌握<ret>这个知识。我需要把注意力放在你带来的<ret>粉末上了 - 我相信这是所有解决所有谜团中<ret>最重要的部分。
+alchemist_11_brewingstudents_1_description_refuse=那你为什么打扰我？
+alchemist_11_brewingstudents_1_listing=与一个村庄领袖交谈后回去见炼金术士。
+
+alchemist_11b_guildmaster_0_label=与工会大师交谈
+alchemist_11b_guildmaster_0_description=Guillaume Vif-argent已经设法重新开启<ret>这个世界的炼金术？他真是一个非凡的人！<ret>我很荣幸能学习他的成果，同时还给传授给<ret>年轻人足够的知识！
+alchemist_11b_guildmaster_0_description_success=请对大师传达我的钦佩。
+alchemist_11b_guildmaster_0_description_refuse=那你为什么打扰我？
+
+alchemist_11b_knightseneschal_0_label=与村庄领袖交谈
+alchemist_11b_knightseneschal_0_description=那么，这个老炼金术士又有了惊人的发现？<ret>更令人惊奇的是他居然免费分享这些发现的<ret>一部分……$name，<ret>我即不想也没有时间尝试这些东西，<ret>但是如果有村庄里的年轻人对此感兴趣<ret>的话，我会把这本书与他分享。
+alchemist_11b_knightseneschal_0_description_success=如果他能把铅转化成金子的话就回来找我。<ret>他都已经保证过很多年了！
+alchemist_11b_knightseneschal_0_description_refuse=那你为什么打扰我？
+
+alchemist_12_theexperiment_0_label=实验
+alchemist_12_theexperiment_0_description=我从来没见过这样的粉末……我已经无法理<ret>解它是什么或它如何产生的了。这远远超出<ret>了我的炼金技能，$name。<ret>它们领先太多了。所有我能确定的是它能作<ret>为爆炸物来使用。我只用了很少的剂量但是<ret>我几乎快要毁掉这个地方。我不需要告诉我<ret>想让你去尝试什么，我的朋友。但是仔细听，<ret>这个东西非常非常有活性。<ret><ret>我已经把它与其他的材料混合起来以让其<ret>稳定下来，那就是它现在看起来是一个方块<ret>的原因。以现在的这种形式你可以毫无风险<ret>的处理它 - 我希望会是这样。然而常规炸药<ret>在它附近爆炸会导致粉末开始反应。我相信<ret>它会剧烈爆炸。我不知道爆炸有多猛烈，<ret>但你需要尽量远离。<ret><ret>确保让它在基岩旁边爆炸。如果这个失败了，<ret>我不确定能否在生产出第二个。
+alchemist_12_theexperiment_0_description_refuse=那你为什么打扰我？
+alchemist_12_theexperiment_0_description_success=Robert 会为你提供普通炸药。要小心，<ret>让我们在炸开的基岩上处庆祝吧！
+alchemist_12_theexperiment_1_label=带上必需品
+alchemist_12_theexperiment_1_description=啊，$name……<ret>这是大师为你准备的必要用品。<ret>虽然我讨厌这么说，但是我还从来没见过<ret>大师如此犹豫。看到他这么没把握让我感到很<ret>不安。
+alchemist_12_theexperiment_1_description_success=如果一切顺利的话，你将成为一个传奇，<ret>第一个进入地下王国的人！<ret>如果不是，嗯……
+alchemist_12_theexperiment_1_description_refuse=我会通知大师的。
+alchemist_12_theexperiment_1_listing=带上炼金术士助手给你的必需品。
+alchemist_12_theexperiment_2_label=向炼金术士汇报
+alchemist_12_theexperiment_2_description=你脸上的表情很奇怪，$name……
+alchemist_12_theexperiment_2_description_success=虚空……所以这整个世界是基于虚空之上……<ret>有没有现实？在这个世界上有没有坚实和可衡量的事物？<ret>$name，这个世界并不是<ret>为了我或我的炼金术而存在……这是一个<ret>阴影和幻想的世界……
+alchemist_12_theexperiment_2_description_refuse=我会在这里祈祷你改变主意，$name。
+alchemist_12_theexperiment_2_listing=把炼金术士的炸药放在基岩旁边并用普通TNT<ret>来引爆它。观察结果并向炼金术士汇报。
+
+alchemist_13_conclusion_0_label=精神与物质
+alchemist_13_conclusion_0_description=我已经为此考虑了良久，$name……<ret>你是对的，我只是扮演一个角色。我不明白<ret>这对世界意味着什么或我们在这里应该做什么，<ret>或许我不能帮你，但是我的药水和配方可以<ret>帮助你。再次感谢你，$name。<ret>不仅感谢你做的那些事，还有你的帮助和支持。<ret>在你需要我的帮助的时候一定要来看看我。<ret><ret>你应该知道我在用我在诺曼贵族和工会中的<ret>影响力来为你和你所拥有的能力说话。如果<ret>情况正常的话，你会发现诺曼人希望跟随你<ret>去任何地方，任何你希望定居的地方。
+alchemist_13_conclusion_0_description_refuse=那你为什么打扰我？
+alchemist_13_conclusion_0_description_success=作为临别的礼物，在我的实验中我设法制作<ret>了少量的宝石。这些东西对我没什么用，<ret>但是我相信你一定能好好利用它们。<ret><ret>希望很快还能见到你，$name，<ret>倾听你对这个可怕且毫无意义的世界的理解。

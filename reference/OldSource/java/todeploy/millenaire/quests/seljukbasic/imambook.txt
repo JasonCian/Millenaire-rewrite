@@ -1,0 +1,17 @@
+minreputation:200
+chanceperhour:0.1
+step:new
+definevillager:key=startvillager,type=seljuk/turk_imamswife,forbiddentag=imambook_done
+definevillager:key=turk_imam,type=seljuk/turk_imam,relatedto=startvillager,relation=samehouse
+villager:startvillager
+rewardgood:book,1
+duration:3
+
+step:new
+villager:turk_imam
+duration:3
+requiredgood:book,1
+rewardreputation:128
+penaltyreputation:64
+settagsuccess:startvillager,imambook_done
+settagfailure:startvillager,imambook_done

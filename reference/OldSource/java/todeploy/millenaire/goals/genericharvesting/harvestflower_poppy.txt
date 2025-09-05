@@ -1,0 +1,24 @@
+buildingTag=flowerfield
+priority=40
+
+
+//spécifier si l'étiquette ou les phrases pour ce but n'ont pas le code du but lui-même
+//specify if the label and sentences for this goal is not the name of the goal itself
+sentencekey=collectflowers
+labelkey=collectflowers
+
+//Type de plante
+//Type of plant
+croptype=flower
+
+harvestblockstate=red_flower;type=poppy
+
+//Objets obtenus lors de la requête, avec % de chance
+//Items gained during harvest, with the chance %
+harvestitem=dye_red,100
+
+helditemsoffhand=dye_red
+
+villagelimit=dye_red,16
+
+maxsimultaneousinbuilding=1

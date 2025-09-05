@@ -1,0 +1,192 @@
+﻿
+
+sadhu_intro_0_label=De Sadhu
+sadhu_intro_0_description=$name, we kennen je nu al voor lange tijd en je moet weten dat we je vertrouwen als één van ons, ondanks dat we nooit gevraagd hebben wie je bent en waar je vandaan komt. Eerst dachten we dat je gewoon een man was uit een ander land dat net als ons hier naartoe wet gebracht op die noodlottige dag dat de aarde beefde en we ons hier in dit vreemde land aantroffen, waar de seizoenen niet veranderen en de rivieren niet stromen – iemand als die vreemde mannen in hun stenen pyramiden of de blanke mannen gedreven in het smeden van ijzer.<ret><ret>Maar we hebben je lang geobserveerd en je bent anders. Jij lijkt geen herinnering te hebben van een ander land en je loopt hier alsof je hier thuis hoort. En tot nu hebben we nog niemand anders van jouw soort ontmoet.<ret><ret>Als je meer weet dna wij doen en dat niet wilt delen, dan is dat je recht. Maar als – wat ik vermoed – je jezelf afvraagt wat je hier doet en wat je plek hier is, dan heb je wijsheid nodig die ik niet heb. Er is maar één man die je kan helpen: mijn oude guru, Sadhu Vidya. Ik heb hem in geen jaren gezien, maar ik weet dat hij in het bos loopt en hoge, sterke bomen kiest als onderkomen. Als je hem ontmoet, bedank hem dan voor de kennis die hij gedeeld heeft.
+sadhu_intro_0_description_success=De godin zegene je tijdens je reis.
+sadhu_intro_0_description_refuse=De weg naar zelf-begrip is moeilijk heb ik begrepen.
+sadhu_intro_1_label=Meld je bij de pandit
+sadhu_intro_1_description=En, heb je mijn oude guru ontmoet?
+sadhu_intro_1_description_success=Hij heeft je geëerd door zijn kennis met je te delen! Jij bent de man waar de goden naar lachen.
+sadhu_intro_1_description_refuse=Ik blijf hier en zal ervoor bidden dat je van gedachten verandert, $name.
+sadhu_intro_1_listing=Vind de Sadhu onder een hoge boom in een bos. Als je hem hebt gevonden zeg dat dan tegen de pandit van het dorp $startvillager_villagename$.
+
+sadhu_introwife_0_label=De Sadhu
+sadhu_introwife_0_description=$name, we kennen je nu al voor lange tijd en je moet weten dat we je vertrouwen als één van ons, ondanks dat we nooit gevraagd hebben wie je bent en waar je vandaan komt. Eerst dachten we dat je gewoon een man was uit een ander land dat net als ons hier naartoe wet gebracht op die noodlottige dag dat de aarde beefde en we ons hier in dit vreemde land aantroffen, waar de seizoenen niet veranderen en de rivieren niet stromen – iemand als die vreemde mannen in hun stenen pyramiden of de blanke mannen gedreven in het smeden van ijzer.<ret><ret>Maar we hebben je lang geobserveerd en je bent anders. Jij lijkt geen herinnering te hebben van een ander land en je loopt hier alsof je hier thuis hoort. En tot nu hebben we nog niemand anders van jouw soort ontmoet.<ret><ret>Als je meer weet dna wij doen en dat niet wilt delen, dan is dat je recht. Maar als – wat ik vermoed – je jezelf afvraagt wat je hier doet en wat je plek hier is, dan heb je wijsheid nodig die ik niet heb. Er is maar één man die je kan helpen: mijn oude guru, Sadhu Vidya. Ik heb hem in geen jaren gezien, maar ik weet dat hij in het bos loopt en hoge, sterke bomen kiest als onderkomen. Als je hem ontmoet, bedank hem dan voor de kennis die hij gedeeld heeft.
+sadhu_introwife_0_description_success= De godin zegene je tijdens je reis.
+sadhu_introwife_0_description_refuse= Je moet de hulp van zo’n heilige man niet weigeren!
+sadhu_introwife_1_label=Meld je bij de $startvillager_villagerrole$
+sadhu_introwife_1_description=En, heb je het advies gevolgd van de heilige man?
+sadhu_introwife_1_description_success= Hij heeft je geëerd door zijn kennis met je te delen! Jij bent de man waar de goden naar lachen.
+sadhu_introwife_1_description_refuse=Ik blijf hier en zal ervoor bidden dat je van gedachten verandert, $name.
+sadhu_introwife_1_listing=Vind de Sadhu onder een hoge boom in een bos. Als je hem hebt gevonden zeg dat dan tegen de pandit van het dorp $startvillager_villagename$.
+
+sadhu_first_0_label=Ontmoeting
+sadhu_first_0_description=Ik verwachtte je, $name. Dorpelingen zoeken me op om advies te vragen en ik heb me vaak laten vertellen over de vreemdeling zonder verleden dat vrienden wordt met Indiase dorpen en thuis lijkt in deze wilde wereld waar we allen naartoe zijn gestuurd. Je moet gehoord hebben van een dorpsoudste dat ik je vragen zou beantwoorden. Het zal niet zo makkelijk zijn. Mijn kennis was geweldig in de oude wereld op de banken van de heilige Ganges, maar hier moet ik alles weer opnieuw leren. Als je een guru zoekt, ben je voor niks gekomen<ret><ret>Hoewel... Voordat ik een leven van meditatie ben gaan leiden, was ik gedreven in de kennis van de natuurlijke wereld. Er was geen plant die ik niet kon benoemen of gebruiken tussen de Himalaya en de jungles van het Zuiden. En terwijl mijn lichaam is afgesleten, is mijn geest nog scherp. Help mijn met het bestuderen van deze wereld en ook jij zal er veel van leren. Maar wees gewaarschuwd: niet alle wezens hier zijn vreedzaam en ik geloof dat we mogelijk.... weerstand kunnen verwachten als we deze wereld verkennen.
+sadhu_first_0_description_success=Ik ga nu mediteren, kom terug over een poosje voor je eerste taak.
+sadhu_first_0_description_refuse= Ik blijf hier en zal ervoor bidden dat je van gedachten verandert, $name.
+
+sadhu_1_samples_0_label=Botanische Monsters
+sadhu_1_samples_0_description= Je eerste taak is simpel. Ik moet een collective samenstellen van de vegetatie hier. Ik zou zelf gaan, maar ik heb gezegd in de buurt van deze boom te blijven voor de volgende 3 volle manen, dus jij moet deze taak uitvoeren.
+sadhu_1_samples_0_description_success=Ik zal mediteren tijdens je afwezigheid.
+sadhu_1_samples_0_description_refuse= Ik blijf hier en zal ervoor bidden dat je van gedachten verandert, $name.
+sadhu_1_samples_1_label=Breng monsters terug
+sadhu_1_samples_1_description=Ik heb gebid voor begeleiding terwijl je werkte.
+sadhu_1_samples_1_description_success=Deze monsters zullen zeer nuttig zijn. Ik zal je prijzen bij de godin, $name.<ret><ret>Ik zie ook dat je deze taak te makkelijk vond. Weet dat geen enkele nuttige taak het niet waar is om uitgevoerd te worden. En weet ook dat ik zie dat er nog veeleisender werk komt in de toekomst.<ret><ret>Kom terug als je wat gerust hebt.
+sadhu_1_samples_1_description_refuse= Ik blijf hier en zal ervoor bidden dat je van gedachten verandert, $name.
+sadhu_1_samples_1_listing=Breng de monsters naar de Sadhu
+
+
+sadhu_2_forest_0_label=Verkennen van het bos
+sadhu_2_forest_0_description=We moeten de landschappen bestuderen van deze nieuwe wereld. We zullen beginnen met het bos; Je moet je geest openen voor deze plaats en hem bezoeken in de nacht. Begin bij zonsondergang en besteed de nacht erdoorheen te open, al observerend.<ret><ret>Ik hoef je er niet aan te herinneren dat het buiten gevaarlijk is als de zon onder is, maar de goden zullen je behoeden. Een zwaard dragen is ook een goed idee â€“ Ik heb gezien dat goed voorbereidde soldaten meer goddelijke bescherming genieten.
+sadhu_2_forest_0_description_success=Ik zal mediteren tijdens je afwezigheid.
+sadhu_2_forest_0_description_refuse= Ik blijf hier en zal ervoor bidden dat je van gedachten verandert, $name.
+sadhu_2_forest_1_label=Rapporteer ontdekkingen
+sadhu_2_forest_1_description=En hoe was je nachtelijke wandelin= Ben je dichter bij de verlichting=
+sadhu_2_forest_1_description_success=Dus je zegt dat het erg was? Dit was te verwachten, maar toch lijkt het alsof je meer weerstand hebt gehad dan kans had gesuggereerd. Er is veel dat je doen maar nog niet begrijpen in deze wereld. Geef me de tijd hierover te denken en kom dan terug naar me.
+sadhu_2_forest_1_description_refuse= Ik blijf hier en zal ervoor bidden dat je van gedachten verandert, $name.
+sadhu_2_forest_1_listing=Verken de bossen tijdens de nacht, zoals gezegd door de Sadhu.
+
+
+
+sadhu_3_pandit_0_label=Hindoe epics
+sadhu_3_pandit_0_description=Ik heb lang zitten denken aan je misavonturen in het bos. En de velichting ontschiet me. Die grote karikaturen van mannen zijn niet zoals iets dat ik voorheen heb gezien in onze verdwenen wereld en ik kan het nut van hun bestaan niet begrijpen. Er zijn toch wel gesprekken over demonen in oeroude hindoe epics die naar hen verwijzen. Mijn alleenstaande bestaan voorkomt dat ik zulke dure papieren kan houden, maar jij moet ze kunnen vinden in Indiase dorpen.
+sadhu_3_pandit_0_description_success=Ik heb een eigen bibliotheek nodig... Het leven van een Sadhu heeft zijn nadelen.
+sadhu_3_pandit_0_description_refuse= Ik blijf hier en zal ervoor bidden dat je van gedachten verandert, $name.
+sadhu_3_pandit_1_label=Breng de boeken terug
+sadhu_3_pandit_1_description=Ik heb lang zitten bidden terwijl je weg was, $name. Ik hoop dat je ze gevonden hebt zonder problemen.
+sadhu_3_pandit_1_description_success= Ik dank je, $name. Ik heb moet deze boeken nu voor enige tijd bestuderen. Ga en mediteer en kom terug als je je innerlijke rust hebt gevonden.
+sadhu_3_pandit_1_description_refuse=Je stelt me teleur.
+sadhu_3_pandit_1_listing= Vind een Indiase dorpeling van wie je de boeken kan kopen en breng ze terug naar de Sadhu.
+
+sadhu_3b_pandit_0_label=Spreek met de Pandit
+sadhu_3b_pandit_0_description=Dus je hebt de wijze Sadhu ontmoet?  Je moet vereerd zijn om te werken voor zo´n heilige man!<ret><ret>Natuurlijk zal ik hem de boeken die hij nodig heeft meteen geven. Jij zou ze ook moeten lezen. Natuurlijk moet je dan wel genoeg kennis hebben om Sanskrit te kunnen lezen.
+sadhu_3b_pandit_0_description_success=En breng mijn groet aan de heilige Sadhu!
+sadhu_3b_pandit_0_description_refuse=Jij durft een taak te weigeren die door de Sadhu in eigen persoon is gegeven?
+
+sadhu_3b_wife_0_label=Spreek met de $startvillager_villagerrole$
+sadhu_3b_wife_0_description=De sadhu heeft de grote Hindoe epics nodig? Het is een eer om hem de kopie te geven die ik heb!
+sadhu_3b_wife_0_description_success= En breng mijn groet aan de heilige Sadhu!
+sadhu_3b_wife_0_description_refuse= Jij durft een taak te weigeren die door de Sadhu in eigen persoon is gegeven?
+
+
+sadhu_4_desertb_0_label=Verken de woestijn 
+sadhu_4_desertb_0_description=De geweldige epics zijn een bron van wijsheid in deze wereld zoals de oude. Vele geweldige helden en goden vochten tegen de demonen in de oude tijden en de kennis van hun dapperheid zal je zeker helpen met beschermen tegen het kwade in deze donkere wereld. Ik geloof dat je die kennis kan benutten om jezelf te berschermen maar ik moet mezelf eerst zuiver maken.<ret><ret>Terwijl ik mezelf voorbereid, wil ik dat jij verder gaat met je werk en informatie verzameld over de barre landen van deze wereld, waar mensen zelden gaan. Misschien dat je daar minder weerstand hebt. Ga en verken de eerste woestijn die je aantreft zoals je het bos hebt verkent.
+sadhu_4_desertb_0_description_success=Ik zal vasten terwijl je weg bent.
+sadhu_4_desertb_0_description_refuse=Je stelt me teleur, $name.
+sadhu_4_desertb_1_label=Rapporteer je vondsten
+sadhu_4_desertb_1_description= Ik vertrouw erop dat de godin je veilig heeft gehouden tijdens je verkenning.
+sadhu_4_desertb_1_description_success= Je beschrijving van de woestijn als “kaal” en “zanderig” voegt weinig toe aan onze kennis, $name. Maar het is interessant dat je meer van die wandelende skeletten hebt gezien dan eerst. Het land lijkt te reageren op het feit dat je het verkent.<ret><ret>Tijdens je afwezigheid, heb ik lang en hard zitten bidden, en Vishnu in zijn oneindige kennis heeft gekozen om onze zoektocht te zegenen. Hij geeft me de kennis gegeven om het kwaad om me heen te voelen en het in dit amulet te gieten. Neem het en laat het je beschermen.
+sadhu_4_desertb_1_description_refuse= Ik blijf hier en zal ervoor bidden dat je van gedachten verandert, $name.
+sadhu_4_desertb_1_listing=Verken ’s nachts een woestijn zoals de Sadhu aangaf
+
+sadhu_5_adivasi_0_label=Moeras Expert
+sadhu_5_adivasi_0_description=$name, we moeten doorgaan met informatie verkijgen over deze wereld. Ik geloof dat de moerassen een zeer belangrijke plaats zijn want ze lijken veel vaker voor te komen dan natuurlijke krachten doen denken. Gelukkig voor jou, je hoeft ze niet zelf te verkennen. Er zijn mensen wiens kennis ervan is ongeëvenaard:de adivasi boeren. Die mensen zijn arm en de dorpelingen kijken erop neer, maar ze zijn erg scherp en spenderen hun leven diep in de moerassen. Vind er een en vraag hem voor informatie. Zeg hem dat je namens mij komt en hij zal zich gastvrij gedragen.
+sadhu_5_adivasi_0_description_success=Ik kan je geen richting geven naar hun optrekjes, maar doorzoek de moerassen en je zou ze moeten vinden.
+sadhu_5_adivasi_0_description_refuse= Ik blijf hier en zal ervoor bidden dat je van gedachten verandert, $name.
+sadhu_5_adivasi_1_label=Breng de monsters terug
+sadhu_5_adivasi_1_description=Hebben de adivasis hun kennis met je gedeeld?
+sadhu_5_adivasi_1_description_success=Geweldig, die zullen zeer nuttig zijn. Heeft hij nog iets gezegd over abnormale activiteiten in de moerassen?
+sadhu_5_adivasi_1_description_refuse=Je stelt me teleur.
+sadhu_5_adivasi_1_listing=Vind een adivasi boer in een moeras en vraag hem naar informatie over de moerassen. Ga dan terug naar de Sadhu.
+
+
+sadhu_5b_adivasib_0_label=Spreek een boer
+sadhu_5b_adivasib_0_description=De Sadhu zelf vraagt mijn hulp? Maar ik ben een arme, koppige man… Wat kan ik hem geven voor wat simpele plantjes die ik heb verzameld...  Ik heb ook donkere schepsels gezien die de moerassen bewandelen in de nacht en sommige ontbranden spontaan als de dag valt. Ik heb wat van de restanten van die vuile dingen verzameld. Misschien kan de heilige man begrijpen wat het is?<ret><ret>En ik zal bidden dat je dit eten accepteerd voordat je weggaat, $name. Wie werkt voor de Sadhu moet een goed man zijn.
+sadhu_5b_adivasib_0_description_success=Ik zal bidden dat dit nuttig is voor hem. Zijn kennis kent geen grenzen.
+sadhu_5b_adivasib_0_description_refuse=Hoe kun je een de heilige taak weigeren om de Sadhu te helpen?
+
+
+sadhu_6_enchantedsword_0_label=Heilig Wapen
+sadhu_6_enchantedsword_0_description=De adivasi’s verhalen zijn donker, $name, Zelfs met jouw amulet, hoe kun je je veilig voelen als je dit land verkent waar de demonen vrij rondlopen als de zon onder is? Ik heb de epics opnieuw gelezen tijdens jouw afwezigheid en ik voel dat ik weet wat jij nodig hebt:een heilig wapen om je te beschermen, iets machtigs en vreselijks als de angstwekkende Sudarshana Chakra gedragen door heer Vishnu zelf. Maar zelfs na 3 dagen vasten gaat mijn meditatie onbeantwoord. Ik ben bang dat mijn kennis mij laat zitten. $name, jouw verbinding met deze wereld is beter dan de mijne, hoewel we het niet begrijpen – geloof je dat he zo’n heilig wapen kan verkrijgen om dit kwaad te bevechten?
+sadhu_6_enchantedsword_0_description_success=Moge de goden over je waken, vriend.
+sadhu_6_enchantedsword_0_description_refuse= Ik blijf hier en zal ervoor bidden dat je van gedachten verandert, $name.
+sadhu_6_enchantedsword_1_label=Breng het aangepaste wapen
+sadhu_6_enchantedsword_1_description=Dus $name, je hebt een wapen gehad waarmee je deze onheilige schepsels kunt bevechten?
+sadhu_6_enchantedsword_1_description_success=Die kracht die in je zit, dat je niet zo’n wapen aan de goden vroeg, maar het zelf smeedde! Je aangeboren kennis van deze wereld maakt me bang, $name. Ik vraag me af en toe af of je gewoon een man bent. Laat me nu. Ik moet bidden voor geleiding.
+sadhu_6_enchantedsword_1_listing=Laat de Sadhu een aangepast wapen zien.
+sadhu_6_enchantedsword_1_description_refuse= Ik blijf hier en zal ervoor bidden dat je van gedachten verandert, $name.
+
+sadhu_7_enchantmenttable_0_label=Angst en kennis
+sadhu_7_enchantmenttable_0_description=Vergeef me, mijn vriend. Ik heb het niet bedoeld om je weg te jagen na alles wat je gedaan hebt. Ik had mijn angst niet te groot moeten laten worden. Ik moet jouw krachten begrijpen en niet bang worden. Wil je me laten zien hoe je dat wapen hebt gemaakt?
+sadhu_7_enchantmenttable_0_description_success=Ik dank je.
+sadhu_7_enchantmenttable_0_description_refuse=Ik blijf hier en zal ervoor bidden dat je van gedachten verandert, $name.
+sadhu_7_enchantmenttable_1_label=Laat de magische tafel zien
+sadhu_7_enchantmenttable_1_description=Nou, hoe heb je dit godswaardige klusje geklaard?
+sadhu_7_enchantmenttable_1_description_success=Een tafel gemaakt van obsidiaan en diamanten, boeken vol woorden die je niet kan ontcijferen, energie verzameld uit dode demonen – en jij weet precies hoe je het moet laten werken alsof het instinctief is. Iemand begeleid jou, $name. God of demonenkoning, dat kan kan ik niet zeggen.
+sadhu_7_enchantmenttable_1_listing=Bouw een magische tafel en ten minste één boekenkast ernaast binnen 10 meter van de boom van de Sadhu.
+sadhu_7_enchantmenttable_1_description_refuse= Ik blijf hier en zal ervoor bidden dat je van gedachten verandert, $name.
+
+sadhu_8_mountain_0_label=Bergen verkennen
+sadhu_8_mountain_0_description=Ik moet die tafel die je gebouwd hebt bestuderen en zien of ik kan begrijpen hoe hij werkt. Terwijl ik dat doe heb ik een laatste verkenningstaak voor je, $name. Ik wil dat je een nabijgelegen bergrug gaat verkennen. In mijn meditatie heb ik bijna een patroon zich zien vormen, bijna... 
+sadhu_8_mountain_0_description_success= Ik heb geen twijfel dat je terug komt, nu ik snap wat voor kracht je met je meedraagt.
+sadhu_8_mountain_0_description_refuse= Ik blijf hier en zal ervoor bidden dat je van gedachten verandert, $name.
+sadhu_8_mountain_1_label=Rapporteer bevindingen
+sadhu_8_mountain_1_description=I trust you found the mountains peaceful under the moonlight.Ik vertrouw erop dat de bergen vreedzaam waren onder maanlicht?
+sadhu_8_mountain_1_description_success=Dus deze keer waren het spinnen die je nachtelijke verkenning dwarsboomden? Ik heb ze ’s nachts gezien, sluipend rond deze boom. Maar wat betekenen ze? Waarom zijn ze aanwezig, zelfs in bergen waar ze niet horen? Het is een zorgelijk teken. Schepsels die niet thuishoren op de plekken waar ze lopen.
+sadhu_8_mountain_1_description_refuse=Ik blijf hier en zal ervoor bidden dat je van gedachten verandert, $name
+sadhu_8_mountain_1_listing=Verken een bergrug tijdens de nacht zoals de Sadhu zei.
+
+sadhu_9_underwater_0_label=De grote Duik
+sadhu_9_underwater_0_description=Afgelopen nacht sprak de godin met mij en fluisterde dat het dieper is waar ik moet kijken. Het gaf me veel om over te denken, maar nu weet ik wat ze bedoelde: je moet de diepten van de zee verkennen.
+sadhu_9_underwater_0_description_success=Duik, mijn vriend en vertel me wat in de diepten ligt.
+sadhu_9_underwater_0_description_refuse= Ik blijf hier en zal ervoor bidden dat je van gedachten verandert, $name
+sadhu_9_underwater_1_label=Rapporteer bevinden
+sadhu_9_underwater_1_description=En wat was er te zien zo diep onder de golven?
+sadhu_9_underwater_1_description_success=You say that as deep as you went, there was no sign of life... No fish, and no aquatic plants? This will require much thought on my part.Je zegt dat zo diep als je ging, er was geen teken van leven... Geen vis of waterplanten? Dit geeft ne veel om over te denken. 
+sadhu_9_underwater_1_description_refuse= Ik blijf hier en zal ervoor bidden dat je van gedachten verandert, $name
+sadhu_9_underwater_1_listing=Duik teminste 12 meter onder het zeeoppervlak.
+
+sadhu_10_underwaterglass_0_label=Raam in de diepte
+sadhu_10_underwaterglass_0_description=Ik heb lang gedacht over je rapport, $name. Misschien heb je niet genoeg gezien in je duiktochten. Ik wil at je terug gaat naar de zee en een observatiekamer bouwt zo diep als je kunt, waar je de diepten in vrede kunt verkennen.
+sadhu_10_underwaterglass_0_description_success=Ik weet dat dit een moeilijk project is, maar ik vertrouw erop dat de godin je inspireert tot hij volbracht is.
+sadhu_10_underwaterglass_0_description_refuse= Ik blijf hier en zal ervoor bidden dat je van gedachten verandert, $name
+sadhu_10_underwaterglass_1_label=Meld bevindingen
+sadhu_10_underwaterglass_1_description=Wat heb je gezien, waar geen man ooit is geweest?
+sadhu_10_underwaterglass_1_description_success=Dus de zeebodem is echt een kale plek, zonder leven afgezien van die mysterieuse inktvissen. Dit kan niet zijn... Geen zee is leeg en hoe kunnen zulke machtige beesten leven zonder prooi?<ret><ret>Je hebt me veel gegeven om over te denken. Kom over een poosje terug en ik bid dat ik dan de antwoorden voor je heb.
+sadhu_10_underwaterglass_1_description_refuse= Ik blijf hier en zal ervoor bidden dat je van gedachten verandert, $name
+sadhu_10_underwaterglass_1_listing=Bouw een observatiekamer met een glazen plafond ten minste 15 meter beneden het wateroppervlak.
+
+sadhu_11_pujas_0_label=Kennis en rituelen
+sadhu_11_pujas_0_description=Terwijl je de zee verkende, heb ik me gefocust op het mysterie dat je achterliet – de magische tafel. Ik heb geworstelt om de boeken en de geheimen van de tafel zelf te ontcijferen, maar begreep niks. De kennis echter kwam in mijn meditatie: de tafel en boeken maken niet uit. Een praktische man als jij hebt ze nodig, een materiële ondersteuning voor je om je op te focussen. Maar de kracht zit niet in hen. Die zit in jou en in de wereld. En er zijn andere manieren om die te krijgen.<ret><ret>Ik geloof dat zelfs een dorps pandit iets vergelijkbaars kan doen, met goede training. Ik wil dat je naar een nabijgelegen Indiaas dorp gaat en deze perkamenten aan een priester geeft. Met de versen die ik geschreven heb, zou hij naar de goden moeten kunnen bidden om te werktuigen te zegenen die je hem geeft, maar dan wel de juiste om een offer uit te voeren.
+sadhu_11_pujas_0_description_success=Ik kan geen versen schrijven voor oorlog, dus hij kan alleen maar werktuigen zegenen, geen wapens.
+sadhu_11_pujas_0_description_refuse= Ik blijf hier en zal ervoor bidden dat je van gedachten verandert, $name
+sadhu_11_pujas_1_label=Spreek met de Sadhu
+sadhu_11_pujas_1_description=Heeft de priester de versen gelezen?
+sadhu_11_pujas_1_description_success=Ik ben blij dat het werkte. Dit zal zeer nuttig zijn voor je, $name en het is verzekerd dat we deze wereld kunnen vormen in manieren die we niet hadden verwacht.
+sadhu_11_pujas_1_description_refuse= Ik blijf hier en zal ervoor bidden dat je van gedachten verandert, $name
+sadhu_11_pujas_1_listing=Ga terug naar de Sadhu nadat je met een priester hebt gesproken
+
+sadhu_11b_pandit_0_label=Spreek met de pandit
+sadhu_11b_pandit_0_description=Waarom wil de Sadhu dat ik nieuwe versen ga zingen, als alle kennis in de oude ligt? Als hij niet zo’n heilige man was, zou ik me afvragen of hij niet te lang in dat bos heeft gehangen. Maar ik zal Pujas uitvoeren met die voor je als je dat wilt. Kom naar de tempel met je offers, geld en het object dat je gezegend wilt.
+sadhu_11b_pandit_0_description_success=Vergeet het geld niet, als je wilt dat ik pujas doe voor je.
+sadhu_11b_pandit_0_description_refuse=Hoe kun je een de heilige taak weigeren om de Sadhu te helpen?
+
+
+sadhu_12_topandbottom_0_label=Limieten van de wereld
+sadhu_12_topandbottom_0_description=$name, er is een laatste uitdaging voor je. Ik weet van rapporten van Indiase verkenners dat deze nieuwe wereld oneindig is. In de eerste paar jaren na de nacht des vuur die ons hier heeft gebracht, hebben vele jonge dorpelingen ver gezocht naar bekende kusten, helaas voor niks. Ze zagen ook nooit bergen die waaridg waren om te rivaliseren met de himalaya’s. Ik heb er hard over zitten denken en het volgende is in mijn gedachten gekomen: de hemel hier is zo hoog als hij was over de landen van de ganges, maar de wolken zitten altijd laag en we zien nooit vogels of iets anders boven ze. Kan het zijn dat alles wat erboven zit een illusie is? Je moet zelf zien wat er boven de wolken is. 
+sadhu_12_topandbottom_0_description_success=Je mag beginnen met het beklimmen van deze boom als het helpt.
+sadhu_12_topandbottom_0_description_refuse= Ik blijf hier en zal ervoor bidden dat je van gedachten verandert, $name
+sadhu_12_topandbottom_1_label=Rapporteer bevindingen
+sadhu_12_topandbottom_1_description=Wat heb je gezien zo ver boven deze wereld, $name?
+sadhu_12_topandbottom_1_description_success=Dus er is een limiet, niet verder dan de hoogte van negentig man boven de wateren van de zee... Is deze wereld een afleiding van de echte dan, het werk van een demoon of god? $name, je moet deze bevinding bevestigen. Je moet bekijken of de wereld ook naar beneden toe eindig is. Of het land waar we op leven maar een dun laagje is dat drijft op niks.
+sadhu_12_topandbottom_1_description_refuse= Ik blijf hier en zal ervoor bidden dat je van gedachten verandert, $name
+sadhu_12_topandbottom_1_listing=Ga zo ver de hemel in als je kan en meld je bevindingen bij de Sadhu.
+sadhu_12_topandbottom_2_label=Rapporteer bevindingen
+sadhu_12_topandbottom_2_description=Wat vond je diep onder de grond, mijn waardige verkenner?
+sadhu_12_topandbottom_2_description_success=Dus je vond stenen ter hard om te doorbreken en kon niet verder. En je zei dat dit was een hoogte van dertig man onder de grond. Er is teveel symmetrie hier. $name, het kan niet zijn en toch is het zo.<ret><ret>Ik heb geen werk meer voor je. Ik moet denken, mediteren en bidden voor geleiding totdat ik dit alles kan begrijpen. Kom over een poosje terug en ik geef he de resultaten, als heer Ganesh me inspireert.
+sadhu_12_topandbottom_2_description_refuse= Ik blijf hier en zal ervoor bidden dat je van gedachten verandert, $name
+sadhu_12_topandbottom_2_listing=Graaf zo diep als je kan en meld je bevindingen bij de Sadhu.
+
+
+sadhu_13_conclusion_0_label=Het boek van de Sadhu
+sadhu_13_conclusion_0_description=Ik heb gevast en gebid voor geleiding en de goden hebben me een wijsheid in de oren gefluisterd. Maar het was niet goed genoeg om de waarheid te ontdekken. Alleen maar om de aspecten te zien.<ret><ret>$name, ik ben te moe om te spreken nu. Ik heb mijn bevindingen in deze rol geschreven. Neem hem en heb mijn zegen in je zoektocht naar kennis. Ik denk dat ik nu niets meer voor je kan doen. Je hebt meer kennis nodig dan een oude Sadhu ooit gehad heeft.
+sadhu_13_conclusion_0_description_success=Ik heb dit perkament gescreven in de heilige taal van het Sanskit, welke alleen nog een paar pandits beheersen. Maar op een of andere manier wist ik dat jij hem ook zou begrijpen. De godin fluistert in je oor, ookal hoor je dat niet.
+sadhu_13_conclusion_0_description_refuse=Ik houd dit boek tot je van gedachten verandert.
+
+sadhu_leadership_0_label=Leiderschap
+sadhu_leadership_0_description=Ik heb je ambitie gehoord om een groep Indiase dorpelingen te leiden om een nieuw dorp te starten. $name, na alles dat je gedaan hebt,  ben ik overtuigd van je gelijk. Mocht je het willenj, je hebt mijn zegen voor dit project.
+sadhu_leadership_0_description_success=Ik zal bidden voor je succes. Veel geluk, $name.
+sadhu_leadership_0_description_refuse=Dus je blijft liever zoeken naar de waarheid? Dat is een wijs besluit. Maar als je ooit van gedachten verandert, kom terug naar mij.
+
+
+

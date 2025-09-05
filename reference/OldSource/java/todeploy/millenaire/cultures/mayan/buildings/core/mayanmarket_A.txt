@@ -1,0 +1,26 @@
+//Parameters for the building as a whole
+building.length=15
+building.width=14
+building.buildingorientation=3
+building.farfromtag=leasure,30
+building.icon=purse
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Ciwic
+initial.priority=600
+initial.tag=market
+initial.tag=leasure
+
+//Parameters for specific upgrades
+upgrade1.priority=60
+
+upgrade2.priority=55
+upgrade2.pathlevel=1
+
+upgrade3.priority=50
+
+upgrade4.priority=45
+
+upgrade5.priority=40
+

@@ -1,0 +1,1 @@
+native:Armurerie;gameNameKey:armoury_A0;male:smith;female:Wife;craft:1;chest:1-5;sign:1;shop:armoury;tag:armoury;moveinpriority:15

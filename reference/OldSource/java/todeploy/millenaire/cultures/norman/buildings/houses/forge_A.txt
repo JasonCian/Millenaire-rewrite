@@ -1,0 +1,23 @@
+//Parameters for the building as a whole
+building.length=10
+building.width=13
+building.buildingorientation=3
+building.version=2
+building.icon=iron
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Forge
+initial.priority=800
+initial.male=smith
+initial.female=wife
+initial.prioritymovein=15
+initial.tag=forge
+initial.shop=forge
+initial.tag=patrol
+
+//Parameters for specific upgrades
+upgrade1.priority=80
+upgrade1.pathlevel=1
+

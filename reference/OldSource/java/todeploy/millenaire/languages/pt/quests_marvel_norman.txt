@@ -1,0 +1,21 @@
+
+marvel_norman_1_picklocation_0_description=$name, você ouviu as notícias inspiradoras? Um grande arquiteto das terras dos francos orientais, o renomado Nicolas de Weilbourg, tem percorrido aldeias próximas para levantar apoio para a construção de uma grande catedral, um monumento à nossa fé nesta terra nova e alienígena! Embora não seja um normando, ele aprendeu muito de nossa arquitetura desde que chegou à Normandia em busca de trabalho digno de seu talento. <ret> <ret> Os senhores próximos e eu debatemos onde essa maravilha deveria ser construída - eles parecem não reconhecer que $startvillager_villagename$ é o único lugar digno de tal monumento. Mas talvez você possa nos ajudar a romper esse impasse e explorar um local adequado, aceitável para todas as partes?
+marvel_norman_1_picklocation_0_description_refuse=Isso me entristece grandemente.
+marvel_norman_1_picklocation_0_description_success=Muito obrigado, $name. Você precisará de uma "varinha de convocação" - podemos lhe vender uma, se você ainda não possuir essa poderosa relíquia. Quando você encontrar um local adequado, longe de assentamentos existentes e com amplo espaço livre, use-o para marcar o local escolhido e volte para me ver.
+marvel_norman_1_picklocation_0_label=Uma visão piedosa
+marvel_norman_2_generate_0_description=Ah, $name! Você está satisfeito com o local escolhido? Estou impaciente para ver o grande Nicolas no trabalho!
+marvel_norman_2_generate_0_description_refuse=Você está certo, esta não é uma decisão para tomar de ânimo leve. Volte quando tiver certeza.
+marvel_norman_2_generate_0_description_success=Esta é certamente uma excelente localização. Tenho certeza de que o Mestre começará a trabalhar muito em breve.
+marvel_norman_2_generate_0_label=Um local escolhido
+marvel_norman_3_searchhelp_0_description=$name, estou honrado em conhecê-lo finalmente. O local que você escolheu é um local inspirador! <ret> <ret> Posso pedir outro favor a você? Estamos sempre precisando de mais contribuições para a Maravilha. Quanto mais aldeias se comprometerem a nos ajudar, mais rapidamente reuniremos recursos e concluiremos este grande trabalho - como você pode ver em nosso painel de "doações". <ret> <ret> Você estaria disposto a pegar o bastão de um peregrino e sair para cada aldeia normanda você pode encontrar e espalhar notícias do nosso trabalho?
+marvel_norman_3_searchhelp_0_description_refuse=Você não é um homem de fé, $name.
+marvel_norman_3_searchhelp_0_description_success=Procure os líderes de cada aldeia - eles certamente estarão dispostos a cumprir seu dever para com Deus e comigo.
+marvel_norman_3_searchhelp_0_label=Peça ajuda
+marvel_norman_4_gethelp_0_description=Bem-vindo, $name! <ret> <ret> Ouvimos notícias de uma grande catedral erguida por um renomado arquiteto, você tem alguma novidade sobre isso?
+marvel_norman_4_gethelp_0_description_refuse=Lamentável
+marvel_norman_4_gethelp_0_description_success=Esplêndido! Que trabalho impressionante! $startvillager_villagename$ terá a honra de contribuir para isso. Tenha certeza de que enviaremos contribuições regulares para esta grande obra a partir de agora.
+marvel_norman_4_gethelp_0_label=Atendendo ao chamado
+marvel_norman_5_return_0_description=$name, recebemos notificações de que as doações devem chegar em breve! Isso aumentará grandemente a velocidade com que podemos construir esta grande catedral. Eu não posso te agradecer o suficiente!
+marvel_norman_5_return_0_description_refuse=Eu não estava pedindo mais nada!
+marvel_norman_5_return_0_description_success=Obrigado novamente!
+marvel_norman_5_return_0_label=Reporte ao Arquiteto

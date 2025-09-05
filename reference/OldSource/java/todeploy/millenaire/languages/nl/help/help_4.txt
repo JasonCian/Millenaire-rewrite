@@ -1,0 +1,10 @@
+version:3.4
+<darkblue>Dorpsuitbreiding
+
+Alle dorpen beginnen klein rond een centraal gebouw (varieert: fort, palijs, klooster etc... meestal wordt deze town hall genoemd), met een paar huizen of andere gebouwen. Het hoofddoel van de dorpelingen is hun dorp uit te breiden door nieuwe gebouwen te selecteren om te bouwen en verbeteringen aanbrengen aan bestaande gebouwen. Daarom hebben ze grondstoffen nodig. Sommige kunnen ze zelf maken (houthakker hakt hout, mijnwerkers delven steen...) maar zijn afhankleijk van de speler voor anderen. De materiëe benodigdheden voor de geplande constructie worden weergegeven in het hoofdgebouw. Je kan helpen door deze grondstoffen eerst te verkopen.
+
+De dorpsbevloking groeit ook na een tijdje. 's Nachts kunnen getrouwde stellen kinderen krijgen. Zodra die zijn opgegroeid zullen ze in nieuwe huizen intrekken (mits beschikbaar) en volwassen worden.
+
+De uitbreiding van een dorp kan op 2 manieren stoppen. Of omdat ze alle gebouwen hebben gebouwd of omdat er geen plek meer is. In het laatste gevan kun je kijken op de kaart welke gebieden niet te bebouwen zijn. Het is soms mogelijk om de gebieden bebouwbaar te maken. Bijvoorbeeld door het opvullen van een meer.
+
+Soms heeft een dorp een blok nodig dat je zelf niet kan maken. Zoals Normaanse of Japanse houten frames. Je moet dan wachten tot het dorp een werkplaats bouwt en een kind intrekt als handwerker.

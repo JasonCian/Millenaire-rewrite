@@ -1,0 +1,21 @@
+//Parameters for the building as a whole
+building.length=10
+building.width=10
+building.buildingorientation=3
+building.farfromtag=leasure,30
+building.icon=bed_red
+building.version=2
+building.areatoclear=4
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Saraay
+initial.priority=600
+initial.male=indian_merchant
+initial.tag=inn
+initial.tag=leasure
+initial.signs=1,0
+
+//Parameters for specific upgrades
+upgrade1.priority=60
+upgrade1.pathlevel=1

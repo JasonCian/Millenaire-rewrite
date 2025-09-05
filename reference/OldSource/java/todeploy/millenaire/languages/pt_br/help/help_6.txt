@@ -1,0 +1,14 @@
+version:3.4
+<darkblue>Criar uma Aldeia
+
+Para gerar uma aldeia de cultura e tipo à sua escolha num local específico, basta adquirir uma <darkblue>varinha de convocação<black>, objecto que se encontra à venda em qualquer aldeia e que pode ser adquirido quando atingir um nível de reputação adequado. Para utilizar a varinha, coloque um bloco de ouro nas coordenadas onde deseja centrar a aldeia e utilize a varinha no mesmo. Surgirá um ecrã onde poderá escolher o tipo de aldeia a criar.
+
+<darkblue>Destruir uma Aldeia ou uma Construção Isolada
+
+Todas as noites, os habitantes de uma aldeia ou de uma construção isolada ressuscitam, mesmo que destrua todas as construções da aldeia. Para impedir que isso aconteça (caso queira eliminar uma aldeia ou construção isolada ou ficar com as mesmas só para si), deverá utilizar a <darkblue>varinha de negação<black>: poderá adquiri-la nos cofres de uma aldeia ou construção isolada onde todos os habitantes sejam mortos. Tenha cuidado, no entanto, pois a destruição de uma aldeia ou construção isolada é irreversível.
+
+<darkblue>Aldeias Controladas
+
+É possível criar uma aldeia controlada pelo jogador, na qual será o chefe e poderá escolher o local para colocar cada uma das construções. Para isso, necessita de ser reconhecido como líder da cultura que deseja controlar: ou completando o capítulo da <darkblue>Jornada da Criação<black> (ver secção "<darkblue>Missões<black>") referente a essa cultura, ou atingindo a reputação de "Líder Natural" numa aldeia dessa cultura e solicitando ao seu chefe o reconhecimento como líder. Verificará depois uma nova opção no ecrã da varinha de convocação para poder gerar uma aldeia controlada dessa cultura.
+
+Numa aldeia controlada, poderá solicitar a construção de cada edifício utilizando a varinha de convocação nas coordenadas desejadas. Surgirá um ecrã no qual poderá escolher a construção desejada. Pode também controlar as actualizações das construções existentes a partir do painel de projectos. Não é possível, no entanto, negociar com os aldeões destas aldeias; para trocar bens, basta interagir directamente com os cofres das aldeias.

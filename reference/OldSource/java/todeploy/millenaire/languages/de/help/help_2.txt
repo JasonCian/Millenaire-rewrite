@@ -1,0 +1,20 @@
+version:3.4
+<darkred>Handel
+
+Dein häufigster Austausch mit den Dorfbewohnern wird der Handel sein - Du kannst viele Waren an sie verkaufen, und im Gegenzug Produkte kaufen, einschließlich der Millénaire-spezifischen Blöcke und Objekte. Um mit einem Dorf zu handeln, gehe zum Hauptgebäude (oder einem anderem Geschäft) und warte auf einen Dorfbewohner mit der Schrift "Verkaufe an den Spieler" über dem Kopf. Dann <darkblue>rechtsklicke<black> ihn, um den Handelsbildschirm zu öffnen.
+
+Millénaire Dorfbewohner können nur Objekte verkaufen die sie auf Lager haben und du kannst ihnen nur Objekte verkaufen, die das Dorf (variiert je nach Dorf) benötigt.
+
+Der gesamte Handel der Dörfer basiert auf "Denier", einer mittelalterlichen, französischen Währung. 
+
+Es gibt 3 Arten von Deniers:
+"Denier" (Kupferdenier),
+"Denier Agent" (Silberdenier)
+im Wert von 64 Deniers,
+und "Denier Or" (Golddenier)
+im Wert von 64 Silberdeniers.
+
+
+
+<darkgreen>Tipp: 
+<darkgreen>Auf der Dorfkarte (zu öffnen mit einem Rechtsklick auf die entsprechende Tafel des Hauptgebäudes), werden Geschäfte aufgelistet, wenn du mit dem Cursor über die Gebäude fährst.

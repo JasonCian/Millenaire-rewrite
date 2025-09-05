@@ -1,0 +1,1 @@
+native:Parateritíriono;gameNameKey:watchtower_A0;male:guard_byzantine;female:wife_byzantine;chest:1-5;sign:1;moveinpriority:10;tag:patrol

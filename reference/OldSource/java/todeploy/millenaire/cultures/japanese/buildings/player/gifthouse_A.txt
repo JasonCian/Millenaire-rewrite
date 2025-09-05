@@ -1,0 +1,12 @@
+//Parameters for the building as a whole
+building.length=9
+building.width=11
+building.max=0
+building.isgift=true
+building.icon=cake
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Okurimono Hausu
+initial.priority=1000000
+

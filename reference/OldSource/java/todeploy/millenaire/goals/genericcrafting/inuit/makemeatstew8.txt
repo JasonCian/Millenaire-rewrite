@@ -1,0 +1,23 @@
+//Note pour les utilisateurs de Windows: si vous voyez le fichier entier sur une seule ligne, ouvrez-le avec PSPAd ou UltraEdit plutôt que Notepad
+
+//Note to Windows users: if you see the entire file in one line, open it using PSPad or UltraEdit instead of Notepad
+
+
+priority=64
+
+//en/in millisecondes
+duration=5000
+
+//objets tenus par le villageois
+heldItems=seafood_raw,inuitmeatystew
+
+//chaque action consome tous les objets "input" et produit tous les "output"
+//each action will require and use all the inputs and produce all the outputs
+input=wood_pine,1
+input=wolfmeat_raw,1
+output=inuitmeatystew,1
+output=tannedhide,1
+
+//s'il y a plus d'objets dans le centre du village que a, arrter le but
+//if more than that number of item is present in townhall, stop goal
+buildinglimit=inuitmeatystew,32

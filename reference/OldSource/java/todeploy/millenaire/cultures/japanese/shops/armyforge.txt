@@ -1,0 +1,6 @@
+sells=japaneseguardboots,japaneseguardHelmet,japaneseguardLegs,japaneseguardPlate,japaneseblueboots,japanesebluehelmet,japanesebluelegs,japaneseblueplate,japaneseredboots,japaneseredhelmet,japaneseredlegs,japaneseredplate,tachisword,yumibow
+buys=iron,leather
+
+
+
+

@@ -1,0 +1,10 @@
+0;Idegen;
+4*64;Ismerős;
+16*64;Rendszeres látogató;Üdv $name! Milyen híreket hoztál?
+64*64;Kedvenc kereskedő;Üdvözöllek újra $name. Mivel kereskednél velünk?
+2*64*64;A falu barátja;$name-ji, itt mindenki szerint egy igaz barát vagy.
+8*64*64;Egy közülünk;Nem gondoltam volna, hogy megérem, hogy egy külföldit befogadunk, de $name-ji te mostmár egy vagy közülünk!
+32*64*64;Született vezető;$name-ji, te elérted népem bizalmát, és tiszteletét. Mostantól követnek, bármerre is visz az utad. 
+-64;Gyanús személy;Nem szeretjük a külföldieket, főleg a te típusodat!
+-4*64;Nem kívánatos személy;Nagyon rosszul neveltek téged, hallod-e? Reméljük hamarosan távozol.
+-16*64;Közellenség;Minden reggel azért imádkozom Istennőmhöz, hogy ne lássam az arcod többé!

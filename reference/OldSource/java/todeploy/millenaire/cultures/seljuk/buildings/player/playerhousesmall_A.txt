@@ -1,0 +1,14 @@
+building.length=8
+building.width=12
+building.buildingorientation=3
+building.max=0
+building.reputation=6192
+building.price=4096
+
+building.icon=denier
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Küçük Ev
+initial.priority=1000000
+initial.pathlevel=1

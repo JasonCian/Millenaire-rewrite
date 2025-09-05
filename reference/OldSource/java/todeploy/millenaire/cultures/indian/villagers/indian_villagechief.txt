@@ -1,0 +1,26 @@
+native_name=Gaanv ka Mukhiya
+gender=male
+familyNameList=high_caste_family_names
+firstNameList=men_names
+tag=chief
+icon=paper
+
+travelbook_held_item=paper
+
+texture=textures/entity/indian/ML_chief0.png
+texture=textures/entity/indian/ML_chief1.png
+
+goal=gosocialise
+goal=chat
+goal=gorest
+goal=gopray
+goal=patrol
+goal=huntmonster
+goal=inspectconstruction
+
+toolneededclass=toolssword
+
+baseAttackStrength=3
+tag=helpInAttacks
+defaultweapon=woodsword
+experiencegiven=5

@@ -1,0 +1,15 @@
+version:3.4
+<darkblue>De Indiërs
+
+Ze komen van het noorden uit India en leven in 3 typen dorp: militaire dorpen rond een fort, landbouwdorpen rond een hoofdmanshuis en paleiselijke dorpen rond een koninklijk paleis met 2 gehuchten. Ze spreken hindi, maar hun dialoog wordt vertaalt als de speler de taal leert.
+
+<darkblue>Unieke objecten en blokken
+
+-Indiërs verbouwen rijst en kurkuma. De speler kan de leider vragen hoe dat moet.
+-Modder baksteen en gekookte baksteen, worden gemaakt door natte bakstenen te laten drogen in de zon. Natte bakstenen worden gemaakt met een baksteenmal (te koop in het dorp).
+-Indiase beelden, worden gemaakt in de vorm van goden. Gemaakt door de beeldhouwer.
+-Heerlijke rasgulla, snoep gemaakt van de suikerrietplant.
+<darkblue>Specifieke recepten (vormloos)
+
+-Rijst en kurkuma maken vegetarische curry
+-Rijst, kurkuma en kip maken murgh curry

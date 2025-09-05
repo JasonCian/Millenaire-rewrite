@@ -1,0 +1,29 @@
+{
+    "multipart": [
+        {   "apply": { "model": "millenaire:stained_glass_white_post" }},
+        {   "when": { "variant":"white", "north": true },
+            "apply": { "model": "millenaire:stained_glass_white_side" }
+        },
+        {   "when": { "variant":"white", "east": true },
+            "apply": { "model": "millenaire:stained_glass_white_side", "y": 90 }
+        },
+        {   "when": { "variant":"white", "south": true },
+            "apply": { "model": "millenaire:stained_glass_white_side_alt" }
+        },
+        {   "when": { "variant":"white", "west": true },
+            "apply": { "model": "millenaire:stained_glass_white_side_alt", "y": 90 }
+        },
+        {   "when": { "variant":"white", "north": false },
+            "apply": { "model": "millenaire:stained_glass_white_noside" }
+        },
+        {   "when": { "variant":"white", "east": false },
+            "apply": { "model": "millenaire:stained_glass_white_noside_alt" }
+        },
+        {   "when": { "variant":"white", "south": false },
+            "apply": { "model": "millenaire:stained_glass_white_noside_alt", "y": 90 }
+        },
+        {   "when": { "variant":"white", "west": false },
+            "apply": { "model": "millenaire:stained_glass_white_noside", "y": 270 }
+        }
+    ]
+}

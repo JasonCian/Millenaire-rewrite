@@ -1,0 +1,276 @@
+//--------------------------------------------------------------------------------------------
+//       Réglages UI    -    UI Settings
+//--------------------------------------------------------------------------------------------
+
+//Touche liste des villages; Touche pour afficher la liste des villages environnants. Défaut: V.
+//Village List Key; Key to display the list of surrounding villages. Default: V.
+village_list_key=V
+
+//Touche panneau d'information; Touche pour afficher le panneau d'information Millénaire. Défaut: M.
+//Info Panel Key; Key to display the Millénaire info pannel. Default: M.
+quest_list_key=M
+
+//Touche mode escortes; Touche pour changer le mode des escortes (agressif ou non). Défaut: G.
+//Agressive Escorts Key; Key to toggle hired villagers between agressive and defensive stances. Default: G.
+escort_key=G
+
+//Langue de recours; Langue de recours, pour les textes non disponibles dans la principale.
+//Fallback Language; Secondary game language, used when the main one is not available.
+fallback_language=en
+
+//Apprentissage des langues; Les langues doivent être "apprises" (les traductions n'apparaissent qu'après assez d'interaction avec une culture).
+//Language Learning; Whether languages need to be "learned" (translations will only appear after the player interacts enough with a culture).
+language_learning=true
+
+//Charger toutes les langues; Charger toutes les langues, pour fournir des traductions aux clients si nécessaire.
+//Load All Languages; Whether to load all available languages, in order to provide translations to clients if needed.
+load_all_languages=false
+
+//Afficher le texte au démarrage; Afficher la version de Millénaire et le statut de la Quête de la Création au démarrage.
+//Display Starting Text; Display the Millénaire version and Creation Quest status at startup.
+display_start=true
+
+//Afficher le nom des villageois; Afficher le nom, le métier et la tâche en cours au dessus des villageois.
+//Display Villager Names; Display names, occupations and current task above villagers' heads.
+display_names=true
+
+//Distance d'affichage des noms; Distance à laquelle les noms apparaissent. Défaut: 20.
+//Name Display Distance; Distance from which names are visible. Default: 20.
+villagers_names_distance=20
+
+//Phrases dans le chat (solo); Distance maximale où afficher les phrases des villageois dans le chat en solo. Défaut: 5.
+//Sentences In Chat (SP); How far villagers must be to display their sentences in the chat box in single player. Default: 5.
+villagers_sentence_in_chat_distance_sp=5
+
+//Phrases dans le chat (MJ); Distance maximale où afficher les phrases des villageois dans le chat en multi-joueur. Défaut: 0.
+//Sentences In Chat (MP); How far villagers must be to display their sentences in the chat box in multi player. Default: 0.
+villagers_sentence_in_chat_distance_client=0
+
+//--------------------------------------------------------------------------------------------
+//       Réglages génération    -    World Generation
+//--------------------------------------------------------------------------------------------
+
+//Générer des villages; Générer des villages Millénaire dans les nouveaux tronçons.
+//Generate villages; Whether to generate Millénaire villages in new chunks.
+generate_villages=true
+
+//Générer des bâtiments; Générer des bâtiments isolés dans les nouveaux tronçons.
+//Generate lone buildings; Whether to generate Millénaire lone buildings in new chunks.
+generate_lone_buildings=true
+
+//Distance min entre villages; Distance minimale entre deux villages générés. Défaut: 600.
+//Min Village Distance; Minimum distance between two generated villages. Default: 600.
+min_village_distance=600
+
+//Distance min villages/bâtiments; Distance minimale entre villages et bâtiments isolés générés. Défaut: 300.
+//Min Village-Lone Building Distance; Minimum distance between generated villages and lone buildings. Default: 300.
+min_village_lonebuilding_distance=300
+
+//Distance min entre bâtiments; Distance minimale entre deux bâtiments isolés générés. Défaut: 600.
+//Min Lone Building Distance; Minimum distance between lone buildings. Default: 600.
+min_lonebuilding_distance=600
+
+//Rayon de protection spawn; Rayon autour du point d'apparition dans lequel Millénaire ne génère rien. Défaut: 150.
+//Spawn Protection Radius; Area around the Spawn Point where Millénaire will not generate buildings. Default: 150.
+spawn_protection_radius=150
+
+//Progrès initial maximum; Progrès initial maximum (en %) qu'un village peut avoir si éloigné du point d'apparition. Défaut : 25.
+//Max Progress on Spawn; Maximum initial progress a village can have (in %) when generated far from the Spawn Point. Default: 25.
+village_spawn_completion_max_percentage=25
+
+//Distance minimum pour progrès; Distance minimum du point d'apparition à partir de laquelle les villages peuvent avoir un progrès initial. Défaut : 2000.
+//Minimum Distance for Progress; Minimum distance from the Spawn Point at which villages can start with some initial progress. Default: 2000.
+village_spawn_completion_min_distance=2000
+
+//Distance maximum pour progrès; Distance du point d'apparition à partir de laquelle les villages peuvent avoir le progrès initial maximum. Défaut : 10000.
+//Maximum Distance for Progress; Distance from the Spawn Point at which villages can reach the maximum initial progress. Default: 10000.
+village_spawn_completion_max_distance=10000
+
+//--------------------------------------------------------------------------------------------
+//       Réglages villages    -    Village Behaviour
+//--------------------------------------------------------------------------------------------
+
+//Rayon de chargement des tronçons; Rayon autour du joueur dans lequel Millénaire essayera de garder les tronçons chargés. Défaut: 300.
+//Chunk Loaded Radius; Radius around the player in which Millénaire will attempt to keep villages' chunks loaded. Default: 300.
+keep_active_radius=300
+
+//Rayon des villages; Rayon des villages normaux (pas des hameaux). Défaut: 80.
+//Radius of Villages; Radius of normal villages (not hamlets). Default: 80.
+village_radius=90
+
+//Distance min entre bâtiments; Distance minimale entre deux bâtiments d'un village. Défaut: 2.
+//Min Distance Between Buildings; Minimal distance between two buildings in a village. Default: 2.
+min_distance_between_buildings=2
+
+//Construire des chemins de village; Générer les chemins dans les nouveaux villages et les faire mettre à jour par les villageois.
+//Build Village Paths; Generate paths in new villages and have the villagers upgrade them.
+village_paths=true
+
+//Nombre max d'enfants; Nombre maximal d'enfants dans un village. Défaut: 10.
+//Max Children Number; Maximum number of children a village can have. Default: 10.
+max_children_number=10
+
+//Rayon relations des villages; Rayon dans lequel les villages ont des relations (diplomacie, commerce, raids). Défaut: 2000.
+//Village Relation Radius; Radius within which villages will have relations with each others (diplomacy, trade, raids). Default: 2000.
+background_radius=2000
+
+//Rayon raid de bandits; Rayon dans lequel les bandits attaquent les villages. Défaut: 1500.
+//Bandit Raid Radius; Radius within which bandits will raid villages. Default: 1500.
+bandit_raid_radius=1500
+
+//Chance de raid en %; Chance sur 100 qu'un village ou bâtiment de bandits tente un raid chaque nuit. Défaut: 20.
+//Raiding % Chance; Chance on 100 that a village/bandit building will attempt a raid each night. Default: 20.
+raiding_rate=20
+
+//--------------------------------------------------------------------------------------------
+//       Réglages système    -    System Settings
+//--------------------------------------------------------------------------------------------
+
+//Envoie de statistiques; Autoriser l'envoie de statistiques anonymes à Millénaire (version, langue...).
+//Statistics; Whether to authorize the sending of anonymous statistics (version, language...) to the Millénaire.
+send_statistics=true
+
+//Page Progrès; Autoriser l'envoie de votre login Minecraft à Millénaire, pour pouvoir afficher vos progrès sur millenaire.org.
+//Advancements Page; Whether to send your Minecraft login to the Millénaire server, to allow your advancements to be visible on millenaire.org.
+send_advancement_login=false
+
+//--------------------------------------------------------------------------------------------
+//       Outils développeurs    -    Dev Tools
+//--------------------------------------------------------------------------------------------
+
+//Générer l'analyse des traductions; Générer pour chaque langue chargée un rapport sur le contenu manquant.
+//Generate translation gap; Generate for each loaded languages a report with the list of lacking text.
+generate_translation_gap=false
+
+//Générer l'échantillon des couleurs; Générer l'échantillon des couleurs utilisables dans les plans de bâtiments.
+//Generate colour chart; Generate the chart of colours usable in building plans.
+generate_colour_chart=false
+
+//Générer les resources nécessaires; Générer une liste des ressources nécessaires pour chaque bâtiment.
+//Generate resource list; Generate the list of resources required for every building.
+generate_building_res=false
+
+//Générer la liste des objets; Générer la liste des objets connus par Millénaire.
+//Generate goods list; Generate the list of items know to Millénaire.
+generate_goods_list=false
+
+//logtileentitybuilding; 
+//logtileentitybuilding; 
+logtileentitybuilding=
+
+//logworldgeneration; 
+//logworldgeneration; 
+logworldgeneration=
+
+//logdiplomacy; 
+//logdiplomacy; 
+logdiplomacy=
+
+//logwifeai; 
+//logwifeai; 
+logwifeai=
+
+//logvillager; 
+//logvillager; 
+logvillager=
+
+//logquest; 
+//logquest; 
+logquest=
+
+//logpathing; 
+//logpathing; 
+logpathing=
+
+//logconnections; 
+//logconnections; 
+logconnections=
+
+//loggetpath; 
+//loggetpath; 
+loggetpath=
+
+//loglumberman; 
+//loglumberman; 
+loglumberman=
+
+//logbuildingplan; 
+//logbuildingplan; 
+logbuildingplan=
+
+//loggeneralai; 
+//loggeneralai; 
+loggeneralai=
+
+//logselling; 
+//logselling; 
+logselling=
+
+//loghybernation; 
+//loghybernation; 
+loghybernation=
+
+//logother; 
+//logother; 
+logother=
+
+//logchildren; 
+//logchildren; 
+logchildren=
+
+//logcattlefarmer; 
+//logcattlefarmer; 
+logcattlefarmer=
+
+//logminer; 
+//logminer; 
+logminer=
+
+//logvillage; 
+//logvillage; 
+logvillage=
+
+//logworldinfo; 
+//logworldinfo; 
+logworldinfo=
+
+//logpujas; 
+//logpujas; 
+logpujas=
+
+//logvillagerspawn; 
+//logvillagerspawn; 
+logvillagerspawn=
+
+//logvillagepaths; 
+//logvillagepaths; 
+logvillagepaths=
+
+//lognetwork; 
+//lognetwork; 
+lognetwork=
+
+//logmerchant; 
+//logmerchant; 
+logmerchant=
+
+//logculture; 
+//logculture; 
+logculture=
+
+//logtranslation; 
+//logtranslation; 
+logtranslation=
+
+//logchunkloader; 
+//logchunkloader; 
+logchunkloader=
+
+//--------------------------------------------------------------------------------------------
+//       Bonus contributeurs    -    Contributor Bonus
+//--------------------------------------------------------------------------------------------
+
+//Code bonus; Code pour activer le bonus. Récupéré automatiquement sur internet si connexion possible.
+//Bonus Code; Code to enable the bonus. Fetched from internet automatically if a connection is possible.
+bonus_code=null
+

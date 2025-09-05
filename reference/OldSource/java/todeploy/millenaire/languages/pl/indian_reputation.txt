@@ -1,0 +1,15 @@
+
+0;Nieznajomy;Rzadko widujemy obcych w tych odległych stronach.
+4*64;Znana twarz;Jak dotąd nie dopuściłeś się znieważenia naszych obyczajów.
+8*64;Znana twarz;Wyglada na to ,że zrobiłeś na wielu z nas dobre wrażenie.Kontynuuj,a obaj będziemy mieli benefity.
+16*64;Częsty gość;Namaste, $name! Jakie wieści przynosisz?
+32*64;Sąsiad podróżnik;Nie jesteś perfekyjny,ale przyznajemy,że byłeś dobrym sąsiadem $name-ji.Podoba nam się twoje towarzystwo.
+64*64;Ulubiony kupiec;Witamy z powrotem! Jakie towary przywiozłeś nam tym razem?
+2*64*64;Przyjaciel wioski;$name-ji, wszyscy tu uważamy Cię za prawdziwego przyjaciela!
+4*64*64;Prawdziwy sprzymierzeniec;Jesteś prawdziwym sprzymierzeńcem $name-ji.Jeśli będziesz kiedykolwiek potrzebował schronienia ,możesz zostać w naszej wiosce.
+8*64*64;Jeden z nas;Nie myślałem, że kiedyś dożyję dnia w którym to zaakceptujemy obcego w naszej wiosce, ale Ty $name-ji jesteś teraz jednym z nas.
+32*64*64;Urodzony przywódca;$name-ji, zasłużyłeś na zaufanie i szacunek moich ludzi. Podążą za Tobą wszędzie.
+4*32*64*64;Niespodziewany Radżput ;Hindusi są niezmiernie szczęśliwi,że chciałeś zostać z nimi i pomóc im w ich walkach. W razie gdybyś nie zauważył ,stworzyliśmy 5 innych niezwykłych kultur które prawdopodobnie dadzą więcej niż nijaką i słabą wiadomość.
+-64;Utrapieniec;Nie przepadamy za obcymi, szczególnie tymi twojego pokroju.
+-4*64;Niepożądany obcy;Ktokolwiek cię wychował chyba nie włożył w to zbyt wiele wysiłku. Mamy nadzieję, że wkrótce się stąd wyniesiesz...
+-16*64;Wróg publiczny numer jeden;Każdego ranka modlę się do Boga, aby już nie musiesz oglądać twojej paskudnej gęby.

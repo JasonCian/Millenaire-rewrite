@@ -1,0 +1,29 @@
+
+marvel_norman_1_picklocation_0_label=Une vision divine
+marvel_norman_1_picklocation_0_description=$name, avez-vous entendu la grande nouvelle ? Un architecte renommé qui nous vient de la Franquie de l'Est, le célèbre Nicolas de Weilbourg, fait le tour des villages des environs à la recherche de soutien pour la construction d'une grande cathédrale, un monument à notre foi dans ces terres étrangères !<ret><ret>Les seigneurs des environs et moi avons débattus de l'emplacement - ils refusent d'admettre que $startvillager_villagename$ est le site idéal ! Mais peut être que vous pourriez trouver un site acceptable par tout le monde ?
+marvel_norman_1_picklocation_0_description_success=Grand merci, $name. Il vous faudra une "baguette d'invocation" - nous pouvons vous en vendre une, si vous ne possédez pas encore cette puissante relique. Quand vous aurez trouvé un site convenable, loin des villages existants et avec beaucoup d'espace disponible, utilisez-là pour marquer l'endroit et revenez me voir.
+marvel_norman_1_picklocation_0_description_refuse=Vous m'attristez.
+
+
+marvel_norman_2_generate_0_label=Un site de choix
+marvel_norman_2_generate_0_description=Ah, $name ! Êtes vous satisfait du site que vous avez choisi ? J'ai hâte de voir Maître Nicolas à l'œuvre !
+marvel_norman_2_generate_0_description_success=C'est certainement un bon choix. Le Maître va pouvoir commencer sa tâche.
+marvel_norman_2_generate_0_description_refuse=Vous avez raison, ce n'est pas une décision à prendre légèrement. Revenez quand vous serez sûr de vous.
+
+
+marvel_norman_3_searchhelp_0_label=Appel aux dons
+marvel_norman_3_searchhelp_0_description=$name, je suis heureux de vous rencontrer enfin. L'emplacement que vous avez choisi est superbe !<ret><ret>Puis-je vous demander une autre faveur ? Nous avons grand besoin de contributions à la construction de la cathédrale. Plus nombreux seront les villages qui contribuent, plus vite nous pourrons terminer la construction ! Vous pouvez aller consulter les dons déjà reçus sur le panneau "donations".<ret><ret>Seriez-vous prêt à prendre votre bâton de pèlerin et à aller dans tous les villages normands que vous trouverez chercher des âmes généreuses ?
+marvel_norman_3_searchhelp_0_description_success=Allez voir les chefs de chaque village - ils seront sûrement prêt à contribuer à l'œuvre de Dieu et de votre illustre serviteur.
+marvel_norman_3_searchhelp_0_description_refuse=Vous êtes un homme de peu de foi.
+
+
+
+marvel_norman_4_gethelp_0_label=Réponse à l'appel
+marvel_norman_4_gethelp_0_description=Bienvenue, $name !<ret><ret>Nous avons eu vent de la construction d'une grande cathédrale par un illustre architecte, avez-vous des nouvelles ?
+marvel_norman_4_gethelp_0_description_success=Magnifique ! Quel ouvrage inspiré ! Le village de $startvillager_villagename$ sera heureux d'y contribuer. Soyez sûr que nous enverrons désormais régulièrement nos contributions à ce beau projet.
+marvel_norman_4_gethelp_0_description_refuse=C'est dommage.
+
+marvel_norman_5_return_0_label=Retourner voir l'architecte
+marvel_norman_5_return_0_description=$name, nous avons été prévenus que d'autres donations arriveraient bientôt. Elles nous aideront à terminer cette cathédrale rapidement.
+marvel_norman_5_return_0_description_success=Encore merci !
+marvel_norman_5_return_0_description_refuse=Je ne demandais rien de plus...

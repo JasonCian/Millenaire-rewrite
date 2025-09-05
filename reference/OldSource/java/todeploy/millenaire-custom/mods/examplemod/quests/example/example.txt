@@ -1,0 +1,58 @@
+//This example quest is a copy of "guardwife"
+//In the first step, the wife gives a boudin for her husband
+//In the second, the player gives it to the guard in question
+
+//min reputation in the village:
+minreputation:0
+//chance per hour, out of 1
+chanceperhour:0
+//how many of these quests can be generated at the same time
+maxsimultaneous:3
+
+//first step (step=one interaction with a villager)
+step:new
+//the first villager definition is key. A quest won't be created if a matching villager can't be found in an active village/lone building
+//the "key=" part defines the name used to refere to it later
+definevillager:key=startvillager,type=norman/wife
+//other villagers must be defined in relation to an existing one. Valid values for "relation=" are:
+//spouse
+//samehouse
+//samevillage
+//nearbyvillage   (includes lone buildings, 2km distance limit)
+definevillager:key=guard,type=norman/guard,relatedto=startvillager,relation=spouse
+//this line means it's startvillager this step interacts with
+villager:startvillager
+//the duration in minecraft hours the quest is available for:
+duration:3
+//a good given to the player on acceptance (can be a reward or needed for a later step like here)
+rewardgood:boudin,1
+//In custom quests, the text can be put directly in the quest file instead of inside the language packs
+//You can put as many languages as you want
+label_en:Husband's lunch
+description_en:My husband $guard_villagername$ the guard is starving and I forgot to pack food for him! Could you please take him this boudin?
+description_success_en:Thank you my good man!
+description_refuse_en:You are really not the helpfull kind.
+label_fr:Le repas du mari
+description_fr:Mon mari $guard_villagername$ le garde est affamé et j'ai oublié son déjeuner! Pourriez-vous lui apporter ce boudin?
+description_success_fr:Merci, vous êtes très aimable!
+description_refuse_fr:Vous n'êtes pas très aimable.
+
+//second step, here talking to the guard
+step:new
+villager:guard
+duration:5
+//a boudin is needed to complete this step (does not have to be the same item as given in step one)
+requiredgood:boudin,1
+rewardreputation:128
+//this penalty will be applied if the player refuse in the final screen or does not complete the quest in time
+penaltyreputation:192
+label_en:Hungry!
+description_en:My wife forgot my meal again! Ah, women!
+description_success_en:That was awefully kind of you.
+description_refuse_en:Never trust a stranger.
+description_timeup_en:You did not deliver the meal on time. The villagers of $guard_villagename$ won't forget.
+label_fr:J'ai faim!
+description_fr:Ma femme a encore oublié mon déjeuner. Ah, les femmes!
+description_success_fr:Vous en voulez une bouchée?
+description_refuse_fr:Ne jamais faire confiance à un étranger.
+description_timeup_fr:Vous n'avez pas livré le repas à temps. $startvillager_villagername$ vous en veut.

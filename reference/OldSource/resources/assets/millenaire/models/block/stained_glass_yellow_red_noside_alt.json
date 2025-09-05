@@ -1,0 +1,6 @@
+{
+    "parent": "block/pane_noside_alt",
+    "textures": {
+        "pane": "millenaire:blocks/stained_glass_yellow_red"
+    }
+}

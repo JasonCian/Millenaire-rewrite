@@ -1,0 +1,34 @@
+//Parameters for the building as a whole
+building.length=23
+building.width=16
+building.buildingorientation=0
+building.version=2
+building.icon=tripes
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Elevage bovin
+initial.priority=1000
+initial.male=cattlefarmermale
+initial.female=cattlefarmerfemale
+initial.tag=cattle
+initial.shop=cattlefarm
+
+//Parameters for specific upgrades
+upgrade1.priority=200
+
+upgrade2.priority=190
+
+upgrade3.priority=180
+upgrade3.tag=oven
+
+upgrade4.priority=85
+
+upgrade5.priority=80
+upgrade5.pathlevel=1
+
+upgrade6.priority=75
+
+upgrade7.priority=70
+

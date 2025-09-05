@@ -1,0 +1,18 @@
+﻿version:4.8.0
+<darkblue>Maji
+
+Maji prihajajo iz Jukatana in so ugledni zaradi njihove kamnite arhitekture z zlatimi okraski. Živijo v kmečkih, verskih in vojaških vaseh. Govorijo Majevsko in njihov dialog bo preveden, ko se igralec "nauči" njihovega jezik.
+
+<darkblue>Posebni objekti in bloki
+
+-Gojijo koruzo. Igralec lahko prosi poglavarja, da ga nauči gojiti to rastlino.
+-Kuhajo mah in masas iz koruze in kokoške - polnjene tortilije.
+-Gojijo kakavova zrnja in iz njih pripravljajo cacauhaa, ki je odlična kakavova pijača.
+-So pravtako rokodelci, ki iz obsidijana izdelujejo svoje orodje in orožje, ki je zelo krhek, ampak preprosto izboljšan.
+-Njihovi obrtniki izdelujejo okrasne kocke iz zlatih palic, s katerimi jih oskrbuje igralec.
+-Pravtako izklesujejo kipe, ki predstavljajo Majsko božanstvo.
+
+<darkblue>Posebni recepti
+
+-Tri koruze v vrsti ustvari en was (podobno tortiliji).
+-Dve koruzi v vrsti z surovo kokoško ustvaro eno maso (tortilija s kokoško).

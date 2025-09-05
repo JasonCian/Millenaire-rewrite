@@ -1,0 +1,21 @@
+//Parameters for the building as a whole
+building.length=14
+building.width=17
+building.buildingorientation=0
+building.showtownhallsigns=false
+building.startinggood=maize,1.0,1,40
+building.startinggood=denier,1.0,20,44
+building.startinggood=denierargent,0.3,2,2
+building.startinggood=chickenmeat,1.0,1,3
+building.startinggood=gold,0.4,4,9
+building.startinggood=bow,0.6,1,1
+building.startinggood=arrow,0.8,10,30
+building.startinggood=pumpkin,0.6,1,5
+
+building.icon=rice
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Sa'at Maya Maize Makan
+initial.priority=3000
+

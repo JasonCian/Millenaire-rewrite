@@ -1,0 +1,112 @@
+List of parameters usable in all generic goals:
+
+buildingtag (string (case-insensitive)):
+Tag a building must have for action to be possible. If absent, then the villager's house is used.
+
+requiredtag (string (case-insensitive)):
+Extra tag required for the destination to be valid.
+
+townhallgoal (boolean):
+If true, this goal happens in the central building.
+Default value: false
+
+priority (integer value):
+The goal's priority. The higher it is the more likely villagers will pick it.
+Default value: 50
+
+priorityrandom (integer value):
+A random value between 0 and this to add to the goal's priority.
+Default value: 10
+
+duration (milliseconds):
+Duration in ms of the action.
+Default value: 5000
+
+sentencekey (string (case-insensitive)):
+Specify if the sentences for this goal is not the name of the goal itself.
+
+labelkey (string (case-insensitive)):
+Specify if the label for this goal is not the name of the goal itself.
+
+helditems (list of items: 'chickenmeat,chickenmeatcooked'):
+Items held by the villager, including when traveling.
+
+helditemsoffhand (list of items: 'chickenmeat,chickenmeatcooked'):
+Items held by the villager in his off hand, including when traveling.
+
+helditemsdestination (list of items: 'chickenmeat,chickenmeatcooked'):
+Items held by the villager, at destination only.
+
+helditemsoffhanddestination (list of items: 'chickenmeat,chickenmeatcooked'):
+Items held by the villager in his off hand, at destination only.
+
+sound (string (case-insensitive)):
+Sound to play when the goal is performed (metal, wool...).
+
+allowrandommoves (boolean):
+If true, the villager can move 'randomly' after reaching the destination.
+Default value: false
+
+reoccurdelay (milliseconds):
+Duration in ms before the action can reoccur.
+Default value: 5000
+
+holdweapons (boolean):
+If true, the villager will hold his best weapon while doing this goal.
+Default value: false
+
+lookatgoal (boolean):
+Whether the villager should look at the goal's destination. True or false by default depending on the generic goal.
+Default value: false
+
+range (integer value):
+Range from destination from which the goal is doable.
+Default value: 3
+
+leasure (boolean):
+If true, this is a leisure activity that can be interrupted by other goals.
+Default value: false
+
+sprint (boolean):
+If true, villagers performing this goal will move faster than normal.
+Default value: true
+
+tag (string (case-insensitive, multiple parameters possible)):
+A tag to use when referring to the goal elsewhere, such as in generic visit targeting. Has no effects on the goal itself.
+
+buildinglimit (item and number: 'bone,8'):
+If more than that number of item is present in the building, stop goal.
+
+townhalllimit (item and number: 'bone,8'):
+If more than that number of item is present in the town hall, stop goal.
+
+villagelimit (item and number: 'bone,8'):
+If more than that number of item is present in the village, stop goal.
+
+maxsimultaneousinbuilding (integer value):
+No more than X villagers doing this goal in the same building at the same time.
+Default value: 0
+
+maxsimultaneoustotal (integer value):
+No more than X villagers doing this goal at the same time.
+Default value: 0
+
+itemsbalance (pair of items: 'stone,sand'):
+Pair of items whose quantity to balance in the TH. If there are more of the second than the first, the goal won't trigger.
+
+minimumhour (integer value):
+Time of the day before which the goal can't be taken, in ticks (6000 for noon for example).
+
+maximumhour (integer value):
+Time of the day after which the goal can't be taken, in ticks (6000 for noon for example).
+
+travelbookshow (boolean):
+Whether this goal should get displayed in a villager's travel book sheet. True or false by default depending on the goal type.
+
+icon (item (from itemlist.txt)):
+Name of a good whose icon represents this goal.
+
+floatingicon (item (from itemlist.txt)):
+Name of a good whose icon will float above the villager's head when performing this goal. Use only for goals significant for the player.
+
+

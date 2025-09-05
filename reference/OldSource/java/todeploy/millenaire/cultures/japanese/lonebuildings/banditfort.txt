@@ -1,0 +1,29 @@
+name=Zokuto no Bakusha
+carriesraid=true
+
+mindistancefromspawn=1000
+
+weight=10
+radius=50
+
+//Vanilla biomes
+biome=Extreme Hills
+biome=Extreme Hills+
+biome=Extreme Hills M
+biome=Extreme Hills+ M
+biome=ForestHills
+biome=TaigaHills
+biome=Roofed Forest M
+
+//biomes o'plenty
+biome=alps
+biome=alps foothills
+biome=crag
+biome=highland
+biome=moor
+biome=mountain
+biome=mountain foothills
+biome=overgrown cliffs
+
+//starting buildings=
+centre=banditfort

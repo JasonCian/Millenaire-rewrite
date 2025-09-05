@@ -1,0 +1,17 @@
+//* The part before the ";" is the title, after it the description
+
+0;Stranger;As a folk of trade we have to accept everyone. But we don't have to trust them.
+4*64;Familiarity;Lately, you are often seen in these Roman areas.
+8*64;Known Face;Other Romans seem to have noticed you and they speak well of you! You don't seem to be a barbarian after all.
+16*64;Regular Visitor;Xaire, $name! Nice to see you. How are things?
+32*64;Fellow Civilized Man;Ah, it's good to see that others outside of the Roman Empire can be civilized like us once in a while.
+64*64;Favourite Trader;Everyone here is glad to see you. Have you anything to trade? Our trading relationship has helped both of us out.
+2*64*64;Friend of the Village;You are part of our village $name, we trust you now!
+4*64*64;Respectable Ally;Congrats $name! You have earned our respect. It's difficult for outsiders to become friends of the Roman Empire, let alone respected. But YOU, you have proven yourself worthy!
+8*64*64;One of Us;We see you now as a Roman civic $name. Maybe you weren't born as one of us, but now you can be proud to call yourself a true Roman.
+32*64*64;Natural Leader;$name, you have gained the trust and respect of the Byzantines. They will follow you anywhere.
+4*32*64*64;The Next Caesar;You will be the next Caesar! The sheer amount of work you have done for this village is unimaginable and we will follow you in making this world a better place. Hail $name! 
+-64;Nuisance;You aren't very nice, $name. Watch your step.
+-4*64;Unpleasant Outsider;We accept traders, but not people like you. Be on guard.
+-16*64;Public Enemy;It was embarrassing of the whole Roman empire to let you alive. While you continue to enjoy to live, leave the Roman lands and never return.
+-64*64;Apparent Barbarian;Do you not understand us? Fine, we'll try something else: BAR BAR BAR, BAR BAR, BAR BARRRR!

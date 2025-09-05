@@ -1,0 +1,48 @@
+﻿playerestate_A0=Hääber
+forge_A0=Sepikoda
+armyforge_A0= Sepikoda (Relvastus)
+scultorhouse_A0=Skulprori maja
+archives_A0=Templi arhiivid
+chiefhouse_A0=Pealiku maja
+chiefhouse_B0=Pealiku maja
+fort_A0=Linnus
+fort_A_forge_A0=Linnuse sepikoda
+fort_A_soldierhouse_A0=Kasarmu
+peasanthouse_A0=Taluniku maja
+peasanthouse_B0=Taluniku maja
+peasanthouse_C0=Taluniku maja
+lumbermanhouse_A0=Puraiduri maja
+quarry_A0=Keavandus
+quarry_B0=Kaevandus
+soldierhouse_A0=Sõduri maja
+brickkiln_A0=Tellisevalmistaja 
+grove_A0=Puiestik
+paddy_A0=Riisipõld
+spicegarden_A0=Vürtsi aed
+sugarplantation_A0=Suhkruroopõld
+villagetemple_A0=Küla Tempel
+palace_A0=Palee
+guesthouse_A0=Külaliste maja
+inn_A0=Kõrts
+largepeasanthouse_A0=Suur maja
+largepeasanthouse_A_secondary_A0=Teine maja
+playerpalace_A0=Mängija palee
+playerhugefield_A0=Väga suur ala
+playerlargefield_A0=Suur ala
+playersmallfield_A0=Väike ala
+playersmallhouse_A0=Väike maja
+bazaar_A0=Turg
+tank_A0=Suur trepp kaev
+
+//extra buildings:
+well_A0=Kaev
+
+//lone buildings:
+adivasifarm_A0=Adivasi Farm
+adivasifarm_B0=Adivasi Farm
+deserttradeoutpost_A0=Kõrbe vahetus punkt
+ruinedfort_A0=Rikkutud linnus
+sandblasted_A0=Kõrbe vahetus punkt
+indiandesertedfarm_A0=Hävinenud indiaani farm
+loneshrine_A0=Üksik hinude pühamu
+sadhutree_A0=Sadhu puu

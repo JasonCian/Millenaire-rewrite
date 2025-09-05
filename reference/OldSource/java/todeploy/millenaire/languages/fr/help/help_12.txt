@@ -1,0 +1,14 @@
+version:4.3.0
+<darkblue>Les Byzantins
+
+Dignes et fiers successeurs des romains, les byzantins produisent du vin et des icônes religieuses raffinées. Ils parlent grecs, mais leurs dialogues seront traduits au fur et à mesure que le joueur « apprend » leur langue en parlant avec eux.
+
+<darkblue>Objets et blocs uniques
+
+-Ils cultivent la vigne et produisent du vin avec. Le joueur peut demander au chef de lui apprendre comment cultiver cette plante.
+-Ils utilisent de l'argile pour produire d'élégantes tuiles byzantines dont ils couvrent leurs bâtiments
+-Leur maîtrise de la sériciculture (l'élevage des vers à soie) leur permet de produire la soie sur laquelle ils peignent leurs icônes byzantines
+
+<darkblue>Recettes spécifiques
+
+-Deux lignes de trois raisins chacune donnent du vin

@@ -1,0 +1,11 @@
+{
+	"forge_marker": 1,
+	"variants": {	
+		"half=bottom": {
+			"model": "millenaire:slab_painted_brick_blue_bottom"
+		},
+		"half=top": {
+			"model": "millenaire:slab_painted_brick_blue_top"
+		}
+	}
+}

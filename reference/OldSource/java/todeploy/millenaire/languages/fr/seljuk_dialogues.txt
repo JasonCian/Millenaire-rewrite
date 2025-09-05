@@ -1,0 +1,177 @@
+
+
+newchat;key:nights,tag:notraining,v1:adult,v2:adult,weigth:10
+v1;0;Geceleri hep değişik şeyler görüyorum.
+v2;30;Gündüzün şerri gecenin hayrından iyidir demişler.
+v1;60;Haklısın $targetfirstname.
+
+newchat;key:fatherandson,rel:child,v1:child,v2:vtype:turk_miner,weigth:10
+v1;0;Baba bana kazdığın en güzel cevheri söyler misin?
+v2;30;Bir düşüneyim.. Sanırım bir elmastı.
+v1;60;Tekrar bulursan bana da bir tane verir misin baba?
+v1;90;Bulursam neden olmasın! $targetfirstname.
+
+newchat;key:iamam1,tag:notraining,v1:vtype:turk_imam,weigth:10
+v1;0;Allah yaptığımız her şeyi görür,$targetfirstname.
+v2;30;Öyledir hocam.
+
+newchat;key:kids1,tag:notraining,v1:child,weigth:10
+v1;0; Babam sürekli suçsuz hayvanları kesiyor!
+v2;30; Fakat o et bize lazım olmasa baban bunu yapmaz.
+
+newchat;key:talk1,v1:adult,v2:vtype:turk_localmerchant,weigth:10
+v1;0;Peki $targetfirstname, işler nasıl?
+v2;30;Her şey aynı değişen bir şey yok.
+v1;60;Peki gezilerin hoşuna gidiyor mu?
+v2;90;Evet fakat ayaklarım da ağrıyor.
+v1;120;Senda haklısın $targetfirstname.
+v2;150;Haklıyım tabii ya!
+
+newchat;key:talk2,v1:adult,v2:adult,weigth:10
+v1;0;Allah çalışanı sever.
+v2;30;Bende çalışmaktan çok memnunum!
+
+newchat;key:talk3,v2:adult,v1:vtype:turk_fisherman,rel:spouse,weigth:10
+v1;0;Balıkçılık sabır işidir bilir misin karıcığım?
+v2;30;Sadece balık tutma konusunda sabırlısın zaten!
+
+newchat;key:whoisthis,v2:adult,v1:adult,weigth:10
+v1;0;Bu da kim böyle?
+v2;30;Adını bilmiyorum fakat bu diyarlara yabancı birisi.
+v1;60;İçinde kötülük olmayan herkes bu diyarlara hoş gelmiştir.
+v2;90;Doğru söylüyorsun.
+
+newchat;key:kitchentalk,v2:adult,v1:adult,building:kitchen,weigth:10
+v1;0;Ayran kadar güzel bir içecek gördün mü kardeşim?
+v2;30;Hayir daha görmedim.
+v2;60;Nerden aldın? Bende istiyorum.
+v1;90;Yakında onu satan bir mutfak var.
+v2;120;Tamam çok sağol.
+v2;150;Başka ne var biliyormusun?
+v1;180;Balıktan pide ye kadar her şeyi düşünebilirsin.
+v2;210;Iyimiş hemen gitmeliyim.
+
+newchat;key:religion,v2:adult,v1:adult,building:mosque,weigth:10
+v1;0;Namaz kılma vakti.
+v2;30;Hadi ozaman vakiti geçirmiyelim.
+
+newchat;key:religion2,v2:adult,v1:adult,notbuilding:mosque,weigth:10
+v1;0;Namaz kılma vakti.
+v2;30;Hadi ozaman vakiti geçirmiyelim.
+v1;60;Güzel bir Camiimiz olsa ne güzel olurdu demi $targetfirstname.
+v2;90;Aynen Öyle kardeşim.
+
+newchat;key:ayran,v2:adult,v1:adult,building:kitchen,weigth:10
+v1;0;Biraz ayran içmeliyim.
+v2;30;İnşallah bugün han fazla dolu değildir.
+v1;60;Evet İnşallah, dün gibi olmasın.
+v2;90;Aynen, ve ayran içersem yorgunluğum da geçer.
+v1;120;Doğru söylüyorsun.
+
+newchat;key:buyingwallcarpet,v2:vtype:turk_weaver,v1:adult,building:weaver,weigth:10
+v1;0;Merhaba. Bir halı almak isiyorum.
+v2;30;Tabi. Nasıl bir şey olsun?
+v1;60;Bilmiyorum. Bugün eşimin doğum günü olduğu için bir hediye almak istedim. Siz ne tavsiye edersiniz?
+v2;90;Kırmızı halı ya ne dersiniz?
+v1;120;Tamam, harika bir fikir.
+v2;150;Kaç tane istersiniz?
+v1;180;Bir olsun. İyi bir paketleme yapabilir misiniz?
+v2;210;Tabi efendim. Kendiniz mi vereceksiniz, biz mi götürelim?
+v1;240;Kendim vereceğim. Teşekkür ederim.
+
+newchat;key:couple1,v2:adult,v1:adult,rel:spouse,weigth:10
+v1;0;Hayirlı günler. /
+v1;30;iyi uyudun mu? / Vous avez bien dormi ?
+v2;60;Iyidi çok şükür. / Oui plutôt bien.
+v1;90;kahvaltıda ne yersin / Qu'est-ce que vous aimeriez manger pour le petit déjeuner ?
+v2;120;Bilmiyorum sence? / Je ne sais pas et vous ?
+v1;150;Bende bilmiyorum. / Je ne sais pas non plus.
+
+newchat;key:talk4,v2:adult,v1:adult,weigth:10
+v1;0;Günün nasıl geçti? / Comment s'est passée votre journée ?
+v2;30;Kötü, çok yoğundu. / Elle a été assez chargée.
+v2;60;Yoruldum yani. / Je suis si fatigué.
+v1;90;Ayran içer misin? / Vous voulez boire un verre d'ayran ?
+v2;120;Evet iyi olur aslında. / Oui j'aimerai bien.
+
+newchat;key:talk5,v2:adult,v1:adult,notrel:spouse,weigth:10
+v1;0;Merhaba $targetfirstname / Bonjour $targetfirstname.
+v1;30;Bugün nasılsın? / Comment allez-vous ?
+v2;60;Sağol iyiyim / Je vais bien.
+v1;90;Ailen nasıl, iyi mi? / Et comment va votre famille ?
+v2;120;Evet onlar da iyiler / Elle va bien aussi.
+v1;150;Havalar da ne sıcak değil mi? / Il fait plutôt chaud, n'est-ce pas ?
+v2;180;Evet gerçekten çok sıcak / Oui, il fait vraiment très chaud.
+v1;210;Ailene selam söyle / Vous direz bonjour à votre famille de ma part.
+v2;240;Sağol sen de söyle / Vous ferez de même pour nous.
+v1;270;Hoşçakal. / Au revoir.
+
+newchat;key:talk6,v2:adult,v1:adult,notrel:spouse,weigth:10
+v1;0;Ne zaman taşındın? / Quand avez-vous emménagé ?
+v2;30;Geçtiğimiz hafta. / Le week-end dernier seulement.
+v1;60;Evin satıldığını bile bilmiyordum. / Je ne savais même pas que la maison avait été vendue.
+v2;90;Bu evi çok seviyorum, bu yüzden taşınmak zorundaydım. / J'aime tellement cette maison, alors j'y ai emménager.
+v1;120;Anlıyorum, çünkü bu ev sıradışı. / Je comprends, cette maison est extraordinaire.
+v2;150;Ne zamandan beri evinde yaşıyorsun? / Depuis combien d'années vivez-vous dans votre maison ?
+v1;180;Ben uzun süredir burada yaşıyorum. / Je vis ici depuis longtemps.
+v2;210;Umarım uzun süre komşu olarak kalırız. / J'espère que nous resterons voisins encore quelques temps.
+v1;240;Ben de. / Moi aussi.
+
+newchat;key:talk7,v2:adult,v1:adult,notrel:spouse,weigth:10
+v1;0;Dün niye görmedim seni? / Pourquoi n'étiez-vous pas là hier ?
+v2;30;Kendimi iyi hissetmiyordum. / Je ne me sentais pas très bien.
+v1;60;Neyin vardı? / Qu'est-ce qui n'allait pas ?
+v2;90;Midem çok fenaydı. / J'avais mal à l'estomac.
+v1;120;şimdi daha iyi hissediyor musun? / Vous vous sentez mieux maintenant ?
+v2;150;Hala çok iyi hissetmiyorum. / Je ne me sens pas encore très bien pour le moment.
+v1;180;Kendini daha iyi hissetmek için bir şeyler yapmak ister misin? / Vous voulez quelque chose pour vous sentir mieux ?
+v2;210;Hayır,teşekkür ederim. Zaten birkaç tane ilaç aldım. / Non merci, j'ai déjà pris quelques médicaments.
+v1;240;Umarım iyileşirsin. / J'espère que ça ira mieux.
+v2;270;Teşekkür ederim. / Merci.
+
+newchat;key:talk8,v2:female,v1:female,notrel:spouse,weigth:6
+v1;0;Haberleri duydun mu? / Tu as entendu les dernières nouvelles ?
+v2;30;Hiçbir şey duymadım. / Non pourquoi ?
+v1;60;Komşumun geçen hafta bebeği oldu. / Mon voisin a eu son bébé la semaine dernière.
+v2;90;Hiçkimse bana söylemedi. / Personne ne me l'a dit.
+v1;120;Senin duyduğunu zannediyordum. / Je pensais que tu le savais.
+v2;150;Bana hiçbir şey söylenmedi. / On ne m'a rien dit.
+v1;180;çok tatlı bir bebek, maşallah. / C'est une mignonne petite fille, maşallah.
+v2;210;Wow, ne heyecan verici. / Comme c'est excitant !
+v1;240;Değil mi, komşumu ve bebeğini görmeye kesinlikle gitmelisin. / Je sais, tu devrais vraiment aller les voir, elle et le bébé.
+v2;270;Tabi ki, gideceğim. / Bien sûr que je le ferai !
+v1;300;Sadece ne olduğunu bilmeni istedim. / Je voulais juste vous faire savoir ce qu'il s'était passé.
+v2;330;Buna müteşekkirim. / Je t'en remercie.
+
+newchat;key:talk9,v2:female,v1:male,notrel:spouse,weigth:6
+v1;0;Benimle birzaman tarlaya gelir misin? / Vous voulez aller dans les champs avec moi ?
+v1;30;Ne zaman gitmek istersin? / Quand voulez-vous y aller ?
+v1;60;Önümüzdeki Cuma günü ne dersin? / Que diriez-vous de vendredi prochain ?
+v1;90;Üzgünüm, gelemem. O gün bir arkadaşımla akşam yemeği için buluşacağım. / Je suis désolé, je ne peux pas. Je dîne avec un ami.
+v1;120;Ya gelecek Salı? / Et le mardi suivant ?
+v1;150;Salı günleri akşam camii dersine gidiyorum. / Je vais à la classe à l'école coranique de la mosquée le mardi.
+v1;180;Oh, belki başka zamana gideriz? / Oh, peut-être une autre fois ?
+v1;210;Evet, ben sena haber ederim. / Oui, je vous le dirai.
+
+newchat;key:newhamam,v2:adult,v1:adult,building:hamambath,weigth:10
+v1;0;Selam $targetfirstname. / Bonjour $targetfirstname.
+v2;30;Selam! / Salut !
+v1;60;Yeni hamamı gördünmü? / Tu as rencontré le nouvel hamam ?
+v2;90;Hayır daha görmedim. / Non pas encore.
+v1;120;Tez görmememiz gerekiyor! / Nous devons le rencontrer rapidement !
+v2;150;Hayırdır $targetfirstname. / Oui $targetfirstname. Tu as bien raison.
+v1;180;Hayır Hayır, temizlik imandandir. / Oui oui, c'est vrai, vous savez, être propre vis à vis de la religion.
+v2;210;Peki ozaman bir gidib bakalim. / D'accord, nous irons le voir.
+v2;240;Bir Saate olurmu sence. / Mais quand, dans une heure ?
+v1;270;Ya olmaz, şimdi gidelim. / Non, allons-y maintenat.
+v2;300;Tamam tamam, bu ne telaş arkadaş. / D'accord, mais pourquoi cette hâte mon ami ?
+v2;330;Nerden gidiyoruz? / Où devons-nous aller ?
+v1;360;Asılda biraz bekleyebiliriz. / Nous pouvons attendre encore un peu.
+v2;390;Of, herzaman ayni şeyler $targetfirstname. / C'est tout le temps la même chose avec toi, $targetfirstname.
+
+newchat;key:newmosque,v2:adult,v1:adult,building:smallmosque,weigth:10
+v1;0;Bu cami kadar güzel bir bina gördün mü kardeşim?
+v2;30;Hayir daha görmedim.
+v2;60;Nesaman yapildi? Güzelmiş.
+v1;90;çok oldu be ya.
+v2;120;Allah Allah.

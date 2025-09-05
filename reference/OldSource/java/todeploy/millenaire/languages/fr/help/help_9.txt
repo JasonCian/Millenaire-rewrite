@@ -1,0 +1,16 @@
+version:3.4
+<darkblue>Les Indiens
+
+Ils viennent du nord de l’Inde et vivent dans trois types de villages : militaires autour d’un fort, agricoles autour de la demeure du chef et royaux autour d’un palais avec deux hameaux associés. Ils parlent hindi, mais leurs dialogues seront traduits au fur et à mesure que le joueur « apprend » leur langue en parlant avec eux.
+
+<darkblue>Objets et blocs uniques
+
+-Les Indiens cultivent du riz et du curcuma. Le joueur peut demander au chef de lui apprendre comment cultiver ces plantes
+-Les briques de terre et les briques cuites, produites en laissant sécher au soleil des briques humides fabriqué avec un moule (achetable au village)
+-Les bas-reliefs indiens, représentant des divinités et sont fabriquées par le sculpteur
+-Les délicieux rasgullas, sucreries fabriquées avec de la canne à sucre
+
+<darkblue>Recettes spécifiques (sans forme)
+
+-Un riz et un curcuma produisent un carri végétarien
+-Un riz, un curcuma et un poulet cru produisent un carri murgh

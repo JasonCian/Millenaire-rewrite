@@ -1,0 +1,7 @@
+sells=ulu,bow,arrow,leatherhelmet,leatherchest,leatherlegs,leatherboots,furhelmet,furplate,furlegs,furboots,inuitbow,inuittrident
+
+buys=ulu,bow,arrow,leatherhelmet,leatherchest,leatherlegs,leatherboots,furhelmet,furplate,furlegs,furboots,inuitbow,inuittrident
+
+buysoptional=normanPickaxe,normanAxe,normanShovel,normanHoe,mayanmace,mayanpickaxe,mayanaxe,mayanshovel,mayanhoe,yumibow,japaneseguardboots,japaneseguardHelmet,japaneseguardLegs,japaneseguardPlate,mayanmace,stoneSword
+
+deliverto=ulu,bow,arrow,leatherhelmet,leatherchest,leatherlegs,leatherboots,furhelmet,furplate,furlegs,furboots,inuitbow,inuittrident,normanBroadsword,normanPickaxe,normanAxe,normanShovel,normanHoe,normanHelmet,normanplate,normanLegs,normanBoots,brickmould,mayanmace,mayanpickaxe,mayanaxe,mayanshovel,mayanhoe,byzantineMace,byzantineHelmet,byzantinePlate,byzantineLegs,byzantineBoots,yumibow,tachisword,japaneseguardboots,japaneseguardHelmet,japaneseguardLegs,japaneseguardPlate,japaneseblueboots,japanesebluehelmet,japanesebluelegs,japaneseblueplate,japaneseredboots,japaneseredhelmet,japaneseredlegs,japaneseredplate,mayanmace,stoneSword,steelSword,steelHelmet,steelChest,steelLegs,steelBoots,steelSword,steelHelmet,steelChest,steelLegs,steelBoots,diamondSword,diamondHelmet,diamondChest,diamondLegs,diamondBoots

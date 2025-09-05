@@ -1,0 +1,30 @@
+//Parameters for the building as a whole
+building.length=18
+building.width=25
+building.buildingorientation=0
+building.version=2
+building.icon=wool_white
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Elevage ovin
+initial.priority=1000
+initial.male=shepherd
+initial.female=shepherdf
+initial.tag=sheeps
+initial.tag=chicken
+initial.shop=sheepchickenfarm
+
+//Parameters for specific upgrades
+upgrade1.priority=100
+
+upgrade2.priority=95
+
+upgrade3.priority=90
+
+upgrade4.priority=85
+upgrade4.pathlevel=1
+
+upgrade5.priority=80
+

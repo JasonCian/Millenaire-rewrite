@@ -1,0 +1,15 @@
+
+0;Främling;Vi är försiktiga med främlingar här, nykommling. Men var snäll mot oss så kommer folk vara gästvanliga.
+4*64;Känd;Vi har sett dig här förut, och inga kycklingar har forsvunnit. Fortsätt så här så kommer vi bli vänner.
+8*64;Känt ansikte; Du  har gjort ett gott intryck på oss.
+16*64;Återkommande besökare;Välkommen, $name! Det är kul att du är här igen.
+32*64;Utforskare; du verkar också vara strandad i denna värld. Vi kan utforska denna världen tillsammans och få ihop en förtjänst!
+64*64;Favorit handlare;Ah, $name! Alla byborna längtade efter att du skulle komma tillbaka.
+2*64*64;Vän till byn;Vi Normaner är inte kända för att lätt lita på folk, men min goda vän $name, du har verkligen visat att vi kan lita pa dig!
+4*64*64;Allierad;I en märklig värld som denna så behöver man allierade. Betrakta oss som allierade, som tack för all hjälp du har gett oss.
+8*64*64;En av oss;Det är alltid kul att se dig $name. Du må komma från fjärran land, men du är verkligen en av oss nu.
+32*64*64;Naturlig ledare,$name, du har förtjänat Normandernas tillit och respekt. De kommer att följa dig överallt.
+16*32*64*64;Nästa Kinniken;
+-64;Olägenhet;Vi håller koll på dig, $name. Var på din vakt.
+-4*64;Obehaglig främling;Du har verkligen varit en olägenhet här. Var glad att vi inte har sparkat ut dig än.
+-16*64;Allmän fiende;Din närvaro här är nästan inte uthärdlig längre. Ett felsteg och du är körd.

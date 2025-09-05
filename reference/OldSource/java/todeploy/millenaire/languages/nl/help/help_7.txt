@@ -1,0 +1,10 @@
+
+version:3.4
+<darkblue>Quests
+Quests zijn extra taken die je kan uitvoeren voor de dorpelingen. Als een quest beschikbaar is zal deze in de vierkante haken boven het hoofd van de dorpeling worden weergegeven, bijvoorbeeld: "<darkblue>[Thirsty!]<black>." Druk met de rechtermuisknop op de dorpeling voor een beschrijving van de taak en de mogelijkheid om hem te accepteren of af te wijzen. Quests worden beloont met geld, reputatie of objecten. Sommige quests behoeven een goede reputatie met het dorp voordat ze mogelijk zijn.
+Om uit te vinden welke quests je hebt geaccepteerd en wat je moet doen, druk "M".
+<darkblue>Creatie Quest
+Deze speciale collectie bevat vele missies en heeft 2 afzonderlijke hoofdstukken, gefocust op de Normandische en Indiase culturen. De eerste missie van elk hoofdstuk wordt gegeven door een Indiase of Normaanse dorpeling zodra je de "vriend van het dorp" reputatie hebt bereikt (de quest begint willekeurig, dus het kan even duren voordat hij beschikbaar is).
+Beide quests benodigen een alleenstaand gebouw dat je moet vinden. Je moet zoeken tot je het vind. Wees opgepast want ze zijn zeer zeldzaam. Afgezien van andere geÔsoleerde gebouwen kun je ze zien met de "V" knop.
+Deze speciale missie is, in essentie, een set van talrijke missies verdeeld in twee onafhankelijke hoofdstukken, gecentreerd op de Normandische en Hindoe culturen. De eerste missie van elke hoofdstuk zal beschikbaar worden gemaakt door in Hindoe of Normandische leider, wanneer de spelen een reputatie van "Vriend van de Dorp" heeft (de speler gaat misschien moeten wachten totdat de eerste missie beschikbaar wordt, ook al heeft de speler de benodigde reputatie)
+In beide eerste missies ga je een speciale, geïsoleerde gebouw moeten vinden; je moet de wereld exploreren totdat je ze vind. Let echter op dat ze uniek zijn en in tegenstelling tot de normale geïsoleerde gebouwen zijn de unieke gebouwen in de list van je dorpen dat je kan zien door de "V" knop te drukken.

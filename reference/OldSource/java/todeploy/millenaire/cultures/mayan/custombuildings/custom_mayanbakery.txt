@@ -1,0 +1,1 @@
+native:Chak;gameNameKey:mayanbakery_A0;tag:oven;tag:bakery;tag:leasure;craft:1;chest:2-6;sign:1

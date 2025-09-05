@@ -1,0 +1,15 @@
+building.length=8
+building.width=4
+building.max=0
+building.buildingorientation=3
+building.icon=banner_white
+building.isborderbuilding=true
+building.areatoclear=1
+
+initial.startlevel=-1
+initial.nativename=Pýli
+initial.tag=borderpostsign
+initial.tag=patrol
+
+upgrade1.priority=10
+upgrade1.pathlevel=1

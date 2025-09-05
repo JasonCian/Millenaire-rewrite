@@ -1,0 +1,22 @@
+//Parameters for the building as a whole
+building.length=8
+building.width=9
+building.buildingorientation=3
+building.version=2
+building.maxdistance=0.8
+building.icon=book
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Presbytère
+initial.priority=500
+initial.male=priest
+initial.pathlevel=1
+
+//Parameters for specific upgrades
+upgrade1.priority=50
+
+upgrade2.priority=45
+upgrade2.pathlevel=2
+

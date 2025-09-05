@@ -1,0 +1,3 @@
+sells=wool_white,mutton,cooked_mutton,feta,leather,bone,wheat
+buys=wood_pine,wood_acacia,winefancy,wheat
+buysoptional=wood,wood_birch,wood_jungle,wood_darkoak

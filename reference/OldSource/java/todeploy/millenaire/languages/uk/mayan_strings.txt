@@ -1,0 +1,45 @@
+culture.mayan = Майя
+
+villager.mayan_boy = Хлопчик
+villager.mayan_girl = Дівчинка
+villager.mayan_teenagerMale = Майбутній воїн
+villager.mayan_teenagerFemale = Скво
+villager.mayan_lumberman = Лісоруб
+villager.mayan_miner = Шахтар
+villager.mayan_shaman = Шаман
+villager.mayan_peasant = крестянин
+villager.mayan_peasantwife = Селянка
+villager.mayan_leader = Вождь
+villager.mayan_richwoman = Цариця
+villager.mayan_warrior = Воїн
+villager.mayan_chieftain = Вождь
+villager.mayan_crafter = Ремісник
+villager.mayan_armysmith = Зброяр
+villager.mayan_sculptor = Різьбяр
+villager.mayan_shamanwife = Дружина шамана
+villager.mayan_king = Вождь
+villager.mayan_merchant = Купець
+villager.mayan_chickenfarmer = Птицелов
+villager.mayan_farmer = Сборщик маїсу
+villager.mayan_obsidiancrafter = Ремісник по обсидіаном
+villager.mayan_cocoafarmer = Какао фермер
+
+villager.lonemayanfarmer = Одинокий фермер
+villager.lonemayanpeasantwife = Дружина фермера
+villager.lonemayanshaman = Шаман
+villager.lonemayanshamanwife = Дружина шамана
+villager.mayanbanditboy = Беспризорник
+villager.mayanbanditwarrior = Бандит
+villager.mayanfemalebandit = Бандитка
+
+villager.merchant_mayanfarmer = Торговець маїсом
+villager.merchant_mayanhunter = Торговець дичиною
+villager.merchant_mayanshaman = Торговець амулетами
+
+shop.mayantownhall = Основний магазин
+shop.mayancrafter = Інструменти
+shop.mayanarmyforge = Зброя і броня
+shop.mayansheepchickenfarm = Курячі продукти
+shop.mayanobsidiancrafter = Вироби з обсидіану
+shop.lonemayanfarm = Продукти сільського господарства
+shop.mayancocoa = Какао і какауха

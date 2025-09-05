@@ -1,0 +1,120 @@
+List of valid parameters for building files that applies for the entire building with the 'building.' prefix.
+
+length (integer value):
+Length of the building. In the PNG file, this is the picture's height.
+
+width (integer value):
+Width of the building. In the PNG file, this is the width of every floor in the picture.
+
+areatoclear (integer value):
+Area to clear around the building.
+Default value: 5
+
+areatoclearlengthbefore (integer value):
+Area to clear around the building on the length axis before the building. If set to -1 (default), the areaToClear value will be used.
+Default value: -1
+
+areatoclearlengthafter (integer value):
+Area to clear around the building on the length axis after the building. If set to -1 (default), the areaToClear value will be used.
+Default value: -1
+
+areatoclearwidthbefore (integer value):
+Area to clear around the building on the width axis before the building. If set to -1 (default), the areaToClear value will be used.
+Default value: -1
+
+areatoclearwidthafter (integer value):
+Area to clear around the building on the width axis after the building. If set to -1 (default), the areaToClear value will be used.
+Default value: -1
+
+buildingorientation (integer value):
+Orientation of the building within the plan. 1 means the building 'faces' to the left of the PNG file.
+Default value: 1
+
+altitudeoffset (integer value):
+Amount by which this building should be raised or lowered compared to the "ground level".
+Default value: 0
+
+foundationdepth (integer value):
+How deep the foundations of the building should be.
+Default value: 10
+
+fixedorientation (A direction, such as 'east' or 'north'):
+A fixed direction the building will be oriented to face (instead of facing the town hall like normal).
+
+icon (item (from itemlist.txt)):
+Name of a good whose icon represents this building.
+
+travelbook_category (string (case-insensitive)):
+Category in the Travel Book to appear in.
+
+travelbook_display (boolean):
+Whether to display this building in the Travel Book.
+Default value: true
+
+startingsubbuilding (string (multiple parameters possible)):
+Sub-buildings generated when this building is spawned.
+
+issubbuilding (boolean):
+Whether this is a sub-building.
+Default value: false
+
+parentbuildingplan (string (case-insensitive)):
+Optional parent plan (used when importing the sub-building).
+
+version (integer value):
+'Version' of the building. Changing this will stop buildings started with a previous version from getting upgraded to the new one.
+Default value: 0
+
+max (integer value):
+Maximum amount of this building in a village (can be overriden in a village's config).
+Default value: 1
+
+mindistance (floating point value):
+Minimum distance from the village centre, on a scale of 0 to 1.
+Default value: 0.0
+
+maxdistance (floating point value):
+Maximum distance from the village centre, on a scale of 0 to 1.
+Default value: 1.0
+
+farfromtag (string and integer: 'test,12'):
+Must be build at least this distance from any building with the provided tag.
+
+closetotag (string and integer: 'test,12'):
+Must be build at least this close to a building with the provided tag.
+
+reputation (integer value):
+If non-0, the reputation the player must have to request that this building be built.
+Default value: 0
+
+price (integer value):
+If non-0, the price the player must pay to request that this building be built.
+Default value: 0
+
+isgift (boolean):
+Whether the building is a gift house, available to donors.
+Default value: false
+
+showtownhallsigns (boolean):
+Show townhall-style signs (if this is a town hall). If false, show house signs
+Default value: true
+
+startinggood (item, chance, fixed number, maximum bonus number ('leather,0.5,8,8' for between 8 and 16 leather 50% of the time)):
+Items to add to the building's chest when generated (used for loot in abandonned lone buildings).
+
+iswallsegment (boolean):
+This building is part of the city walls. It will be build by dedicated wall builders.
+Default value: false
+
+isborderbuilding (boolean):
+This building is a 'border' building, like city walls, but will be built by regular builders.
+Default value: false
+
+weight (integer value):
+Generation weight. The higher it is, the more chance that this plan will be picked. Only used when there are more than one variation of a building.
+Default value: 1
+
+randombrickcolour (Example: 'white;white:50,yellow:40,orange:30' means that white coloured bricks can turn into white, yellow or orange bricks, with weights of 50, 40 and 30 respectively.):
+Colours that painted bricks can randomly turn to.
+
+

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "items/mutton_raw",
+    "particle" : "items/mutton_raw"
+  }
+}

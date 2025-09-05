@@ -1,0 +1,19 @@
+
+version:3.4
+<darkblue>Reputación y Jefe de la aldea
+Cada aldea en Millénaire tiene una opinión sobre ti, neutral al comienzo y cambiando acorde a tus acciones. Esta reputación es muy importante: muchas recompensas sólo son posibles de obtener con una buena reputación, y si tu reputación se convierte en muy mala, los aldeanos pueden negarse a negociar contigo. Puedes comprobar tu reputación hablando (<darkblue>Click-Derecho<black>) con el jefe de la aldea.
+La principal forma de mejorar tu reputación es comerciar con la aldea. Tanto tus compras como las ventas mejora tu reputación en proporción al precio. Incluso puedes mejorar tu reputación realizando misiones para ellos. Por el contrario, atacar a una aldea o fallando ciertas misiones dañará tu reputación.
+También tienes una <darkblue>reputación con cada cultura<black>. Esta reputación es afectada por todas tus relaciones con las aldeas de esta cultura, y afecta a tu comercio con el resto de aldeas de la misma cultura. Por ejemplo, si tienes una muy buena reputación con una aldea normanda, a las otras aldeas normandas les gustarás (un poco) más. Puedes comprobar tu reputación con cada cultura en la pantalla de información (tecla "M" por defecto).
+<darkblue>Acciones que requieren cierta reputación
+<darkblue>Comprar un pergamino de la aldea
+Con suficiente buena reputación puedes comprar un pergamino de la aldea al jefe de la aldea. Este pergamino incluye toda la información que puedas encontrar en los diferentes carteles de la aldea.
+<darkblue>Comprar una casa
+Una vez que tienes suficiente buena reputación, puedes comprar una casa (o un terreno para construir en él) hablando con el jefe de la aldea. Tu casa será construida por la aldea después de que la construcción en marcha sea finalizada. A diferencia del resto de la zona alrededor de la aldea, este edificio te pertenece y puedes personalizarlo a tu antojo.
+<darkblue>Aprender a plantar un cultivo
+Puedes aprender a plantar los cultivos específicos de Millénaire usados por algunas culturas. Ponte en contacto con el jefe de la aldea una vez que tengas suficiente reputación.
+<darkblue>Comprar artículos adicionales
+Algunos objetos valiosos requieren tener una buena reputación en la aldea. Si no tienes la reputación necesaria para comprar un artículo, esto será indicado en la pantalla de comercio.
+<darkblue>Misiones adicionales
+Algunas misiones, incluyendo la misión Aventura de la Creación, sólo se pueden iniciar con una buena reputación (ver <darkblue>"Misiones"<black>).
+<darkblue>Convertirse en lider de una cultura
+Una vez que hayas alcanzado la máxima reputación (<darkblue>"Líder natural"<black>) puedes construir una aldea donde serás el líder (ver <darkblue>"Creando aldeas"<black>).

@@ -1,0 +1,14 @@
+
+version:3.4
+<darkblue>Handel
+Det mest vanliga interaktionen med bybor kommer att vara byteshandel - du kan sälja många varor till dom, och du kan köpa varor av dom, vilket inkluderar block och objekt som är speciella för Millénaire. För att byta med en bybo gå till huvud byggnaden (eller en annan affär) och vänta på en bybo som det står "Säljer till spelaren" som visas ovanför huvudet sedan. <darkblue>Höger-musknapp<black>  På bybon för att öppna bytes panelen.
+Millénaire Bybor kan bara sälja saker som de har i lager, och du kan bara sälja saker som byn behöver (behovet beror på vilken typ av by det är).
+All handel med bybor sker med "Denarer", En Fransk medeltids valuta. Det finns tre typer av Denarer; Standard Denarer, Silver Denarer värda 64 st standard Denarer, samt guld Denarer som är värda 64 Silver Denarer.
+<darkgreen>Tips: På kartan över byn (Som du når genom Höger-musknapp rätt skylt i byns huvud byggnad), Affärer visas när du för musen över byggnadena.
+standard denarer,
+"deniers argent" (silver denarer)
+värda 64 denarer,
+och "deniers or" (guld denarer)
+värda 64 deniers argent
+<darkgreen> Tips:
+bykartan (som du får genom att höger-clicka på kart panelen i den centrala byggnaden), affärerna står listade när du håller musen över byggnaderna

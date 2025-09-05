@@ -1,0 +1,24 @@
+marvel_norman_1_picklocation_0_label=虔诚的愿景
+marvel_norman_1_picklocation_0_description=$name，你听到这个鼓舞人心的消息了吗？一位来自法兰克东部土地的伟大建筑师，著名的 Nicolas de Weilbourg，一直在附近的村庄游览，为建造一座伟大的大教堂，一座纪念碑，以表达我们对这片新异土地的信仰！虽然他不是诺曼人，但是自从他来到诺曼底寻找值得他才华横溢的工作以来，他已经学习了我们的建筑。<ret><ret>附近的领主和我一直在争论这个奇迹应该建在哪里——他们似乎无法认识到$startvillager_villagename$是唯一值得一去的地方。这是一座纪念碑。但也许你能帮我们打破僵局，找出各方都能接受的合适地点？
+marvel_norman_1_picklocation_0_description_success=非常感谢，$name。你需要一个“召唤权杖”——如果你还没有拥有这个强大的物品，我们可以卖给你一个。当你找到一个合适的地点，远离现有的定居点，有充足的自由空间，用它来标记选中的地点，然后回来看我。
+marvel_norman_1_picklocation_0_description_refuse=这使我非常伤心。
+
+marvel_norman_2_generate_0_label=选择地点
+marvel_norman_2_generate_0_description=啊，$name！你对你所选择的地点满意吗？我迫不及待地想看到伟大的 Nicolas 工作！
+marvel_norman_2_generate_0_description_success=这的确是一个极好的位置。我相信大师很快就会开始工作的。
+marvel_norman_2_generate_0_description_refuse=你是对的，这不是一个轻视的决定。当你确信时再来。
+
+marvel_norman_3_searchhelp_0_label=请求帮助
+marvel_norman_3_searchhelp_0_description=$name，很荣幸终于见到你。你选择的地点是一个启发性的位置！<ret><ret>我可以再请你帮个忙吗？我们总是需要更多的贡献来创造奇迹。越多的村庄致力于帮助我们，我们就会越快地收集资源，完成这项伟大的工作——正如你可以在我们的“捐赠”面板中看到的。<ret><ret>你愿意拿着朝圣者的棍子去每一个你能找到并传播我们工作的消息的诺曼村庄吗？
+marvel_norman_3_searchhelp_0_description_success=寻找每一个村庄的领袖——他们肯定愿意为上帝和我尽自己的责任。
+marvel_norman_3_searchhelp_0_description_refuse=你不是一个有信仰的人，$name。
+
+marvel_norman_4_gethelp_0_label=接受答复
+marvel_norman_4_gethelp_0_description=欢迎，$name！<ret><ret>我们听到一位著名建筑师提出一座大教堂的消息，你有什么消息吗？
+marvel_norman_4_gethelp_0_description_success=壮观的！多么令人印象深刻的工作啊！$startvillager_villagename$ 将为它做出贡献。请放心，从现在起，我们将定期为这项伟大的工作做出贡献。
+marvel_norman_4_gethelp_0_description_refuse=那真是不幸的。
+
+marvel_norman_5_return_0_label=向建筑师汇报
+marvel_norman_5_return_0_description=$name，我们已经收到通知，捐款应该很快到达！这将大大提高我们建造这座大教堂的速度。我对你感激不尽！
+marvel_norman_5_return_0_description_success=再次感谢！
+marvel_norman_5_return_0_description_refuse=我没有别的要求！

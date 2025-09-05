@@ -1,0 +1,42 @@
+﻿villager.greeting=Konnichiwa, $name-san! / こんにちは、 $nameさん!
+villager.greeting=Oi. / おい。
+villager.greeting=Ogenki desuka, $name-san  / げんきかい、 $nameさん?
+villager.greeting=Kawatta koto aru? / 変わったことある？
+villager.greeting=Hajimemashite / はじめまして。
+villager.greeting=Yokoso. / ようこそ。
+villager.greeting=Gokigenyou. / ごきげんよう。
+
+villager.gorest=Watashi niwa kyu-kei ga hituyou desu. / 私には休憩が必要です。
+villager.gorest=A-, mou neru jikan da / あー、もう寝る時間だ。
+villager.gorest=Watashi wa totemo tukarete imasu./ 私はとっても疲れています。
+
+villager.gopray=Watashi wa housaku no tame ni megami Uga-no-Mintama ni inori masu. / 豊作のため、女神「宇賀魂命」に祈ります。
+villager.gopray=Kami wa watashitachi wo aku kara osukui ni naru. / 神は私達を悪からお救いになる。 
+
+villager.BringBackResourcesHome=Cho cho cho... / ちょ、ちょ、ちょ・・・
+villager.ChopTrees=Watashi wa nanbonka no ki wo bassai suru tsumori da. / 何本かの木を切ってくるつもりだ。
+villager.GatherGoods=Watashi wa ikutuka no souchi ga hituyou da. / 私はいくつかの資源が必要だ。
+villager.PlantSaplings=Watashi wa korera no naegi wo ueru tumori desu. / 私はこれらの苗木を植えに行くつもりです。
+
+villager.SlaughterChicken=Anata wa dareka no tame ni subarashii shokuji wo tukuru darou. / あなたは誰かのために素晴らしい食事を作るだろう。
+
+villager.GetHouseResources=Watashi wa ie kara nanika totte konakereba ikenai. / 家から何か取って来なければいけない。
+villager.GetGoodsHousold=Watashi wa ie ni korera no mono ga hituyou desu. / これらが家に必要です。
+villager.DeliverGoodsHousold=Watashi wa mise kara syokuryou wo eta. / 市場から食べ物を買って来ました。
+
+villager.GetResourcesForBuild=Watashi wa motto takusan no zairyou ga hituyou desu. / もっとたくさんの材料が必要だ。
+villager.ConstructionStepByStep=Watashi no chichi wa kentiku no houhou ni tuite watashi ni oshieta. / 父から建築を教わったんだ。
+villager.ConstructionStepByStep=Watashi wa kami ga watashi no kenchiku wo kiniiru koto wo negatte imasu. / 神様は私の建築を気に入ってくれるだろうか。
+
+villager.GoPlay=watashi wa asobitai desu. / 遊びたいです。
+villager.BecomeAdult=Seityou suru jikan. / 成長するまで。
+male.BecomeAdult=Watashi wa sensi ni naritai desu. / 私は武士になりたい。 
+female.BecomeAdult=Watashi wa ituka hahaoya ni naritai desu. / 私は母親になりたいです。
+villager.gopray.chosen=Kokoro wo otitukasete kudasai. / 心を落ち着かせるのです。
+
+villager.calltoarms=Mura wo mamore! / 村を守れ！
+villager.calltoarms=Karera wa watashitachi wo kougeki suru hi wo koukai suru darou! / 奴らに私達を襲ったことを後悔させてやれ！
+villager.calltoarms=Kuki wo mote! / 武器を持て！
+
+villager.MakeTools=Watashi wa naganen no aida saikoukyu no dougu wo koumyou ni tukutte iru. / 私は長年、最高級の道具を作っているんだ。
+villager.MakeWeapons=Saikoukyu no buki no himitu wa sisyou kara watashi ni uketugareta. / 最高級の武器の秘密は師匠直伝の技だよ。

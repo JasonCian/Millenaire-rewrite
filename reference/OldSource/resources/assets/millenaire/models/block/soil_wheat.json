@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "millenaire:blocks/soil_wheat",
+    "particle" : "millenaire:blocks/soil_wheat"
+  }
+}

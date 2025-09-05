@@ -1,0 +1,26 @@
+
+animistic_a0=의식의 사원
+armourerhouse_a0=무두장이의 집
+armoury_a0=무기고
+carver_a0=조각가의 집
+council_a0=공동회관
+farmp_a0=감자 농장
+farmp_b0=감자 농장
+farmw_a0=밀밭
+fisherman_a0=낚시꾼의 집
+foodpreparer_a0=식당
+foodprephouse_a0=요리사의 집
+grove_a0=벌목장
+grove_b0=벌목장
+grove_c0=벌목장
+grove_d0=벌목장
+guesthouse_a0=게스트하우스
+hunter_a0=사냥꾼의 집
+hunterex_a0=사냥꾼의 집
+lumberman_a0=나무꾼의 집
+market_a0=상점
+offering_a0=의식의 원
+shaman_a0=무당의 집
+shamanistic_a0=의식의 사원
+sodder_a0=뗏장장이의 집
+tannery_a0=가죽공방

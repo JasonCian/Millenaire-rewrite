@@ -1,0 +1,40 @@
+name=Apomonomeno Boske Probaton
+weight=1
+radius=10
+max=1
+
+travelbook_display=False
+
+//Vanilla biomes
+biome=Plains
+biome=Sunflower Plains
+biome=Savanna
+biome=Savanna M
+biome=Savanna Plateau
+biome=Savanna Plateau M
+
+//biomes o'plenty
+biome=chaparral
+biome=heathland
+biome=meadow
+biome=orchard
+biome=scrubland
+biome=shrubland
+biome=steppe
+
+keyLoneBuilding=true
+
+//starting buildings=
+centre=oldsheepfarm
+
+buyingPrice=wool_white,1
+buyingPrice=wood,1
+buyingPrice=wood_birch,1
+buyingPrice=wood_pine,1
+buyingPrice=wood_acacia,1
+buyingPrice=wood_jungle,1
+buyingPrice=wood_darkoak,1
+buyingPrice=cobblestone,1
+buyingPrice=quartz,1
+buyingPrice=byzantine_tiles,1
+buyingPrice=gold,1

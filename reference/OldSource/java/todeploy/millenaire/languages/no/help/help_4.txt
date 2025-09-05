@@ -1,0 +1,10 @@
+version:3.4
+<darkblue>Utvidelse av landsby
+
+Alle landsbyer starter som små rundt en hovedbygning (av varierende natur: festning, palass, kloster, etc... vanlig referert til som "rådhus"), med noen få hus eller andre bygninger. Landsbyboernes hovedmål er å utvide landsbyen deres ved å velge nye bygninger å bygge og forbedringer til eksisterende bygninger. Av den grunn så trenger de ressurser - de kan produsere noe selv (tømmermenn får tak i ved, gruvearbeiderne stein...) men er avhengig av spilleren for andre ting. Materialene de trenger for det planlagte byggeprosjektet er vist i hovedbygningen. Du kan hjelpe til ved å selge disse ressursene først.
+
+Landsbybefolkningen vil også øke over tid - om natten kan gifte landsbyboere få barn. Når de har vokst opp så vil disse barna flytte inn i nye hjem dersom noen er tilgjengelige, og bli voksne.
+
+Utvidelsen av en by vil vanligvis stoppe av en av to forskjellige grunner: enten fordi landsbyen har fullført alle mulige byggverk, eller fordi det ikke finnes mer plass. I det sistnevnte tilfellet så kan du se på landsbykartet for å se hvilke områder som det er umulig å bygge på. Det er noen ganger mulig å gjøre de brukbare, for eksempel ved å fylle opp en sjø.
+
+Noen ganger så kan en landsby trenge en blokktype du ikke kan skape selv, slik som normanniske og japanske bindingsverk. Du må vente til landsbyen setter opp et verksted og det flytter inn et barn som blir en håndverker.

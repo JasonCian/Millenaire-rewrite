@@ -1,0 +1,2 @@
+sells=bread
+buys=wheat

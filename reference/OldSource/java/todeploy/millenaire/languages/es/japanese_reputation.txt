@@ -1,0 +1,13 @@
+//* La parte antes del ";" Es el título, después de eso va la descripción.
+
+
+0;Extraño;No confiamos en los extraños fácilmente, antes debemos conocerte mejor.
+4*64;Cara Conocida;Ya te hemos visto por aquí antes, pero eso no significa que confiemos en ti.
+16*64;Visitante Regular;¿Cómo te ha ido en tus viajes $name?
+64*64;Comerciante Favorito;Ah, $name, tu llegada a nuestro pueblo nos llena de felicidad.
+2*64*64;Amigo del Pueblo;¡Hola Amigo! ¿Qué podemos hacer por tí hoy?
+8*64*64;Uno de los Nuestros;Hola, $name, hemos estado esperando tu regreso con gran entusiasmo.
+32*64*64;Líder Natural;$name, te has ganado la confianza y la lealtad de mi pueblo, ellos te seguirán a cualquier parte.
+-64;Molestia;¡Agh, eres tu! ¿Qué quieres?
+-4*64;Forastero Indeseable;¡Deja nuestra aldea inmediatamente, cerdo!
+-16*64;Enemigo Público;¿Cómo te atreves a aparecer por aquí? ¡Afronta tu castigo!

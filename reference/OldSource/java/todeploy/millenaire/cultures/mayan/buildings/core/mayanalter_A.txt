@@ -1,0 +1,18 @@
+//Parameters for the building as a whole
+building.length=10
+building.width=13
+building.buildingorientation=2
+building.icon=mayanstatue
+
+//Parameters for initial construction
+initial.startlevel=-2
+initial.nativename=K'eyem
+initial.priority=500
+initial.tag=sacrifices
+
+//Parameters for specific upgrades
+upgrade1.priority=50
+upgrade1.pathlevel=1
+
+upgrade2.priority=45
+

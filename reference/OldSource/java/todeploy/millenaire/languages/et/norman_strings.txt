@@ -1,0 +1,71 @@
+﻿
+culture.norman=Normannide
+
+//Norman:
+villager.abbot=Abt
+villager.carpenter=Puussepp
+villager.cattleFarmerMale=Mees veise farmer
+villager.cattleFarmerFemale=Nais veise farmer
+villager.boy=Poiss
+villager.girl=Tüdruk
+villager.teenagerMale= Meessoost nooruk
+villager.teenagerFemale=Naissoost nooruk
+villager.farmer=farmer
+villager.merchant_viking=Viikingist kaupmees
+villager.merchant_weapon=Relvade kaupmees
+villager.merchant_plant=Istikute kaupmees
+villager.merchant_art=Kunsti kaupmees
+villager.merchant_wool=Tekstiili kaupmees
+villager.merchant_food=Toidu kaupmees
+villager.guard=Valvur
+villager.guildmaster=Gildi meister
+villager.knight=Rüütel
+villager.lady=Daam
+villager.lumberman=Puuraidur
+villager.merchant=Kaupmees
+villager.miner=Kaevur
+villager.monk=Munk
+villager.priest=Preester
+villager.seneschal=Kubjas
+villager.smith=Sepp
+villager.wife=Abikaasa
+
+villager.innkeeperfemale=Nais kõrtsmik
+villager.innkeepermale=Mees kõrtsmik
+villager.lonemiller=Mölder
+villager.merchant_weapons=Relvade kaupmees
+villager.robberbaron=Bandiitide juht
+villager.robberleader=Bandiitide Liider
+
+villager.lonelumberman=Üksik puuraidur
+villager.lonelumbermantaiga=Üksiku puuraiduri taiga
+villager.loneminer=Üksik kaevur
+villager.lonemonk=Üksik munk
+villager.loneabbot=Üksik abt
+villager.alchemist=Alkeemik
+villager.alchemistassistant=Alkeemiku assistent
+villager.alchemistapprentice=Alkeemiku õpipoiss
+villager.bandit=Bandiit
+villager.armoredbandit=Soomustatud bandiit
+villager.felonbaron=Kurjategijast parun
+villager.felonsoldier=Kurjategijast sõdur
+
+
+
+shop.townhall=Keskuse pood
+shop.forge=Tööriistad
+shop.armoury= Soomus ja relvad
+shop.bakery=Leib
+shop.cattlefarm=Veise produktid
+shop.pigfarm=Sea produktid
+shop.sheepchickenfarm=Kana produktid ja vill
+shop.tavern=Alkohool
+shop.lumberman=Siidri õunad
+shop.lonemine=Kivi
+shop.alchemyworkshop=Alkeemiku produktid
+shop.lonelumberman=Puit ja õunad
+shop.lonemill=Leib
+shop.loneinn=Toitud ja joogid
+shop.lonelumbermantaiga=Puit
+shop.loneabbey=Produktid kloostrist
+

@@ -1,0 +1,23 @@
+//Parameters for the building as a whole
+building.length=19
+building.width=15
+building.mindistance=0.6
+building.icon=steelpickaxe
+
+//Parameters for initial construction
+initial.startlevel=-3
+initial.nativename=Saisekijou
+initial.priority=1000
+initial.male=japanese_miner
+initial.female=japanese_peasantwife
+
+//Parameters for specific upgrades
+upgrade1.startlevel=-4
+upgrade1.priority=200
+upgrade1.tag=oven
+
+upgrade2.priority=95
+
+upgrade3.priority=90
+upgrade3.pathlevel=1
+

@@ -1,0 +1,9 @@
+{
+	"forge_marker": 1,
+    "variants": {
+        "facing=north": { "model": "millenaire:empty" },
+        "facing=south": { "model": "millenaire:empty" },
+        "facing=east": { "model": "millenaire:empty" },
+        "facing=west": { "model": "millenaire:empty" }
+    }
+}

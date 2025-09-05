@@ -1,0 +1,234 @@
+//* Dialogue lines start with a code like "v2;30;" which specify who is speaking and when the line shows up. Please copy it exactly in your translations.
+//* First half of the line (till the /) is in the villagers' language and must be kept as-is, second part should be translated
+
+newchat;key:nights,tag:notraining,v1:adult,v2:adult,weigth:10
+v1;0;Geceleri hep değişik şeyler görüyorum. / 我总是在晚上看到不同的东西。 
+v2;30;Gündüzün şerri gecenin hayrından iyidir demişler. / 他们说白天的邪恶比黑夜的美好。
+v1;60;Haklısın $targetfirstname. / 你说得对， $targetfirst 。
+
+
+newchat;key:fatherandson,rel:child,v1:child,v2:vtype:turk_miner,weigth:10
+v1;0;Baba bana kazdığın en güzel cevheri söyler misin? / 爸爸，你能告诉我你挖的最好的矿石吗？
+v2;30;Bir düşüneyim.. Sanırım bir elmastı. / 让我想一想…我认为是钻石。
+v1;60;Tekrar bulursan bana da bir tane verir misin baba? / 如果您能再次找到它，能给我一个吗，爸爸？
+v1;90;Bulursam neden olmasın! $targetfirstname.  / 如果我找到了，为什么不呢？$targetfirstname.。
+
+
+newchat;key:iamam1,tag:notraining,v1:vtype:turk_imam,weigth:10
+v1;0;Allah yaptığımız her şeyi görür,$targetfirstname. / 真主会看到我们所做的一切， $targetfirstname 。
+v2;30;Öyledir hocam. / 是的，先生。
+
+
+newchat;key:kids1,tag:notraining,v1:child,weigth:10
+v1;0; Babam sürekli suçsuz hayvanları kesiyor! / 爸爸总是宰杀无辜的动物！
+v2;30; Fakat o et bize lazım olmasa baban bunu yapmaz. / 但如果那些肉对于我们来说不是必需品的话，你父亲不会这么做的。 
+ 
+ 
+newchat;key:talk1,v1:adult,v2:vtype:turk_localmerchant,weigth:10
+v1;0;Peki $targetfirstname, işler nasıl? / $targetfirstname，怎么了？
+v2;30;Her şey aynı değişen bir şey yok. / 一切都没有改变。 
+v1;60;Peki gezilerin hoşuna gidiyor mu? / 那你喜欢旅行吗？
+v2;90;Evet fakat ayaklarım da ağrıyor. / 是的，但是它也会让我脚疼。
+v1;120;Senda haklısın $targetfirstname. / 你说得对，$targetfirstname 。
+v2;150;Haklıyım tabii ya! / 那当然！
+
+
+newchat;key:talk2,v1:adult,v2:adult,weigth:10
+v1;0;Allah çalışanı sever. / 安拉爱工人。
+v2;30;Bende çalışmaktan çok memnunum! / 我也很高兴工作！
+
+
+newchat;key:talk3,v2:adult,v1:vtype:turk_fisherman,rel:spouse,weigth:10
+v1;0;Balıkçılık sabır işidir bilir misin karıcığım? / 你知道钓鱼是耐心的事吗，亲爱的？
+v2;30;Sadece balık tutma konusunda sabırlısın zaten! / 等你抓到鱼再说！
+
+
+newchat;key:whoisthis,v2:adult,v1:adult,weigth:10
+v1;0;Bu da kim böyle? / 这是谁？
+v2;30;Adını bilmiyorum fakat bu diyarlara yabancı birisi. / 我不知道他的名字，但他在这里是个陌生人。 
+v1;60;İçinde kötülük olmayan herkes bu diyarlara hoş gelmiştir. / 在这儿，任何心无恶念的人都会受到欢迎。
+v2;90;Doğru söylüyorsun. / 没错。
+
+
+newchat;key:kitchentalk,v2:adult,v1:adult,building:kitchen,weigth:10
+v1;0;Ayran kadar güzel bir içecek gördün mü kardeşim?  / 兄弟，你见过像艾伦这样的饮料吗？
+v2;30;Hayir daha görmedim. / 我没见过它。
+v2;60;Nerden aldın? Bende istiyorum. / 你从哪里弄来的？我也想要。
+v1;90;Yakında onu satan bir mutfak var. / 附件有个厨房。
+v2;120;Tamam çok sağol. / 好的，非常感谢。
+v2;150;Başka ne var biliyormusun? / 你还知道什么吗？
+v1;180;Balıktan pide ye kadar her şeyi düşünebilirsin. / 你可以从那得到任何你想要的食物，从鱼到披萨。
+v2;210;Iyimiş hemen gitmeliyim. / 那我先走了。
+
+
+newchat;key:religion,v2:adult,v1:adult,building:mosque,weigth:10
+v1;0;Namaz kılma vakti. / 该祈祷了。
+v2;30;Hadi ozaman vakiti geçirmiyelim. / 我们休息一下吧。
+
+
+newchat;key:religion2,v2:adult,v1:adult,notbuilding:mosque,weigth:10
+v1;0;Namaz kılma vakti. / 该祈祷了。
+v2;30;Hadi ozaman vakiti geçirmiyelim. / 我们休息一下吧。
+v1;60;Güzel bir Camiimiz olsa ne güzel olurdu demi $targetfirstname. / 你说如果我们有一个美丽的清真寺该多好， $targetfirstname。
+v2;90;Aynen Öyle kardeşim. / 没错，兄弟。
+
+
+newchat;key:ayran,v2:adult,v1:adult,building:kitchen,weigth:10
+v1;0;Biraz ayran içmeliyim.  / 我应该喝点酸奶。
+v2;30;İnşallah bugün han fazla dolu değildir. / 希望今天哪里还没满。
+v1;60;Evet İnşallah, dün gibi olmasın. / 没错，我希望不会像昨天那样。
+v2;90;Aynen, ve ayran içersem yorgunluğum da geçer. / 没错，如果我分开喝酸奶，就很无聊了。 
+v1;120;Doğru söylüyorsun. / 你说得对。 
+
+
+
+newchat;key:buyingwallcarpet,v2:vtype:turk_weaver,v1:adult,building:weaver,weigth:10
+v1;0;Merhaba. Bir halı almak isiyorum. / 你好，我想买地毯。
+v2;30;Tabi. Nasıl bir şey olsun? / 好的，为了什么呢?
+v1;60;Bilmiyorum. Bugün eşimin doğum günü olduğu için bir hediye almak istedim. Siz ne tavsiye edersiniz? / 我不知道。 我想买一份礼物，因为今天是我妻子的生日。 你有什么推荐的吗？
+v2;90;Kırmızı halı ya ne dersiniz? / 红地毯怎么样
+v1;120;Tamam, harika bir fikir. / 不错，好主意
+v2;150;Kaç tane istersiniz? / 你要多少？
+v1;180;Bir olsun. İyi bir paketleme yapabilir misiniz? / 一个就可以了，你能帮我包装一下吗？
+v2;210;Tabi efendim. Kendiniz mi vereceksiniz, biz mi götürelim? / 好的，先生。你是要自己拿还是我们帮你送？
+v1;240;Kendim vereceğim. Teşekkür ederim. / 我自己拿，谢谢。
+
+
+newchat;key:couple1,v2:adult,v1:adult,rel:spouse,weigth:10
+v1;0;Hayirlı günler. / 早上好。
+v1;30;iyi uyudun mu? / 你睡得好吗？
+v2;60;Iyidi çok şükür. / 是的，很好。
+v1;90;kahvaltıda ne yersin / 你早餐想吃什么。
+v2;120;Bilmiyorum sence? / 我不知道，你呢？
+v1;150;Bende bilmiyorum. / 我不知道。
+
+
+newchat;key:talk4,v2:adult,v1:adult,weigth:10
+v1;0;Günün nasıl geçti? / 你今天过得怎么样。
+v2;30;Kötü, çok yoğundu. / 很忙。
+v2;60;Yoruldum yani. / 所以我累了。
+v1;90;Ayran içer misin? / 你想来杯艾兰吗？
+v2;120;Evet iyi olur aslında. / 很好，谢谢。
+
+
+newchat;key:talk5,v2:adult,v1:adult,notrel:spouse,weigth:10
+v1;0;Merhaba $targetfirstname / 你好 $targetfirstname 。
+v1;30;Bugün nasılsın? / 你今天好吗？
+v2;60;Sağol iyiyim / 谢谢你，我很好。
+v1;90;Ailen nasıl, iyi mi? / 你的家人怎么样，他们过得好吗？
+v2;120;Evet onlar da iyiler / 谢谢你，他们也很好。
+v1;150;Havalar da ne sıcak değil mi? / 天气很热，不是吗？
+v2;180;Evet gerçekten çok sıcak / 是的，真的很热。
+v1;210;Ailene selam söyle / 向你的家人问好。
+v2;240;Sağol sen de söyle / 谢谢，你也向你的家人问好。
+v1;270;Hoşçakal. / 再见。
+
+
+newchat;key:talk6,v2:adult,v1:adult,notrel:spouse,weigth:10
+v1;0;Ne zaman taşındın? / 你什么时候搬进来的？
+v2;30;Geçtiğimiz hafta. / 刚刚过去的这个周末。
+v1;60;Evin satıldığını bile bilmiyordum. / 我都不知道房子卖了。
+v2;90;Bu evi çok seviyorum, bu yüzden taşınmak zorundaydım. / 我非常喜欢这所房子，所以我必须搬进来。
+v1;120;Anlıyorum, çünkü bu ev sıradışı. / 我明白了，因为这房子很特别。
+v2;150;Ne zamandan beri evinde yaşıyorsun? / 你在家住了多少年了？
+v1;180;Ben uzun süredir burada yaşıyorum. / 我在这里住了很长时间。
+v2;210;Umarım uzun süre komşu olarak kalırız. / 我希望我们能做很长一段时间的邻居。
+v1;240;Ben de. / 我也是。
+
+
+newchat;key:talk7,v2:adult,v1:adult,notrel:spouse,weigth:10
+v1;0;Dün niye görmedim seni? / 你昨天为什么不在这里？	
+v2;30;Kendimi iyi hissetmiyordum. / 我感觉不太舒服。
+v1;60;Neyin vardı? / 你怎么了？
+v2;90;Midem çok fenaydı. / 我的胃不舒服。
+v1;120;şimdi daha iyi hissediyor musun? / 你现在感觉好些了吗？
+v2;150;Hala çok iyi hissetmiyorum. / 我觉得还不太舒服。
+v1;180;Kendini daha iyi hissetmek için bir şeyler yapmak ister misin? / 你想要点什么能让你感觉好点的吗？	
+v2;210;Hayır,teşekkür ederim. Zaten birkaç tane ilaç aldım. / 不，谢谢。我已经吃药了。	
+v1;240;Umarım iyileşirsin. / 我希望你感觉好些。
+v2;270;Teşekkür ederim. / 谢谢。
+
+
+newchat;key:talk8,v2:female,v1:female,notrel:spouse,weigth:6
+v1;0;Haberleri duydun mu? / 你听到那个消息了吗？
+v2;30;Hiçbir şey duymadım. / 我什么都没听到。
+v1;60;Komşumun geçen hafta bebeği oldu. / 我邻居上周生了孩子。
+v2;90;Hiçkimse bana söylemedi. / 没人跟我说。
+v1;120;Senin duyduğunu zannediyordum. / 我以为你听到了。
+v2;150;Bana hiçbir şey söylenmedi. / 我真的什么都没听到过。
+v1;180;çok tatlı bir bebek, maşallah. / 她是个可爱的婴儿，安拉。
+v2;210;Wow, ne heyecan verici. / 哇，真令人激动。
+v1;240;Değil mi, komşumu ve bebeğini görmeye kesinlikle gitmelisin. / 我知道，你真的应该去看她和孩子。
+v2;270;Tabi ki, gideceğim. / 当然，我会的。
+v1;300;Sadece ne olduğunu bilmeni istedim. / 我只是想让你知道发生了什么。
+v2;330;Buna müteşekkirim. / 我很感激。
+
+
+newchat;key:talk9,v2:female,v1:male,notrel:spouse,weigth:6
+v1;0;Benimle birzaman tarlaya gelir misin? / 你愿意和我一起去野地吗？
+v1;30;Ne zaman gitmek istersin? / 你想什么时候去？
+v1;60;Önümüzdeki Cuma günü ne dersin? / 下周五怎么样？
+v1;90;Üzgünüm, gelemem. O gün bir arkadaşımla akşam yemeği için buluşacağım. / 对不起，看来那时候不行，我约了一个朋友吃饭。
+v1;120;Ya gelecek Salı? / 下星期二怎么样？
+v1;150;Salı günleri akşam camii dersine gidiyorum. / 星期二我去清真寺上课。
+v1;180;Oh, belki başka zamana gideriz? / 哦，也许改天吧？
+v1;210;Evet, ben sena haber ederim. / 好，我会告你的。
+
+
+
+newchat;key:newhamam,v2:adult,v1:adult,building:hamambath,weigth:10
+v1;0;Selam $targetfirstname. / 你好 $targetfirstname 。
+v2;30;Selam! / 嗨！
+v1;60;Yeni hamamı gördünmü? / 你看见新哈曼了吗？
+v2;90;Hayır daha görmedim. / 不，我没有。
+v1;120;Tez görmememiz gerekiyor! / 我们得赶快去看看！
+v2;150;Hayırdır $targetfirstname. / 好，这是个好消息。
+v1;180;Hayır Hayır, temizlik imandandir. / 是的，你知道，保持干净是我们的教义。
+v2;210;Peki ozaman bir gidib bakalim. / 好吧，那我们看看。
+v2;240;Bir Saate olurmu sence. / 一个小时以后怎么样。
+v1;270;Ya olmaz, şimdi gidelim. / 不，我们走吧。
+v2;300;Tamam tamam, bu ne telaş arkadaş. / 好吧，为什么这么快啊我的朋友。
+v2;330;Nerden gidiyoruz? / 我们要去哪里？
+v1;360;Asılda biraz bekleyebiliriz. / 实际上我们可以等一会儿。
+v2;390;Of, herzaman ayni şeyler $targetfirstname. / 你也一样 $targetfirstname 。
+
+
+newchat;key:newmosque,v2:adult,v1:adult,building:smallmosque,weigth:10
+v1;0;Bu cami kadar güzel bir bina gördün mü kardeşim? / 兄弟，您见过一座像这座清真寺一样美丽的建筑吗？
+v2;30;Hayir daha görmedim. / 不，我没有见过。
+v2;60;Nesaman yapildi? Güzelmiş. / 的确很美。
+v1;90;çok oldu be ya. / 好久没见了。
+v2;120;Allah Allah. / 安拉。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

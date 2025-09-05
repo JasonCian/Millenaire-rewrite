@@ -1,0 +1,17 @@
+requiredTag=forge
+priority=50
+
+duration=2500
+
+heldItems=ironnugget,iron
+
+input=ironnugget,9
+output=iron,1
+
+buildinglimit=iron,32
+
+maxsimultaneousinbuilding=1
+
+sound=metal
+
+tag=tag_smithing

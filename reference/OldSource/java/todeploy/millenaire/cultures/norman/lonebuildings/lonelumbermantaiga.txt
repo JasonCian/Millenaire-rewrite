@@ -1,0 +1,25 @@
+name=Bûcheron solitaire
+weight=10
+radius=30
+
+//Vanilla biomes
+biome=Taiga
+biome=TaigaHills
+biome=Taiga M
+biome=Cold Taiga
+biome=Cold Taiga M
+
+//biomes o'plenty
+biome=bamboo forest
+biome=boreal forest
+biome=coniferous forest
+biome=maple woods
+biome=redwood forest
+biome=shield
+biome=snowy coniferous forest
+
+pathmaterial=pathdirt
+
+//starting buildings=
+centre=lonelumbermantaigahut
+start=lonegrovetaiga

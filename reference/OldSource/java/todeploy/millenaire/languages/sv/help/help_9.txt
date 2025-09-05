@@ -1,0 +1,16 @@
+﻿version:3.4
+<darkblue>Indierna
+
+De kommer från norra indien och bor i tre olika typer av byar; militärbyar som är runt ett fort, jordbruks byar som är runtom a headman's house, en palats by som har två mindre byar runt sig. 
+
+<darkblue>Unika objekt och block
+
+-Indier skördar ris och gurkmeja. Spelaren kan fråga byns ledare att lära honom att plantera dessa plantor.
+-Ler tegelstenar och kokta tegelstenar, görs genom att lämna blöta tegelstenar i solent till att torka. Blöt tegel skapas med en tegelstens form (Som köps i byn).
+-Indiska guda bilder som representerar gudarna skapas av en skulptör.
+-Delikat rasgulla, godis som görs av sockerrör.
+
+<darkblue>Specifika recept (formlöst
+
+-En ris och gurkmeja blir vegetarisk curry.
+-En ris, en gurkmeja och en rå kyckling blir murgh curry.

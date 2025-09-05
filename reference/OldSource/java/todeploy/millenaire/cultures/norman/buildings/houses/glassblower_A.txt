@@ -1,0 +1,35 @@
+//Parameters for the building as a whole
+building.length=17
+building.width=13
+building.buildingorientation=3
+building.icon=stained_glass_yellow_red
+
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Atelier du verrier
+initial.priority=800
+initial.male=glassblower
+initial.female=herbalist
+initial.shop=glassblower
+initial.abstractedproduction=rosette,16
+initial.abstractedproduction=stained_glass_white,16
+initial.abstractedproduction=stained_glass_yellow,16
+initial.abstractedproduction=stained_glass_yellow_red,16
+initial.abstractedproduction=stained_glass_red_blue,16
+initial.abstractedproduction=stained_glass_green_blue,16
+
+//Parameters for specific upgrades
+upgrade1.priority=80
+
+upgrade2.priority=75
+
+upgrade3.priority=70
+upgrade3.pathlevel=1
+
+upgrade4.priority=65
+
+upgrade5.priority=60
+upgrade5.pathlevel=2
+

@@ -1,0 +1,15 @@
+
+0;Vreemdeling;We zijn geen buitenstaanders gewend in ons dorp.
+4*64;Herkenbaar;Tot nu toe, heb je niet schuldig gemaakt aan een grote inbreuk op maat.
+8*64;Bekend gezicht;Je lijkt een goede impressie gemaakt te hebben om velen van ons. Ga zo door en we gaan allebei daarvan profijt hebben.
+16*64;Geregelde Bezoeker;Namaste, $name! Wat nieuws breng je?
+32*64;Mede-Buurman;Alhoewel je niet perfect bent, we geven toe dat je een goede burrman bent, $name-ji. We houden van jou gezelschap.
+64*64;Favoriete Handelaar;Welkom terug, $name. Wat brengt je om met ons te handelen?
+2*64*64;Vriend van het dorp;$name-ji, we beschouwen je allemaal hier als een echte vriend.
+4*64*64;Een Echte Bondgenoot;Je bent een echte bondgenoot van deze dorp, $name-ji. Als je ooit een schuilplek nodig hebt, kan je in onze dorp blijven.
+8*64*64;Een van ons;Ik heb nog nooit een buitenstaander geacepteerd in het dorp, maar jij $name-ji, jij bent nu een van ons!
+32*64*64;Natuurlijke Leider;$name-ji, jij hebt het vertrouwen en respect van mijn mensen. Ze zullen je overal volgen.
+4*32*64*64;Overpresterende Rajput; Het Indiase volk is extreem blij dat je met hun wou blijven en met hun problemen wou helpen. Als je het nog niet hebt gezien, hebben wij 5 andere wonderbaarlijke culturen gemaakt dat je een betere beloning geven dan een doffe en een teleurstellende bericht geven.
+-64;Overlast Veroorzaker;We houden niet van buitenstaanders, vooral niet van jouw soort.
+-4*64;Onplezierige Buitenstaander;Degene die je heeft opgevoed, heeft het erg slecht gedaan. We hopen dat je snel zal gaan.
+-16*64;Vijand;Elke dag bid ik tot de godin dat ik je nooit meer hoef te zien.

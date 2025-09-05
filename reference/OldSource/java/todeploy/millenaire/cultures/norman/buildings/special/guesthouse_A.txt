@@ -1,0 +1,22 @@
+//Parameters for the building as a whole
+building.length=7
+building.width=6
+building.max=0
+building.version=2
+building.icon=bed_straw
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Relais
+initial.priority=600
+initial.tag=inn
+initial.signs=1,0
+
+//Parameters for specific upgrades
+upgrade1.priority=60
+
+upgrade2.priority=55
+
+upgrade3.priority=50
+upgrade3.pathlevel=1
+

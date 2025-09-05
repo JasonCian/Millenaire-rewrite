@@ -1,0 +1,26 @@
+//Parameters for the building as a whole
+building.length=16
+building.width=13
+building.areatoclear=3
+building.buildingorientation=3
+building.farfromtag=leasure,30
+building.icon=purse
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Tunisiruq Tupiq
+initial.translatedname=name_en,market
+initial.priority=600
+initial.pathlevel=1
+initial.tag=market
+initial.tag=leasure
+
+//Parameters for specific upgrades
+upgrade1.priority=60
+upgrade1.rebuildpath=true
+
+upgrade2.priority=50
+upgrade2.pathlevel=2
+upgrade2.rebuildpath=false
+

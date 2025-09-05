@@ -1,0 +1,14 @@
+//Parameters for the building as a whole
+building.length=22
+building.width=21
+building.max=0
+building.reputation=16384
+building.price=16384
+building.icon=denierargent
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Reinousha Ie
+initial.priority=1000000
+initial.pathlevel=1
+

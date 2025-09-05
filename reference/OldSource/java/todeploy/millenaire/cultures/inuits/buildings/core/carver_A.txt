@@ -1,0 +1,24 @@
+//Parameters for the building as a whole
+building.length=10
+building.width=10
+building.areatoclear=3
+building.buildingorientation=3
+building.max=2
+building.icon=inuitcarving
+
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Mitlik Tupiq
+initial.translatedname=name_en,carver's house
+initial.priority=800
+initial.male=inuit_husband
+initial.female=inuit_carver
+initial.prioritymovein=20
+
+//Parameters for specific upgrades
+upgrade1.priority=80
+
+upgrade2.priority=75
+

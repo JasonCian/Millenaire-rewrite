@@ -1,0 +1,10 @@
+0;Främling;Vi litar inte på främlingar så lätt. Så uppför dej.
+4*64;Bekant ansikte;Vi har sett dej här förut men det betyder inte att vi litar på dej.
+16*64;Återkommande besökare;Hur har din resa varit $name?
+64*64;Favorit handlare;Åh, $name, du har kommit en lång väg i ögona på folket i byn.
+2*64*64;Vän till byn;Hej kompis, Vad kan vi göra för dej idag?
+8*64*64;En av oss;Hej, $name, Vi har väntat på din återkomst med stor förväntan.
+32*64*64;Naturlig ledare;$name, du har fått tillit och respekt av mitt folk. De följer dej vart som helst. 
+-64;Plågoande;åh det är du, vad vill du?
+-4*64;Ovälkommen främling;Lämmna vår by!
+-16*64;Fiende;Hur vågar du visa dej här. Möt din bestraffning!

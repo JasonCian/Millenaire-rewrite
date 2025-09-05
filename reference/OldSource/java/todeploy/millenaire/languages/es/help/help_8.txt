@@ -1,0 +1,13 @@
+version:3.4
+<darkblue>Los Normandos
+
+La primera cultura introducida en Millénaire, los normandos tienen el mayor número de tipos de aldeas - agrícola, militar, religiosa y los asentamientos industriales, así como gros bourgs (aldeas grandes) que tienen tres villas alrededor de cada una. Hablan francés, pero el diálogo se traducirá mientras el jugador "aprende" a hablar su idioma con ellos.
+
+<darkblue>Objetos únicos y bloques
+
+Los normandos producen muchos objetos únicos:
+-Herramientas normandas, que son más efectivas que las de diamante (fabricadas en una fragua por herreros).
+-Armaduras y espadas normandas, fabricadas en una armería y mejores que las de diamante.
+-Morcilla, callos, calvados y sidra. Alimentos que restauran al momento la salud del jugador.
+-Marcos de madera, un bloque de construcción con dos variantes utilizadas para la construcción normanda avanzada, producida solo por un charpentier (carpintero).
+-Tapices normandos, realizados por la señora de un castillo mediante lana (dos blancos, uno gris, uno gris claro, uno negro, uno marrón) y representaciones del tapiz de Bayeux.

@@ -14,7 +14,6 @@ import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.ItemStack;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;
-import net.minecraftforge.event.BuildCreativeModeTabContentsEvent;
 import net.minecraftforge.event.server.ServerStartingEvent;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
@@ -80,10 +79,10 @@ public class MillenaireRewrite {
 
         // 注册事件监听器
         modEventBus.addListener(this::commonSetup);
-        modEventBus.addListener(this::addCreative);
+        // modEventBus.addListener(this::addCreative); // 暂时注释掉，因为目前不需要向原版标签页添加物品
 
-        // 注册Forge事件总线
-        MinecraftForge.EVENT_BUS.register(this);
+        // 注册Forge事件总线 - 使用静态方法避免this泄漏
+        MinecraftForge.EVENT_BUS.addListener(MillenaireRewrite::onServerStarting);
 
         // 注册配置（使用现代方式）
         modEventBus.addListener(MillenaireConfig::onLoad);
@@ -111,18 +110,9 @@ public class MillenaireRewrite {
     }
 
     /**
-     * 添加物品到创意模式标签页
+     * 服务器启动事件处理 - 静态方法避免this泄漏
      */
-    private void addCreative(BuildCreativeModeTabContentsEvent event) {
-        // 如果需要向原版标签页添加物品，可以在这里处理
-        // 我们的物品已经通过自定义标签页处理了
-    }
-
-    /**
-     * 服务器启动事件处理
-     */
-    @SubscribeEvent
-    public void onServerStarting(ServerStartingEvent event) {
+    public static void onServerStarting(ServerStartingEvent event) {
         LOGGER.info("Millenaire Rewrite server is starting...");
         // 在这里进行服务器启动时的初始化
         // 例如：加载村庄数据、初始化全局状态等

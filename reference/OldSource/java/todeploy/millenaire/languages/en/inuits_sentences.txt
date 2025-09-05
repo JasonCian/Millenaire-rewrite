@@ -1,0 +1,58 @@
+
+boy.greeting=anaanaga miqsurunnaqtunga / My mom can sew up the holes in your clothes.
+boy.greeting=pinnguarumajunga / I want to play.
+boy.greeting=qanuippit. / How are you?
+
+chef.greeting=niqłiuqtunga. inuuhiqatsiaq! / I enjoy cooking. Eat, eat!
+chef.greeting=nirinnaqsijuq. / Time to eat. 
+
+farmer.greeting=nunanniapaa, itjuujaq! / I like farming, especially potatoes!
+
+fisherman.greeting=ukiukkut iqalliariaksaq quviagijara. / I like to fish in the winter.
+
+girl.greeting=mumirunnaqtunga / I can dance.
+girl.greeting=qanuippit. / How are you?
+girl.greeting=ullagunnaqtunga. / I can run.
+
+hunter.greeting=qimuksiqpakpit? / Do you travel by dog team?
+hunter.greeting=ukiakkut angunasukłuni quviagijara. / I like to hunt in the Autumn.
+
+husband.greeting=iqqanaijariariaqaliqtunga. / I need to get going on my tasks for the day.
+
+lumberman.greeting=napaaktuk aglinigaktuk sayakturuk, tanakuuruk. / Trees grow so powerful and strong really fast here, what a wonderful land.
+
+oldlady.greeting=amaamak irinaliut iqsijuq iglu imakkuutuq / She cursed them to flee from her domain.
+oldlady.greeting=angu isivrivriuqpuq mamivuq! / Don't look them in the eyes!
+oldlady.greeting=irinaliut qitirut tamanna!? / The cursed ones surround us!?
+
+shaman.greeting=tuurngaq tutsiaqatigiinniq. / The spirits grant you blessings.
+shaman.greeting=uqariaqaqtunga tuurngaq. / I must speak with the spirits.
+
+sodder.greeting=qaijariaqaqtunga miqqapik / I need to gather for sodding.
+
+villager.greeting=ainngai, $name! / Hello, $name!
+villager.greeting=aqsarniit takuminaqtut. / The Northern Lights were so beautiful.
+villager.greeting=ilatit qanuippat? / How is your family?
+villager.greeting=katigatkit quvianaq. / Pleased to meet you.
+villager.greeting=nani nunaqaqqpit? / Where are you from?
+villager.greeting=niriqqauvit? / Have you eaten already?
+villager.greeting=sinittiaqqaugaluaqpit? / Did you sleep well?
+villager.greeting=takunasaaqpagit. / I have not seen you in ages. 
+villager.greeting=tunngasugit / Welcome.
+villager.greeting=ullaakuut. / Good day to you 
+
+wife.greeting=kaayuk sinaiyaurug, masu aniruk! / This soil is just so fertile, crops grow like crazy!
+wife.greeting=silasiqanuippa? / How is the weather where you're from?
+
+art_merchant.greeting=Aucune ville dans le monde n'est comparable à Constantinople. / No city in the world can compare to Constantinople!
+art_merchant.greeting=Les gens ici sont des barbares. / People here are barbarians.
+
+oriental_merchant.greeting=Ce pays est riche, mais fallait il vraiment qu'il soit si froid? / This land is rich, but does it have to be so cold?
+oriental_merchant.greeting=Etes vous allez à Cordoue? Ca, c'est une ville civilisée. / Have you been to Cordoba? Now that is a civilised place.
+
+plant_merchant.greeting=Some people say I'm a dreamer, but I'm not the only one... / 
+
+viking_merchant.greeting=Aujourd'hui je vient commercer. Demain... / Today I come to trade. Tomorrow...
+viking_merchant.greeting=Cette terre appartient aux vikings. L'Angleterre aussi. La Sicile aussi. Vive nous! / This land is viking land. England is viking land. Sicily is viking land. We rule!
+
+weapon_merchant.greeting=Vous voulez vraiment savoir comment j'ai survécu toutes ces années voyageant seul avec des marchandises précieuses? / Do you want to know how I survived all those years travelling alone with valuable merchandise?

@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "millenaire:seljukhelmet"
+        },
+        "title": {
+            "translate": "advancements.leader_seljuk.name"
+        },
+        "description": {
+            "translate": "advancements.leader_seljuk.desc"
+        }
+    },
+    "parent": "millenaire:rep_seljuk",
+    "criteria": {
+        "leader_seljuk": {
+            "trigger": "leader_seljuk"
+        }
+    }
+}

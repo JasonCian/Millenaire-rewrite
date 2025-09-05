@@ -1,0 +1,23 @@
+building.length=13
+building.width=10
+building.buildingorientation=3
+building.max=2
+building.icon=steelaxe
+building.areatoclear=3
+building.mindistance=0.4
+
+initial.startlevel=-1
+initial.nativename=Kalyva Xylokópou
+initial.priority=100
+initial.male=lumberman_byzantine
+initial.female=wife_byzantine
+initial.tag=woodcutter
+
+upgrade1.priority=400
+
+upgrade2.priority=400
+upgrade2.pathlevel=1
+
+upgrade3.priority=200
+
+upgrade4.priority=100

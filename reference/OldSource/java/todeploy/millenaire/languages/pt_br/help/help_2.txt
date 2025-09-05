@@ -1,0 +1,16 @@
+
+version:3.4
+<darkblue>Comércio
+A sua interação mais frequente com os aldeões será por via do comércio - pode vender-lhes inúmeros bens e, ao mesmo tempo, adquirir uma vasta gama de produtos, incluindo blocos e objectos únicos do Millénaire. Para negociar com uma aldeia, dirija-se ao seu edifício principal (ou qualquer outra loja) e aguarde pela chegada de um aldeão comerciante, que se anunciará no chat e terá o texto "A vender ao jogador" por cima da sua cabeça. Depois, clique com o <darkblue>botão direito<black> no aldeão para abrir a tela de comércio.
+Os aldeões do Millénaire têm um estoque de bens à sua disposição que varia com a dependecia da utilização que vão dando aos mesmos, quer ao nível da construção, quer negociando com o jogador ou com outros aldeões comerciantes vindos de fora. Não é possível vender bens se não os tiverem em estoque; além disso, só é possível vender aos aldeões bens que eles realmente utilizem dia-a-dia (varia depedente do tipo de aldeia).
+Todo o comércio feito com as aldeias tem como moeda o "denier", uma moeda de troca da França medieval. Existem três tipos de deniers: os normais, os "deniers argent", de prata, que valem 64 deniers, e os "deniers or", de ouro, que valem 64 deniers argent.
+<darkgreen>Dica: no mapa da aldeia (que surge quando clica com o botão direito do mouse no respectivo painel no centro da aldeia), ao passar com o mouse por cima das construções, serão listadas quaisquer lojas que se encontrem nesses edifícios.
+deniers basicos (cobre deniers)
+"deniers argent" (deniers de prata)
+
+vale 64 deniers,
+"deniers ou" (deniers de ouro)
+vale 64 deniers argent
+<darkgreen> Dica:
+
+No mapa da vila (obtido clicando com o botão direito do mouse no painel correspondente no edifício central da vila), as lojas são listadas quando você passa o mouse sobre os edifícios.

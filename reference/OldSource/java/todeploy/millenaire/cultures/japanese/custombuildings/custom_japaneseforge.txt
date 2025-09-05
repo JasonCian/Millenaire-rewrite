@@ -1,0 +1,1 @@
+native:Tansetsu;gameNameKey:japaneseforge_A0;male:japanese_smith;female:japanese_peasantwife;craft:1;chest:1-5;sign:1;shop:armyforge;tag:armoury;moveinpriority:15

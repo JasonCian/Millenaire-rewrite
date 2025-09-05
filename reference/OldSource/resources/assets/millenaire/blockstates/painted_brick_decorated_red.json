@@ -1,0 +1,16 @@
+{
+	"multipart": [
+        {   "apply": { "model": "millenaire:painted_brick_red" }
+        },
+        {   "when": { "top_frieze":"true" },
+            "apply": { "model": "millenaire:painted_brick_decoration_red_top" }
+        },
+        {   "when": { "bottom_frieze":"true", "top_frieze":"false" },
+            "apply": { "model": "millenaire:painted_brick_decoration_red_bottom" }
+        },
+        {   "when": { "bottom_frieze":"false", "top_frieze":"false" },
+            "apply": { "model": "millenaire:painted_brick_decoration_red" }
+        }
+        
+    ]
+}

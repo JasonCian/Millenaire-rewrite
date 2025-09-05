@@ -1,0 +1,12 @@
+//Parameters for the building as a whole
+building.length=13
+building.width=9
+building.buildingorientation=3
+building.icon=stone
+building.travelbook_display=False
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Archiao Nao
+

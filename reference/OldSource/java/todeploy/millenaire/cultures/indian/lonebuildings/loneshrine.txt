@@ -1,0 +1,24 @@
+name=Chota Mandir
+weight=5
+radius=12
+
+//Vanilla biomes
+biome=extreme hills
+biome=Jungle
+biome=Jungle M
+biome=JungleEdge
+biome=JungleEdge M
+biome=DesertHills
+biome=Desert
+biome=Desert M
+
+//biomes o'plenty
+biome=lush desert
+biome=outback
+biome=prairie
+biome=rainforest
+biome=tropical rainforest
+biome=xeric shrubland
+
+//starting buildings=
+centre=loneshrine

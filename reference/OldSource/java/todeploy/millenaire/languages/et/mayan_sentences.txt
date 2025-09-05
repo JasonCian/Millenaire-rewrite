@@ -1,0 +1,56 @@
+
+villager.greeting=Ola, $name-ji! / Tere, $name-ji!
+villager.greeting=U- ka'an yam k'iinal behla'e'. / Taevas on kuum täna.
+villager.greeting=Biix men u- pixan ts'aakik teech? / Kuidas vaimud kohtlevad sind?
+villager.greeting=Ba'ax tumben? / Mida uut?
+villager.greeting=Biix yam teech pamilya? / Kuidas su perel läheb?
+villager.greeting=Pixan tuuxtik gnat k'aaxal. / Vaimud saadavad sulle vihma.
+villager.greeting=Tu'ux yam teech lu'um? / Kus su maa on?
+mayan_shaman.greeting=Ts'aakik tal teech. / Vaimud kaitsevad sind.
+
+villager.gorest=He'lel bisik na. / Uni võttab üle.
+villager.gorest=Ichil chuy ti wenel beora. / Ma pean magama nüüd.
+villager.gorest=Yaaawn. / *haigutama*
+
+villager.gopray=Pixan taka gnat ichil k'a'am hoch. / Vaimud saadavad meile hea saagi.
+villager.gopray=Pixan an gnat. / Vaimud aitavad meid.
+
+villager.BringBackResourcesHome=Ichil chuy ti yaab se'es ti kuch. / Ma pean liiga palju puitu tassima.
+villager.ChopTrees=Ya'ul pak. / Puu raiumise aeg.
+villager.GatherGoods=Ichil chuk u- se'es sut otoch. / Ma viin puitu koju.
+villager.PlantSaplings=Ichil tz'ap tulakal he'-la -che'. / Ma istutan kõik need puud. 
+
+//villager.DryBrick=To'on k'ab'eet tunich ti b'et ki- otoch. / Meil on vaja kive,et teha meie kodusi. 
+//villager.GatherBrick=Ichil kuch ti yaab tunich. / Ma tassin liiga palju kive. 
+//villager.CookBrick=A'-la yam k'a'am tunich. / See on kõva kivi.
+villager.PlantMaize=K'aaxal tuuxtik gnat ichil k'a'am hoch. / Vihm saadab meile head saaki.
+villager.HarvestMaize=Ki' k'aaxal ki' hoch. / Hea vihm,hea saak.
+villager.PlantTurmeric=Yooch men u- han-ha. / Maitseaine teeb toitu.
+villager.HarvestTurmeric=A'-la yooch hoch si muk' ti han-ha. / See maitseaine saak annab tugevust toidule .
+villager.SlaughterChicken=Ah kax si gnat b'ak'. / Kanad annavad liha.
+
+villager.GetHouseResources=Ichil chik nah yam ichil utz nah. / Puhas maja on hea maja. 
+villager.GetGoodsHousold=Ichil k'ab'eet he'-la a-d'a'ax-tak k'am- otoch/ Ma vajan,et need asjad koju toodaks.
+villager.DeliverGoodsHousold=Ti yaab han-ha ti kuch. / Liiga palju toitu kanda.
+villager.makeRasgulla=In-wah mo'nol pall yam k'oh. / Mu väike laps on haige.
+
+
+villager.GetResourcesForBuild=Yaab' ti- yaab' tunich. / Liiga plaju kive.
+villager.ConstructionStepByStep=Meyah meyah meyah. / Töö töö töö.
+villager.ConstructionStepByStep=Ichil k'ab'eet ichil k'a'am et-meyah. / Mul on vaja tugevat asendus töötajat. 
+
+villager.GoPlay=Ichil kolom uk chun su'uk. / Ma mängin murus.
+villager.BecomeAdult=La la la la. / La la la la la
+male.BecomeAdult=Ichil k'a't ti tz'ak-b' ha ah tz'on. / Ma tahan olla kütt.
+female.BecomeAdult=Ichil k'a't ha ichki. / Ma tahan abikaasat.
+
+villager.gopray.chosen=Ichil t'an u- orasion. / I speak the prayer.
+mayan_shaman.gopray.chosen=U- orasion tal teech / The prayer protects you.
+
+villager.calltoarms=U- k'in yam in-ti'a'al! / Päev on minu!
+villager.calltoarms=Kin-s-ab u- k'as hun. / Tapke pahad!
+villager.calltoarms=Ti k'ab! / Relvadele!
+
+villager.MakeTools=Man in-wah a'-b'a'ax. / Osta mu asju.
+villager.MakeWeapons=U- k'ab wa'yeh nik k'a'am. / Siin on relvad tugevad.
+villager.ScultMayan=P'e k'in ichil k'am ti b'om. / Ühel päeval tahan ma maalida.

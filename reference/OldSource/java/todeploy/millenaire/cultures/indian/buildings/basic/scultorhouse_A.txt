@@ -1,0 +1,18 @@
+//Parameters for the building as a whole
+building.length=10
+building.width=10
+building.buildingorientation=3
+building.icon=ochre_sandstone_carved
+building.version=2
+building.areatoclear=4
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Muurtikaar Ka Ghar
+initial.priority=800
+initial.male=indian_sculptor
+initial.female=indian_peasantwife
+initial.prioritymovein=50
+initial.shop=sculptor
+
+upgrade1.priority=70

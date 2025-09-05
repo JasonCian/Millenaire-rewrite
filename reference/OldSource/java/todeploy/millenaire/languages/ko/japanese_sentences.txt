@@ -1,0 +1,42 @@
+villager.greeting=Konnichiwa, $name-san! / 좋은아침 $name상!
+villager.greeting=Oi. / 저기요..
+villager.greeting=Ogenki desuka, $name-san / $name,잘지내세요?
+villager.greeting=Kawatta koto aru? / 뭔일 있나요?
+villager.greeting=Hajimemashite. / 반갑습니다
+villager.greeting=Yokoso. / 어서오세요!
+villager.greeting=Gokigenyou. / 안녕하세요?
+
+villager.gorest=Watashi niwa kyu-kei ga hituyou desu. / 쉬고싶다..
+villager.gorest=A-, mou neru jikan da / 아..잘시간이네..
+villager.gorest=Watashi wa totemo tukarete imasu. / 힘들어어어어... 
+
+villager.gopray=Watashi wa housaku no tame ni megami Uga-no-Mintama ni inori masu. / 여신이여 풍요로운 수확을 주소서..
+villager.gopray=Kami wa watashitachi wo aku kara osukui ni naru. / 신은 악마로부터 우리를 보호합니다.
+
+villager.BringBackResourcesHome=Cho cho cho... / 일 일 일....
+villager.ChopTrees=Watashi wa nanbonka no ki wo bassai suru tsumori da. / 나무를 자르러 가야겠어.
+villager.GatherGoods=Watashi wa ikutuka no souchi ga hituyou da. / 재료가 필요해.
+villager.PlantSaplings=Watashi wa korera no naegi wo ueru tumori desu. / 묘목을 심어야겠어.
+
+villager.SlaughterChicken=Anata wa dareka no tame ni subarashii shokuji wo tukuru darou. / 5성쉐프는 아니지만 맛있을겁니다.
+
+villager.GetHouseResources=Watashi wa ie kara nanika totte konakereba ikenai. / 집에서 뭘좀 가져와야겠어.
+villager.GetGoodsHousold=Watashi wa ie ni korera no mono ga hituyou desu. / 집에 필요한게 있어.
+villager.DeliverGoodsHousold=Watashi wa mise kara syokuryou wo eta. / 상점에서 먹을걸 사야겠어
+
+villager.GetResourcesForBuild=Watashi wa motto takusan no zairyou ga hituyou desu. / 재료가 필요해.
+villager.ConstructionStepByStep=Watashi no chichi wa kentiku no houhou ni tuite watashi ni oshieta. / 아버지가 건설하는법을 가르쳐 주셨어.
+villager.ConstructionStepByStep=Watashi wa kami ga watashi no kenchiku wo kiniiru koto wo negatte imasu. / 신이 내 건물을 좋아했으면 좋겠는데.
+
+villager.GoPlay=watashi wa asobitai desu. / 놀고싶다!
+villager.BecomeAdult=Seityou suru jikan. / 앗! 어린이가 어른으로 진화했다!
+male.BecomeAdult=Watashi wa sensi ni naritai desu. / 탱커가 되고싶다! 체력작은 마법사는 싫어!
+female.BecomeAdult=Watashi wa ituka hahaoya ni naritai desu. / 언젠가는 어머니가 되고싶어(그얼굴로?)
+villager.gopray.chosen=Kokoro wo otitukasete kudasai. / 침착해....
+
+villager.calltoarms=Mura wo mamore! / 마을을 지켜라! 반드시 막아야한다!
+villager.calltoarms=Karera wa watashitachi wo kougeki suru hi wo koukai suru darou! / 우릴 공격한걸 후회하게 해주겠어!
+villager.calltoarms=Kuki wo mote! / 무기를 잡아라 용사들이여!
+
+villager.MakeTools=Watashi wa naganen no aida saikoukyu no dougu wo koumyou ni tukutte iru. / 장인효과, 무기의 품질이 +15 증가합니다.(에?)
+villager.MakeWeapons=Saikoukyu no buki no himitu wa sisyou kara watashi ni uketugareta. / 이건 대대로 내려오는 무기제작법이지..

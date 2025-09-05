@@ -1,0 +1,16 @@
+buildingTag=kitchen
+priority=50
+
+duration=2500
+
+heldItems=lokum,sugar,wheat
+
+input=sugar,1
+input=wheat,1
+output=lokum,1
+
+buildinglimit=lokum,16
+
+maxsimultaneousinbuilding=1
+
+tag=tag_producefood

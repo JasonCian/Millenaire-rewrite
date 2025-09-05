@@ -1,0 +1,10 @@
+{
+    "parent": "millenaire:block/oriented_half_slab",
+    "textures": {
+        "bottom": "millenaire:blocks/gray_tiles_0",
+        "top": "millenaire:blocks/gray_tiles_0",
+        "side_ns": "millenaire:blocks/gray_tiles_0",
+        "side_ew": "millenaire:blocks/gray_tiles_90p",
+        "particle" : "millenaire:blocks/gray_tiles_0"
+    }
+}

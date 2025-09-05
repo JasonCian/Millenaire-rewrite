@@ -1,0 +1,99 @@
+villager.greeting=Bonjour, $name! / Hallo, $name!                  
+villager.greeting=Belle journée, n'est ce pas? / Mooie dag nietwaar?
+villager.greeting=Il va pleuvoir, je le sens /  Het gaat regenen. Ik kan het voelen
+villager.greeting=Je ne me souvenais pas de la Normandie comme ça. / Ik kan mijn Normandië zo niet herinneren.
+guard.greeting=Vous avez l'air un peu faible, $name. Je vous protègerais si vous avez des ennuis. / Je lijkt wat angstig, $name. Ik zal je beschermen als je in de problemen komt.
+priest.greeting=Soyez béni, mon fils. / God zegene je mijn zoon.
+monk.greeting=Dieu soit avec toi, mon frère. / God is met je, broeder.
+boy.greeting=Quand je serai grand, je veux être comme papa. / Als ik groot ben wil ik precies zo worden als papa!
+knight.greeting=Je n'obéi qu'au Roi Guillaume, Duc de Normandie, et à Dieu. Dans cet ordre. / Ik luister alleen naar koning William, Hertog van Normandië en god, in die volgorde.
+knight.greeting=$name, saviez-vous que j'ai combattu à Hastings? / $name, wist je dat ik gevochten heb bij hastings?
+knight.greeting=Je prend possession de cette terre au nom du Duc de Normandie! / Ik claim dit vreemde land voor de hertog van Normandië!
+lady.greeting=Ma sœur a épousé un duc. Je vis ici. / Mijn zus is getrouwd met een hertog. Ik leef hier.
+lady.greeting=Vous auriez dû voir le château de mon père. Ca c'était une vrai forteresse. / Je had mijn vaders kasteel moeten zien. Dat was nog eens een indrukwekkend fort.
+viking_merchant.greeting=Cette terre appartient aux vikings. L'Angleterre aussi. La Sicile aussi. Vive nous! / Dit land is Viking land. Engeland is Viking land. En Sicilië is Viking land. Wij heersen!
+viking_merchant.greeting=Aujourd'hui je vient commercer. Demain... / Vandaag kom ik handelen. Morgen...
+weapon_merchant.greeting=Vous voulez vraiment savoir comment j'ai survécu toutes ces années voyageant seul avec des marchandises précieuses? / Wil je weten hoe ik jaren reizen met zulke waardevolle spullen heb overleeft?
+plant_merchant.greeting=Sommigen zeggen dat ik een dromer ben. Maar ik ben niet de enige... / 
+oriental_merchant.greeting=Ce pays est riche, mais fallait il vraiment qu'il soit si froid? / Dit land is rijk, maar moet het nou echt zo koud zijn?
+oriental_merchant.greeting=Etes vous allez à Cordoue? Ca, c'est une ville civilisée. / Ben je ooit in Cordoba geweest? Dat is nog eens een beschaafde plek!
+art_merchant.greeting=Les gens ici sont des barbares. / Mensen hier zijn barbaren.
+art_merchant.greeting=Aucune ville dans le monde n'est comparable à Constantinople. / Geen stad in de wereld kan tippen aan Konstantinopel
+art_merchant.greeting=Nous les byzantins sont les derniers vrais romans. Admirez notre civilisation! / Wij bijzantijnen zijn de laatste echte romeinen. Genietende van de glory van onze beschaving!
+wool_merchant.greeting=Les textiles hollandais sont les meilleurs à l'ouest de Cathay. / Nederlandse textiel is het beste west van Cathay.
+seneschal.greeting=Je gère ces terres pour mon roi. / Ik beheer die landen voor mijn koning.
+seneschal.greeting=J'ai hâte de retourner à la cours du roi. / Ik kan niet wachten om terug te gaan naar het koninklijk hof.
+guildmaster.greeting=Les artisans ne valent rien sans quelqu'un pour les superviser. / Vakmannen zijn niks zonder iemand om ze te leiden.
+
+knight.patrol=Je reigne sur ces terres. / Ik heers over dit land.
+knight.patrol=La force fait le droit, et je suis fort. / Macht heeft gelijk, en ik ben machtig.
+
+lady.MakeTapestry=Personne ici n'apprécie l'art. / Niemand hier aanbidt kunst.
+lady.MakeTapestry=Peut-être que ces pièces seront moins glauques avec ces tapisseries. Peut-être. / Misschien ziet deze plek er minder groezelig uit met deze op de muur. Misschien.
+
+villager.gorest=Un peu de repos me ferait du bien... / Ik kan wel wat rust gebruiken...
+villager.gorest=La vie ici est un peu morne. / Het leven hier is een beetje saai.
+villager.gorest=Rien d'intéressant n'arrive jamais ici. / Er gebeurt hier ook nooit iets interessants.
+villager.gorest=Je suis fatigué. / Ik ben uitgeput.
+villager.godrink=C'est à boire qu'il nous faut! / Ik heb dorst!
+villager.godrink=Un cidre n'a jamais fait de mal à personne. / Een cider kan nooit kwaad.
+villager.gopray=Je parle à Dieu, pas vous, $name. / Ik ben met God aan het praten, niet jou, $name.
+
+farmer.BringBackResourcesHome=Récoltons ce blé doré. / Laten we dat gouden tarwe eens terugbrengen.
+farmer.CollectCrop=On dirait que le blé est mûr. / De tarwe ziet er rijp uit.
+farmer.PlantSeeds=Je plante, et je récolterai. / Ik zaai, en dan oogst ik.
+
+lumberman.BringBackResourcesHome=Même ma femme devra admettre que c’est beaucoup de bois. / Zelfs de vrouw moet toegeven dat het veel hout is.
+lumberman.ChopTrees=Regardez-moi couper cet arbre ! / Kijk mij die boom eens omhaken!
+lumberman.GatherGoods=Bel arbrisseau là-bas. / Mooie jonge boom daarzo.
+lumberman.PlantSaplings=Bientôt ce sera un arbre magnifique ! Et je le couperai. / Binnenkort is dit een grote, majestueuze boom! En dan hak ik hem neer.
+
+wife.GetHouseTHResources=On dirai que mon mari a travaillé pour une fois. / Het lijkt erop dat mijn luie man eindelijk iets heeft geproduceerd.
+wife.GetResourcesForBuild=Je part chercher une tonne ou deux de matérieaux. Je suis plus forte que j’en ai l’air ! / Even een paar ton bouw materiaal ophalen. Ik ben sterker dan ik eruit zie.
+//villager.DeliverResourcesShop=
+wife.MakeBread=Mon pain est le meilleure du village. / Mijn brood is het beste van het dorp.
+//villager.BeSeller=Coming, coming!
+wife.MakeCalva=Une boisson d'homme, faite par une femme. / Mannendrank gemaakt door vrouwen.
+wife.MakeCider=Préparer le cidre n’est pas le pire travail par ici. / Cider maken is niet de slechste baan hier.
+wife.Construction=Je construit, je construit, comme seule une femme le peu ! / Bouwen, bouwen, zoals alleen een vrouw dat kan!
+wife.Construction=Les hommes n’ont pas la finesse nécessaire au travail de précision. / Mannen hebben de netheid niet voor dit precisiewerk.
+wife.Construction=Ca va être un bâtiment superbe. / Dit gaat een geweldig gebouw worden.
+wife.GetGoodsHousehold=Pourquoi est ce toujours moi qui doit tout aller chercher ? / Waarom wordt ik altijd gestuurd om spullen op te halen?
+wife.DeliverGoodsHousehold="Vas chercher ça, vas chercher ça", ils me disent. Un jour je refuserais ! /  "Haal dit, haal dat", zeggen ze. Een dag zal ik het niet doen! Niet!
+
+villager.GoPlay=Je vais aller jouer dehors. / Ik denk dat ik maar buiten ga spelen.
+villager.BecomeAdult=Il est l’heure de devenir quelqu’un ! / Tijd om iets te worden in deze wereld!
+
+villager.MakeBoudin=Vous ne le mangeriez pas si vous saviez comment c’est fait. / Je zou het niet eten als je weet hoe het gemaakt wordt.
+
+smith.MakeNormanTools=Les outils normands sont les meilleurs du monde. / Normandisch gereedschap is het beste van de wereld.
+smith.MakeNormanWeapons=N'essayez pas d'affronter un homme armé par moi. / Probeer niet te vechten met een man gewapend door mij.
+
+miner.Mining=Miner est un art, vous savez. / Mijnbouw is een kunst, weet je.
+miner.Mining=Personne d’autre dans le village n’a la force et l’endurance nécessaire à ce travail. Et vous pensez qu’ils sont reconnaissants ? / Niemand in dit dorp heeft de kracht en het uithoudingsvermogen voor deze baan. En wat voor bedank krijg ik?
+miner.Cooking=Ca c’est de la vrai cuisson. / Dit is serieus koken.
+
+villager.gopray.chosen=Ca fait longtemps que je n’ai pas prié… / Lange tijd geleden dat ik ben wezen bidden…
+priest.gopray.chosen=Prier est plus dur qu’il n’y paraît. / Bidden is meer werk dan het lijkt.
+
+villager.calltoarms=Aux armes ! Aux armes ! / Te wapen! Te wapen!
+villager.calltoarms=Montjoi Saint-Denis!
+villager.calltoarms=Tous pour un ! / Allen voor een!
+villager.calltoarms=Aux armes, citoyens! / Op wapens, burgers!
+
+monk.makebooks=Si la vanité n’était pas un péché, je dirai que mes manuscrits sont les plus beaux du pays. / Als ijdelheid geen zonde was, zou ik zeggen dat mijn manuscripten de mooiste van het land zijn.
+
+priest.makeamulets=Ceci ne devrait pas être vu par un étranger… / Dit mag niet gezien worden door buitenstaanders...
+
+viking_merchant.KeepStall=La magie viking est puissance. / Vikingmagie is krachtige magie.
+viking_merchant.KeepStall=Venez et achetez. Je ne vous parlerai pas des sacrifices nécessaires pour rendre ces amulettes puissantes. / Kom kopen. Ik zal je niet zeggen wat voor offers zijn gemaakt om deze amuletten sterk te maken.
+weapon_merchant.KeepStall=Vous ne voulez pas savoir ce qui est arrivé à l’homme qui m’a fait cette cicatrice. Mais vous pouvez acheter la lame que j’ai utilisée. / Je weet wat er is gebeurd met de persoon die mij dit litteken heeft gegeven. Maar je mag dit zwaard kopen dat ik heb gebruikt.
+plant_merchant.KeepStall=Je vend toutes les herbes dont vous aurez jamais besoin. / Ik verkoop alle kruiden die je ooit nodig zult hebben.
+oriental_merchant.KeepStall=Venez voir des produits de luxes tels que les gens d’ici ne voient jamais ! / Kom en bekijk de luxe waar de mensen hier alleen maar van kunnen dromen!
+art_merchant.KeepStall=Des perles pour des cochons, comme ils disent ici. / Parels voor de zwijnen, zoals ze dat hier zeggen.
+wool_merchant.KeepStall=Toute la laine rose qu’il vous faut ! / Al het roze wol dat je ooit nodig zult hebben!smith
+villager.brewpotions=Un jour je serais un maître alchimiste! / Op een dag zal ik een meester alchemist zijn!
+villager.makeglassbottles=Une fiole de qualité, c'est une potion réussie! / Een goed gemaakte fles maakt een goed drankje!
+villager.harvestwarts=Heuresement que je porte des gants. / Godzijdank drag ik handschoenen.
+villager.plantwarts=Seul Maître Vif-argent aurait pu comprendre comment cultiver ces horreurs. / Alleen meester Vif-Argent had begrepen hoe je deze dingen moet verbouwen..
+

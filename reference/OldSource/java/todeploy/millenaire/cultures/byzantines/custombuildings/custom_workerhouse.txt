@@ -1,0 +1,1 @@
+native:Oikía Ergatón;gameNameKey:workerhouse_A0;male:worker_byzantine;female:artisanwife_byzantine;chest:1-5;sign:1;moveinpriority:10

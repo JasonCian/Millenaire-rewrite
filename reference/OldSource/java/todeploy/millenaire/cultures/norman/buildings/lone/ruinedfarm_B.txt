@@ -1,0 +1,19 @@
+//Parameters for the building as a whole
+building.length=8
+building.width=17
+building.buildingorientation=3
+building.max=0
+building.startinggood=bread,0.5,1,3
+building.startinggood=denier,1.0,20,44
+building.startinggood=denierargent,0.2,2,2
+building.startinggood=wheat,0.5,8,8
+building.startinggood=normanshovel,0.2,1,0
+building.startinggood=normanhoe,0.2,1,0
+
+building.icon=wheat
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Ferme en ruine
+initial.priority=5
+

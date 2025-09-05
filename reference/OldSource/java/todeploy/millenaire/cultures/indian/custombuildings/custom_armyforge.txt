@@ -1,0 +1,1 @@
+native:Sena ka Bhati;gameNameKey:armyforge_A0;male:indian_armysmith;female:indian_peasantwife;craft:1;chest:1-5;sign:1;shop:armyforge;tag:armoury;moveinpriority:15

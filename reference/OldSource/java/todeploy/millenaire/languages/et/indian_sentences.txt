@@ -1,0 +1,68 @@
+
+
+villager.greeting=Namaste, $name-ji! / Teretulemast, $name-ji!
+villager.greeting=Aaj bahut garmi hai. / Täna on päris kuum.
+villager.greeting=Kya haal hai? / Kuidas käsi käib?
+villager.greeting=Kya khabar hai? / Mis uudist?
+villager.greeting=Ghar par sa theek hain? / Kas kõigil läheb kodus hästi?
+villager.greeting=Yeh barish kyun nahin ho rahi? / Miks vihma küll ei saja?
+villager.greeting=Kya tum se kale pani se pare ho? / Kas sa oled ookeanite tagant?
+indian_pandit.greeting=Jeetey raho. / Las sul olla pikk eluiga.
+merchant_oriental.greeting=Salam alaikum, bhai! / Olgu sul rahu, vend!
+merchant_adivasi.greeting=Main van se a raha hoon / Ma just jõudsin metsast
+merchant_villagewoman.greeting=Ek akeelii mahila ke lie safar karna mushkil hai / Reisimine on raske üksildasele naisele
+
+male.gorest=Ab jaakey aaram karta hoon. / Nüüd ma lähen puhkama.
+male.gorest=Subah sey kaam kar raha hoon. / Ma olen töötanud hommikust saati.
+male.gorest=Main thak gaya hoon. / Ma olen väsind.
+
+female.gorest=Ab jaakey aaram karti hoon. / Nüüd ma lähen puhkama.
+female.gorest=Subah sey kaam kar rahi hoon. / Ma olen töötanud hommikust saati.
+female.gorest=Main thak gayi hoon. / Ma olen väsind.
+
+villager.gopray=Hey Bhagwan, is baar phasal achhi ho. / Hea Jumal, palun tee nii,et saak oleks hea seekord.
+villager.gopray=Bhagwan, bas aap hi ka sahara hai. / Jumal, sa oled mei ainuke lootus.
+
+indian_lumberman.BringBackResourcesHome=Itna saara lakri ghar ley jaaney mein mushkil hooga. / See saab olema raske tassida kõik need puud tagasi koju.
+indian_lumberman.ChopTrees=Yeh lakri kaat-tey kaat-tey meri zindagi beet jayegi. / Tundub nii,et ma kulutan oma elu nende puude raiumisele.
+indian_lumberman.GatherGoods=Ab saari lakriyan ikaththa karta hoon. / Nüüd ma kogun kõik selle puidu.
+indian_lumberman.PlantSaplings=Jitna zyaada ped lagaoonga, utna hi aagey jaakey aaram raheyga. / Mida rohkem puid ma kasvatan seda kergem elu pärast on. 
+
+indian_peasant.DryBrick=Ghar bananey key liye kitney inth chahiyey? / Kui palju telliskive sul vaja on,et maja ehitada? 
+indian_peasant.GatherBrick=Aaj suraj teez hai, inth jaldi sookh rahaien hain. / Päike on kuum,need kuivavad kiiresti täna. 
+indian_peasant.CookBrick= Dekho, aag mein kaisi badhiyan pakti hai yeh intein. / Vaata kui hästi need telliskivid küpsevad tules.
+villager.PlantRice=Is saal barish achchi hui toh phasal accha hoga. / Kui sajab kõvasti, siis saak on hea sel aastal.
+villager.HarvestRice=Is baar barish acchi honey sey phasal bhi acchi hui hai. / Tänu heale vihmale täna on saak hea.
+villager.PlantTurmeric=Haldi toh sabhi ko chahiyein. / Lõppude lõppuks, vajavad kõik kurkumat.
+villager.HarvestTurmeric=Haldi ki kheti kartey kartey merey haath peeley ho gayein hain. / See kurkuma saak teeb mu käed kollaseks.
+indian_peasant.SlaughterChicken=Bahut kha liya ghas-phoos. / Mul on küllaga taimetoitluse karrit!
+
+indian_peasantwife.GetHouseTHResources=Sab kuch toh thakur ko dey dena padta hai. / Kõik asjad alati lähevad isanda majja. 
+indian_peasantwife.GetGoodsHousehold=Inkey liye chahey jitna bhi khana lao, kam padta hai. / Ükskõik kui palju sa tood sellele perele, ei ole see küllaga!
+indian_peasantwife.DeliverGoodsHousehold=Uffh, itna sara khana akeley kaisey leh jaoongi. / Kuidas ma küll kanna kõike seda toitu?
+indian_peasantwife.makeRasgulla= Bacchon koh rasgulla bahut pasand hai. / Lapsed armastavad rasgullasi.
+
+
+indian_peasant.GetResourcesForBuild=Hmmm, ek tan ka inth  chahiye, dau tan paththar .. / Vaatame nüüd, üks tonn telliskive, kaks tonni kive...
+indian_peasant.construction=Hindu vastu-kala desh videsh mein mashoor hai. / Hindu arhitektuur on kasutusel tervers maailmas.
+indian_peasant.construction=Iskey baad, main lal kila banaoonga. / Kui ma lõppetan sellega teen ma punase kindluse. 
+
+villager.GoPlay=Mujjhey mitti sey khelna accha lagta hai. / Mulle meeldib mudas mängida.
+villager.BecomeAdult=Khel kud bahut ho gaya, ab kaam par chalo. / Küllaga mängimist, aeg tööle minna.
+male.BecomeAdult=Main badey hokar yodhdha ban-na chahta tha. / Ma tahtsin saada osavaks sõdalaseks kui ma noor olin...
+female.BecomeAdult=Mainey socha tha kisi rajkumar sey shaadi hogi... / Ma olen unistanud,et abiellun printsiga...
+
+villager.gopray.chosen=Mandir jaaney ka samay ho gaya. / Aeg külastada templit jälle.
+indian_pandit.gopray.chosen=Main mandir ki dekh bhaal nahin karoonga toh kaun karega? / Kui ma ei hoolitse templi eest,siis kes hoolitseb?
+
+villager.calltoarms=Jeet hamari hoogi. / Võit on meie!
+villager.calltoarms=Dushmano ki haar. / Kaotus vaenlastele!
+villager.calltoarms=Sab apney apney hathiyar utha lo! / Kõik võtke oma relvad!
+
+indian_smith.MakeTools=Sabhi merey banaye huye upkaran istamal kartey hain, phir bhi mujhey neecha samachtey hain. / Kõik kasutavad mu tööriistu, aga ikka kõik vihkavad mind.
+indian_armysmith.MakeWeapons=Hathiyaar bananey mein, upkaran bananey sey zyaada maan hai. / Relvade tegemine on nii plaju raskem ja olulisem kui tõõriistade tegemine!
+indian_sculptor.Scult=Murtikala ched aur gaanth ki kala hai. / Skulptuur on kunst aukudest ja muhkudest.
+
+merchant_oriental.KeepStall=Dekho yeh phaarsa ka gaurav! / Vaata Pärsia kuulsust!
+merchant_adivasi.KeepStall= Sab kuch mere parivar dwara kheti ki gayi hai. / Kõik on kasvatatud mu perekonnalt, sügaval džunglis.
+merchant_villagewoman.KeepStall=Ghara ka bana khana, bhukhe yaatriyon ke lie! / Kodu tehtud toit näljastele reisijatele!

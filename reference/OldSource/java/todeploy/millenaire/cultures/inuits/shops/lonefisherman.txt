@@ -1,0 +1,5 @@
+sells=inuittrident,fishraw,fishcooked,seafood_raw,seafood_cooked,leather,bone,boneblock,inuitmeatystew,inuitcarving,furboots,leatherboots
+
+buys=fishraw,fishcooked,seafood_raw,seafood_cooked,inuitmeatystew,inuitpotatostew,rottenflesh,leather,bone,boneblock
+
+buysoptional=leatherhelmet,leatherchest,leatherlegs,leatherboots,furhelmet,furplate,furlegs,furboots,inuitbow,bearmeat_raw,bearmeat_cooked,wolfmeat_raw,wolfmeat_cooked,beefraw,beefcooked,porkchops,porkchopscooked,chickenmeat,chickenmeatcooked,rabbit,cooked_rabbit,mutton,cooked_mutton,potato,baked_potato,wheat,bread,inuitbearstew

@@ -1,0 +1,10 @@
+
+﻿version:3.4
+<darkblue>Uppdrag
+När ett uppdrag är tillgängligt, så kommer det att visas ovanför huvudet på byborna tex "<darkblue>[Törstig!]<black>." Höger klicka för att få mer info om uppdraget och att kunna godkänna eller neka uppdraget. Uppdrag belöner dig med pengar, respekt eller saker. Vissa uppdrag kräver att du har en bra rykte med byn för att kunna göras.
+För att få reda på vilka uppdrag som du har acepterat och vad du behöver göra, tryck på "M"
+<darkblue>Skapelse uppdrag
+Denna speciela samling av uppdrag som är många och har två självständiga kapitel, vilket fokuserar på Normanska och Indiska kulturerna. De första uppdragen av varje kapitel får du av en Normansk eller Indisk bybo när du har nått respekt nivån "Vän till byn" (Uppdraget kan bli tillgängligt när som helst, så det kan ta tid innan det blir tillgängligt).
+Båda uppdragen kräver att du hittar en speciel ensam byggnad. Du måste utforska till du hittar dem; var försiktigt de är väldigt sällsynta. Men dessa byggnader dyker upp om du använder knappen "V".
+Detta speciella uppdrag är, ungefär, ett antal uppdrag delat i två självständiga kapitel och är centrerade på Norman och Hindu kulturerna. De första uppdraget av de två kapitlen är tillgängliga från Hindu och Norman bybor när du får titeln "vän till byn" (du kanske behöver vänta någon tid för att de första uppdraget ska bli tillgängligt även efter att du har fått rätt titel).
+I de båda första uppdragen behöver du hitta speciella isolerade konstruktioner; du borde utforska tills du hittat dom. Notera dock, de är unika och till skillnad från de vanliga isolerade konstruktionerna finns i by listan och kan hittas med "V" tangenten.

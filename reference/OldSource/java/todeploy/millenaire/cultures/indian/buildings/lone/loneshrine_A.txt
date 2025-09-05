@@ -1,0 +1,12 @@
+//Parameters for the building as a whole
+building.length=8
+building.width=8
+building.buildingorientation=3
+
+building.icon=indianstatue
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Chota Mandir
+initial.male=indian_pandit
+

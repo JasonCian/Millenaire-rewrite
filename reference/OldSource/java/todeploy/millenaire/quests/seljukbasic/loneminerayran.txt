@@ -1,0 +1,12 @@
+minreputation:1000
+chanceperhour:0.1
+maxsimultaneous:2
+step:new
+duration:48
+definevillager:key=startvillager,type=seljuk/turk_loneminer,forbiddentag=loneminerayran_done
+villager:startvillager
+requiredgood:ayran,3
+rewardgood:ironnugget,48
+rewardreputation:500
+settagsuccess:startvillager,loneminerayran_done
+settagfailure:startvillager,loneminerayran_done

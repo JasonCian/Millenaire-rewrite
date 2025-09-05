@@ -1,0 +1,16 @@
+building.length=11
+building.width=10
+building.buildingorientation=3
+building.icon=cotton
+building.version=2
+building.closetotag=cottonfield,50
+building.areatoclear=4
+
+initial.startlevel=-1
+initial.nativename=Julaahaa Ka Ghar
+initial.priority=900
+initial.male=indian_weaver
+initial.female=indian_peasantwife
+initial.requiredvillagetag=cottonfield
+
+upgrade1.priority=60

@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "##",
+        "##"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:snow",
+            "data": 0
+        }
+    },
+    "result": {
+        "item": "millenaire:snowbrick",
+		"count": 4,
+        "data": 0
+    }
+}

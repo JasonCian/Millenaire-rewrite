@@ -1,0 +1,178 @@
+
+travelbook.culture.desc=Os moradores maias falam de uma Idade de Ouro perdida, mas até hoje suas habilidades arquitetônicas impressionam. Eles podem não dominar o ferro, mas suas habilidades de trabalhar pedras são iguais e produzem uma deliciosa bebida à base de cacau!
+
+travelbook.villager.lonemayanfarmer.desc=Este agricultor maia trabalha duro para sustentar sua família em sua pequena fazenda isolada.
+
+travelbook.villager.lonemayanpeasantwife.desc=Juntamente com o marido, essa mulher maia cultiva em sua pequena fazenda na selva.
+
+travelbook.villager.lonemayanshaman.desc=Este xamã maia escolheu viver na selva para estudar melhor o mundo natural.
+
+travelbook.villager.lonemayanshamanwife.desc=Essa mulher maia trabalha com o marido xamã na selva.
+
+travelbook.villager.mayan_armysmith.desc=Capaz de fabricar equipamentos rapidamente, esse aldeão pode transformar pedra e couro em espadas e armaduras.
+
+travelbook.villager.mayan_boy.desc=Ele será um grande guerreiro algum dia, mesmo que ele cresça primeiro.
+
+travelbook.villager.mayan_chickenfarmer.desc=Enquanto os maias normalmente comiam perus, as galinhas são semelhantes o suficiente para que esse maia faça seu trabalho de fornecer carne para a aldeia.
+
+travelbook.villager.mayan_chieftain.desc=Líder de uma vila militar maia, o Chefe faz o possível para garantir a segurança de sua vila neste mundo hostil e bizarro.
+
+travelbook.villager.mayan_cocoafarmer.desc=O cacau era uma mercadoria extremamente importante para os maias, e esse homem dedicou sua vida ao cultivo e colheita desses grãos especiais.
+
+travelbook.villager.mayan_crafter.desc=Uma vila requer ferramentas, e esse aldeão maia tem a habilidade de criar uma variedade de ferramentas de pedra para a vila.
+
+travelbook.villager.mayan_farmer.desc=Esse aldeão é encarregado do importante trabalho de gerenciar o campo de milho da vila, para que seus companheiros não morram de fome.
+
+travelbook.villager.mayan_girl.desc=Essa menina se tornará um bem valioso em sua comunidade algum dia.
+
+travelbook.villager.mayan_king.desc=Líder da vila agrícola maia. O reino deste rei pode não ser vasto, mas isso não significa que seu poder não seja absoluto.
+
+travelbook.villager.mayan_leader.desc=Líder da vila religiosa maia, esse governante faz o possível para manter seu povo a favor dos deuses.
+
+travelbook.villager.mayan_lumberman.desc=Embora não seja tão importante para os maias quanto a pedra, esse lenhador ainda tem o importante trabalho de cortar árvores e fornecer lenha. De que outra forma os aldeões cozinham pedras?
+
+travelbook.villager.mayan_merchant.desc=O modo de vida maia repousava sobre o comércio entre cidades-estado, e essas aldeias não são exceção. Este homem viaja pelo mundo em busca de novos produtos para ajudar sua aldeia.
+
+travelbook.villager.mayan_miner.desc=O mineiro maia passa seus dias artisticamente extraindo uma quantidade quase impossível de pedra de um pequeno buraco no chão.
+
+travelbook.villager.mayan_obsidiancrafter.desc=Muitos não conseguem trabalhar tanto obsidiana quanto esse cara, e ele usa suas habilidades ao criar ferramentas de obsidiana e armadura de couro.
+
+travelbook.villager.mayan_peasant.desc=Embora possam ser camponeses, eles são a força vital da vila. Alguém tem que construir os prédios e cuidar das plantações.
+
+travelbook.villager.mayan_peasantwife.desc=Embora possam ser camponeses, eles são a força vital da vila. Alguém tem que construir os prédios e cuidar das plantações.
+
+travelbook.villager.mayan_richwoman.desc=A esposa rica e de elite do líder da aldeia. Ela passa o tempo exibindo suas jóias e fofocando com outras mulheres.
+
+travelbook.villager.mayan_sculptor.desc=Os maias registraram sua história e eventos com esculturas em pedra, e esse homem foi treinado para esculpir pedra em uma imagem que durará séculos.
+
+travelbook.villager.mayan_shaman.desc=O principal elo entre os deuses e o povo. O xamã faz o possível para garantir uma colheita abundante e proteção para a vila através de ofertas e sacrifícios.
+
+travelbook.villager.mayan_shamanwife.desc=A esposa do xamã da vila, ela o ajuda com suas tentativas de apaziguar os deuses.
+
+travelbook.villager.mayan_warrior.desc=Este bravo guerreiro é encarregado da segurança da vila, e ele não pára em nada para manter sua vila segura, mesmo que isso signifique manter as aldeias adversárias alinhadas.
+
+travelbook.villager.mayanbanditboy.desc=O filho inútil de um bandido. Sua família pode ter tido um bom motivo para recorrer ao banditismo, mas nada foi estabelecido neste momento.
+
+travelbook.villager.mayanbanditwarrior.desc=Membro de um estado oposto da cidade na Terra, esse bandido trabalha para derrubar a maioria maia atual do país.
+
+travelbook.villager.mayanfemalebandit.desc=Essa mulher bandida é tão violenta e sem lei quanto seus colegas do sexo masculino.
+
+travelbook.villager.merchant_mayanfarmer.desc=Esse comerciante maia vende uma grande variedade de alimentos, incluindo milho, wah e masa deliciosos.
+
+travelbook.villager.merchant_mayanhunter.desc=Este comerciante mostra suas lojas de bens e armas de animais, a fim de ajudar seus clientes a sobreviver neste mundo.
+
+travelbook.villager.merchant_mayanshaman.desc=Esse xamã errante vende mercadorias de monstros mortos, cruciais para oferendas aos deuses.
+
+travelbook.village.agriculture.desc=Baseada em torno de uma quadra de bola sagrada, esta vila maia concentra-se na agricultura e na produção de alimentos maias únicos para alimentar o rei.
+
+travelbook.village.mayan_controlled.desc=Uma vila de propriedade de um jogador que ganhou a confiança do povo maia.
+
+travelbook.village.mayan_customcontrolled.desc=Uma vila de propriedade de um jogador que conquistou a confiança do povo maia, mas pediu espaço para um pouco mais de criatividade.
+
+travelbook.village.military.desc=Ao redor de uma poderosa pirâmide, esta vila maia concentra-se em torno da guerra e da produção de armas e armaduras maias únicas para a defesa contra aldeias opostas.
+
+travelbook.village.religious.desc=Com um ótimo Observatório no centro, esta vila maia é especializada no comércio e na criação de itens e decorações para apaziguar os deuses.
+
+travelbook.building.gifthouse.desc=Completa com um bolo, esta casinha premia os jogadores que contribuíram para o Millénaire.
+
+travelbook.building.lonemayancave.desc=Essa estranha estrutura maia abandonada deve ter sido usada para rituais de alguns tipos.
+
+travelbook.building.lonemayancornfarm.desc=Esta antiga fazenda de milho maia foi perdida na selva há muito tempo.
+
+travelbook.building.lonemayanfarm.desc=Uma fazenda maia solitária, onde dois fazendeiros cultivam milho.
+
+travelbook.building.lonemayanmining.desc=A selva recuperou esta antiga mina maia.
+
+travelbook.building.lonemayanpyramid.desc=Ninguém se lembra qual Maya King ordenou a construção desta pirâmide maciça na selva.
+
+travelbook.building.lonemayanruin.desc=Não é mais possível conhecer o propósito deste edifício maia, há muito recuperado pela selva.
+
+travelbook.building.lonemayanshaman.desc=Este abrigo de aparência extravagante foi construído para um xamã por um rei Maya agradecido.
+
+travelbook.building.mayanacropolis.desc=Esta quadra de bola sagrada é o local do sagrado jogo de bola maia, um evento esportivo dedicado aos seus deuses.
+
+travelbook.building.mayanalter.desc=É aqui que o xamã da aldeia vem realizar seus sacrifícios aos deuses.
+
+travelbook.building.mayanarmyforge.desc=Centro para todas as coisas militares, este edifício é a oficina do ferreiro da vila.
+
+travelbook.building.mayanbakery.desc=Necessário para a criação de alimentos maias exclusivos, como wah ou masa.
+
+travelbook.building.mayanballcourt.desc=As quadras de bolas maias eram frequentemente usadas para um jogo de bola especial que também servia de espetáculo para os deuses.
+
+travelbook.building.mayanbandithome.desc=Esta habitação fortificada abriga uma perigosa família de bandidos.
+
+travelbook.building.mayanbandits.desc=Um esconderijo para bandidos maias.
+
+travelbook.building.mayanbigwell.desc=Este poço ajuda a aumentar as colheitas na aldeia.
+
+travelbook.building.mayancacaofarm.desc=O cacau era uma parte muito importante da vida maia e é aqui que é cultivado.
+
+travelbook.building.mayancalendar.desc=Este grande calendário de pedra maia documenta os muitos ciclos que o tempo passa.
+
+travelbook.building.mayancistern.desc=Esta cisterna melhora muito a quantidade de colheitas colhidas em uma aldeia.
+
+travelbook.building.mayancornfarm.desc=O cacau e o milho eram o alimento básico das culturas maias, e é aqui que as últimas são cultivadas.
+
+travelbook.building.mayancrafter.desc=Na oficina do artesão, este local vende ferramentas de pedra e ornamentos de ouro.
+
+travelbook.building.mayangrove.desc=Este é o bosque da vila, onde são cultivadas árvores tropicais.
+
+travelbook.building.mayanguard.desc=Esta casa é a casa de um soldado maia, que jurou defender sua aldeia.
+
+travelbook.building.mayanhouse.desc=Casas pequenas, mas de estudo como essa, abrigam camponeses maias.
+
+travelbook.building.mayaninn.desc=Esta pousada Maya oferece alojamento e alimentação para os comerciantes que visitam as aldeias próximas.
+
+travelbook.building.mayanlargepeasanthouse.desc=Esta casa camponesa excepcionalmente grande pode hospedar duas famílias.
+
+travelbook.building.mayanlargepeasanthouse2.desc=Esta casa camponesa excepcionalmente grande pode hospedar duas famílias.
+
+travelbook.building.mayanlargepeasanthouse2_a_secondary.desc=Esta pequena habitação é anexada a outra casa camponesa.
+
+travelbook.building.mayanlargepeasanthouse_a_secondary.desc=Esta pequena habitação é anexada a outra casa camponesa.
+
+travelbook.building.mayanlibrary.desc=Uma biblioteca maia, com registros de todas as ocupações dos moradores.
+
+travelbook.building.mayanlumber.desc=Uma casinha ocupada pelo lenhador da vila.
+
+travelbook.building.mayanmarket.desc=Este mercado chique hospeda comerciantes de longe.
+
+travelbook.building.mayanmining.desc=É em minas como essa que os maias produzem as infinitas quantidades de pedra que sua arquitetura exige.
+
+travelbook.building.mayanobservatory.desc=Um observatório maia, usado para observar o céu noturno e prever eventos futuros.
+
+travelbook.building.mayanobsidiancrafter.desc=A casa de um artesão habilidoso, especializado em criar obsidiana.
+
+travelbook.building.mayanplayerestate.desc=ma propriedade fortificada maciça, adequada para os jogadores mais ricos.
+
+travelbook.building.mayanplayerhugefield.desc=Um campo enorme adequado para a construção de uma impressionante pirâmide.
+
+travelbook.building.mayanplayerlargefield.desc=Um grande campo onde construir uma pirâmide de aparência decente.
+
+travelbook.building.mayanplayerlargehouse.desc=Uma casa grande e sólida para um jogador abastado.
+
+travelbook.building.mayanplayerpyramid.desc=Uma pirâmide impressionante para governar uma vila controlada.
+
+travelbook.building.mayanplayersmallfield.desc=Um pequeno campo adequado para uma pequena pirâmide, quase um monte.
+
+travelbook.building.mayanplayersmallhouse.desc=Uma casa maia modesta, adequada para um jogador iniciante.
+
+travelbook.building.mayanpyramid.desc=Uma enorme pirâmide construída em homenagem a um deus maia, em torno do qual uma aldeia religiosa se agrupa.
+
+travelbook.building.mayanruinedpyramid.desc=Essa pirâmide quebrada ainda impressiona mesmo em seu estado de ruína.
+
+travelbook.building.mayansculptorhouse.desc=A casa do escultor maia, na qual ele esculpe estátuas impressionantes de deuses maias.
+
+travelbook.building.mayanshamangrounds.desc=A estranha moradia ao ar livre do xamã maia.
+
+travelbook.building.mayansheepchickenfarm.desc=Uma pequena fazenda da aldeia, onde galinhas são criadas para a sua carne.
+
+travelbook.building.mayanshrine.desc=Um pequeno santuário dedicado a um Deus local.
+
+travelbook.building.mayantemple.desc=Um templo enorme dedicado ao Deus padroeiro da vila.
+
+travelbook.building.mayanwatchtower.desc=Uma torre de vigia fortificada para monitorar cidades-estados inimigas.
+
+travelbook.building.mayanwell.desc=Um poço profundo a partir do qual obter água para cultivar milho.
+
+travelbook.trade_good.dye_brown.desc=Culturas menores podem ver isso como um corante marrom, mas é muito mais para os maias: o principal ingrediente da bebida sagrada de Cacauhaa.

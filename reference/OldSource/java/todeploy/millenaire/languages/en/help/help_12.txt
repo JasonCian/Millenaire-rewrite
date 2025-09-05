@@ -1,0 +1,14 @@
+version:4.3.0
+<darkblue>The Byzantines
+
+Proud and worthy successors to the Romans, the Byzantines produce wine and refined religious icons. They speak Greek, but their dialogue will be translated as the player "learns" their language by speaking with them.
+
+<darkblue>Unique objects and blocks
+
+-They grow grapes and produce wine from them. The player can ask the chef to teach him how to cultivate this plant.
+-They use clay to produce elegant Byzantine tiles with which they cover their buildings
+-Their mastery of sericulture (farming silkworms) allows them to produce the silk on which they paint their Byzantine Icons
+
+<darkblue>Specific recipe
+
+-two lines of three grapes each makes wine

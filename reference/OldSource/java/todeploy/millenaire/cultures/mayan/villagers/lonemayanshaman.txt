@@ -1,0 +1,15 @@
+native_name=Aj K'in
+gender=male
+familyNameList=high_caste_family_names
+firstNameList=men_names
+tag=religious
+icon=mushroomred
+
+
+texture=textures/entity/mayan/mayan_shaman0.png
+texture=textures/entity/mayan/mayan_shaman1.png
+
+goal=gorest
+goal=gopray
+goal=goDrinkCacauhaa
+

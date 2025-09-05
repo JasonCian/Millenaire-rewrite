@@ -1,0 +1,915 @@
+
+startup.loadproblem=Произошла ошибка при попытке загрузки <0>.
+startup.checkload=Проверьте папку культур в папке millenaire, находящейся в папке minecraft.
+startup.millenaireloaded=<0> запущен. Исследуйте мир. Нажмите '<1>' для отображения списка ближайших поселений.
+startup.radiuswarning = УВАГА: Установка розміру поселень настільки високим не є необхідним і призведе до великих лагам. Значення понад <0> не рекомендовані.
+startup.bonus = Бонусний контент активовано.
+
+command.nogenerate = <0> більше не створюватиме поселень в нових секторах цього світу.
+command.willgenerate = <0> створюватиме нові поселення в нових секторах цього світу.
+command.astarpathing = Використовуються A * шляху
+command.binarypathing = Використовуються бінарні шляху
+command.minecraftpathing = Використовуються шляху Minecraft
+command.inactive = Чи не активно
+command.active = Активно
+command.frozen = Пауза
+command.villagelist = <4>: <0> (<1>) в <2> м. <3>.
+command.villagelistkeylonebuilding = <0> в <1> м. <2>.
+command.noknowvillage = Немає відомих поселень ближче ніж 2 км. Продовжуйте шукати!
+command.newvillagefound = Виявлено новий поселення: <0> виду <1>, що належить культурі <2> в <3> м. <4>.
+command.newlonebuildingfound = Виявлено нову будову: <0> в <1> м. <2>.
+command.pathrebuild = Карта і шляхи для <0> були перебудовані.
+
+//Text used in various UI parts, in no specific order:
+ui.lockedchest = Закритий скриню
+ui.largelockedchest = Великий закритий скриню
+ui.unlockedchest = Відкритий скриню
+ui.largeunlockedchest = Великий відкритий скриню
+ui.allchestsunlocked = Всі скрині в <0> тепер відкриті.
+ui.outofstock = Немає в наявності!
+ui.reputationneeded = Необхідна репутація: <0>
+ui.missingdeniers = Бракує <0> денье.
+ui.missingequipment = Бракує спорядження
+ui.noneininventory = Немає в інвентарі.
+ui.selling = Продає
+ui.buying = Купує
+ui.buybuilding = Купити: <0> (<1>)
+ui.buybonusbuilding = Попросити як бонус: <0>
+ui.sellercoming = <0>: Я зараз підійду, $ name!
+ui.tradecomplete = <0>: Сподіваюся Вам сподобалося торгувати з нами! Гарного дня.
+ui.sellerboycott = <0>: Ніколи більше не буду торгувати з тобою, злочинець!
+ui.sellernotcurrently possible = <0>: Як Ви думаєте торгувати, коли наше поселення розорене?
+ui.wesell = Ми продаємо
+ui.webuy = Ми купуємо
+ui.isell = Я продаю
+ui.inventory = Інвентар
+ui.villagechief = Глава поселення <0>
+ui.yourstatus = Ваш статус
+ui.possiblehousing = Можливі будинку
+ui.alreadybuilt = вже побудовано
+ui.alreadyrequested = вже замовлено
+ui.notavailableyet = ще не доступно
+ui.available = доступно
+ui.bonusavailable = подарунок доступний
+ui.youaremissing = не вистачає: <0>
+ui.scrollsnoreputation = Репутації мало щоб придбати сувої поселення.
+ui.scrollsnotenoughmoney = Бракує <0> денье для сувою поселення.
+ui.scrollsok = Ви можете придбати сувої поселення.
+ui.buyscroll = Купити сувій поселення.
+ui.cost = Ціна
+ui.clicktorequest = Натисніть для замовлення
+ui.scrollbought = <0>: Вам довірено сувій нашого поселення!
+ui.housebought = <0>: <0> буде незабаром побудовано!
+ui.inhabitantof = Житель <0>
+ui.inconstruction = Споруда
+ui.nospace = Бракує простору
+ui.reservedforvillager1 = Зарезервовано
+ui.reservedforvillager2 = для жителя
+ui.currentlyempty1 = В даний
+ui.currentlyempty2 = час пусто
+ui.visitorslist1 = Список
+ui.visitorslist2 = постояльців
+ui.goodstraded = Продано
+ui.imports = Імпорт
+ui.exports = Експорт
+ui.import_total = Всього імпорт: <0>
+ui.export_total = Всього експорт: <0>
+ui.merchants = Купці:
+ui.goalscompleted1 = Всі будівлі
+ui.goalscompleted2 = завершені
+ui.project = Проект
+ui.noconstruction1 = Немає будівель
+ui.noconstruction2 = в процесі
+ui.upgrading = Поліпшення (<0>)
+ui.construction = Споруда <0>%:
+ui.population = Населення:
+ui.populationnumber = Населення: <0>
+ui.adults = Дорослих: <0> (<1> / <2>)
+ui.teens = Молодих: <0> (<1> / <2>)
+ui.children = Дітей: <0> (<1> / <2>)
+ui.villagemap = Карта поселення
+ui.nbbuildings = <0> будівель
+ui.wandwrongblock = Даний жезл працює тільки з обсидіановими блоком для випадкового поселення або із золотим блоком для можливості вибору типу поселення
+ui.wandblocklist = <0> для <1>
+ui.wandblocklistcontrolled = <0> для <1> (необхідний статус лідера в даній культурі)
+ui.brickinstructions = Одна земля і один пісок необхідні для створення цеглин.
+ui.buildingscentre = Центр
+ui.buildingsstarting = Початкові будівлі
+ui.buildingsplayer = Будівлі мандрівника
+ui.buildingskey = Основні будівлі
+ui.buildingssecondary = Вторинні будівлі
+ui.buildingsextra = Додаткові будівлі
+ui.worldnotgenerated = Простір миру не повністю згенеровано. Трохи відійдіть і повертайтеся пізніше.
+ui.tooclosetospawn = Чи не дозволяється генерація поселення настільки близько до точки відродження.
+ui.generatenotenoughspace = Не виходить знайти простір для ратуші.
+ui.generatenotenoughspacevillage = Не виходить знайти простір для поселення
+ui.lackingresources = Потрібні ресурси
+ui.lockedchestwarning = УВАГА: руйнування закритих скринь не дасть нормально працювати поселенням нормально. Робіть це тільки у випадку, якщо хочете зруйнувати поселення.
+ui.xoutofy = <0> з <1>
+ui.extraresneeded1 = <0> інші ресурси
+ui.extraresneeded2 = потрібні
+ui.woodforplanks = Дерево (будь-яке)
+ui.woodoak = Дуб
+ui.woodpine = Сосна
+ui.woodbirch = Береза
+ui.woodjungle = Баобаб
+ui.anyenchanted = Зачарований об'єкт
+ui.enchantedsword = Зачарований меч
+ui.selectabuildingproject = Виберіть проект будівництва
+ui.projectadded = Проект був доданий в список
+ui.problemat = Проблема в <0>: <1>
+ui.constructionforbidden = споруда заборонена
+ui.locationclash = конфлікт з іншою будівлею
+ui.outsideradius = за територією поселення
+ui.wrongelevation = за кордоном допустимої висоти
+ui.danger = небезпечний блок
+ui.notreachable = недосяжна територія
+ui.unknownerror = невідома проблема
+ui.controlbuildingprojects = Управління будівельними проектами
+ui.forbidupgrades = Зупинити поліпшення
+ui.allowupgrades = Дозволити поліпшення
+ui.cancelbuilding = Прибрати будівля
+ui.level = рівень
+ui.notyetbuilt = Ще не побудовано
+ui.nbinhabitants = Число проживаючих: <0>
+ui.wandnocontrol = Ви не можете заснувати даний тип поселень, так як ви не є лідером культури <0>.
+ui.control_ok = Ви настільки послужили поселенню <0> що його люди готові визнати Вас лідером! Я можу зробити це офіційно і дозволити Вам заснувати власне поселення.
+ui.control_noreputation = Репутації ще недостатньо, щоб Вас визнали лідером народу <0>. Покращуйте Вашу репутацію або виконайте виняткові завдання для досягнення цього статусу.
+ui.control_alreadydone = Ви вже визнані лідером <0>.
+ui.control_get = Дізнайтеся про визнання Вас як лідера.
+ui.control_gotten = <0>: Я офіційно визнаю Вас гідним вести наш народ <1>! Тепер Ви можете заснувати своє поселення.
+ui.selectavillage = Виберіть тип поселення, який хочете заснувати
+ui.leadershipstatus = Статус лідерства
+ui.leaderin = Ви лідер культури <0>. Ви можете заснувати поселення даної культури, яким зможете управляти.
+ui.notleaderin = Ви ще не лідер культури <0>.
+ui.leaderinstruction = Для того щоб стати лідером культури Ви повинні досягти статусу "Істинний лідер" в поселенні і запитати лідера поселення, або повністю виконати "Завдання створення" для даної культури (якщо доступно).
+ui.wandinstruction = Використовуйте жезл на обсидіановими блоці для створення випадкового поселення, або на золотом блоці для вибору типу поселення
+ui.controlled = управляється
+ui.villagerelations = <0> (<1>, <2>): <3>
+ui.relationlist = Відносини з іншими поселеннями
+ui.relationpraise = Хвалити
+ui.relationslander = Лаяти
+ui.relationpoints = Кількість очок дипломатії: <0>
+ui.villagerelationsnobutton = У Вас повинні бути окуляри дипломатії і позитивна репутація, щоб впливати на відносини сіл.
+ui.relationhelp = Допомога про відносини <ret> <ret> Відносини між поселеннями визначає чи будуть дані поселення співпрацювати чи ні. <ret> <ret> Місцевий торговець (купець зберігає ресурси) торгуватиме з поселеннями при хороших відносинах в тій же культурі, або при відмінних відносинах іншої культури. <ret> <ret> Поселення різних культур і дуже хорошими відносинами при наявності ринків будуть відсилати купців своєї культури іншій культурі. <ret> <ret> Поселення тієї ж культури з відмінними відносинами надаватимуть і приймати підлітків, якщо для них є робота. <ret> <ret> Відносини між головними та провідними поселеннями спочатку відмінні, хорошими для поселень тієї ж культури і нейтральними в іншому випадку. <ret> <ret> Кожен день гравець отримує 5 очок дипломатії, якими може впливати на відносини між поселеннями. Ефективність хвали, або лайки залежить від його репутації в даному поселенні.
+ui.relationfriendly = Недавні події між поселеннями <0> і <1> поліпшили відносини між ними. Тепер вони <2>.
+ui.relationunfriendly = Недавні розбіжності між поселеннями <0> і <1> погіршили відносини між ними. Тепер вони <2>.
+ui.cropplantingknowledge = Ви не знаєте як садити <0>. Вам треба запитати у лідера поселення.
+ui.cropsknown = Посіви відомі з цієї культури
+ui.cropknown = Ви навчилися як садити <0>.
+ui.cropinsufficientreputation = Репутація занадто низька, щоб поселення навчило вас як садити <0>.
+ui.cropnotenoughmoney = Вам потрібно ще <1> щоб оплатити навчання як садити <0>.
+ui.cropoktolearn = Поселення може навчити вас садити <0>.
+ui.croplearn = Навчитися (<0>)
+ui.croplearned = <0>: Вам були відкриті таємниці культивації <1>!
+ui.raider = Загарбник
+
+ui.communicationexplanations = Щоб спілкуватися з місцевими жителями, натисніть праву кнопку миші. Якщо можливий діалог (торгівля, розмова з главою села, тимчасовий найм, квест) відкриється вікно.
+ui.helpbutton = Millenaire Help
+ui.chunkbutton = Карта чанків
+ui.configbutton = Налаштування Millénaire
+ui.serverimportforbidden = Тільки адміністратор користувачі можуть імпортувати будівель на сервері.
+
+ui.controldiplomacy = Дипломатія
+ui.raidinprogress = Рейд в процесі!
+ui.otherraidinprogress = Інший рейд у процесі.
+ui.otherraidplanned = Інший рейд запланований.
+ui.raidcancel = Скасувати Рейд.
+ui.raidplanned = Рейд запланований.
+ui.relgood = Відмінні
+ui.relneutral = Нейтральні
+ui.relbad = Війна
+ui.raid = Запланувати Рейд
+
+help.tab_1 = Загальна інформація по селах
+help.tab_2 = Торгівля
+help.tab_3 = Репутація і глава поселень
+help.tab_4 = Зростання сіл
+help.tab_5 = Війна і рейди
+help.tab_6 = Створення і знищення сіл
+help.tab_7 = Завдання
+help.tab_8 = Нормани
+help.tab_9 = Хінді (Індійці)
+help.tab_10 = Майя
+help.tab_11 = Японці
+help.tab_12 = Греки (Візантійці)
+help.tab_13 = FAQ
+
+
+uest.obtained = Отримано
+quest.lackingcondition = Вам не вистачає:
+quest.lackinghiddengoods = У Вас не вистачає товарів для цього завдання.
+quest.close = Закрити
+quest.accept = Прийняти
+quest.refuse = Відхилити
+quest.continue = Продовжити
+quest.conditionsnotmet = Ви ще не виконали всі умови.
+quest.lessthananhourleft = Менш години залишилося!
+quest.timeremaining = Залишилось
+quest.hours = ч.
+quest.noquestsvisible = Немає завдань у процесі виконання
+quest.questlist = Виконувані завдання
+quest.reputationlost = втрачена репутація
+
+quest.creationqueststatus = Статус Завдання створення
+quest.creationqueststatusshort = Завдання створення:
+
+quest.cqchaptersadhu = Мудрець (Садху)
+quest.cqsadhustartexplanation = Знайди поселенця, здатного спрямувати тебе в поселенні гінді коли досягнеш статусу репутації "Друг поселення" для першого місії.
+
+quest.cqchapteralchemist = Алхімік
+quest.cqalchemiststartexplanation = Знайди поселенця, здатного спрямувати тебе в нормандському поселенні коли досягнеш статусу репутації "Друг поселення".
+
+quest.cqallcompleted = Поздравления! Ви завершили всі доступні місії "Завдання створення"!
+quest.cqcheckforupdates = Перевірте www.millenaire.org для подальших оновлень з великою кількістю місій.
+quest.cqchapternotstarted = Ви не почали главу "<0>".
+quest.cqchapterinprogress = Ви виконали <1> з <2> місій Завдання створення для голови "<0>".
+quest.cqchaptercompleted = Ви завершили главу "<0>".
+quest.cqchapternotstartedshort = Глава "<0>": не розпочато.
+quest.cqchapterinprogressshort = Глава "<0>": <1> / <2>.
+quest.cqchaptercompletedshort = Глава "<0>": завершена.
+quest.cqcheckquestlistandhelp = Натисніть '<0>' для більшої кількості інформації або допомоги.
+
+
+
+
+error.unknownitem = Невідомий предмет
+
+
+
+/ / Errors
+ui.updateEntity = Помилка в TileEntityBuilding.updateEntity (). Перевірте millenaire.log.
+
+/ / Panels & parchments
+panels.notextfound = Не найден текст для даної книги: <0>
+panels.invalidid = Некоректний ID поселення.
+panels.toofar = Поселення занадто далеко, щоб завантажити його записи.
+panels.recordsnotloaded = Записи поселення не можуть бути завантажені.
+panels.villagescroll = Сувій поселення
+panels.mother = Батько
+panels.father = Мати
+panels.spouse = Чоловік
+panels.dead = Тимчасово мертвий
+panels.awayraiding = Пішов на війну
+panels.awayhired = Найнятий мандрівником
+panels.invaderincoming = Йде
+panels.missing = втрачені!
+panels.multiple = ПРИСУТНІЙ <0> РАЗ!
+panels.currentoccupation = Поточний рід занять
+panels.visitors = Постояльці
+panels.constructions = Будівлі
+panels.upgrade = рівень
+panels.buildingprojects = Будівельні проекти
+panels.notyetbuilt = ще не побудовано
+panels.nbupgradesleft = <0> улучш. залишилося побудувати.
+panels.finished = завершено
+panels.houseunoccupied = Будинок не зайнятий. Дитина, яка стане підлітком з часом переїде сюди і почне доросле життя.
+panels.man = Чоловік
+panels.woman = Жінка
+panels.children = Діти
+panels.nofemaleresident = У цьому будинку ніколи не буде жити жінка.
+panels.bachelor = Тут живе чоловік все ще холостяк. З часом одна з дівчат вийде за нього заміж і буде жити тут.
+panels.nomaleresident = У цьому будинку ніколи не буде жити чоловік.
+panels.spinster = Тут живе жінка все ще незаміжня. З часом один з юнаків візьме її в дружини і вони будуть разом жити тут.
+panels.resources = Ресурси
+panels.goodstraded = товаропотоків поселення
+panels.goodsimported = Імпортуються з інших поселень
+panels.goodsexported = Експортуються в інші поселення
+panels.innvisitors = Постояльці <0>
+panels.mappurple = Фіолетовий: споруда в процесі.
+panels.mapblue = Синій: інші будівлі.
+panels.mapgreen = Зелений: підходяща для забудови територія.
+panels.maplightgreen = Світло-зелений: підходяща для забудови територія, але тут не може знаходиться центр будівлі.
+panels.mapred = Червоний: небезпечна територія (лава, кактус, і т.п.).
+panels.mapyellow = Жовтий: забудова заборонена (лід, штучні блоки).
+panels.maporange = Помаранчевий: забудова заборонена (занадто близько до будівель), недосяжні території (наприклад річка або каньйон).
+panels.maplightblue = Світло-синій: вода.
+panels.mapbrown = Коричневий: інші території (за кордоном висоти і т.п.).
+panels.unreachablebuilding = недоступно!
+panels.merchantlist = Список купців
+panels.capacity = Місткість
+panels.nbnightsin = В поселенні вже <0> ночей.
+panels.storedexports = <0> закупив на експорт <1>
+panels.broughtimport = <0> привіз до це поселення <1>
+panels.startedtrading = <0> (<1>) почав торгівлю.
+panels.merchantmovedout = <0> (<1>) виїхав з <2> після <3> днів в поселенні.
+panels.merchantarrived = <0> (<1>) прибув в <2>.
+panels.childarrived = <0> прибув з <1> і шукає роботу.
+panels.resourcesneeded = Ресурси необхідні для проекту
+panels.resourcesavailable = Ресурси на складі
+panels.villageculture = Поселення культури <0>
+panels.military = Військова сила
+panels.planningraid = Підготовка до Рейду
+panels.raidinprogress = Набіг (Рейд) у процесі
+panels.underattack = Атаковані!
+panels.offense = Напад: <0>
+panels.defense = Захист: <0>
+panels.offenselong = Сила нападу: <0>
+panels.defenselong = Сила захисту: <0>
+panels.raidinprogresslong = Атакує <0>. Військовий похід почався <1> ч. тому.
+panels.planningraidlong = Планує військовий похід на <0>. Планування почалося <1> ч. тому.
+panels.underattacklong = Атакований ворогом з <0> числом <1> з <2>!
+panels.villagefighters = Війни поселення
+panels.attackers = Атака
+panels.defender = Захист
+panels.raider = Рейди
+panels.health = Здоров'я
+panels.weapons = Зброя
+panels.armour = Броня
+panels.militarystrength = Сила
+panels.unknownattacker = в невідомому місці
+panels.raidsperformed = Досконалі набіги (Рейди)
+panels.raidssuffered = Відбиті набіги (Рейди)
+panels.nameand = <0> і
+panels.buildingproject = Поточні проекти:
+panels.currentconstruction = Поточний будівництва:
+panels.villagesummary = Ключова інформація
+
+/ / Goals (text displayed above the villager when he is doing it)
+goal.gorest = Відпочиває
+goal.godrink = Йде випити
+goal.gopray = Йде помолитися
+goal.GatherGoods = Збирає товари
+goal.BringBackResourcesHome = Несе ресурси додому
+goal.GetTool = Бере інструмент
+goal.huntMonster = Б'ється з монстром
+goal.getGoodsHousehold = Бере товари для господарства
+goal.DeliverGoodsHousehold = Доставляє товари для господарства
+goal.GetHouseTHResources = Несе ресурси з дому
+goal.DeliverResourcesShop = Доставляє ресурси
+goal.raidvillage = Атакує поселення
+goal.defendvillage = Захищає поселення
+goal.hide = Шукає дах
+
+goal.CollectCrop = Збирає урожай
+goal.PlantSeeds = Садить насіння
+goal.ChopTrees = Рубає дерево
+goal.PlantSaplings = Садить саджанці
+goal.GetResourcesForBuild = Бере ресурси для будівлі
+goal.MakeBread = Робить хліб
+goal.BeSeller = Торгує
+goal.MakeCider = Робить сидр
+goal.MakeCalva = Робить Кальву
+goal.Construction = Будує
+goal.GoPlay = Грає
+goal.BecomeAdult = Переїжджає
+goal.MakeNormanTools = Робить інструменти
+goal.MakeNormanWeapons = Робить зброю
+goal.Patrol = патрулюють
+goal.Butcher = Займається обробленням
+goal.MakeBoudin = Робить кров'яні ковбаски
+goal.MakeTripes = Робить Рубець
+goal.Mining = Добуває
+goal.Cooking = Готує ресурси
+goal.MakeBooks = Пише книги
+goal.MakeTapestry = Шиє гобелени
+goal.VisitInn = Йде в готель
+goal.VisitBuilding = Йде в магазин
+goal.MakeAmulet = Робить амулет
+goal.KeepStall = Продає на ринку
+goal.MakeTimberFrame = Робить каркаси
+
+goal.DryBrick = Ставить цеглини сохнути
+goal.GatherBrick = Збирає висохлі цеглини
+goal.CookBrick = Обпалює цегла
+goal.PlantRice = Садить рис
+goal.HarvestRice = Збирає рис
+goal.PlantTurmeric = Садить куркуму
+goal.HarvestTurmeric = Збирає куркуму
+goal.SlaughterChicken = Ріже курей
+goal.PlantSugarCane = Садить очерет
+goal.HarvestSugarCane = Збирає очерет
+goal.MakeRasgulla = Робить разгулла
+goal.Makesteelaxe = Робить сталевий сокиру
+goal.Makesteelpickaxe = Робить сталеву мотику
+goal.Makesteelshovel = Робить сталеву лопату
+goal.Makesteelhoe = Робить сталеву кирку
+goal.Makesteelsword = Робить сталевий меч
+
+goal.makesteelchest = Робить сталеву кірасу
+goal.makesteelhelmet = Робить сталевий шолом
+goal.makesteellegs = Робить сталеві поножі
+goal.makesteelboots = Робить сталеві черевики
+
+goal.makeindianstatue = Вирізає Індійську статую
+goal.performpujas = Performing a puja
+goal.bepujaperformer = Доступний для Пуджі
+
+goal.PlantMaize = Садить маїс
+goal.HarvestMaize = Збирає маїс
+goal.makemayanGoldBlock = Створює золотий орнамент
+goal.makemayanstatue = Вирізає статую Майя
+goal.Makestoneaxe = Робить кам'яна сокира
+goal.Makestonepickaxe = Робить кам'яну мотику
+goal.Makestoneshovel = Робить кам'яну лопату
+goal.Makestonehoe = Робить кам'яну кирку
+goal.Makestonesword = Робить кам'яний меч
+goal.makeleatherboots = Робить шкіряні чоботи
+goal.makeleatherchest = Робить шкіряну кірасу
+goal.makeleatherhelmet = Робить шкіряний шолом
+goal.makeleatherlegs = Робить шкіряні поножі
+goal.makemayanaxe = Робить обсидіановий сокиру
+goal.makemayanpickaxe = Робить обсидіановими мотику
+goal.makemayanshovel = Робить обсидіановими лопату
+goal.makemayanhoe = Робить обсидіановими кирку
+goal.makemayanmace = Робить обсидіановими булаву
+goal.makeobsidianflake = Ламає обсидіан на осколки
+goal.harvestcocoa = Збирає какао
+goal.plantcocoa = Садить какао
+goal.makecacauhaa = Готує какауха
+
+goal.fish = Ловить рибу
+goal.makethatch = Робить настил
+goal.makepaper = Робить папір
+goal.makepaperrice = Робить папір
+goal.makepaperwoodpulp = Робить папір
+goal.makepaperwall = Робить паперові стіни
+goal.cookfish = Готує рибу
+goal.cooksteak = Готує стейки
+goal.cooklamb = Готує баранину
+goal.cookpork = Готує свинні відбивні
+goal.cookchicken = готує курку
+goal.makeudon = Готує Удон
+goal.maketachi = Створює меч Тачі
+goal.makejapaneseweapons = Робить японське зброю
+goal.makesake = Ферментує саке
+
+
+goal.brewpotions = Варить зілля
+goal.harvestwarts = Збирає нарости
+goal.makeglassbottles = Робить пляшки
+goal.plantwarts = Садить нарости
+
+goal.plantvines = Садить лози винограду
+goal.harvestvines = Збирає виноград
+goal.gathersilk = Збирає шовк
+goal.makeicon = Пише ікону
+goal.makewine = Виробляє вино
+goal.makebookshelves = Оформляє книжкові полиці
+goal.makebyzantinetiles = Створює плитки
+goal.makebrick = Виготовляє цеглу
+goal.training = Тренується
+goal.paintpainting = Вішає картину
+goal.makebook = Пише книгу
+goal.makebyzantinemace = Робить грецьку булаву
+goal.makebyzantinechest = Робить грецьку кірасу
+goal.makebyzantinelegs = Робить грецькі поножі
+goal.makebyzantinehelmet = Робить грецький шолом
+goal.makebyzantineboots = Робить грецькі черевики
+
+goal.makebow = Робить лук
+goal.makerottenflesh = Making rotten flesh
+goal.makearrow = Робить стріли
+
+goal.sleep = Спить
+goal.sleep_travelling = Йде спати
+
+
+goal.makeclothes_byz_wool = Тче одяг
+goal.makemasa = Готується до месі
+goal.slaughterpig = Вбиває свиней
+goal.makesouvlaki = Готує шашлик (souvlaki)
+goal.makewah = Готує Вах
+goal.makecurry = Готує вегітаріанское каррі
+goal.makeclothes_byz_silk = Тче шовковий одяг
+goal.slaughtersheep = Вбиває овець
+goal.slaughtercow = Вбиває корів
+goal.breed = Розводить тварин
+goal.shearsheep = Стрежет овець
+goal.makemurgh = Готує курку каррі
+goal.getitemtokeep = Піднімає предмет
+
+goal.buildpath = Відстежує шлях
+goal.clearoldpath = Очищає старий шлях
+
+goal.gosocialise = Сперечається
+goal.chat = Обговорює
+
+goal.makedirtwall = Ствроює блоки землі
+goal.makepath = Створює блоки шляху
+
+//other
+other.west = захід
+other.east = схід
+other.north = північ
+other.north-east = північний схід
+other.north-west = північний захід
+other.south = південь
+other.south-east = південний схід
+other.south-west = південний захід
+
+other.tothewest = на захід
+other.totheeast = на схід
+other.tothenorth = на північ
+other.tothenorth-east = на північний схід
+other.tothenorth-west = на північний захід
+other.tothesouth = на південь
+other.tothesouth-east = на південний схід
+other.tothesouth-west = на південний захід
+
+other.west_short = З
+other.east_short = В
+other.north_short = С
+other.south_short = Ю
+other.shortdistancedirection = <0> м. <1>
+
+other.metre = метрів
+other.kilometre = кілометрів
+other.andhalf = з половиною
+
+other.directionshort = <1> <0>
+other.exploredbuilding = Ви відкрили будівлю: <0>.
+
+other.malevillager = поселенець
+other.femalevillager = поселенка
+
+other.buildinghealing = <0> зцілює тебе.
+
+other.localmerchantinteract = Цей купець місцевого торговця. Він перевозить вантажі між селами. Ви не можете взаємодіяти з ним.
+
+other.chattosomeone = <0> c <1>
+
+hire.health = Здоров'я
+hire.strength = Сила
+hire.cost = Ціна (в день)
+hire.aggressive = Агресивна поведінка
+hire.passive = Пасивне поводження
+hire.timeleft = Найнятий на <0> ч.
+hire.hiredvillager = Цей поселенець був найнятий. Він залишиться у Вашому розпорядженні на <0> ч. або поки не помре і відродиться у своєму поселенні. <ret> <ret> Натисніть '<1>' для того щоб він прийняв агресивну тактику поведінки або LeftShift-'<1>' для переходу в пасивний режим.
+hire.hireablevillager = Ви можете найняти цього поселенця. Він буде слідувати за вами поки не закінчиться час найму або поки він не помре. Про атакуватиме створінь які атакують Вас або атакувати поруч знаходяться монстрів і ворожих поселенців якщо перебуває в агресивному режимі.
+hire.hireablevillagernoreputation = Ви повинні досягти як мінімум репутації "Популярний торговець" в даному поселенні для того щоб найняти даного поселенця.
+hire.extend = Продовжити
+hire.release = Відпустити
+hire.close = Закрити
+hire.hire = Найняти
+hire.hireover = Найм <0> закінчився. Він повертається в своє поселення.
+hire.hiredied = <0> помер. Він відродиться в своєму поселенні, його контракт найму скасований.
+hire.hiredbyotherplayer = <0> вже був найнятий <1>.
+hire.hiredby = Найнятий <0>
+
+actions.forest_success = Ви повністю дослідили ліс.
+actions.forest_continue = Ви завершили <0>% Вашого дослідження лісу.
+
+actions.desert_success = Ви повністю дослідили пустелю.
+actions.desert_continue = Ви завершили <0>% Вашого дослідження пустелі.
+
+actions.mountain_success = Ви повністю дослідили гори.
+actions.mountain_continue = Ви завершили <0>% Вашого дослідження гір.
+
+actions.underwaterglass_success = Ви повністю побудували глибоководне оглядове вікно.
+actions.underwaterglass_notdeepenough = Вода недостатньо глибока на цьому місці.
+
+actions.underwaterdive_success = Ви успішно занурилися в глибини океану.
+
+actions.bottomoftheworld_success = Схоже глибше вже не прокопати. Це і повинні бути коріння світу!
+
+actions.topoftheworld_success = Схоже вище вже не поднятся. Це і є верх небес.
+
+actions.borehole_nblineok = <0> блоків корінної породи під відкритим небом. Вам необхідно отримати квадрат 5x5 (25 всього).
+actions.borehole_success = Ви успішно викопали стовбур свердловини!
+
+actions.boreholetnt_success = Досить вибухівки було укладено. Тепер можна підривати.
+actions.boreholetnt_nbtnt = <0> блоків вибухівки укладено і покрито обсидіаном. Потрібно всього 20.
+
+actions.boreholetntlit_success = Ви підпалили вибухівку. Дослідіть результат і розкажіть про нього алхімікові.
+
+actions.thevoid_success = Ви заглянули в безодню!
+
+actions.enchantmenttable_success = Ви побудували стіл Зачарований досить близько до мудреця Садху.
+
+info.culturetitle = Культури
+info.culture = Культура <0>
+info.culturereputation = Репутація: <0>
+info.culturelanguage = Мовознавство: <0>
+
+culturereputation.scourgeofgod = Бож'я кара
+culturereputation.dreadful = Огидна
+culturereputation.bad = Погана
+culturereputation.stellar = Блискуча
+culturereputation.excellent = Відмінна
+culturereputation.good = Хороша
+culturereputation.decent = Скромна
+culturereputation.neutral = Нейтральна
+
+culturelanguage.fluent = Побіжно
+culturelanguage.moderate = Середній
+culturelanguage.beginner = Початківець
+culturelanguage.minimal = Мінімальна
+
+
+weapon.criticalstrike = Критичне потрапляння! <0>-х кратне пошкодження!
+
+negationwand.villagelocked = Поселення <0> все ще заблоковано. Необхідно вбити всіх дорослих чоловіків для знищення поселення.
+negationwand.confirmmessage = Ви впевнені, що хочете зруйнувати <0>? Якщо так, то споруди остануться, але все поселенці зникнуть назавжди.
+negationwand.confirm = Зруйнувати
+negationwand.cancel = Скасувати
+negationwand.destroyed = Поселення <0> було зруйновано! Будівлі тепер лише порожні оболонки, і жителі покинули їх назавжди.
+
+relation.excellent = Відмінні
+relation.verygood = Дуже хороші
+relation.good = Хороші
+relation.decent = Непогані
+relation.fair = Посередні
+
+relation.openconflict = Війна
+relation.atrocious = Огидні
+relation.verybad = Дуже погані
+relation.bad = Погані
+relation.chilly = Прохолодні
+
+relation.neutral = Нейтральні
+
+raid.planningstarted = Поселення <0> навмисно напасти на <1> і почало готувати військовий похід.
+raid.started = Поселення <0> почало свою атаку на <1>! <2> воїнів учавствует в ній.
+raid.raidsuccesfull = Поселення <0> успішно вчинила набіг на <1>, захоплено <2> товарів!
+raid.raidfailed = Поселення <1> успішно відбило атаку <0>.
+raid.nothing = Нічого
+raid.historysuccess = Успішно атакувало <0>. Захоплено: <1>
+raid.historyraided = Понесло поразку <0>. Загублено: <1>
+raid.historyfailure = Атака на <0> провалилася.
+raid.historydefended = Успішно відображено напад <0>.
+
+hof.hof = Зал слави
+hof.modcreator = Творець модифікації
+hof.creatorofmayan1 = Творець
+hof.creatorofmayan2 = культури майя
+hof.creatorofjapanese1 = Творець
+hof.creatorofjapanese2 = культури японії
+hof.creatorofbyzantine1 = Творець
+hof.creatorofbyzantine2 = грецької культури
+hof.creatorofindianskins1 = Творець
+hof.creatorofindianskins2 = скінів гінді
+
+hof.skinmaker = Творець скінів
+hof.buildingmaker = Творець будівель
+hof.wikiadmin = Адміністратор wiki
+hof.armouricons = Іконки броні
+hof.normanarmour1 = Графіка для
+hof.normanarmour2 = броні норманов
+hof.support1 = Підтримка
+hof.support2 = форуму
+hof.frenchversion1 = Допомога з
+hof.frenchversion2 = франц.версіей
+hof.wikicontributions = Внесок у wiki
+hof.improvementsjapanese1 = Покращення
+hof.improvementsjapanese2 = поселень японії
+hof.lonebuildings = Самотні будівлі
+hof.obsidiantools1 = Інструменти з
+hof.obsidiantools2 = обсидіану-іконки
+hof.forgecode1 = Оригінальний код
+hof.forgecode2 = Forge Sprite API
+hof.btw = (творець BTW)
+hof.forgehelp1 = Допомога з
+hof.forgehelp2 = Forge Sprite API
+hof.hofidea1 = Ідея
+hof.hofidea2 = залу слави
+hof.donor = Допомога грошима
+hof.variousimprovements1 = Різні
+hof.variousimprovements2 = поліпшення
+
+pujas.invanme = Пуджа
+pujas.panditfee = Внесок Пандіта
+pujas.offering = Жертвування
+pujas.god0 = Гануману - для швидкості
+pujas.god1 = Шиві - для сили
+pujas.god2 = Лакшмі - для удачі
+pujas.god3 = Ганешу - для майстерності
+pujas.priestcoming = <0>: Ви хочете виконання пуджа? Ваша віра гідна захоплення!
+pujas.offeringslot = Покладіть пожертвування Богам.
+pujas.offeringslot2 = Вони не приймають все. Експеремінтіруйте.
+pujas.moneyslot = Покладіть гроші Пандіта.
+pujas.toolslot = Покладіть інструмент для зачаровиванія.
+
+culture.norman = Нормани
+culture.indian = Хінді (Індійці)
+culture.japanese = Японці
+culture.mayan = Майя
+culture.byzantines = Греки (Візантійці)
+
+export.errornoname = Ви повинні розмістити ім'я будівельного плану на першому рядку.
+export.errornoendsigneast = Чи не знайдений перший найближчий знак на сході. Він повинен бути на прямій лінії від початку в 256 блоках.
+export.errornoendsignsouth = Чи не знайдений перший найближчий знак на півдні. Він повинен бути на прямій лінії від початку в 256 блоках.
+export.errorlength = Розпізнана довжина <0>, але існує план будови в папці експорту з довжиною <1>.
+export.errorwidth = Розпізнана ширина <0>, але існує план будови в папці експорту з шириною <1>.
+export.errorstartinglevel = Неправильний початковий рівень на третьому рядку знака.
+export.defaultstartinglevel = Не зазначений початковий рівень. За замовчуванням виставлено -1.
+export.errorunknownblockid = Невідомий тип блоку: <0>
+export.buildingexported = Будівля експортовано як <0>.
+
+import.notonserver = Імпортування будинків неможливо на сервері.
+import.errornoname = Ви повинні розмістити ім'я будівельного плану на першому рядку.
+import.errornotfound = яку Ви хотіли будівля не існує в папці millenaire-custom/exports.
+import.buildingupto = Побудовано до рівня <0>
+import.errorinvalidupgradelevel = Неправильний номер поліпшення в другому рядку знака.
+import.buildinginitialphase = Не вказано кількість поліпшень. Будується тільки початкова стадія.
+import.errorupgradeleveltoohigh = Запитаний рівень поліпшень вище ніж присутня.
+import.doublevertical = дублював вертикальна висота
+import.buildinglevel = Рівень будівлі: <0>
+
+effect.towncentre = Центр села
+effect.shop = Магазин: <0>
+effect.irrigation = Зрошення: <0>% доплнітельних культур
+effect.pujalocation = Де Пуджі
+effect.healing = Лікування Гравця
+
+chunk.chunkmap = Карта чанків
+chunk.caption = Позначення
+chunk.captiongeneral = Кожен чанк відображається розміром 2х2 пікселя.
+chunk.captiongreen = Зелені точки позначають завантажений чанк.
+chunk.captionblue = Сині точки позначають чанк, що є частиною села.
+chunk.captionpurple = Фіолетові чанкі позначають окремо розташовані будинки.
+chunk.captionwhite = Білі точки позначають чанк, який був завантажений модом (Millionaire або іншим Forge модом).
+chunk.playerposition = Координати гравця: <0>
+chunk.settings = Радіус завантаження сіл: <0> метрів. Maximum number of chunks preserving allowed by Forge: <1>.
+chunk.explanations = Села Millionaire мода активні тільки якщо завантажені всі їх чанкі. Жителі інших деревен заморожені. Millionaire намагається змусити Minecraft зберігати завантаженими чанкі в радіусі 200 метрів від гравця (значення може бути змінено). Механізм Forge використовуваний для цього, обмежений 200 чанк. Ви можете налаштувати цю величину у файлі minecraft / config / forgeChunkLoading.cfg. УВАГА: Збільшення числа чанків, утримуваних в завантаженому стані знизить продуктивність.
+chunk.chunkcoords = Чанк: <0>
+chunk.village = <0>
+chunk.chunkforced = Force-loaded
+
+
+
+
+config.pagetitle = Налаштування Millénaire
+config.page.uisettings = користувача настройки
+config.page.worldgeneration = Генерація світу
+config.page.worldgeneration.desc = Ці налаштування стосуються генерації світу тільки в місцевих світах (не стосуються серверів до яких ви можете підключитися).
+config.page.villagebehaviour = "Поведінка" сіл
+config.page.villagebehaviour.desc = Ці налаштування стосуються сіл тільки в місцевих світах (не стосуються серверів до яких ви можете підключитися).
+config.page.devtools = Інструменти розробника
+
+config.village_list_key.label = Список сіл
+config.village_list_key.desc = Кнопка для відображення списку навколишніх сіл. За замовчуванням: <0>.
+
+config.quest_list_key.label = Інформаційна панель
+config.quest_list_key.desc = Кнопка для відображення інформаційної панелі Millénaire. За замовчуванням: <0>.
+
+config.escort_key.label = Кнопка атака \ захист ескорту
+config.escort_key.desc = Кнопка для перемикання режиму найнятого поселенця (атака або оборона). За замовчуванням: <0>.
+
+config.fallback_language.label = Резервний мову
+config.fallback_language.desc = Вторинний мову гри, використовується, коли основний не доступний.
+
+config.dynamic_textures.label = Динамічні текстури
+config.dynamic_textures.desc = Автоматичне перемикання на 64x текстурпак, якщо Minecraft текстурпак 64x або вище.
+
+config.language_learning.label = Вивчення мови
+config.language_learning.desc = Мови повинні бути "вивчені" (переклад з'явиться тільки тоді, коли гравець досить взаємодіє з даною культурою)
+
+config.load_all_languages.label = Завантажувати всі мови
+config.load_all_languages.desc = Всі доступні мови будуть завантажені, щоб надати переклад "клієнтам" у разі потреби.
+
+config.display_start.label = Відображати стартовий текст
+config.display_start.desc = Відображати версію Millénaire і статус "завдання створення" при включення.
+
+config.display_names.label = Відображати імена жителів
+config.display_names.desc = Відображати імена, професії та поточні завдання над головами сільських жителів.
+
+config.villagers_names_distance.label = Дистанція відображення імен
+config.villagers_names_distance.desc = Дистанція, з якою видно імена. За замовчуванням: <0>.
+
+config.villagers_sentence_in_chat_distance_client.label = Переговори в чаті (MP)
+config.villagers_sentence_in_chat_distance_client.desc = Відстань на якому відображаються переговори жителів в мультіплеере. За замовчуванням: <0>.
+
+config.villagers_sentence_in_chat_distance_sp.label = Переговори в чаті (SP)
+config.villagers_sentence_in_chat_distance_sp.desc = Відстань на якому відображаються переговори жителів в одиночній грі. За замовчуванням: <0>.
+
+config.generate_villages.label = Генерувати села
+config.generate_villages.desc = Генерувати Millénaire села в нових чанк.
+
+config.generate_lone_buildings.label = Генерувати самотні будівлі
+config.generate_lone_buildings.desc = Генерувати самотні Millénaire будівлі в нових чанк.
+
+config.keep_active_radius.label = Радіус завантаження чанків
+config.keep_active_radius.desc = Радіус, навколо гравця в якому Millénaire буде намагатися завантажувати чанкі сіл. За замовчуванням: <0>.
+
+config.min_village_distance.label = Мін.расстояніе між селами
+config.min_village_distance.desc = Мін.расстояніе між двома селами. За замовчуванням: <0>.
+
+config.min_village_lonebuilding_distance.label = Мін.расстояніе між селами і одінок.зданіямі
+config.min_village_lonebuilding_distance.desc = Мін.расстояніе між селами і одінок.зданіямі. За замовчуванням: <0>.
+
+config.min_lonebuilding_distance.label = Мін.расстояніе між одінок.зданіямі
+config.min_lonebuilding_distance.desc = Мін.расстояніе між одінок.зданіямі. За замовчуванням: <0>.
+
+config.spawn_protection_radius.label = Радіус захисту від спавна
+config.spawn_protection_radius.desc = Зона, навколо якої Millénaire НЕ буде генерувати будівлі. За замовчуванням: <0>.
+
+config.village_radius.label = Радіус звичайних сіл
+config.village_radius.desc = Радіус звичайних сіл (Не Millénaire). За замовчуванням: <0>.
+
+config.min_distance_between_buildings.label = Мін.расстояніе між будівлями
+config.min_distance_between_buildings.desc = Мін.расстояніе між двома будівлями в села. За замовчуванням: <0>.
+
+config.village_paths.label = Будувати сільські шляхи
+config.village_paths.desc = Генерувати шляху в нових селах і дозволяти жителям покращувати їх.
+
+config.max_children_number.label = Максимальна кількість дітей
+config.max_children_number.desc = Максимальна кількість дітей, яке може мати село a. За замовчуванням: <0>.
+
+config.background_radius.label = Радіус зв'язку між селами
+config.background_radius.desc = Радіус, в якому села матиме відношення один з одним (дипломатія, торгівля, рейди). За замовчуванням: <0>.
+
+config.bandit_raid_radius.label = Радіус бандитського нальоту
+config.bandit_raid_radius.desc = Радіус, в якому бандити будуть набігати села. За замовчуванням: <0>.
+
+config.raiding_rate.label = Імовірність рейдерства%
+config.raiding_rate.desc = При шансі 100% сільське / бандитське будівля буде піддаватися рейдерству щоночі. За замовчуванням: <0>.
+
+
+
+config.generate_colour_chart.label = Створювати діаграму кольору
+config.generate_colour_chart.desc = Створювати діаграму квітів, використовуваних в будівельних планах.
+
+config.generate_building_res.label = Створювати список ресурсів
+config.generate_building_res.desc = Створювати список ресурсів, необхідних для кожної будівлі.
+
+config.generate_translation_gap.label = Створювати "розрив" перекладу
+config.generate_translation_gap.desc = Створювати для кожного завантаженого мови звіт, зі списком відсутнього тексту.
+
+config.generate_goods_list.label = Створювати список речей
+config.generate_goods_list.desc = Створювати список предметів Millénaire.
+
+config.valuetrue = Так
+config.valuefalse = Немає
+
+config.page.bonus = Бонус учаснику
+config.page.bonus.desc = Бонус людям хто працює над Millénaire (перекладачі, будівельні плани, діалоги, текстури, внесок у вікі і т.д) або пожертвувань: безкоштовний маленький будиночок доступний з головного будинку села.
+
+config.bonus_code.label = Бонусний код
+config.bonus_code.desc = Код, щоб отримати бонус.Вибірается з інтернету автоматично, якщо підключення можливо.
+
+config.validbonuscode = Дійсний код! Бонус активовано.
+config.invalidbonuscode = Невірний код, будь ласка перевірте.
+tradehelp.title = <0> - Торгівля
+tradehelp.goodssold = Село продає
+tradehelp.goodsbought = Село купує
+tradehelp.buyingprice = Продати:
+tradehelp.sellingprice = Купити:
+tradehelp.helptitle = Загальні положення про торгівлю
+tradehelp.helptext = В кожному магазині можна купити товари, які є на складі у села. Крім декількох "безкоштовних" (створюються без використання ресурсів) блоків (наприклад шляхи) або спеціальних предметів (жезли, сувої поселення), пропоновані товари не нескінченні і залежать від кол-ва на складі. <ret> <ret> Жителі виробляють більшу частину товарів яких потребують, але продаж їм потрібних блоків допомагає прискорити розвиток села.
+
+tradehelp.freeblock = Ці типи блоків виготовляються "безкоштовно" (створюються без використання ресурсів) в селі і тому доступні в необмеженій кількості.
+tradehelp.wood = Жителі села рубають деревину в гаях. Вони використовують її для будівлі.
+tradehelp.stone = Жителі села добувають камінь і скло в кар'єрах. Якщо село не має жодного кар'єра, вона повністю залежить від ваших поставок.
+tradehelp.whitewool = Біла шерсть використовується в деяких будівлях. Жителі села пофарбують її автоматично при необхідності.
+tradehelp.clay = Жителі села виробляють цеглу і глину в кар'єрах.
+tradehelp.genericfood = Наявність різних продуктів допомагає дітям рости швидше.
+tradehelp.genericfoodraw = Жителі готують м'ясо перед їжею.
+tradehelp.genericfoodsweet = Алкоголь і солодощі допомагають жителям збільшити шанси завести дітей.
+tradehelp.seeds = Жителі використовують насіння пшениці щоб годувати курей
+tradehelp.carrot = Жителі використовують моркву, щоб прогодувати свиней.
+tradehelp.feathers = Пір'я використовуються для виготовлення стріл.
+tradehelp.generictools = Інструменти роблять жителів більш ефективним.
+tradehelp.genericweapon = Зброя і обладунки роблять жителі сильнішими.
+tradehelp.purse = Мещочек з грошима допоможе зберігати Ваші денье.
+tradehelp.wand = Жезл Створення дозволяє створювати села і будувати будинки.
+tradehelp.parchments = Сувої (пергаменти) надають інформацію про Millénaire.
+
+tradehelp.normanwhitewool = Біла шерсть використовується в деяких будівлях і потрібна щоб зробити гобелени в фортах Норман.
+tradehelp.normantapestrywool = Сіра, світло-сіра, чорна, коричнева шерсть необхідні щоб ткати гобелени.
+tradehelp.normanleather = Норманський ченці використовують шкіру, щоб зробити книги.
+tradehelp.normantools = Норманський ковалі використовують залізо щоб зробити зброю та інструменти виняткової якості.
+tradehelp.normanbooks = Норманський ченці виробляють книжкові полиці з паперу і книг. Вони використовуються в деяких будівлях.
+tradehelp.normanalchemy = Алхімік виробляє основні зілля.
+tradehelp.normancider = Нормани виробляють Сидр і Кальву в тавернах з "яблук для сидру" збираються лісорубом. Ці напої зцілюють гравця і допомагають сільським жителям мати дітей. Кальва також забезпечує тимчасовий бонус "Сили".
+tradehelp.normantripesboudin = Нормани виробляють Рубець та ковбаски з корів і свиней. Ці продукти живлять гравця і допомагають дітям рости швидше. Рубець також забезпечує тимчасовий бонус "Регенерации".
+tradehelp.normantapestry = Дами виробляють ці декоративні гобелени з білої, сірої, світло-сірої, коричневої і чорної шерсті.
+tradehelp.normantimberframes = Норманський теслі виробляють ці каркаси з дерева.
+tradehelp.normanwheat = Норманський жителі роблять хліб і годують свою худобу пшеницею.
+
+tradehelp.byzantinetools = Візантійські ковалі використовують залізо і шкіру для виробництва знарядь праці і візантійських обладунків.
+tradehelp.byzantinefeta = Візантійці виробляють сир фета з овечого молока. Ці сири зцілюють гравця і допомагають сільським жителям мати дітей.
+tradehelp.byzantinebooks = Візантійці виробляють книги з дерева і шкіри.
+tradehelp.byzantinewine = Візантійці виробляють вино з винограду в тавернах. Вино лікує гравця і допомагає жителям мати дітей. Воно також забезпечує тимчасовий бонус "Опору".
+tradehelp.byzantinesilk = Візантійці виробляють шовк і використовують його для створення картин, ікон і розкішного одягу для багатих греків.
+tradehelp.byzantineclothes = Візантійці виробляють одяг з вовни та шовку. Вона покращує зовнішній вигляд жителів, які її носять.
+tradehelp.byzantinetiles = Візантійці виробляють плитку з каменю і глини
+tradehelp.byzantinefood = Візантійці готують баранячі відбивні і змішують їх з сиром фета, щоб зробити смачні Шашлички. Шашлички живлять гравця і допомагають дітям рости. Вони також відновлюють здоров'я.
+tradehelp.byzantineweapons = Візантійські ковалі створюють броню з заліза і шкіри.
+tradehelp.byzantinewheat = Візантійські жителі роблять хліб і годують свою худобу пшеницею.
+
+tradehelp.hinditools = Ковалі Хінді використовують залізо для виробництва інструментів і броні.
+tradehelp.hindigenericfood = Наявність різних продуктів допомагає дітям рости швидше. Попередження: Хінді не їдять яловичини або свинини.
+tradehelp.hindigenericfoodsweet = Десерти допомагають жителям збільшити шанси завести дітей. Попередження: Хінді не вживають алкоголь.
+tradehelp.hindirasgulla = Хінді готують смачні расгула з цукру. Вони лікують гравця і допомагають жителям мати дітей. Расгула також забезпечує тимчасовий бонус "Швидкості".
+tradehelp.hindicurry = Хінді готують вегетаріанське каррі з рису і куркуми, а також куряче каррі, додавши курку. Ці продукти годують гравця і допомагають дітям рости швидше. Курка каррі також забезпечує тимчасовий бонус "Вогнестійкості".
+tradehelp.hindibricks = Хінді залишають вологі глиняні цегли на сонці, щоб зробити обпалена цегла. Ви можете зробити їх самостійно, купивши форму.
+tradehelp.hindistatue = Скульптори Хінді виробляють ці барельєфи індуїстських богів для прикраси храмів.
+
+tradehelp.japanesegold = Японці використовують золото для прикраси деяких будівель.
+tradehelp.japaneseudon = Японці варять Удон з пшениці та курки. Він годує гравця і допомагає дітям рости швидше. Удон також надає тимчасовий бонус "Високого стрибка".
+tradehelp.japanesetools = Японські ковалі використовують залізо і шкіру для виробництва знарядь праці та японської броні.
+tradehelp.japaneseweapons = Японські ковалі створюють гарні обладунки та грізні мечі з заліза, шкіри та вовни.
+tradehelp.japanesepaper = Японські майстри виробляють папір з рису і використовують її для створення паперових стін.
+tradehelp.japaneseframes = Японські майстри виробляють каркаси з дерева для створення елегантних будівель.
+tradehelp.japaneserice = Японський рис використовується для годування дітей, для виробництва паперу, а також для бродіння саке.
+tradehelp.japanesewheat = Японський кухар використовує пшеницю, щоб зробити Удон.
+tradehelp.japanesethatch = Японські блоки з пшениці.
+tradehelp.japanesesake = Японські пивовари використовують рис щоб варити саке. Саке лікує гравця і допомагає жителям села мати дітей. Саке також забезпечує тимчасовий бонус "Підводне дихання".
+
+tradehelp.mayangold = Ремісникам Майя потрібно золото для виробництва декоративних блоків. Вони отримують його від гравця.
+tradehelp.mayanfood = Народ майя вирощують кукурудзу і готує Маса (кукурудзяні коржі) і Вах (шляхом додавання курка) з неї. Вони живлять гравця і допомагають дітям рости швидше. Вах також забезпечити тимчасовий бонус "Поспіх".
+tradehelp.mayanobsidian = Майстри Майя виробляють інструменти з обсидіану проданого гравцем. Ці інструменти не дуже ефективні, але можуть бути легко зачаровані.
+tradehelp.mayanstonetools = Майстри Майя виробляють інструменти та мечі з каменю в якості основних інструментів у відсутність обсидіану.
+tradehelp.mayanweapons = Ремісники Майя роблять кам'яні мечі та шкіряні обладунки. Майстри обсидіану можуть зробити їх більш потужними.
+tradehelp.mayancocoa = Фермери Майя збирають урожай какао і використовують їх для підготовки Какауха, шоколадний напій. Какауха зцілює гравця і допомагає збільшити кількість сільських жителів, які будуть мати дітей. Какауха також забезпечує тимчасовий бонус "Нічного бачення".

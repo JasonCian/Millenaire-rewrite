@@ -1,0 +1,32 @@
+//Parameters for the building as a whole
+building.length=42
+building.width=30
+building.areatoclear=4
+building.max=0
+building.icon=wheat
+
+//Parameters for initial construction
+initial.startlevel=-2
+initial.nativename=Shuudannoujou
+initial.priority=600
+initial.male=japanese_farmerchief
+initial.female=japanese_farmwife
+initial.tag=oven
+initial.shop=japanesetownhall
+initial.signs=3,0,1,2,5,7,8,6,4
+
+//Parameters for specific upgrades
+upgrade1.rebuildpath=true
+upgrade1.tag=leasure
+
+upgrade2.priority=580
+upgrade2.rebuildpath=false
+
+upgrade3.priority=560
+
+upgrade4.priority=540
+
+upgrade5.priority=520
+
+upgrade6.priority=500
+

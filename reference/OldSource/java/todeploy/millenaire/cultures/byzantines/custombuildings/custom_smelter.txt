@@ -1,0 +1,1 @@
+native:Chytírion;gameNameKey:smelter_A0;male:smelter_byzantine;female:artisanwife_byzantine;craft:1;chest:1-5;sign:1;tag:glass;moveinpriority:15

@@ -1,0 +1,12 @@
+minreputation:200
+chanceperhour:0.1
+maxsimultaneous:2
+step:new
+duration:48
+definevillager:key=startvillager,type=seljuk/turk_boy,forbiddentag=helvachild_done
+villager:startvillager
+requiredgood:helva,1
+rewardmoney:32
+rewardreputation:64
+settagsuccess:startvillager,helvachild_done
+settagfailure:startvillager,helvachild_done

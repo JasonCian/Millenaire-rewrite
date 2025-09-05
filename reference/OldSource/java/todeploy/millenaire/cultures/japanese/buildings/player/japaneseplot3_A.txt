@@ -1,0 +1,14 @@
+//Parameters for the building as a whole
+building.length=16
+building.width=16
+building.max=0
+building.reputation=4096
+building.price=4096
+building.icon=fence_oak
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Eki Tochi
+initial.priority=1000000
+initial.pathlevel=2
+

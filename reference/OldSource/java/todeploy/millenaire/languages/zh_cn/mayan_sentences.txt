@@ -1,0 +1,78 @@
+//villager.CookBrick=A'-la yam k'a'am tunich. / 这种石头很坚固。
+//villager.DryBrick=To'on k'ab'eet tunich ti b'et ki- otoch. / 我们需要石材来建造房屋。
+//villager.GatherBrick=Ichil kuch ti yaab tunich. / 我运的石头太多了。
+
+female.BecomeAdult=Ichil k'a't ha ichki. / 我想快点结婚。
+male.BecomeAdult=Ichil k'a't ti tz'ak-b' ha ah tz'on. / 长大后我想成为一个猎人。
+
+mayan_shaman.gopray.chosen=U- orasion tal teech / 祈祷会护佑你。
+mayan_shaman.greeting=Ts'aakik tal teech. / 愿神灵护佑你。
+
+villager.BecomeAdult=La la la la. / 啦啦啦啦。
+
+villager.BringBackResourcesHome=Ichil chuy ti yaab se'es ti kuch. / 我还有很多木材要运送。
+
+villager.ChopTrees=Ya'ul pak. / 伐木时间。
+
+villager.ConstructionStepByStep=Meyah meyah meyah. / 工作，工作，工作。
+villager.ConstructionStepByStep=Ichil k'ab'eet ichil k'a'am et-meyah. / 我需要一个强壮的工友。
+
+villager.DeliverGoodsHousold=Ti yaab han-ha ti kuch. / 有太多要运送的食物了。
+
+villager.GatherGoods=Ichil chuk u- se'es sut otoch. / 我要把这些木材带回家。
+
+villager.GetGoodsHousold=Ichil k'ab'eet he'-la a-d'a'ax-tak k'am- otoch/ 我需要把这些东西拿回家。
+
+villager.GetHouseResources=Ichil chik nah yam ichil utz nah. / 干净的屋子就是好屋子。
+
+villager.GetResourcesForBuild=Yaab' ti- yaab' tunich. / 我需要更多的石头，更多！
+
+villager.GoPlay=Ichil kolom uk chun su'uk. / 我喜欢在草丛里玩。
+
+villager.childobserveagriculture=我想知道如果谷物很快加热会发生什么？
+villager.childobserveconstruction=我不知道我们为什么不能建造石头以外的东西呢？
+villager.childobservesmithing=这里的每个人都使用黑曜石作为工具，但一定有更强大的东西！
+villager.childobserveproducefood=为什么成年人会得到所有的热可可？这不公平！
+
+villager.childeatcacaobeans=只吃豆子有点苦，我想知道是否最好泡在牛奶里？
+
+villager.HarvestMaize=Ki' k'aaxal ki' hoch. / 有好雨就有好收成。
+
+villager.HarvestTurmeric=A'-la yooch hoch si muk' ti han-ha. / 收获的香料会让我们的食物更美味。
+
+villager.MakeTools=Man in-wah a'-b'a'ax. / 买我的工具吧。
+
+villager.MakeWeapons=U- k'ab wa'yeh nik k'a'am. / 这里的武器质量很好。
+
+villager.PlantMaize=K'aaxal tuuxtik gnat ichil k'a'am hoch. / 降雨会让我们丰收。
+
+villager.PlantSaplings=Ichil tz'ap tulakal he'-la -che'. / 这些树都是我种的。
+
+villager.PlantTurmeric=Yooch men u- han-ha. / 做这些食物需要香料。
+
+villager.ScultMayan=P'e k'in ichil k'am ti b'om. / 以后我可能想当个画家。
+
+villager.SlaughterChicken=Ah kax si gnat b'ak'. / 鸡能给我们带来肉食。
+
+villager.calltoarms=U- k'in yam in-ti'a'al! / 胜利终将属于我！
+villager.calltoarms=Kin-s-ab u- k'as hun. / 干掉那个坏人！
+villager.calltoarms=Ti k'ab! / 拿起武器保卫村庄！
+
+villager.gopray=Pixan taka gnat ichil k'a'am hoch. / 愿神灵赐予我们丰收。
+villager.gopray=Pixan an gnat. / 愿神灵救赎我们。
+villager.gopray.chosen=Ichil t'an u- orasion. / 我会宣读祈祷文。
+
+villager.gorest=He'lel bisik na. / 我想休息一下。
+villager.gorest=Ichil chuy ti wenel beora. / 我要睡觉了。
+villager.gorest=Yaaawn. / （打哈欠）
+
+villager.greeting=Ola, $name-ji! / 你好，$name-ji！
+villager.greeting=U- ka'an yam k'iinal behla'e'. / 今天天气很热。
+villager.greeting=Biix men u- pixan ts'aakik teech? / 神灵告诉了你什么？
+villager.greeting=Ba'ax tumben? / 有什么新消息吗？
+villager.greeting=Biix yam teech pamilya? / 你的家人还好吗？
+villager.greeting=Pixan tuuxtik gnat k'aaxal. / 神灵给我们带来雨水。
+villager.greeting=Tu'ux yam teech lu'um? / 你的家园在哪？
+
+villager.makeRasgulla=In-wah mo'nol pall yam k'oh. / 我的孩子病了。
+

@@ -1,0 +1,14 @@
+minreputation:0
+chanceperhour:0.2
+maxsimultaneous:2
+step:new
+duration:48
+definevillager:key=startvillager,type=norman/loneminer,forbiddentag=loneminerfood_done
+villager:startvillager
+requiredgood:tripes,1
+requiredgood:boudin,1
+requiredgood:cider,1
+rewardmoney:12*64
+rewardreputation:256
+settagsuccess:startvillager,loneminerfood_done
+settagfailure:startvillager,loneminerfood_done

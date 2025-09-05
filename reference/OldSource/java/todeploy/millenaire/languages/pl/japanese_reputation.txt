@@ -1,0 +1,11 @@
+
+0;Obcy;Nie ufamy obcym. Pilnuj sie.
+4*64;Znajoma twarz;Juz kiedys cie widzielismy, ale nie mysl sobie, ze ci ufamy.
+16*64;Regularny gosc;Jak tam w podrozy, $name?
+64*64;Ulubiony handlarz;Ach, $name, przebyles dluga droge, by zdobyc nasze zaufanie.
+2*64*64;Przyjaciel wioski;Witaj, przyjacielu. Jak mozemy ci dzis pomoc?
+8*64*64;Jeden z nas;Witaj, $name, z niecierpliwoscia wyczekiwalismy twojego powrotu.
+32*64*64;Naturalny przywódca; $name, zyskałeś zaufanie i szacunek moich ludzi. Oni pójdą za tobą wszędzie.
+-64;Nieznosny;A, to ty. Czego chcesz?
+-4*64;Nielubiany obcy;Wynos sie stad!
+-16*64;Wrog publiczny;Jak smiesz sie tu pokazywac. Przygotuj sie na cierpienie!

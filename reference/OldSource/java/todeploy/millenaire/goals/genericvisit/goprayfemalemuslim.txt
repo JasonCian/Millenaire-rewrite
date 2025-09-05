@@ -1,0 +1,14 @@
+//Note pour les utilisateurs de Windows: si vous voyez le fichier entier sur une seule ligne, ouvrez-le avec PSPAd ou UltraEdit plutôt que Notepad
+//Note to Windows users: if you see the entire file in one line, open it using PSPad or UltraEdit instead of Notepad
+
+priority=10
+//Si vrai ("true"), ce but se passe dans le bâtiment central 
+//If true, this goal happens in the central building
+buildingTag=mosquefemaleside
+
+duration=10000
+
+//once a day more or less
+reoccurdelay=160000
+
+leasure=false

@@ -1,0 +1,6 @@
+{
+    "parent": "block/pane_noside_alt",
+    "textures": {
+        "pane": "millenaire:blocks/wooden_bars_rosette_bottomright"
+    }
+}

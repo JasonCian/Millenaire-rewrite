@@ -1,0 +1,5 @@
+sells=bread
+
+buys=wheat
+
+deliverto=wheat

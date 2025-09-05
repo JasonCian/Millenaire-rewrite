@@ -1,0 +1,14 @@
+
+version:3.4
+<darkblue>Commerce
+Vos échanges les plus courants avec les villageois seront le commerce – vous pouvez leur vendre de nombreux biens, et en retour leur acheter des produits, y compris des blocs et objets spécifiques à Millénaire. Pour commercer avec un village, allez dans le bâtiment central (ou un autre magasin) et attendez qu’un villageois vienne vous voir avec « Vend au joueur » indiqué au-dessus de sa tête. Puis <darkblue>faites un clic-droit sur lui<black> pour ouvrir l’écran de commerce.
+Les villageois Millénaire ne peuvent vous vendre que des objets qu’ils ont en stock, et vous ne pouvez leur vendre que les objets dont le village a besoin (variable suivant le village).
+Tout le commerce avec un village se fait en « deniers ». Il y a trois types de pièces, les deniers de base, les deniers d’argent qui valent 64 deniers, et les deniers d’or qui valent 64 deniers d’argent.
+<darkgreen>Astuce :  Sur la carte du village (obtenue en faisant un clic-droit sur le panneau correspondant au centre du village), les magasins sont indiqués quand vous passez votre curseur sur les bâtiments.
+Deniers basique,
+"Deniers en argent"
+vaut 64 deniers,
+et "Deniers en or"
+vaut 64 deniers en argent
+<darkgreen> Astuce:
+La carte du village ( Que l'on obtient en faisant click-droit sur le panneau correspondant, situé dans le batiment central du village ) montre le type du bâtiment lorsque vous survolez celui-ci avec la souris. Il vous est donc facile de repérer les magasins du village.

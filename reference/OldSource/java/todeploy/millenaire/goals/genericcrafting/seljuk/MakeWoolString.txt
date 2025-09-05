@@ -1,0 +1,16 @@
+buildingTag=woolcrafter
+
+priority=50
+
+duration=10000
+
+heldItems=wool_white,string
+
+input=string,4
+output=wool_white,1
+
+townhalllimit=wool_white,1024
+
+maxsimultaneousinbuilding=1
+
+sound=wool

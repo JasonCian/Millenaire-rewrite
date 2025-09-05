@@ -1,0 +1,15 @@
+buildingTag=kitchen
+priority=50
+
+duration=2500
+
+heldItems=sugarcane,sugar
+
+input=sugarcane,1
+output=sugar,1
+
+buildinglimit=sugar,32
+
+maxsimultaneousinbuilding=1
+
+tag=tag_producefood

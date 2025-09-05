@@ -1,0 +1,26 @@
+//Parameters for the building as a whole
+building.length=9
+building.width=12
+building.buildingorientation=3
+building.version=2
+building.farfromtag=leasure,30
+building.icon=cider
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Taverne
+initial.priority=800
+initial.pathlevel=1
+initial.tag=drinking
+initial.tag=leasure
+initial.shop=tavern
+
+//Parameters for specific upgrades
+upgrade1.priority=160
+
+upgrade2.priority=150
+
+upgrade3.priority=70
+upgrade3.pathlevel=2
+

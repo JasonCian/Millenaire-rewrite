@@ -1,0 +1,19 @@
+{
+	"forge_marker": 1,
+    "variants": {
+        "normal": {"model": "millenaire:markerBlock"},
+        "croptype=soil": { "model": "millenaire:soil_wheat" },
+        "croptype=ricesoil": { "model": "millenaire:soil_rice" },
+        "croptype=turmericsoil": { "model": "millenaire:soil_turmeric" },
+        "croptype=sugarcanesoil": { "model": "millenaire:soil_reeds" },
+        "croptype=potatosoil": { "model": "millenaire:soil_potato" },
+        "croptype=netherwartsoil": { "model": "millenaire:soil_netherwart" },
+        "croptype=vinesoil": { "model": "millenaire:soil_grape" },
+        "croptype=maizesoil": { "model": "millenaire:soil_maize" },
+        "croptype=cacaospot": { "model": "millenaire:soil_cacao" },
+        "croptype=carrotsoil": { "model": "millenaire:soil_carrot" },
+        "croptype=flowersoil": { "model": "millenaire:soil_flower" },
+        "croptype=cottonsoil": { "model": "millenaire:soil_cotton" }
+           
+    }
+}

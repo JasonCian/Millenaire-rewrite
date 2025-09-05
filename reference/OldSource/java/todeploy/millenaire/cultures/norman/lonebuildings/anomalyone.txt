@@ -1,0 +1,9 @@
+name=Anomalie Une
+weight=1000
+radius=15
+max=0
+keyLoneBuilding=true
+generateforplayer=true
+
+//starting buildings=
+centre=anomalyone

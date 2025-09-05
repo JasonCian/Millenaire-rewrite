@@ -1,0 +1,16 @@
+
+0;Étranger;Qu'Allah te bénisse, étranger ! Comporte-toi bien et nous resterons en bons termes.
+4*64;Familier;Bienvenue voyageur ! N'hésitez pas à rester ici pour profiter de l'ombre.
+8*64;Visage Connu;Ah, $name, il est bon de vous revoir ! Qu'avez vous de bon à nous raconter ?
+16*64;Visiteur Régulier;Les villageois semblent vous apprécier. Restez ainsi et vous aurez des amis pour toute votre vie.
+32*64;Ami Voyageur;Chacun fait son propre voyage dans la vie, et nous sommes heureux de savoir que vous avez accepté de vous joindre à nous pour le nôtre.
+64*64;Marchand Favoris;Nous sommes impatients de voir ce que vous avez à nous vendre aujourd'hui ! Du nouveau ?
+2*64*64;Ami du Village;Allah vous a amené à nous, et nous sommes très heureux qu'il l'ait fait, mon ami.
+4*64*64;Allié Respectable;Nous, les Turcs, ne sommes pas connus pour être les plus amicaux avec les étrangers, mais nous sommes plus qu'heureux de savoir que nous pouvons compter sur vous comme sur l'un de nos plus proches alliés.
+8*64*64;L'Un des Nôtres;Vous n'êtes peut-être pas né Turc, $name, mais à ce que je sache, vous êtes aussi Seldjoukide que n'importe qui d'autre ici.
+32*64*64;Chef Reconnu;$name, vous avez gagné la confiance et le respect des Seldjoukides. Ils vous suivront partout.
+4*32*64*64;Le Prochain Grand Sultan;Bien que certains s'y opposent, nous savons tous qu'il n'y a pas de meilleures personnes que vous pour exécuter la volonté d'Allah, et du peuple turc.
+-64;Nuisance;Nous ne voulons pas de troubles ici, partez.
+-4*64;Etranger Désagréable;S'il vous plaît, arrêtez de nous harceler. Partez si vous voulez mettre le souk.
+-16*64;Ennemi Public;Nous n'avons rien à nous dire vous et moi. Partez avant que j'appelle la garde.
+-64*64;Fléau;Peut-être que si vous vous repentez maintenant, nous pourrions vous pardonner, mais je pense que vous êtes allé trop loin.

@@ -1,0 +1,18 @@
+version:4.8.0
+<darkblue>The Mayans
+
+From the Yucutan, Mayans are distinguished by their stone architecture with gold decoration and live in farming, religious and military-based ones. They speak Maya, but their dialogue will be translated as the player "learns" their language by speaking with them.
+
+<darkblue>Unique objects and blocks
+
+-They grow maize. The player can ask the chef to teach him how to cultivate this cereal.
+-They cook mah and masas from maize and chicken - filling tortillas.
+-They grow cacao and prepare cacauhaa from it, a vivifying chocolate drink.
+-The obsidian artisan produces weapons and tools from obsidian which are fragile but easily enchanted.
+-Their craftsmen make decorative blocs from gold ingots supplied by the player.
+-They also carve bas-reliefs representing Maya deities.
+
+<darkblue>Specific recipe
+
+-Three maize in a line yield one wah (a kind of tortilla).
+-Two maize in a line with a raw chicken in the middle yield one masa (tortilla with chicken).

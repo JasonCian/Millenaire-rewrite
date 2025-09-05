@@ -1,0 +1,12 @@
+List of parameters usable in slaughteranimal goals:
+
+animalkey (Minecraft ID of an entity ('cow')):
+The animal to be targeted.
+
+bonusitem (item, chance and (optional) required tag ('leather,50' or 'boudin,50,oven')):
+Extra item drop the villager can get.
+
+aggressiveslaughter (boolean):
+If true, the villager will slaughter animals until only half the reference amount (the number of spawn points) is left.
+
+

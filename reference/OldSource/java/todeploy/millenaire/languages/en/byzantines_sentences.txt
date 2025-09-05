@@ -1,0 +1,534 @@
+//For most villagers, greeting lines have not been added yet.
+
+architect_byzantine.construction=$name! Gnorízeis óti oi Romaíoi eínai oi kalýteroi kataskevastés? / $name! Did you know that Romans are the best architects?
+architect_byzantine.construction=$name! Des pos ftiaxno ena architektoniko dimiourgima! / $name! Watch me build a beautiful structure.
+architect_byzantine.construction=Aftó to ktírio tha ginei poli ómorfo! / This building will be beautiful!
+architect_byzantine.construction=Den échei teliosei, allá vlépo tin omorfiá stin douleiá mou. / It's not done, but I already see the beauty in my work.
+architect_byzantine.construction=Dimioúrgo tóso entiposiakes domés. I architektoniki eínai pragmatiká i pio ómorfi morfí téchnis./ I build such elaborate structures. Building is truly the most beautiful form of art.
+architect_byzantine.construction=I Rómi den chtístike se mia méra, chtístike toublo me toublo. / Rome wasn't built in a day, it was built block by block.
+architect_byzantine.construction=I architektonikí mas eínai anóteri apó óla ta álla ktíria se olókliro ton kósmo. / Our architecture is superior to all other buildings across the world.
+architect_byzantine.construction=I oikodómisi me ton romaïkó trópo eínai o kalýteros trópos. / Building in the Roman way is the best way.
+architect_byzantine.construction=Sas arései to tropos kataskeuis mou? / Do you like my style?
+architect_byzantine.construction=Chtizo apo tote pou thymamai. I architektoniki échei gínei i zoí mou. / I've been building longer than I can remember. Building has become my life.
+
+architect_byzantine.getResourcesForBuild=Apó poú proérchetai to chorió? / Where does the village get these blocks from?
+architect_byzantine.getResourcesForBuild=Chreiázomai ylika gia na ftiáxo tis kalýteres kataskevés! / I need blocks to build the best structures!
+architect_byzantine.getResourcesForBuild=Káthe kataskeví archízei me ta blok. / Every build starts with the blocks.
+architect_byzantine.getResourcesForBuild=Prépei na epiléxo prosektiká ta ylika o ídios. / I must carefully select the blocks myself.
+architect_byzantine.getResourcesForBuild=Pós metaférete tósa pollá ylika ótan ftiáchnete $name? / How do you carry so many blocks when you build $name?
+architect_byzantine.getResourcesForBuild=To cheirótero méros tou ktiríou eínai na i metafora ton ylikon. / The worst part of building is getting the blocks.
+
+architect_byzantine.goDrink=Arketá ktísimo! Chreiázomai krasí! / Enough building! I need some wine!
+architect_byzantine.goDrink=Chreiázomai éna potó gia na me empnéfsei! / I need a drink to inspire me!
+architect_byzantine.goDrink=Káthe kalós oikodómos chreiázetai éna potó sto télos tis iméras. / Every good architect needs a drink at the end of the day.
+architect_byzantine.goDrink=I douleia mou fernei dipsa gia krasí. / Building makes me thirsty for wine.
+
+architect_byzantine.gopray=Elpízo o Theós mou dínei émpnefsi gia to epómeno ktírio mou! / I hope God gives me inspiration for my next building!
+architect_byzantine.gopray=Giatí o Theós me ékane architéktona? / Why did God make me an architect?
+architect_byzantine.gopray=I prosefchí eínai éna simantikó méros tou romaïkoú ktiríou. / Praying is an important part of Roman building.
+architect_byzantine.gopray=Katanoeí ta provlímata pou échoun oi architéktones. / He understands the troubles architects have.
+
+architect_byzantine.gorest=An den koimithó, yparxei periptosi na kano palabomara. / If I do not sleep, I might mess up building something.
+architect_byzantine.gorest=Den boró na oikodomíso ótan eimai kourasmenos. / I cannot build when tired.
+architect_byzantine.gorest=Eínai dýskolo na chtizei kaneis sto skotádi. / It is hard to build in the dark.
+architect_byzantine.gorest=Telos bardias, kalynychta. / I am done with building for the day.
+architect_byzantine.gorest=Ísos tha oneireftó ta kalýtera ktíria ston kósmo! / Maybe I will dream of building the world's best buildings!
+
+architect_byzantine.gosocialise=Kaneís se aftó to chorió den katalavaínei ta provlímata tis oikodómisis. / No one in this village understands the troubles of building.
+architect_byzantine.gosocialise=Káthe architéktonas chreiázetai émpnefsi apó állous. / Every architect needs inspiration from others.
+architect_byzantine.gosocialise=Oi architéktones chreiázontai polles apopseis gia na evdokimísoun. / Architects need feedback to thrive.
+architect_byzantine.gosocialise=Ti na skéftetai to chorió gia ta ktíriá mou? / What does the village think of my buildings?
+
+//armysmith_byzantine.MakeIndianTools=Ta romaïka ergaleia einai ta kalytera ston kosmo. / Roman tools are the best in world.
+armysmith_byzantine.MakeByzantineMace=Min prosvállete kanénan pou chrisimopoieí ta ópla mou... / Do not attack anyone who uses my weapons.
+armysmith_byzantine.MakeByzantineMace=Aftó to ropalo steilei tous barbarous sto gamo tou karagkiozi! / This mace will launch barbarians far!
+armysmith_byzantine.MakeByzantineMace=To na to xrisimopoieis eukolo, to na to ftiaxneis dyskolo. / Crafting a mace is harder than wielding it.
+armysmith_byzantine.MakeByzantineMace=O stratós chreiázetai ropala. / The army needs maces.
+
+armysmith_byzantine.gopray=Énas kalós sideras prépei na proséfchetai káthe forá kai lígo. / A good smith needs to pray every once and a while.
+armysmith_byzantine.gopray=Giatí o Theós me ékane éna sídera? / Why did God make me a smith?
+armysmith_byzantine.gopray=I prosefchí eínai éna simantikó méros tis romaïkís cheirotechnías. / Praying is an important part of Roman crafting.
+armysmith_byzantine.gopray=O Theos katanoei ta problimata mas. / He understands the troubles smiths have.
+
+armysmith_byzantine.gorest=Ávrio tha káno pio ómorfa prágmata! / Tomorrow I will craft more beautiful things!
+armysmith_byzantine.gorest=Écho teliosei me tin oikodomi gia simera. / I am done with crafting for the day.
+armysmith_byzantine.gorest=Ísos tha oneireftó na ftiáchno ta kalýtera ópla ston kósmo! / Maybe I will dream of crafting the world's best weapons!
+armysmith_byzantine.gorest=Ísos tha oneireftó na ftiáxo tin kalýteri panoplía tou kósmou! / Maybe I will dream of crafting the world's best armor!
+armysmith_byzantine.gorest=Ísos tha oneireftó na káno ta kalýtera ergaleía ston kósmo! / Maybe I will dream of crafting the world's best tools!
+
+armysmith_byzantine.gosocialise=Tha zitíso na do an kápoios chreiázetai na kataskeváso káti. / I will ask to see if anyone needs me to craft something.
+armysmith_byzantine.gosocialise=Elpízo óti to chorió ektimá ta ergaleía mou. / I hope that the village appreciates my tools. 
+
+armysmith_byzantine.goDrink=Arketi cheirotechnía! Chreiázomai krasí! / Enough crafting! I need some wine!
+armysmith_byzantine.goDrink=Chreiázomai éna potó gia na me empnéfsei! / I need a drink to inspire me!
+armysmith_byzantine.goDrink=Káthe kalós siderás chreiázetai éna potó sto télos tis iméras. / Every good blacksmith needs a drink at the end of the day.
+armysmith_byzantine.goDrink=I cheirotechnía me kánei na dipsá gia to krasí. / Crafting makes me thirsty for wine.
+
+armysmith_byzantine.makearrow=$name, chrisimopoieíte pollá véli stis peripéteiés sas? / $name, do you use many arrows in your adventures?
+armysmith_byzantine.makearrow=Káthe tóxo chreiázetai éna oraío vélos. / Every bow needs a fine arrow.
+armysmith_byzantine.makearrow=Káthe vélos pou káno tha vlápsei énan ochtró tis autokratorías. / Each arrow that I craft will harm one enemy of the Empire.
+armysmith_byzantine.makearrow=O romaïkós stratós chreiázetai véli gia na mas prostatéfsei apó tous xénous. / The Roman army needs arrows to protect us from outsiders.
+
+armysmith_byzantine.makebow=O romaïkós stratós chreiázetai tóxa. / The Roman army needs bows.
+armysmith_byzantine.makebow=Geia sou! Sas arésoun ta tóxa mou $name? / Hey! Do you like my bows $name?
+armysmith_byzantine.makebow=Káthe kaló tóxo proérchetai apó to kalýtero xýlo. / Every good bow comes from the best wood.
+armysmith_byzantine.makebow=Aftó to tóxo tha nikísei polloús bárbarous. Eímai pragmatiká kýrios kataskevastís tóxon. / This bow will defeat many barbarians. I am truly a master bow crafter.
+
+armysmith_byzantine.makeByzantineBoots=O romaïkós stratós chreiázetai mpótes! / The Roman army needs boots!
+armysmith_byzantine.makeByzantineBoots=Oi Romaíoi kánoun tis kalýteres mpótes ston kósmo. / Romans craft the best boots in the world.
+armysmith_byzantine.makeByzantineBoots=Kápoios prépei na kánei tis mpótes ton stratiotón... / Someone has to craft the soldiers' boots...
+armysmith_byzantine.makeByzantineBoots=Kánoume tis kalýteres mpótes. / We craft the best boots.
+armysmith_byzantine.makeByzantineBoots=Geia sou! Sas arésoun i mpótes $name? / Hey! Do you like my boots $name?
+armysmith_byzantine.makeByzantineBoots=Aisthánomai san énas ypervoliká doxasménos kataskevastís papoutsión. / I feel like an over glorified shoe crafter.
+armysmith_byzantine.makeByzantineBoots=Óles oi biotechníes eínai simantikés! Akómi kai oi mpótes pou pigaínoun sta pódia sas! / All armor crafting is important! Even the boots that go on your feet!
+
+armysmith_byzantine.makeByzantineChest=O romaïkós stratós chreiázetai panoplia! / The Roman army needs chestplates!
+armysmith_byzantine.makeByzantineChest=Oi Romaíoi kánoun tis kalýteres plákes thoraka ston kósmo. / Romans craft the best chestplates in the world.
+armysmith_byzantine.makeByzantineChest=Geia sou! Sas arései i panoplía mou $name? / Hey! Do you like my armor $name?
+armysmith_byzantine.makeByzantineChest=Kánoume tin kalýteri panoplía. / We craft the best armor.
+armysmith_byzantine.makeByzantineChest=Aftó tha prépei na eínai se thési na párei perissótera chtypimata  apó ó, ti boreis esi. / This should be able to take more hits than you can.
+armysmith_byzantine.makeByzantineChest=Aisthánomai san énas ypervoliká doxasménos technítis. / I feel like an over glorified shirt crafter.
+
+armysmith_byzantine.makeByzantineHelmet=O romaïkós stratós chreiázetai kráni! / The Roman army needs helmets!
+armysmith_byzantine.makeByzantineHelmet=Kápoios prépei na kánei ta kráni ton stratiotón... / Someone has to craft the soldiers' helmets...
+armysmith_byzantine.makeByzantineHelmet=Oi Romaíoi kánoun tis kalýteres mpótes ston kósmo. / Romans craft the best boots in the world.
+armysmith_byzantine.makeByzantineHelmet=Geia sou! Sas arésoun ta kráni mou $name? / Hey! Do you like my helmets $name?
+armysmith_byzantine.makeByzantineHelmet=Kánoume ta kalýtera kráni. / We craft the best helmets.
+armysmith_byzantine.makeByzantineHelmet=Aisthánomai san énas ypervoliká doxasménos kataskevastís papoutsión. / I feel like an over glorified hat crafter.
+
+armysmith_byzantine.makeByzantineLegs=O romaïkós stratós chreiázetai kremasmata ! / The Roman army needs leggings!
+armysmith_byzantine.makeByzantineLegs=Kápoios prépei na kánei ta kremasmata ton stratiotón... / Someone has to craft the soldiers' leggings...
+armysmith_byzantine.makeByzantineLegs=Oi Romaíoi kánoun ta kalýtera kremasmata ston kósmo. / Romans craft the best leggings in the world.
+armysmith_byzantine.makeByzantineLegs=Geia sou! Sas arésoun ta kremasmata mou $name? / Hey! Do you like my leggings $name?
+armysmith_byzantine.makeByzantineLegs=Kánoume ta kalýtera kremasmata. / We craft the best leggings.
+armysmith_byzantine.makeByzantineLegs=Aisthánomai san mia ypervoliká doxasménos pantelonas. / I feel like an over glorified pants crafter.
+
+armysmith_byzantine.makesteelaxe=Den boreíte na kópsete ta déntra chorís tsekoúri! / You cannot chop down trees without an axe!
+armysmith_byzantine.makesteelaxe=Kataskevázo ekpliktikoús pelekeis. / I craft amazing axes.
+armysmith_byzantine.makesteelaxe=Oi romaïkoí áxones eínai merikoí apó tous kalýterous ston kósmo! / Roman axes are some of the best in the world!
+armysmith_byzantine.makesteelaxe=Oi xylourgoí chreiázontai na kánoun tous pelekeis tous. / The lumbermen need us to craft their axes.
+armysmith_byzantine.makesteelaxe=Pós ftiáchneis tous pelekeis sou $name? / How do you craft your axes $name?
+
+armysmith_byzantine.makesteelhoe=Den boreíte na doulepsetai chorís tsapes! / You cannot farm without farming tools!
+armysmith_byzantine.makesteelhoe=Kataskevázo katapliktikes tsapes. / I craft amazing farming tools.
+armysmith_byzantine.makesteelhoe=Romaïká ergaleía kalliérgeias eínai meriká apó ta kalýtera ston kósmo! / Roman farming tools are some of the best in the world!
+armysmith_byzantine.makesteelhoe=Oi agrótes chreiázontai na kataskevásoume ta ergaleía tous. / The farmers need us to craft their tools.
+armysmith_byzantine.makesteelhoe=Pós dimiourgeíte ta georgiká sas ergaleía $name? / How do you craft your farming tools $name?
+
+armysmith_byzantine.makesteelpickaxe=Den boreíte na skapsetai sas chorís axina! / You cannot mine without a pickaxe!
+armysmith_byzantine.makesteelpickaxe=Kataskevázo poli anthektikes axines. / I craft strong pickaxes.
+armysmith_byzantine.makesteelpickaxe=Oi romaïkes axines eínai merikes apó tis kalýteres ston kósmo! / Roman pickaxes are some of the best in the world!
+armysmith_byzantine.makesteelpickaxe=Oi anthrakorýchoi mas chreiázontai na kataskevásoume tis axines tous. / The miners need us to craft their pickaxes.
+armysmith_byzantine.makesteelpickaxe=Pós ftiáchnete tis axines sas $name? / How do you craft your pickaxes $name?
+
+armysmith_byzantine.makesteelshovel=Den boreíte na chtísete í na skápsete chorís éna ftyári! / You cannot build or dig without a shovel!
+armysmith_byzantine.makesteelshovel=Kataskevázo anthektiká ftyária. / I craft durable shovels.
+armysmith_byzantine.makesteelshovel=Ta Romaïká ftyária eínai meriká apó ta kalýtera ston kósmo! / Roman shovels are some of the best in the world!
+armysmith_byzantine.makesteelshovel=Oi architéktones chreiázontai na kataskevásoume ta ftyária tous. / The architects need us to craft their shovels.
+armysmith_byzantine.makesteelshovel=Pós ftiáchneis ta ftyária sou $name? / How do you craft your shovels $name?
+
+//artisan_byzantine.makePainting=H Romaikh texnh einai h pio exeligmenh ston kosmo. / Roman art is the most advanced in the world.
+
+artisan_byzantine.gopray=Énas kalós technítis prépei na proséfchetai káthe forá kai lígo. / A good artisan needs to pray every once and a while.
+artisan_byzantine.gopray=Giatí o Theós me ékane énan techníti? / Why did God make me an artisan?
+artisan_byzantine.gopray=I prosefchí eínai éna simantikó méros tis romaïkís cheirotechnías. / Praying is an important part of Roman crafting.
+artisan_byzantine.gopray=Katanoeí ta provlímata pou échei o technítis. / He understands the troubles artisan have.
+
+artisan_byzantine.gorest=Ávrio tha káno pio ómorfa prágmata! / Tomorrow I will craft more beautiful things!
+artisan_byzantine.gorest=Écho kánei me ktírio gia tin iméra. / I am done with crafting for the day.
+artisan_byzantine.gorest=Ísos tha oneireftó na káno ta kalýtera toúvla tou kósmou! / Maybe I will dream of crafting the world's best bricks!
+artisan_byzantine.gorest=Ísos tha oneireftó na káno ta kalýtera plakákia ston kósmo! / Maybe I will dream of crafting the world's best tiles!
+
+artisan_byzantine.gosocialise=Tha zitíso na do an kápoios chreiázetai na kataskeváso káti. / I will ask to see if anyone needs me to craft something.
+artisan_byzantine.gosocialise=Elpízo óti to chorió tha ektimísei ta keramídia mou. / I hope that the village appreciates my tiles. 
+artisan_byzantine.gosocialise=Elpízo óti to chorió tha ektimísei ta toúvla mou. / I hope that the village appreciates my bricks.
+
+artisan_byzantine.goDrink=Arketi cheirotechnía! Chreiázomai krasí! / Enough crafting! I need some wine!
+artisan_byzantine.goDrink=Chreiázomai éna potó gia na me empnéfsei! / I need a drink to inspire me!
+artisan_byzantine.goDrink=Káthe kalós technítis chreiázetai éna potó sto télos tis iméras. / Every good artisan needs a drink at the end of the day.
+artisan_byzantine.goDrink=I cheirotechnía me kánei na dipso gia to krasí. / Crafting makes me thirsty for wine.
+
+artisan_byzantine.greeting=Zo kalýtera apó ólous se aftó to chorió. / I live better than everyone else in this village.
+artisan_byzantine.greeting=Geia sas $name! Chreiázeste apokleistiká romaïká ylika? / Hello $name! Do you need any exclusive Roman blocks?
+
+artisan_byzantine.makeBrick=Kápoios prépei na kataskevásei ta toúvla. / Someone has to craft the bricks.
+artisan_byzantine.makeBrick=To chorió chreiázetai na kataskeváso toúvla gia tous toíchous tous. / The village needs me to craft bricks for their walls.
+artisan_byzantine.makeBrick=Romaïká toúvla eínai meriká apó ta pio ómorfa blok ston kósmo! / Roman bricks are some of the most beautiful blocks the world!
+artisan_byzantine.makeBrick=Ergazómaste píso apó tis skinés, enó oi kataskevastés paírnoun óli tin pístosi. / We work behind the scenes while the builders get all of the credit.
+artisan_byzantine.makeBrick=Oúte oi kalýteroi oikodómoi boroún na oikodomísoun chorís blok. / Not even the best builders can build with no blocks.
+artisan_byzantine.makeBrick=Poios skéftike na metatrépsei ton piló se toúvla? / Who thought of turning clay into bricks?
+
+artisan_byzantine.makeBookshelves=Kápoios prépei na válei ta vivlía sta ráfia. / Someone has to put the books on the shelves.
+artisan_byzantine.makeBookshelves=To chorió mou chreiázetai na káno tis ráfia tous. / The village needs me to craft their bookshelves.
+artisan_byzantine.makeBookshelves=Romaïká vivlía eínai meriká apó ta kalýtera pou diavázei ston kósmo! / Roman books are some of the best reads in the world!
+artisan_byzantine.makeBookshelves=Ergazómaste píso apó tis skinés, enó oi syngrafeís paírnoun óli tin pístosi. / We work behind the scenes while the writers get all of the credit.
+artisan_byzantine.makeBookshelves=Merikés forés vlépo ta vivlía prin ta válo sto ráfi, tha íthela na diaváso. / Sometimes I look through the books before I put them on the shelf, I wish I could read.
+artisan_byzantine.makeBookshelves=Poios skéftike na grápsei ta prágmata káto? / Who thought of writing things down?
+
+artisan_byzantine.makeByzantineTiles=Kápoios prépei na kánei ta keramídia. / Someone has to craft the roof tiles.
+artisan_byzantine.makeByzantineTiles=To chorió chreiázetai na káno tis stéges tous. / The village needs me to craft their roofs.
+artisan_byzantine.makeByzantineTiles=Romaïká plakákia eínai meriká apó ta pio ómorfa blok ston kósmo! / Roman tiles are some of the most beautiful blocks the world!
+artisan_byzantine.makeByzantineTiles=Ergazómaste píso apó tis skinés, enó oi kataskevastés paírnoun óli tin pístosi. / We work behind the scenes while the builders get all of the credit.
+artisan_byzantine.makeByzantineTiles=Oúte oi kalýteroi oikodómoi boroún na oikodomísoun chorís blok. / Not even the best builders can build with no blocks.
+artisan_byzantine.makeByzantineTiles=Poios skéftike na metatrépsei ton piló se stéges? / Who thought of turning clay into roofs?
+
+artwife_byzantine.gopray=I prosefchí eínai éna simantikó méros tis romaïkís cheirotechnías. / Praying is an important part of Roman crafting.
+artwife_byzantine.gopray=Elpízo óti o Theós me voithá na káno ta kalýtera roúcha! / I hope God helps me to make the best clothes!
+artwife_byzantine.gopray=Giatí o Theós ékane ti sýzygo enós architéktona? / Why did God make an architect's wife?
+
+artwife_byzantine.gosocialise=O! Ékana to poukámiso tou anthrópou! / Oh! I made that guy's shirt!
+artwife_byzantine.gosocialise=Edó eímai gností os sýzygos tou architéktona. / Here, I am known as the architect's wife.
+artwife_byzantine.gosocialise=Eímai árrostos óti eímai gností os "sýzygos tou architéktona". / I am sick of being known as the "architect's wife".
+
+artwife_byzantine.makeclothes_byz_silk=Káno meriká apó ta kalýtera roúcha sto chorió! / I make some of the best clothes in the village!
+artwife_byzantine.makeclothes_byz_silk=To romantikó metáxi eínai to kalýtero ýfasma ston kósmo! / Roman silk is the best fabric in the world!
+artwife_byzantine.makeclothes_byz_silk=To metaxotó roúcho eínai pio simantikó apó to na écheis éna fantachteró spíti. / Silk clothing is more important than having a fancy house.
+artwife_byzantine.makeclothes_byz_silk=$name, échete forései metáxi? / $name, have you worn silk before?
+artwife_byzantine.makeclothes_byz_silk=Óloi chreiázontai roúcha, eidiká an thélete na eíste politisménoi. / Everyone needs clothing, especially if you want to be civilized.
+artwife_byzantine.makeclothes_byz_silk=I alithiní omorfiá den eínai se blok, i omorfiá eínai sta roúcha. / True beauty isn't in blocks, beauty is in clothes.
+artwife_byzantine.makeclothes_byz_silk=Ypárchei énas lógos gia ton opoío yfaíno aftó kai óchi o sýzygós mou. / There's a reason why I am weaving this and not my husband.
+artwife_byzantine.makeclothes_byz_silk=I ýfansi ton roúchon sto metáxi eínai móno gia tis pio evgeneís gynaíkes. / Weaving clothes in silk is only for the most noble women.
+artwife_byzantine.makeclothes_byz_silk=Chaíromai pou prépei na káno pragmatikí douleiá. / I am just glad that I'm having to do an actual job.
+
+artwife_byzantine.makeclothes_byz_wool=Káno meriká apó ta kalýtera mallina roucha sto chorió! / I make some of the best wool clothes in the village!
+artwife_byzantine.makeclothes_byz_wool=Oraía endymasía eínai pio simantikó apó ó, ti échei éna fantachteró spíti. / Nice clothing is more important than having a fancy house.
+artwife_byzantine.makeclothes_byz_wool=$name, échete forései to mallí sas prin? / $name, have you worn wool before?
+artwife_byzantine.makeclothes_byz_wool=I alithiní omorfiá den eínai se blok, i omorfiá eínai sta roúcha. / True beauty isn't in blocks, beauty is in clothes.
+artwife_byzantine.makeclothes_byz_wool=Óloi chreiázontai roúcha, eidiká an thélete na eíste politisménoi. / Everyone needs clothing, especially if you want to be civilized.
+artwife_byzantine.makeclothes_byz_wool=Ypárchei énas lógos gia ton opoío yfaíno aftó kai óchi o sýzygós mou. / There's a reason why I am weaving this and not my husband.
+artwife_byzantine.makeclothes_byz_wool=Den boreí káthe gynaíka na yfánei me mallí. / Not every woman can weave with wool.
+artwife_byzantine.makeclothes_byz_wool=Chaíromai pou prépei na káno pragmatikí douleiá. / I am just glad that I'm having to do an actual job.
+
+artwife_byzantine.DeliverGoodsHousehold=Pragmata opws auto einai ta mona pou mporw na kanw. / Things like this are the only things I can do here.
+artwife_byzantine.GetHouseTHResources=Epitelous o syzygos mou metefere ta agatha opws tou eipa. / My husband has finally delivered his resources like I told him.
+artwife_byzantine.getGoodsHousehold=Óra na frontízo tin oikogéneiá mou. / Time to take care of my family.
+artwife_byzantine.greeting=Tha boroúsa na káno pollá perissótera edó an ímoun ándras, an móno... / I could do so much more here if I was a man, if only...
+artwife_byzantine.greeting=To kathikon mas einai na elegxoume tous andres. / Our task is to control our men.
+
+//Add (more) lines for artwife block transport and going to rest
+
+baron_byzantine.greeting=$name, to chorió mou échei ta kalýtera emporévmata gia pólisi! / $name, my village has the best goods on sale!
+baron_byzantine.greeting=Xaire, ploúsie taxidióti! / Hello wealthy traveller!
+baron_byzantine.greeting=Thélete na voithísete na parakolouthísete tous agrótes $name? / Do you want to help watch the peasants $name?
+
+baron_byzantine.goDrink=Arketes metarýthmiseis! Chreiázomai éna potó. / Enough governing! I need a drink.
+baron_byzantine.goDrink=Axízei na pio to kalýtero krasí! / I deserve to drink the best wine!
+baron_byzantine.goDrink=Prépei na elénxo an i tavérna eínai kerdofóra. / I should check if the tavern is profitable.
+baron_byzantine.goDrink=Káthe ischyró átomo prépei na piei í tha pethánei apó to ánchos! / Every powerful person needs to drink or they will die from the stress!
+
+baron_byzantine.gopray=Giatí o Theós na me kanei Eparxo? / Why did God make me a baron?
+baron_byzantine.gopray=I prosefchí eínai éna simantikó méros tis romaïkís kyvérnisis. / Praying is an important part of Roman governing.
+baron_byzantine.gopray=Katanoeí ta provlímata pou échoun oi Eparxoi. / He understands the troubles barons have.
+baron_byzantine.gopray=To chorió mou chreiázetai apantíseis apó to Theó! / My village needs answers from God!
+
+baron_byzantine.gorest=Arketí diacheírisi ton agrotón! Chreiázomai lígo ýpno. / Enough managing the peasants! I need some sleep.
+baron_byzantine.gorest=*Chasmouritó* Den boró na odigíso tous agrótes ótan eímai kourasménos. / *Yawn* I cannot lead peasants when I am tired.
+baron_byzantine.gorest=Óra na koimithó sti metaxénia mou kouvérta. / Time to sleep in my silky blanket.
+baron_byzantine.gorest=Óloi chreiázontai ýpno, eidiká ótan eíste igétis enós chorioú. / Everyone needs sleep, especially when you are a leader of a village.
+
+baron_byzantine.gosocialise=Giatí oi anóitoi chorikoí vlépoun móno ton eaftó mou os ton "Eparxo"? / Why do the stupid peasants only view me as the "Baron"?
+baron_byzantine.gosocialise=Hm, as doúme an katévale tous fórous tou. / He he he, let's see if he paid his taxes.
+baron_byzantine.gosocialise=Óra na empnéfso tous ftochoús na kerdísoun kana denarion! / Time to inspire the poor to earn denier!
+baron_byzantine.gosocialise=Prépei na milíso me ton koinó laó? / Do I have to talk to the common folk?
+baron_byzantine.gosocialise=Os Eparxos, prépei na milíso ston laó mou, akóma ki an den to thélo. / As baron, I have to talk to my people, even if I don't want to.
+
+baron_byzantine.inspectconstruction=Prépei na sigoureftó óti oi agrótes den ésfaxan káti. / I need to make sure that the peasants did not mess something up.
+baron_byzantine.inspectconstruction=Aftó to ktírio tha férei kérdos sto chorió mou. / This building will bring profit to my village.
+baron_byzantine.inspectconstruction=I pragmatiki eutixia einai na vlépeis to chorió sou na ploutízei. / Beauty is watching your village get wealthier.
+baron_byzantine.inspectconstruction=Xéro óti i Rómi den chtístike se mia méra, allá giatí o architéktonas mou eínai tóso argós? / I know that Rome was not built in a day, but why is my architect being so slow?
+baron_byzantine.inspectconstruction=Eínai dikí mou douleiá na diasfalíso óti ta ktíria tha kataskevastoún sostá. / It's my job to make sure that buildings get built right.
+baron_byzantine.inspectconstruction=Oi architéktones mou kánoun syníthos kalí douleiá, allá prépei pánta na tis elénxo. / My architects usually do a good job, but I need to always check up on them.
+
+boy_byzantine.becomeAdult=Óra na gíneis dynatós antras! / Time to become a strong man!
+boy_byzantine.becomeAdult=Eímai arketá megálos gia na doulépso mia douleiá! / I am old enough to work a job!
+boy_byzantine.becomeAdult=Chreiázomai mia douleiá tóra. / I need a job now.
+boy_byzantine.becomeAdult=Oi méres mou na eímai agóri teleiónoun. / My days of being a boy are over.
+
+boy_byzantine.goPlay=Thélo na polemíso kápoion! / I want to fight someone!
+boy_byzantine.goPlay=Thélo na paíxo "Katapolémisi ton Barbáron"! / I want to play "Fight the Barbarian"!
+boy_byzantine.goPlay=Tha deíxo se ólous óti eímai megálos kai ischyrós! / I will show everyone that I am big and strong!
+boy_byzantine.goPlay=Óra na paíxo ton stratióti.! / Time to play "soldier".
+
+boy_byzantine.gopray=Thélo na mátho gia to Theó! / I want to learn about God!
+boy_byzantine.gopray=Boreí na mou pei o Theós gia tous enílikes? / Can God tell me about adults?
+boy_byzantine.gopray=Pós boró na prosefchithó? / How do I pray?
+boy_byzantine.gopray=Den thélo na prosefchithó! Thélo na paíxo! / I do not want to pray! I want to play instead!
+
+boy_byzantine.childobservesmithing=Ótan megaló, thélo na eímai kimás epísis. Í énas stratiótis. Í énas stratigós! / When I grow up I want to be a smith also. Or a soldier. Or a general!
+
+//Add lines for boys resting and socializing
+
+centurio_byzantine.goDrink=Káthe ischyró átomo prépei na piei, allios tha pethánei apó to ánchos! / Every powerful person needs to drink or they will die from the stress!
+centurio_byzantine.goDrink=Os stratiótis, chreiázomai krasí, kai geniká, to chreiázomai perissótero apo tous allous. / As a soldier, I need wine, as a centurion, I need it even more.
+centurio_byzantine.goDrink=Prépei na xekourasto, alliós tha eímai áchristos ótan érchontai oi bárbaroi. / I need to relax, unwind, or else I will be useless when the barbarians come.
+
+centurio_byzantine.gopray=Giatí o Theós me ékane Stratego? / Why did God make me a Strategos?
+centurio_byzantine.gopray=I prosefchí eínai éna simantikó méros tou Romaíou polémou. / Praying is an important part of Roman warfare.
+centurio_byzantine.gopray=Katanoeí ta provlímata pou échoun oi Strategoi. / He understands the troubles Strategos have.
+centurio_byzantine.gopray=O stratós mou chreiázetai apantíseis apó to Theó! / My army needs answers from God!
+
+centurio_byzantine.gorest=Arketí diacheírisi ton stratiotón! Chreiázomai lígo ýpno. / Enough managing the soldiers! I need some sleep.
+centurio_byzantine.gorest=Óra na apogeiotheí i panoplía mou kai na koimithó. / Time to take off my armor and go to sleep.
+centurio_byzantine.gorest=*Chasmouritó* Den boró na odigíso tous stratiótes ótan eímai kourasménos./ *Yawn* I cannot lead soldiers when I am tired.
+centurio_byzantine.gorest=Óloi chreiázontai ýpno, eidiká ótan eíste igétis enós chorioú. / Everyone needs sleep, especially when you are a leader of a village.
+
+centurio_byzantine.gosocialise=Óra na enischytheí to ithikó ton stratiotón! / Time to boost the soldiers' morale!
+centurio_byzantine.gosocialise=Énas kalós trópos gia na kerdísete tin písti eínai na symvoulefteíte tous anthrópous sas. / A good way to gain loyalty is to consult with your people.
+centurio_byzantine.gosocialise=Chreiázomai perissóterous stratológous gia to strató! / I need more recruits for the army!
+centurio_byzantine.gosocialise=Oi yfistaménoi mou prépei na gnorízoun ta amyntiká mou schédia. / My subordinates need know my defense plans.
+centurio_byzantine.gosocialise=Oi yfistaménoi mou prépei na gnorízoun ta prosvlitiká mou schédia. / My subordinates need know my offensive plans.
+centurio_byzantine.gosocialise=Oi ánthropoi prépei na katalávoun tin apeilí mias varvarikís epíthesis! / The people need to understand the threat of a barbarian attack!
+centurio_byzantine.gosocialise=Prépei na ypenthymíso se ólous óti prépei na eímaste étoimoi na polemísoume aná pása stigmí! / I need to remind everyone that we need to be ready to fight at any time!
+
+centurio_byzantine.huntmonster=Akómi kai os Strategos, prepei na eimai sklirotrachilos stratiótis. / Even as a centurion, I cannot get rusty at being a soldier.
+centurio_byzantine.huntmonster=Poú eínai oi yfistaménoi mou? Den prepei na kanoun etsi. / Where are my subordinates? They should be doing this.
+centurio_byzantine.huntmonster=Eímai Strategos tis Romaïkís Autokratorías kai pistévete óti boreíte na me antimetopisete? Xa! / I am a Strategos of the Roman Empire and you think that you can fight me? Ha!
+
+centurio_byzantine.inspectconstruction=Ti oraio na blepeis to chorio na megalonei. / Beauty is watching your village get stronger.
+
+farmiller_wife_byzantine.DeliverGoodsHousehold=Pragmata opos auto einai ta mona pou mporw na kanw. / Things like this are the only things I can do here.
+farmiller_wife_byzantine.GetHouseTHResources=Epitelous o syzygos mou metefere ta agatha, opos tou eipa. / My husband has finally delivered his resources like I told him.
+farmiller_wife_byzantine.getGoodsHousehold=Óra na frontízo tin oikogéneiá mou. / Time to take care of my family.
+farmiller_wife_byzantine.greeting=Tha boroúsa na káno pollá perissótera edó an ímoun ándras, an móno... / I could do so much more here if I was a man, if only...
+farmiller_wife_byzantine.greeting=To kathikon mas einai na elegxoume tous andres. / Our task is to control our men.
+
+girl_byzantine.childobserveproducefood=Eínai kaló pou oi antres den mageirévoun, tha kápsoun ta pánta. / It's a good thing men don't cook, they would burn everything.
+
+keeperBirch_byzantine.greeting=Einai toso bareta edo, den symvainei sxedon tipota... / It's so dull here, nothing ever happens...
+keeperBirch_byzantine.greeting=Eínai dikí mou douleiá na parakolouthó aftés tis periochés. / It's my job to watch these areas.
+keeperBirch_byzantine.greeting=Kalhspera taxideuth, anarwtiemai pws irthes ews edw. / Greetings traveller, I wonder how you ended up in this faraway place.
+keeperBirch_byzantine.greeting=Pws skeftike kapios oti mporei na brei ergasia edw... / How could anyone think someone should be posted here...
+
+keeperOak_byzantine.greeting=Aftoi oi anthrwpoi, autoapokalountai "Normans", moy thimyzoun thn xakousth autokratotria mas. / These people here, that call themselves Normans, remind me of our glorious empire.
+keeperOak_byzantine.greeting=Einai toso bareta edo, den symvainei sxedon tipota... / It's so dull here, nothing ever happens...
+keeperOak_byzantine.greeting=Eínai dikí mou douleiá na parakolouthó aftés tis periochés. / It's my job to watch these areas.
+keeperOak_byzantine.greeting=Kalhspera taxideuth, anarwtiemai pws irthes ews edw. / Greetings traveller, I wonder how you ended up in this faraway place.
+keeperOak_byzantine.greeting=Pws skeftike kapios oti mporei na brei ergasia edw... / How could anyone think someone should be posted here...
+
+keeperPine_byzantine.greeting=Afto to kryo einai tsouxtero. Den anarwtiemai pou den yparxei kaneis edw... / This cold is awful. No wonder there is nobody around.
+keeperPine_byzantine.greeting=Einai toso bareta edo, den symvainei sxedon tipota... / It's so dull here, nothing ever happens...
+keeperPine_byzantine.greeting=Eínai dikí mou douleiá na parakolouthó aftés tis periochés. / It's my job to watch these areas.
+keeperPine_byzantine.greeting=Kalhspera taxideuth, anarwtiemai pws irthes ews edw. / Greetings traveller, I wonder how you ended up in this faraway place.
+keeperPine_byzantine.greeting=Pws skeftike kapios oti mporei na brei ergasia edw... / How could anyone think someone should be posted here...
+
+keeperTropical_byzantine.greeting=Einai toso bareta edo, den symvainei sxedon tipota... / It's so dull here, nothing ever happens...
+keeperTropical_byzantine.greeting=Eínai dikí mou douleiá na parakolouthó aftés tis periochés. / It's my job to watch these areas.
+keeperTropical_byzantine.greeting=Einai toso zesta edo. Den borw na katalavo giati aftoi 'Indian' zoun se afth th gh. / It's so hot here. I can't understand why those Indians live in these lands.
+keeperTropical_byzantine.greeting=Exeis dei pote aftous tous periergous tous 'Maya' ? Ta ktiria tous moiazoun san na einai etoima na katareusoun. / Have you ever seen those strange Mayas? Their buildings look like they could collapse any second.
+keeperTropical_byzantine.greeting=Kalhspera taxideuth, anarwtiemai pws irthes ews edw. / Greetings traveller, I wonder how you ended up in this faraway place.
+keeperTropical_byzantine.greeting=Pws skeftike kapios oti mporei na brei ergasia edw... / How could anyone think someone should be posted here...
+
+lumberman_byzantine.BringBackResourcesHome=As elpísoume óti aftó tha eínai arketó gia na evdokimísei to chorió! / Hopefully this will be enough for the village to thrive!
+lumberman_byzantine.BringBackResourcesHome=Eímai polý epitychiménos xylourgós, i apografí mou eínai gemáti me koútsoura! / I am a very successful lumberman, my inventory is filled with logs!
+lumberman_byzantine.BringBackResourcesHome=Férno pollá déntra allá den eínai variá gia kápoio lógo. / I am carrying many trees but they aren't heavy for some reason.
+lumberman_byzantine.BringBackResourcesHome=Aftí ítan mia kalí douleiá. / That was a job well done.
+lumberman_byzantine.BringBackResourcesHome=H gynaika mou prepei na einai perhfanh me olo to xilo pou efera . / My wife must be proud with all the wood I have brought.
+
+lumberman_byzantine.ChopTrees=Kathe ktirio edw xreiazete xilo, h apokthsh tou einai douleia mou! / Every structure here needs wood, and getting it is my job!
+lumberman_byzantine.ChopTrees=Éna állo déntro káto, perissótero xýlo gia to chorió! / Another tree down, more wood for the village!
+lumberman_byzantine.ChopTrees=Éna állo déntro káto, perissótero xýlo gia to chorió! / One more tree down, more wood for the village!
+lumberman_byzantine.ChopTrees=$name, échete kópsei poté éna déntro prin? / $name, have you ever chopped down a tree before?
+lumberman_byzantine.ChopTrees=Párte to déntro Choppa! / Get to the Choppa tree!
+lumberman_byzantine.ChopTrees=Pethaínoun déntro pethaínoun! CHACHACHA! Kaloúpi! Kaloúpi! Kaloúpi! CHA-O, Geia sou, $name! Típota ... paráxeno ... symvaínei edó.! / Die tree die! HAHAHA! Die! Die! Die! Ha- Oh, hi there $name! Nothing.. strange... happening here.
+lumberman_byzantine.ChopTrees=Den thélo na se skotóso, allá prépei na ... Antío déntro! / I don't want to kill you, but I have to... Goodbye tree!
+lumberman_byzantine.ChopTrees=Échete anarotitheí poté giatí ta temachisména déntra ftánoun edó, $name? Eínai polý períergo. Ó, ti ki an káno, pántote epipléoun kai prépei na spáso to déntro pros ta páno lígo sigá, eínai énas tétoios pónos.! / Have you ever wondered why chopped down trees float here, $name? It's very strange. No matter what I do, they always float and I have to break the tree upward bit by bit, it's such a pain.
+
+lumberman_byzantine.GatherGoods=Re $name! Min to paírneis auto! / Hey $name! Don't take that!
+lumberman_byzantine.GatherGoods=Ta déntra megálosan kalá aftí ti forá, tósa pollá koútsoura kai fytá. / The trees grew well this time, so many logs and saplings.
+lumberman_byzantine.GatherGoods=Elpízo óti to chorió tha chreiasteí óla aftá ta koútsoura. / I hope the village needs all of these logs.
+lumberman_byzantine.GatherGoods=Aftó ítan éna megálo déntro! Tóra to chorió boreí na chrisimopoiísei ta koútsourá tou. / That was one big tree! Now the village can use its logs.
+lumberman_byzantine.GatherGoods=Koitáxte óla aftá ta néa kormoús kai ta fytá pou píra apó tin kopí ton déntron! / Look at all of these new logs and saplings I got from chopping down the trees!
+lumberman_byzantine.GatherGoods=Polu wraio dentryllio. / Nice sapling over there.
+
+lumberman_byzantine.PlantSaplings=Aftá ta fytá eínai tóso mikrá, merikés forés den boró na pistépso óti tha gínoun tóso megála. / These saplings are so small, sometimes I can't believe that they will become so big.
+lumberman_byzantine.PlantSaplings=Eísai tóso charitoméno mikrófyllo, schedón me afínei na xecháso óti tha se kópso ótan megalóseis. / You're so cute little sapling, almost lets me forget I'm going to chop you down when you grow up.
+lumberman_byzantine.PlantSaplings=$name, thélete na fytépsete éna fytó? / $name, do you want to plant a sapling?
+lumberman_byzantine.PlantSaplings=Ta déntra megalónoun tóso grígora edó, se líges méres gyrízoun apó aftó to mikroskopikó déntro méchri na eínai éna gemáto déntro. / Trees grow so fast here, in a few days they turn from this tiny sapling to being a full tree.
+lumberman_byzantine.PlantSaplings=I fýtefsi eínai i efkolóteri douleiá, to móno pou prépei na káno eínai na ta topothetíso sto édafos. / Planting is the easiest job, all I have to do is place them on the ground.
+lumberman_byzantine.PlantSaplings=Syntoma tha ginei ena megalo, panemorfo dentro! Kai tha to kopsw.  / Soon this will be a big, majestic tree! And I'll cut it down.
+
+merchant_art.greeting=Kamía póli ston kósmo den boreí na synkritheí me tin omorfiá kai ti dýnami tis Konstantinoúpolis. / No city in the world can compare with the beauty and might of Constantinople.
+merchant_art.greeting=Eímaste oi teleftaíoi alithinoí Romaíoi! / We are the last true Romans!
+
+miner_byzantine.Mining=I douleiá mou eínai na spáso ta vráchia kai na metatrépso aftá ta vráchia pros epexergasía, aftó eínai. / My job is to break rocks and take those rocks to be smelted, that's it.
+miner_byzantine.Mining=To chéri mou ponáei apó ti chrísi aftís tis pikkáx káthe méra. / My arm hurts from using this pickaxe every day.
+miner_byzantine.Mining=Éna blok, dýo blok, tría blok, téssera blok, den teleiónei poté. Akrivós to ídio prágma xaná kai xaná. / One block, two block, three block, four block, it never ends. Just the same thing over and over again.
+miner_byzantine.Mining=Éna blok, dýo blok, treis anamonís, eínai aftós o chrysós? Aftó eínai? Vríka to chrysó! CHRYSOS! CHRYSOS! Eímai ploúsios! HAHA-ítan aplá sidírou pou antanaklá se kakó fos. Epistrofí sto exóryxi sidírou kai ánthraka ... / One block, two block, three-wait, is that gold?  That is? I FOUND GOLD! GOLD! GOLD! I'm rich! HAHA-oh, it was just iron reflecting in a bad light. Back to mining iron and coal...
+miner_byzantine.Mining=Ogdónta blok, ogdónta éna blok, októ dýo blok, ogdónta tría blok ... / Eighty block, eighty one block, eight two block, eighty three block...
+miner_byzantine.Mining=Geia sou! Pós metaféroun tósa pollá blok kai i dikí mou tóso grígora? Chreiázontai óres gia na káno aftó pou káneis se mia méra. / Hey! How do you carry so many blocks and mine so fast? It takes me hours to do what you do in a day.
+miner_byzantine.Mining=*ghouch* *Ghouch*, misó na ergázomai me ánthraka. / *Cough* *Cough*, I hate working with coal.
+miner_byzantine.Mining=Gia na kaneis aythn thn douleia h dynamh kai h antoxh einai aparaithta. Kaneis omws den to katalabainei... / In this job strength and endurance is needed. But nobody here notices...
+miner_byzantine.Mining=Eimai perifanos pou eimai Romaios katoikos kai pou douleyw gia thn aytokratoria , an kai einai dyskolh douleia. / I'm proud to be a Roman Citizen working for the glorious Empire, even in this hard job.
+
+patriarch_byzantine.makebooks=Ta biblia mou einai merika apo ta kalytera xeirografa ekei exo. / My books are some of the best manuscripts out there.
+
+patriarch_byzantine.gopray=Giatí o Theós me ékane énan apó tous pio polýtimous ypirétes tou? / Why did God make me one of his most treasured servants?
+patriarch_byzantine.gopray=Os Patriárchis, prépei na odigíso tin prosefchí. / As the Patriarch, I must lead the prayer.
+patriarch_byzantine.gopray=Katalavaíno ta provlímata pou échei. / I understand the troubles He has.
+patriarch_byzantine.gopray=Katanoeí ta provlímata pou échoun oi patriárches. / He understands the troubles patriarchs have.
+patriarch_byzantine.gopray=To chorió mou chreiázetai apantíseis apó to Theó! / My village needs answers from God!
+
+patriarch_byzantine.gorest=Óloi chreiázontai ýpno, eidiká ótan eíste igétis enós chorioú. / Everyone needs sleep, especially when you are a leader of a village.
+patriarch_byzantine.gorest=*Chasmouritó* Den boró na odigíso tous iereís ótan eímai kourasménos./ *Yawn* I cannot lead priests when I am tired.
+
+patriarch_byzantine.inspectconstruction=I omorfiá vlépei to chorió sas na plisiázei perissótero sto Theó. / Beauty is watching your village get closer to God.
+
+pastor_byzantine.makebooks=Ta biblia mou einai merika apo ta kalytera xeirografa ekei exo. / My books are some of the best manuscripts out there.
+
+//smith_byzantine.MakeIndianTools=Ta romaïkós ergaleia einai ta kalytera ston kosmo. / Roman tools are the best in world.
+
+smith_byzantine.gopray=Énas kalós sideras prépei na proséfchetai káthe forá kai lígo. / A good smith needs to pray every once and a while.
+smith_byzantine.gopray=Giatí o Theós me ékane éna sídera? / Why did God make me a smith?
+smith_byzantine.gopray=I prosefchí eínai éna simantikó méros tis romaïkís cheirotechnías. / Praying is an important part of Roman crafting.
+smith_byzantine.gopray=Katanoeí ta provlímata pou échoun oi siderades. / He understands the troubles smiths have.
+
+smith_byzantine.gorest=Ávrio tha káno pio ómorfa prágmata! / Tomorrow I will craft more beautiful things!
+smith_byzantine.gorest=Écho kánei me ktírio gia tin iméra. / I am done with crafting for the day.
+smith_byzantine.gorest=Ísos tha oneireftó na káno ta kalýtera ergaleía ston kósmo! / Maybe I will dream of crafting the world's best tools!
+
+smith_byzantine.gosocialise=Tha zitíso na do an kápoios chreiázetai na kataskeváso káti. / I will ask to see if anyone needs me to craft something.
+smith_byzantine.gosocialise=Elpízo óti to chorió ektimá ta ergaleía mou. / I hope that the village appreciates my tools. 
+
+smith_byzantine.goDrink=Arketi cheirotechnía! Chreiázomai krasí! / Enough crafting! I need some wine!
+smith_byzantine.goDrink=Chreiázomai éna potó gia na me empnéfsei! / I need a drink to inspire me!
+smith_byzantine.goDrink=Káthe kalós siderás chreiázetai éna potó sto télos tis iméras. / Every good blacksmith needs a drink at the end of the day.
+smith_byzantine.goDrink=I cheirotechnía me kánei na dipsá gia to krasí. / Crafting makes me thirsty for wine.
+
+smith_byzantine.makesteelaxe=Den boreíte na kópsete ta déntra chorís tsekoúri! / You cannot chop down trees without an axe!
+smith_byzantine.makesteelaxe=Kataskevázo ekpliktikoús áxones. / I craft amazing axes.
+smith_byzantine.makesteelaxe=Oi romaïkoí áxones eínai merikoí apó tous kalýterous ston kósmo! / Roman axes are some of the best in the world!
+smith_byzantine.makesteelaxe=Oi xylourgoí chreiázontai na kánoume tous áxonés tous. / The lumbermen need us to craft their axes.
+smith_byzantine.makesteelaxe=Pós ftiáchneis tous áxones sou $name? / How do you craft your axes $name?
+
+smith_byzantine.makesteelhoe=Den boreíte na ekmetallefteíte chorís ergaleía kalliérgeias! / You cannot farm without farming tools!
+smith_byzantine.makesteelhoe=Kataskevázo katapliktiká ergaleía kalliérgeias. / I craft amazing farming tools.
+smith_byzantine.makesteelhoe=Romaïká ergaleía kalliérgeias eínai meriká apó ta kalýtera ston kósmo! / Roman farming tools are some of the best in the world!
+smith_byzantine.makesteelhoe=Oi agrótes chreiázontai na kataskevásoume ta ergaleía tous. / The farmers need us to craft their tools.
+smith_byzantine.makesteelhoe=Pós dimiourgeíte ta georgiká sas ergaleía $name? / How do you craft your farming tools $name?
+
+smith_byzantine.makesteelpickaxe=Den boreíte na to dikí sas chorís pickaxe! / You cannot mine without a pickaxe!
+smith_byzantine.makesteelpickaxe=Kataskevázo dynatá pickaxes. / I craft strong pickaxes.
+smith_byzantine.makesteelpickaxe=Ta romaïká pickaxes eínai meriká apó ta kalýtera ston kósmo! / Roman pickaxes are some of the best in the world!
+smith_byzantine.makesteelpickaxe=Oi anthrakorýchoi mas chreiázontai na kataskevásoume ta pickaxes tous. / The miners need us to craft their pickaxes.
+smith_byzantine.makesteelpickaxe=Pós ftiáchnete ta pickaxes sas $name? / How do you craft your pickaxes $name?
+
+smith_byzantine.makesteelshovel=Den boreíte na chtísete í na skápsete chorís éna ftyári! / You cannot build or dig without a shovel!
+smith_byzantine.makesteelshovel=Kataskevázo anthektiká ftyária. / I craft durable shovels.
+smith_byzantine.makesteelshovel=Romaïká ftyária eínai meriká apó ta kalýtera ston kósmo! / Roman shovels are some of the best in the world!
+smith_byzantine.makesteelshovel=Oi architéktones chreiázontai na kataskevásoume ta ftyária tous. / The architects need us to craft their shovels.
+smith_byzantine.makesteelshovel=Pós ftiáchneis ta ftyária sou $name? / How do you craft your shovels $name?
+
+villager.greeting=Xaire, $name! / Hello, $name!
+villager.greeting=Omorfi mera, etsi den einai? / Beautiful day, isn't it?
+villager.greeting=Tha brexei syntoma.  / It will rain soon.
+villager.greeting=Kamia polh ston kosmo den sygrinete me tin Konstantinoúpoli./ No city in the world can compare with Constantinople.
+villager.greeting=Den eimaste Ellines , eimaste Romaioi. / We aren't Greek, we're Roman.
+villager.greeting=Eímaste oi mónoi alithinoí Romaíoi. / We are the last true Romans.
+villager.greeting=Varéli sti dóxa tou politismoú mas katá ti diárkeia tis paramonís sas edó. / Bask in the glory of our civilization during your stay here.
+villager.greeting=Kalós ílthate sto chorió mas, $name! / Welcome to the village, $name!
+villager.greeting=Koíta! Ypárchei ónoma $name! / Look! There's $name!
+villager.greeting=Eimaste oi Byzantinoi, oi teleutaioi alhthinoi Romaioi. Ypoklitheite stin doxa tou politismou mas. / We are the last true Romans. Bath in the light of our civilisation.
+
+villager.BecomeAdult=Epitélous, écho gínei Romaíos polítis! / Finally, I have become a Roman citizen!
+
+villager.huntmonster=Prépei na skotóso aftón ton bárbaro! / I need to kill this barbarian!
+
+villager.goPlay=Mallon tha paixw ekso. / I think I'll go play outside.
+villager.goPlay=Tha páo na paíxo tóra. / I will go play now.
+villager.goPlay=$name! Théleis na paíxeis mazí mou? / $name! Do you want to play with me?
+villager.goPlay=Thélo na tréxo! / I want to run!
+
+villager.calltoarms=Hxiste synagermo! Dexomaste epithesi! / The Roman Empire is attacked! To arms!
+villager.calltoarms=Barbaroi! Sta opla Romaioi! / The barbarians are here! Defend our village at all costs!
+
+villager.childeatgrapes=Orkízomai óti aftá ta stafýlia épesan mónoi tous! / I swear these grapes fell on their own!
+
+villager.childobservevines=Oi enílikes prépei na stamatísoun na chánoun nóstima stafýlia kánontas aftó to apaísio krasí apó aftó! / Adults should stop wasting tasty grapes by making that awful wine from it!
+villager.childobserveconstruction=Mia méra tha episkefthó tin Konstantinoúpoli kai tha doúme ti moiázoun me ta pragmatiká romaïká ktíria! / One day I will visit Constantinople and see what real Roman buildings look like!
+villager.childobserveproducealcohol=Dokímasa éna krasí mia forá, eínai aidiastikó. / I tried wine once, it's disgusting.
+
+villager.gorest=An den koimithó, boreí na symvoún atychímata. / If I do not sleep, accidents can happen.
+villager.gorest=Eímai kourasménos. Páo spíti gia na koimithó. / I'm tired. I'm going home to sleep.
+villager.gorest=Mallon oti tha pao gia ypno. / I think I'm off to go to sleep.
+
+villager.makeBread=To psomi myrizei idi wraia. / The bread already smells good...
+
+villager.gopray=Diefchon ton agion pateron eimon. / I am guided by the Holy Father.
+villager.gopray=Basileus ouranie paraklite... / Oh Lord you skyborn, and mercyful.
+villager.gopray=O paides eulogitai, oi iereis animneite! / The men worship, the clerics chant!
+villager.gopray=Xaire nymfe anymfeute! / Hail virgin nymf!
+villager.gopray=Tin upermaxo stratigo ta nikitiria! / Oh holy Marry, Great victorius commander!
+villager.gopray=Os lytrothisa ton doinon euxaristiria... / You who save me from the bad I thank you...
+villager.gopray=Laos uperipsoute, eis pantas tous aiones / The people will pray for you, to the never ending eons, amen.
+
+villager.goDrink=Óra na ftiáxete éna frésko romaïkó krasí! / Time to get some fresh Roman wine!
+villager.goDrink=Chreiázomai éna potó. / I need a drink.
+villager.goDrink=O oínos tha plýnei ta provlímatá mou. / Wine will wash my troubles away.
+villager.goDrink=Xérate óti to romaïkó krasí eínai to kalýtero ston kósmo? / Did you know that Roman wine is the best in the world?
+villager.goDrink=Échei perásei polýs kairós apó tóte pou écho éna potó. / It's been a long time since I have had a drink.
+
+wife_byzantine.DeliverGoodsHousehold=Pragmata opws auto einai ta mona pou mporw na kanw. / Things like this are the only things I can do here.
+wife_byzantine.GetHouseTHResources=Epitelous o syzygos mou metefere ta agatha opws tou eipa. / My husband has finally delivered his resources like I told him.
+wife_byzantine.cooking=H mageirikh einai poly diaskedastikh. / Cooking is really fun.
+wife_byzantine.getGoodsHousehold=Óra na frontízo tin oikogéneiá mou. / Time to take care of my family.
+wife_byzantine.greeting=Tha boroúsa na káno pollá perissótera edó an ímoun ándras, an móno... / I could do so much more here if I was a man, if only...
+wife_byzantine.greeting=To kathikon mas einai na elegxoume tous andres. / Our task is to control our men.
+
+//refresh
+villager.givespeech=I Romaïkí Aftokratoría eínai megáli kai to chorió mas eínai to Spoudaióteron. / The Roman Empire is great, and our village is the greatest.
+villager.givespeech=To chorió mas prépei na efcharistísei gia tin igesía tou gia ólo to megaleío tou. / Our village must thank its leadership for all its greatness.
+villager.givespeech=Emeís oi Romaíoi échoume tous kalýterous igétes kai tous kalýterous anthrópous. / We Romans have the best leaders and best people.
+
+villager.listentospeech=Échei díkio! / He is right!
+villager.listentospeech=Dóxa eimín! / Glory to us!
+villager.listentospeech=Boroúme na nikísoume opoiondípote! / We can defeat anybody!
+villager.listentospeech=Dóxa ston Theó kai ston Theóchristo igéti! / Glory to God and our Godsend leader!
+
+special_byzantine.greeting=Bahhh, $name. / Your servitude will be rewarded, $name.
+special_byzantine.calltoarms=Bahhh! Bah! Bahhhhh! Bah. / Don’t test your luck, child.
+special_byzantine.gopray=Bahhhhh… Bahhhh… / Bow before me...
+
+oldshepherd_byzantine.greeting=Oi pepoithíseis mou me krátisan kala… / My beliefs kept me going on…
+oldshepherd_byzantine.greeting=Voíthisé me na ekpliróso to óneiró mou, $name, kai tha antameiftheíte / Help me fulfil my dream, $name, and you shall be rewarded…
+oldshepherd_byzantine.calltoarms=Gia ton Boskokrátor! / For the Boskokrator!
+oldshepherd_byzantine=Ágios Boskokrátor, parakaló evlogíste me kai ta próvatá mou. / Holy Boskokrator, please bless me and my sheep.
+
+merchant_armour.greeting=Móno ta oraiótera ópla kai ta ópla! / Only the finest armours and weapons!
+merchant_armour.keepStall=Kalós írthate! Sas férno ta kalýtera spathiá pou boreíte na vreíte! / Welcome, welcome! I bring you the best swords you can find!
+
+merchant_dyes.greeting=Érchomai sta chrómata káthe méra! Periménete, den eímai indós. / I come in colours every day! Wait, I am not Indian.
+merchant_dyes.keepStall=Ela na deis! Vafés apó ólo ton kósmo! / Come and see! Dyes from all around the world!
+
+merchant_food.greeting=Ti léte gia kápoio nóstimo souvláki, $name? How about some delicious souvlaki, $name?
+merchant_food.keepStall=Óla ta trófima pou thélete na fáte! / All the food you ever want to eat!
+
+merchant_materials.greeting=Eláte na agorásete ta kalýtera oikodomiká yliká! Egó kai i pláti mou tha sas efcharistíso. / Come and buy the finest building materials! Me and my back will thank you.
+merchant_materials.keepStall=Ámmos, pétra kai toúvla! Diorite kai chalazía! / Sand, Stone and Bricks! Diorite and Quartz!
+
+merchant_relics.greeting=Pouláo polýtimes cheirotechníes kai ierá koimilia, $name. / I sell valuable crafts and sacred goods, $name.
+merchant_relics.keepStall=Eláte kai deíte tin koryfí tis romaïkís cheirotechnías. / Come, and view the peak of Roman craftsmanship.
+
+merchant_textiles.greeting=Sovará, $name? Aftó to Endyma? / Seriously, $name? This skin?
+merchant_textiles.keepStall=Montérna chaliá kai roúcha, ópos akrivós kai stin Konstantinoúpoli! / Trendy carpets and clothes, just like they have in Constantinople!
+
+loneabbot_byzantine.greeting=Kalós ílthate, $name. Boreíte na xekourasteíte apó ta taxídia sas, eíste asfaleís edó. / Welcome, $name. You may rest from your travels, you are safe here.
+lonemonk_byzantine.greeting=Den boró na sou prosféro típota, $name / I cannot offer you anything, $name.
+
+loneabbot_byzantine.gosocialise=Anypomonó na moirastó tis spoudés mou. / I cannot wait to share my studies.
+
+lonemonk_byzantine.gosocialise=Anypomonó na moirastó tis spoudés mou. / I cannot wait to share my studies.
+lonemonk_byzantine.plantseeds=Eíthe o Theós na evlogeí aftoús tous spórous. / May God bless these seeds.
+lonemonk_byzantine.collectcrop=Aftés oi kalliérgeies eínai dóro apó ton ídio ton Theó. / These crops are a gift from God himself.
+lonemonk_byzantine.makebread=I megáli thysía ton Yión tha xekinísei me aftó to psomí. / The Son’s great sacrifice will be commenced with this bread.
+
+villager.plantseeds=Pistévo óti tha échoume ploúsia synkomidí fétos. / I feel that we will have rich harvest this year.
+villager.collectcrop=To íxera! Mia ploúsia synkomidí! / I knew it! A rich harvest!
+
+villager.gostudy=Parakaló, min me apospoún tin prosochí, $name. / Please, do not distract me, $name.
+
+villager.gotreerelax=Aftó to skieró méros eínai téleio... / This shady place is just perfect…
+villager.gotreerelax=Tha boroúsa na meíno káto apó aftó to déntro óli tin iméra… / I could stay under this tree all day…
+
+villager.relight=I agápi tou Theoú eínai i móni mou epithymía! / God’s love is my only desire!
+villager.golookout=Símera, éna ploío tha érthei. To xéro. / Today, a ship will come. I know it.
+villager.golookout=Mia varetí douleiá, allá touláchiston plirónomai. / A boring job, but at least I get paid.

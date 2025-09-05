@@ -1,0 +1,42 @@
+villager.greeting=Konnichiwa, $name-san! / Head päeva, $name-san!
+villager.greeting=Oi. / Kuule.
+villager.greeting=Ogenki desuka, $name-san  / Kuidas läheb, $name-san?
+villager.greeting=Kawatta koto aru? / Mis uut?
+villager.greeting=Hajimemashite / Hea sinuga kohtuda.
+villager.greeting=Yokoso. / Teretulemast.
+villager.greeting=Gokigenyou. / Kuidas sul läheb?
+
+villager.gorest=Watashi niwa kyu-kei ga hituyou desu. / Ma pean puhkama.
+villager.gorest=A-, mou neru jikan da / Ah, mu magamisaeg.
+villager.gorest=Watashi wa totemo tukarete imasu./ Ma olen liiga väsinud.
+
+villager.gopray=Watashi wa housaku no tame ni megami Uga-no-Mintama ni inori masu. / Ma palvetan Jumalale Uga-no-Mintama et tuleks rohkesti saaki.
+villager.gopray=Kami wa watashitachi wo aku kara osukui ni naru. / Kami kaitseb meid kurjuse eest. 
+
+villager.BringBackResourcesHome=Cho cho cho... / töö,tö,töö...
+villager.ChopTrees=Watashi wa nanbonka no ki wo bassai suru tsumori da. / Ma lõikan maha mõned puud.
+villager.GatherGoods=Watashi wa ikutuka no souchi ga hituyou da. / Mul on vaja varusid.
+villager.PlantSaplings=Watashi wa korera no naegi wo ueru tumori desu. / Ma istutan need puuistikud.
+
+villager.SlaughterChicken=Anata wa dareka no tame ni subarashii shokuji wo tukuru darou. / Sa saad heaks toiduks kellegile.
+
+villager.GetHouseResources=Watashi wa ie kara nanika totte konakereba ikenai. / Ma pean minema võtma midagi kodust.
+villager.GetGoodsHousold=Watashi wa ie ni korera no mono ga hituyou desu. / Need on asjad mida ma kodus vajan.
+villager.DeliverGoodsHousold=Watashi wa mise kara syokuryou wo eta. / Ma sain toitu turult.
+
+villager.GetResourcesForBuild=Watashi wa motto takusan no zairyou ga hituyou desu. / Mul on vaja rohkem materaale.
+villager.ConstructionStepByStep=Watashi no chichi wa kentiku no houhou ni tuite watashi ni oshieta. / Mu isa õppetas mulle kuidas ehitada.
+villager.ConstructionStepByStep=Watashi wa kami ga watashi no kenchiku wo kiniiru koto wo negatte imasu. /Ma loodan,et kamile meeldib mu ehitis.
+
+villager.GoPlay=watashi wa asobitai desu. / Ma tahan mängida.
+villager.BecomeAdult=Seityou suru jikan. / Aegü les kasvada
+male.BecomeAdult=Watashi wa sensi ni naritai desu. / Ma tahan olla sõdalane. 
+female.BecomeAdult=Watashi wa ituka hahaoya ni naritai desu. / Ma tahan olla ema mingi päev.
+villager.gopray.chosen=Kokoro wo otitukasete kudasai. / Rahusta oma meelt.
+
+villager.calltoarms=Mura wo mamore! / Kaitske küla!
+villager.calltoarms=Karera wa watashitachi wo kougeki suru hi wo koukai suru darou! / Nad kahetsevad päeva kui nad ründasid meid!
+villager.calltoarms=Kuki wo mote! / Võtke oma relvad!
+
+villager.MakeTools=Watashi wa naganen no aida saikoukyu no dougu wo koumyou ni tukutte iru. / Ma teen parimaid tööriistu mitmeid aastaid.
+villager.MakeWeapons=Saikoukyu no buki no himitu wa sisyou kara watashi ni uketugareta. / Saladus parimateks relvadeks on antud kantud edasi mulle meitritelt.

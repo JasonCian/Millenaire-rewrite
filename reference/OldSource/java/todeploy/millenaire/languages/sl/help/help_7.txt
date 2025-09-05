@@ -1,0 +1,12 @@
+﻿version:3.4
+<darkblue>Naloge
+
+Naloge so dodaten način sodelovanja z vaščani. Ko so naloge mogoče, bo to prikazano nad vaščanovo glavo v kvadratnem oklepaju, na primer: "<darkblue>[Žejen!]<black>." Z desnim klikom odprite opis naloge. Tam lahko sprejmete ali zavrnete to nalogo. Nagrajene so z denarjem, ugledom in predmeti. Nekaj nalog zahteva dober ugled v vasi, da jih je mogoče opravljati.
+
+Če želite preveriti katere naloge ste sprejeli in kaj morate narediti, pritisnite "M".
+
+<darkblue>Stvarna naloga
+
+To je posebna zbirka, ki vključuje veliko nalog v dveh neodvisnih poglavjih, osredotočene na Normanske in Indijske kulture. Prva naloga vsakega poglavja vam bo zaupana s strani Indijskega ali Normanskega vaščana ko dosežete ugled "Prijatelj vasi" (naloga se začne poljubno, zato si lahko vzamete čas, ko je nalogo že mogoče opravljati).
+
+Obe nalogi zahtevata, da najdeš posebne zapuščene stavbe. Morali boste raziskovati dokler je ne najdete; bodite pazljivi, ker so zelo redke. Za razliko od odmaknjenih stavb, se te stavbe prikažejo, ko pritisnete "V" tipko.

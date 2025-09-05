@@ -1,0 +1,8 @@
+village_wall_tower=borderpost
+village_wall_gate=borderpost_gate
+village_wall_corner=borderpost_corner
+village_wall_nb_between_towers=50
+
+village_wall_gate_spawn=true
+village_wall_corner_spawn=true
+village_wall_tower_spawn=true

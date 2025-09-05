@@ -1,0 +1,25 @@
+//Parameters for the building as a whole
+building.length=28
+building.width=32
+building.buildingorientation=3
+building.startingsubbuilding=largeinn_A_tavern
+building.max=0
+building.icon=bed_red
+
+
+//Parameters for initial construction
+initial.startlevel=-3
+initial.nativename=Auberge
+initial.male=host
+initial.female=hostess
+initial.tag=autospawnvillagers
+initial.pathlevel=1
+
+//Parameters for specific upgrades
+upgrade1.nativename=dortoir des pélerins
+upgrade1.subbuilding=largeinn_A_dormitorymen
+upgrade1.subbuilding=largeinn_A_dormitorywomen
+upgrade1.pathlevel=2
+upgrade1.rebuildpath=true
+upgrade1.tag=leisure
+

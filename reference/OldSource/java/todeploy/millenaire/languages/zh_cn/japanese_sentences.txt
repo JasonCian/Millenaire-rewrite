@@ -1,0 +1,60 @@
+female.BecomeAdult=私は母親になりたいです。/ 我想成为家庭主妇。
+
+male.BecomeAdult=私は武士になりたい。/我想成为一个战士。
+
+villager.BecomeAdult=成長するまで。/ 是成长的时候了。
+
+villager.BringBackResourcesHome=ちょ、ちょ、ちょ……/ 工作，工作，工作……
+
+villager.ChopTrees=私は何本かの木を切ってくるつもりだ。/ 我要去砍一些树。
+
+villager.ConstructionStepByStep=父から建築を教わったんだ。/ 我的父亲曾经教导过我如何建造。
+villager.ConstructionStepByStep=神様は私の建築を気に入ってくれるだろうか。/ 我希望神明喜欢我的建筑。
+
+villager.DeliverGoodsHousold=市場から食べ物を買って来ました。/ 我从市场买了些食物。
+
+villager.GatherGoods=私はいくつかの資源が必要だ。/ 我需要一些资源。
+
+villager.GetGoodsHousold=これらが家に必要です。/ 我的家里需要这些东西。
+
+villager.GetHouseResources=家から何か取って来なければいけない。/ 我要从家里拿一些东西。
+
+villager.GetResourcesForBuild=もっとたくさんの材料が必要だ。/ 我需要更多材料。
+
+villager.GoPlay=遊びたいです。/ 我想出去玩。
+
+villager.childobserveagriculture=Watashinohaha wa,-mai sakumotsu o saibai suru koto wa jūyōdesuga, sore wa watashi no tame ni totemo taikutsuda to iimasu... / 我妈妈说培植水稻很重要，但对我来说很无聊。
+villager.childobserveconstruction=Tabun watashi ga ōkiku naru to, watashi wa tō o taterudeshou. Kin kara! / 也许当我更大的时候，我会建造宝塔。黄金！
+villager.childobservesmithing=Watashitachi no buki ya yoroi wa mottomo utsukushī monodesu! / 我们的武器和盔甲是最酷的！
+villager.childobserveproducefood=Naze koko ni subete ga kome de tsukura renakereba naranai nodesu ka? Watashi wa kome ni tsukarete iru! / 为什么这里所有的东西都是用稻米做的？我讨厌吃稻米！
+villager.childobserveproducealcohol=Zenkai watashi wa sake o tameshite mimashita. / 我上次喝酒的时候病了。
+
+villager.childeatapple=Kono sekai wa mahōdesu! Ringo wa subete no ki ni sodatsu! / 这个世界太神奇了！苹果生长在每棵树上！
+
+villager.MakeTools=私は長年、最高級の道具を作っているんだ。/ 这些年里我做的工具都是最棒的。
+
+villager.MakeWeapons=最高級の武器の秘密は師匠直伝の技だよ。/ 我从师傅那里传承了制作出最好武器的技艺。
+
+villager.PlantSaplings=私はこれらの苗木を植えに行くつもりです。/ 我要种这些树苗。
+
+villager.SlaughterChicken=あなたは誰かのために素晴らしい食事を作るだろう。/ 小鸡，你会成为人们喜欢的优质肉类。
+
+villager.calltoarms=奴らに私達を襲ったことを後悔させてやれ！/ 他们终将会为攻击了我们而后悔！
+villager.calltoarms=武器を持て！/ 拿上你的武器！
+villager.calltoarms=村を守れ！/ 保卫村庄！
+
+villager.gopray=豊作のため、女神「宇賀魂命」に祈ります。/ 我要向女神“宇贺魂命”祈求丰收。
+villager.gopray=神は私達を悪からお救いになる。/ 神明保佑我们远离邪恶。
+villager.gopray.chosen=心を落ち着かせるのです。/ 放松你的思想。
+
+villager.gorest=私には休憩が必要です。/ 我需要休息。
+villager.gorest=あー、もう寝る時間だ。/ 啊，我那美好的睡觉时间。
+villager.gorest=私はとっても疲れています。/ 我太累了。
+
+villager.greeting=こんにちは、 $nameさん！/ 早上好，$name-桑！
+villager.greeting=おい。/ 喂。
+villager.greeting=げんきかい、 $nameさん? / 你好吗，$name-桑？
+villager.greeting=変わったことある？/ 有什么新消息吗？
+villager.greeting=はじめまして。/ 见到你很高兴。
+villager.greeting=ようこそ。/ 欢迎。
+villager.greeting=ごきげんよう。/ 你好吗？

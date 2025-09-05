@@ -1,0 +1,191 @@
+List of valid parameters for the village files.
+
+name (string):
+Name of the villager in the culture's language.
+
+icon (item (from itemlist.txt)):
+Name of a good whose icon represents this village.
+
+banner_basecolor (string (case-insensitive, multiple parameters possible)):
+A color the village's banner can have as its base color.
+
+banner_patterncolor (string (case-insensitive, multiple parameters possible)):
+A color the village's banner can have as its pattern color.
+
+banner_chargecolor (string (case-insensitive, multiple parameters possible)):
+A color the village's banner can have as its charge color.
+
+banner_pattern (string (case-insensitive, multiple parameters possible)):
+A pattern for the banner. Uses one of the patterncolors.
+
+banner_chargepattern (string (case-insensitive, multiple parameters possible)):
+A charge pattern for the banner. Uses one of the chargecolors.
+
+banner_json (string (case-insensitive, multiple parameters possible)):
+A JSON object that specifies the banner's appearance. Used instead of the patterns and colors entries.
+
+travelbook_display (boolean):
+Whether to display this villager type in the Travel Book.
+Default value: true
+
+
+
+=== World Generation ===
+
+weight (integer value):
+Generation weight. The higher it is, the more chance that this village type will be picked.
+
+biome (string (case-insensitive, multiple parameters possible)):
+A biome the village can spawn in.
+
+max (integer value):
+Maximum number of this village type that can be generated in a given world. -1 for no limits.
+Default value: -1
+
+minimumbiomevalidity (floating point value):
+% of village that must in the appropriate biome.
+Default value: 0.6
+
+generateonserver (boolean):
+Whether this village type can be generated on an MP server.
+Default value: true
+
+generateforplayer (boolean):
+Whether this village type is generated for a specific player and will be listed only for him (used for 'hidden' quest buildings).
+Default value: false
+
+mindistancefromspawn (integer value):
+Minimum distance from spawn point at which this village can appear. -1 for no limits.
+Default value: -1
+
+requiredtag (string (case-insensitive, multiple parameters possible)):
+A global tag that has to be set for this village type to generate.
+
+forbiddentag (string (case-insensitive, multiple parameters possible)):
+A global tag that stops the village from generating if present.
+
+keylonebuilding (boolean):
+Key lone buildings like the alchemist' tower have priority in generation and get listed in the village list.
+Default value: false
+
+keylonebuildinggeneratetag (string (case-insensitive)):
+Player-specific tag (given by missions) that activate the higher generation chance.
+
+
+
+=== Village type ===
+
+playercontrolled (boolean):
+Player-controlled village, always spawned with a wand.
+Default value: false
+
+hameau (string (case-insensitive, multiple parameters possible)):
+Hamlet type that will be generated around this village.
+
+type (string (case-insensitive)):
+Special type of village. For example, 'hamlet', which excludes extra buildings from the project list.
+
+spawnable (boolean):
+Whether this village type can be spawned with a wand. Defaults to true for villages, false for lone buildings.
+
+
+
+=== Village Buildings ===
+
+centre (A building from the current culture. One allowed.):
+The building at the centre of the village.
+
+customcentre (A custom building from the current culture. One allowed.):
+The custom building template at the centre of a custom controlled village.
+
+start (A building from the current culture. Multiple lines allowed.):
+A starting building.
+
+player (A building from the current culture. Multiple lines allowed.):
+A player-purchasable building.
+
+core (A building from the current culture. Multiple lines allowed.):
+A core building, to be built with high priority by the village type.
+
+secondary (A building from the current culture. Multiple lines allowed.):
+A secondary building, to be build with reduced priority by the village type.
+
+never (A building from the current culture. Multiple lines allowed.):
+A building this village will never build.
+
+custombuilding (A custom building from the current culture. Multiple lines allowed.):
+A custom building template usable in this custom controlled village.
+
+
+
+=== Village Behaviour ===
+
+radius (integer value):
+Radius of the village. Overwrites the default value from the settings.
+
+outerwalltype (A wall type from the current culture. One allowed.):
+Type of the outer village walls, if any (built on the village's edge).
+
+innerwalltype (A wall type from the current culture. One allowed.):
+Type of the inner village walls (built at a set radius inside the village), if any.
+
+innerwallradius (integer value):
+Radius of the inner village walls.
+Default value: 50
+
+maxsimultaneousconstructions (integer value):
+Maximum number of builders that can work at the same time in the village.
+Default value: 1
+
+maxsimultaneouswallconstructions (integer value):
+Maximum number of builders that can work on wall buildings at the same time in the village.
+Default value: 0
+
+carriesraid (boolean):
+Whether this village type carries out raids.
+Default value: false
+
+pathmaterial (an item: ('chickenmeat')):
+A block to use as path material. If more than one in the file, they will be upgraded in the same order.
+
+sellingprice (item and price in the form of gold/silver/bronze deniers: 'bone,1/0/0'):
+A custom selling price for this good in the village type, overriding the culture one.
+
+buyingprice (item and price in the form of gold/silver/bronze deniers: 'bone,1/0/0'):
+A custom buying price for this good in the village type, overriding the culture one.
+
+brickcolourtheme (Example: 'rajput:30;brown:50,red:40,orange:30;yellow:30'):
+Colour bricks 'themes' for Indian villages, used to defined what colours houses will have.
+
+
+
+=== Village Name ===
+
+namelist (string (case-insensitive)):
+Name list to use for this village. 'villages' by default.
+
+qualifier (string (multiple parameters possible)):
+Village qualifier applicable without further conditions.
+
+hillqualifier (string):
+Qualifier for the village if spawned next to hills.
+
+mountainqualifier (string):
+Qualifier for the village if spawned next to mountains.
+
+desertqualifier (string):
+Qualifier for the village if spawned next to deserts.
+
+forestqualifier (string):
+Qualifier for the village if spawned next to forests.
+
+lavaqualifier (string):
+Qualifier for the village if spawned next to lava.
+
+lakequalifier (string):
+Qualifier for the village if spawned next to lakes.
+
+oceanqualifier (string):
+Qualifier for the village if spawned next to seas.
+
+

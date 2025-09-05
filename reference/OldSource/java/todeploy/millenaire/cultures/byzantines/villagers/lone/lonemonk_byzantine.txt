@@ -1,0 +1,58 @@
+native_name=Rasóforos
+gender=male
+familyNameList=greek_monk_names
+firstNameList=greek_father
+tag=religious
+icon=byzantineiconmedium
+travelbook_held_item=book
+
+texture=textures/entity/byzanz/noblemale/byz.religious.A.png
+texture=textures/entity/byzanz/noblemale/byz.religious.B.png
+texture=textures/entity/byzanz/noblemale/byz.religious.C.png
+texture=textures/entity/byzanz/noblemale/byz.religious.D.png
+texture=textures/entity/byzanz/noblemale/byz.religious.E.png
+texture=textures/entity/byzanz/noblemale/byz.religious.F.png
+
+clothes=free,textures/entity/byzanz/noblemale/clothes/religious/byz_monk_1_a.png
+clothes=free,textures/entity/byzanz/noblemale/clothes/religious/byz_monk_1_b.png
+
+//leisure goals
+goal=gorest
+goal=gosocialise
+goal=chat
+goal=gopray
+goal=goDrinkWine
+
+//household goals
+goal=deliverResourcesShop
+goal=GetHouseTHResources
+goal=getGoodsHousehold
+goal=deliverGoodsHousehold
+
+//agriculture goals
+goal=harvestwheat
+goal=plantwheat
+goal=harvestcarrot
+goal=plantcarrot
+collectGood=seeds
+collectGood=wheat
+collectGood=carrot
+bringBackHomeGood=wheat
+bringBackHomeGood=carrot
+requiredGood=seeds,16
+requiredGood=carrot,16
+startingInv=seeds,100
+
+//make bread
+goal=makebread
+
+//study goals
+goal=gostudy
+
+toolneededclass=hoes
+
+startingInv=bookandquill,1
+
+baseAttackStrength=5
+tag=helpInAttacks
+experiencegiven=5

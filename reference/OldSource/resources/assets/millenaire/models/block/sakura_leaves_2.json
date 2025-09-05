@@ -1,0 +1,6 @@
+{
+    "parent": "block/leaves",
+    "textures": {
+        "all": "millenaire:blocks/sakura_leaves_2"
+    }
+}

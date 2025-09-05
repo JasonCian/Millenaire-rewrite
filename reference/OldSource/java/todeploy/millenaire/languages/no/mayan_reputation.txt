@@ -1,0 +1,10 @@
+0;Fremmed;Vi har ikke sett noen med din hudfarge før, vi må opptre varsomt.
+4*64;Kjent ansikt;Pass på, krigerne våre holder øye med deg.
+16*64;Stamgjest;$name! Har tidene brakt forandring med seg?
+64*64;Favorittforhandler;Hallo, $name. Som alltid er varene dine velkomne.
+2*64*64;Venn av landsbyen;$name, du har virkelig hjulpet oss ved å bringe oss til en lysere tid.
+8*64*64;En av oss;$name, våre sjamaner har salvet deg som en av våre egne.
+32*64*64;Naturlig leder;Du har opparbeidet tilliten og respekten til alle mayaene. De vil følge deg hvor enn du går.
+-64;Plage;Forlat landområdene våre. Ditt slag skal ikke vanhellige vår kultur.
+-4*64;Utrivelig utenforstående;Du har medbrakt stank og uorden til vår landsby.
+-16*64;Samfunnsfiende;Du har ruinert vår måte å leve på, dette vil ikke tolereres.

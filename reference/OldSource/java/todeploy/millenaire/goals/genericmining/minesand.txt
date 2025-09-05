@@ -1,0 +1,12 @@
+priority=30
+priorityrandom=10
+
+buildinglimit=sand,64
+
+sourceblockstate=minecraft:sand
+
+loot=sand,1
+
+sentencekey=mining
+
+range=4

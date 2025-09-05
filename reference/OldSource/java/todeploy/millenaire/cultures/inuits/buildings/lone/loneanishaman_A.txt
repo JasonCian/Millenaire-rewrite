@@ -1,0 +1,45 @@
+//Parameters for the building as a whole
+building.length=11
+building.width=12
+building.buildingorientation=3
+building.max=0
+building.icon=inuitcarving
+building.showtownhallsigns=false
+
+building.startinggood=ulu,1.0,5,10
+building.startinggood=coarse_dirt,0.5,1,3
+building.startinggood=sod_spruce,0.3,1,8
+building.startinggood=sod_birch,0.5,1,8
+building.startinggood=furplate,0.3,1,0
+building.startinggood=furlegs,0.3,1,3
+building.startinggood=inuittrident,0.3,1,0
+building.startinggood=inuitbow,0.3,1,0
+building.startinggood=ulu,0.3,1,0
+building.startinggood=arrow,0.3,8,24
+//building.startinggood=azure_bluet,0.5,8,24
+building.startinggood=inuitbearstew,2.0,1,2
+building.startinggood=inuitmeatystew,0.3,1,2
+building.startinggood=inuitpotatostew,0.3,1,2
+building.startinggood=bearmeat_cooked,0.5,1,1
+building.startinggood=bearmeat_raw,0.75,4,6
+building.startinggood=wolfmeat_raw,0.75,4,6
+building.startinggood=wolfmeat_cooked,0.5,1,1
+building.startinggood=fishraw,0.75,4,6
+building.startinggood=fishcooked,0.5,1,1
+building.startinggood=seafood_raw,0.75,4,6
+building.startinggood=seafood_cooked,0.5,1,1
+building.startinggood=inuitcarving,1.3,5,10
+building.startinggood=boneblock,0.33,2,6
+building.startinggood=cauldron,0.3,1,0
+building.startinggood=fire_pit,0.3,1,2
+building.startinggood=bone,0.75,8,16
+building.startinggood=dye_white,0.75,12,24
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Kashim
+initial.translatedname=name_en,ceremonial house
+initial.priority=13
+initial.male=inuit_loneshaman
+initial.female=inuit_oldlady
+initial.shop=loneshaman

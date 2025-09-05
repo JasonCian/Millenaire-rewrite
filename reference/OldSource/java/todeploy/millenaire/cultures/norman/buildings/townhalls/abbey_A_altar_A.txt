@@ -1,0 +1,15 @@
+//Parameters for the building as a whole
+building.length=32
+building.width=32
+building.buildingorientation=1
+building.issubbuilding=true
+building.parentbuildingplan=abbey_A1
+building.icon=carpet_white
+building.travelbook_display=false
+building.max=0
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Autel de l'Abbaye
+initial.priority=5000
+initial.tag=praying

@@ -1,0 +1,29 @@
+name=Notre Dame
+icon=rosette
+namelist=notredame
+weight=0
+carriesraid=false
+type=marvel
+radius=140
+maxSimultaneousConstructions=6
+
+pathmaterial=pathdirt
+pathmaterial=pathgravel
+pathmaterial=pathslabs
+
+//starting buildings=
+centre=warehouse
+start=workerhall
+start=abbaye
+
+core=largeguardhouse
+core=largeinn
+core=residence
+
+outerwallType=borderposts
+
+buyingPrice=timberframeplain,20
+buyingPrice=timberframecross,24
+
+//banner patterns
+banner_json={BlockEntityTag:{Base:15,Patterns:[{Pattern:sc,Color:11},{Pattern:sc,Color:11},{Pattern:sc,Color:11}]}}

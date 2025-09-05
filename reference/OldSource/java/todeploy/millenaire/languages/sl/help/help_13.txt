@@ -1,0 +1,34 @@
+﻿version:3.4
+<darkblue>Pogosto vprašana vprašanja
+
+<darkblue>Vaščani govorijo drugačen jezik kot jaz. Je to normalno?
+
+Millénaire vaščani govorijo "njihov" jezik, kot so Hindijci, ki govorijo Indijansko, ali Normani Francosko. Če igraš v drugem jeziku, se boš "naučil" njihovega jezika z interakcijo z njimi (trgovanje, naloge...). Ko se "naučiš" njihovega jezika, bo Millénaire ustvaril prevode, najprej imena stavb, nato tipe vaščanov in na koncu še vaščanove dialoge.
+
+<darkblue>Moja Normanska vas potrebuje lesene okvirje, ampak jih ne morajo ustvariti. Kaj lahko storim?
+
+Leseni okvirji so ustvarjeni pri tesarju iz lesa. Počakaj dokler vas zgradi tesarjevo hišo in da se par naseli v njej. Potrpežljivost!
+  
+<darkblue>Moja Japonska vas potrebuje slamo ampak jo ne morajo narediti. Kaj lahko storim?
+
+Japonci izdelujejo slamo iz žita. Če ga ne pridelajo dovolj zase, lahko to pospešiš z prodajo žita.
+
+<darkblue>Zgradil sem hišo v bližini vasi in vaščani so jo uničili, ko so gradili nekaj drugega. Je to normalno?
+
+Da. Območje vasi pripada njim. Preveri na zemljevidu, da vidiš njihove meje. Če želite graditi v vasi, kupite zemljišče od vaškega poglavarja.
+
+<darkblue>Nekaj vaščanov je mrtvih. Kdaj se bodo ponovno "oživeli"?
+
+Nekaj vaščanov se "oživi" vsako noč, ravno po sončnem zahodu. Izognite se spancu.
+
+<darkblue>Moji vaščani nimajo otrok oziroma otroci ne rastejo. Kaj se dogaja?
+
+Novi otroci bodo nastali le ponoči. Pravtako rastejo ponoči, ko so doma. Nekaj hrane (pijača, sladkarije) zvečajo možnost, da se otroci rodijo (kruh, žito) in pospešijo rast otrok.
+
+<darkblue>Stavba v vasi je poškodovana. Bodo to popravili?
+
+Ne, vaščani ne popravljajo stavb (mogoče bodo v nadaljnih posodobitvah zamenjali mankajočo kocko), v glavnem zaradi učinkovitosti. Sam jih boš mogel popraviti.
+
+<darkblue>Moji vasi primankuje prostora. Jim lahko pomagam?
+
+Da, s tem, ko preverite zemljevid vasi, vidite območja na katerih ne morajo graditi. Zapolnjenje jezera, reke, kanjona z prstjo, je dovolj, da območje postane zazidljivo.

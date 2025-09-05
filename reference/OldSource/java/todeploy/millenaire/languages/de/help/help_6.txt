@@ -1,0 +1,20 @@
+version:3.4
+<darkred>Dörfer erschaffen
+
+Du kannst ein Dorf deiner Wahl erschaffen, an der Stelle deiner Wahl mit einem Beschwörungsstab - einem Objekt das Du in jedem Dorf kaufen kannst, sobald Du einen ausreichend hohen Ruf hast. Um den Stab zu benutzen, stelle einen Goldblock dorthin, wo du ein Dorf erschaffen willst und mache mit dem Beschwörungsstab in der Hand einen Rechtsklick auf den Goldblock. Im nachfolgenden Fenster kannst Du die gewünschte Art des Dorfes wählen.
+
+<darkgreen>Wenn Du einen Obsidian Block statt einem Goldblock benutzt, um ein Dorf zu erschaffen, wird ein zufälliges Dorf erstellt.
+
+<darkred>Anmerkung des Übersetzers: Achtung, bei der Dorferschaffung kann man in einem Block landen und sterben!
+
+<darkblue>Zerstörung eines Dorfes oder eines einsamen Gebäudes
+
+Die Bewohner eines Dorfes oder eines Gebäudes werden jede Nacht wieder auferstehen, auch wenn Du alle Gebäude im Dorf zerstörst.
+
+Um dies zu verhindern (wenn Du das Gebäude selbst in Anspruch nehmen möchtest zum Beispiel) musst Du den <darkblue>Stab der Zerstörung<black> benutzen: Du findest ihn in einer Kiste im Hauptgebäude, wenn alle Bewohner tot sind. Bitte beachten Sie, dass die Zerstörung eines Dorfes unwiderruflich ist.
+
+<darkblue>Spieler-kontrollierte Dörfer
+
+Es ist möglich, ein Dorf mit Dir als Oberhaupt zu erstellen, in dem Du dann die Standorte der Gebäude bestimmen kannst. Um dies zu tun, musst Du als Anführer in der Kultur des Dorfes anerkannt werden, oder die "Erschaffungs-Quest" (in der Quest Sektion) beendet haben, oder Deinen Ruf soweit erhöht haben, das Du von der Kultur als "natürlicher Anführer" eingestuft wirst. Dann musst Du nur mit dem Dorfältesten sprechen und er wird Dir die Leitung überlassen. Du siehst dann eine Option, im Auswahlfenster des "Beschwörungsstabes" um Spieler-kontrollierte Dörfer zu erstellen.
+
+In Spieler-kontrollierten Dörfern, kannst Du den Bau eines neuen Gebäudes anordnen indem Du mit dem Stab auf die gewünschte Position klickst. Ein Fenster wird geöffnet, um das gewünschte Gebäude auszuwählen. Über die "Projekte" Schilder kannst Du auch Verbesserungen der Gebäude erlauben oder verbieten. Ressourcen-Handel mit diesen Dörfern ist unnötig, platziere einfach die Gegenstände in den Kisten.

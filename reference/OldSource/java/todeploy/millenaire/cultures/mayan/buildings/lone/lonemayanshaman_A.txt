@@ -1,0 +1,16 @@
+//Parameters for the building as a whole
+building.length=20
+building.width=20
+building.buildingorientation=0
+building.showtownhallsigns=false
+
+building.icon=mushroomred
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Ah Waay Su'uk
+initial.priority=30
+initial.male=lonemayanshaman
+initial.female=lonemayanshamanwife
+initial.tag=chicken
+

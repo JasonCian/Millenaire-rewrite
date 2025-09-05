@@ -1,0 +1,16 @@
+//* The part before the ";" is the title, after it the description
+
+0;Stranger;We have not seen those of your skin color, so we must be wary.
+4*64;Familiarity;Be warned, our warriors keep their eyes on you.
+8*64;Known Face;Our builders say that you have traded us high quality stone. We might not need to watch you after all.
+16*64;Regular Visitor;$name! Have the times brought change?
+32*64;Fellow Stone Miner;Like us, you seem to understand how to mine stone, we could be friends after all.
+64*64;Favourite Trader;Hello, as always, your goods are welcome.
+2*64*64;Friend of the Village;$name, you have truely helped bring us to a brighter age.
+4*64*64;Resourceful Ally;$name, you have become a valuable ally to this village for all of the resources and services you have given us.
+8*64*64;One of Us;$name Our shamans have now annointed you as one of our own.
+32*64*64;Natural Leader;You have gained the trust and respect of all the Mayans. They will follow you anywhere. 
+4*32*64*64; Great Stone God;We know that you aren't from this world, but you have given us entire mountains of stone. You must be a god.
+-64;Nuisance;Leave our lands. Your kind will not desecrate our culture.
+-4*64;Unpleasant Outsider;You have brought stench and disorder to our village.
+-16*64;Public Enemy;You have ruined our way of life and our stones, this will not be tolerated.

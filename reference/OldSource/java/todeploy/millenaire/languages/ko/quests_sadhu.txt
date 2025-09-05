@@ -1,0 +1,194 @@
+
+
+sadhu_intro_0_label=사두
+sadhu_intro_0_description=$name, 우리는 당신을 오래 전부터 알고 있었어. 그리고 우리는 당신을 우리의 일부처럼 생각해. 비록 당신이 누구이고 어디서 왔는지는 모르지만 말이야. 원래는, 우리는 너에 대한 생각을 조금이나마 해서 우리의 민족은 너의 도움을 받아 숙명적인 날이 계속되었지만 지구의 동요를 듣고 우리는 묘한 일이 있었어. "계절이 바뀌면서 강은 계속 흐르지 않았고 - 몇명의 사람은 그들의 묘한 돌로된 피라미드를 좋아했고, 또한 하얀 얼굴의 남자들은 자신의 솜씨를 뽐내며 철을 단조롭게 다루고 있었지.  <ret><ret>그러나 우리들은 오랫동안 관찰하고 어렵게 지냈지. 너는 땅에 대한 옛날의 기억을 가지고 있지 않았고, 여기에 있으면서 자라고 있어야 됬지. 그리고 아직 우리는 그것을 만나지 못하였어.<ret><ret>" 만약 너는 그것에 대해 더 알고 있으면 우리는 그 역할에 대해 원하지 않아. 그것은 너가 옳은지 아닌지 판단해. 너의 지혜는 일부 사람들한테도 가지고 있어. 한 남자가 그것에 대해 나는 도와준다고 들을수 있었어, Sadhu Vidya, 너의 지혜는 어려울때에 나한테 많이 도와주었지. 나는 그의 많은 시간을 보지 못하였어, 그러나 나는 그가 숲에서 길을 잃었다는걸 알고 있었어. 그가 선택한 방법은 높고 단단한 나무에 피난처를 세우는 것이었어. 그를 만나고, 그에게 감사하고 그의 지혜를 나에게 알려 달라고 말해주면 좋겠어.
+sadhu_intro_0_description_success=너의 여행에 여신의 축복을 빌게.
+sadhu_intro_0_description_refuse=직접 길을 걸으며 그를 발견하는건 너무 어려웠나봐, 나도 이해해.
+sadhu_intro_1_label=팬딧에게 보고하기
+sadhu_intro_1_description=그래서, 저의 종교 스승을 만났나요?
+sadhu_intro_1_description_success=그는 대단하고 영광스롭고 기묘하시고 지식이 많고 너에게도 그래!  너는 신의 미소를 갖고 있는거 같아!
+sadhu_intro_1_description_refuse=전 여기서 당신의 마음이 바뀔 때 까지 기도하며 기다릴게요, $name.
+sadhu_intro_1_listing=사두를 숲에 있는 높은 나무 밑에서 찾았어! 그를 만나서 $startvillager_villagename$ 에게 Pandit에 대해 예기해줘.
+
+sadhu_introwife_0_label=사두
+sadhu_introwife_0_description=$name, 우리는 당신을 오래 전부터 알아 왔습니다. 그리고 우리는 당신을 우리의 일부처럼 생각합니다. 비록 당신이 누구이고 어디서 왔는지는 모르지만 말이죠 원래는, 우리는 너에 대한 생각을 조금이나마 해서 우리의 민족은 너의 도움을 받아 숙명적인 날이 계속되었지만 지구의 동요를 듣고 우리는 묘한 일이 있었어. "계절이 바뀌면서 강은 계속 흐르지 않았고 - 몇명의 사람은 그들의 묘한 돌로된 피라미드를 좋아했고, 또한 하얀 얼굴의 남자들은 자신의 솜씨를 뽐내며 철을 단조롭게 다루고 있었지.  <ret><ret>그러나 우리들은 오랫동안 관찰하고 어렵게 지냈지. 너는 땅에 대한 옛날의 기억을 가지고 있지 않았고, 여기에 있으면서 자라고 있어야 됬지. 그리고 아직 우리는 그것을 만나지 못하였어.<ret><ret>" 만약 너는 그것에 대해 더 알고 있으면 우리는 그 역할에 대해 원하지 않아. 그것은 너가 옳은지 아닌지 판단해. 너의 지혜는 일부 사람들한테도 가지고 있어. 한 남자가 그것에 대해 나는 도와준다고 들을수 있었어, Sadhu Vidya, 너의 지혜는 어려울때에 나한테 많이 도와주었지. 나는 그의 많은 시간을 보지 못하였어, 그러나 나는 그가 숲에서 길을 잃었다는걸 알고 있었어. 그가 선택한 방법은 높고 단단한 나무에 피난처를 세우는 것이었어. 그를 만나고, 그에게 감사하고 그의 지혜를 나에게 알려 달라고 말해주면 좋겠어.
+sadhu_introwife_0_description_success=그래서, 저의 종교 스승을 만났나요?
+sadhu_introwife_0_description_refuse=그는 대단하고 영광스롭고 기묘하시고 지식이 많고 너에게도 그래!  너는 신의 미소를 갖고 있는거 같아!
+sadhu_introwife_1_label=$startvillager_villagerrole$ 에게 보고하기
+sadhu_introwife_1_description=그래서, 당신은 그 신성한 분에게서 조사와 조언을 받았나요?
+sadhu_introwife_1_description_success=그는 대단하고 영광스롭고 기묘하시고 지식이 많고 너에게도 그랬어!  너는 신의 미소를 갖고 있는거 같아!
+sadhu_introwife_1_description_refuse=전 여기서 당신의 마음이 바뀔 때 까지 기도하며 기다릴게요, $name.
+sadhu_introwife_1_listing=사두를 숲에 있는 높은 나무 밑에서 찾았어. 그를 만나고, $startvillager_villagename$ 에 있는 $startvillager_villagerrole$ 에게 말 해줘,
+
+sadhu_first_0_label=행동으로 옮기자
+sadhu_first_0_description=나는 너에게 기대를 하고 있어, $name. 주민들은 나에게 조언을 받으러 오고 있지. 그리고 나는 수상한 사람에 대해 많이 들어 봤어.나의 지식은 이 오래된 마을 안에서는 대단했었고 은행에서는 조직들이 경건하게 있었지만, 나는 여기에 다시 한번 모든 것을 반드시 배울거야.  너는 그 종교 스승을 탐색해줘, 너는 헛된 일을 했다고 생각할거야. <ret><ret> 하지만… 이전의 나는 생명에 관한 명상을 그만두었고, 나는 이 자연의 세상에서 나의 지식을 뽐냈었지. 거기에는 식물이 없었고 나는 방향을 찾기 위해 히말라야 산맥들과 밀림 사이가 남쪽이라는 걸을 깨달았었지. 그리고 그 사이에 나의 몸은 무르게 성장하고 있었고, 나의 마음은 여전히 예민했어.이 세상에 대해 공부하고 그것에 대해 많은 것을 들으면서 나를 도와줄수 있겠니? 주의 할 점 : 모든 사람들을 해치지 말고(공격하지 말고), 나의 생각이 들게 얼굴을 공개하면 안돼.이 세상은 자신의 몸을 지키면서 탐험해야 할거야.
+sadhu_first_0_description_success=나는 여기서 명상을 할거야. 탐험을 하고 돌아오면 너는 첫번째 힘든 일을 끝낸거야.
+sadhu_first_0_description_refuse=$name, 난 여기에 머물르면서 너의 마음을 바꾸기 위해 기도할거야.
+
+sadhu_1_samples_0_label=식물 견본 채취
+sadhu_1_samples_0_description=너는 첫번째 일을 끝냈지만 이건 아무것도 아니야. 나는 종류별로 모으기 위해 여기서 주로 나오는 채소 종류를 이 땅에서 찾을려고 했어. 나는 스스로 갔었지만, 나는 이 안에서 세달 반 넘게 머물렀어, 그래서 너는 이 일에 대해서 알아주고 식물을 가져 와줘.
+sadhu_1_samples_0_description_success=나는 너가 없는 동안 명상을 할께.
+sadhu_1_samples_0_description_refuse=전 여기서 당신의 마음이 바뀔 때 까지 기도하며 기다릴게요, $name.
+sadhu_1_samples_1_label=견본 주기
+sadhu_1_samples_1_description=나는 너가 일을 하는 동안 무사하라고 명상을 할게.
+sadhu_1_samples_1_description_success=이 견본은 가장 유용한 물건중 하나가 될 거야. 나는 여신을 찬양할거야, $name.<ret><ret>나는 또한 너가 이 일이 쉬운걸 알아차렸다는걸 알았어. <ret><ret> 잠시 쉬고 돌아오렴
+sadhu_1_samples_1_description_refuse=전 여기서 당신의 마음이 바뀔 때 까지 기도하며 기다릴게요, $name.
+sadhu_1_samples_1_listing=사두에게 견본을 돌려주세요.
+
+
+sadhu_2_forest_0_label=숲 탐사
+sadhu_2_forest_0_description=이제 우리는 이 새로운 세상의 주요한 지형지물을 연구해야 합니다. 먼저 숲부터 시작하죠. 이 지역에게 마음을 열고 밤에 가보셔야 합니다. 해가 질 때부터 시작해서, 숲을 돌아다니며 관찰하면서 밤을 새면 됩니다.<ret><ret>당신에게 밤이 위험하다는 것을 말할 필요는 없을 것 같지만, 신은 당신을 지켜보고 있을 겁니다. 검을 같이 들고 가는 것도 좋은 방법일 겁니다. 노련한 전사들은 더 효과가 좋은 신성계열 보호구들을 착용하더군요.
+sadhu_2_forest_0_description_success=나는 너가 여기에 없는 동안 무사하라고 명상을 할게.
+sadhu_2_forest_0_description_refuse=$name, 난 여기에 머물르면서 너의 마음을 바꾸기 위해 기도할거야.
+sadhu_2_forest_1_label=발견한 것 보고하기
+sadhu_2_forest_1_description=그래서 한밤의 산책은 어떠셨나요? 깨우침에 한 걸음 더 가까이 다가섰나요?
+sadhu_2_forest_1_description_success=그래서 밤은 불안했다고요? 예상은 했지만, 생각보다도 더 큰 시련을 겪으신 것 같군요. 이 세상에는 우리가 이해하지 못하는 것이 많이 남아있지요. 이것에 관해 생각을 해 볼 테니 잠시 뒤에 다시 절 찾아와주세요.
+sadhu_2_forest_1_description_refuse=전 여기서 당신의 마음이 바뀔 때 까지 기도하며 기다릴게요, $name.
+sadhu_2_forest_1_listing=사두가 가리킨 숲을 밤에 탐사하시오
+
+
+
+sadhu_3_pandit_0_label=힌두 서사시
+sadhu_3_pandit_0_description=당신이 숲에서 겪었던 일을 오랫동안 생각하다보니, 환상이 저에게 보이네요. 그 괴상한 모양의 사람들은 제가 예전 세상에선 한 번도 보지 못한 것이었습니다. 그리고 그들이 왜 존재하는지 이유를 알 수가 없군요. 하지만 힌두 서사시에는 악마에 관한 이야기가 적혀있는데, 아마 그들과 관련이 있을 겁니다. 제가 오랫동안 혼자 지내다 보니 그 비싼 양피지를 구할 순 없겠군요. 하지만 당신은 인도 마을에서 그 양피지를 찾을 수 있을 겁니다.
+sadhu_3_pandit_0_description_success=나만의 서재가 필요하겠어... 사제의 길은 그 나름대로의 단점이 있구나.
+sadhu_3_pandit_0_description_refuse=전 여기서 당신의 마음이 바뀔 때 까지 기도하며 기다릴게요, $name.
+sadhu_3_pandit_1_label=책 돌려주기
+sadhu_3_pandit_1_description=당신이 간 동안 오랫동안 기도했습니다, $name. 어려움 없이 찾으셨길 바랍니다.
+sadhu_3_pandit_1_description_success=감사합니다, $name. 지금부터 이 책을 연구해야겠군요. 가서 명상을 하시고 마음 가운데 평안을 얻으셨으면 다시 돌아오시길 바랍니다.
+sadhu_3_pandit_1_description_refuse=절 슬프게 만드는군요.
+sadhu_3_pandit_1_listing=책을 빌릴 인도 마을 사람을 찾고 그 책을 Sadhu에게 다시 가져다줄 것.
+
+sadhu_3b_pandit_0_label=성직자에게 말 걸기
+sadhu_3b_pandit_0_description=그래서 현명한 사두는 만나셨나요? 그런 성스러운 분 아래에서 일하시다니, 정말 영광이겠어요!<ret><ret> 그가 필요한 책을 당장 드릴게요. 당신도 꼭 한번 쯤 읽어보세요. 물론, 당신이 산스크리트어를 읽을 수 있다면 말이죠.
+sadhu_3b_pandit_0_description_success=그리고 사두에게 안부의 말을 전해주세요!
+sadhu_3b_pandit_0_description_refuse=감히 사두님이 직접 부탁하신 일을 거절해?
+
+sadhu_3b_wife_0_label=$startvillager_villagerrole$ 에게 말 하기
+sadhu_3b_wife_0_description=사두님이 대 힌두 서사시를 필요로 하신다고? 물론! 내가 가진 복사본을 드리는 건 크나큰 영광이지!
+sadhu_3b_wife_0_description_success=그리고 사두에게 안부의 말을 전해주세요!
+sadhu_3b_wife_0_description_refuse=감히 사두님이 직접 부탁하신 일을 거절해?
+
+
+sadhu_4_desertb_0_label=사막 탐사
+sadhu_4_desertb_0_description=대 서사시는 이 세계에서는, 예전 세계에서도 그랬지만, 지혜의 원천이지요. 많은 위대한 영웅들과 신들은 오래 전 악마들과 대항에 싸웠고, 그들의 지식은 이 악한 세계로부터 당신을 지켜줄 거에요. 이 지혜가 당신을 지켜줄 것이라 믿지만, 먼저 금식을 하면서 제 자신을 정화시킬 필요가 있어요.<ret><ret> 제 스스로 준비할 동안, 이 세계의 버려진 땅들, 사람들의 발길이 거의 닿지 않은 그런 땅에 가서 계속해서 정보를 모아주시기 바랍니다. 아마 그 곳에선 적들이 적을 겁니다. 저번에 숲을 탐험하셨을 때 처럼, 가서 처음 보는 사막을 탐험하세요.
+sadhu_4_desertb_0_description_success=가신 동안 금식하고 있겠습니다.
+sadhu_4_desertb_0_description_refuse=저를 슬프게 하는군요, $name.
+sadhu_4_desertb_1_label=찾은 것 보고하기
+sadhu_4_desertb_1_description=탐사 도중에 여신이 당신을 지켜주었으리라 믿습니다.
+sadhu_4_desertb_1_description_success= 당신이 사막을 "불모지"와 "모래"로 표현한 것은 확실히 우리의 지식에 도움이 되는군요, $name. 하지만 흥미로운 점은 저번보다 스켈레톤을 더 많이 발견하셨다는 사실이죠. 땅 그 자체가 스스로 당신이 탐험하는 것에 반응하는 것 같아요.<ret><ret>당신이 간 동안, 오랫동안 깊이 기도를 했는데 비뉴누께서 우리의 요청에 응하셔서 당신의 지혜를 사용하여 우리를 축복하셨습니다. 그는 저에게 제 주변의 악을 감지할 수 있는 지혜를 주셨고, 이 부적에 부어주셨습니다. 이것을 받으세요. 당신을 지켜줄 겁니다.
+sadhu_4_desertb_1_description_refuse=전 여기서 당신의 마음이 바뀔 때 까지 기도하며 기다릴게요, $name.
+sadhu_4_desertb_1_listing=사두가 가리킨 사막을 밤에 탐사하라
+
+sadhu_5_adivasi_0_label=늪지 전문가
+sadhu_5_adivasi_0_description=$name, 우리는 계속해서 이 세상에 관한 정보를 모아야 합니다. 저는 그 습지들이 매우 중요한 곳이라고 생각됩니다. 그 장소는 지금까지의 그 어떤 자연적인 장소보다도 더 많은 정보를 줄 수 있을 것으로 보이거든요. 다행히도 당신이 직접 탐험을 할 필요는 없습니다. 늪지에 관해선 그 누구도 따라잡을 수 없는 지식을 가진 사람들이 있거든요. 바로 인도 농부들이지요. 그 농부들은 가난하고 마을 사람들이 그들을 깔보지만, 그들은 관찰력있고, 평생을 늪지 깊숙한 곳에서 살아왔지요. 그 농부 중 한 명을 찾아서 늪지에 관해 물어보세요. 그 사람에게 제 부탁으로 왔다고 하면 당신을 환영해 줄 겁니다.
+sadhu_5_adivasi_0_description_success=제가 그 곳까지 길을 알려드릴 순 없지만, 늪지를 찾다보면 그들을 발견하게 될겁니다.
+sadhu_5_adivasi_0_description_refuse=전 여기서 당신의 마음이 바뀔 때 까지 기도하며 기다릴게요, $name.
+sadhu_5_adivasi_1_label=샘플을 다시 가지고 온다.
+sadhu_5_adivasi_1_description=그 농부들이 당신에게 정보를 주던가요?
+sadhu_5_adivasi_1_description_success=휼륭하군요, 그 정보들은 제일 쓸모 있을겁니다. 그 사람이 늪지의 비정상적인 현상에 관해 말하던가요?
+sadhu_5_adivasi_1_description_refuse=저를 슬프게 하시는군요.
+sadhu_5_adivasi_1_listing=늪지에 있는 인도인 농부를 찾고 늪지에 관한 정보를 얻으세요. 그 뒤에 성자에게 돌아가세요.
+
+
+sadhu_5b_adivasib_0_label=농부에게 말하기
+sadhu_5b_adivasib_0_description=그 성자가 제 도움을 원했다고요? 하지만 전 가난하고, 보잘것 없는 사람입니다... 그에게 드리는 것인데 제가 모은 이 하찮은 식물들을 아낄 이유가 있겠습니까? 아 그리고 밤에 슾지를 돌아다니는 검은 생명체들을 본 적이 있어요. 그리고 일부는 낮이 되면 불타오르지요! 그 괴상한 생명체들이 타고 남은 것들을 모아놓은 것이 있습니다. 아마 그 성자는 이 혐오스러운 것들이 대체 무엇인지 알겠지요?<ret><ret>그리고 당신이 떠나기 전에 이 음식을 먹고 가시길 바랍니다, $name. 그 성자를 위해 일하는 분은 분명 선하신 분일 것이니까요. 
+sadhu_5b_adivasib_0_description_success=이 것이 그에게 유용하기를. 그의 지식에는 끝이 없습니다. 
+sadhu_5b_adivasib_0_description_refuse=어떻게 그 성자를 위해 기도하는 성스러운 의식을 거절하실 수 있나요?
+
+
+sadhu_6_enchantedsword_0_label=신성한 무기
+sadhu_6_enchantedsword_0_description=그 인도인의 이야기는 좋지 않습니다, $name. 당신의 그 부적이 있지만 해가 진 다음에 저 악마들이 돌아다니는데 어떻게 안전하다고 말할 수 있겠습니까? 당신이 간 동안 그 서사시를 다시 한번 읽어보았는데, 당신이 필요한 것을 알 것 같습니다. 바로 당신을 지켜줄 신성한, 신 비슈누가 직접 주신 그 강하고도 무서운 수다샤나 챠크라 같은, 그런 성검이 필요합니다. 하지만 3일간의 단식 후에도, 제가 명상하는 동안 답이 나오지 않았습니다. 제 지식의 한계가 오는 것이 두렵군요. $name, 당신은 저보다도 더 강하게 이 세상과 연결되어 있습니다. 우리는 비록 이해할 수 없지만요. 이 악을 무찌르기 위해 성검을 얻어 주실 수 있습니까?
+sadhu_6_enchantedsword_0_description_success=신의 가호가 함께하길.
+sadhu_6_enchantedsword_0_description_refuse=전 여기서 당신의 마음이 바뀔 때 까지 기도하며 기다릴게요, $name.
+sadhu_6_enchantedsword_1_label=인챈트된 검을 가져오시오.
+sadhu_6_enchantedsword_1_description=그래서 $name씨, 저 악한 생명체들과 싸우기 위한 무기를 얻는 데 성공하셨습니까? 
+sadhu_6_enchantedsword_1_description_success=그 힘은 당신 안에 있습니다. 당신은 그 성검을 신에게 부탁하지 않고, 스스로 만들어 내지 않았습니까! 이 세상에 관한 당신의 타고난 지식은 절 무섭게 만드는군요, $name. 전 가끔 당신이 평범한 사람인지 의심을 하곤 합니다. 이제 그만 저를 떠나세요. 전 안내를 위해 기도를 해야 합니다.
+sadhu_6_enchantedsword_1_listing=성자에게 인챈트된 검을 보여준다.
+sadhu_6_enchantedsword_1_description_refuse=전 여기서 당신의 마음이 바뀔 때 까지 기도하며 기다릴게요, $name.
+
+sadhu_7_enchantmenttable_0_label=두려움 그리고 지식
+sadhu_7_enchantmenttable_0_description=나를 용서해주세요, 내 친구여. 당신이 지금껏 한 일이 있는데, 당신을 이렇게 무뚝뚝하게 쫓아내려는 것이 아니었여요. 두려움이 저를 덮치게 해선 안됩니다. 전 당신의 힘을 이해해야 하지, 두려워해선 안됩니다. 저에게 당신의 검을 어떻게 인챈트 했는지 보여주시겠습니까?
+sadhu_7_enchantmenttable_0_description_success=고맙습니다.
+sadhu_7_enchantmenttable_0_description_refuse=전 여기서 당신의 마음이 바뀔 때 까지 기도하며 기다릴게요, $name.
+sadhu_7_enchantmenttable_1_label=인챈트 테이블을 보여준다.
+sadhu_7_enchantmenttable_1_description=그래서, 당신은 신의 재능을 어떻게 따라할 수 있나요?
+sadhu_7_enchantmenttable_1_description_success=흑요석과 다이아몬드로 만든 탁자, 해독할 수 없는 단어로 가득 찬 책들, 죽은 악마로 부터 모은 에너지. 그리고 당신은 어떻게 해야 할 지 자연스럽게 알군요, 마치 본능처럼. 누군가 당신을 인도하고 있어요, $name. 그것이 신인지 아니면 악마의 왕인지, 저는 알 수가 없군요.
+sadhu_7_enchantmenttable_1_listing=성자의 나무 10미터 반경 안에 인챈트 테이블과 그 옆에 최소한 하나의 책장을 만드시오.
+sadhu_7_enchantmenttable_1_description_refuse=전 여기서 당신의 마음이 바뀔 때 까지 기도하며 기다릴게요, $name.
+
+sadhu_8_mountain_0_label=산 탐험
+sadhu_8_mountain_0_description=전 당신이 만든 탁자를 연구해서 이 탁자가 어떤 원리로 작동하는지 알아봐야겠군요. 제가 연구할 동안 $name씨에게 부탁할 탐험 임무가 있습니다. 가까운 산 근처를 연구해주시기 바랍니다. 제가 명상하면서 패턴이 거의 보입니다. 거의...
+sadhu_8_mountain_0_description_success=이제 당신이 가진 힘을 이해하기에, 당신이 돌아올 것이라는 것을 믿어 의심치 않았어요.
+sadhu_8_mountain_0_description_refuse=전 여기서 당신의 마음이 바뀔 때 까지 기도하며 기다릴게요, $name.
+sadhu_8_mountain_1_label=발견한 것을 보고하라.
+sadhu_8_mountain_1_description=달빛 아래에선 산이 평화롭다는 것을 찾았으리라 믿습니다.
+sadhu_8_mountain_1_description_success=그래서 이번에는 거미가 당신의 탐험을 방해하나요? 전 그것들이 나무 밑에 잠복해 있는 것을 밤에 본 적이 있어요. 하지만 그것이 무엇을 의미하나요? 왜 산과 어울리지 않는데 거미가 산에 살고 있는 것이죠? 이것은 염려되는 신호입니다. 생명체들이 자기가 있어선 안될 곳에 존재해요.
+sadhu_8_mountain_1_description_refuse=전 여기서 당신의 마음이 바뀔 때 까지 기도하며 기다릴게요, $name.
+sadhu_8_mountain_1_listing=성자가 표시한 산을 밤에 탐험하시오.
+
+sadhu_9_underwater_0_label=멋진 다이빙
+sadhu_9_underwater_0_description=어젯밤 여신이 저에게 와서 더 깊이 살펴보아야 한다고 말했어요. 생각을 곰곰히 해 보았는데 이제 그것이 무슨 의미인지 알 것 같아요. 바다의 가장 깊은 곳을 탐험해야 합니다.
+sadhu_9_underwater_0_description_success=내 친구여, 바다에 잠수해서 그 깊은 곳 아래에는 무엇이 있는지 알려주세요.
+sadhu_9_underwater_0_description_refuse=전 여기서 당신의 마음이 바뀔 때 까지 기도하며 기다릴게요, $name.
+sadhu_9_underwater_1_label=찾은 것을 보고하라.
+sadhu_9_underwater_1_description=그래서 파도 밑 깊은 곳에서 무엇을 있었나요?
+sadhu_9_underwater_1_description_success=점점 더 깊이 갈 수록 생명체는 보이지 않았다고요... 물고기도, 해초들도 보이지 않았다고요? 저에게 많은 생각을 하게 하네요.
+sadhu_9_underwater_1_description_refuse=전 여기서 당신의 마음이 바뀔 때 까지 기도하며 기다릴게요, $name.
+sadhu_9_underwater_1_listing=바다 수면으로부터 최소한 12블럭은 잠수하시오.
+
+sadhu_10_underwaterglass_0_label=깊은 곳의 창문
+sadhu_10_underwaterglass_0_description=당신의 보고에 관해 오랫동안 생각을 해 봤습니다, $name. 아마 당신은 그 짧은 잠수 동안 많은 것을 보지 못했을 겁니다. 다시 바다로 가서, 안전하게 심해를 연구할 수 있게 최대한 깊이 관측소를 지어 주시기 바랍니다.
+sadhu_10_underwaterglass_0_description_success=이것이 힘든 일이라는 것을 알지만, 여신이 당신과 함께할 것을 믿어요.
+sadhu_10_underwaterglass_0_description_refuse=전 여기서 당신의 마음이 바뀔 때 까지 기도하며 기다릴게요, $name.
+sadhu_10_underwaterglass_1_label=찾은 것을 보고하시오.
+sadhu_10_underwaterglass_1_description=아무도 보지 못한 그 곳에서 당신은 무엇을 보았나요?
+sadhu_10_underwaterglass_1_description_success=그래서 바다의 바닥은 말 그대로 척박한 땅이다 이건가요. 저 알 수 없는 문어를 제외하면 생명의 흔적을 찾을 수 없다고요? 그럴 리가 없는데... 그 어떤 바다도 그렇게 비어있을 수 없고, 어떻게 그 우람한 동물들이 먹이도 없이 살아남을 수 있겠어요?<ret><ret>생각해 볼 시간이 필요하네요. 잠시 뒤에 저에게 다시 와 주세요. 그 사이에 제가 답을 구할 수 있기를 기도하고 있겠습니다.
+sadhu_10_underwaterglass_1_description_refuse=전 여기서 당신의 마음이 바뀔 때 까지 기도하며 기다릴게요, $name.
+sadhu_10_underwaterglass_1_listing=수면으로부터 최소한 15블럭은 되는 곳에 천장이 유리로 된 관측소를 지으시오.
+
+sadhu_11_pujas_0_label=지식과 의식
+sadhu_11_pujas_0_description=당신이 바다를 여행했을 때, 나는 당신에게 남겨진 전설, 즉 인챈트 테이블에 대해 생각해봤다네. 나는 테이블의 구조의 비밀과 책을 해독하는데 분투했지, 하지만 이해한 건 아무 것도 없었다네.. 하지만 명상 중 현자의 목소리가 들려왔지 "책과 테이블은 문제가 되지 않는다. 너처럼 노력하는 사람이 원한다면, 네가 집중할 수 있도록 필요한 물자를 공급할 수 있지만, 힘은 도와줄 수 없다. 그 것은 너의 내면과 이 세상 속에 있다. 그리고 그것을 활용할 다른 방법이 있다."<ret><ret>나는 마을의 성직자가 적절한 준비를 거쳐 비슷한 방법을 행할거라 믿고있네. 난 당신이 이 양피지를 주변의 인도마을의 성직자에게 가져다주길 원한다네. 내가 쓴 이 성가와 그에게 줄 세부적인 것들만 가져간다면, 그는 당신의 무기에 신에게 기도해 축복을 내려줄 수 있을걸세.
+sadhu_11_pujas_0_description_success=저는 전쟁의 찬송가를 가져올 수 없습니다, 그래서 그는 축복의 무기가 아닌 축복의 도구를 받은겁니다.
+sadhu_11_pujas_0_description_refuse=전 여기서 당신의 마음이 바뀔 때 까지 기도하며 기다릴게요, $name.
+sadhu_11_pujas_1_label=사두와 대화하시오
+sadhu_11_pujas_1_description=제사장은 찬송가를 읽어 보았나요?
+sadhu_11_pujas_1_description_success=저는 이게 작동한거에 매우 기쁩니다. 이것은 당신에게 매우 유용할 것입니다, $name, 이것은 우리가 기대하지 않은 방향에서 세계를 형성할수 있는 든든한 방법이죠.
+sadhu_11_pujas_1_description_refuse=전 여기서 당신의 마음이 바뀔 때 까지 기도하며 기다릴게요, $name.
+sadhu_11_pujas_1_listing=팬딧과 대화한 후 사두에게 돌아가시오
+
+sadhu_11b_pandit_0_label=팬딧과 대화하시오
+sadhu_11b_pandit_0_description=왜 sadhu가 나에게 새로운 찬송가를 부르게 할까요, 모든 지혜는 옛것에 있기 때문에? 만약 그가 성스러운 사람이 아닐경우, 숲에 너무 오래있지 않길 바라는데요. 하지만 만약 당신이 pujas를 원한다면 저는 그것을 보여줄 수 있습니다. 당신이 제시한 것들을 들고 신전으로 따라오세요, 저의 보수는 그 도구들이고 당신의 축복입니다.
+sadhu_11b_pandit_0_description_success=저의 보수를 잊지 마세요, 만약 당신이 저에게 pujas를 요구할때는요.
+sadhu_11b_pandit_0_description_refuse=어떻게 강물을 돕는 일을 거부할 수 있습니까?
+
+
+sadhu_12_topandbottom_0_label=세계의 한계
+sadhu_12_topandbottom_0_description=$name, 이것이 내가 당신에게 바라는 마지막 도전일세. 우리는 여기에 처음 온 후 몇 년이 지날 때 나는 용기있는 어떤 탐험가가 보내준 보고를 통해 새로운 세계는 광활하다는 걸 알았지. 많은 젊은 인도 여행가들이 해안을 찾기위해 저 멀리까지 여행했지만, 소용 없었어. 그들은 거대한 히말라야에 필적할 정도로 가치있는 어떤 산도 발견해내지 못했어. 나는 그걸 어렵다고 생각했지, 그리고 마음에 와닿은 게 있는데 하늘은 갠지스 강의 평원보다 더 높다고 보여지지만, 구름은 항상 낮았다네, 그리고 어떤 새나 동물이라도 그 구름 위를 넘을 순 없었지. 그러면 그 위에 모든 것들은 다 환상인걸까? 당신은 그 구름 위에 뭐가 있는지 보고 올 필요가 있을거 같네.
+sadhu_12_topandbottom_0_description_success=만약 그 고귀한 나무가 당신을 도운다면, 당신은 그 나무의 가지를 잡고 올라서며 시작할 수 있을겁니다.
+sadhu_12_topandbottom_0_description_refuse=전 여기서 당신의 마음이 바뀔 때 까지 기도하며 기다릴게요, $name.
+sadhu_12_topandbottom_1_label=발견한 것을 보고하세요.
+sadhu_12_topandbottom_1_description=지금 까지 땅 위에서 무엇을 보았나요?, $name?
+sadhu_12_topandbottom_1_description_success=거기엔 한도가 있어요,바다 위에서 아홉 명을 세운것보다도 높지... 그것은 진짜를 흉내낸 것에 불과합니다, 신 아니면 악마인가? $name, 당신은 무조건 이것을 끝마쳐야되요. 이 세상이 만약 유한할 경우에는요, 우리가 살고 있는 이 땅, 하지만 죽음에 얇게 떠 있는 이 땅
+sadhu_12_topandbottom_1_description_refuse=전 여기서 당신의 마음이 바뀔 때 까지 기도하며 기다릴게요, $name.
+sadhu_12_topandbottom_1_listing=최대한 높은곳까지 올라간 다음 사두에 보고하세요.
+sadhu_12_topandbottom_2_label=조사 보고 결과
+sadhu_12_topandbottom_2_description=탐험가여, 저 깊은 땅 밑에서 무엇을 발견하였나?
+sadhu_12_topandbottom_2_description_success=그럼 당신은 너무 단단해서 그 밑으로 갈 수 없는 돌을 보았겠군요. 그리고 당신은 거기는 30명의 사람들이 떨어질 정도로 깊다고 말했습니다. 이제 많은 것들이 균형을 잡았습니다, $name여. 그 것은 아직 캘 수 없어요.<ret><ret>이제 제가 줄 일이 없군요. 제가 모든 것에 대해 깨달을 때까지 잠깐 명상과 기도할 시간이 필요한거 같아요. 만약 가네샤 신이 저한테 알려줄 때, 언제 한 번 돌아오시면 제 결과를 말해드릴게요.
+sadhu_12_topandbottom_2_description_refuse=전 여기서 당신의 마음이 바뀔 때 까지 기도하며 기다릴게요, $name.
+sadhu_12_topandbottom_2_listing=최대한 깊은 곳까지 땅을 파고 사두에게 보고하시오.
+
+
+sadhu_13_conclusion_0_label=사두의 책
+sadhu_13_conclusion_0_description=저는 금식하고 기도를 해왔습니다, 그리고 신은 저에게 귀를 속삭였습니다. 하지만 그 것은 진실을 밝히는 것보다 가치가 없습니다, 그저 진실의 측면에서 흘끔 보는 것 밖에 없죠.<ret><ret>$name, 이제 전 말하기 지쳤습니다. 제가 생각한 결과를 이 양피지에 적겠습니다. 가지세요, 그리고 제 축복이 당신의 지식에 대한 탐구에 전해지길. 제가 당신에게 해줄 수 있는건 이제 없습니다. 당신은 저보다 더 지혜로운 사람에게 가주시길.
+sadhu_13_conclusion_0_description_success=이 양피지에 신성한 언어인 산스크리트어로 적었습니다, 오직 완벽한 팬딧만 볼 수 있죠. 하지만 어쩐지 전 당신이 이 것을 이해할 수 있다 생각합니다. 여신께서 당신의 귀에 속삭여줄겁니다, 설령 당신이 그녀의 속삭임을 듣지 못할지라도.
+sadhu_13_conclusion_0_description_refuse=나는 당신이 마음을 바꿀 때까지 이 책을 지키고 있겠습니다.
+
+sadhu_leadership_0_label=리더십
+sadhu_leadership_0_description=전 당신이 인도 마을의 새 지도자가 되고싶다는 야심을 들었습니다. $name, 결국은 절 위해 일을 끝내주셨군요, 전 당신의 정의를 확신합니다. 당신이 원하신다면, 이 계획에서 당신을 축복 해드리겠습니다.
+sadhu_leadership_0_description_success=성공을 기원합니다. 행운이 있기를, $name.
+sadhu_leadership_0_description_refuse=그럼 당신은 진실을 알아내는 거에만 관심있다는 건가요? 그건 어리석은 선택입니다. 마음을 바꿔주세요.
+
+//translate by stopcraft
+//assist by melonleaf
+//finished by dohyun22
+

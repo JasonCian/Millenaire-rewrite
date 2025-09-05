@@ -1,0 +1,29 @@
+//Note pour les utilisateurs de Windows: si vous voyez le fichier entier sur une seule ligne, ouvrez-le avec PSPAd ou UltraEdit plutôt que Notepad
+
+//Note to Windows users: if you see the entire file in one line, open it using PSPad or UltraEdit instead of Notepad
+
+priority=25
+
+//en/in millisecondes
+duration=25000
+
+//objets tenus par le villageois
+heldItems=wool_white,painting
+
+input=silk,1
+
+//chaque action consome tous les objets "input" et produit tous les "output"
+//each action will require and use all the inputs and produce all the outputs
+output=painting,1
+
+//s'il y a plus d'objets dans le centre du village que ça, arrêter le but
+//if more than that number of item is present in townhall, stop goal
+townhalllimit=painting,3
+buildinglimit=painting,2
+
+
+//son à jouer quand un objet est fabriqué
+//sound to play once an object is done
+sound=wood
+
+buildingTag=workspace

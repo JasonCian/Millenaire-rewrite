@@ -1,0 +1,18 @@
+verze:3.4
+<darkblue>Millénaire Nápověda
+
+Toto pomáhá popisovat důležité vlastnosti modu Millénaire. Pro více informací, se podívejte na wiki nebo se zeptejte na fóru minecraftforum.net.
+
+Kliknutím na ikony na stranách tohoto okna otevřete určité časti nápovědy.
+
+<darkblue>Všeobencné informace o vesnicích a opuštěných budov
+
+Millénaire přidává <darkblue>vesnice<black> odlišných kultur do Minecraftu. Tyto vesnice jsou náhodně generovány v jiných prostředích(biomech). Jsou odlišných vzhledů a obchodují s jinými věcmi, ale všechny mají vůdce vesnice, stavějí nové budovy, obchodují s vámi a můžou s vámi vycházet nebo na vás zaútočit (pro další informace se podívejte na sekci "reputace").
+
+Každá vesnice je postavena okolo centrální budovy (která může být pevnost, klášter, palác ...). v těchto budovách najdete cedulky informující vás o vesnici. <darkblue>Kliknutím pravým tlačítkem myši<black> na panel zobrazíte více informací.
+
+<darkblue>Opuštěné budovy<black> jsou prazdné (jenom objekty s truhlamy uvnitř), můžou být i obydlené mirumilovnými vesničany kteří s vámi můžou obchodovat, nebo obydlené nepřátelskými vesničany kteří na vás budou útočit.
+
+Stisknutím tlačítka "V" (vychozí) zobrazí seznam blízkých vesnic. Izolované budovy (opuštené, ...) nebudou uvedeny, musíte si zapamatovat jejich pozice.
+
+Ve výchozím nastavení, je minimální vzdálenost mezi dvěma vesnicema jsou dva kilometry. Vesnice typu Hamlets vytvořeny okolo jistých vesnic mají vyjímku v tomto pravidle.

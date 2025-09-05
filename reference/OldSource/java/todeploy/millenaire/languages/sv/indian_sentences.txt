@@ -1,0 +1,65 @@
+female.becomeadult=Mainey socha tha kisi rajkumar sey shaadi hogi... / Jag hade drömt om att gifta sig med en prins...
+
+female.gorest=Ab jaakey aaram karti hoon. / Nu ska jag gå och vila.
+female.gorest=Main thak gayi hoon. / Jag är trött.
+female.gorest=Subah sey kaam kar rahi hoon. / Jag har jobbat sen morgonen.
+
+indian_armysmith.makeweapons=Hathiyaar bananey mein, upkaran bananey sey zyaada maan hai. / Tillverka vapen är så mycket mer prestigefyllt än att tillverka verktyg!
+
+indian_lumberman.bringbackresourceshome=Itna saara lakri ghar ley jaaney mein mushkil hooga. / Det blir jobbit att bära hem så mycket trä.
+indian_lumberman.choptrees=Yeh lakri kaat-tey kaat-tey meri zindagi beet jayegi. / Det verkar som att jag ska spendera mitt liv hugga träd.
+indian_lumberman.gathergoods=Ab saari lakriyan ikaththa karta hoon. / Nu ska jag samla lite trä.
+indian_lumberman.plantsaplings=Jitna zyaada ped lagaoonga, utna hi aagey jaakey aaram raheyga. / Ju mer träd jag planterar desto lättare blir livet senare.
+
+indian_pandit.gopray.chosen=Main mandir ki dekh bhaal nahin karoonga toh kaun karega? / Om jag inte tar hand om templet, vem gör det då?
+indian_pandit.greeting=Jeetey raho. / Lev länge.
+
+indian_peasant.cookbrick= Dekho, aag mein kaisi badhiyan pakti hai yeh intein. / Titta hur bra tegeln steks i elden.
+indian_peasant.drybrick=Ghar bananey key liye kitney inth chahiyey? / Hur mycket tegel behöver jag för att bygga ett hus?
+indian_peasant.gatherbrick=Aaj suraj teez hai, inth jaldi sookh rahaien hain. / Solen är stark, de torkar snabbt idag.
+indian_peasant.getresourcesforbuild=Hmmm, ek tan ka inth  chahiye, dau tan paththar .. / Få se nu, ett ton tegel, två ton sten...
+indian_peasant.slaughterchicken=Bahut kha liya ghas-phoos. / Jag har fått nog av vegetarisk curry!
+indian_peasant.slaughterchicken=Main murgiyon se napharat karata hoon ve zor se aur khae jaane ke alaava any kisee bhee any uddeshy kee seva nahin karate hain. / Jag hatar kycklingar. De är högljudda och har har ingen annan användning än att bli uppätna.
+indian_peasant.construction=Hindu vastu-kala desh videsh mein mashoor hai. / Hinduisk arkitektur är känd över hela världen.
+indian_peasant.construction=Iskey baad, main lal kila banaoonga. / När jag är klar med det här, gör jag ett Rött Fort.
+indian_peasantwife.delivergoodshousehold=Uffh, itna sara khana akeley kaisey leh jaoongi. / Hur ska jag bära all denna mat ensam?
+indian_peasantwife.getgoodshousehold=Inkey liye chahey jitna bhi khana lao, kam padta hai. / Hur mycket jag än gör för familjen så är det aldrig nog!
+indian_peasantwife.gethousethresources=Sab kuch toh thakur ko dey dena padta hai. / Allt slutar alltid i hyresvärdens hus.
+indian_peasantwife.makerasgulla= Bacchon koh rasgulla bahut pasand hai. / Barnen älskar rasgullas.
+indian_sculptor.scult=Murtikala ched aur gaanth ki kala hai. / Skulptur är konsten av hålet och klumpen.
+indian_smith.maketools=Sabhi merey banaye huye upkaran istamal kartey hain, phir bhi mujhey neecha samachtey hain. / Alla använder mina verktyg, ändå ser alla ner på mig.
+male.becomeadult=Main badey hokar yodhdha ban-na chahta tha. / Jag ville bli en stor krigare när jag var yngre...
+male.gorest=Ab jaakey aaram karta hoon. / Nu ska jag gå och vila.
+male.gorest=Subah sey kaam kar raha hoon. / Jag har jobbat sen morgonen.
+male.gorest=Main thak gaya hoon. / Jag är trött.
+merchant_adivasi.keepstall=Sab kuch mere parivar dwara kheti ki gayi hai. / Allting är odlat av min familj, djupt inne i djungeln.
+merchant_adivasi.greeting=Main van se a raha hoon / Jag har precis kommit tillbaka från skogen.
+merchant_oriental.keepstall=Dekho yeh phaarsa ka gaurav! / Se Persiens rikedomar!
+merchant_oriental.greeting=Salam alaikum, bhai! / Fred vare med dig, broder!
+merchant_villagewoman.keepstall=Ghara ka bana khana, bhukhe yaatriyon ke lie! / Hemma-gjord mat för hungriga resanden!
+merchant_villagewoman.greeting=Ek akeelii mahila ke lie safar karna mushkil hai / Det är svårt att resa för en ensam kvinna.
+villager.becomeadult= Khel kud bahut ho gaya, ab kaam par chalo. / Slut på all lek, nu är det dags att jobba.
+villager.goplay=Mujjhey mitti sey khelna accha lagta hai. / Jag älskar att leka i leran.
+villager.childobserveagriculture=Phasalon ko ropan karana har din bahut ubaoo lagata hai. Mujhe saahas ka jeevan chaahie! / Att plantera grödor hela dagen verkar så tråkigt. Jag vill ha ett äventyrligt liv!
+villager.childobserveconstruction=Nirmaan mere lie bahut adhik kaam kee tarah dikhata hai. / Byggarbete ser ut som för mycket arbete för mig.
+villager.childobservesmithing=Kitne mazbut hathiyaar! / Så starka armar!
+villager.childobserveproducefood=Meri Ma sabase achchhe rasagulle banaati hai. / Mamma gör den bästa rasgullan.
+villager.childeatsugarcane=Ma kahati hain ki yah daanton ko nukasaan pahunchaata hai, lekin yah bahut achchha hai! / Mamma säger att det skadar mina tänder, men det smakar så gott!
+villager.harvestrice=Is baar barish acchi honey sey phasal bhi acchi hui hai. / Om det regnar bra den här gången också blir skörden bra.
+villager.harvestturmeric=Haldi ki kheti kartey kartey merey haath peeley ho gayein hain. / Att skörda gurkmeja gör mina händer gula.
+villager.plantrice=Is saal barish achchi hui toh phasal accha hoga. / Om det regnar mycket blir skörden bra i år.
+villager.plantturmeric=Haldi toh sabhi ko chahiyein. / Alla behöver ju gurkmeja.
+villager.calltoarms=Jeet hamari hoogi. / Segern kommer att bli vår.
+villager.calltoarms=Dushmano ki haar. / Besegra våra fiender!
+villager.calltoarms=Sab apney apney hathiyar utha lo! / Alla plockar upp sina vapen!
+villager.gopray.chosen=Mandir jaaney ka samay ho gaya. / Dags att gå till templet igen.
+villager.gopray=Hey Bhagwan, is baar phasal achhi ho. / Snälla Gud, låt skörden bli bra den här gången.
+villager.gopray=Bhagwan, bas aap hi ka sahara hai. / Gud, du är vårt enda hopp.
+villager.greeting=Aaj bahut garmi hai. / Det är väldigt varmt idag.
+villager.greeting=Ghar par sa theek hain? / Mår alla bra där hemma?
+villager.greeting=Kya haal hai? / Hur är det?
+villager.greeting=Kya khabar hai, $name-ji!? / What is new, $name-ji!?
+villager.greeting=Kya tum se kale pani se pare ho? / Är du från andra sidan havet?
+villager.greeting=Namaste, $name-ji! / Hallå, $name-ji!
+villager.greeting=Yeh barish kyun nahin ho rahiee hai? / Varför regnar det inte här?
+villager.inspectconstruction=Mujhe lagata hai ki hamaare raajamistree aise achchhe kaam karate hain. / Det är trevligt att se våra byggarbetare skapa så fina verk.

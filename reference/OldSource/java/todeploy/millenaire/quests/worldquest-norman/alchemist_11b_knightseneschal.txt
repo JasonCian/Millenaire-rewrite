@@ -1,0 +1,13 @@
+minreputation:0
+chanceperhour:1
+maxsimultaneous:1
+definevillager:key=startvillager,type=norman/knight,type=norman/seneschal
+forbiddenplayertag:alchemist_11b_done
+requiredplayertag:alchemist_11b_start
+
+step:new
+villager:startvillager
+duration:5
+requiredgood:book,1
+setplayertagsuccess:alchemist_11b_done
+setglobaltagsuccess:alchemy

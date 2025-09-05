@@ -1,0 +1,16 @@
+minreputation:0
+chanceperhour:0.3
+maxsimultaneous:1
+definevillager:key=alchemist,type=norman/alchemist
+forbiddenplayertag:alchemist_13_conclusion
+requiredplayertag:alchemist_12_theexperiment
+
+step:new
+villager:alchemist
+duration:1048
+setplayertagsuccess:alchemist_13_conclusion
+rewardreputation:16*64
+rewardmoney:64*64
+rewardgood:diamond,9
+setactiondatasuccess:alchemistqueststatus,13
+setplayertagsuccess:culturecontrol_norman

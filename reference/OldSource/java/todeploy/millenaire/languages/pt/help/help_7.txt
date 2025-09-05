@@ -1,0 +1,16 @@
+version:3.4
+<darkblue>Missões
+
+As missões são tarefas suplementares que poderá concretizar para os aldeões. Quando uma missão se encontrar disponível, aparecerá uma etiqueta entre parêntesis rectos por cima da cabeça do aldeão que a origina; por exemplo:
+
+"<darkblue>[Tenho sede!]<black>"
+
+Se clicar com o botão direito do rato no aldeão, surgirá uma descrição da missão e a opção de a aceitar ou recusar. As missões serão recompensadas com dinheiro, reputação ou objectos. Algumas missões requerem um determinado nível de reputação positiva com a aldeia para poderem ficar disponíveis.
+
+Para saber quais as missões que aceitou e o que é que necessita de fazer para as completar, prima a tecla "M".
+
+<darkblue>A Jornada da Criação
+
+Esta missão especial é, no fundo, um conjunto de numerosas missões divididas em dois capítulos independentes e centradas nas culturas Normanda e Hindu. A missão inicial de cada capítulo será disponibilizada por um aldeão Hindu ou Normando quando atingir a reputação de "amigo da aldeia" (poderá ter que aguardar algum tempo até que a missão inicial se torne disponível mesmo depois de ter atingido a reputação necessária).
+
+Em ambas as missões iniciais terá de encontrar uma construção isolada especial; deverá explorar o mapa até as encontrar. Tenha atenção, no entanto, pois as mesmas são únicas e ao contrário das construções isoladas comuns, são listadas na lista de aldeias que poderá aceder pela tecla "V".

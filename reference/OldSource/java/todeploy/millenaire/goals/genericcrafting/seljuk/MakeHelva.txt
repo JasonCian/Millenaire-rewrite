@@ -1,0 +1,16 @@
+buildingTag=kitchen
+priority=50
+
+duration=2500
+
+heldItems=helva,pistachios,wheat
+
+input=pistachios,3
+input=wheat,1
+output=helva,1
+
+buildinglimit=helva,16
+
+maxsimultaneousinbuilding=1
+
+tag=tag_producefood

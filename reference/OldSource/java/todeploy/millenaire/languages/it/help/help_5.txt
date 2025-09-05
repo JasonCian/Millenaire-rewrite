@@ -1,0 +1,28 @@
+version:3.4
+<darkblue>Combattimenti e raid
+
+Millénaire non è sempre una mod pacifica: puoi combattere i cittadini, i villaggi possono fare raid contro altri, i mostri attaccano i villaggi e alcuni edifici isolati sono abitati da banditi. Quale che siano le circostanze, certi principi non cambiano: <darkblue>gli abitanti sono vulnerabili solo ad attacchi diretti (spade, frecce, pozioni)<black>. Sono immuni a fuoco, cadute e cactus. Questa limitazione è per evitare che siano uccisi da un giocatore senza che loro possano reagire.
+
+I cittadini non hanno tutti la stessa forza e possono diventare più pericolosi in base al loro equipaggiamento.
+
+<darkblue>Rigenerazione degli abitanti
+
+Una volta uccisi, gli abitanti sono temporaneamente morti, saranno rigenerati nelle loro case (ma perderanno il loro inventario). Dopotutto anche i giocatori possono resuscitare...
+
+<darkblue>Attacchi dal giocatore
+
+Si può sempre attaccare un abitante, ma gli altri uomini reagiranno contro il giocatore. Nel caso fossero uccisi tutti gli abitanti del villaggio o dell'edificio solitario, le casse saranno sbloccate e sarà possibire rubarne il contenuto.
+
+<darkblue>Banditi
+
+Gli abitanti di alcuni edifici solitari attaccano senza preavviso. La reputazione con la loro cultura non varia anche se li uccidi. Come gli altri abitanti sono rigenerati la notte - vedi "<darkblue>distruggere un villaggio<black>" per come evitarlo.
+
+<darkblue>Raid tra villaggi
+
+In Millénaire i rapporti tra villaggi vicini possono essere positivi o negativi. Queste relazioni cambiano casualmente e possono essere influenzate dal giocatore parlando con i capovillaggio. Se i rapporti sono negativi e ci sono abbastanza combattenti, un villaggio può fare un'incursione in un altro villaggio ed un messaggio sarà visualizzato. Durante un raid gli attaccanti cercheranno di uccidere tutti gli uomini del villaggio. In caso di successo ruberanno alcune delle risorse come bottino. Il giocatore può aiutare una delle due fazioni.
+
+Può essere utile incoraggiare un villaggio ad attaccare i vicini, per incrementarne le proprie risorse. Più cinicamente, incoraggiare le incursioni permette di rubare le risorse qunado i difensori sono morti.
+
+<darkblue>Arruolare una guardia
+
+E' possibile arruolare alcuni cittadini come il taglialegna o le guardie per aiutarti. Ti seguiranno e combatteranno i nemici con te.

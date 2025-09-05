@@ -1,0 +1,19 @@
+
+Wersja: 3.4
+<darkblue> Reputacja i Wodzowie.
+Każda wioska w Millénaire ma swoją własną opinię na twój temat, na początku neutralną, która zmienia się według twoich zachowań. Reputacja jest bardzo ważna: wiele nagród dostępnych jest tylko za pozytywne stosunki, a jeśli twoja reputacja jest zbyt zła, wioska odmówi z tobą handlu. Możesz sprawdzić swoją reputację poprzez rozmowę (<darkblue> PPM <black>) z wodzem wioski.
+Głównym sposobem na polepszenie swojej reputacji jest handel z wioską. Kupno jak i sprzedarz przedmiotów zwiększają twoją reputację proporcjonalnie do ceny. Możesz także polepszać reputację poprzez wykonywanie zadań.  Odwrotność można uzyskać poprzez atakowanie wioski, lub brak sukcesu w pewnych misjach.
+Także, posiadasz <darkblue> reputację z każdą kulturą <black>. Ta reputacja jest uzyskiwana poprzez twoje ogólne kontakty z wioskami o tej kulturze, a także odpowiada za stosunki handlowe z każdą inną wioską o tej samej kulturze. Na przykład, jeśli z jedną wioską Normanów masz bardzo dobrą reputację, każda inna wioska będzie cię lubiła (trochę) bardziej. Możesz sprawdzić swoją reputację z daną kulturą na panelu informacyjnym (klawisz "M")
+<darkblue> Akcje wymagające pewnej reputacji
+<darkblue> Kup zwój wioski.
+Z wystarczającym poziomem reputacji, możesz kupić od wodza zwój wioski. Ten zwój posiada w sobie wszystkie informacje zawarte w panelach wioski.
+<darkblue> Kupno Domu
+Kiedy posiadasz wystarczającą reputację, możesz kupić dom ( lub wyznaczone pole na którym możesz coś zbudować) poprzez rozmowę z wodzem wioski. Twój dom będzie zbudowany przez wioskę po tym jak ukończy obecny projekt. W przeciwieństwie do reszty ziemi naokoło wioski, ten budynek należy do ciebie i możesz go urządzić jak tylko ci się to podoba.
+<darkblue> Nauka sadzenia roślin
+Możesz nauczyć się sadzenia specyficznych dla Millénaire roślin, które są używane przez którąś z kultur. Porozmawiaj z Wodzem wioski kiedy będziesz posiadał wystarczającą reputację ( i pieniądze)
+<darkblue> Kupno dodatkowych przedmiotów
+Kupno niektórych wartościowych rzeczy wymaga dobrej reputacji z daną wioską. Jeśli takowej nie posiadasz, potrzebny poziom będzie ukazany na ekranie handlu.
+<darkblue> Zadania Dodatkowe
+Niektóre zadania, razem z Zadaniami Stworzenia, mogą być rozpoczęte tylko z dobrą reputacją.
+<darkblue> Mianowanie na przywódcę kultury.
+Kiedy osiągniesz maksymalną reputację (<darkblue>" Prawdziwy Przywódca"<black>), możesz zbudować wioskę w której ty będziesz wodzem.

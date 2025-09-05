@@ -1,0 +1,12 @@
+building.length=9
+building.width=12
+building.max=0
+building.reputation=4096
+building.price=256
+
+building.icon=mudbrick
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Duvarlı Küçük Alan
+initial.priority=1000000

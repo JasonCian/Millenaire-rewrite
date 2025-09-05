@@ -1,0 +1,50 @@
+playerestate_A0=Herskapshus
+forge_A0=Smie
+armyforge_A0=Armésmie
+scultorhouse_A0=Steinskulptørbolig
+archives_A0=Tempelarkivene
+chiefhouse_A0=Lederbolig
+chiefhouse_B0=Lederbolig
+fort_A0=Festning
+fort_A_forge_A0=Festningens smie
+fort_A_soldierhouse_A0=Brakke
+peasanthouse_A0=Bondebolig
+peasanthouse_B0=Bondebolig
+peasanthouse_C0=Bondebolig
+lumbermanhouse_A0=Tømmermannbolig
+quarry_A0=Steinbrudd
+quarry_B0=Steinbrudd
+soldierhouse_A0=Soldatbolig
+brickkiln_A0=Mursteintørkeovn
+grove_A0=Lund
+paddy_A0=Risåker
+spicegarden_A0=Krydderhage
+sugarplantation_A0=Sukkerrør plantasje
+villagetemple_A0=Landsbytempel
+palace_A0=Palass
+guesthouse_A0=Gjestehus
+inn_A0=Kro
+largepeasanthouse_A0=Stort hus
+largepeasanthouse_A_secondary_A0=Sekundørhus
+playerpalace_A0=Spillerens palass
+playerhugefield_A0=Veldig stort område
+playerlargefield_A0=Stort område
+playersmallfield_A0=Lite område
+playersmallhouse_A0=Lite hus
+bazaar_A0=
+tank_A0=Trappbrønn
+
+//extra buildings:
+well_A0=Brønn
+
+//lone buildings:
+adivasifarm_A0=Adivasi gårdsbruk
+adivasifarm_B0=Adivasi gårdsbruk
+deserttradeoutpost_A0=Handelssted i ørkenen
+ruinedfort_A0=Ruinert festning
+sandblasted_A0=Forlatt handelssted
+indiandesertedfarm_A0=Ødelagt indisk gårdsbruk
+loneshrine_A0=Enslig Hindu-alter
+sadhutree_A0=Sadhuens tre
+
+gifthouse_a0=Gavehus

@@ -1,0 +1,15 @@
+//Parameters for the building as a whole
+building.length=15
+building.width=15
+building.buildingorientation=2
+building.farfromtag=leasure,30
+building.icon=fishraw
+
+//Parameters for initial construction
+initial.startlevel=-3
+initial.nativename=Ike
+initial.priority=400
+initial.pathlevel=2
+initial.tag=nopaths
+initial.tag=leasure
+

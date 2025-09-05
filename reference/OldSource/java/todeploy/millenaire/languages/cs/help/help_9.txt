@@ -1,0 +1,12 @@
+
+verze:3.4
+<darkblue>Indove
+Pochazeji ze severni Indie a ziji ve třech typech vesnic: vojenske osady ktere jsou postaveny kolem pevnosti, zemedelske osady kolem domu reditele a palace ktere jsou ovladany kralovskym palacem se dvema vesnicemi. Mluvi hindsky ale jejich dialogy budou prelozene jakmile se hrac "naucí" jejich jazyk tim ze s nimi bude mluvit.
+<darkblue>Unikatni objekty a blocky
+Indove pestuji ryzi a kurkumu. Hrac muze pozadat kuchare, aby ho naucil jak pestovat tyto rostliny.
+Cihly z blata jsou vyrobeny tim stylem ze se necha vlhke bahno ve tvaru cihly uschnout na slunci. Vlhke cihly muzete vytvorit formou (kterou zakoupite ve vesnici.)
+Indske basreliefy reprezentujici jejich bozstvo jsou vytvoreny socharem.
+Lahodna rasgulla, cukrovi vyrobene z cukrove trtiny
+<darkblue>Specificke recepty (beztvare)
+Jedna rize a kurkuma vytvori vegetarianske kari.
+Jedna rize, jedna kurkuma a syrove kure vytvori vegetarianske kari.

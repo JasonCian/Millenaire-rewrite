@@ -1,0 +1,7 @@
+{
+  "norman_bells": {
+    "category": "block",
+    "subtitle": "millenaire.sound.norman_bells",
+    "sounds": [ "millenaire:norman_bells" ]
+  }
+}

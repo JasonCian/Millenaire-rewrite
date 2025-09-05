@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "millenaire:byzantinehelmet"
+        },
+        "title": {
+            "translate": "advancements.leader_byzantines.name"
+        },
+        "description": {
+            "translate": "advancements.leader_byzantines.desc"
+        }
+    },
+    "parent": "millenaire:rep_byzantines",
+    "criteria": {
+        "leader_byzantines": {
+            "trigger": "leader_byzantines"
+        }
+    }
+}

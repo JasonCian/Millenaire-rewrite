@@ -1,0 +1,52 @@
+culture.mayan=Maya
+
+villager.mayan_boy=Gutt
+villager.mayan_girl=Jente
+villager.mayan_teenagerMale=Ungdom
+villager.mayan_teenagerFemale=Ungdom
+villager.mayan_lumberman=Tømmermann
+villager.mayan_miner=Gruvearbeider
+villager.mayan_shaman=Sjaman
+villager.mayan_peasant=Bonde
+villager.mayan_peasantwife=Kvinnelig bonde
+villager.mayan_leader=Leder
+villager.mayan_richwoman=Dronning
+villager.mayan_warrior=Kriger
+villager.mayan_chieftain=Høvding
+villager.mayan_crafter=Håndverker
+villager.mayan_armysmith=Armésmed
+villager.mayan_sculptor=Skulptør
+villager.mayan_shamanwife=Sjamanens kone
+villager.mayan_king=Konge
+villager.mayan_merchant=Kjøpmann
+villager.mayan_chickenfarmer=Kyllingbonde
+villager.mayan_farmer=Kornbonde
+villager.mayan_obsidiancrafter=Obsidianhåndverker
+villager.mayan_cocoafarmer=Kakaobonde
+
+villager.lonemayanfarmer=Enslig bonde
+villager.lonemayanpeasantwife=Bondekone
+villager.lonemayanshaman=Sjaman
+villager.lonemayanshamanwife=Sjamanens kone
+villager.mayanbanditboy=Bandittgutt
+villager.mayanbanditwarrior=Bandittkriger
+villager.mayanfemalebandit=Bandittjente
+
+villager.merchant_mayanfarmer=Bondeforhandler
+villager.merchant_mayanhunter=Jegerforhandler
+villager.merchant_mayanshaman=Sjamanforhandler
+
+villager.questfallenking=Fallen konge
+villager.questkingelitewarrior=Elitekriger
+villager.questkinglieutnant=Løytnant
+villager.questkingscout=Speider
+villager.questkingwarrior=Kriger
+villager.questshaman=Sjaman
+
+shop.mayantownhall=Sentrallager
+shop.mayancrafter=Verktøy
+shop.mayanarmyforge=Rustninger og våpen
+shop.mayansheepchickenfarm=Kyllingprodukter
+shop.mayanobsidiancrafter=Obsidianobjekter
+shop.lonemayanfarm=Gårdprodukter
+shop.mayancocoa=Kakao og cacauhaa

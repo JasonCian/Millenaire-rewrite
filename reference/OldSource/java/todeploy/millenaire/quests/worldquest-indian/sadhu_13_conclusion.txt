@@ -1,0 +1,13 @@
+minreputation:0
+chanceperhour:0.5
+maxsimultaneous:1
+definevillager:key=startvillager,type=indian/indian_sadhu
+forbiddenplayertag:sadhu_13_conclusion
+requiredplayertag:sadhu_12_topandbottom
+
+step:new
+villager:startvillager
+duration:1048
+setplayertagsuccess:sadhu_13_conclusion
+rewardgood:parchment_sadhu,1
+setactiondatasuccess:sadhuqueststatus,15

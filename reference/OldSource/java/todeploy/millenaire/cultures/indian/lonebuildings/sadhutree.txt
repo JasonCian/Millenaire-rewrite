@@ -1,0 +1,28 @@
+name=Sadhu ke Peer
+weight=5
+radius=10
+
+mindistancefromspawn=1000
+
+//Vanilla biomes
+biome=Forest
+biome=ForestHills
+biome=Flower Forest
+biome=Roofed Forest
+biome=Roofed Forest M
+
+//biomes o'plenty
+biome=cherry blossom grove
+biome=grove
+biome=mystic grove
+biome=rainforest
+biome=sacred springs
+biome=seasonal forest
+biome=snowy forest
+biome=woodland
+
+max=1
+keyLoneBuildingGenerateTag=sadhu_tree_generate
+
+//starting buildings=
+centre=sadhutree

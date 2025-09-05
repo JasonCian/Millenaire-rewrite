@@ -1,0 +1,25 @@
+//Parameters for the building as a whole
+building.length=26
+building.width=30
+building.max=0
+building.icon=sake
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Tsukurizakaya
+initial.priority=600
+initial.male=japanese_brewer
+initial.female=japanese_brewerwife
+initial.tag=oven
+initial.shop=japanesetownhall
+initial.signs=3,1,2,0,5,7,8,6,4
+
+//Parameters for specific upgrades
+upgrade1.priority=580
+
+upgrade2.priority=560
+
+upgrade3.priority=540
+
+upgrade4.priority=520
+

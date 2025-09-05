@@ -1,0 +1,18 @@
+﻿version:3.4
+<darkblue>Millenairi abi
+
+See abi kirjeldus selgitab Millenairi funktsioone. Rohkem informatsiooni leiad wikist või küsimast foorumist minecraftforum.net.
+
+Kasuta ikoone mõlemal poolel siin ekraanil,et pääseda erinevatele lehekülgetele.
+
+<darkblue>Üldsönaliselt küladest ja üksikutest ehititest
+
+Millenair lisab <darkblue>külasi<black> erinevatest kultuuritest Minecrafti. Need külad on suvaliselt loodud erinevatel bioomidel. Need on erinevates stiilides ja annavad erinevaid tooteid, aga neil kõigil on kokk , ehitavad uusi ehitisi, kauplevad sinuga ja kas sa meeldid neile või mitte olenevalt sinu tegutest (vaata "reputation" sektsiooni).
+
+Iga küla on ehitatud ümber kesk ehitise (mis võib olla kindlus, klooster või palle). Seal ehitises leiad sa mitmeid paneele (silte) mis informeerivad sind küla kohta . <darkblue>Parema hiire klõpsuga<black> vajutades paneelile näed rihkemat informatsiooni.
+
+<darkblue>Üksildane ehitis<black> ei uuene. Need võivad olla tühjad (ainult asjadega kirstudes), hõivatud rahhulike elanikega võivad sinuga kaubelda või on hõivatud vaenulike elanikega kes ründavad sind.
+
+Vajutades "V" tähte näitab see sulle lähedal olevaid külasi. Purustatud ehitiste asu kohti pole sellel näitatud.Sa pead nende asukoha meelde jätma.
+
+Tavaliselt miinimum kaugus kahe küla vahel on kaks kilomeetrit. Hamletid küla ümber ei lähe selle reeglid alla.

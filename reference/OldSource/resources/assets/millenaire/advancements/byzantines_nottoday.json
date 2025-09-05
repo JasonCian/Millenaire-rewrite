@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "millenaire:byzantineplate"
+        },
+        "title": {
+            "translate": "advancements.byzantines_nottoday.name"
+        },
+        "description": {
+            "translate": "advancements.byzantines_nottoday.desc"
+        }
+    },
+    "parent": "millenaire:leader_byzantines",
+    "criteria": {
+        "leader_seljuk": {
+            "trigger": "byzantines_nottoday"
+        }
+    }
+}

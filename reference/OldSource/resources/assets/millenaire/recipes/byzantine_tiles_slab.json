@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+	"group": "byzantine_tiles_slab",
+    "pattern": [
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "millenaire:byzantine_tiles"
+        }
+    },
+    "result": {
+        "item": "millenaire:byzantine_tiles_slab",
+		"count": 6,
+        "data": 0
+    }
+}

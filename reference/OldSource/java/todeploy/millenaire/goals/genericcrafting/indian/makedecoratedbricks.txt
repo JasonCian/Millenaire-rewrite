@@ -1,0 +1,23 @@
+priority=50
+
+//en/in millisecondes
+duration=10000
+
+//objets tenus par le villageois
+heldItems=paintedbrickwhite,decoratedbrickwhite
+
+input=paintedbrickwhite,1
+
+output=decoratedbrickwhite,1
+
+
+//s'il y a plus d'objets dans le batiment que ça, arrêter le but
+//if more than that number of item is present in building, stop goal
+townhalllimit=decoratedbrickwhite,128
+
+itemsbalance=paintedbrickwhite,decoratedbrickwhite
+
+
+maxsimultaneoustotal=1
+
+sound=stone

@@ -1,0 +1,25 @@
+//Parameters for the building as a whole
+building.length=11
+building.width=7
+building.buildingorientation=3
+building.version=2
+building.icon=normanaxe
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Hutte de bûcheron
+initial.priority=1000
+initial.male=lumberman
+initial.female=wife
+
+//Parameters for specific upgrades
+upgrade1.priority=100
+
+upgrade2.priority=95
+
+upgrade3.priority=90
+upgrade3.pathlevel=1
+
+upgrade4.priority=85
+

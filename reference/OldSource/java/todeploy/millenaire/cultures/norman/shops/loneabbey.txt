@@ -1,0 +1,5 @@
+sells=bread,beefraw,bookshelves,dye_red
+
+buys=wood,wood_pine,wood_birch,wood_jungle,wood_acacia,wood_darkoak,bone,winebasic,normanShovel
+
+deliverto=bread,beefraw,bookshelves,dye_red

@@ -1,0 +1,701 @@
+﻿﻿
+startup.loadproblem= Tekkis viga, kui proovite laadida <0>.
+startup.checkload= Kontrollige, et kultuuride kataloog on Millenaire kataloogis minecraft kataloogis.
+startup.millenaireloaded=<0> on laetud. Vajuta '<1>' et leida külasid.
+startup.radiuswarning= HOIATUS: Seadistamine küla raadiust nii suureks, ei peaks osutuma vajalikuks ning võib põhjustada mängu tükitamist. Väärtused üle <0> ei soovitata.
+startup.bonus= Bonus sisu lubatud.
+
+command.nogenerate=<0> ei tekita enam külasid külade aladele selles maailmas.
+command.willgenerate=<0>  tekitab nüüd külasid külade aladele selles maailmas.
+command.astarpathing=Kasutades A* rada
+command.binarypathing= kasutades kahekomponentsete rada
+command.minecraftpathing=Kasutades Minecraft rada
+command.inactive=Tegevusetu
+command.active=Tegev
+command.frozen=Külmunud
+command.villagelist=<4>: <0> (<1>) on <2> meetrit <3>.
+command.villagelistkeylonebuilding=<0> on <1> meetrit <2>.
+command.noknowvillage=Ei ole ühtegit teada olevat küla lähemal kui 2km. Otsi veel!
+command.newvillagefound=Uus küla asub : <0> tüüpi <1> kultuurist <2> on <3> meetrit <4>.
+command.newlonebuildingfound=Uus hoone asub: <0> on <1> meetrit <2>.
+command.pathrebuild=Kaart ja tee  <0> on taastatud.
+
+//Text used in various UI parts, in no specific order:
+ui.lockedchest=Lukustatud kirst
+ui.largelockedchest=Suur lukustatud kirst
+ui.unlockedchest=Lukustamatta kirst
+ui.largeunlockedchest=Suur lukustamatta kirst
+ui.allchestsunlocked=Kõik kirstud <0> on nüüd avatud.
+ui.outofstock=Otsas!
+ui.reputationneeded=Mainet vaja: <0>
+ui.missingdeniers=Sul on puudu veel <0> dinaari.
+ui.missingequipment=Kadunud varustus
+ui.noneininventory=Sul pole ühtegit inventaris .
+ui.selling=Müüakse
+ui.buying=Ostetakse
+ui.buybuilding=Osta <0> (<1>)
+ui.buybonusbuilding= Soovin boonust: <0>
+ui.sellercoming=<0>: Ma kohe tulen, $name!
+ui.tradecomplete=<0>: Ma loodan, et sulle meeldis meiega kaubelda! Head päeva.
+ui.sellerboycott=<0>: Me ei kauple suga kunagi. Lindprii!
+ui.sellernotcurrently possible=<0>: Kuidas sa saad mõelda kauplemisele, kui meie küla on laastatud?
+ui.wesell=Müüakse
+ui.webuy=Ostetakse
+ui.isell=Müün
+ui.inventory= Inventar
+ui.villagechief=Küla juht  <0>
+ui.yourstatus=Sinu maine
+ui.possiblehousing=Võimalikud eluasemed
+ui.alreadybuilt=on juba ehitatud
+ui.alreadyrequested= juba taotletud
+ui.notavailableyet= pole veel saadaval
+ui.available=saadaval
+ui.bonusavailable=saadaval (kink)
+ui.youaremissing=sinul on puudu veel: <0>
+ui.scrollsnoreputation= Sinu maine ei ole piisav, et osta küla kaarti.
+ui.scrollsnotenoughmoney=Sinul on puudu veel <0> dinaari küla kaardi soetamiseks.
+ui.scrollsok= Sa saad osta küla kaarti.
+ui.buyscroll=Osta küla kaart.
+ui.cost=maksab
+ui.clicktorequest=Klõpsa, et taodelda
+ui.scrollbought=<0>: Oled piisavalt usaldatud, et osta küla pärgamente!
+ui.housebought=<0>: Sinu ehitise ehitus <1> algab varsti!
+ui.inhabitantof=elanik <0>
+ui.inconstruction=Ehituses
+ui.nospace=Pole ruumi
+ui.reservedforvillager1= Reserveeritud
+ui.reservedforvillager2=külaelaniku jaoks
+ui.currentlyempty1=Ajutiselt Tühi
+ui.currentlyempty2=
+ui.visitorslist1=Külalised
+ui.visitorslist2=Nimekiri
+ui.goodstraded=Kaupa vahetatud
+ui.imports=Sisse toodud kaubad
+ui.exports=Välja viidud kaubad
+ui.import_total=Sisse toodud: <0>
+ui.export_total=Välja viidud: <0>
+ui.merchants=Kaupmehed:
+ui.goalscompleted1= Kõik eesmärgid täidetud
+ui.goalscompleted2= 
+ui.project= Projekt
+ui.noconstruction1=Ehitust ei toimu
+ui.noconstruction2=
+ui.upgrading=Uuendus (<0>)
+ui.construction=Ehitis <0>:
+ui.population= Elanikud:
+ui.populationnumber=Elanikud: <0>
+ui.adults= Täiskasvanud: <0> (<1>/<2>)
+ui.teens=Noored: <0> (<1>/<2>)
+ui.children=Lapsed: <0> (<1>/<2>)
+ui.villagemap=Küla kaart
+ui.nbbuildings=<0> hoonet
+ui.wandwrongblock= See sau töötab ainult obsidiani plokil tekitades juhusliku küla või järgmistel plokkidel:
+ui.wandblocklist=<0> eest <1>
+ui.wandblocklistcontrolled=<0> eest <1> (nõuab juhtpositsiooni selles kultuuris)
+ui.brickinstructions=Sul on vaja ühte mulla- ja ühte liiva plokki tellise loomiseks.
+ui.buildingscentre=Keskpunkt
+ui.buildingsstarting=Alg hooned
+ui.buildingsplayer= Mängija hooned
+ui.buildingskey= Peamised hooned
+ui.buildingssecondary= Kõrval hooned
+ui.buildingsextra= Täiendavad hooned
+ui.worldnotgenerated= Ümbrus ei ole täielikult tekkinud. Kõnni ringi ja tule tagasi.
+ui.tooclosetospawn= Ei ole lubatud luua küla nii lähedale algus punktile.
+ui.generatenotenoughspace= Ei leia ruumi küla kesk hoone jaoks.
+ui.generatenotenoughspacevillage= ei leia ruumi küla jaoks.
+ui.lackingresources=Puuduvad materjalid
+ui.lockedchestwarning=HOIATUS: Hävitades lukustatud kastid takistab see külade nõuetekohast toimimist. Tee seda ainult siis kui soovid küla hävitada.
+ui.xoutofy=<0> on <1>
+ui.extraresneeded1=<0> teised materjalid
+ui.extraresneeded2=nõutav
+ui.woodforplanks=Puitu (Suvalist)
+ui.woodoak=Tammepuud
+ui.woodpine=Kuusepuud
+ui.woodbirch=Kasepuud
+ui.woodjungle=Džunglupuud
+ui.anyenchanted=Loitsutud objektid
+ui.enchantedsword=Loitsutud mõõk
+ui.selectabuildingproject=Vali ehitus projekt
+ui.projectadded=Projekt on lisatud nimekirja
+ui.problemat=Probleem <0>: <1>
+ui.constructionforbidden= ehitus keelatud
+ui.locationclash=vastu teist ehitist
+ui.outsideradius=väljaspool külapiire 
+ui.wrongelevation= väljaspool lubatud ala
+ui.danger= ohtlik plokk
+ui.notreachable= kättesaamatu ala
+ui.unknownerror= tundmatu probleem
+ui.controlbuildingprojects= Halda ehitusprojekte
+ui.forbidupgrades= Peata uuendused
+ui.allowupgrades= Luba uuendused
+ui.cancelbuilding= Eemalda hoone
+ui.level=tase
+ui.notyetbuilt= Ei ole veel ehitatud
+ui.nbinhabitants= Elanike arv: <0>
+ui.wandnocontrol= Te ei saa luua seda küla tüüpi kui te ei ole tunnustatud juhiks <0> kultuuris.
+ui.control_ok= Teie teened külale on nii suursugused, et <0> inimesed on valmis tunnustama sind juhina! Saan teha selle ametlikus ning võimaldada sul asutada oma küla.
+ui.control_noreputation= Teie maine ei ole veel piisav, et olla tunnustatud liider <0> inimeste poolt. Parandada oma mainet meiega või täida ülesandeid, et jõuda selle tunnustusele.
+ui.control_alreadydone= Oled juba tunnustatud liider <0> inimeste poolt.
+ui.control_get= Küsi tunnustus juhina.
+ui.control_gotten=<0>: Ma tunnustan ametlikult sind vääriliseks juhtima meie <1> inimesi! Saate nüüd asutada oma küla.
+ui.selectavillage= Vali küla tüüp mida soovite luua
+ui.leadershipstatus= Liidri staatus
+ui.leaderin=Sa oled liider <0> kultuurile. Saate luua selle kultuuri küla mida saate ise kontrollida.
+ui.notleaderin=Sa ei ole veel liider <0> kultuuris.
+ui.leaderinstruction=Et saada rahvuste liidriks, pead jõudma "Naturaalse liidri" astmele külas ja küsima küla juhilt tunnustust, või täitma Loomis küsimuse peatüki sellele kultuurile (kui võimalik).
+ui.wandinstruction= Kasutage saua obsidian plokil et luua juhuslik küla või kuld plokil et valida küla, mida soovid
+ui.controlled= kontrollitud
+ui.villagerelations=<0> (<1>, <2>): <3>
+ui.relationlist= Suhted teiste küladega
+ui.relationpraise=Kiida
+ui.relationslander=Laida
+ui.relationpoints=Diplomaatja punkte järel: <0>
+ui.villagerelationsnobutton= Sul peab olema punkte ja positiivset mainet, et mõjutada küla.
+ui.relationhelp=Suhte abi<ret><ret> Suhted küladega määrab, kas need külad teevad koostööd või mitte.<ret><ret> Kohalik kaubandus (kaupmehed vahetavad ressursse) toimib külade vahel kellel on head suhted samast kultuurist või väga heade suhetega eri kultuuridest.<ret><ret> Külad eri kultuuridest väga heade suhetega, kus mõlemal on turuplats võõrustab kaupmehi muudest kultuuridest.<ret><ret> Külad samast kultuurist suurepäraste suhetega aktsepteerivad teineteise noori kui neil on uue töökoha leidmiseks vabu kohti.<ret><ret>Suhted külade vahel algavad suurepäraselt hamlets of a parent küladega, heade suhetega sama kultuuriga, ja neutraalsetena teistega.<ret><ret> Iga päev saab mängija viis diplomaatilist punkti, mida saad kasutada mõjutamaks külade suhted. Tõhusust kiitusele või laimamisele sõltub mängja mainele külas.
+ui.relationfriendly= Hiljutised sündmused külade vahel <0> ja <1> on parandanud. Nende suhted on nüüd <2>.
+ui.relationunfriendly= Hiljutised sündmused külade vahel <0> ja <1> on halvenenud. Nende suhted on nüüd <2>.
+ui.cropplantingknowledge= Sa ei tea, kuidas istutada <0>. Sa pead küsima küla liidrilt.
+ui.cropsknown= Põllukultuurid teadaolevad selle kultuurile
+ui.cropknown= Oled õppinud, kuidas istutada <0>.
+ui.cropinsufficientreputation= Sinu maine on liiga väike,  et küla õpetaks kuidas istutada <0>.
+ui.cropnotenoughmoney=Sa vajad <1> rohkem, et saaksid lubada õppimist kuidas istutada <0>.
+ui.cropoktolearn= Küla saab sind õpetada kuidas istutada <0>.
+ui.croplearn=Õpi (<0>)
+ui.croplearned=<0>: Sul on räägitud saladus kuidas kasvatada <1>!
+ui.raider=Ründaja
+
+ui.communicationexplanations=Et rääkida külaelanikega, klõpsa paremat hiirenuppu. Kui tegevus on võimalik külaelanikuga (kas vahetamine, rääkida küla juhiga, rääkida temaga ajutiselt, alustada küsimust) avaneb aken.
+ui.helpbutton=Millénaire Abi
+ui.chunkbutton=Tükkidena kaart
+ui.configbutton=Seaded
+ui.serverimportforbidden= Ainult administraatorid saavad lisada hooneid serverisse.
+
+ui.controldiplomacy=Diplomaatja
+ui.raidinprogress= Rüüstamine pooleli!
+ui.otherraidinprogress= Muu rüüsteretk pooleli.
+ui.otherraidplanned= Muu rüüsteretk planeeritud.
+ui.raidcancel=Loobu rüüsteretkest.
+ui.raidplanned=Rüüsteretk planeeritud.
+ui.relgood= Suurepärane
+ui.relneutral=Erapooletu
+ui.relbad=Tülis
+ui.raid=Plaani rüüsteretke
+
+
+help.tab_1= Üldist külades
+help.tab_2= Kauplemine
+help.tab_3= Maine ja külavanem
+help.tab_4= Küla kasv
+help.tab_5= Võitlus ja rüüsteretked
+help.tab_6=Küla loomine ja hävitamine
+help.tab_7=Küsimused
+help.tab_8=Normannid
+help.tab_9=Hindud
+help.tab_10=Maiad
+help.tab_11=Jaapanlased
+help.tab_12=Bütsantsid
+help.tab_13=Muud küsimused
+
+
+quest.obtained=Saadud
+quest.lackingcondition=Sul on puudu:
+quest.lackinghiddengoods= Sul ei ole vajalikke asju selle ülesande jaoks.
+quest.close=Sule
+quest.accept=Nõustu küsimusega
+quest.refuse=Keeldu küsimusest
+quest.continue= Jätka küsimusega
+quest.conditionsnotmet= Sa ei ole veel täitnud kõiki tingimusi.
+quest.lessthananhourleft= Vähem kui tund jäänud!
+quest.timeremaining= järelejäänud aega
+quest.hours=Tund(i)
+quest.noquestsvisible=Mitte ühtegit listi küsimusi pooleni 
+quest.questlist=Küsimusi pooleni
+quest.reputationlost=mainet kaotanud
+
+quest.creationqueststatus= Loomine küsimuse staatus
+quest.creationqueststatusshort=Loomise küsimus:
+
+quest.cqchaptersadhu=Sadhu
+quest.cqsadhustartexplanation=Leia külaelanik kes juhataks sind Hindude juurde kus sul on  "Küla sõbra" maine esimeseks missjooniks.
+
+quest.cqchapteralchemist=Alkeemik
+quest.cqalchemiststartexplanation=Leia külaelanik kes juhataks sind Normannide külla kus on sul vähemalt "Küla sõbra" maine.
+
+quest.cqchapterfallenking=Langenud Kuningas
+quest.cqfallenkingstartexplanation=Leia šhamaan kes juhataks sind Maiade külla kus sul on vähemalt "Küla sõbra" maine.
+
+
+quest.cqallcompleted=Õnnitlused, oled ärateinud kõik Loome küsimused mis on hetkel saadavad!
+quest.cqcheckforupdates=Tšekka www.millenaire.org uuendusteks.
+quest.cqchapternotstarted=Sa pole veel alustanud peatükki "<0>".
+quest.cqchapterinprogress=Oled sooritanud <1> missjooni <2> missjoonist Loomis küsimuste peatükist "<0>".
+quest.cqchaptercompleted=Oled lõpetanud selle peatüki "<0>".
+quest.cqchapternotstartedshort=Peatükk "<0>": pole alustatud.
+quest.cqchapterinprogressshort=Peatükk "<0>": <1>/<2>.
+quest.cqchaptercompletedshort=Peatükk "<0>": lõpetatud.
+quest.cqcheckquestlistandhelp=Vajuta '<0>' et saada rohkem infot või pääseda Millénaire abise.
+
+
+
+
+
+error.unknownitem= Tundmatu Asja Nimetus
+
+
+
+//Errors
+ui.updateEntity= Viga TileEntityBuilding.updateEntity (). Kontrollige millenaire.log.
+
+//Panels & parchments
+panels.notextfound=Teksti ei leitud selles raamatus: <0>
+panels.invalidid= Vigane küla ID.
+panels.toofar= Küla on liiga kaugel, et laadida oma andmed.
+panels.recordsnotloaded= Küla andmed ei saa laadida.
+panels.villagescroll=Küla Pärgament
+panels.mother=Ema
+panels.father=Isa
+panels.spouse=Abikaasa
+panels.dead= Ajutiselt Surnud
+panels.awayraiding=Eemal Rüüstamas
+panels.awayhired=Palgatud Mängija poolt
+panels.invaderincoming=Sissetulek
+panels.missing= KADUNUD!
+panels.multiple= ESITADA <0> AJAD!
+panels.currentoccupation= Praegune töökoht
+panels.visitors=Külalised
+panels.constructions= Ehitised
+panels.upgrade=uuendusi
+panels.buildingprojects=Ehitusprojekt
+panels.notyetbuilt=pole veel ehitatud
+panels.nbupgradesleft=<0> uuendus(t) veel jäänud.
+panels.finished=Lõpetatud
+panels.houseunoccupied= See maja on tühi. Lapsed kes saavad teismeliseks liiguvad siia ja saavad täiskasvanuks.
+panels.man=Mees
+panels.woman=Naine
+panels.children=Laps
+panels.nofemaleresident= Sellese majja ei tule kunagi naine elama.
+panels.bachelor=Mees kes elab siin on poissmees . Tüdruk kes kasvab teismeliseks liigub siia elama.
+panels.nomaleresident=Sellese majja ei tule kunagi elama mees.
+panels.spinster= Naine, kes siin elab on veel vallaline. Pois kes saab teismeliseks liigub siia elama.
+panels.resources=Ressursid
+panels.goodstraded=Kaupa vahetatud selles külas
+panels.goodsimported=Sisse toodud teistest küladest
+panels.goodsexported=Välja viidud teistesse küladdesse
+panels.innvisitors=Külalisi selles <0>
+panels.mappurple=Roosa: ehitis ehitusjärgus.
+panels.mapblue=Sinine: teised ehitised.
+panels.mapgreen=Roheline: sobivad alad hoonete ehituseks.
+panels.maplightgreen=Hele Roheline: sobiv hoone piirkond, aga ei sisalda hoone keskkohta.
+panels.mapred=Punane: ohtlikud ala(d) (laava, kaktused, jpms).
+panels.mapyellow=Kollane: ehitamine keelatud (jää, kunstlikud plokid).
+panels.maporange= Oranž: ehitamine keelatud (liiga lähedal ehitisele), kättesaamatud kohad (näiteks jõgi või kannjon vahel)
+panels.maplightblue=Hele sinine: vesi.
+panels.mapbrown=Pruun: teised valdkonnad (näiteks: antud küla mõõtmetest väljas liiga kõrge madal vm).
+panels.unreachablebuilding=kättesaamatu!
+panels.merchantlist=Kaupmeeste nimekiri
+panels.capacity=Mahtuvus
+panels.nbnightsin=Külas olnud <0> öö(d).
+panels.storedexports=<0> ladustanud sissetoodud asjadest: <1>
+panels.broughtimport=<0> ostnud külasse: <1>
+panels.startedtrading=<0> (<1>) on omaks võtnud kaupmehe karjääri.
+panels.merchantmovedout=<0> (<1>) liikunud <2> peale <3> päeva külas.
+panels.merchantarrived=<0> (<1>) saabunud <2>.
+panels.childarrived=<0> saabuud <1> ja otsib tööd.
+panels.resourcesneeded= Vajalikke ressursse projekti jaoks
+panels.resourcesavailable= Ressursid laos
+panels.villageculture=Külad <0> kultuuri
+panels.military=Sõjaline tugevus
+panels.planningraid=Plaanib rüüsteretke
+panels.raidinprogress=Rüüstamine teoksil
+panels.underattack=Rünnatakse!
+panels.offense=Ründe jõud: <0>
+panels.defense=Kaitse jõud: <0>
+panels.offenselong=Ründe jõud: <0>
+panels.defenselong=Kaitse jõud: <0>
+panels.raidinprogresslong=Hetkel rüüstab <0>. Rünne algab <1> tunni pärast.
+panels.planningraidlong=Plaanib rüüstada  <0>. Plaanimine algab <1tunni pärast.
+panels.underattacklong=Rünnaku all <0> vaenlase tugevus <1> pärit <2>!
+panels.villagefighters=Küla võitlejad
+panels.attackers=Ründajad
+panels.defender=Kaitsja
+panels.raider=Rüüstaja
+panels.health=Elu
+panels.weapons=Relvastust
+panels.armour=Rüüsid
+panels.militarystrength=Sõjaline jõud
+panels.unknownattacker=tundmatu koht
+panels.raidsperformed=Rüüsteretki teostatud
+panels.raidssuffered=Rüüstatud
+panels.nameand=<0> ja
+panels.buildingproject= Praegune projekt:
+panels.currentconstruction= Praegune ehitis:
+panels.villagesummary= Oluline teave
+
+//Goals (text displayed above the villager when he is doing it)
+goal.gorest=Puhkan
+goal.godrink=Juua tooma
+goal.gopray=Mängima
+goal.GatherGoods=Kogun asju
+goal.BringBackResourcesHome=Toon assju tagasi
+goal.GetTool=Võtan tööriista
+goal.huntMonster=Võitlen kolliga
+goal.getGoodsHousehold=Võtan kodust assju
+goal.DeliverGoodsHousehold=Viin assju koju
+goal.GetHouseTHResources=Võtan assju kodunt
+goal.DeliverResourcesShop=Toon assju
+goal.raidvillage=Sõidan külase
+goal.defendvillage=Kaitsenküla
+goal.hide=Otsin varju
+
+goal.CollectCrop=Kogun põllusaadusi
+goal.PlantSeeds=Külvan seemneid
+goal.ChopTrees=Raiun puitu
+goal.PlantSaplings=Istitan istikuid
+goal.GetResourcesForBuild=Võtan materjalid ehitusejaoks
+goal.MakeBread=Teen leiba
+goal.BeSeller=Müün mängijale
+goal.MakeCider=Teen siidrit
+goal.MakeCalva=Teen calvat
+goal.Construction=Ehitan
+goal.GoPlay=Mängin
+goal.BecomeAdult=Kolin sisse
+goal.MakeNormanTools=Teen tööriistu
+goal.MakeNormanWeapons=Teen relvi
+goal.Patrol=Patrullin
+goal.Butcher=Tapan
+goal.MakeBoudin=Teen boudini
+goal.MakeTripes=Teen tripest
+goal.Mining=Kaevan
+goal.Cooking=Kokkan
+goal.MakeBooks=Valmistan pärgamente
+goal.MakeTapestry=Valmistan seinavaipu
+goal.VisitInn=Lähen baari
+goal.VisitBuilding=Lähen poodi
+goal.MakeAmulet=Valmistan amuletti
+goal.KeepStall=Hoian müügikohta
+goal.MakeTimberFrame=Teen Puit raame
+
+goal.DryBrick=Panen telliseid kuivama
+goal.GatherBrick=Kogun kuivanud telliseid
+goal.CookBrick=Põletan kivi telliseid
+goal.PlantRice=Külvan riisi
+goal.HarvestRice=Korjan riisi
+goal.PlantTurmeric=Külvan turmerict
+goal.HarvestTurmeric=Korjan turmerict
+goal.SlaughterChicken=Tapan kana
+goal.PlantSugarCane=Istutan suhkruroogu
+goal.HarvestSugarCane=korjan suhkruroogu
+goal.MakeRasgulla=Valmistan rasgullat
+goal.Makesteelaxe=Sepistan raud kirvest
+goal.Makesteelpickaxe= Sepistan raud kirkat
+goal.Makesteelshovel= Sepistan raud labidat
+goal.Makesteelhoe= Sepistan raud kõpla
+goal.Makesteelsword= Sepistan raud mõõka
+
+goal.makesteelchest= Sepistan raud rüüd
+goal.makesteelhelmet= Sepistan raud kiivrit
+goal.makesteellegs= Sepistan raud jalgu
+goal.makesteelboots= Sepistan raud saapaid
+
+goal.makeindianstatue=Nikerdan kuju
+goal.performpujas=Ettevalmistan pujat
+goal.bepujaperformer=kättesaadaval pujas
+goal.performsacrifices=Ohverdan
+goal.besacrificeperformer=Ohverdamiseks valmis
+
+goal.PlantMaize=Istutan maisi
+goal.HarvestMaize=Koristan maisi
+goal.makemayanGoldBlock=Nikerdan kuld ornamenti
+goal.makemayanstatue=Nikerdan kuju
+goal.Makestoneaxe=Valmistan kivi kirvest
+goal.Makestonepickaxe= Valmistan kivi kirkat
+goal.Makestoneshovel= Valmistan kivi labidat
+goal.Makestonehoe= Valmistan kivi kõpla
+goal.Makestonesword= Valmistan kivi mõõka
+goal.makeleatherboots=Valmistan nahast saapaid
+goal.makeleatherchest= Valmistan nahast kehakaitset
+goal.makeleatherhelmet= Valmistan nahast kiivrit
+goal.makeleatherlegs= Valmistan nahast jalgu
+goal.makemayanaxe=Valmistan obsidianist kirvest
+goal.makemayanpickaxe= Valmistan obsidianist kirkat
+goal.makemayanshovel= Valmistan obsidianist labidat
+goal.makemayanhoe= Valmistan obsidianist kõblast
+goal.makemayanmace= Valmistan obsidianist nuia
+goal.makeobsidianflake=Purustan obsidiani toorikuteks
+goal.harvestcocoa=Korjan cocoat
+goal.plantcocoa=Istutan cocoat
+goal.makecacauhaa=Valmistan cacauhaat
+
+goal.fish=Püüan kala
+goal.makethatch=Teen õle plokke
+goal.makepaper=Valmistan pabarit
+goal.makepaperrice= Valmistan pabarit
+goal.makepaperwoodpulp= Valmistan pabarit
+goal.makepaperwall= Valmistan paberist seinu
+goal.cookfish=Küpsetan kala
+goal.cooksteak=Küpsetan liha
+goal.cooklamb=Küpsetan lambaliha
+goal.cookpork=Küpsetan porkchopse
+goal.cookchicken=Küpsetan kana
+goal.makeudon=Valmistan udonit
+goal.maketachi=Valmistan samurai mõõka
+goal.makejapaneseweapons=Valmistan Japanlaste armente
+goal.makesake=Kääritan saket
+goal.slaughtersquid=Püüan kalmaari
+
+goal.brewpotions=Villin võlujooke
+goal.harvestwarts=Koristan tüükaid
+goal.makeglassbottles=Valmistan klaaspudeleid
+goal.plantwarts=Istutan tüükaid
+
+goal.plantvines=Istutan viinamarja istikuid
+goal.harvestvines=Korjan viinamarju
+goal.gathersilk=Gathering silk
+goal.makeicon=Värvin ikoone
+goal.makewine=Villin veini
+goal.makebookshelves=Valmistan raamaturiiuleid
+goal.makebyzantinetiles=Valmistan plaate
+goal.makebrick=Valmistan kive
+goal.training=Treenin
+goal.paintpainting=Värvin raame
+goal.makebook=Kirjutan raamatut
+goal.makebyzantinemace=Valmistan Bütsantsi nuia
+goal.makebyzantinechest= Valmistan Bütsantsi kehakaitset
+goal.makebyzantinelegs= Valmistan Bütsantsi jalgu
+goal.makebyzantinehelmet= Valmistan Bütsantsi kiivrit
+goal.makebyzantineboots= Valmistan Bütsantsi saapaid
+
+goal.makebow=Valmistan vibu
+goal.makerottenflesh=valmistan riknenud liha
+goal.makearrow=Valmistan nooli
+
+goal.sleep=Magan
+goal.sleep_travelling=Lähen magama
+
+
+goal.makeclothes_byz_wool=Kudun riideid
+goal.makemasa=Teen masat
+goal.slaughterpig=Tapan siga
+goal.makesouvlaki=Valmistan souvlakit
+goal.makewah=Valmistan wah
+goal.makecurry=Teen a vegetarian karrit
+goal.makeclothes_byz_silk=Valmistan siidi riiet
+goal.slaughtersheep=Tapan lammsat
+goal.slaughtercow=Tapan lehma
+goal.breed=Aretanloomi
+goal.shearsheep=Pügan lammsat
+goal.makemurgh=Valmistan kana karrit
+goal.getitemtokeep=Võtan asju
+
+goal.buildpath=Ehitan teed
+goal.clearoldpath=lammutan vana teed
+
+goal.gosocialise=Lähen vestlema
+goal.chat=Vestlen
+
+goal.makedirtwall=Valmistan muda plokke
+goal.makepath=Valmistan tee plaate
+
+//other
+other.west=Läänes (W)
+other.east=Idas (E)
+other.north=Põhjas (N)
+other.north-east=Kirdes (NE)
+other.north-west=Loodes (NW)
+other.south=Lõunas (S)
+other.south-east=Kagus (SE)
+other.south-west=Edelas (SW)
+
+other.tothewest=Läänes (W)
+other.totheeast=Idas (E)
+other.tothenorth=Põhjas (N)
+other.tothenorth-east=Kirdes (NE)
+other.tothenorth-west=Loodes (NW)
+other.tothesouth=Lõunas (S)
+other.tothesouth-east=Kagus (SE)
+other.tothesouth-west=Edelas (SW)
+
+other.west_short=W
+other.east_short=E
+other.north_short=N
+other.south_short=S
+other.shortdistancedirection=<0>m <1>
+
+other.metre=meetrit
+other.kilometre=kilomeetrit
+other.andhalf=ja pool
+
+other.directionshort=<1> <0>
+other.exploredbuilding=Oled avastanud ehitise: <0>.
+
+other.malevillager=Millénaire mees külaelanik
+other.femalevillager=Millénaire nais külaelanik
+
+other.buildinghealing=<0> ravib sind.
+
+
+other.localmerchantinteract=See kaupmees on kohalik. Ta veab kaupa külast külla. Sa ei saa temaga suhelda.
+
+other.chattosomeone=<0> räägib <1> -ga
+
+hire.health=Elu
+hire.strength=Jõud
+hire.cost=Maksab (iga päev)
+hire.aggressive=Agressiivne seisund
+hire.passive=Passiivne seisund
+hire.timeleft=Palgatud <0> tunniks
+hire.hiredvillager=Külaelanik on palgatud. Ta püsib sinu alluvuses <0> või rohkem tunde või kui ta sureb ja tekkib uuesti külas.<ret><ret>Vajuta '<1>' et panna teda agresiivssese olekusse või vasak shift-'<1>' et panna teda passiivsesse olekusse.
+hire.hireablevillager=Saad palgata seda külaelanikku. Ta järgneb sulle nii kaua kui ta palkanine aegub või ta sureb. Ta ründab olevusi kes sind ründavad või eel-kõike ründab naabruses olevaid kolle ja vaenulikke külaelanikke kui ta on agresiivses olekus.
+hire.hireablevillagernoreputation=Sul peab olema vähemalt "Lemmik kaupleja" maine selles külas, et palgata see külaelanik.
+hire.extend=Pikenda
+hire.release=Lase vabaks
+hire.close=Sule
+hire.hire=Palka
+hire.hireover=Palkamine <0> on lõppenud. Ta pöördub tagasi külase.
+hire.hiredied=<0> suri. Ta tekkib uuesti külla, ning tema palkamine on tühistatud.
+hire.hiredbyotherplayer=<0> on juba palgatud <1> poolt.
+hire.hiredby=Palgatud <0>
+
+actions.forest_success=Oled edukalt läbi uurinud metsa.
+actions.forest_continue= Oled avastanud <0>% metsast.
+
+actions.desert_success=Oled edukalt läbi uurinud kõrbe.
+actions.desert_continue=Oled avastanud  <0>% kõrbest.
+
+actions.mountain_success= Oled edukalt läbi uurinud mäed.
+actions.mountain_continue= Oled avastanud  <0>% mägedest.
+
+actions.underwaterglass_success= Sa oled edukalt ehitatud süvamere vaateakna.
+actions.underwaterglass_notdeepenough= Meri ei ole piisavalt sügav selles punktis.
+
+actions.underwaterdive_success= Sa oled edukalt sukeldunud sügavale ookeani.
+
+actions.bottomoftheworld_success= Tundub, et saad kaevata kaugemale maaalla. See peab olema maailma juur!
+
+actions.topoftheworld_success= Tundub,et sa ei saa tõusta edasisi. Kindlasti on see tpp.
+
+actions.borehole_nblineok=<0> aluspõhja plokid edukalt avatud taeva laotusele. Sa vajad 25 -te 5x5 ruutu.
+actions.borehole_success= Sul on õnnestunud kaevata puurauk!
+
+actions.boreholetnt_success=Piisavalt Dünamiiti on paigaldatud. Võid õhkulasta.
+actions.boreholetnt_nbtnt=<0> Dünamiidi plokid on asetatud ja kaetud obsidianiga. Sa vajad 20 tk.
+
+actions.boreholetntlit_success=Sa süütasid dünamiidi. Jälgi tulemust ja teata sellest Alkeemikut.
+
+actions.thevoid_success=Oled piilinud Voidi!
+
+actions.enchantmenttable_success=Oled ehitanud loitsumis laua  Sadhu lähedale.
+
+actions.mayan_siege_start=Püramiidi rünnatakse! <0> ghastsi, <1> blazest and <2> skeletti ründavad. HÄVITA nad.
+actions.mayan_siege_success= Sa oled alistanud väed kes ründasid püramiidi!
+actions.mayan_siege_update=<0> ghast(i), <1> blaze(t) and <2> skelett(i) on veel jäänud.
+
+info.culturetitle=Kultuurid
+info.culture=<0> Kultuur
+info.culturereputation=Maine: <0>
+info.culturelanguage=Keele tase: <0>
+
+culturereputation.scourgeofgod=Nuhtluse jumal
+culturereputation.dreadful=Kohutav
+culturereputation.bad=Halb
+culturereputation.stellar=Stelaarne
+culturereputation.excellent=Suurepärane
+culturereputation.good=Hea
+culturereputation.decent=Rahuldav
+culturereputation.neutral=Erapooletu
+
+culturelanguage.fluent=Ladus
+culturelanguage.moderate=Arusaadav
+culturelanguage.beginner=Algaja
+culturelanguage.minimal=Minimaalne
+
+
+weapon.criticalstrike=Kriitiline löök! <0>x vigastus!
+
+negationwand.villagelocked= <0> on ikka veel lukus. Sa pead kõik täiskasvanud mehed tapma, enne kui sa saad seda hävitada.
+negationwand.confirmmessage=Oled kindel et soovid hävitada <0>? Kui soovid siis hooned jäävad aga külaelanikud kaovad jäädavalt.
+negationwand.confirm=Kinnita
+negationwand.cancel=Tühista
+negationwand.destroyed=<0> on hävitatud! Need hooned on nüüd tühjad tondilossid ja ja ükski talunik ei tule tagasi.
+
+relation.excellent=Suure pärased
+relation.verygood=Väga Head
+relation.good=Head
+relation.decent=Rahuldavad
+relation.fair=Talutavad
+
+relation.openconflict=Täielikus Konfliktis
+relation.atrocious=Konfliktsed
+relation.verybad=Väga Halvad
+relation.bad=Halvad
+relation.chilly=Jahedad
+
+relation.neutral=Erapooletud
+
+raid.planningstarted=<0> on hakanud plaanima  rüüsteretke <1>.
+raid.started=<0> on alustanud rüüstamist <1> -le! <2> rüüstaja(t) on liitunud rüüsteretkega.
+raid.raidsuccesfull=<0> on rüüstanud <1> -si, varastades <2> asija!
+raid.raidfailed=<1> on edukalt tagasilöönud rüüstajad <0> -st.
+raid.nothing=Mitte-midagi
+raid.historysuccess=Edukalt rüüstanud <0>. Pea-raha: <1>
+raid.historyraided=Rüüstatud <0> poolt. Pea-raha: <1>
+raid.historyfailure=Rüüsteretk <0> kukkus läbi.
+raid.historydefended=Edukalt tagasi löödud rüüsteretk <0> poolt.
+
+hof.hof=Kuulsuste Hall
+hof.modcreator=Moodi Looja
+hof.creatorofmayan1=Looja
+hof.creatorofmayan2=Maiade kultuur
+hof.creatorofjapanese1=Looja
+hof.creatorofjapanese2=Jaapanlaste kultuur
+hof.creatorofbyzantine1=Looja
+hof.creatorofbyzantine2=Bütsantsi kultuur
+hof.creatorofindianskins1=Looja
+hof.creatorofindianskins2=Hindide välimus
+
+hof.skinmaker=Välimuse andja
+hof.buildingmaker=Ehitiste looja
+hof.wikiadmin=Wiki administraator
+hof.armouricons=Armori ikoonid
+hof.normanarmour1=Normannide rüüd
+hof.normanarmour2=graafika
+hof.support1=Abi
+hof.support2=foorum
+hof.frenchversion1=Abi
+hof.frenchversion2=Prantsuse versioon
+hof.wikicontributions=Wiki panus
+hof.improvementsjapanese1=Muudatused
+hof.improvementsjapanese2=Jaapanlaste külad
+hof.lonebuildings=Üksikud ehitised
+hof.obsidiantools1=Obsidiani tööriistad
+hof.obsidiantools2=ikoonid
+hof.forgecode1=Originaal kood
+hof.forgecode2=Forge Sprite API
+hof.btw=(BTW creator)
+hof.forgehelp1=Abi sai
+hof.forgehelp2=Forge Sprite API
+hof.hofidea1=Kuulsuste Hall
+hof.hofidea2=idee
+hof.donor=Doonor
+hof.variousimprovements1=Various
+hof.variousimprovements2=Parandused
+
+pujas.invanme=Pujas
+pujas.panditfee=Pandiitide vaba
+pujas.offering=Pakkuma
+pujas.god0=Hanumanile - kiiruse
+pujas.god1=Shivanile - jõu
+pujas.god2=Lakshmile - õnne
+pujas.god3=Ganeshle - oskuse
+pujas.priestcoming=<0>: Sa vajad puja esitamist? Teie pühendumus on imetlusväärne!
+pujas.offeringslot=Pane ohverdus Jumalatele.
+pujas.offeringslot2= Nad ei võta vastu kõike. Katseta.
+pujas.moneyslot=Pane raha pandiidile.
+pujas.toolslot=Pane tööriist olla loitsutud.
+
+
+culture.norman=Normannid
+culture.indian=Hindid
+culture.japanese=Jaapanlased
+culture.mayan=Maiad
+culture.byzantines=Bützantsid

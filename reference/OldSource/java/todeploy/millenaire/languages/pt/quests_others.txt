@@ -1,0 +1,217 @@
+//normanbasic:
+
+guardwife_0_label=O Almoço do Marido
+guardwife_0_description=O meu marido $guard_villagername$, o guarda, está esfomeado, e eu esqueci-me de lhe dar o seu almoço! Acha que pode levar-lhe este boudin?
+guardwife_0_description_success=Obrigado, foi muito gentil da sua parte.
+guardwife_0_description_refuse=Você não é muito amigável.
+guardwife_1_label=Tenho Fome!
+guardwife_1_description=A minha mulher esqueceu-se outra vez do meu almoço. Mulheres!
+guardwife_1_description_success=Quer uma trinca do boudin?
+guardwife_1_description_refuse=Não se pode confiar num estranho.
+guardwife_1_description_timeup=Não entregou o almoço a tempo. $startvillager_villagername$ não ficou nada satisfeita.
+guardwife_1_listing=Tenho de entregar o almoço ao guarda $guard_villagername$ na aldeia de $guard_villagename$.
+
+lumbermancider_0_label=Tenho Sede!
+lumbermancider_0_description=Cortar tanta lenha é uma tarefa muito árdua... Se ao menos tivesse uma garrafa de sidra!
+lumbermancider_0_description_success=Ah, era mesmo disso que eu precisava! Muito agradecido, caro amigo!
+lumbermancider_0_description_refuse=Não conte comigo da próxima vez que precisar de lenha!
+
+lonelumbermancalva_0_label=O meu Reino por Calva
+lonelumbermancalva_0_description=Faz um frio terrível nesta floresta sinistra e eu nem consigo encontrar maçãs para fazer calva! Daria tudo por umas míseras garrafas!
+lonelumbermancalva_0_description_success=Incrível! Brindemos para celebrar!
+lonelumbermancalva_0_description_refuse=Uma visita por ano é o que eu tenho, e nem uma mísera garrafa tem consigo.
+
+loneminerfood_0_label=Preciso de uma Refeição a Sério
+loneminerfood_0_description=Passam-se meses sem que eu coma uma refeição decente, uma refeição a sério. Detesto passar o tempo aqui a escavar e não comer senão pão seco!
+loneminerfood_0_description_success=Essa sim foi uma refeição Normanda a sério!
+loneminerfood_0_description_refuse=Bem, parece que vou ter de continuar a comer pão seco.
+
+knightstonedelivery_0_label=Precisa-se de Pedra
+knightstonedelivery_0_description=$name, preciso de pedra para defender a aldeia de $startvillager_villagename$! $miner_villagername$, que trabalha nas colinas uns $miner_distance$ em direcção a $miner_direction$, prometeu-me vastas quantidades mas nunca cheguei a recebê-las. Seria possível verificar esta situação por mim?
+knightstonedelivery_0_description_success=Faça boa viagem!
+knightstonedelivery_0_description_refuse=Vou ter de enviar um dos meus homens, então.
+knightstonedelivery_1_label=Recolha de Pedra
+knightstonedelivery_1_description=Ah, sim, a pedra para a aldeia de $startvillager_villagename$! Ia agora mesmo enviá-la. Espero que tenha espaço suficiente, tenho aqui quatro pilhas completas.
+knightstonedelivery_1_description_success=Bom, vou continuar a escavar pedra.
+knightstonedelivery_1_description_refuse=Para quê vir de tão longe só para dizer isso?
+knightstonedelivery_1_description_timeup=Não localizou $miner_villagername$ a tempo.
+knightstonedelivery_1_listing=Tenho de encontrar o mineiro $miner_villagername$, que vive a $startvillager_miner_distanceshort$ a $startvillager_miner_direction$ de $startvillager_villagename$, para saber como vai a pedra para $startvillager_villagername$.
+knightstonedelivery_2_label=Entrega de Pedra
+knightstonedelivery_2_description=Trouxe a pedra? Perfeito! O seu serviço à coroa Normanda não será esquecido.
+knightstonedelivery_2_description_success=Muito agradecido.
+knightstonedelivery_2_description_refuse=Traição! Dê graças aos céus por ainda estar vivo neste preciso momento.
+knightstonedelivery_2_description_timeup=Não entregou a pedra a $startvillager_villagername$ a tempo.
+knightstonedelivery_2_listing=Preciso de regressar a $startvillager_villagename$ com a pedra para $startvillager_villagername$.
+
+abbotbooksdelivery_0_label=Pesquisa Documental
+abbotbooksdelivery_0_description=Meu filho $name, é bom vê-lo por aqui. Necessito urgentemente de uns documentos raros para a minha pesquisa, que estão guardados no mosteiro longínquo de $loneabbot_villagename$. Poderia fazer um enorme favor a um homem cansado e pedi-los ao meu velho amigo abade $loneabbot_villagername$? Eu dou-lhe uma carta da minha parte. Pode encontrar o mosteiro talvez a uns $loneabbot_distance$ em direcção a $loneabbot_direction$.
+abbotbooksdelivery_0_description_success=Que Deus o acompanhe na sua viagem.
+abbotbooksdelivery_0_description_refuse=Os jovens de hoje em dia são tão pouco prestáveis.
+abbotbooksdelivery_1_label=Entrega da Carta
+abbotbooksdelivery_1_description=Uma carta do meu amigo padre $startvillager_villagername$? Excelente! Claro que sim, posso perfeitamente ceder-lhe estes livros. Dê-lhe os meus melhores cumprimentos por mim, meu filho.
+abbotbooksdelivery_1_description_success=Faça uma viagem segura, meu filho.
+abbotbooksdelivery_1_description_refuse=Deus terá de encontrar outra maneira, então.
+abbotbooksdelivery_1_description_timeup=Não entregou a carta a $loneabbot_villagername$ a tempo.
+abbotbooksdelivery_1_listing=Tenho de entregar a carta de $startvillager_villagername$ ao abade $loneabbot_villagername$. A sua abadia fica a $startvillager_loneabbot_distanceshort$ a $startvillager_loneabbot_direction$ de $startvillager_villagename$.
+abbotbooksdelivery_2_label=Entrega dos Livros
+abbotbooksdelivery_2_description=Os meus livros! Foi rápido, meu filho! A sua verdadeira recompensa ser-lhe-á concedida no além, mas por agora aceite este pequeno presente de agradecimento.
+abbotbooksdelivery_2_description_success=Ide em paz.
+abbotbooksdelivery_2_description_refuse=Para quê percorrer todo este caminho para me insultar, meu filho?
+abbotbooksdelivery_2_description_timeup=Não entregou os livros a $startvillager_villagername$ a tempo.
+abbotbooksdelivery_2_listing=Preciso de entregar os livros de $loneabbot_villagename$ ao abade $startvillager_villagername$ da aldeia de $startvillager_villagername$.
+
+//hindibasic:
+
+rajadiamondsword_0_label=Missão Confidencial
+rajadiamondsword_0_description=Saudações, $name. Tem demonstrado ser um amigo de $startvillager_villagename$, e eu necessito urgentemente de alguém de confiança para uma missão especial. O general $general_villagername$ tem mostrado ser um soldado competente e leal, e está na altura de o recompensar. Seria possível levar-lhe esta preciosa espada de diamante até à sua fortaleza de $general_villagename$, a $general_distance$ a $general_direction$ daqui?
+rajadiamondsword_0_description_success=Proteja esta espada com a sua vida!
+rajadiamondsword_0_description_refuse=Não nos esqueceremos disto.
+rajadiamondsword_1_label=Entrega da Espada
+rajadiamondsword_1_description=Para que é que veio até nós, forasteiro?
+rajadiamondsword_1_description_success=A Sua Majestade $startvillager_villagername$ honra-me! Ele é um grande líder. Tem a minha gratidão, e a dele.
+rajadiamondsword_1_description_refuse=Ladrão sem honra!
+rajadiamondsword_1_description_timeup=Não entregou a espada ao general $general_villagername$ a tempo. O rei e ele estão furiosos consigo.
+rajadiamondsword_1_listing=Preciso de entregar a espada de diamante ao general $general_villagername$ no seu forte em $general_villagename$.
+
+adivasifarmdelivery_0_label=Entrega Necessária
+adivasifarmdelivery_0_description=Apenas temos por cá o arroz e o açafrão que produzimos, é uma vida árdua... Poderia ajudar o nosso pobre povo? Um agricultor na aldeia de $peasant_villagername$ está disposto a trocar alguns dos nossos produtos por carne e rasgullā. Se pudesse levar estes bens até à aldeia de $peasant_villagename$, ficar-lhe-íamos imensamente gratos. Encontrará a aldeia a uns $peasant_distance$ a $peasant_direction$ daqui.
+adivasifarmdelivery_0_description_success=Agradecido, meu amigo.
+adivasifarmdelivery_0_description_refuse=Ninguém ajuda os pobres...
+adivasifarmdelivery_1_label=Entrega de Bens
+adivasifarmdelivery_1_description=Ah, vem da aldeia de $startvillager_villagername$? Sim, tenho aqui alguns bens para ele. Vou buscá-los, só um momento.
+adivasifarmdelivery_1_description_success=Não se esqueça: a quinta encontra-se a $startvillager_distanceshort$ para $startvillager_direction$.
+adivasifarmdelivery_1_description_refuse=Bem, azar para ele, então.
+adivasifarmdelivery_1_description_timeup=Não entregou os bens a $peasant_villagername$ a tempo.
+adivasifarmdelivery_1_listing=Preciso de ir até $peasant_villagename$ entregar os bens da quinta Adivasi a $peasant_villagername$.
+adivasifarmdelivery_2_label=Entrega dos Materiais
+adivasifarmdelivery_2_description=Agradecido, $name! Esses bens são bastante bem-vindos! Espero que $peasant_villagername$ o tenha recebido bem?
+adivasifarmdelivery_2_description_success=Que a Deusa o abençoe.
+adivasifarmdelivery_2_description_refuse=Roubar de um povo pobre não é um feito nada glorioso.
+adivasifarmdelivery_2_description_timeup=Não entregou os bens a $startvillager_villagername a tempo.
+adivasifarmdelivery_2_listing=Preciso de entregar os materiais de $peasant_villagename$ até à quinta de $startvillager_villagername$, $peasant_startvillager_direction$ a $peasant_startvillager_distance$ de $peasant_villagename$.
+
+traderdiamonds_0_label=Entrega de Jóias
+traderdiamonds_0_description=Saudações, $name. Ouvi dizer que é de confiança e um amigo de nós Hindus, e tenho neste momento uma entrega importante a realizar. A bela rainha $rani_villagername$ de $rani_villagename$ encomendou-me pedras preciosas para fabricar algumas jóias. Poderia entregar-lhe as pedras no seu palácio? Fica a $rani_distance$ a $rani_direction$ daqui. Pode ficar com duas das jóias como recompensa.
+traderdiamonds_0_description_success=Tenha cuidado com esses diamantes! Não quero que os roubem.
+traderdiamonds_0_description_refuse=Demasiado perigoso para si, creio?
+traderdiamonds_1_label=Entrega dos Diamantes
+traderdiamonds_1_description=Finalmente, estava a ficar impaciente. $startvillager_villagername$ não iria querer ver-me irritada.
+traderdiamonds_1_description_success=Irei então experimentá-los!
+traderdiamonds_1_description_refuse=Você acabará esmagado por um dos elefantes do rei!
+traderdiamonds_1_description_timeup=Não entregou os diamantes à rainha $rani_villagername$ a tempo. A sua reputação com a cultura Hindu diminiu consideravelmente.
+traderdiamonds_1_listing=Preciso de entregar os diamantes do comerciante $startvillager_villagername$ à rainha $rani_villagername$ de $rani_villagename$.
+
+//mystery basic:
+
+normanrasgullas_0_label=Criança Doente
+normanrasgullas_0_description=O meu filho $child_villagername$ tem estado pálido ultimamente. Ele já nem boudin ou tripes consegue comer, só em doses pequenas! O que é que acha que eu lhe deveria dar? Você tem cara de quem já viu de tudo nas suas viagens.
+normanrasgullas_0_description_success=Esse doce é delicioso! Acho que vou comê-lo eu.
+normanrasgullas_0_description_refuse=Tentarei calva, então. Depois disso tudo costuma melhorar.
+
+mayanlumbermanaxe_0_label=Lenhador Frustrado
+mayanlumbermanaxe_0_description=Este machado é inútil. Não haverá nenhum artesão capaz de produzir um machado realmente bom? Eu seria muito mais produtivo com ferramentas melhores!
+mayanlumbermanaxe_0_description_success=Esse machado parece ser mágico! Foram os Deuses que o fizeram?
+mayanlumbermanaxe_0_description_refuse=De volta ao trabalho, então.
+
+
+
+losttapestry_0_label=Tapeçaria Perdida
+losttapestry_0_description=Olá $name! Encontrei esta tapeçaria perdida no campo. Acha que consegue encontrar o seu dono?
+losttapestry_0_description_success=Obrigado $name!
+losttapestry_0_description_refuse=Você é horrível! Vou dizer à minha mãe!
+losttapestry_1_label=Tapeçaria Desaparecida
+losttapestry_1_description=Perdi a minha tapeçaria! Alguém a viu?
+losttapestry_1_description_success=Obrigado por encontrá-la.
+losttapestry_1_description_refuse=Está a esconder algo, eu pressinto-o.
+losttapestry_1_listing=Tenho de encontrar o dono da tapeçaria.
+
+spiders_0_label=Amigo Desaparecido
+spiders_0_description=Um amigo meu chamado $miner_villagername$ costuma visitar-me todos os dias à mesma hora. O que é estranho é que ele hoje não apareceu - está várias horas atrasado, até. Tenho de admitir que estou um pouco preocupado, $name. $miner_villagername$ passa a maior parte do seu tempo lá na pedreira, e de certeza que sabe o quão perigoso aquilo é. Se passar por lá, era capaz de ver se está tudo bem?
+spiders_0_description_success=Obrigado, meu amigo!
+spiders_0_description_refuse=De certeza que ele aparecerá algures.
+spiders_1_label=Ainda Bem que me Encontrou
+spiders_1_description=Ughhh... Fui mordido por uma aranha enquanto explorava a gruta aqui perto. Tenho a certeza de que fui seriamente envenenado; tem de me ajudar. Por favor, fale com $wife_villagername$. Ela será capaz de me ajudar.
+spiders_1_description_success=Depressa... Estou-me a sentir tonto...
+spiders_1_description_refuse=Não me deixe aqui desamparado! Ughhh...
+spiders_1_listing=Preciso de encontrar $miner_villagername$ na pedreira.
+spiders_2_label=Produzir o Antídoto
+spiders_2_description=Não há tempo a perder para podermos salvar o meu marido! Eu sei de um remédio que o curará do veneno. Mas preciso de alguns ingredientes antes de poder fabricá-lo. Vou precisar de dois cogumelos castanhos, dois vermelhos e alguma tinta de lula.
+spiders_2_description_success=Seja breve, $name.
+spiders_2_description_refuse=Tudo bem, eu própria o farei!
+spiders_2_listing=Preciso de falar com $wife_villagername$ e pedir um antídoto.
+spiders_3_label=O Antídoto de $miner_villagername$
+spiders_3_description=Preciso de levar o antídoto de $wife_villagername$ até $miner_villagername$ antes de o tempo terminar.
+spiders_3_description_success=Oh, eu sabia que $wife_villagername$ poderia ajudar-me! <$miner_villagername$ bebe o antídoto.> Estou sempre a meter-me em sarilhos e $wife_villagername$, bom, ela ajuda-me sempre que necessito.
+spiders_3_description_refuse=Quer que eu morra?
+spiders_3_description_timeup=Não levou o antídoto de $miner_villagername$ até $miner_villagername$ a tempo.
+spiders_3_listing=Preciso de entregar o antídoto de $miner_villagername$ até $miner_villagername$.
+
+findtheegg_0_label=Encontrar os Ovos
+findtheegg_0_description=Há demasiadas galinhas por aqui! Para que elas parem de se reproduzir, temos de apanhar os ovos delas... Pode ajudar-me?
+findtheegg_0_description_success=Muito bem, $name. Vou levar este ovo até casa na esperança de que ele se abra lá. Por favor, aceite isto como símbolo da minha gratidão.
+findtheegg_0_description_refuse=Volte cá quando tiver mais ovos para mim!
+
+feathercrafter_0_label=Mais Penas
+feathercrafter_0_description=A minha mulher faz almofadas para nós. Para o fazer, ela precisa de muitas e muitas penas. Tem algumas que nos possa dar?
+feathercrafter_0_description_success=Muito bem, $name. Vou dá-las à minha esposa. Fico-lhe muito agradecido.
+feathercrafter_0_description_refuse=De volta ao trabalho, então.
+
+watersample_0_label=Relatos Estranhos
+watersample_0_description=A minha mulher ouviu os aldeões comentarem que a água do poço está a deixar as nossas crianças doentes. Leve este balde e traga-me uma amostra da água até mim.
+watersample_0_description_success=Depressa... antes que as outras crianças fiquem doentes.
+watersample_0_description_refuse=Tenho de o avisar, a próxima coisa que lhe pedir será bastante perigosa.
+watersample_1_label=Amostra de Água
+watersample_1_description=Trouxe-me a amostra de água?
+watersample_1_description_success=Obrigado! Isto ajudar-me-á a descobrir a causa dos nossos problemas.
+watersample_1_description_refuse=Tenho de o avisar, da próxima vez que precisar de algo, vai custar-lhe caro, $name!
+watersample_1_description_timeup=Não levou a amostra de água até $startvillager_villagername$ a tempo.
+watersample_1_listing=Preciso de entregar uma amostra de água a $startvillager_villagername$ em $startvillager_villagename$.
+
+lordssword_0_label=Espada Quebrada
+lordssword_0_description=O meu marido, $knight_villagername$, quebrou outra vez a sua espada! Seria possível levar-lhe esta nova?
+lordssword_0_description_success=Muito obrigado, meu bom homem!
+lordssword_0_description_refuse=Você não é muito prestável.
+lordssword_1_label=Espada Perdida
+lordssword_1_description=A minha esposa $startvillager_villagename$ tem uma espada para mim. Tem-na consigo?
+lordssword_1_description_success=Obrigado, salvou o dia novamente.
+lordssword_1_description_refuse=Como é que espera que eu o ajude a lutar se não tiver uma espada?
+lordssword_1_description_timeup=Não entregou a espada a $knight_villagername$ a tempo. Os aldeões jamais se esquecerão.
+lordssword_1_listing=$startvillager_villagername$ em $startvillager_villagename$ quer que lhe leve uma espada nova.
+
+sweettrader_0_label=Aniversário da Prima
+sweettrader_0_description=Hoje é o aniversário da minha prima $girl_villagername$. Poderia levar-lhe este bolo, por favor?
+sweettrader_0_description_success=Obrigado pela sua ajuda.
+sweettrader_0_description_refuse=Isso não foi nada simpático da sua parte!
+sweettrader_1_label=Entrega do Bolo
+sweettrader_1_description=Ninguém vai celebrar o meu aniversário...
+sweettrader_1_description_success=Obrigado! Obrigado! Obrigado!
+sweettrader_1_description_refuse=Ninguém gosta de mim.
+sweettrader_1_listing=Preciso de entregar o bolo a $girl_villagername$ em $startvillager_villagename$ para o seu aniversário.
+
+fishingfrenzy_0_label=Loucura da Pesca
+fishingfrenzy_0_description=Olá, o meu nome é $startvillager_villagername$. A pesca aqui é uma tarefa árdua e eu não sei se vou conseguir atingir o meu objectivo para hoje. Acha que poderia ajudar-me?
+fishingfrenzy_0_description_success=Obrigado, quatro peixes crus serão suficientes. Devolva-os à minha esposa, ela dar-lhe-á a sua recompensa.
+fishingfrenzy_0_description_refuse=Eu compreendo, estamos todos muito ocupados hoje em dia.
+fishingfrenzy_1_label=Loucura da Pesca
+fishingfrenzy_1_description=Ah, deve ser o viajante de que $startvillager_villagername$ me falou. Já apanhou o peixe?
+fishingfrenzy_1_description_success=Fantástico, estes peixes parecem ser deliciosos. O resto da aldeia ficar-lhe-á imensamente grato também.
+fishingfrenzy_1_description_refuse=Não é um pescador habilidoso? Enfim, não faz mal, pode ser que seja útil para outra coisa qualquer.
+fishingfrenzy_1_description_timeup=Não apanhou o peixe a tempo. Os aldeões de $startvillager_villagename$ não se esquecerão.
+fishingfrenzy_1_listing=Preciso de apanhar quatro peixes cru e entregá-los a $wife_villagername$.
+
+
+architectwife_0_label=Almoço do Marido
+architectwife_0_description=O meu marido $architect_villagername$, o arquitecto, deve estar esfomeado e eu esqueci-me de lhe fazer o almoço! Poderia levar-lhe este peixe?
+architectwife_0_description_success=Muito obrigado!
+architectwife_0_description_refuse=Você não é muito prestável, realmente.
+architectwife_1_label=Esfomeado!
+architectwife_1_description=A minha mulher esqueceu-se do meu almoço outra vez! Mulheres!
+architectwife_1_description_success=Isso foi bastante gentil da sua parte.
+architectwife_1_description_refuse=Nunca confie num estranho.
+architectwife_1_description_timeup=Não entregou o almoço a tempo. Os aldeões de $architect_villagename$ não se esquecerão.
+architectwife_1_listing=Preciso de entregar o almoço a $architect_villagername$ na aldeia de $architect_villagename$.
+
+lumbermanwine_0_label=Que sede!
+lumbermanwine_0_description=Cortar lenha é trabalho pesado... Se ao menos alguém me pudesse trazer uma garrafinha de vinho!
+lumbermanwine_0_description_success=Estava mesmo a precisar disso! Muitíssimo obrigado, meu caro!
+lumbermanwine_0_description_refuse=Não conte comigo da próxima vez que precisar de lenha!

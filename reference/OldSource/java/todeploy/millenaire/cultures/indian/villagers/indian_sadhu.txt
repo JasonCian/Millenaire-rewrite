@@ -1,0 +1,17 @@
+native_name=Sadhu
+gender=male
+familyNameList=sadhu_first
+firstNameList=sadhu_last
+tag=religious
+icon=vishnu_amulet
+
+travelbook_held_item=vishnu_amulet
+
+texture=textures/entity/indian/ML_sadhu.png
+
+goal=gorest
+goal=gopray
+
+
+experiencegiven=2
+tag=helpInAttacks

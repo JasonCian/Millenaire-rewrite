@@ -1,0 +1,1 @@
+native:Elevage Ovin;gameNameKey:sheepfarm_A0;male:shepherd;female:shepherdF;moveinpriority:10;shop:sheepchickenfarm;tag:sheeps;chest:1-5;craft:1;sign:1;spawn:2-4;spawnType:Sheep;radius:10

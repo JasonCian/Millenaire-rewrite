@@ -1,0 +1,10 @@
+name=Yıkık Hamam
+weight=5
+radius=5
+
+biome=Desert
+biome=Desert M
+
+
+//starting buildings=
+centre=bath_abandoned

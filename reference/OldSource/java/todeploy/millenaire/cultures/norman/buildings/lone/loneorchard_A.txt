@@ -1,0 +1,12 @@
+building.length=10
+building.width=12
+building.max=0
+building.icon=sapling_appletree
+
+initial.startlevel=-1
+initial.nativename=Verger Isolé
+initial.pathwidth=1
+initial.priority=100
+initial.tag=lumbermanorchard
+initial.tag=cider
+initial.shop=loneorchard

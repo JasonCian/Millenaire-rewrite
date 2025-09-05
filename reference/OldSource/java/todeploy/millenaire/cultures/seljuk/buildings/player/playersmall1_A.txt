@@ -1,0 +1,14 @@
+building.length=9
+building.width=12
+
+building.icon=fence_oak
+
+building.max=0
+building.reputation=2048
+building.price=128
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Küçük Alan
+initial.priority=1000000

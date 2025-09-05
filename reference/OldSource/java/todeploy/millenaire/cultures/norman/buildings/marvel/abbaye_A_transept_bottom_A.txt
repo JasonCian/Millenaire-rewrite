@@ -1,0 +1,45 @@
+//Parameters for the building as a whole
+building.length=48
+building.width=112
+building.buildingorientation=3
+building.issubbuilding=true
+building.parentbuildingplan=abbaye_A0
+building.max=0
+building.icon=chiseledstonebrick
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Transept nord
+initial.priority=650
+initial.tag=scaffoldings
+
+//Parameters for specific upgrades
+upgrade1.priority=600
+upgrade1.parenttag=13
+
+upgrade2.priority=550
+
+upgrade3.priority=500
+upgrade3.tag=patrol
+upgrade3.parenttag=33
+upgrade3.requiredparenttags=level_2
+
+upgrade4.priority=450
+
+upgrade5.priority=400
+upgrade5.parenttag=53
+upgrade5.requiredparenttags=level_3
+
+upgrade6.priority=350
+
+upgrade7.priority=300
+upgrade7.parenttag=73
+upgrade7.requiredparenttags=level_4
+
+upgrade8.priority=250
+upgrade8.tag=pilgrimsite
+upgrade8.parenttag=93
+upgrade8.parenttag=113
+upgrade8.requiredparenttags=level_5
+

@@ -1,0 +1,7 @@
+sells=byzantine_fresco,byzantineiconsmall,byzantineiconmedium,byzantineiconlarge,bread,carrot,book
+
+buys=stoneHoe,winefancy,winebasic,fishcooked,bread
+
+buysoptional=steelHoe,normanHoe,mayanhoe,diamondHoe,byzantinehoe
+
+deliverto=bread,carrot

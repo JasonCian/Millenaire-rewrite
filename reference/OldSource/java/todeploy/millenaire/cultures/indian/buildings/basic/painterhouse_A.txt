@@ -1,0 +1,13 @@
+building.length=12
+building.width=10
+building.buildingorientation=3
+building.icon=decoratedbrickwhite
+
+initial.startlevel=-1
+initial.nativename=Chitrakaar Ka Ghar
+initial.priority=2000
+initial.male=indian_painter
+initial.female=indian_peasantwife
+initial.prioritymovein=50
+
+upgrade1.priority=80

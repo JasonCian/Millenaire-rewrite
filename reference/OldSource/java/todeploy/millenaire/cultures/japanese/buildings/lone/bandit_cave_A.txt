@@ -1,0 +1,19 @@
+//Parameters for the building as a whole
+building.length=18
+building.width=19
+building.buildingorientation=3
+building.startinggood=denier,1.0,10,50
+building.startinggood=denierargent,0.5,1,3
+building.startinggood=tachisword,0.3,1,0
+building.startinggood=steellegs,0.3,1,0
+building.startinggood=steelhelmet,0.3,1,0
+building.startinggood=rice,1.0,1,8
+building.startinggood=udon,0.5,1,4
+building.icon=steelsword
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Iwamuro No Hito
+initial.male=japanese_bandit
+initial.male=japanese_bandit
+

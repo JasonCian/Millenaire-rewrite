@@ -1,0 +1,8 @@
+building.length=10
+building.width=10
+
+building.icon=sand
+
+initial.startlevel=-1
+initial.nativename=Yıkık Duvar
+

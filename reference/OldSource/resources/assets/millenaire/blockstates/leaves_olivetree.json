@@ -1,0 +1,16 @@
+{
+"multipart": [
+        {   "when": { "age":"0" },
+            "apply": { "model": "millenaire:leaves_olivetree_leaves" }
+        },
+         {   "when": { "age":"1" },
+            "apply": { "model": "millenaire:leaves_olivetree_blossom" }
+        },
+         {   "when": { "age":"2" },
+            "apply": { "model": "millenaire:leaves_olivetree_unripefruit" }
+        },
+         {   "when": { "age":"3" },
+            "apply": { "model": "millenaire:leaves_olivetree_fruit" }
+        }
+    ]
+}

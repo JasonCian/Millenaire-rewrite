@@ -1,0 +1,12 @@
+minreputation:0
+chanceperhour:0.1
+maxsimultaneous:2
+step:new
+duration:48
+definevillager:key=startvillager,type=norman/lumberman,forbiddentag=lumbermancider_done
+villager:startvillager
+requiredgood:cider,1
+rewardmoney:64
+rewardreputation:128
+settagsuccess:startvillager,lumbermancider_done
+settagfailure:startvillager,lumbermancider_done

@@ -1,0 +1,28 @@
+name=Meunier solitaire
+weight=10
+radius=15
+
+//Vanilla biomes
+biome=Plains
+biome=Sunflower Plains
+biome=Forest
+biome=Flower Forest
+biome=Extreme Hills+
+biome=Extreme Hills+ M
+biome=River
+
+//biomes o'plenty
+biome=brushland
+biome=chaparral
+biome=flower field
+biome=grassland
+biome=grove
+biome=meadow
+biome=orchard
+biome=prairie
+biome=seasonal forest
+biome=shrubland
+biome=woodland
+
+//starting buildings=
+centre=lonemill

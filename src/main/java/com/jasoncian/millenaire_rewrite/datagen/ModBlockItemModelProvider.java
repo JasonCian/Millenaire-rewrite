@@ -91,13 +91,14 @@ public class ModBlockItemModelProvider extends ItemModelProvider {
     /**
      * 为方块物品生成简单的立方体模型
      * 模型引用对应的方块纹理
-     * 
+     * 注释暂时没被用到的函数
+     *
      * @param item        方块物品注册对象
      * @param textureName 纹理文件名（不含.png扩展名）
      */
-    private void simpleBlockItem(RegistryObject<Item> item, String textureName) {
-        withExistingParent(item.getId().getPath(),
-                mcLoc("item/cube_all"))
-                .texture("all", modLoc("block/" + textureName));
-    }
+    // private void simpleBlockItem(RegistryObject<Item> item, String textureName) {
+    // withExistingParent(item.getId().getPath(),
+    // mcLoc("item/cube_all"))
+    // .texture("all", modLoc("block/" + textureName));
+    // }
 }

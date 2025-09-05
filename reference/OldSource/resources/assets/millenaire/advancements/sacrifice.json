@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "millenaire:mayanstatue"
+        },
+        "title": {
+            "translate": "advancements.sacrifice.name"
+        },
+        "description": {
+            "translate": "advancements.sacrifice.desc"
+        }
+    },
+    "parent": "millenaire:wq_mayan",
+    "criteria": {
+        "sacrifice": {
+            "trigger": "sacrifice"
+        }
+    }
+}

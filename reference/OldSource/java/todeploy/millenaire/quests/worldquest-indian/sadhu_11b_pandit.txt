@@ -1,0 +1,13 @@
+minreputation:0
+chanceperhour:1
+maxsimultaneous:1
+definevillager:key=startvillager,type=indian/indian_pandit
+forbiddenplayertag:sadhu_11b_done
+requiredplayertag:sadhu_11b_start
+
+step:new
+villager:startvillager
+duration:5
+requiredgood:paper,1
+setplayertagsuccess:sadhu_11b_done
+setglobaltagsuccess:pujas

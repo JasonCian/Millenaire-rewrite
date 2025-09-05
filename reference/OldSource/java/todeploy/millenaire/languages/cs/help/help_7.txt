@@ -1,0 +1,10 @@
+
+verze:3.4
+<darkblue>Ukoly
+Ukoly jsi dodatecne prace ktere muzete delat pro vesnicany. Pokud je ukol dostupny, bude zobrazen nad hlavou vesnicana v zavorkach napr: "<darkblue>[Mam zizen!]<black>." Kliknete pravym aby jste zobrazily podrobnosti pro splneni ukolu. Za splneni ukolu dostanete penize, reputaci nebo predmet. Pro zahajeni nekterych ukolu je potreba vetsi reputace.
+Stisknete "M" aby jste zjistily ktere ukoly jste prijaly a co musite udelat.
+<darkblue>Ukol Stvoreni
+Tato specialni kolekce zahrnuje mnoho misi a ma dve samostatne kapitoly zamerene na Normanske a Indicke kultory. Prvni mise z kazde kapitoly vam bude pridelena indickym nebo normanskym vesnicanem jakmile dosahnete reputace "Pritel vesnice" (Jelikoz ukol zacina nahodne tak muze nejakou chvily trvat nez se vam zobrazi)
+Oba ukoly vyzaduji aby jste nasli specialni osamocenou budove. Musite hledat dokud ji nenajdete: budte opatrni, je velice vzacne ji najit, narozdil od ostatni izolovanych budov ktere se zobrazi kdyz stisknete tlaticko "V"
+Tato specialni mise je v podstate souborem nekolik dalsich misi rozdelenych do dvou kapitol ktere se zameruji na Normanske a Hindske kultury. Prvni mise budou zpristupneni Hindskym nebo Normanskym vesnicanem jakmile dosahnete reputace "Pritel vesnice" (Jelikoz ukol zacina nahodne tak muze nejakou chvily trvat nez se vam zobrazi)
+V obou misich budete muset najit specialni izolovanou budovu: prozkoumavejte mapu dokud je nenajdete. Poznamka, jsou unikatni a narozdil od jinych izolovanych budov ktere jdou zobrazit na mape sticknutim "V".

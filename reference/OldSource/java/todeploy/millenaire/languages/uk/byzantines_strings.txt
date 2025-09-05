@@ -1,0 +1,57 @@
+culture.byzantines = Греки (Візантійці)
+
+villager.teenagerMale = Грек
+villager.teenagerFemale = Гречанка
+villager.boy_byzantine = Хлопчик
+villager.girl_byzantine = Дівчинка
+villager.farmiller_byzantine = Мельник
+villager.farmiller_wife_byzantine = Дружина мельника
+villager.wife_byzantine = Жінка
+villager.miner_byzantine = Шахтар
+villager.artisan_byzantine = Ремісник
+villager.patriarch_byzantine = Патріарх
+villager.lumberman_byzantine = Лісоруб
+villager.shepherd_byzantine = Пастух
+villager.shepherd_female_byzantine = Пастушка
+villager.fisherman_byzantine = Рибак
+villager.baron_byzantine = Барон
+villager.richwife_byzantine = Багата жінка
+villager.merchant_norman = Норманський купець
+villager.merchant_hindi = Купець Хінді
+villager.merchant_mayan = Купець Майя
+villager.merchant_japanese = Японський купець
+villager.centurio_byzantine = Сотник
+villager.soldier_byzantine = Солдат
+villager.playersoldier_byzantine = Солдат
+villager.smith_byzantine = Коваль
+villager.merchant_byzantine = Торговець
+villager.pastor_byzantine = Пастор
+villager.artwife_byzantine = Дружина ремісника
+villager.architect_byzantine = Архітектор
+villager.silkfarmer_byzantine = Ткач з шовку
+villager.silkfarmerwife_byzantine = Ткаля з шовку
+villager.armysmith_byzantine = Зброяр
+
+villager.smuggler_silk = Торговець шовком
+villager.merchant_art = Торговець предм. мистецтва
+villager.merchant_food = Торговець їжею
+villager.merchant_materials = Торговець будматеріалів
+
+villager.keeperOak_byzantine = Стражник
+villager.keeperBirch_byzantine = Стражник
+villager.keeperTropical_byzantine = Стражник
+villager.keeperPine_byzantine = Стражник
+villager.loneshepherd_byzantine = Пастух
+villager.loneshepherdf_byzantine = Пастушка
+villager.keeper_byzantine = Маяк
+
+shop.townhall = Головний ринок
+shop.forge = Інструменти
+shop.armyforge = Зброя і броня
+shop.lonetower = Їжа
+shop.tavernbyz = Вина
+shop.lonesheep = Шерсть
+shop.bakery = Булошна
+shop.fishery = Риба
+shop.sheepfarm = М'ясо
+shop.clothing = Одяг

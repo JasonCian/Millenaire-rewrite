@@ -1,0 +1,963 @@
+
+startup.loadproblem=Det oppstod en feil ved forsøkt lasting av <0>.
+startup.checkload=Sjekk at kulturmappen i Millénaire-mappen finnes i Minecraft-mappen.
+startup.millenaireloaded=<0> er lastet. Utforsk og trykk '<1>' for å finne landsbyer.
+startup.radiuswarning=ADVARSEL: Det å sette landsbyradiusen så høyt burde ikke være nødvendig og vil forårsake mye økt latens. Verdier over <0> anbefales ikke.
+startup.bonus=Bonusinnhold aktivert.
+
+command.nogenerate=<0> vil ikke lenger generere landsbyer på nye deler av denne verdenen.
+command.willgenerate=<0> vil nå generere landsbyer på nye deler av denne verdenen.
+command.astarpathing=Bruker A* veifinner
+command.binarypathing=Bruker binær veifinner
+command.minecraftpathing=Bruker Minecraft veifinner
+command.inactive=Inaktiv
+command.active=Aktiv
+command.frozen=Frossen
+command.villagelist=<4>: <0> (<1>) er <2> meter <3>.
+command.villagelistkeylonebuilding=<0> er <1> meter <2>.
+command.noknowvillage=Ingen kjent landsby er nærmere enn 2 km. Fortsett å lete!
+command.newvillagefound=Ny landsby funnet: <0> av typen <1> og kultur <2> er <3> meter <4>.
+command.newlonebuildingfound=Ny bygning funnet: <0> er <1> meter <2>.
+command.pathrebuild=Kartet og veileggingen til <0> har blitt gjenoppbygd.
+
+//Text used in various UI parts, in no specific order:
+ui.lockedchest=Låst kiste
+ui.largelockedchest=Stor låst kiste
+ui.unlockedchest=Ulåst kiste
+ui.largeunlockedchest=Stor ulåst kiste
+ui.allchestsunlocked=Alle kistene i <0> er nå ulåste.
+ui.outofstock=Ikke på lager!
+ui.reputationneeded=Omdømme som kreves: <0>
+ui.missingdeniers=Du mangler <0> deniers.
+ui.missingequipment=Mangler utstyr
+ui.noneininventory=Du har ingen i inventaret ditt.
+ui.selling=Selger
+ui.buying=Kjøper
+ui.buybuilding=Kjøp <0> (<1>)
+ui.buybonusbuilding=Be om bonus: <0>
+ui.sellercoming=<0>: Jeg kommer straks, $name!
+ui.tradecomplete=<0>: Jeg håper at du likte å handle med oss! Ha en fin dag.
+ui.sellerboycott=<0>: Vi vil aldri handle med deg igjen, forbryter!
+ui.sellernotcurrently possible=<0>: Hvordan kan du tenke på å handle når landsbyen vår er fullstendig ødelagt?
+ui.wesell=Vi selger
+ui.webuy=Vi kjøper
+ui.isell=Jeg selger
+ui.inventory=Inventar
+ui.villagechief=Leder av landsbyen <0>
+ui.yourstatus=Din status
+ui.possiblehousing=Mulige boliger
+ui.alreadybuilt=allerede bygd
+ui.alreadyrequested=allerede forespurt
+ui.notavailableyet=ikke tilgjengelig ennå
+ui.available=tilgjengelig
+ui.bonusavailable=tilgjengelig (gave)
+ui.youaremissing=du mangler: <0>
+ui.scrollsnoreputation=Omdømmet ditt er ikke nok til å kjøpe landsbypergamenter.
+ui.scrollsnotenoughmoney=Du mangler <0> denier(s) for et landsbypergament.
+ui.scrollsok=Du kan kjøpe landsbypergamenter.
+ui.buyscroll=Kjøp landsbypergamentet.
+ui.cost=Kostnad
+ui.clicktorequest=Klikk for å be om dette
+ui.scrollbought=<0>: Du er nå betrodd med vår landsbys pergament!
+ui.housebought=<0>: Oppbygging av din <1> vil starte om en kort stund!
+ui.inhabitantof=Innbygger av <0>
+ui.inconstruction=Under oppbygging
+ui.nospace=Ikke nok plass
+ui.reservedforvillager1=Reservert
+ui.reservedforvillager2=for landsbyboer
+ui.currentlyempty1=Foreløpig
+ui.currentlyempty2=tom
+ui.visitorslist1=Liste over
+ui.visitorslist2=besøkende
+ui.goodstraded=Handelsvarer
+ui.imports=Import
+ui.exports=Eksport
+ui.import_total=Total import: <0>
+ui.export_total=Total eksport: <0>
+ui.merchants=Kjøpmenn:
+ui.goalscompleted1=Alle mål for
+ui.goalscompleted2=bygging fullført
+ui.project=Prosjekt
+ui.noconstruction1=Ingen
+ui.noconstruction2=byggeprosjekter
+ui.upgrading=Oppgradering (<0>)
+ui.construction=Oppbygging <0>:
+ui.population=Befolkning:
+ui.populationnumber=Befolkning: <0>
+ui.adults=Voksne: <0> (<1>/<2>)
+ui.teens=Ungdom: <0> (<1>/<2>)
+ui.children=Barn: <0> (<1>/<2>)
+ui.villagemap=Landsbykart
+ui.nbbuildings=<0> bygninger
+ui.wandwrongblock=Denne staven fungerer kun på en obsidianblokk for en tilfeldig landsby eller på de følgende blokkene:
+ui.wandblocklist=<0> for en <1>
+ui.wandblocklistcontrolled=<0> for en <1> (krever lederskap i denne kulturen)
+ui.brickinstructions=En jord og en sand trengs for å lage murstein.
+ui.buildingscentre=Senter
+ui.buildingsstarting=Startbygninger
+ui.buildingsplayer=Spillerens bygninger
+ui.buildingskey=Nøkkelbygninger
+ui.buildingssecondary=Sekundære bygninger
+ui.buildingsextra=Ekstrabygninger
+ui.worldnotgenerated=Området rundt er ikke fullstendig generert. Gå litt rundt og kom så tilbake.
+ui.tooclosetospawn=Du har ikke lov til å generere en landsby så nærme startpunktet.
+ui.generatenotenoughspace=Kunne ikke finne plass til rådhuset.
+ui.generatenotenoughspacevillage=Kunne ikke finne plass til landsbyen.
+ui.lackingresources=Mangler ressurser
+ui.lockedchestwarning=ADVARSEL: ødeleggelse av låste kister vil forhindre landsbyer fra å fungere ordentlig. Gjør det kun om du ønsker å ødelegge landsbyen.
+ui.xoutofy=<0> av <1>
+ui.extraresneeded1=<0> andre ressurser
+ui.extraresneeded2=trengs
+ui.woodforplanks=Tre (enhver)
+ui.woodoak=Eiketre
+ui.woodpine=Grantre
+ui.woodbirch=Bjørketre
+ui.woodjungle=Jungeltre
+ui.anyenchanted=Fortryllet objekt
+ui.enchantedsword=Fortryllet sverd
+ui.selectabuildingproject=Velg et byggeprosjekt
+ui.projectadded=Prosjektet har blitt lagt til i listen
+ui.problemat=Problem ved <0>: <1>
+ui.constructionforbidden=bygging forbudt
+ui.locationclash=sammenstøt med en annen bygning
+ui.outsideradius=utenfor landsbyens radius
+ui.wrongelevation=utenfor tillatt høyde
+ui.danger=farlig blokk
+ui.notreachable=utilgjengelig område
+ui.unknownerror=ukjent problem
+ui.controlbuildingprojects=Administrer byggeprosjekter
+ui.forbidupgrades=Stopp oppgraderinger
+ui.allowupgrades=Tillat oppgraderinger
+ui.cancelbuilding=Fjern bygninger
+ui.level=nivå
+ui.notyetbuilt=Ikke bygd ennå
+ui.nbinhabitants=Antall beboere: <0>
+ui.wandnocontrol=Du kan ikke skape denne typen landsby da du ikke er kjent som en leder av <0> kulturen.
+ui.control_ok=Dine tjenester til landsbyen er slik at <0> folket er klare til å erkjenne deg som en leder! Jeg kan gjøre det offisielt og tillate deg å starte din egen landsby.
+ui.control_noreputation=Omdømmet ditt er ikke nok til at du kan bli erkjent som leder av <0> folket. Jobb med å forbedre omdømmet ditt hos oss eller utfør fremragende bragder for å nå denne statusen.
+ui.control_alreadydone=Du er allerede erkjent som leder av <0> folket.
+ui.control_get=Spør etter erkjennelse som leder.
+ui.control_gotten=<0>: Jeg erkjenner deg herved offisielt som verdig til å lede vårt <0> folk! Du kan nå starte din egen landsby.
+ui.selectavillage=Velg landsbytypen du ønsker å skape
+ui.leadershipstatus=Ledelsestatus
+ui.leaderin=Du er en leder i <0> kulturen. Du kan skape en landsby med denne kulturen som du kan kontrollere.
+ui.notleaderin=Du er ikke en leder i <0> kulturen ennå.
+ui.leaderinstruction=For å bli en leder en i kultur må du enten nå "Naturlig leder"-nivået i en landsby og spørre landsbylederen, eller fullføre det relevante kapittelet i skapelsesoppdraget for den kulturen (hvis den finnes).
+ui.wandinstruction=Bruk staven på en obsidianblokk for å generere en tilfeldig landsby eller på en gullblokk for å velge landsbytypen du ønsker
+ui.controlled=kontrollert
+ui.villagerelations=<0> (<1>, <2>): <3>
+ui.relationlist=Samhandling med andre landsbyer
+ui.relationpraise=Ros
+ui.relationslander=Spott
+ui.relationpoints=Tilgjengelige diplomatiske poeng: <0>
+ui.villagerelationsnobutton=Du må ha poeng og et positivt omdømme for å kunne påvirke landsbyen.
+ui.relationhelp=Hjelp med forhold<ret><ret>Forhold mellom landsbyer bestemmer om disse landsbyene vil samarbeide med hverandre eller ei.<ret><ret>Lokal handel (kjøpmenn som bærer ressurser) vil skje mellom landsbyer med gode forhold med samme kultur eller med utmerkede forhold med forskjellige kulturer.<ret><ret>Landsbyer med forskjellig kultur med veldig gode forhold som begge har marked vil ha kjøpmenn fra hverandres kultur.<ret><ret>Landsbyer med samme kultur med utmerkede forhold vil akseptere hverandres tenåringer dersom de har jobber tilgjengelige.<ret><ret>Forhold mellom landsbyer starter som utmerket for grender til en overordnet landsby, god for landsbyer av samme kultur og nøytral ellers.<ret><ret>Hver dag vil en spiller få fem diplomatiske poeng de kan påvirke landsbyers forhold med. Hvor effektiv rosen eller spotten vil være er avhengig av omdømmet til personen i den landsbyen.
+ui.relationfriendly=Nylige utviklinger mellom lansdbyene <0> og <1> har forbedret forholdene mellom dem. De er nå <2>.
+ui.relationunfriendly=Nylige konflikter mellom landsbyene <0> og <1> har forverret forholdene mellom dem. De er nå <2>.
+ui.cropplantingknowledge=Du vet ikke hvordan du planter <0>. Du må spørre en landsbyleder.
+ui.cropsknown=Avlinger denne kulturen kjenner
+ui.cropknown=Du har lært deg hvordan du planter <0>.
+ui.cropinsufficientreputation=Omdømmet ditt er for lavt til at landsbyen skal lære deg å plante <0>.
+ui.cropnotenoughmoney=Du trenger <1> mer for å ha råd til å lære deg å plante <0>.
+ui.cropoktolearn=Denne landsbyen kan lære deg å plante <0>.
+ui.croplearn=Lær (<0>)
+ui.croplearned=<0>: Du har fått mysteriene om kultivering av <1> avslørt!
+ui.raider=Plyndrer
+
+ui.communicationexplanations=For å kommunisere med landsbyboerne, høyreklikk på dem. Dersom en handling er mulig med landsbyboeren du klikker på (handel, diskusjon med landsbyoverhodet, midlertidig hyring, starte et oppdrag), så vil et vindu åpnes.
+ui.helpbutton=Millénaire Hjelp
+ui.chunkbutton=Kart over deler
+ui.configbutton=Innstillinger
+ui.serverimportforbidden=Kun administratorer kan importere bygninger på en server.
+
+ui.controldiplomacy=Diplomati
+ui.raidinprogress=Raid på gang!
+ui.otherraidinprogress=Annet raid på gang.
+ui.otherraidplanned=Annet raid planlagt.
+ui.raidcancel=Avbryt raid.
+ui.raidplanned=Raid planlagt.
+ui.relgood=Utmerket
+ui.relneutral=Nøytral
+ui.relbad=Konflikt
+ui.raid=Planlegg et raid
+
+
+help.tab_1=Generelt om landsbyer
+help.tab_2=Handel
+help.tab_3=Omdømme og landsbyleder
+help.tab_4=Landsbyvekst
+help.tab_5=Kjemping og raid
+help.tab_6=Skap eller ødelegg en landsby
+help.tab_7=Oppdrag
+help.tab_8=Normannerne
+help.tab_9=Inderne
+help.tab_10=Mayaene
+help.tab_11=Japanerne
+help.tab_12=Bysantinerne 
+help.tab_13=Ofte stilte spørsmål
+
+
+quest.obtained=Fått
+quest.lackingcondition=Du mangler:
+quest.lackinghiddengoods=Du har ikke tingene som kreves for denne oppgaven.
+quest.close=Lukk
+quest.accept=Godta oppdrag
+quest.refuse=Nekt oppdrag
+quest.continue=Fortsett med oppdrag
+quest.conditionsnotmet=Du har ikke oppfylt alle betingelsene ennå.
+quest.lessthananhourleft=Mindre enn en time igjen!
+quest.timeremaining=Tid som gjenstår
+quest.hours=time(r)
+quest.noquestsvisible=Ingen oppdrag som kan vises på gang
+quest.questlist=Oppdrag som gjennomgåes
+quest.reputationlost=omdømme tapt
+
+quest.creationqueststatus=Skapelsesoppdraget, status
+quest.creationqueststatusshort=Skapelsesoppdraget:
+
+quest.cqchaptersadhu=Sadhuen
+quest.cqsadhustartexplanation=Finn en landsbyboer som er i stand til å guide deg i en indisk landsby hvor du har minst "Venn av landsbyen" omdømme for det første oppdraget.
+
+quest.cqchapteralchemist=The Alchemist
+quest.cqalchemiststartexplanation=Finn en landsbyboer som er i stand til å guide deg i en normannisk landsby hvor du har minst "Venn av landsbyen" omdømme for det første oppdraget.
+
+quest.cqchapterfallenking=The Fallen King
+quest.cqfallenkingstartexplanation=Finn en sjaman som er i stand til å guide deg i en maya-landsby hvor du har minst "Venn av landsbyen" omdømme for det første oppdraget.
+
+
+quest.cqallcompleted=Gratulerer, du har nådd alle målene for skapelsesoppdraget som finnes foreløpig!
+quest.cqcheckforupdates=Sjekk www.millenaire.org for fremtidige oppdateringer med flere mål.
+quest.cqchapternotstarted=Du har ikke startet kapittelet "<0>".
+quest.cqchapterinprogress=Du har nådd <1> av <2> mål i skapelsesoppdragets kapittel "<0>".
+quest.cqchaptercompleted=Du har fullført kapittelet "<0>".
+quest.cqchapternotstartedshort=Kapittel "<0>": ikke startet.
+quest.cqchapterinprogressshort=Kapittel "<0>": <1>/<2>.
+quest.cqchaptercompletedshort=Kapittel "<0>": fullført.
+quest.cqcheckquestlistandhelp=Trykk '<0>' for mer informasjon eller for å sjekke Millénaire-hjelpen.
+
+
+
+
+
+error.unknownitem=Ukjent navn på gjenstand
+
+
+
+//Errors
+ui.updateEntity=Feil i TileEntityBuilding.updateEntity(). Sjekk millenaire.log.
+
+//Panels & parchments
+panels.notextfound=Ingen tekst funnet for denne boken: <0>
+panels.invalidid=Ugyldig landsby-ID.
+panels.toofar=Landsbyen er for langt unna til å kunne laste registreringene derfra.
+panels.recordsnotloaded=Landsby-registreringene kunne ikke lastes.
+panels.villagescroll=Landsbypergament
+panels.mother=Mor
+panels.father=Far
+panels.spouse=Ektefelle
+panels.dead=Midlertidig død
+panels.awayraiding=Ute på raid
+panels.awayhired=Hyrt av en spiller
+panels.invaderincoming=Innkommende
+panels.missing=SAVNET!
+panels.multiple=FINNES <0> GANGER!
+panels.currentoccupation=Nåværende yrke
+panels.visitors=Besøkende
+panels.constructions=Byggverk
+panels.upgrade=oppgradering
+panels.buildingprojects=Byggeprosjekter
+panels.notyetbuilt=ikke bygget ennå
+panels.nbupgradesleft=<0> oppgraderinger igjen å bygge.
+panels.finished=fullført
+panels.houseunoccupied=Dette huset er ubebodd. Barn som har nådd ungdomsalderen vil eventuelt flytte inn og bli voksne.
+panels.man=Mann
+panels.woman=Kvinne
+panels.children=Barn
+panels.nofemaleresident=Dette huset vil aldri ha en kvinnelig beboer.
+panels.bachelor=Mannen som bor her er fortsatt ungkar. En jente som har nådd ungdomsalderen vil eventuelt flytte inn.
+panels.nomaleresident=Dette huset vil aldri ha en mannlig beboer.
+panels.spinster=Kvinnen som bor her er fortsatt ugift. En gutt som har nådd ungdomsalderen vil eventuelt flytte inn.
+panels.resources=Ressurser
+panels.goodstraded=Handelsvarer i denne landsbyen
+panels.goodsimported=Importert fra andre landsbyer
+panels.goodsexported=Eksportert til andre landsbyer
+panels.innvisitors=Besøkende til denne <0>
+panels.mappurple=Lilla: bygging pågår.
+panels.mapblue=Blå: andre bygninger.
+panels.mapgreen=Grønn: egnet byggeområde.
+panels.maplightgreen=Lysegrønn: egnet byggeområde, men kan ikke inneha sentrum av en bygning.
+panels.mapred=Rød: farlige områder (lava, kaktus, osv.).
+panels.mapyellow=Gul: ingen bygging tillatt (is, kunstige blokker).
+panels.maporange=Oransje: ingen bygging tillatt (for nærme annen bygning), utilgjengelig område (grunnet en elv eller et rev for eksempel).
+panels.maplightblue=Lyseblå: vann.
+panels.mapbrown=Brun: andre områder (utenfor høydespekteret, osv.).
+panels.unreachablebuilding=utilgjengelig!
+panels.merchantlist=Liste over kjøpmenn
+panels.capacity=Kapasitet
+panels.nbnightsin=I landsbyen siden <0> natt/netter siden.
+panels.storedexports=<0> lagret følgende for eksportering: <1>
+panels.broughtimport=<0> medbrakte seg følgende til landsbyen: <1>
+panels.startedtrading=<0> (<1>) har omfavnet handelskarrieren.
+panels.merchantmovedout=<0> (<1>) flyttet til <2> etter <3> dager i landsbyen.
+panels.merchantarrived=<0> (<1>) ankom fra <2>.
+panels.childarrived=<0> ankom fra <1> på utkikk etter arbeid.
+panels.resourcesneeded=Ressurser som trengs for prosjektet
+panels.resourcesavailable=Ressurser på lager
+panels.villageculture=Landsbyer med <0> kultur
+panels.military=Militær
+panels.planningraid=Planlegger et raid
+panels.raidinprogress=Raid utføres
+panels.underattack=Under angrep!
+panels.offense=Angrep: <0>
+panels.defense=Forsvar: <0>
+panels.offenselong=Angrepsstyrke: <0>
+panels.defenselong=Forsvarsstyrke: <0>
+panels.raidinprogresslong=Plyndrer <0>. Plyndringstoktet startet for <1> time(r) siden.
+panels.planningraidlong=Planlegger et raid mot <0>. Planleggingen startet for <1> time(r) siden.
+panels.underattacklong=Under angrep av <0> fiender med styrke <1> fra <2>!
+panels.villagefighters=Landsbykrigere
+panels.attackers=Angripere
+panels.defender=Beskyttere
+panels.raider=Plyndrer
+panels.health=Helse
+panels.weapons=Våpen
+panels.armour=Rustning
+panels.militarystrength=Militærstyrke
+panels.unknownattacker=et ukjent sted
+panels.raidsperformed=Raid utført
+panels.raidssuffered=Raid opplevd
+panels.nameand=<0> og
+panels.buildingproject=Gjeldende prosjekt:
+panels.currentconstruction=Gjeldende bygg:
+panels.villagesummary=Nøkkelinformasjon
+
+//Goals (text displayed above the villager when he is doing it)
+goal.gorest=Hviler
+goal.godrink=Drar for en drink
+goal.gopray=Drar for å be
+goal.GatherGoods=Samler varer
+goal.BringBackResourcesHome=Bringer ressurser tilbake
+goal.GetTool=Henter et verktøy
+goal.huntMonster=Kjemper en skapning
+goal.getGoodsHousehold=Skaffer varer for husholdningen
+goal.DeliverGoodsHousehold=Leverer varer for husholdningen
+goal.GetHouseTHResources=Tar ressurser hjemmefra
+goal.DeliverResourcesShop=Leverer ressurser
+goal.raidvillage=Plyndrer landsby
+goal.defendvillage=Beskytter landsbyen
+goal.hide=Går i dekning
+
+goal.CollectCrop=Høster avlinger
+goal.PlantSeeds=Planter frø
+goal.ChopTrees=Hogger tre
+goal.PlantSaplings=Planter ungtrær
+goal.GetResourcesForBuild=Skaffer ressurser til et byggeprosjekt
+goal.MakeBread=Lager brød
+goal.BeSeller=Selger til spilleren
+goal.MakeCider=Lager sider
+goal.MakeCalva=Lager calva
+goal.Construction=Bygger
+goal.GoPlay=Leker
+goal.BecomeAdult=Flytter inn
+goal.MakeNormanTools=Lager verktøy
+goal.MakeNormanWeapons=Lager våpen
+goal.Patrol=Patruljerer
+goal.Butcher=Slakter
+goal.MakeBoudin=Lager boudin
+goal.MakeTripes=Lager tripes
+goal.Mining=Driver gruvedrift
+goal.Cooking=Tilbereder ressurser
+goal.MakeBooks=Lager pergamenter
+goal.MakeTapestry=Lager veggtepper
+goal.VisitInn=Drar til vertshuset
+goal.VisitBuilding=Drar til en butikk
+goal.MakeAmulet=Lager en amulett
+goal.KeepStall=Holder boden sin
+goal.MakeTimberFrame=Lager bindingsverk
+
+goal.DryBrick=Setter murstein ut for å tørke
+goal.GatherBrick=Samler inn tørkede mursteiner
+goal.CookBrick=Tilbereder murstein
+goal.PlantRice=Planter ris
+goal.HarvestRice=Høster ris
+goal.PlantTurmeric=Planter gurkemeie
+goal.HarvestTurmeric=Høster gurkemeie
+goal.SlaughterChicken=Slakter kylling
+goal.PlantSugarCane=Planter sukkerrør
+goal.HarvestSugarCane=Høster sukkerrør
+goal.MakeRasgulla=Lager rasgulla
+goal.Makesteelaxe=Lager en ståløks
+goal.Makesteelpickaxe=Lager en stålhakke
+goal.Makesteelshovel=Lager en stålspade
+goal.Makesteelhoe=Lager en stålljå
+goal.Makesteelsword=Lager en stålsverd
+
+goal.makesteelchest=Lager en stålbrystplate
+goal.makesteelhelmet=Lager en stålhjelm
+goal.makesteellegs=Lager stålbukser
+goal.makesteelboots=Lager stålstøvler
+
+goal.makeindianstatue=Skjærer ut statue
+goal.performpujas=Utfører et pudjsa
+goal.bepujaperformer=Tilgjengelig for pudjsa
+goal.performsacrifices=Utfører et offer
+goal.besacrificeperformer=Tilgjengelig for ofring
+
+goal.PlantMaize=Planter mais
+goal.HarvestMaize=Høster mais
+goal.makemayanGoldBlock=Lager gullornamenter
+goal.makemayanstatue=Skjærer ut statue
+goal.Makestoneaxe=Lager en steinøks
+goal.Makestonepickaxe=Lager en steinhakke
+goal.Makestoneshovel=Lager en steinspade
+goal.Makestonehoe=Lager en steinljå
+goal.Makestonesword=Lager et steinsverd
+goal.makeleatherboots=Lager lærstøvler
+goal.makeleatherchest=Lager en lærbrystplate
+goal.makeleatherhelmet=Lager en lærhjelm
+goal.makeleatherlegs=Lager lærbukser
+goal.makemayanaxe=Lager obsidianøks
+goal.makemayanpickaxe=Lager obsidianhakke
+goal.makemayanshovel=Lager obsidianspade
+goal.makemayanhoe=Lager obsidianljå
+goal.makemayanmace=Lager obsidianklubbe
+goal.makeobsidianflake=Bryter obsidian opp i flak
+goal.harvestcocoa=Plukker kakao
+goal.plantcocoa=Planter kakao
+goal.makecacauhaa=Forbereder cacauhaa
+
+goal.fish=Fisker
+goal.makethatch=Lager halmtak
+goal.makepaper=Lager papir
+goal.makepaperrice=Lager papir
+goal.makepaperwoodpulp=Lager papir
+goal.makepaperwall=Lager papirvegger
+goal.cookfish=Tilbereder fisk
+goal.cooksteak=Tilbereder steker
+goal.cooklamb=Tilbereder lam
+goal.cookpork=Tilbereder svinekoteletter
+goal.cookchicken=Tilbereder kylling
+goal.makeudon=Lager udon
+goal.maketachi=Lager et Tachi-sverd
+goal.makejapaneseweapons=Lager japansk bevæpning
+goal.makesake=Gjærer sake
+goal.slaughtersquid=Fisker etter blekksprut
+
+goal.brewpotions=Brygger eliksirer
+goal.harvestwarts=Høster vorter
+goal.makeglassbottles=Lager glassflasker
+goal.plantwarts=Planter vorter
+
+goal.plantvines=Planter lianer
+goal.harvestvines=Høster druer
+goal.gathersilk=Samler silke
+goal.makeicon=Maler ikon
+goal.makewine=Produserer vin
+goal.makebookshelves=Lager bokhyller
+goal.makebyzantinetiles=Lager fliser
+goal.makebrick=Lager murstein
+goal.training=Trener
+goal.paintpainting=Maler en ramme
+goal.makebook=Skriver en bok
+goal.makebyzantinemace=Lager bysantinsk klubbe
+goal.makebyzantinechest=Lager bysantinsk brystplate
+goal.makebyzantinelegs=Lager bysantinske bukser
+goal.makebyzantinehelmet=Lager bysantinsk hjelm
+goal.makebyzantineboots=Lager bysantinske støvler
+
+goal.makebow=Lager en bue
+goal.makerottenflesh=Lager råttent kjøtt
+goal.makearrow=Lager piler
+
+goal.sleep=Sover
+goal.sleep_travelling=Av sted for å sove
+
+
+goal.makeclothes_byz_wool=Vever klær
+goal.makemasa=Tilbereder masa
+goal.slaughterpig=Slakter en gris
+goal.makesouvlaki=Tilbereder souvlaki
+goal.makewah=Tilbereder wah
+goal.makecurry=Tilbereder vegetarkarri
+goal.makeclothes_byz_silk=Vever silkeklær
+goal.slaughtersheep=Slakter en sau
+goal.slaughtercow=Slakter en ku
+goal.breed=Avler dyr
+goal.shearsheep=Klipper sau
+goal.makemurgh=Tilbereder kyllingkarri
+goal.getitemtokeep=Plukker opp en gjenstand
+
+goal.buildpath=Markerer en vei
+goal.clearoldpath=Fjerner en gammel vei
+
+goal.gosocialise=Av sted for å prate
+goal.chat=Prater
+
+goal.makedirtwall=Lager jordveggblokker
+goal.makepath=Lager veiblokker
+
+//other
+other.west=Vest
+other.east=Øst
+other.north=Nord
+other.north-east=Nordøst
+other.north-west=Nordvest
+other.south=Sør
+other.south-east=Sørøst
+other.south-west=Sørvest
+
+other.tothewest=mot vest
+other.totheeast=mot øst
+other.tothenorth=mot nord
+other.tothenorth-east=mot nordøst
+other.tothenorth-west=mot nordvest
+other.tothesouth=mot sør
+other.tothesouth-east=mot sørøst
+other.tothesouth-west=mot sørvest
+
+other.west_short=V
+other.east_short=Ø
+other.north_short=N
+other.south_short=S
+other.shortdistancedirection=<0>m <1>
+
+other.metre=meter
+other.kilometre=kilometer
+other.andhalf=og en halv
+
+other.directionshort=<1> <0>
+other.exploredbuilding=Du har oppdaget en bygning: <0>.
+
+other.malevillager=Millénaire landsbyboer
+other.femalevillager=Millénaire landsbyboer
+
+other.buildinghealing=<0> helbereder deg.
+
+
+other.localmerchantinteract=Denne kjøpmannen er en lokal kjøpmann. Han transporterer varer fra landsby til landsby. Du kan ikke samhandle med ham.
+
+other.chattosomeone=<0> til <1>
+
+hire.health=Helse
+hire.strength=Styrke
+hire.cost=Kostnader (per dag)
+hire.aggressive=Aggressiv modus
+hire.passive=Passiv modus
+hire.timeleft=Hyrt i <0> time(r)
+hire.hiredvillager=Denne lansdbyboeren har blitt hyrt. Han vil være i din tjeneste de neste <0> timene eller til han dør og gjenoppstår i landsbyen hans.<ret><ret>Trykk '<1>' for å få han i aggressiv modus eller venstre shift-'<1>' for å få han i passiv modus.
+hire.hireablevillager=Du kan hyre denne landsbyboeren. Han vil følge deg rundt inntil hyringen forfaller eller han dør. Han vil angripe skapninger som angriper deg eller angripe nære skapninger og fiendtlige landsbyboere dersom han er i en aggressiv status.
+hire.hireablevillagernoreputation=Du trenger å være minst "favorittforhandler" i denne landsbyen for å kunne hyre denne landsbyboeren.
+hire.extend=Utvid
+hire.release=Løslat
+hire.close=Lukk
+hire.hire=Hyr
+hire.hireover=Hyringen av <0> har nå endt. Han returnerer nå til landsbyen sin.
+hire.hiredied=<0> har dødd. Han vil gjenoppstå i landsbyen sin, med hyringen avbrutt.
+hire.hiredbyotherplayer=<0> har allerede blitt hyrt av <1>.
+hire.hiredby=Hyrt av <0>
+
+actions.forest_success=Din utforskning av skogen er vellykket.
+actions.forest_continue=Du har fullført <0>% av din utforskning av skogen.
+
+actions.desert_success=Din utforskning av ørkenen er vellykket.
+actions.desert_continue=Du har fullført <0>% av din utforskning av ørkenen.
+
+actions.mountain_success=Din utforskning av fjellene er vellykket.
+actions.mountain_continue=Du har fullført <0>% av din utforskning av fjellene.
+
+actions.underwaterglass_success=Din oppbygging av et vindu til et undervannsobservatorium er vellykket.
+actions.underwaterglass_notdeepenough=Havet er ikke dypt nok på dette punktet.
+
+actions.underwaterdive_success=Ditt dypvannsdykk er vellykket.
+
+actions.bottomoftheworld_success=Det ser ikke ut til at du kan grave lenger nedover. Dette må være verdens bunn!
+
+actions.topoftheworld_success=Det ser ikke ut til at du kan stige noe høyere. Dette må da være himmelens topp.
+
+actions.borehole_nblineok=<0> grunnfjellblokker er nå eksponert til himmelen. Du trenger 25 i en 5x5 firkant.
+actions.borehole_success=Din utgraving av et borehull er vellykket!
+
+actions.boreholetnt_success=Nok TNT har blitt utplassert. Du kan nå detonere det.
+actions.boreholetnt_nbtnt=<0> blokker med TNT har blitt utplassert og dekket i obsidian. Du trenger 20 totalt.
+
+actions.boreholetntlit_success=Du har tent på TNT-en. Observer resultatet og rapporter til alkymisten.
+
+actions.thevoid_success=Du har sett inn i det store intet!
+
+actions.enchantmenttable_success=Du har lagd et fortryllelsesbord nær sadhuen.
+
+actions.mayan_siege_start=Pyramiden er under angrep! <0> geist, <1> flammeskrømt og <2> skjeletter angriper. Utrydd dem.
+actions.mayan_siege_success=Ditt forsøk på å utdrive kreftene som angrep pyramiden er vellykket!
+actions.mayan_siege_update=<0> geist, <1> flammeskrømt og <2> skjelett(er) er igjen.
+
+info.culturetitle=Kulturer
+info.culture=<0>-kulturen
+info.culturereputation=Omdømme: <0>
+info.culturelanguage=Språknivå: <0>
+
+culturereputation.scourgeofgod=Pest og plage
+culturereputation.dreadful=Forferdelig
+culturereputation.bad=Dårlig
+culturereputation.stellar=Fantastisk
+culturereputation.excellent=Utmerket
+culturereputation.good=God
+culturereputation.decent=Passelig
+culturereputation.neutral=Nøytral
+
+culturelanguage.fluent=Snakker flytende
+culturelanguage.moderate=Moderat
+culturelanguage.beginner=Begynner
+culturelanguage.minimal=Minimal
+
+
+weapon.criticalstrike=Kritisk treff! <0>x skade!
+
+negationwand.villagelocked=<0> er fremdeles låst. Du må drepe alle de voksne mennene før du kan ødelegge den.
+negationwand.confirmmessage=Er du sikker på at du ønsker å ødelegge <0>? Dersom du gjør det, så vil alle bygninger fremdeles bli igjen, men landsbyboerne vil være permanent borte.
+negationwand.confirm=Bekreft
+negationwand.cancel=Avbryt
+negationwand.destroyed=<0> har blitt ødelagt! Bygningene dens er nå tomme skjell og ingen landsbyboer vil komme tilbake til dem.
+
+relation.excellent=Utmerket
+relation.verygood=Veldig bra
+relation.good=Godt
+relation.decent=Passelig
+relation.fair=Grei
+
+relation.openconflict=Åpen konflikt
+relation.atrocious=Forferdelig
+relation.verybad=Veldig dårlig
+relation.bad=Dårlig
+relation.chilly=Kaldt
+
+relation.neutral=Nøytral
+
+raid.planningstarted=<0> sies å ha startet planlegging av et raid i <1>.
+raid.started=<0> har startet raidet deres mot <1>! <2> kjemper(e) har sluttet seg til dette.
+raid.raidsuccesfull=<0> har hatt et vellykket raid i <1>, og stjal <2> varer!
+raid.raidfailed=<1> har klart å avverge et raid fra <0>.
+raid.nothing=Ingenting
+raid.historysuccess=Klarte å raide <0>. Premie: <1>
+raid.historyraided=Plyndret av <0>. Premie: <1>
+raid.historyfailure=Et raid mot <0> feilet.
+raid.historydefended=Klarte å nedkjempe et raid fra <0>.
+
+hof.hof=Æresgalleri
+hof.modcreator=Mod-skaper
+hof.creatorofmayan1=Skaper av
+hof.creatorofmayan2=Maya-kulturen
+hof.creatorofjapanese1=Skaper av
+hof.creatorofjapanese2=Japan-kulturen
+hof.creatorofbyzantine1=Skaper av
+hof.creatorofbyzantine2=Bysantiner-kulturen
+hof.creatorofindianskins1=Skaper av
+hof.creatorofindianskins2=Indiske skins
+
+hof.skinmaker=Skin-skaper
+hof.buildingmaker=Bygning-skaper
+hof.wikiadmin=Wiki-admin
+hof.armouricons=Rustning ikoner
+hof.normanarmour1=Normannisk rustning
+hof.normanarmour2=grafikk
+hof.support1=Støtte på
+hof.support2=forumet
+hof.frenchversion1=Hjelp med
+hof.frenchversion2=fransk versjon
+hof.wikicontributions=Wiki-bidrag
+hof.improvementsjapanese1=Forbedringer til
+hof.improvementsjapanese2=japanske landsbyer
+hof.lonebuildings=Enslige bygninger
+hof.obsidiantools1=Obsidian-verktøy
+hof.obsidiantools2=ikoner
+hof.forgecode1=Original kode for
+hof.forgecode2=Forge Sprite API
+hof.btw=(BTW skaper)
+hof.forgehelp1=Hjelp med
+hof.forgehelp2=Forge Sprite API
+hof.hofidea1=Æresgalleri
+hof.hofidea2=idé
+hof.donor=Donor
+hof.variousimprovements1=Forskjellige
+hof.variousimprovements2=forbedringer
+
+pujas.invanme=Pudjsa
+pujas.panditfee=Til panditen
+pujas.offering=Offer
+pujas.god0=Til Hanuman - for fart
+pujas.god1=Til Shiva - for styrke
+pujas.god2=Til Lakshmi - for hell
+pujas.god3=Til Ganesh - for ferdigheter
+pujas.priestcoming=<0>: Trenger du et pudjsa utført? Din hengivenhet er beundringsverdig!
+pujas.offeringslot=Sett inn et offer til gudene.
+pujas.offeringslot2=De vil ikke akseptere alt. Eksperimenter.
+pujas.moneyslot=Sett inn penger til panditen.
+pujas.toolslot=Sett in verktøyet som skal bli fortryllet.
+
+sacrifices.priestcoming=<0>: Trenger du et oppofrende ritual utført? Det er klokt å blidgjøre gudene.
+sacrifices.panditfee=Til sjamanen
+sacrifices.offering=Offer
+
+mayan.god0=Til Ah Puch - for overlevelse
+mayan.god1=Til K'inich Ajaw - for flammer
+mayan.god2=Til Cabrakan - for sammenstøt
+mayan.god3=Til Ah Tabai - for piler
+mayan.god4=Til Cum Hau - for hevn
+
+mayan.god5=Til Uqux Cho - for kaimanens pust
+mayan.god6=Til Uqux Palo - for arbeid under bølgene
+
+mayan.god7=Til Alom - for lettvekt
+
+mayan.god8=Til Buluc Chabtan - for vold
+mayan.god9=Til Ah Puch - for kamp mot de døde
+mayan.god10=Til Cum Hau - for kamp mot skapninger
+
+mayan.god11=Til Huracan - for den sterke pusten
+mayan.god12=Til K'inich Ajaw - for flammen
+mayan.god13=Til Ek Chuah - for lykke
+
+mayan.god14=Til Buluc Chabtan - for vold
+mayan.god15=Til Huracan - for den sterke pusten
+mayan.god16=Til K'inich Ajaw - for flammen
+mayan.god17=Til Ek Chuah - for lykke
+
+mayan.god18=Til Witz - for tøffhet
+
+culture.norman=Normanner
+culture.indian=Hindu
+culture.japanese=Japaner
+culture.mayan=Maya
+culture.byzantines=Bysantiner
+
+export.errornoname=Du må gi byggeplanen et navn på første linje.
+export.errornoendsigneast=Kunne ikke finne avslutningsskiltet mot øst. Det må være på en rett linje fra starten innen 256 blokker.
+export.errornoendsignsouth=Kunne ikke finne avslutningsskiltet mot sør. Det må være på en rett linje fra starten innen 256 blokker.
+export.errorlength=Den registrerte lengden er <0> men det finnes en eksisterende byggeplan i eksportmappen for lengden <1>.
+export.errorwidth=Den registrerte bredden er <0> men det finnes en eksisterende byggeplan i eksportmappen for bredden <1>.
+export.errorstartinglevel=Ugyldig startnivå på linje tre av skiltet.
+export.defaultstartinglevel=Intet startnivå spesifisert, bruker -1 som standard.
+export.errorunknownblockid=Ukjent blokktype: <0>
+export.buildingexported=Eksporterte bygning som <0>.
+
+import.notonserver=Det er ikke mulig å importere bygninger på en server.
+import.errornoname=Du må gi byggeplanen et navn på første linje.
+import.errornotfound=Bygningen som forespørres finnes ikke i millenaire-custom/exports.
+import.buildingupto=Bygger opp til nivå <0>
+import.errorinvalidupgradelevel=Ugyldig oppgraderingsnivå på linje to på skiltet.
+import.buildinginitialphase=Intet oppgraderingsnivå spesifisert, bygger kun det opprinnelige stadiet.
+import.errorupgradeleveltoohigh=Forespurt oppgraderingsnivå er høyere enn det som er tilgjengelig.
+import.doublevertical=Doblet vertikal høyde
+import.buildinglevel=Bygningens nivå: <0>
+
+effect.towncentre=Landsbysentrum
+effect.shop=Butikk: <0>
+effect.irrigation=Vanningsanlegg: <0>% ekstra avlinger
+effect.pujalocation=Pudjsa avholdt
+effect.sacrificeslocation=Oppofrende ritualer avholdt
+effect.healing=Helbreder spilleren
+
+chunk.chunkmap=Kart over deler
+chunk.caption=Bildetekst
+chunk.captiongeneral=Hver del vises som en firkant bestående av 2x2 piksler.
+chunk.captiongreen=Grønne prikker indikerer en lastet del.
+chunk.captionblue=Blå prikker indikerer en del som er en bit av en landsby sitt område.
+chunk.captionpurple=Lilla prikker indikerer en del som er en bit av en enslig bygning sitt område.
+chunk.captionwhite=Hvite prikker indikerer en del som blir kontinuerlig holdt lastet av en mod (Millénaire eller annen Forge-mod)
+chunk.playerposition=Spillerens koordinater: <0>
+chunk.settings=Radius for landsbylasting: <0> meter. Maksimalt antall deler som kan bevares som tillatt av Forge: <1>.
+chunk.explanations=Millénaire-landsbyer er bare aktive dersom alle delene deres er lastede. Innbyggerne i andre landsbyer er frosset. Millénaire forsøker å tvinge Minecraft til å holde deler av landsbyer som er innen 200 meter fra spilleren lastet (denne verdien kan endres). Forge-mekanismen som brukes til dette er som standard begrenset til 200 deler. Du kan konfigurere denne verdien i minecraft/config/forgeChunkLoading.cfg. Advarsel: økning av antall deler som holdes kontinuerlig lastet vil senke ytelsen.
+chunk.chunkcoords=Del: <0>
+chunk.village=<0>
+chunk.chunkforced=Tvangslastet
+
+
+
+
+config.pagetitle=Millénaire-innstillinger
+config.page.uisettings=UI-innstillinger
+config.page.worldgeneration=Skapelse av verden
+config.page.worldgeneration.desc=Disse innstillingene gjelder kun for skapelse av verdenen i lokale verdener (ikke hos servere du muligens kobler deg til).
+config.page.villagebehaviour=Landsbyadferd
+config.page.villagebehaviour.desc=Disse innstillingene gjelder kun for landsbyer i lokale verdener (ikke hos servere du muligens kobler deg til).
+config.page.devtools=Utviklerverktøy
+
+config.village_list_key.label=Landsbyliste-tast
+config.village_list_key.desc=Tast for å vise listen over landsbyene omkring. Standard: <0>.
+
+config.quest_list_key.label=Infopanel-tast
+config.quest_list_key.desc=Tast for å vise Millénaire sitt infopanel. Standard: <0>.
+
+config.escort_key.label=Tast for aggressive livvakter
+config.escort_key.desc=Tast for å skifte hyrte landsbyboere fra aggressiv til defensiv holdning. Standard: <0>.
+
+
+config.fallback_language.label=Reservespråk
+config.fallback_language.desc=Det sekundære spillspråket som brukes når hovedspråket ikke er tilgjengelig.
+
+config.dynamic_textures.label=Dynamiske teksturer
+config.dynamic_textures.desc=Bytt automatisk til 64x teksturpakken dersom Minecraft teksturpakken er 64x eller høyere.
+
+config.language_learning.label=Språklæring
+config.language_learning.desc=Om språk behøver å "læres" (oversettelser vises kun etter at spilleren har samhandlet nok med en kultur).
+
+config.load_all_languages.label=Last alle språk
+config.load_all_languages.desc=Om alle de tilgjengelige språkene skal lastes eller ikke, for å forsyne oversettelser til klienter dersom det trengs.
+
+config.display_start.label=Vis startteksten
+config.display_start.desc=Vis Millénaire-versjonen og skapelsesoppdrag-statusen ved oppstart.
+
+config.display_names.label=Vis landsbyboernavn
+config.display_names.desc=Vis navn, yrke og gjeldende oppgave over hodene på landsbyboerne.
+
+config.villagers_names_distance.label=Distanse for visning av navn
+config.villagers_names_distance.desc=Hvor stor distanse en kan se navn fra. Standard: <0>.
+
+config.villagers_sentence_in_chat_distance_client.label=Setninger i chat (MP)
+config.villagers_sentence_in_chat_distance_client.desc=Hvor langt unna landsbyboere må være for å vise setningene deres i chatboksen i flerspillermodus. Standard: <0>.
+
+config.villagers_sentence_in_chat_distance_sp.label=Setninger i chat (SP)
+config.villagers_sentence_in_chat_distance_sp.desc=Hvor langt unna landsbyboere må være for å vise setningene deres i chatboksen i enkeltspillermodus. Standard: <0>.
+
+config.generate_villages.label=Generer landsbyer
+config.generate_villages.desc=Om Millénaire-landsbyer skal genereres i nye verdensdeler eller ei.
+
+config.generate_lone_buildings.label=Generer enslige bygninger
+config.generate_lone_buildings.desc=Om enslige bygninger fra Millénaire skal genereres i nye verdensdeler eller ei.
+
+config.keep_active_radius.label=Radius for dellasting
+config.keep_active_radius.desc=Radius rundt spilleren som Millénaire vil forsøke å holde landsbyenes deler lastet i. Standard: <0>.
+
+config.min_village_distance.label=Min. lansdbydistanse
+config.min_village_distance.desc=Minimumdistanse mellom to genererte landsbyer. Standard: <0>.
+
+config.min_village_lonebuilding_distance.label=Min. "landsby - enslig bygning"-distanse
+config.min_village_lonebuilding_distance.desc=Minimumdistanse mellom genererte landsbyer og enslige bygninger. Standard: <0>.
+
+config.min_lonebuilding_distance.label=Min. enslig bygning-distanse
+config.min_lonebuilding_distance.desc=Minimumdistanse mellom enslige bygninger. Standard: <0>.
+
+config.spawn_protection_radius.label=Startpunktets beskyttelsesradius
+config.spawn_protection_radius.desc=Område rundt startpunktet hvor Millénaire ikke vil generere bygninger. Standard: <0>.
+
+config.village_radius.label=Landsbyradius
+config.village_radius.desc=Radius til normale landsbyer (ikke grender). Standard: <0>.
+
+config.min_distance_between_buildings.label=Min. distanse mellom bygninger
+config.min_distance_between_buildings.desc=Minimumdistanse mellom to bygninger i en landsby. Standard: <0>.
+
+config.village_paths.label=Bygg landsbyveier
+config.village_paths.desc=Generer veier i nye landsbyer og la landsbyboerne oppgradere dem.
+
+config.max_children_number.label=Maks ant. barn
+config.max_children_number.desc=Maksimum antall barn en landsby kan ha. Standard: <0>.
+
+config.background_radius.label=Radius for landsbyrelasjoner
+config.background_radius.desc=Radius som landsbyer innenfor vil ha relasjoner med hverandre (diplomati, handel, raid). Standard: <0>.
+
+config.bandit_raid_radius.label=Radius for bandittraid
+config.bandit_raid_radius.desc=Radius som banditter vil raide landsbyer som er innenfor. Standard: <0>.
+
+config.raiding_rate.label=%-sjanse for raid
+config.raiding_rate.desc=Prosentsjanse for at en landsby/bandittbygning vil forsøke et raid hver natt. Standard: <0>.
+
+
+
+config.generate_colour_chart.label=Generer fargekart
+config.generate_colour_chart.desc=Genererer kart over farger som kan brukes i byggeplaner.
+
+config.generate_building_res.label=Generer ressursliste
+config.generate_building_res.desc=Genererer listen over ressurser som trengs for hver bygning.
+
+config.generate_translation_gap.label=Generer oversettelseshull
+config.generate_translation_gap.desc=Genererer for hvert språk en rapport med liste over manglende tekst.
+
+config.generate_goods_list.label=Generer vareliste
+config.generate_goods_list.desc=Genererer listen over gjenstander som Millénaire kjenner til.
+
+config.valuetrue=Ja
+config.valuefalse=Nei
+
+config.page.bonus=Bidragsyterbonus
+config.page.bonus.desc=Bonus for personer som har jobbet med Millénaire (oversettelser, byggeplaner, dialoger, teksturer, bidrag til wiki-en, osv.) eller donert: et gratis lite hus tilgjengelig fra landsbylederen.
+
+config.bonus_code.label=Bonuskode
+config.bonus_code.desc=Kode for å aktivere bonusen. Hentes fra internettet automatisk dersom en tilkobling er tilgjengelig.
+
+config.validbonuscode=Gyldig kode! Bonus aktivert.
+config.invalidbonuscode=Ugyldig kode. Vennligst sjekk igjen.
+
+
+tradehelp.title=<0> - Handel
+tradehelp.goodssold=Varer som selges
+tradehelp.goodsbought=Varer som kjøpes
+tradehelp.buyingprice=Kjøp:
+tradehelp.sellingprice=Salg:
+tradehelp.helptitle=Generelt om handel
+tradehelp.helptext=I hver butikk kan du kjøpe varer som landsbyen har på lager. Bortsett fra noen "kostnadsfrie" blokker (slik som veier) og spesielle gjenstander (stavene) så er de tilbudte varene produsert av landsbyen og dermed "mister" de tingene du kjøper fra dem, sett i kontrast mot handel med vanlige Minecraft-landsbyer.<ret><ret>Landsbyboere produserer det meste av det de trenger, men å selge dem noe av det hjelper ofte med å sette fart på utviklingen av landsbyen.
+
+tradehelp.freeblock=Disse blokkene er lagd "kostnadsfritt" av landsbyen og er derfor tilgjengelige i ubegrenset antall.
+tradehelp.wood=Landsbyboerne produserer tre i lunder. De bruker det for å bygge.
+tradehelp.stone=Landsbyboerne produserer stein og glass ved steinbrudd. Dersom landsbyen ikke har en så er de fullstendig avhengige av deg for deres behov.
+tradehelp.whitewool=Hvit ull brukes i noen bygninger. Landsbyboerne tilsetter fargestoff hvis det er nødvendig.
+tradehelp.clay=Landsbyboerne produserer murstein med leire fra steinbrudd.
+tradehelp.genericfood=Tilgang på forskjellige typer mat hjelper barn med å vokse raskere.
+tradehelp.genericfoodraw=Landsbyboerne tilbereder maten før de spiser den.
+tradehelp.genericfoodsweet=Alkohol og søtsaker øker landsbyboerne sine sjanser for å få barn.
+tradehelp.seeds=Landsbyboerne bruker frø for å så hvete og fôre kyllinger.
+tradehelp.carrot=Landsbyboere bruker gulrøtter for å fôre grisene sine.
+tradehelp.feathers=Fjær brukes til å lage piler.
+tradehelp.generictools=Verktøy av forskjellige nivåer gjør landsbyboere mer effektive.
+tradehelp.genericweapon=Våpen og rustninger av forskjellige nivåer gjør landsbyboere sterkere.
+tradehelp.purse=Bourses à deniers kan lagre denier og holde styr på midlene dine. De er alltid tilgjengelige.
+tradehelp.wand=Tilkallingsstaven lar deg skape landsbyer. De er alltid tilgjengelige.
+tradehelp.parchments=Pergamenter viser informasjon om Millénaire. De er alltid tilgjengelige.
+
+tradehelp.normanwhitewool=Hvit ull brukes i noen bygninger og trengs for å lage veggtepper i normanniske festninger.
+tradehelp.normantapestrywool=Grå, lysegrå, svart og brun ull trengs av ladyen for å lage veggtepper.
+tradehelp.normanleather=Normanniske munker bruker lær for å lage bøker.
+tradehelp.normantools=Normanniske smeder bruker jern for å lage normanniske våpen og verktøy av eksepsjonell kvalitet.
+tradehelp.normanbooks=Normanniske munker produserer bokhyller med papir og bøker. De brukes i noen bygninger.
+tradehelp.normanalchemy=Alkymisten produserer enkle trylledrikker.
+tradehelp.normancider=Normannere produserer sider og calva i kroer fra sider-epler høstet inn av tømmerhuggere. Disse drinkene helbreder og regenererer spilleren og hjelper landsbyboerne med å få barn. Calva gir også en midlertidig styrkebonus.
+tradehelp.normantripesboudin=Normannere produserer tripes og boudins fra ku og gris. Disse matrettene ernærer spilleren og hjelper barn med å vokse. Tripes gir også en midlertidig regenereringsbonus.
+tradehelp.normantapestry=Ladyer produserer disse dekorative veggteppene fra hvit, grå, lysegrå, brun og svart ull.
+tradehelp.normantimberframes=Normanniske snekkere produserer disse bindingsverkene fra tre.
+tradehelp.normanwheat=Normanniske landsbyboere lager brød og fôrer buskapet sitt med hvete.
+
+tradehelp.byzantinetools=Bysantinske smeder bruker jern og lær for å produsere jernverktøy og bysantinske rustninger.
+tradehelp.byzantinefeta=Bysantinerne produserer fetaost med melk fra sau. Disse ostene helbreder og regenererer spilleren og hjelper landsbyboerne med å få barn.
+tradehelp.byzantinebooks=Bysantinerne produserer bøker fra tre og lær.
+tradehelp.byzantinewine=Bysantinerne produserer vin fra druer i kroer. Vinen helbreder spilleren og hjelper landsbyboerne med å få barn. Det gir også en midlertidig "Motstand" bonus.
+tradehelp.byzantinesilk=Bysantinerne produserer silke og bruker det til å lage malerier, ikoner og luksuriøse klær for de rike bysantinerne.
+tradehelp.byzantineclothes=Bysantinerne produserer klær fra ull og silke. De forbedrer utseendet til landsbyboerne som har de på seg.
+tradehelp.byzantinetiles=Bysantinerne produserer fliser fra stein og leire.
+tradehelp.byzantinefood=Bysantinerne tilbereder lammelår og mikser dem sammen med fetaosten deres for å lage herlig souvlaki. Disse matrettene nærer spilleren og hjelper barn med å vokse opp. Souvlaki gir også helse.
+tradehelp.byzantineweapons=Bysantinske smeder produserer solide, formidable rustninger fra jern og lær.
+tradehelp.byzantinewheat=De bysantinske landsbyboerne lager brød og fôrer buskapet sitt med hvete.
+
+tradehelp.indiantools=Indiske smeder bruker jern for å produsere verktøy og rustninger.
+tradehelp.indiangenericfood=Tilgang til forskjellige typer mat hjelper barn med å vokse opp fortere. Advarsel: Indere spiser hverken biff eller storfekjøtt eller svin.
+tradehelp.indiangenericfoodsweet=Desserter hjelper landsbyboere med å få barn. Advarsel: Indiske landsbyboere drikker ikke alkohol.
+tradehelp.indianrasgulla=Inderne produserer herlig rasgulla med sukker. De helbreder og regenererer spilleren og hjelper landsbyboerne med å få barn. De gir også en midlertidig "Fart" bonus.
+tradehelp.indiancurry=Inderne tilbereder vegetarkarri med ris og gurkemeie så vel som kyllingkarri ved å legge til en kylling. Disse matrettene nærer spilleren og hjelper barn med å vokse opp. Kyllingkarri gir også en midlertidig "Flammemotstand" bonus.
+tradehelp.indianbricks=Inderne lar våt murstein laget av leire stå i sola til koking for å lage tørr murstein. Du kan lage de selv ved å kjøpe en form.
+tradehelp.indianstatue=Indiske skulptører produserer disse basrelieffene av Hindu-guder for å pryde indiske templer.
+
+tradehelp.japanesegold=Japanerne bruker gull for å dekorere noen bygninger.
+tradehelp.japaneseudon=Japanerne tilbereder udon fra hvete og kylling. De nærer spilleren og hjelper barn med å vokse opp.
+tradehelp.japanesetools=Japanske smeder bruker jern og lær for å produsere jernverktøy og japanske rustninger.
+tradehelp.japaneseweapons=Japanske smeder produserer vakre rustninger og formidable sverd laget av jern, lær og ull.
+tradehelp.japanesepaper=Japanske håndverkere produserer papir fra ris og bruker det til å lage gjennomskinnelige vegger.
+tradehelp.japaneseframes=Japanske håndverkere produserer bindingsverk fra tre for å bygge elegante bygninger.
+tradehelp.japaneserice=Japanerne bruker ris for å nære barna og for å få dem til vokse opp, til å produsere papir og for å gjære sake.
+tradehelp.japanesewheat=Japaneserne tilbereder hvete for å lage udon.
+tradehelp.japanesethatch=Japaneserne produserer blokker laget av hvete.
+tradehelp.japanesesake=Japanske sakebryggere bruker ris for å brygge sake. Sake helbreder og regenererer spilleren og hjelper landsbyboerne med å få barn. Det gir også en midlertidig "Høyere Hopp" bonus.
+tradehelp.japaneseikayaki=Japaneserne aler opp blekksprut og griller dem for å lage ikayaki. De nærer spilleren og hjelper barn med å vokse opp. De gir også en midlertidig "Vannpust" bonus.
+
+tradehelp.mayangold=Maya-håndverkere trenger gull for å produsere dekorative blokker. De trenger spillere som kan tilby gullet til dem.
+tradehelp.mayanfood=Maya-folket dyrker korn og lager masa (mais-tortilla) og wah (ved å legge til kylling) fra det. De nærer spilleren og hjelper barn med å vokse opp. Wah gir også en midlertidig "Hast" bonus.
+tradehelp.mayanobsidian=Maya-håndverkere produserer verktøy med obsidian de får kjøpt fra spilleren. Disse verktøyene er ikke veldig effektive, men kan enkelt bli fortryllet.
+tradehelp.mayanstonetools=Maya-håndverkere produserer verktøy og sverd fra stein som enkle verktøy ved mangel på obsidian.
+tradehelp.mayanweapons=Maya-håndverkere lager steinsverd og lærrustninger. Obsidian-håndverkere kan lage de kraftigere og veldig fortrylling-mottakelige obsidianklubbene.
+tradehelp.mayancocoa=Mayafolkets kakaobønder høster kakaobønner og bruker dem til å preparere cacauhaa, en sjokoladedrikk. Cacauhaa helbreder og regenerer spilleren og hjelper til med å øke antall landsbyboere som vil få barn. Det gir også en midlertidig "Nattsyn" bonus.

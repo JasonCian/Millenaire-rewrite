@@ -1,0 +1,21 @@
+
+villager.inuit_boy=Junge
+villager.inuit_farmer=Bauer
+villager.inuit_fisherman=Fischer
+villager.inuit_girl=Mädchen
+villager.inuit_hunter=Jäger
+villager.inuit_localmerchant=Händler
+villager.inuit_lonehunter=Jäger
+villager.inuit_lonemurderer=Mörder
+villager.inuit_lumberman=Holzfäller
+villager.inuit_smith=Schmied
+villager.merchant_byzantine=Byzantinischer Händler
+villager.merchant_japanese=Japanischer Händler
+villager.teenagerfemale=Jugendliche
+villager.teenagermale=Jugendlicher
+villager.merchant_art=Kunsthändler
+villager.merchant_food=Lebensmittelhändler
+villager.inuit_dogbreeder=Hundezüchter
+villager.inuit_lonefisherman=Einsamer Fischer
+villager.inuit_lonehunter2=Einsamer Jäger
+villager.inuit_lonelumberman=Einsamer Holzfäller

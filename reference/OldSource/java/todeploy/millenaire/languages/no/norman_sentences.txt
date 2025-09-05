@@ -1,0 +1,100 @@
+villager.greeting=Bonjour, $name! / Hei, $name!
+villager.greeting=Belle journée, n'est ce pas? / Det er en fin dag, synes du ikke?
+villager.greeting=Il va pleuvoir, je le sens / Det kommer til å regne, jeg føler det på meg.
+villager.greeting=Je ne me souvenais pas de la Normandie comme ça. / Jeg kan ikke riktig huske at Normandie var slik.
+guard.greeting=Vous avez l'air un peu faible, $name. Je vous protègerais si vous avez des ennuis. / Du ser litt spinkel ut, $name. Jeg skal beskytte deg hvis du havner i trøbbel.
+priest.greeting=Soyez béni, mon fils. / Velsignelser over deg, mitt barn.
+monk.greeting=Dieu soit avec toi, mon frère. / Gud være med deg, frende.
+boy.greeting=Quand je serai grand, je veux être comme papa. / Når jeg blir stor vil jeg bli akkurat som pappa!
+knight.greeting=Je n'obéi qu'au Roi Guillaume, Duc de Normandie, et à Dieu. Dans cet ordre. / Jeg adlyder kun kong Vilhelm, hertugen av Normandie, og Gud. I den rekkefølgen.
+knight.greeting=$name, saviez-vous que j'ai combattu à Hastings? / $name, visste du at jeg kjempet i slaget ved Hastings?
+knight.greeting=Je prend possession de cette terre au nom du Duc de Normandie! / Jeg krever dette merkelige landet til hertugen av Normandie!
+lady.greeting=Ma sœur a épousé un duc. Je vis ici. / Søsteren min giftet seg med en hertug. Jeg bor her.
+lady.greeting=Vous auriez dû voir le château de mon père. Ca c'était une vrai forteresse. / Du skulle ha sett slottet til faren min. Nå det, det var en storslagen festning.
+viking_merchant.greeting=Cette terre appartient aux vikings. L'Angleterre aussi. La Sicile aussi. Vive nous! / Dette landet er vikingland. England er et vikingland. Sicilia er et vikingland. Vi regjerer!
+viking_merchant.greeting=Aujourd'hui je vient commercer. Demain... / I dag kommer jeg for å handle. I morgen...
+weapon_merchant.greeting=Vous voulez vraiment savoir comment j'ai survécu toutes ces années voyageant seul avec des marchandises précieuses? / Ønsker du å vite hvordan jeg overlevde alle de årene jeg reiste alene med verdifult gods?
+plant_merchant.greeting=Some people say I'm a dreamer, but I'm not the only one... / 
+oriental_merchant.greeting=Ce pays est riche, mais fallait il vraiment qu'il soit si froid? / Dette landet er rikt, men må det være så kaldt her?
+oriental_merchant.greeting=Etes vous allez à Cordoue? Ca, c'est une ville civilisée. / Har du vært i Córdoba? Nå det, det er et sivilisert sted.
+art_merchant.greeting=Les gens ici sont des barbares. / Folk her er barbarer.
+art_merchant.greeting=Aucune ville dans le monde n'est comparable à Constantinople. / Ingen by i verden kan sammenlignes med Konstantinopel.
+art_merchant.greeting=Nous les byzantins sommes les derniers vrais romans. Admirez notre civilisation! / Vi bysantinerne er de siste sanne romerne. Sol deg i glansen av vår sivilisasjon.
+wool_merchant.greeting=Les textiles hollandais sont les meilleurs à l'ouest de Cathay. / Nederlandske tekstiler er det fineste vest for Cathay.
+seneschal.greeting=Je gère ces terres pour mon roi. / Jeg styrer disse landområdene for min konge.
+seneschal.greeting=J'ai hâte de retourner à la cours du roi. / Jeg er utålmodig etter å få komme tilbake til det kongelige hoffet.
+guildmaster.greeting=Les artisans ne valent rien sans quelqu'un pour les superviser. / Håndverkere er til ingen nytte uten noen til å styre dem.
+
+knight.patrol=Je reigne sur ces terres. / Jeg regjerer i disse landområdene.
+knight.patrol=La force fait le droit, et je suis fort. / Makt er rett, og jeg er mektig.
+
+lady.MakeTapestry=Personne ici n'apprécie l'art. / Ingen her verdisetter kunst.
+lady.MakeTapestry=Peut-être que ces pièces seront moins glauques avec ces tapisseries. Peut-être. / Kanskje dette stedet vil virke noe mindre snuskete med disse på veggene. Kanskje.
+
+villager.gorest=Un peu de repos me ferait du bien... / Jeg kunne trenge litt hvile...
+villager.gorest=La vie ici est un peu morne. / Livet her er litt kjedelig.
+villager.gorest=Rien d'intéressant n'arrive jamais ici. / Ingenting spennende skjer her.
+villager.gorest=Je suis fatigué. / Jeg er sliten.
+villager.godrink=C'est à boire qu'il nous faut! / Jeg trenger en drink!
+villager.godrink=Un cidre n'a jamais fait de mal à personne. / En sider skader ingen.
+villager.gopray=Je parle à Dieu, pas vous, $name. / Jeg snakker til Gud, ikke til deg, $name.
+
+farmer.BringBackResourcesHome=Récoltons ce blé doré. / La oss bringe tilbake den gylne hveten.
+farmer.CollectCrop=On dirait que le blé est mûr. / Ser ut som at hveten er moden.
+farmer.PlantSeeds=Je plante, et je récolterai. / Jeg sår, og deretter vil jeg høste.
+
+lumberman.BringBackResourcesHome=Même ma femme devra admettre que c’est beaucoup de bois. / Til og med kona må innrømme at dette er mye tre.
+lumberman.ChopTrees=Regardez-moi couper cet arbre ! / Følg med på at jeg hogger ned det treet!
+lumberman.GatherGoods=Bel arbrisseau là-bas. / Fin trespire der borte.
+lumberman.PlantSaplings=Bientôt ce sera un arbre magnifique ! Et je le couperais. / Snart vil dette bli et stort, majestetisk tre! Og deretter vil jeg hogge det ned.
+
+wife.GetHouseTHResources=On dirait que mon mari a travaillé pour une fois. / Ser ut til at min late ektemann har produsert noe for en gangs skyld.
+wife.GetResourcesForBuild=Je part chercher une tonne ou deux de matériaux. Je suis plus forte que j’en ai l’air ! / Av sted for å plukke opp et tonne eller to med byggematerialer. Jeg er sterkere enn jeg ser ut til!
+//villager.DeliverResourcesShop=
+wife.MakeBread=Mon pain est le meilleur du village. / Brødet mitt er det beste i landsbyen.
+//villager.BeSeller=Jeg kommer, jeg kommer!
+wife.MakeCider=Préparer le cidre n’est pas le pire travail par ici. / Det å forbedere sider er ikke den verste jobben her omkring.
+wife.MakeCalva=Une boisson d'homme, faite par une femme. / En drikk for menn, laget av kvinner.
+wife.construction=Je construis, je construis, comme seule une femme le peu ! / Jeg bygger, jeg bygger, slik kun en kvinne kunne gjøre!
+wife.construction=Les hommes n’ont pas la finesse nécessaire au travail de précision. / Menn har ikke finessen som trengs for presisjonsarbeid.
+wife.construction=Ca va être un bâtiment superbe. / Dette kommer til å bli en stilig bygning.
+wife.getGoodsHousehold=Pourquoi est ce toujours moi qui doit tout aller chercher ? / Hvorfor er det alltid jeg som blir den som må gå å plukke opp ting?
+wife.DeliverGoodsHousehold="Vas chercher ci, vas chercher ça", ils me disent. Un jour je refuserais ! / "Skaff dette, skaff det," sier de. En dag vil jeg ikke! Jeg skal ikke!
+
+villager.GoPlay=Je vais aller jouer dehors. / Jeg tror jeg skal gå å leke utendørs.
+villager.BecomeAdult=Il est l’heure de devenir quelqu’un ! / På tide å bli noe i verden!
+
+villager.MakeBoudin=Vous ne le mangeriez pas si vous saviez comment c’est fait. / Du ville ikke ha spist det hvis du visste hvordan det blir lagd.
+
+smith.MakeNormanTools=Les outils normands sont les meilleurs du monde. / Normanniske verktøy er de fineste i verden.
+smith.MakeNormanWeapons=N'essayez pas d'affronter un homme armé par mes soins. / Ikke forsøk å kjempe mot en mann utrustet av meg.
+
+
+miner.Mining=Miner est un art, vous savez. / Gruvedrift er en kunst, vet du.
+miner.Mining=Personne d’autre dans le village n’a la force et l’endurance nécessaire à ce travail. Et vous pensez qu’ils sont reconnaissants ? / Ingen andre i landsbyen har styrken og utholdenheten til å gjøre denne jobben. Og hva for slags takk får jeg?
+miner.Cooking=Ca c’est de la vrai cuisson. / Dette er seriøs matlaging.
+
+villager.gopray.chosen=Ca fait longtemps que je n’ai pas prié… / Det er lenge siden sist gang jeg ba til Gud...
+priest.gopray.chosen=Prier est plus dur qu’il n’y paraît. / Det å be er mer komplisert enn det ser ut til å være.
+
+villager.calltoarms=Aux armes ! Aux armes ! / Til våpen! Til våpen!
+villager.calltoarms=Montjoi Saint-Denis!
+villager.calltoarms=Tous pour un ! / Alle for én!
+villager.calltoarms=Aux armes, citoyens!
+
+monk.makebooks=Si la vanité n’était pas un péché, je dirai que mes manuscrits sont les plus beaux du pays. / Dersom forfengelighet ikke var en synd, så ville jeg si at mine manuskripter er de fineste i landet.
+
+priest.makeamulets=Ceci ne devrait pas être vu par un étranger… / Dette burde ikke bli sett av utenforstående...
+
+viking_merchant.KeepStall=La magie viking est puissance. / Vikingmagi er kraftig magi.
+viking_merchant.KeepStall=Venez et achetez. Je ne vous parlerai pas des sacrifices nécessaires pour rendre ces amulettes puissantes. / Kom og kjøp. Jeg kommer ikke til å fortelle deg hva slags ofre som måtte gjennomføres å gjøre disse amulettene sterke.
+weapon_merchant.KeepStall=Vous ne voulez pas savoir ce qui est arrivé à l’homme qui m’a fait cette cicatrice. Mais vous pouvez acheter la lame que j’ai utilisée. / Du vil ikke vite hva som skjedde med mannen som ga meg det arret. Men du kan kjøpe kniven jeg brukte.
+plant_merchant.KeepStall=Je vend toutes les herbes dont vous aurez jamais besoin. / Jeg selger alle urter du noensinne vil trenge.
+oriental_merchant.KeepStall=Venez voir des produits de luxes tels que les gens d’ici ne voient jamais ! / Kom å se luksus som folk her bare kan drømme om!
+art_merchant.KeepStall=Des perles pour des cochons, comme ils disent ici. / Perler for svin, som de sier her.
+wool_merchant.KeepStall=Toute la laine rose qu’il vous faut ! / All den rosa ullen du vil ha bruk for!
+
+villager.makeglassbottles=Une fiole de qualité, c'est une potion réussie! / En vellaget flaske trengs for en vellykket trylledrikk!
+villager.harvestwarts=Heuresement que je porte des gants. / Takk Gud for at jeg har på meg hansker.
+villager.plantwarts=Seul Maître Vif-argent aurait pu comprendre comment cultiver ces horreurs. / Bare mester Vif-argent kunne ha forstått hvordan man får disse vederstyggelighetene til å vokse.
+villager.brewpotions=Un jour je serais un maître alchimiste! / En dag vil jeg bli en mester innen alkymi!

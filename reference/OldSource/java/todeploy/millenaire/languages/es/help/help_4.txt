@@ -1,0 +1,7 @@
+
+version:3.4
+<darkblue>Expansión de la aldea
+Todas las aldeas comienzan siendo pequeñas alrededor de un edificio central (de diversa naturaleza: fuerte, palacio, monasterio, etc ... comúnmente conocida como el "ayuntamiento"), con algunas casas y otros edificios. El objetivo principal de los aldeanos es expandir su aldea seleccionando nuevos edificios para construir y mejoras para los edificios existentes. Por esa razón, necesitan recursos - pueden producir algunos por ellos mismos (los leñadores cosechan madera, y los mineros piedra...), pero dependendiendo del jugador para el resto. Sus necesidades de material para el proyecto de construcción se muestran en el edificio principal. Puedes ayudar vendiéndoles estos recursos que necesiten.
+La población de la aldea también se incrementará con el tiempo - en la noche, los aldeanos casados pueden tener hijos. Una vez crezcan, estos niños se mudarán a nuevos hogares, si los hay disponibles, y se convertirán en adultos.
+La expansión de una aldea normalmente cesará de dos formas: ya sea porque el pueblo ha completado todas las estructuras edificables, o porque no tienen sitio donde construir. En este caso, puedes ver en el mapa de la aldea cuáles son las áreas no edificables. A veces es posible hacerlas edificables, por ejemplo tapando un lago.
+A veces, una aldea necesita un tipo de bloque que no puedes craftear por ti mismo, como los marcos de madera normandos y japoneses. Debes esperar a que la aldea construya un taller y se instale un niño allí como artesano.

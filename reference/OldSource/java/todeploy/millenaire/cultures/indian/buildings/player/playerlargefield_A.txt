@@ -1,0 +1,16 @@
+//Parameters for the building as a whole
+building.length=10
+building.width=12
+building.buildingorientation=3
+building.max=0
+building.reputation=8192
+building.price=640
+building.icon=fence_acacia
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Bari Saajisa
+initial.priority=1000000
+initial.pathlevel=1
+

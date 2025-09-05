@@ -1,0 +1,17 @@
+//Parameters for the building as a whole
+building.length=15
+building.width=15
+building.buildingorientation=3
+building.startinggood=maize,1.0,1,16
+building.startinggood=denier,1.0,20,44
+building.startinggood=denierargent,0.2,2,2
+building.startinggood=mayangold,0.5,2,20
+building.startinggood=mayanstatue,0.5,1,4
+building.startinggood=gold,0.8,10,10
+
+building.icon=mayangold
+
+//Parameters for initial construction
+initial.nativename=Sa'at Muul
+initial.priority=10
+

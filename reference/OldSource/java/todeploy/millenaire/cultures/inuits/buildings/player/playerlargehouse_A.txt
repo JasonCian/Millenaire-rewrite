@@ -1,0 +1,15 @@
+//Parameters for the building as a whole
+building.length=16
+building.width=11
+building.buildingorientation=3
+building.max=0
+building.reputation=24576
+building.price=6142
+building.icon=denieror
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Sugruk Tupiq
+initial.translatedname=name_en,large house
+

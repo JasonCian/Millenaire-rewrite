@@ -1,0 +1,15 @@
+
+0;Estranho;Não confiamos muito em forasteiros por aqui, mas seja honesto connosco e verá que somos um povo hospitaleiro.
+4*64;Conhecido;Já o temos visto por cá anteriormente, e até agora nenhum frango tem desaparecido. Continue assim e dar-nos-emos bem.
+8*64;Rosto conhecida; Você parece ter causado uma boa impressão em muitos de nós.
+16*64;Visitante Regular;Bom dia, $name! É bom vê-lo de novo.
+32*64;Companheiro Explorador; Parece que você também está encalhado neste mundo. Bem, podemos explorar esse novo lugar juntos e lucrar!
+64*64;Comerciante Favorito;Ah, $name! A aldeia esperava ansiosamente pelo seu retorno.
+2*64*64;Amigo da Aldeia;Nós Normandos não confiamos em alguém facilmente, mas meu bom amigo $name, mostrou-se verdadeiramente digno de confiança!
+4*64*64;Aliado; Neste mundo estranho, todo mundo precisa de aliados. Considere-nos um, por toda a ajuda que você nos deu.
+8*64*64;Um de Nós;É sempre um prazer revê-lo, $name. Pode ter vindo de terras distantes, mas agora é verdadeiramente um de nós.
+32*64*64;Líder Natural;$name, conquistou a confiança e o respeito dos Normandos. Eles segui-lo-ão para qualquer lado.
+16*32*64*64;O próximo de Kinniken;
+-64;Incómodo;Nós estamos de olho em si, $name. Tenha cuidado.
+-4*64;Forasteiro Indesejável;Tem demonstrado ser um verdadeiro incómodo por aqui. Dê graças por ainda não o termos posto na rua.
+-16*64;Inimigo Público;A sua presença por cá é praticamente intolerável. Mais um erro da sua parte e acredite que será o seu último.

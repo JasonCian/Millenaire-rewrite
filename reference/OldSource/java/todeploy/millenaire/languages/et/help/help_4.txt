@@ -1,0 +1,10 @@
+﻿version:3.4
+<darkblue>Küla suurendamine
+
+Kõik külad alustavad väikse alaga kesk ehitise ümber (erinevad kesk ehitised on: kindlus, palee, klooster, jms ... tavaliselt  osutatud "raekoda"), mõndade majadeha või teiste ehitistega. Külaelanike peamine eesmärk on nende küla suurendamine uute ehitistega ja olemasolevate ehitisiste uuendamisega. Selleks kõigeks on neil vaja ressurss - nad saavad teha ja koguta ressursse (puuraidurid koguvad puitu ja kaevurid koguvad kive...) aga mängija peab teisi ressursse andma ise. Nende materjaalne vajalikus plaanitud ehitusele on näitatud põhi hoones. Sa saad aitada kui müüd neile resursse.
+
+Küla populatsioon samuti suureneb läbi aja - õhtuti abiellunud külaelanikud saavad lapsi. Kui laps on suureks kasvanud lähevad nad uute majja kui on võimalik ja saavad täiskasvanuteks.
+
+Küla suurenemine lõppeb kahte põhi moodi : kas külal lõppeb ehitisi mida teha või kuna külal pole enam ruumi. Viimasel juhul sa saad vaatada küla kaardilt mis alad on ehitamis kõlbmatud. On mõnikord võimalik need teha ehitus võimalikuks,näitkes kui katta ära järv.
+
+Mõnikord küla vajab ploki tüüpi mida sa ei saa ise teha,nagu näiteks  normannide ja jaapanlaste sõrestik. Sa pead ootama kuni küla ehitab töökoja ja paneb sinna kellegi töötama.

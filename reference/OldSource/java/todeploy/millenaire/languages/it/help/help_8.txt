@@ -1,0 +1,13 @@
+version:3.4
+<darkblue>I Normanni
+
+La prima cultura comparsa in Millenaire, i Normanni hanno il maggior numero di tipi di villaggi - agricoli, militari, religiosi, artigiani, e anche gros bourgs (grandi cittadine) che hanno tre sobborghi ciascuno. Parlano francese, ma i dialoghi sono tradotti quando il giocatore "impara" la lingua interagendo con loro.
+
+<darkblue>Blocchi e oggetti unici
+
+I normanni producono molti oggetti unici:
+-Utensili normanni, migliori di quelli in diamante (fatti nella forgia dal fabbro).
+-Spade e armature normanne, fatte nell'armeria e migliori delle controparti in diamante.
+-Boudin, trippa, calvados e sidro, alimenti che ripristinano direttamente la salute del giocatore.
+-Grattici di legno, un blocco con due varianti usato per edifici evoluti, prodotti solo dai carpentieri.
+-Tappezzerie normanne, prodotti dalla signora del castello a partire dalla lana, Riproducono la Tappezzeria di Bayeux.

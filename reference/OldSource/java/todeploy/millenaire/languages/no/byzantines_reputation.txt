@@ -1,0 +1,10 @@
+0;Fremmed;Som et handelsfolk så er vi nødt til å akseptere alle. Men det behøver ikke bety at vi stoler på dem.
+4*64;Kjent ansikt;Du har blitt sett ofte i disse romerske områdene den siste tiden.
+16*64;Stamgjest;Xaire, $name! Godt å se deg. Hvordan går det?
+64*64;Favorittforhandler;Alle her er glade for å se deg. Har du noe du kan gjøre handel med?
+2*64*64;Venn av landsbyen;Du er en del av landsbyen vår nå $name, vi stoler på deg!
+8*64*64;En av oss;Vi anser deg nå som en romersk borger, $name. Kanskje du ikke ble født som en av oss, men du kan nå være stolt av å kunne kalle deg selv en sann romer.
+32*64*64;Naturlig leder;$name, du har tilegnet deg tilliten og respekten til bysantinerne. De vil følge deg hvor enn du går.
+-64;Plage;Du er ikke veldig snill, $name. Pass på.
+-4*64;Ubehagelig utenforstående;Vi aksepterer handelsfolk, men ikke folk som deg. Vær på vakt.
+-16*64;Samfunnsfiende;Det var en skam for det hele romerske riket å la deg få leve. Mens du fortsetter å nyte livet, forlat disse romerske landområder og kom aldri tilbake.

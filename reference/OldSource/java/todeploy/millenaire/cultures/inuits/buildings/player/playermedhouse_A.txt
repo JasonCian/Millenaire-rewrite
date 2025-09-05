@@ -1,0 +1,15 @@
+//Parameters for the building as a whole
+building.length=10
+building.width=7
+building.buildingorientation=3
+building.max=0
+building.reputation=12288
+building.price=2688
+building.icon=denierargent
+
+
+//Parameters for initial construction
+initial.startlevel=-5
+initial.nativename=Tupiq
+initial.translatedname=name_en,house
+

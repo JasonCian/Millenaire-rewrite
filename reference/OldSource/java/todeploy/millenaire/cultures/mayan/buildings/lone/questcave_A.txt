@@ -1,0 +1,14 @@
+//Parameters for the building as a whole
+building.length=50
+building.width=30
+building.buildingorientation=3
+building.startingsubbuilding=questcave_door
+building.max=0
+
+building.travelbook_display=false
+building.icon=mayanmace
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Kak Actun
+

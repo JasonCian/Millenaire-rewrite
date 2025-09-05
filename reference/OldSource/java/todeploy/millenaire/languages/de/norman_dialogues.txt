@@ -1,0 +1,372 @@
+newchat;key:rain,tag:notraining,weigth:10
+v1;0;Je sens qu'il va pleuvoir. / Ich kann fühlen das es bald regnet.
+v2;30;Il pleut toujours en Normandie. / Es regnet immer in der Normandie...
+
+
+newchat;key:beautifulvillage,weigth:10
+v1;0;Il est beau notre village, tu ne trouve pas? / Unser Dorf ist schön, findest du nicht auch?
+v2;30;Magnifique! Et on y travaille dur! / Prächtig! Wir haben hart dafür gearbeitet!
+
+newchat;key:sunset,weigth:10
+v1;0;Le soleil se lève où, déjà? J'oublie toujours. / Wo geht die Sonne nochmal auf? Ich vergesse es ständig.
+v2;30;Au nord, bien sûr! / Norden, wo sonst?
+
+newchat;key:harvest,weigth:10
+v1;0;Tu penses que la récolte sera bonne cette année? / Denkst du die Ernte wird gut dieses Jahr?
+v2;30;Qui sait, avec le temps qu'il a fait. / Wer weiss, bei dem Wetter das wir hatten.
+v1;60;Il n'y a plus de saisons. / Jahreszeiten machen hier keinen Sinn.
+
+newchat;key:indianfood,weigth:5
+v1;0;Tu as entendu parler des Indiens? / Hast du von diesen Indern gehört?
+v2;30;Il paraît qu'ils sont très bizarres. / Die Leute sagen sie wären sehr seltsam.
+v1;60;J'ai même entendu dire que leur nourriture brûle! / Angeblich brennt ihr essen!
+v2;100;Comme du calva? / Wie Calva?
+v1;120;Non, pire! / Nein, schlimmer!
+
+
+
+newchat;key:byzantines,v1:adult,v2:adult,weigth:5
+v1;0;Ces byzantins m'énervent! / Diese Byzantiner gehen mir auf die nerven!
+v2;30;Oui, tu as vu comme ils nous prennent de haut? / Hst du gesehn wie arrogant die werden?
+v1;60;Tout ça parce qu'ils prétendent être romains. / Nur weil sie denken sie seien Römer.
+v2;100;Quelle blague. Des romains dégénérés, alors. / Was für ein Witz. Degenerierte Römer, wenn überhaupt.
+v1;130;On devrait organiser un raid chez eux. / Wir sollten sie überfallen!
+v2;160;On est vikings après tout! / Wir sind immerhin Wikinger!
+
+newchat;key:storm,weigth:10
+v1;0;Il y a eu un orage terrible hier. / Das war ein schrecklicher Sturm gestern.
+v2;30;Oui, j'ai cru que le toit allait s'envoler. / Wahrlich. Ich dachte das Dach würde wegfliegen.
+v1;60;Il faudrait les renforcer tous. / Wir sollten alle verstärken.
+
+newchat;key:visitors,weigth:10
+v1;0;Ce qui manque ici, c'est des visiteurs. / Was uns hier fehlt sind Besucher.
+v2;30;Il y a bien $name... / Nun, da ist $name...
+v1;60;Oui, mais il est un peu bizarre, non? / Aber er ist etwas seltsam oder?
+v2;100;C'est vrai qu'on ne sait jamais trop ce qu'il va faire. / Das ist wahr, wir wissen nie was er vorhat.
+
+newchat;key:christmas,weigth:10
+v1;0;C'est quand Noël, déjà? / Wann ist Weihnachten?
+v2;30;Je ne sais pas trop... Les saisons ne changent pas ici. / Ich weiss es nicht wirklich. Die Jahreszeiten wechseln hier nicht..
+v1;80;Quel monde bizarre quand même. / Was für eine komische Welt.
+v2;110;Parfois on dirait presque la Normandie... / Manchmal sieht es fast wie in der Normandie aus...
+v2;140;et puis on se rappele que tout est différent. / Und dann sehen wir das alles anders ist.
+
+newchat;key:william,v2:adult,weigth:10
+v1;0;Tu as déjà vu le Duc Guillaume, toi? / Hast du jemals Herzog William gesehen?
+v2;30;Non, jamais. Et qui sait où il est maintenant? / Nein, nie. Und wer weiss, wo er jetzt ist?
+v1;60;S'il était là, nous aurions déjà conquis ce nouveau monde! / Wäre er hier, hätte er diese neue Welt längst erobert!
+v2;100;Vive le Duc Guillaume! / Lang lebe Herzog William!
+
+newchat;key:floatingearth,v2:adult,weigth:10
+v1;0;Tu as remarqué, ici la terre flotte si on creuse en-dessous. / Ist dir aufgefallen das Erde hier schwebt wenn wir unter sie graben?
+v2;40;Oui, et alors? / Ja, na und?
+v1;60;En Normandie, elle tombait... / In der Normandie, fiel sie runter...
+v2;90;En Normandie, Dieu voulait qu'elle tombe. Ici, il veut qu'elle flotte. / In der Normandie, wollte Gott das sie fällt. Hier will er das sie schwebt.
+v2;150;Pourquoi critiques-tu Dieu? / Warum kritisierst du Gott?
+
+newchat;key:likingrain,tag:raining,weigth:10
+v1;0;J'aime bien la pluie. / Ich mag Regen.
+v2;30;C'est une bonne chose pour un normand! / Gute Eigenschaft für einen Normannen!
+
+newchat;key:boudintripes,weigth:10
+v1;0;Tu préfères quoi toi, le boudin ou les tripes? / Was magst du lieber, Boudin oder Tripes?
+v2;40;Le boudin, les tripes c'est trop lourd. / Boudin. Tripes ist zu schwer!
+v1;80;Trop lourd? Et tu te dis normand? / zu schwer? Und du nennst dich einen Normannen?
+
+newchat;key:horses,v1:child,v2:adult,weigth:10
+v1;0;Ca manque d'animaux, ce pays. / Diesem Land fehlen Tiere.
+v2;30;Il y a des vaches, des moutons et des cochons. / Es gibt Kühe, Schafe und Schweine.
+v2;60;Que faudrait-il de plus? / Was brauch man noch?
+v1;60;Des chevaux? Et des poneys! / Pferde? Und Pony's!
+v2;90;Parce que tu veux un poney, maintenant? / Weil du ein Pony willst, oder?
+
+
+newchat;key:tripes,v1:adult,v2:adult,v1:male,v2:female
+v1;0;Les tripes, ça c'est un plat d'homme. / Tripes, das ist ein Gericht für Männer.
+v2;30;Préparé par les femmes... / Von Frauen zubereitet...
+v1;60;Mais avec des vaches abattues par des hommes! / Mit Kühen, geschlachtet von Männern!
+v2;100;Et nourries par des femmes... / Und gefüttert von Frauen...
+
+newchat;key:countingcows,weigth:10
+v1;0;Ca manque de distraction par ici. / Hier gibts nicht viel zu tun.
+v2;30;C'est bien, c'est calme. / Das ist gut, es ist friedlich.
+v1;60;Et ennuyeux... / Und langweilig...
+v2;75;Tu n'as qu'à compter les vaches pour te distraire. / Warum zählst du keine Kühe?
+v1;110;Déjà fait hier. Et les poulets aussi. / Hab ich schon, Gestern. Und Hühner auch.
+
+newchat;key:paris,v1:adult,v2:adult,weigth:2
+v1;0;Quel coin paumé ici, quand même. J'aimerai voir autre chose un jour... / Was für ein einsamer Ort. Ich möchte eines Tages auch etwas anderes sehen...
+v2;30;Les autres villages sont tous pareils. / Die Dörfer sind doch alle gleich.
+v1;60;Pas un village! Un bourg. Ou même une ville! / Kein Dorf! Eine Stadt! Oder sogar eine Großstadt!
+v2;90;Quoi, comme Rouen? Tu es fou, c'est à des jours d'ici. / Welche, Rouen? Du bist verrückt, das sind Tage von hier.
+v1;120;Rouen... ou même... Pourquoi pas Paris? / Rouen... oer vielleicht... Warum nicht Paris?
+v1;150;Tu te rend compte, on dit qu'il y aurait 25 000 personnes là-bas! / Stell dir vor, die Leute sagen dort leben über 25.000 Leute!
+v2;180;Tu divague, mon pauvre. 25 000 personnes au même endroit? Et où on les mettrait? / Du bist wahnsinnuig. 25.000 am selben Ort? Wo sollten die alle hin?
+
+newchat;key:calva,v1:adult,v2:adult,v1:male,v2:male,weigth:10
+v1;0;Par ce temps, un petit calva s'impose! / Bei diesem Wetter ist Calva ein Muss!
+v2;30;Par tous les temps! / Bei jedem Wetter!
+v1;50;A la Normandie et son climat à calva! / Ein Hoch auf die Normandie und sein Calva-Wetter!
+v2;70;Santé! / Prost!
+
+newchat;key:boyvillagechief,v1:child,v1:male,v2:adult,weigth:5
+v1;0;Quand je serais grand, je serais le chef du village! / Wenn ich erwachsen bin, werde ich das Dorf führen!
+v2;30;Il va falloir que tu mange beaucoup de soupe avant d'en arriver là. / Du wirst eine Menge Suppe brauchen bevor du dort ankommst.
+v1;60;Et je te ferais punir! / Und dich werde ich bestrafen!
+v2;70;C'est ça. En attendant, va travailler ou tu vas prendre une claque. / Klar. Aber jetzt, ab zur Arbeit sonst klatscht es!
+
+newchat;key:kids1,v1:child,v2:child,weigth:10
+v1;0;Mon papa est bien plus fort que le tien. / Mein Vater ist viel stärker als deiner.
+v2;30;N'importe quoi. Mon papa est le plus fort du village. / Schwachsinn. Mein Vater ist der stärkste im ganzen Dorf.
+v1;60;Tu rêves. Mon père met le tien par terre en deux minutes. / Träum weiter. Mein Vater schlägt deinen in weniger als zwei Minuten.
+v2;70;Et la Terre est ronde! / Und die Erde ist rund!
+
+newchat;key:kids2,v1:child,v1:male,v2:child,v2:female,weigth:10
+v1;0;Les filles, ça ne sert à rien. / Mädchen sind nutzlos.
+
+newchat;key:kids3,v2:child,v2:male,v1:child,v1:female,weigth:10
+v1;0;T'es peut être un garçon, mais je te fait pleurer quand je veux. / Du magst ein Junge sein, doch wenn ich wollte könnte ich dich zum heulen bringen.
+v2;30;Même pas vrai! Même pas vrai! / Stimmt nicht! Stimmt nicht! 
+
+newchat;key:enderman,v1:adult,v2:child,weigth:10
+v1;0;Sois sage, ou l'homme des limbes t'emportera cette nuit! / Sei artig, oder der Enderman holt dich heute Nacht!
+v2;40;Pfff, j'ai passé l'âge de croire à ces bêtises. / Pfff, ich bin zu alt um an diesen Schwachsinn zu glauben.
+
+newchat;key:badflirt,v1:adult,v2:adult,v1:nospouse,v2:nospouse,v1:male,v2:female,notrel:sibling,v1:notvtype:monk-priest-abbot,weigth:20
+v1;0;Alors beauté, qu'est ce que tu fais ce soir? / Nun Schönheit, was wirst du heute Nacht tun?
+v2;40;$targetfirstname, je t'ai déjà dit non! / $targetfirstname, ich habe dir schon nein gesagt!
+v1;60;Quel caractère! / Welch Charakter!
+v2;80;Quel nigaud! / Welch Dummheit!
+
+newchat;key:badflirt2,v1:vtype:guard-lumberman,v2:adult,v1:hasspouse,v2:female,notrel:sibling,notrel:parent,notrel:child,weigth:20
+v2;0;$targetfirstname, quels beaux muscles! / $targetfirstname, welch schöne Muskeln!
+v1;30;Tais-toi, malheureuse! Si ma femme t'endend... / Sei leise, du Dummkopf! Wenn meine Frau uns hört...
+v2;60;Et bien quoi, bel homme? / Dann was, süßer?
+v1;90;Tu sais bien comme elle est jalouse! / Du weisst wie eifersüchtig sie wird!
+v2;120;Et? Elle te fait peur? / Und? Hast du Angst vor ihr?
+v1;140;Peur? Elle? Quelle blague! / Angst? Vor ihr? Du machst Witze!
+v2;160;Ha!
+
+newchat;key:frerejacques,v1:child,v2:child,weigth:10
+v1;0;Frère Jacques, frère Jacques / *singt*Bruder John, Bruder John
+v2;30;Dormez-vous? Dormez-vous? / *singt*Schläfst du noch, schläfst du noch?
+v1;60;Sonnez les matines! Sonnez les matines! / *singt*Läute die Morgenglocken! Läute die Morgenglocken!
+v2;100;Ding, daing, dong. Ding, daing, dong!
+
+
+newchat;key:alouette,v1:child,v2:child,weigth:10
+v1;0;Alouette, gentille alouette, / *singt*Kleine Lerche, liebe kleine Lerche.
+v2;0;Alouette, gentille alouette, / *singt*Kleine Lerche, liebe kleine Lerche.
+v1;30;Alouette, je te plumerai. / *singt*Kleine Lerche, ich zupfe dir die Federn raus.
+v2;30;Alouette, je te plumerai. / *singt*Kleine Lerche, ich zupfe dir die Federn raus.
+v1;60;Je te plumerai la tête. / *singt*Ich zupfe dir die Federn von deinem Kopf.
+v2;60;Je te plumerai la tête. / *singt*Ich zupfe dir die Federn von deinem Kopf.
+v1;90;Et la tête! Et la tête! / *singt*Ab mit deinem Kopf!
+v2;90;Et la tête! Et la tête! / *singt*Ab mit deinem Kopf!
+v1;120;Pauvre alouette quand même... / Arme Lerche...
+v2;160;Pourquoi? C'est drôle! / Warum? Das macht Spaß!
+
+
+newchat;key:loupyesttu,v1:child,v2:child,weigth:10
+v1;0;Promenons-nous dans les bois, / *singt*Lass uns im Wald spazieren,
+v2;0;Promenons-nous dans les bois, / *singt*Lass uns im Wald spazieren.
+v1;30;Tant que le loup n'y est pas. / *singt*Wenn der Wolf weg ist,
+v2;30;Tant que le loup n'y est pas. / *singt*Wenn der Wolf weg ist.
+v1;60;Si le loup y était / *singt*Wenn der Wolf da wär,
+v2;60;Si le loup y était / *singt*Wenn der Wolf da wär.
+v1;90;Il nous mangerait, / *singt*Würde er uns fressen,
+v2;90;Il nous mangerait, / *singt*Würde er uns fressen,
+v1;120;Mais comme il n'y est pas, / *singt*Doch da er nicht da ist,
+v2;120;Mais comme il n'y est pas, / *singt*Doch da er nicht da ist,
+v1;150;Il nous mangera pas. / *singt*Wird er uns nicht fressen.
+v2;150;Il nous mangera pas... / *singt*Wird er uns nicht fressen...
+v2;180;Euh, tu es sûr? / Äh, bist du sicher?
+v1;200;Lâche! / Feigling!
+
+
+newchat;key:dagobert,v1:child,v2:child,weigth:10
+v1;0;Le bon roi Dagobert / *singt*Der gute König Dagobert,
+v1;30;A mis sa culotte à l'envers / *singt*trug seine Hose linksherum.
+v1;60;Le grand saint Éloi / *singt*Der große Sankt Eloy
+v1;90;Lui dit : Ô mon roi ! / *singt*Sagte ihm, Oh mein König !
+v1;120;Votre Majesté / *singt*Ihre Majestät
+v1;150;Est mal culottée. / *singt*Ist schlecht behost.
+v2;180;Mal culottée? Ca veut dire quoi? / Schlecht "behost"? Was soll das heissen?
+v1;220;Qu'il a pas de culotte! / Das er kene Hosen hat!
+v2;250;N'importe quoi, c'est le roi! / Unsinn, er ist der König!
+v1;280;Ben il a pas de culotte le roi! / Nun, der König hat keine Hosen!
+v2;310;Même toi t'as une culotte, idiot! / Selbst du hast Hosen, Idiot!
+
+newchat;key:confession,v1:vtype:abbot-priest,v2:male,v2:notvtype:abbot-priest,weigth:10
+v1;0;Mon fils, il y a longtemps que tu ne t'es pas confessé. / Mein Sohn, deine letzte Beichte liegt lange zurück.
+v2;40;Mais mon Père, je n'ai pas péché! / Aber Vater, ich habe nicht gesündigt!
+v1;70;Tout le monde pèche dans ce bas monde. / Jeder sündigt in dieser verloren Welt.
+v2;110;Même vous, mon père? / Selbst du, Vater?
+v1;130;Ne sois pas insolent! Tu feras dix Pater Noster en pénitence! / Welch Anmaßung! Du sollst zehn Vater Unser in reue aufsagen!
+
+
+newchat;key:confession2,v1:vtype:abbot-monk-priest,v2:female,v2:adult,weigth:10
+v1;0;Ma fille, il y a longtemps que tu ne t'es pas confessée. / Mein Tochter, deine letzte Beichte liegt lange zurück.
+v2;30;C'est vrai mon père, et j'ai péché! / Es ist wahr, Vater. Und ich ahbe gesündigt!
+v1;60;Si c'est un péché de chair, nous en parlerons ailleurs. / Wenn es eine Sünde des Fleisches war, sollten wir dies woanders besprechen.
+v2;100;Merci, mon père. / Danke Vater.
+v1;120;En attendant, dix Pater Noster. Ca servira toujours! / In der Zwischenzeit, zehn Vater Unser. Hilft immer!
+
+newchat;key:carpenter,v1:vtype:carpenter,weigth:10
+v1;0;J'ai encore amélioré ma technique. / Ich habe meine Fähigkeiten wieder verbessert..
+v1;30;Avant d'assembler les colombages, je commence par... / Bevor ich die Rahmen zusammenfüge beginne ich mit...
+v2;70;C'est fascinant. / Faszinierend.
+v1;90;Tu trouves? / Meinst du wirklich?
+v2;110;Non. / Nein.
+
+newchat;key:cattlefarmer,v1:vtype:cattlefarmermale-cattlefarmerfemale,v2:notvtype:cattlefarmermale-cattlefarmerfemale,weigth:10
+v1;0;J'adore préparer des tripes. D'abord, saigner la vache... / Ich liebe es Tripes zuzubereiten. Erst die Kuh ausbluten...
+v1;40;Puis extraire les boyaux... / Dann die Eingeweide sammeln...
+v2;60;Arrête, tu me dégoutes! / Hör auf, du ekelst mich an!
+v1;80;Mais tu adores les tripes! / Aber du liebst Tripes!
+v2;110;Et je ne veux pas savoir comment elles sont faites. / Und ich will nicht wissen wie es gemacht wird!
+
+newchat;key:farmer,v1:vtype:farmer,v2:notvtype:farmer,weigth:10
+v1;0;Aucun doute, fermier c'est le métier le plus important. / Ohne Zweifel ist Landwirtschaft der wichtigste Beruf.
+v1;40;Sans moi, pas de pain! / Ohne mich, gäbe es kein Brot!
+v2;60;Je préfère les tripes, de toute façon. / Tripes ist mir eh lieber.
+
+newchat;key:guildmaster,v1:vtype:guildmaster,weigth:10
+v1;0;Quand j'étais jeune, j'étais un apprenti très prometteur. / Als ich jung war, war ich eine wirklich viel versprechende Erscheinung.
+v1;40;Guillaume Vif-Argent lui-même s'intéressait à moi! / Guillaume Vif-Argent selbst war an mir interessiert!
+v1;80;Et maintenant je suis coincé ici. / Und nun stecke ich hier fest.
+v1;110;A m'occuper d'abrutis. / Kümmere mich um Idioten.
+v2;130;Hein, quoi? / Äh, was?
+v1;150;*soupir* / *seufz*
+
+
+newchat;key:knight,v1:vtype:knight,weigth:10
+v1;0;Regarde mon château! Une vraie forteresse! / Siehe mein Schloss! Eine wahre Festung!
+v2;30;Vous êtes si puissant, seigneur! / Ihr seid mächtig, mein Herr!
+v1;60;Quand le Duc Guillaume reviendra, il me fera sûrement Comte! / Wenn Herzog William zurück kommt, wird er mich bestimmt zum Grafen machen!
+v2;100;Vive le Compte $targetfirstname! / Ein Hoch auf Graf $targetfirstname!
+v1;130;Vive moi! / Ein Hoch auf mich!
+
+newchat;key:lady,v1:vtype:lady,v2:notvtype:knight,weigth:10
+v1;0;Ma beauté est célèbre dans ces contrés. / Meine Schönheit ist legendär in diesen Landen.
+v2;30;Vous êtes superbe, ma Dame! / Ihr seid prächtig, meine Dame!
+v1;60;Et pourtant j'ai épousé un petit chevalier de rien du tout... / Und doch heiratete ich einen armen, nutzlosen Ritter...
+v2;100;Mais sa Seigneurie deviendra certainement comte un jour! / Seine Lordschaft wird sicherlich eines Tages zum Grafen werden!
+v1;130;Ce nigaud? Ah! Et pourquoi pas Pape, tant qu'à faire? / Dieser Idiot? Warum nicht gleich Papst, wenn du schon dabei bist?
+v2;160;Pourquoi pas, ma Dame! Euh... Je voulais dire... / Warum nicht, meine Dame! Äh... Ich meinte...
+
+newchat;key:lumberman,v1:vtype:lumberman,weigth:10
+v1;0;Pommes pommes pommes! / Äpfel, äpfel, äpfel!
+v1;30;Pommes, pommes... pommes! / Äpfel, äpfel... äpfel!
+v2;60;Plutôt cidre cidre cidre dans ton cas, non? / Sicher das es nicht Cider, cider, cider war?
+
+newchat;key:merchant,v1:vtype:merchant,weigth:10
+v1;0;Quel village minable. / Was für ein armseliges Dorf.
+v2;30;Eh étranger, attention à ce que tu dis! / Hey Fremder. Hüte deine Zunge!
+v1;70;Et quels habitants charmants! / Und so freundliche Leute!
+
+newchat;key:miner,v1:vtype:merchant,weigth:10
+v1;0;J'ai composé une petite chanson, tu veux l'écouter? / Ich habe mir ein kleines Lied ausgedacht. Willst du's hören?
+v2;40;Vas-y! / Lass hören!
+v1;50;Heigh-ho, heigh-ho, heigh-ho, heigh-ho...
+v2;70;Ca commence bien... / Viel versprechender start...
+v1;90;Je rentre du boulot! / *singt*Nach Hause komm' ich von der Arbeit!
+v2;110;Et moi j'ai beaucoup à faire. / Und ich habe eine Menge Arbeit zu erledigen.
+
+newchat;key:monk,v1:vtype:monk,v2:child,weigth:10
+v2;0;Frère Jacques, frère Jacques! / *singt*Bruder John, Bruder John!
+v1;30;Très drôle, mon enfant. / Sehr lustig, mein Kind.
+v2;60;Dormez-vous? Dormez-vous? / *singt*Schläfst du noch, schläfst du noch?
+v1;90;Ca va, ça va, je connais la chanson. / Genug, genug. Ich kenne das Lied!
+
+newchat;key:pigherd,v1:vtype:pigherd-pigherdf,v2:notvtype:pigherd-pigherdf,weigth:10
+v1;0;Tout est bon dans le cochon! / Alles am Schwein ist gut!
+v2;30;Ils font beaucoup de bruit quand tu les égorges, quand même. / Sie machen allerdings eine Menge Krach wenn du sie schlachtest.
+v1;70;Plus le cochon braille, meilleure est la viande! / Je stärker des Schweines kreischen, desto besser das Fleisch!
+
+newchat;key:priest,v1:vtype:priest,weigth:10
+v1;0;Je veille sur la santé spirituelle des villageois. / Ich pflege die geistige Gesundheit der Dorfbewohner.
+v2;30;Et il y a du travail! / Und da gibt's viel zu pflegen!
+
+newchat;key:priest2,v1:vtype:priest,weigth:10
+v1;0;Notre village craint Dieu. / Unser Dorf fürchtet Gott.
+v2;30;Et son représentant, Père $targetlastname. / Und seinen Pfarrer, Vater $targetlastname.
+
+newchat;key:seneschal,v1:vtype:seneschal,weigth:10
+v1;0;Je suis très estimé à la cour du Roi le Duc Guillaume. / Ich werde am Hofe des Königs, Herzog William hoch geschätzt!
+v2;40;Le Roi le Duc? / Der König der Herzog?
+v1;60;Sa Majesté Guillaume le Conquérant, Duc de Normandie et Roi d'Angleterre, ignare! / Seine Majestät William der Eroberer, Hezog der Normandie und König von England, du Narr!
+v2;100;C'est où l'Angleterre? / Wo ist England?
+v1;120;De l'autre côté de la mer. Quelle ignorance! / Auf der anderen Seite des Meeres. Welch Ignoranz!
+v2;140;De quelle mer, Seigneur? / Welches Meeres, mein Herr?
+v1;160;Quelle insolence! Il suffit! / Welch Unverschämtheit! Genug!
+
+newchat;key:shepherd,v1:vtype:shepherd-shepherdf,v2:notvtype:shepherd-shepherdf,weigth:10
+v1;0;Etre berger est un métier très noble. / Ein Schäfer zu sein ist eine ehrenvolle Arbeit.
+v2;30;Noble? Berger? / Ehrenvoll? Schäfer?
+v1;50;N'avons nous pas été choisis par Dieu pour recevoir la Bonne Nouvelle? / Wurden wir nicht von Gott erwählt die frohe Kunde zu hören?
+v2;90;Ah, oui. Pendant que vous vous occupiez des agneaux nouveau-nés - en Décembre. / Ah, ja. Während du dich um die neugeboren Lämmer kümmertest - im Dezember.
+v1;130;Et alors? Peut être qu'à Bethléem il n'y a pas de saisons. Comme ici! / Siehst du? Vielleicht gibt es in Bethlehem keine Jahreszeiten. Wie hier!
+
+newchat;key:smith,v1:vtype:smith,weigth:10
+v1;0;La vrai force des normands, c'est leurs outils et leurs armes. / Die wahre Kraft der Normannen liegt in ihren Werkzeugen und Waffen.
+v2;40;Et donc leurs forgerons? / Und daher in ihren Schmieden?
+v1;60;Voilà! / Genau!
+
+
+newchat;key:wife,v1:vtype:wife,v2:male,v2:adult,weigth:10
+v1;0;Pourquoi est-ce toujours les femmes qui construisent? / Warum müssen wir Frauen immer die Häuser bauen?
+v2;40;Si ça te gène, je m'occupe du prochain bâtiment. / Wenn es dich so stört, kümmere ich mich um das nächste.
+v1;80;Vraiment? Tu es adorable! Alors, pour les rideaux, n'oublie pas de... / Wirklich? Das sit so süß! Also, was die Vorhänge angeht. vergiss nicht...
+v2;120;En fait non, je vais te laisser faire. / Eigentlich, nein. Ich glaube ich lasse dich das machen.
+ 
+
+newchat;key:alchemyworkshop,villager:alchemistapprentice,v1:notvtype:alchemistapprentice-guildmaster,v2:notvtype:alchemistapprentice-guildmaster,v1:adult,v2:adult,weigth:10
+v1;0;Je suis passé devant l'atelier de l'alchimiste hier. / Ich lief gestern am Geschäft des Alchemisten vorbei.
+v1;40;Il y avait une odeur d'œuf pourris horrible! / Es stan knach verfaulten Eiern!
+v2;80;Il paraît qu'il essaye de fabriquer la pierre philosophale! / Man sagt er versuche den Stein der Weisen zu erschaffen!
+v1;120;Moi j'ai entendu qu'il veut résusciter les morts. / Ich hörte er möchte die toten wiederbeleben.
+v2;160;Et moi qu'il va fabriquer un monstre avec des cadavres! / Und ich das er ein Monster aus Körperteilen erschaffen will!
+v1;200;Quelle horreur! / Wie schrecklich!
+v2;220;C'était un garçon si charmant pourtant... / Und er war so ein netter Junge...
+
+newchat;key:archives,building:archives,weigth:10
+v1;0;Tu as visité les nouvelles archives? / Hast du das neue Archiv besucht?
+v1;30;On y voit ce que tout le monde fait! / Da kannst du sehen was alle tun!
+v2;60;Ah, vraiment... et euh... / Oh, wirklich... und, ähh...
+v1;90;Oui, j'ai vu ton panneau. / Ja, ich sah deine Tafel.
+v1;120;Tu devrais avoir honte. / Du solltest dich schämen.
+
+newchat;key:bakery,building:bakery,weigth:10
+v1;0;J'adore l'odeur de pain qui sort de la boulangerie. / Ich liebe den Geruch von frischem Brot aus der Bäckerei.
+v2;40;Il ne nous manque plus que quelqu'un sachant faire des croissants. / Jetzt brauchen wir nur noch jemanden der weiss wie man Croissants macht.
+
+newchat;key:church,building:church,weigth:10
+v1;0;Notre église est vraiment superbe. / Unsere Kirche ist wahrlich prächtig!
+v2;30;Elle montre que nous sommes un village pieux. / Sie zeigt das wir ein frommes Dorf sind.
+v1;60;Et elle est plus grande que celle du village voisin! / Und sie ist größer als die im Nachbardorf!
+
+
+newchat;key:inn,building:inn,v1:notvtype:merchant,v2:notvtype:merchant,weigth:10
+v1;0;Maintenant que nous avons une auberge, nous allons pouvoir commercer! / Jetzt wo wir eine Taverne haben, können wir handeln!
+v2;40;Autrement dit, les marchants de passage vont se servir dans nos resources. / In anderen Worten, werden vorbeiziehende Hädler sich an unseren Ressourcen bedienen.
+v1;80;Tu as toujours été cynique. / Du warst schon immer Zyniker.
+
+
+newchat;key:market,building:market,v1:notvtype:merchant,v2:notvtype:merchant,weigth:10
+v1;0;J'adore le marché! Tellement de marchandises superbes! / Ich liebe den Markt! So viele schöne Waren!
+v2;40;On se sent moins isolé maintenant. / Mit ihm fühlen wir uns hier nicht mehr so einsam.
+v2;80;Mais pas plus riches... / Aber auch nicht reicher...
+
+
+newchat;key:tavern,building:tavern,v1:adult,v2:adult,weigth:10
+v1;0;La taverne est certainement la meilleure chose qu'on ait construite. / Die Taverne ist wirklich das beste was wir im Dorf gebaut haben.
+v2;40;Personne ici ne dira le contraire! / Niemand hier wird das bezweifeln!
+
+newchat;key:fort,building:tavern,v1:adult,v2:adult,weigth:10
+v1;0;Hahaha! Nous sommes imparables. Nos navires impressionnants et honorables chevaliers sont le fléau du monde!. / Hahaha! Wir sind unaufhaltsam. Unsere beeindruckenden Schiffe und unsere ehrenhaften Ritter sind die Geißel der Welt!
+v2;40;Et quels sont nos ennemis? Un groupe de tricksters romains et amoureux de la pierre Maya / Und wer sind unsere Feinde? Ein Haufen römischer Betrüger und Maya Steinliebhaber?
+v1;80;Ne pas oublier les fous des neiges qui n'ont même pas le concept de l'argent! / Vergiss diese Schneeidioten nicht, die nichteimal wissen was Geld ist!
+v2;120;Hahaha! La vie normande est la meilleure du monde! Merveilleux cidre, meilleurs outils. Ah, c'est notre âge d'or! / Hahaha! Das Normannische Leben ist das beste der Welt! Wundervoller Cidre, die besten Werkzeuge. Ah, dies ist unser goldenes Zeitalter.
+v1;160;Et nous arrivons à le partager! / Und wir teilen es!
+v2;200;Hahaha! / Hahaha!

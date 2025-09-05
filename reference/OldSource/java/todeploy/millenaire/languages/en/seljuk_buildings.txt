@@ -1,0 +1,141 @@
+
+//core buildings
+
+abdesthane_A0=Abesthane
+armoury_A0=Armoury
+barracks_A0=Barracks
+barracks_A_bed0_A0=Soldier's Room
+barracks_A_bed1_A0=Soldier's Room
+barracks_A_bed2_A0=Soldier's Room
+barracks_A_bed3_A0=Soldier's Room
+barracks_A_bed4_A0=Soldier's Room
+barracks_A_bed5_A0=Soldier's Room
+barracks_A_parol0_A0=Patrol Node
+barracks_A_parol1_A0=Patrol Node
+barracks_A_parol2_A0=Patrol Node
+barracks_a_patrol0_a0=Patrol Node
+barracks_a_patrol1_a0=Patrol Node
+barracks_a_patrol2_a0=Patrol Node
+barracks_A_training_A0=Training Ground
+barrackssmall_A0=Small Barracks
+barrackssmall_A_bed0_A0=Soldier's Room
+barrackssmall_A_bed1_A0=Soldier's Room
+barrackssmall_A_patrol_A0=Patrol Node
+bigwell_A0=Large Well
+brick_A0=Brick Kiln
+cesme_A0=Cesme
+cottonfarm_A0=Cotton Farm
+cottonfield_A0=Cotton Field
+cowfarm_A0=Cow Farm
+fishery_A0=Fishery
+flowerplant_A0=Flower Garden
+flowerplantsmall_A0=Small Flower Garden
+gölgealti_A0=Göglealti
+hamambath_A0=Hamam
+hamambath_A_female_A0= Hamam Female Side
+imamshouse_A0=Imam's House
+inn_A0=Inn
+kitchen_A0=Kitchen
+kitchen_A_ayran_A0=Dining Area
+lumbermanshouse_A0=Lumberman's House
+market_A0=Bazaar
+mill_A0=Mill
+mine_brick_A0=Mine
+mine_brick_B0=Mine
+mosque_A0=Mosque
+mosque_a_archive_A0=Archive
+mosque_a_femaleside_A0=Mosque Female Side
+node_A0=Path Node
+olivefarm_A0=Olive Farm
+passnode_A0=Crossroad
+peasanthouse_A0=Peasant House
+peasanthouse_B0=Peasant House
+peasanthouse_C0=Peasant House
+pistachiotrees_A0=Pistachio Trees
+sheepfarm_A0=Sheep Farm
+smallmosque_A0=Small Mosque
+smallmosque_a_female_A0=Mosque Female Side
+stonecraftsman_A0=Stone Craftsman's House
+sugarcanefarm_A0=Sugarcane Farm
+toolsmith_A0=Toolsmith
+watchtower_A0=Watchtower
+watchtower_a_patrol_A0=Patrol Node
+watchtower_a_soldier0_A0=Soldier's Room
+watchtower_a_soldier1_A0=Soldier's Room
+weaver_A0=Weaver
+well_A0=Well
+wheatpaddy_A0=Wheat Farm
+
+
+//lone buildings
+
+banditcamp_A0=Bandit Camp
+bandittower_A0=Bandit Tower
+bath_abandoned_A0=Abandoned Bath
+lonecowfarm_A0=Lone Cow Farm
+lonefarm_A0=Lone Farm
+lonemine_A0=Lone Mine
+lonemarket_A0=Tarding Node
+lonemarket_A_market_A0=Bazaar
+ruinlonemine_A0=Ruin
+ruin_A0=Ruin
+ruinwell_A0=Ruin
+ruinwall_A0=Ruin
+
+
+//player buildings
+
+playerhousegift_A0=Villager House
+playerhousemed_A0=Small Place
+playerhousemed2_A0=Medium House
+playerhousesmall_A0=Small House
+playersmall1_A0=Small Plot
+playersmall2_A0=Walled Plot
+
+
+//townhall buildings
+
+gfarm_A0=Large Farm
+gfarm_a_inn_A0=Great Farm Inn
+gmarket_A0=Great Market
+gmarket_a_inn_A0=Great Market Inn
+gmarket_a_market_A0=Great Market Bazaar
+hamlettownhall_A0=Townhall
+hamlettownhall_A_inn_A0=Townhalls Inn
+hamlettownhallplayer_A0=Townhall
+hamlettownhallplayer_A_inn_A0=Townhalls Inn
+sarayfort_A0=Forted Saray
+sarayfort_a_imams_A0=Imam's House
+sarayfort_a_market_A0=Fort Bazaar
+sarayfort_a_soldierR1_A0=Fort Soldier's Room
+sarayfort_a_soldierR2_A0=Fort Soldier's Room
+sarayfort_a_soldierL1_A0=Fort Soldier's Room
+sarayfort_a_soldierL2_A0=Fort Soldier's Room
+sarayfortplayer_A0=Player's Forted Saray
+thmosque_A0=Great Mosque
+thmosque_a_archive_A0=Great Mosque Archive
+thmosque_a_inn_A0=Great Mosque Inn
+thmosque_a_femaleside_A0=Mosque Female Side
+thmosque_a_maleside_A0=Mosque Male Side
+
+
+//walls
+
+full_wall_gateway_a0=Village Gate
+full_wall_a0=Village Wall
+full_wall_slope_right1_a0=Village Wall
+full_wall_slope_right2_a0=Village Wall
+full_wall_slope_left3_a0=Village Wall
+full_wall_slope_left2_a0=Village Wall
+full_wall_slope_left1_a0=Village Wall
+full_wall_slope_right3_a0=Village Wall
+
+full_wall_tower_a0=Wall Tower
+full_wall_cap_both_a0=End Wall
+full_wall_cap_right_a0=End Wall
+full_wall_cap_left_a0=End Wall
+full_wall_corner_a0=Corner Tower
+
+borderpost_a0=Border Post
+borderpost_corner_a0=Border Post (Corner)
+borderpost_gate_a0=Border Post (Entrance)

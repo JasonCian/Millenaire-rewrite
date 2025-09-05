@@ -1,0 +1,11 @@
+minreputation:0
+chanceperhour:1
+maxsimultaneous:1
+definevillager:key=startvillager,type=indian/indian_sadhu
+forbiddenplayertag:culturecontrol_indian
+requiredplayertag:sadhu_13_conclusion
+
+step:new
+villager:startvillager
+duration:1048
+setplayertagsuccess:culturecontrol_indian

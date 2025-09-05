@@ -1,0 +1,21 @@
+version:4.3.0
+<darkred>Die Byzantiner
+
+Stolze und würdige Nachkommen der Römer, die Byzantiner produzieren Wein und schleifen religiöse Abbilder. Sie sprechen Griechisch, aber der Dialog wird übersetzt, wenn der Spieler Ihre Sprache durch Unterhaltungen mit Ihnen gelernt hat.
+
+Die Byzantiner produzieren viele einzigartige Gegenstände.
+
+<darkred>Einzigartige Objekte und Blöcke:
+
+<darkblue>Weintrauben und Malvasier Wein
+Sie züchten Weintrauben und produzieren Malvasier Wein aus ihnen. Der Spieler kann den Dorfältesten bitten, ihm beizubringen, wie man diese Pflanze kultiviert.
+
+<darkblue>Byzantinische Fliesen und Ziegel
+Sie nutzen Ton um byzantinische Fliesen und Ziegel herzustellen, mit denen sie ihre Gebäude Bedachen.
+
+<darkblue>Seide
+Ihre Beherrschung der Seidenraupenzucht (Landwirtschaft Seidenraupen) ermöglicht es ihnen, die Seide herzustellen, worauf sie ihre Byzantinischen Vorbilder verewigen.
+
+<darkred>Besondere Rezepte:
+
+Zwei Linien aus jeweils 3 Weintrauben erzeugt eine Flasche Wein

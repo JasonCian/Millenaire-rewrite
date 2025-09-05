@@ -1,0 +1,11 @@
+
+Wersja:3.4
+<darkblue>Pomoc Millénaire
+Ta pomoc opisuje nowości Millénaire.Dla większej ilości informacji odwiedź wiki albo zadaj pytanie na forum minecraftfroum.net.
+Użyj ikon z każdej strony ekranu aby uzyskać dostęp do różnych rozdziałów pomocy.
+<darkblue>Powszechność dla wiosek i samotnych budynków.
+Millénaire dodaje <darkblue>wioski<black> z różnych kultur do Minecrafta.Te wioski są losowo generowane na różnych biomach.Są różne style i oferują one różne produkty,ale wszystkie maja przywódcę,budują nowe budowle,handlują z tobą i lubią Ciebie zależnie od twoich czyności(zobacz sekcję "reputacja").
+Każda wioska jest obudowana wokół centralnej budowli(może to być fort,klasztor,pałac itp.)W tej budowli znajdziesz różne panele zawierające informacje na temat danej wioski.<darkblue>Prawy przycisk myszy<black> na panel ,żeby zobaczyć więcej informacji.
+<darkblue>Samotne budynki<black> jednakże one się nie powiekszają.Mogą być puste(tylko z przedmiotami do znalezienia w skrzynce),okupowane przez pokojowych mieszkańców którzy mogą z Tobą handlować,lub być okupowane przez wrogich mieszkańców którzy bedą Ciebie atakować.
+Naciśnięcie przycisku "V" ( domyślnie) pokazuje listę wiosek w pobliżu.Zaizolowane budynki nie są pokazywane,musisz zapamiętać ich położenie.
+Domyślnie,minimalny dystans między osadami to 2 kilometry.Wioski stworzone wokół pewnej osady są wyjątkiem do tej zasady.

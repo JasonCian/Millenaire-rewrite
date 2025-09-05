@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "millenaire:blocks/byzantine_mosaic_blue",
+    "particle" : "millenaire:blocks/byzantine_mosaic_blue"
+  }
+}

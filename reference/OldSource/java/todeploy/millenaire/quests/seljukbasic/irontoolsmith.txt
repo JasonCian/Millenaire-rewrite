@@ -1,0 +1,12 @@
+minreputation:1500
+chanceperhour:0.1
+maxsimultaneous:2
+step:new
+duration:16
+definevillager:key=startvillager,type=seljuk/turk_toolsmith,forbiddentag=irontoolsmith_done
+villager:startvillager
+requiredgood:iron,8
+rewardmoney:250
+rewardreputation:500
+settagsuccess:startvillager,irontoolsmith_done
+settagfailure:startvillager,irontoolsmith_done

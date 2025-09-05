@@ -1,0 +1,3 @@
+sells=cobblestone,stone
+
+buys=bread,cider,normanPickaxe,normanShovel,wood,wood_pine,wood_birch,wood_jungle,wood_acacia,wood_darkoak

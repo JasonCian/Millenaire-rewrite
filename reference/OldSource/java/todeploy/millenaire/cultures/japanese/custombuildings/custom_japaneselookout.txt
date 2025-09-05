@@ -1,0 +1,1 @@
+native:Bourou;gameNameKey:japaneselookout_A0;tag:Patrol;sign:1

@@ -1,0 +1,16 @@
+[
+{
+  "modid": "millenaire",
+  "name": "Millenaire",
+  "description": "An historical village mod. Use in-game command 'v' to check for villages and 'm' for config and help",
+  "version": "8.1.1",
+  "mcversion": "1.12.2-14.23.5.2854",
+  "url": "https://millenaire.org",
+  "updateUrl": "",
+  "authorList": ["Kinniken"],
+  "credits": "Kinniken & too many people to list here",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

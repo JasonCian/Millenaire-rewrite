@@ -1,0 +1,27 @@
+//Parameters for the building as a whole
+building.length=9
+building.width=7
+building.buildingorientation=3
+building.max=0
+building.icon=snowbrick
+
+building.showtownhallsigns=false
+building.startinggood=ulu,1.0,5,10
+building.startinggood=coarse_dirt,0.5,1,3
+building.startinggood=sod_spruce,0.3,1,0
+building.startinggood=furplate,0.3,1,0
+building.startinggood=sod_birch,0.3,1,0
+building.startinggood=inuittrident,0.3,1,0
+building.startinggood=inuitbearstew,2.0,1,2
+building.startinggood=bearmeat_cooked,0.5,1,1
+building.startinggood=inuitcarving,1.3,5,10
+building.startinggood=boneblock,0.3,1,0
+building.startinggood=cauldron,0.3,1,0
+building.startinggood=fire_pit,0.3,1,0
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Iglu
+initial.translatedname=name_en,snow igloo
+initial.priority=13
+initial.female=inuit_oldlady

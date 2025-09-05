@@ -1,0 +1,14 @@
+version:3.4
+<darkblue>K¸lade loomine
+
+Sa saad luua k¸lasid mis iganes t¸¸pi sa tahad ja mis kohta sa tahad loomise vılukeppiga,mille sa saad osta k¸lalt kui sul on k¸llat hea reputatsioon.Selle vılukeppi kasutamiseks pane kulne plokk kuhu sa tahad,et k¸la tuleks ja parema hiire klıpsuga vajuta sellele vılukeppiga. J‰rgnev ekraan laseb sul valida mis t¸¸pi kula sa tahad.
+
+<darkblue>K¸la vıi ¸ksildase ehitise h‰vitamine
+
+K¸laelanikud vıi ehitise elanikud taass¸nnivad iga ıhtu isegi kui sa h‰vitad kıik ehitised k¸las. Selle ‰rahoidmiseks (n‰iteks kui sa tahad okupeerida ehitised endale), sa pead kasutama <darkblue>L‰biraakimise vılukeppi<black>: sa leiad selle pea hoone kirstust kui kıik elanikud on surnud. Pane t‰hele,et k¸la h‰vitamine on t¸histamattu.
+
+<darkblue>M‰ngija kontrollitud k¸lad
+
+On vıimalikd teha k¸la kus sina oled juht,kus sa saad ise valida ehitiste asukohad.Selle tegemiseks sa pead olema tunnustatud juhina selle k¸la kultuuris vıi tee ‰ra Loomise ‹lesanne(vaata ¸lesannete sektsiooni), vıi saa enda reputatsioon ¥¥naturaalne juht'' k¸las ja r‰‰gi selle juhiga. Saa siis n‰ed valikut,et teha m‰ngija kontrollitud k¸lad kui kasutad loomise vılukeppi kuldsel plokkil.
+
+M‰ngija kontrollitud k¸lades sa saad korraltada uues ehitise ehitamist kastuatdes vılukeppi soovitud koha peal. Ekraan avaneb mis laseb sul valida soovitud ehitis. Sa saad ka lubada vıi peatada uuendusi olemasolevatele ehitistele ¥¥projektid¥¥ paneeli kaudu. Resursside kauplemine teiste k¸ladega ei ole vajalik selles k¸las - lihtsalt pane asjad kirstutesse.

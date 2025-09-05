@@ -1,0 +1,34 @@
+name=Archaío Théatro
+weight=8
+radius=20
+
+mindistancefromspawn=1000
+
+//Vanilla biomes
+biome=Plains
+biome=Sunflower Plains
+biome=Savanna
+biome=Savanna M
+biome=Savanna Plateau
+biome=Extreme Hills
+biome=Extreme Hills+
+
+//biomes o'plenty
+biome=brushland
+biome=chaparral
+biome=grassland
+biome=grove
+biome=meadow
+biome=orchard
+biome=shrubland
+biome=steppe
+
+//Traverse biomes
+biome=Meadow
+biome=Woodlands
+biome=Rocky Plateau
+biome=Lush Hills
+biome=Desert Shrubland
+
+//starting buildings=
+centre=theatre

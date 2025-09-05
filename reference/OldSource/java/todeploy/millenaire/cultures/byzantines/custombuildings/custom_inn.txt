@@ -1,0 +1,1 @@
+native:Pandocheíon;gameNameKey:inn_A0;tag:inn;tag:leasure;male:merchant_byzantine;chest:4-8;sign:2

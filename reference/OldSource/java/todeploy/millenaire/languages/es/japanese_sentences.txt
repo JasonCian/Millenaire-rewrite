@@ -1,0 +1,60 @@
+female.BecomeAdult=Watashi wa ituka hahaoya ni naritai desu. / Algún día quiero ser madre.
+
+male.BecomeAdult=Watashi wa sensi ni naritai desu. / Quiero ser un guerrero.
+
+villager.BecomeAdult=Seityou suru jikan. / Ya es momento de crecer.
+
+villager.BringBackResourcesHome=Cho cho cho... / Trabajar, trabajar, trabajar...
+
+villager.ChopTrees=Watashi wa nanbonka no ki wo bassai suru tsumori da. / Voy a talar algunos árboles. 
+
+villager.ConstructionStepByStep=Watashi no chichi wa kentiku no houhou ni tuite watashi ni oshieta. / Mi padre me enseñó a construir.
+villager.ConstructionStepByStep=Watashi wa kami ga watashi no kenchiku wo kiniiru koto wo negatte imasu. / Espero que a el Kami le guste mi edificio.
+
+villager.DeliverGoodsHousold=Watashi wa mise kara syokuryou wo eta. / Conseguí comida del mercado.
+
+villager.GatherGoods=Watashi wa ikutuka no souchi ga hituyou da. / Necesito algunos suministros.
+
+villager.GetGoodsHousold=Watashi wa ie ni korera no mono ga hituyou desu. / Estas son cosas que necesito en casa. 
+
+villager.GetHouseResources=Watashi wa ie kara nanika totte konakereba ikenai. / Tengo que ir a coger algo de casa.
+
+villager.GetResourcesForBuild=Watashi wa motto takusan no zairyou ga hituyou desu. / Necesito más materiales.
+
+villager.GoPlay=watashi wa asobitai desu. / Quiero jugar.
+
+villager.childobserveagriculture=Watashinohaha wa,-mai sakumotsu o saibai suru koto wa jūyōdesuga, sore wa watashi no tame ni totemo taikutsuda to iimasu... / Mi mamá dice que cultivar arroz es importante, pero a mi me parece tan aburrido...
+villager.childobserveconstruction=Tabun watashi ga ōkiku naru to, watashi wa tō o taterudeshou. Kin kara! / Quizás cuando sea mayor construya pagodas. ¡Hechas de oro!
+villager.childobservesmithing=Watashitachi no buki ya yoroi wa mottomo utsukushī monodesu! / ¡Nuestras armas y armaduras son las más chulas!
+villager.childobserveproducefood=Naze koko ni subete ga kome de tsukura renakereba naranai nodesu ka? Watashi wa kome ni tsukarete iru! / ¿Por qué todo aquí tiene que hacerse con arroz? ¡Estoy harto del arroz!
+villager.childobserveproducealcohol=Zenkai watashi wa sake o tameshite mimashita. / Estaba enfermo la última vez que probé sake.
+
+villager.childeatapple=Kono sekai wa mahōdesu! Ringo wa subete no ki ni sodatsu! / ¡Este mundo es mágico! ¡Las manzanas crecen en cada árbol!
+
+villager.MakeTools=Watashi wa naganen no aida saikoukyu no dougu wo koumyou ni tukutte iru. / Por muchos años he creado las mejores herramientas.
+
+villager.MakeWeapons=Saikoukyu no buki no himitu wa sisyou kara watashi ni uketugareta. / Los secretos de las mejores armas me fueron transmitidos por mi maestro.
+
+villager.PlantSaplings=Watashi wa korera no naegi wo ueru tumori desu. / Plantaré estos brotes.
+
+villager.SlaughterChicken=Anata wa dareka no tame ni subarashii shokuji wo tukuru darou. / Servirás para hacer una buena comida a alguien.
+
+villager.calltoarms=Karera wa watashitachi wo kougeki suru hi wo koukai suru darou! / ¡Lamentarán el día que decidieron atacarnos!
+villager.calltoarms=Kuki wo mote! / ¡Coged vuestras armas!
+villager.calltoarms=Mura wo mamore! / ¡Defended la aldea!
+
+villager.gopray.chosen=Kokoro wo otitukasete kudasai. / Calma tu mente.
+villager.gopray=Kami wa watashitachi wo aku kara osukui ni naru. / Kami nos protege del mal.
+villager.gopray=Watashi wa housaku no tame ni megami Uga-no-Mintama ni inori masu. / Rezaré a la diosa Uga-no-Mitama para tener abundantes cosechas.
+
+villager.gorest=A-, mou neru jikan da / Ah, mi hora de dormir.
+villager.gorest=Watashi niwa kyu-kei ga hituyou desu. / Necesito descansar.
+villager.gorest=Watashi wa totemo tukarete imasu./ Estoy demasiado cansado
+
+villager.greeting=Gokigenyou. / ¿Cómo te va?
+villager.greeting=Hajimemashite / Encantado de conocerte.
+villager.greeting=Kawatta koto aru? / ¿Qué hay de nuevo?
+villager.greeting=Konnichiwa, $name-san! / ¡Buen día, $name-san!
+villager.greeting=Ogenki desuka, $name-san  / ¿Cómo estás, $name-san?
+villager.greeting=Oi. / Hey.
+villager.greeting=Yokoso. / Bienvenido.

@@ -1,0 +1,26 @@
+native_name=Nuunjul Aj K'in
+gender=male
+familyNameList=low_caste_family_names
+firstNameList=men_names
+tag=visitor
+tag=foreignmerchant
+chanceWeight=10
+icon=spidereye
+
+travelbook_held_item=spidereye
+travelbook_held_item_off_hand=purse
+
+texture=textures/entity/mayan/mayan_shaman0.png
+texture=textures/entity/mayan/mayan_shaman1.png
+
+goal=gorest
+goal=gopray
+goal=goDrinkCacauhaa
+goal=keepStall
+
+merchantstock=spidereye,8
+merchantstock=rottenflesh,64
+merchantstock=bone,16
+merchantstock=flint,32
+
+

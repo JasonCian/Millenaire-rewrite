@@ -1,0 +1,55 @@
+villager.greeting=Ola, $name-ji! / 你好，$name先生！
+villager.greeting=U- ka'an yam k'iinal behla'e'. / 今天天氣很熱。
+villager.greeting=Biix men u- pixan ts'aakik teech? / 神靈今天告訴你了甚麼？
+villager.greeting=Ba'ax tumben? / 有新消息嗎？
+villager.greeting=Biix yam teech pamilya? / 你的家人好嗎？
+villager.greeting=Pixan tuuxtik gnat k'aaxal. / 神靈帶給我們雨水。
+villager.greeting=Tu'ux yam teech lu'um? / 你的土地在哪裏？
+mayan_shaman.greeting=Ts'aakik tal teech. / 願神靈保護你。
+
+villager.gorest=He'lel bisik na. / 我想休息一下。
+villager.gorest=Ichil chuy ti wenel beora. / 我要睡覺了。
+villager.gorest=Yaaawn. / .....哈啊~
+
+villager.gopray=Pixan taka gnat ichil k'a'am hoch. / 祈求神靈賜予我們豐收。
+villager.gopray=Pixan an gnat. / 祈求神靈救贖我們。
+
+villager.BringBackResourcesHome=Ichil chuy ti yaab se'es ti kuch. / 我還要去搬運好多木材。
+villager.ChopTrees=Ya'ul pak. / 砍樹需要點時間。
+villager.GatherGoods=Ichil chuk u- se'es sut otoch. / 我要把木材帶回家。
+villager.PlantSaplings=Ichil tz'ap tulakal he'-la -che'. / 這些樹全都是我種的。
+
+villager.DryBrick=To'on k'ab'eet tunich ti b'et ki- otoch. / 我們需要石材來建屋子
+villager.GatherBrick=Ichil kuch ti yaab tunich. / 我想我一下子搬得太多石頭了。
+villager.CookBrick=A'-la yam k'a'am tunich. / 這種磚頭是很堅固的。
+villager.PlantMaize=K'aaxal tuuxtik gnat ichil k'a'am hoch. / 大雨會讓我們有大豐收。
+villager.HarvestMaize=Ki' k'aaxal ki' hoch. / 有雨就有好收成。
+villager.PlantTurmeric=Yooch men u- han-ha. / 這些收成的香料會被加至食物中。
+villager.HarvestTurmeric=A'-la yooch hoch si muk' ti han-ha. / 香料會給我們的食物增加香味和辣味。
+villager.SlaughterChicken=Ah kax si gnat b'ak'. / 雞是我們的肉類來源。
+
+villager.GetHouseResources=Ichil chik nah yam ichil utz nah. / 乾淨的屋子便是好屋子。
+villager.GetGoodsHousold=Ichil k'ab'eet he'-la a-d'a'ax-tak k'am- otoch/ 我要去把這些東西拿回家。
+villager.DeliverGoodsHousold=Ti yaab han-ha ti kuch. / 天啊，有太多要被運送的食物了！
+villager.makeRasgulla=In-wah mo'nol pall yam k'oh. / 我的孩子生病了！
+
+
+villager.GetResourcesForBuild=Yaab' ti- yaab' tunich. / 這次建築要用許多石頭呢！
+villager.ConstructionStepByStep=Meyah meyah meyah. / 工作、工作、工作...
+villager.ConstructionStepByStep=Ichil k'ab'eet ichil k'a'am et-meyah. / 我需要一個強壯的工友。
+
+villager.GoPlay=Ichil kolom uk chun su'uk. / 我喜歡在草裏玩耍。
+villager.BecomeAdult=La la la la. / 啦啦啦啦～
+male.BecomeAdult=Ichil k'a't ti tz'ak-b' ha ah tz'on. / 我想要在長大後，成為一個獵人！
+female.BecomeAdult=Ichil k'a't ha ichki. / 我想要快點結婚。
+
+villager.gopray.chosen=Ichil t'an u- orasion. / 我會宣讀祈禱詞。
+mayan_shaman.gopray.chosen=U- orasion tal teech / 祈禱會保護你。
+
+villager.calltoarms=U- k'in yam in-ti'a'al! / 今天真是個大日子啊！
+villager.calltoarms=Kin-s-ab u- k'as hun. / 我們要懲罰惡人！
+villager.calltoarms=Ti k'ab! / 拿起武器，集合！
+
+villager.MakeTools=Man in-wah a'-b'a'ax. / 買我的工具吧！
+villager.MakeWeapons=U- k'ab wa'yeh nik k'a'am. / 這裏的武器質量是最好的。
+villager.ScultMayan=P'e k'in ichil k'am ti b'om. / 我想要以後成為畫家。

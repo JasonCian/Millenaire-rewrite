@@ -1,0 +1,24 @@
+//Parameters for the building as a whole
+building.length=11
+building.width=13
+building.buildingorientation=3
+building.issubbuilding=true
+building.parentbuildingplan=mayanlargepeasanthouse2_A2
+building.max=0
+building.icon=mayanshovel
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Ni'nah
+initial.priority=400
+initial.male=mayan_peasant
+initial.female=mayan_peasantwife
+
+//Parameters for specific upgrades
+upgrade1.priority=40
+
+upgrade2.priority=35
+
+upgrade3.priority=30
+

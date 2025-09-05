@@ -1,0 +1,10 @@
+0;Etranger;Nous ne faisons pas trop confiance aux étrangers. Comportez-vous bien.
+4*64;Visage familier;Nous vous avons déjà vu dans les parages mais cela ne veux pas dire que nous vous faisons confiance.
+16*64;Visiteur régulier;Comment est votre voyage $name?
+64*64;Commercant préféré;Ah, $name, la plupart des villageois vous tiennent en haute estime.
+2*64*64;Ami du village;Bienvenue mon ami, que pouvons-nous faire pour vous aujourd'hui ?
+8*64*64;Un des nôtres;Bonjour, $name, nous vous attendions avec impatience.
+32*64*64;Chef reconnu;$name, mon peuple vous respecte et vous admire. Ils vous suivraient n'importe où.
+-64;Nuisance;Oh, c'est vous... que voulez-vous ?
+-4*64;Extérieur déplaisant;Quittez notre village maintenant, vermine !
+-16*64;Ennemi public;Comment osez-vous paraître devant nous ? Faîtes façe à votre destin !

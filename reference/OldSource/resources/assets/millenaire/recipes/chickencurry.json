@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "chickencurry",
+	"pattern": [
+		"T",
+		"C",
+		"R"
+	],
+	"key": {
+		"T": {
+			"item": "millenaire:turmeric"
+		},
+		"C": {
+			"item": "minecraft:chicken"
+		},
+		"R": {
+			"item": "millenaire:rice"
+		}
+	},
+	"result": {
+		"item": "millenaire:chickencurry"
+	}
+}

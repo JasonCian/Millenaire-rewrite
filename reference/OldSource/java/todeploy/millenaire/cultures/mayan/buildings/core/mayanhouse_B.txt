@@ -1,0 +1,31 @@
+//Parameters for the building as a whole
+building.length=10
+building.width=10
+building.buildingorientation=2
+building.max=2
+building.icon=mayanshovel
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Maya Otoch
+initial.priority=400
+initial.male=mayan_peasant
+initial.female=mayan_peasantwife
+
+//Parameters for specific upgrades
+upgrade1.priority=40
+
+upgrade2.priority=35
+
+upgrade3.priority=30
+
+upgrade4.priority=25
+
+upgrade5.priority=20
+
+upgrade6.priority=15
+
+upgrade7.priority=10
+upgrade7.pathlevel=1
+

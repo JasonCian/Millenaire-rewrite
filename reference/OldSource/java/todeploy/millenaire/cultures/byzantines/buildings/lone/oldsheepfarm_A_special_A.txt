@@ -1,0 +1,21 @@
+//Parameters for the building as a whole
+building.length=19
+building.width=12
+building.buildingorientation=3
+building.icon=wool_white
+building.issubbuilding=true
+building.parentbuildingplan=oldsheepfarm_A0
+building.max=0
+building.showtownhallsigns=false
+
+travelbook_display=False
+
+//Parameters for initial construction
+initial.startlevel=-1
+//initial.shop=specialshop2
+initial.tag=autospawnvillagers
+initial.nativename=Naos tou Boskokratora
+initial.male=special_byzantine
+initial.tag=despawnallmobs
+initial.tag=praying
+initial.priority=9999

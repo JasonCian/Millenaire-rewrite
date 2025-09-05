@@ -1,0 +1,13 @@
+//Parameters for the building as a whole
+building.length=11
+building.width=13
+building.buildingorientation=3
+building.icon=sign
+
+//Parameters for initial construction
+initial.nativename=Hu'um-noh
+initial.priority=400
+initial.pathlevel=1
+initial.tag=archives
+initial.signs=24,27,30,33,25,28,31,34,26,29,32,35,36,39,42,45,37,40,43,46,38,41,44,47,0,3,6,9,1,4,7,10,2,5,8,11,12,15,18,21,13,16,19,22,14,17,20,23
+

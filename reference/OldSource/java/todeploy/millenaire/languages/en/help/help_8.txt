@@ -1,0 +1,13 @@
+version:3.4
+<darkblue>The Normans
+
+The very first culture introduced in Millenaire, Normans have the greatest number of types of villages - agricultural, military, religious, and industrial-oriented settlements, as well as gros bourgs (large towns) which have three hamlets around each. The Normans speak French in the game, but their dialogue will be translated as the player "learns" speaking their language with them.
+
+<darkblue>Unique objects and blocks
+
+The Normans produce many unique items:
+-Norman tools, which are more effective than diamond ones (made in a forge by a blacksmith).
+-Norman sword and armour, made in an armoury and also better than their diamond peers.
+-Boudin, tripes, calvados and cider, foods that instantly restore the player's health.
+-Timber frame blocks, a building block with two variants widely used for building advanced Norman, produced only by a charpentier (carpenter).
+-Norman tapestries, made by the lady of a castle from wool (two white, one gray, one light gray, one black, one brown) and depicting extracts from the Bayeux Tapestry.

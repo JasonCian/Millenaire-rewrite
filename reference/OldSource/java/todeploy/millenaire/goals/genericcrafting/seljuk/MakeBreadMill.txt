@@ -1,0 +1,16 @@
+buildingTag=mill
+
+priority=50
+
+duration=5000
+
+heldItems=wheat,bread
+
+input=wheat,3
+output=bread,3
+
+townhalllimit=bread,128
+
+maxsimultaneousinbuilding=1
+
+tag=tag_producefood

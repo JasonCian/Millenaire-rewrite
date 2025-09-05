@@ -1,0 +1,24 @@
+name=Fáros
+weight=10
+radius=40
+
+//Vanilla biomes
+biome=Beach
+biome=Stone Beach
+biome=Cold Beach
+
+//biomes o'plenty
+biome=flower island
+biome=gravel beach
+biome=mangrove
+biome=origin island
+biome=white beach
+
+mindistancefromspawn=600
+
+//% of biome validity required. Low because it spawns on beaches
+minimumBiomeValidity=0.25
+
+//starting buildings=
+centre=pharos
+start=lonepinegrove

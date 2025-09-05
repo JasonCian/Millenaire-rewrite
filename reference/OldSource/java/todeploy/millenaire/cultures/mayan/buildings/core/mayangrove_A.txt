@@ -1,0 +1,22 @@
+//Parameters for the building as a whole
+building.length=10
+building.width=10
+building.buildingorientation=3
+building.mindistance=0.6
+building.icon=sapling_jungle
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=K'aax
+initial.priority=1000
+initial.pathwidth=1
+initial.tag=grove
+
+//Parameters for specific upgrades
+upgrade1.priority=100
+
+upgrade2.priority=95
+
+upgrade3.priority=90
+upgrade3.pathlevel=1
+

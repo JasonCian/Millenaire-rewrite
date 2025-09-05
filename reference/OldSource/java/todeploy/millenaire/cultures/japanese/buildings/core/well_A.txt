@@ -1,0 +1,18 @@
+//Parameters for the building as a whole
+building.length=7
+building.width=7
+building.areatoclear=3
+building.buildingorientation=3
+building.icon=bucketwater
+
+//Parameters for initial construction
+initial.startlevel=-8
+initial.nativename=Ido
+initial.priority=1000
+initial.irrigation=10
+
+//Parameters for specific upgrades
+upgrade1.priority=100
+upgrade1.pathlevel=1
+upgrade1.irrigation=15
+

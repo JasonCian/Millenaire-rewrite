@@ -1,0 +1,18 @@
+//Parameters for the building as a whole
+building.length=26
+building.width=30
+building.buildingorientation=3
+building.issubbuilding=true
+building.parentbuildingplan=residence_A0
+building.max=0
+building.icon=normanplate
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Direction de l'ordre
+initial.priority=10
+initial.male=ordervicar
+initial.tag=autospawnvillagers
+initial.requiredvillagetag=level_7
+

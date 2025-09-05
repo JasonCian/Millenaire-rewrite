@@ -1,0 +1,20 @@
+//Parameters for the building as a whole
+building.length=24
+building.width=13
+building.buildingorientation=3
+building.farfromtag=leasure,30
+building.icon=mayanstatue
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=K'u-nah
+initial.priority=500
+initial.pathlevel=1
+initial.tag=praying
+initial.tag=leasure
+
+//Parameters for specific upgrades
+upgrade1.priority=50
+
+upgrade2.priority=45
+

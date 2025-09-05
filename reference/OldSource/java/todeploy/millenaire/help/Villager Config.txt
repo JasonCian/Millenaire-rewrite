@@ -1,0 +1,42 @@
+Series of parameters for various villager behaviour, such as which tools to use or what armour to wear. Every villager gets the default config applied, plus a specific one if defined.
+
+weaponhandtohandpriority (item and number: 'bone,8'):
+A hand to hand weapon and its use priority. If the priority is 0, won't get used.
+
+weaponrangedpriority (item and number: 'bone,8'):
+A ranged weapon and its use priority. If the priority is 0, won't get used.
+
+armourhelmetpriority (item and number: 'bone,8'):
+A helmet and its use priority. If the priority is 0, won't get used.
+
+armourchestplatepriority (item and number: 'bone,8'):
+A chest plate and its use priority. If the priority is 0, won't get used.
+
+armourleggingspriority (item and number: 'bone,8'):
+A leggings and its use priority. If the priority is 0, won't get used.
+
+armourbootspriority (item and number: 'bone,8'):
+A pair of boots and its use priority. If the priority is 0, won't get used.
+
+toolswordpriority (item and number: 'bone,8'):
+A tool and its use priority. If the priority is 0, won't get used. Villagers will get a 'better' one if available.
+
+toolpickaxepriority (item and number: 'bone,8'):
+A tool and its use priority. If the priority is 0, won't get used. Villagers will get a 'better' one if available.
+
+toolaxepriority (item and number: 'bone,8'):
+A tool and its use priority. If the priority is 0, won't get used. Villagers will get a 'better' one if available.
+
+toolhoepriority (item and number: 'bone,8'):
+A tool and its use priority. If the priority is 0, won't get used. Villagers will get a 'better' one if available.
+
+toolshovelpriority (item and number: 'bone,8'):
+A tool and its use priority. If the priority is 0, won't get used. Villagers will get a 'better' one if available.
+
+foodgrowthvalue (item and number: 'bone,8'):
+A food a child can eat to grow and its growth value.
+
+foodconceptionvalue (item and number: 'bone,8'):
+A food an adult can eat to increase conception chances and the increase value.
+
+

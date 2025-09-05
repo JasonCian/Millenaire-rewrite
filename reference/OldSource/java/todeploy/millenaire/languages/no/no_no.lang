@@ -1,0 +1,195 @@
+#From 1.12 onward, block and item names must be in lang files
+#packaged within the jar.
+#A copy is provided in millenaire/languages for the translators' convenience,
+#but will not be used by Minecraft. It will however be copied within the jar
+#when a new Millénaire version is packaged.
+
+#The Translation Gaps calculator however does use the versions in the
+#millenaire/language folder, so you can check your progress without
+#copying it in the jar
+
+
+#Item names
+
+#The following items should not be translated
+#They are either proper names (the deniers)
+#or specific local specialities that aren't translated
+#in other languages
+#I'm putting them for non-Latin alphabet languages,
+#so they can be written in other alphabets
+item.millenaire.denier.name=Denier
+item.millenaire.denieror.name=Denier Or
+item.millenaire.denierargent.name=Denier Argent
+item.millenaire.calva.name=Calva
+item.millenaire.tripes.name=Tripes
+item.millenaire.boudin.name=Boudin Noir
+
+tile.millenaire.dirtwall.name=Jordvegg
+
+tile.millenaire.locked_chest.name=Låst kiste
+item.millenaire.normanpickaxe.name=Normannisk hakke
+item.millenaire.normanaxe.name=Normannisk øks
+item.millenaire.normanshovel.name=Normannisk spade
+item.millenaire.normanhoe.name=Normannisk ljå
+item.millenaire.normanbroadsword.name=Normannisk slagsverd
+item.millenaire.normanhelmet.name=Normannisk hjelm
+item.millenaire.normanplate.name=Normannisk brystplate
+item.millenaire.normanlegs.name=Normanniske bukser
+item.millenaire.normanboots.name=Normanniske støvler
+item.millenaire.rice.name=Ris
+item.millenaire.turmeric.name=Gurkemeie
+item.millenaire.vegcurry.name=Vegetarkarri
+item.millenaire.chickenmeat.name=Rå kylling
+item.millenaire.chickencurry.name=Murgh-karri
+item.millenaire.brickmould.name=Mursteinform
+item.millenaire.rasgulla.name=Rasgulla
+tile.millenaire.timberframeplain.name=Vanlig bindingsverk
+tile.millenaire.timberframecross.name=Kryssbindingsverk
+tile.millenaire.wetbrick0.name=Våt murstein
+tile.millenaire.cookedbrick.name=Kokt murstein
+tile.millenaire.mudbrick.name=Gjørmemurstein
+item.millenaire.indianstatue.name=Hindustatue
+item.millenaire.ciderapple.name=Sider-eple
+item.millenaire.cider.name=Sider
+item.millenaire.summoningwand.name=Tilkallingsstav
+item.millenaire.negationwand.name=Negasjonsstav
+item.millenaire.parchment_normanvillagers.name=Normanniske landsbyboere
+item.millenaire.parchment_normanitems.name=Normanniske objekter
+item.millenaire.parchment_normanbuildings.name=Normanniske bygninger
+item.millenaire.parchment_normanfull.name=Komplett normannisk pergament
+item.millenaire.tapestry.name=Normannisk veggteppe
+item.millenaire.vishnu_amulet.name=Vishnu-amulett
+item.millenaire.alchemist_amulet.name=Alkymist-amulett
+item.millenaire.yggdrasil_amulet.name=Yggdrasil-amulett
+item.millenaire.skoll_hati_amulet.name=Sköll og Hati-amulett
+item.millenaire.parchment_villagescroll.name=Landsbypergament
+item.millenaire.parchment_indianvillagers.name=Indiske landsbyboere
+item.millenaire.parchment_indianitems.name=Indiske objekter
+item.millenaire.parchment_indianbuildings.name=Indiske bygninger
+item.millenaire.parchment_indianfull.name=Komplett indisk pergament
+item.millenaire.unknownpowder.name=Ukjent pulver
+tile.millenaire.alchemistexplosive.name=Alkymistens eksplosiver
+
+item.millenaire.wah.name=Wah
+item.millenaire.masa.name=Masa
+item.millenaire.maize.name=Mais
+tile.millenaire.mayangoldblock.name=Gullornament
+item.millenaire.mayanstatue.name=Maya-utskjæring
+item.millenaire.parchment_mayanvillagers.name=Maya-landsbyboere
+item.millenaire.parchment_mayanitems.name=Maya-objekter
+item.millenaire.parchment_mayanbuildings.name=Maya-bygninger
+item.millenaire.parchment_mayanfull.name=Komplett maya-pergament
+item.millenaire.mayanmace.name=Obsidianklubbe
+item.millenaire.mayanpickaxe.name=Obsidianhakke
+item.millenaire.mayanaxe.name=Obsidianøks
+item.millenaire.mayanshovel.name=Obsidianspade
+item.millenaire.mayanhoe.name=Obsidianljå
+item.millenaire.obsidianflake.name=Obsidianflak
+item.millenaire.cacauhaa.name=Cacauhaa
+
+tile.millenaire.paper_wall.name=Papirvegg
+item.millenaire.udon.name=Udon
+item.millenaire.thatched.name=Takhalm
+
+item.millenaire.parchment_sadhu.name=Sadhu-boken
+
+item.millenaire.tachisword.name=Tachi
+item.millenaire.yumibow.name=Yumi-bue
+item.millenaire.sake.name=Sake
+item.millenaire.ikayaki.name=Ikayaki
+
+item.millenaire.japanesebluelegs.name=Blåe ō-yoroi bukser
+item.millenaire.japanesebluehelmet.name=Blå ō-yoroi hjelm
+item.millenaire.japaneseblueplate.name=Blå ō-yoroi brystplate
+item.millenaire.japaneseblueboots.name=Blåe ō-yoroi støvler
+
+item.millenaire.japaneseredlegs.name=Røde ō-yoroi bukser
+item.millenaire.japaneseredhelmet.name=Rød ō-yoroi hjelm
+item.millenaire.japaneseredplate.name=Rød ō-yoroi brystplate
+item.millenaire.japaneseredboots.name=Røde ō-yoroi støvler
+
+item.millenaire.japaneseguardlegs.name=Keiko bukser
+item.millenaire.japaneseguardhelmet.name=Keiko hjelm
+item.millenaire.japaneseguardplate.name=Keiko brystplate
+item.millenaire.japaneseguardboots.name=Keiko støvler
+
+item.millenaire.parchment_japanesevillagers.name=Japanske landsbyboere
+item.millenaire.parchment_japaneseitems.name=Japanske objekter
+item.millenaire.parchment_japanesebuildings.name=Japanske bygninger
+item.millenaire.parchment_japanesefull.name=Komplett japansk pergament
+
+tile.millenaire.silkwormempty.name=Tom silkeormblokk
+tile.millenaire.silkwormfull.name=Silkeormblokk
+tile.millenaire.byzantine_tiles.name=Bysantinske fliser
+tile.millenaire.byzantine_tiles_slab.name=Bysantinsk flishelle
+tile.millenaire.byzantine_stone_tiles.name=Bysantinsk steinhelle
+item.millenaire.grapes.name=Druer
+item.millenaire.vine.name=Lianer
+item.millenaire.winefancy.name=Malvasia-vin
+item.millenaire.silk.name=Silke
+item.millenaire.byzantineiconsmall.name=Lite bysantinsk ikon
+item.millenaire.byzantineiconmedium.name=Medium bysantinsk ikon
+item.millenaire.byzantineiconlarge.name=Stort bysantinsk ikon
+item.millenaire.byzantineboots.name=Bysantinske støvler
+item.millenaire.byzantinelegs.name=Bysantinske bukser
+item.millenaire.byzantineplate.name=Bysantinsk brystplate
+item.millenaire.byzantinehelmet.name=Bysantinsk hjelm
+item.millenaire.byzantinemace.name=Bysantinsk klubbe
+item.millenaire.lambraw.name=Rått lammekjøtt
+item.millenaire.lambcooked.name=Grillede lammekoteletter
+item.millenaire.feta.name=Feta
+item.millenaire.winebasic.name=Vin
+item.millenaire.clothes_byz_wool.name=Bysantinske ullklær
+item.millenaire.clothes_byz_silk.name=Bysantinske silkeklær
+
+item.millenaire.souvlaki.name=Souvlaki
+item.millenaire.purse.name=Bourse à deniers
+
+tile.millenaire.pathdirt.name=Jordvei
+tile.millenaire.pathgravel.name=Grusvei
+tile.millenaire.pathslabs.name=Hellevei
+tile.millenaire.pathsandstone.name=Sandsteinhellevei
+tile.millenaire.pathochretiles.name=Okerhellevei
+tile.millenaire.pathgravelslabs.name=Heller og grusvei
+
+
+advancements.firstcontact.name=Millénaire
+advancements.firstcontact.desc=Møt en landsbyboer
+advancements.cresus.name=Krøsus
+advancements.cresus.desc=Tjen en denier or
+advancements.summoningwand.name=Tilkalling
+advancements.summoningwand.desc=Kjøp en tilkallingsstav og skap en landsby med den
+advancements.villageleader.name=Landsbyleder
+advancements.villageleader.desc=Bli leder av en kultur og skap en kontrollert landsby
+advancements.thequest.name=Oppdraget
+advancements.thequest.desc=Fullfør et oppdrag gitt av en landsbyboer
+advancements.maitreapenser.name=Maître à penser
+advancements.maitreapenser.desc=Møt sadhuen eller alkymisten
+advancements.forbiddenknwoledge.name=Forbudt kunnskap
+advancements.forbiddenknwoledge.desc=Fullfør de to kapitlene til skapelsesoppdraget
+advancements.puja.name=Litt hjelp fra gudene
+advancements.puja.desc=Betal en pandit for å få utført et pudjsa
+advancements.explorer.name=Utforsker
+advancements.explorer.desc=Utforsk en enslig bygning
+advancements.marcopolo.name=Marco Polo
+advancements.marcopolo.desc=Besøk landsbyer av tre ulike kulturer innen den samme verdenen
+advancements.magellan.name=Ferdinand Magellan
+advancements.magellan.desc=Besøk landsbyer av alle de forskjellige kulturene innen den samme verdenen
+advancements.selfdefense.name=Selvforsvar
+advancements.selfdefense.desc=Drep en banditt
+advancements.pantheon.name=Panthéon-kirken
+advancements.pantheon.desc=Besøk den mystiske Panthéon-kirken
+
+advancements.darkside.name=Den mørke siden
+advancements.darkside.desc=Drep en landsbyboer
+advancements.scipio.name=Carthago delenda est
+advancements.scipio.desc=Ødelegg en landsby med negasjonsstaven
+advancements.attila.name=Attila
+advancements.attila.desc=Få "pest og plage"-omdømmet innen tre kulturer
+
+advancements.cheers.name=Tre ganger hurra for Minecraft!
+advancements.cheers.desc=Drikk en alkoholholdig Millénaire-drikk
+advancements.hired.name=Leiekar
+advancements.hired.desc=Hyr en landsbyboer
+advancements.masterfarmer.name=Ekspertbonde
+advancements.masterfarmer.desc=Plant en Millénaire-avling

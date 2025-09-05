@@ -1,0 +1,42 @@
+villager.greeting=Konnichiwa, $name-san! / 你好，$name先生！
+villager.greeting=Oi. / 喂。
+villager.greeting=Ogenki desuka, $name-san  / 你好嗎，$name先生？
+villager.greeting=Kawatta koto aru? / 有什麼新消息？
+villager.greeting=Hajimemashite / 很高興遇到你。
+villager.greeting=Yokoso. / 歡迎！
+villager.greeting=Gokigenyou. / 你好嗎。
+
+villager.gorest=Watashi niwa kyu-kei ga hituyou desu. / 我想要去休息一下。
+villager.gorest=A-, mou neru jikan da / 啊~~，已經是我的就寢時間了。
+villager.gorest=Watashi wa totemo tukarete imasu./ 我好累哦！
+
+villager.gopray=Watashi wa housaku no tame ni megami Uga-no-Mintama ni inori masu. / 我向女神Uga-no-Mintama祈求豐收。
+villager.gopray=Kami wa watashitachi wo aku kara osukui ni naru. / 神明會保祐我們遠離邪惡。
+
+villager.BringBackResourcesHome=Cho cho cho... / 工作，工作，工作......
+villager.ChopTrees=Watashi wa nanbonka no ki wo bassai suru tsumori da. / 我正要去砍掉一些樹木。
+villager.GatherGoods=Watashi wa ikutuka no souchi ga hituyou da. / 我需要一些物資。
+villager.PlantSaplings=Watashi wa korera no naegi wo ueru tumori desu. / 我正要去種植這些樹苗呢。
+
+villager.SlaughterChicken=Anata wa dareka no tame ni subarashii shokuji wo tukuru darou. / 嘿，別跑！你馬上就會成為某個人餐桌上好吃的食物了！
+
+villager.GetHouseResources=Watashi wa ie kara nanika totte konakereba ikenai. / 我正要從家裏去拿些東西。
+villager.GetGoodsHousold=Watashi wa ie ni korera no mono ga hituyou desu. / 這些是我的家裏所需要的東西。
+villager.DeliverGoodsHousold=Watashi wa mise kara syokuryou wo eta. / 我在市集上買了些食物呢。
+
+villager.GetResourcesForBuild=Watashi wa motto takusan no zairyou ga hituyou desu. / 我需要更多材料。
+villager.ConstructionStepByStep=Watashi no chichi wa kentiku no houhou ni tuite watashi ni oshieta. / 我父親教過我如何建造建築物。
+villager.ConstructionStepByStep=Watashi wa kami ga watashi no kenchiku wo kiniiru koto wo negatte imasu. / 我希望神明喜歡我建造的建築物。
+
+villager.GoPlay=watashi wa asobitai desu. / 我想要出去玩......
+villager.BecomeAdult=Seityou suru jikan. / 是長大成人的時候了。
+male.BecomeAdult=Watashi wa sensi ni naritai desu. / 我想要成為一名戰士。
+female.BecomeAdult=Watashi wa ituka hahaoya ni naritai desu. / 我想在將來成為一個母親。
+villager.gopray.chosen=Kokoro wo otitukasete kudasai. / 將你的心思放輕鬆......
+
+villager.calltoarms=Mura wo mamore! / 保衛村莊！
+villager.calltoarms=Karera wa watashitachi wo kougeki suru hi wo koukai suru darou! / 他們以後一定會為他們攻擊我們村莊的愚行，而感到後悔！
+villager.calltoarms=Kuki wo mote! / 拿起你的武器！
+
+villager.MakeTools=Watashi wa naganen no aida saikoukyu no dougu wo koumyou ni tukutte iru. / 我多年來所製造的都是最好的工具！
+villager.MakeWeapons=Saikoukyu no buki no himitu wa sisyou kara watashi ni uketugareta. / 我可是從我的師傳處繼承了製造最好武器的秘訣呢。

@@ -1,0 +1,12 @@
+
+verze:4.8.0
+<darkblue>Japonci
+Ziji v nabozenskych, vojenskych, obchodnich nebo cisarskych vesnicich a vyznacuji se jejich elegantni architekturou. Mluvi japonsky ale jejich dialogy budou prelozene jakmile se hrac "naucí" jejich jazyk tim ze s nimi bude mluvit.
+<darkblue>Unikatni objekty a blocky.
+Pestuji ryzi. Hrac muže pozádat kuchare aby ho naucil jak pestovat tuto obilninu.
+Vari lahodne udon nudle z psenice a kurete.
+V obchodnich vesnicich, pivovary varí sake z ryze.
+Stejne tak jako Normani, Japonci stavi roubene budovy.
+Hodne vyuzívaji doskove blocky zpracovane z psenice.
+Vyrabi elegantni steny z ryzoveho papiru pro sve moderni budovy.
+Jejich kovari vyrabi impozantni tachi mece a dlouhe yumi luky stejne jako tri typy jejich velice ucinneho brnení.

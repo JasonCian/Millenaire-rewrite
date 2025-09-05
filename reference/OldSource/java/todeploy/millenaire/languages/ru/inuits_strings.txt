@@ -1,0 +1,63 @@
+culture.inuits=Инуиты
+culture.fullname=Инуиты
+
+village.artisanalvillage=ремесленное поселение
+village.community_farminghamlet=сельскохозяйственная деревушка
+village.community_religioushamlet=религиозная деревушка
+village.communityvillage=общинное поселение
+village.huntingvillage=охотничье поселение
+village.huntingvillage_controlled=пользовательское поселение
+village.religiousvillage=религиозное поселение
+
+villager.inuit_boy=Мальчик
+villager.inuit_carver=Резчик
+villager.inuit_chef=Изготовитель пищи
+villager.inuit_farmer=Фермер
+villager.inuit_fisherman=Рыбак
+villager.inuit_girl=Девочка
+villager.inuit_hunter=Охотник
+villager.inuit_husband=Муж
+villager.inuit_localmerchant=Купец
+villager.inuit_lonehunter=Охотник
+villager.inuit_lonemurderer=Убийца
+villager.inuit_loneshaman=Шаман
+villager.inuit_lumberman=Дровосек
+villager.inuit_oldlady=Пожилая женщина
+villager.inuit_shaman0=Шаман
+villager.inuit_shaman=Шаман
+villager.inuit_smith=Кузнец
+villager.inuit_sodder=Почвенник
+villager.inuit_tanner=Кожевник
+villager.inuit_wife=Жена
+villager.merchant_byzantine=Византийский торговец
+villager.merchant_hindi=Индийский торговец
+villager.merchant_japanese=Японский торговец
+villager.merchant_mayan=Торговец майя
+villager.teenagerFemale=Девушка
+villager.teenagerMale=Юноша
+
+villager.merchant_art=Торговец предметами искусства
+villager.merchant_food=Торговец пищей
+villager.merchant_materials=Торговец камнем
+villager.smuggler_silk=Торговец шёлком
+
+villager.inuit_dogbreeder=Собаковод
+villager.inuit_madman=Безумец
+villager.inuit_merchant_armorer=Торговец оружием
+villager.inuit_merchant_building=Торговец строительными товарами
+villager.inuit_merchant_hunter=Торговец дичью
+villager.merchant_viking=Торговец-викинг
+
+villager.inuit_lonecarver=Одинокий резчик
+villager.inuit_lonefisherman=Одинокий рыбак
+villager.inuit_lonehunter2=Одинокий охотник
+villager.inuit_lonelumberman=Одинокий дровосек
+villager.inuit_madman2=Безумец
+villager.inuit_sanduitdaughter=Дочь
+villager.inuit_sanduithusband=Муж
+villager.inuit_sanduitson=Сын
+villager.inuit_sanduitwife=Жена
+
+shop.armoury=Инструменты, Оружие и Доспехи
+shop.cheffery=Продовольственная Хижина
+shop.inuittownhall=Главный магазин

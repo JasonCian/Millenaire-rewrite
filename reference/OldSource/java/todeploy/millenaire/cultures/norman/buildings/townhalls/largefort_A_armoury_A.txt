@@ -1,0 +1,20 @@
+//Parameters for the building as a whole
+building.length=31
+building.width=35
+building.buildingorientation=3
+building.issubbuilding=true
+building.parentbuildingplan=largefort_A5
+building.max=0
+building.icon=normanplate
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Armurerie
+initial.priority=800
+initial.male=smith
+initial.female=wife
+initial.prioritymovein=15
+initial.tag=armoury
+initial.shop=armoury
+

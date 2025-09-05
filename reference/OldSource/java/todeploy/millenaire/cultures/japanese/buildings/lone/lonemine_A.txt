@@ -1,0 +1,16 @@
+//Parameters for the building as a whole
+building.length=20
+building.width=20
+building.buildingorientation=3
+building.icon=steelpickaxe
+
+//Parameters for initial construction
+initial.startlevel=-6
+initial.nativename=Kouku
+initial.male=japanese_loneminer
+initial.male=japanese_loneminer
+initial.shop=lonemine
+
+//Parameters for specific upgrades
+upgrade1.startlevel=-8
+

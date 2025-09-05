@@ -1,0 +1,35 @@
+List of valid parameters for the culture files.
+
+qualifierseparator (string (case-insensitive)):
+Separator between a village's name and its qualifier.
+Default value:  
+
+icon (item (from itemlist.txt)):
+Name of a good whose icon represents this culture.
+
+knowncrop (string (case-insensitive, multiple parameters possible)):
+A crop know to the culture, that can be taught to the player.
+
+knownhuntingdrop (string (case-insensitive, multiple parameters possible)):
+A hunting drop know to the culture, that can be taught to the player.
+
+travelbookvillagercategory (string (case-insensitive, multiple parameters possible)):
+A category of villagers for the Travel Book.
+
+travelbookbuildingcategory (string (case-insensitive, multiple parameters possible)):
+A category of buildings for the Travel Book.
+
+travelbooktradegoodcategory (string (case-insensitive, multiple parameters possible)):
+A category of trade goods for the Travel Book.
+
+travelbookcategoryicon (String and item: 'villager,wheat'):
+The icon to use for this Travel Book category.
+
+culturebanner (string (case-insensitive)):
+A JSON object that specifies the culture's banner's appearance.
+
+paneltexture (Minecraft resource path):
+A resource path to a panel texture.
+Default value: millenaire:textures/entity/panels/default.png
+
+

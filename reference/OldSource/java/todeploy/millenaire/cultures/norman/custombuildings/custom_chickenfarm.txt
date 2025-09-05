@@ -1,0 +1,1 @@
+native:Elevage de volailles;male:shepherd;female:shepherdF;moveinpriority:10;shop:sheepchickenfarm;tag:chicken;chest:1-5;craft:1;sign:1;spawn:2-4;spawnType:Chicken;radius:10

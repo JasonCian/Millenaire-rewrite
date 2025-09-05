@@ -1,0 +1,24 @@
+//Note pour les utilisateurs de Windows: si vous voyez le fichier entier sur une seule ligne, ouvrez-le avec PSPAd ou UltraEdit plutôt que Notepad
+//Note to Windows users: if you see the entire file in one line, open it using PSPad or UltraEdit instead of Notepad
+
+priority=5
+priorityrandom=10
+
+sentencekey=goplay
+labelkey=goplay
+
+targetvillagergoals=goplay,goplaywithfriends
+
+duration=10000
+
+helditems=stick
+
+reoccurdelay=60000
+
+allowrandommoves=true
+
+leasure=true
+
+lookatgoal=true
+
+sprint=false

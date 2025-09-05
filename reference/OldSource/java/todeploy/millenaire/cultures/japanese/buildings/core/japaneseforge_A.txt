@@ -1,0 +1,25 @@
+//Parameters for the building as a whole
+building.length=17
+building.width=14
+building.icon=iron
+
+//Parameters for initial construction
+initial.startlevel=-2
+initial.nativename=Tansetsu
+initial.priority=800
+initial.male=japanese_smith
+initial.female=japanese_peasantwife
+initial.prioritymovein=15
+initial.tag=forge
+initial.shop=forge
+
+//Parameters for specific upgrades
+upgrade1.priority=80
+
+upgrade2.priority=75
+upgrade2.pathlevel=1
+
+upgrade3.priority=70
+
+upgrade4.priority=65
+

@@ -1,0 +1,30 @@
+//Parameters for the building as a whole
+building.length=15
+building.width=16
+building.buildingorientation=2
+building.icon=steelchest
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Tansetsu
+initial.priority=800
+initial.male=japanese_armysmith
+initial.female=japanese_peasantwife
+initial.prioritymovein=15
+initial.tag=armoury
+initial.shop=armyforge
+
+//Parameters for specific upgrades
+upgrade1.priority=80
+
+upgrade2.priority=75
+
+upgrade3.priority=70
+
+upgrade4.priority=65
+upgrade4.pathlevel=1
+
+upgrade5.priority=60
+
+upgrade6.priority=55
+

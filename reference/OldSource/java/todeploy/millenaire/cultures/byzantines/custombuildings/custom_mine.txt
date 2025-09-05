@@ -1,0 +1,1 @@
+native:Latomeío;gameNameKey:mine_A0;male:miner_byzantine;female:wife_byzantine;chest:2-5;sign:1;mining:4-8;furnace:1-2;tag:mine

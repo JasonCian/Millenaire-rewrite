@@ -1,0 +1,7 @@
+
+Werjsa: 3.4
+<darkblue> Rozbudowa Wioski
+Wszystkie wioski zaczynają od zera wokół budynku centralnego ( różnej natury: Fortu, pałacu, klasztoru, itd ... inaczej zwanego "ratuszem") z paroma domami i innymi budynkami. Głównym celem osadników jest ekspansja wioski poprzez wybieranie nowych budynków do zbudowania, a także ulepszania istniejących. Do tego zadania, potrzebują zasobów - mogą je wyprodukować sami ( drwale, górnicy), ale czasem potrzebują surowców które może dostarczyć im tylko gracz. Potrzebne materiały są wyświetlane na tablicy w Ratuszu. Możesz pomóc sprzedając wiosce potrzebne zasoby.
+Populacja wioski także rośnie razem z czasem. W nocy, pobrani osadnicy mogą mieć dzieci. Kiedy urosną, te dzieci wprowadzą się do pustego domu i staną się dorosłymi.
+Ekspansja wioski może zakończyć się na dwa sposoby: Wioska mogła ukończyć wszystkie budynki, lub skończyło się w niej miejsce. W tym drugim wypadku, możesz spojrzeć na mapę wioski i zobaczyć które miejsca są niezabudowywalne. Czasem można je uczynić zdolne do ekspansji poprzez, dla przykładu, osuszeniu jeziora.
+Czasem, wioska potrzebuje bloku którego ty nie będziesz w stanie stworzyć, np Normańskie lub Japońskie framugi. Musisz poczekać aż wioska zbuduje warsztat i zatrudni tam rzemieślnika.

@@ -1,0 +1,7 @@
+List of parameters usable in tendfurnace goals:
+
+minimumfuel (integer value):
+Minimum number of wood to put back in one go.
+Default value: 4
+
+

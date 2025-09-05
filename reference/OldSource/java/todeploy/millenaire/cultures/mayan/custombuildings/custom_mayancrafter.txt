@@ -1,0 +1,1 @@
+native:Kob Took;gameNameKey:mayancrafter_A0;male:mayan_Crafter;female:mayan_PeasantWife;moveinpriority:20;craft:1;chest:1-5;sign:1;shop:mayancrafter;tag:oven

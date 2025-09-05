@@ -1,0 +1,34 @@
+version:3.4
+<darkred>Häufig gestellte Fragen
+
+<darkblue>Die Dorfbewohner sprechen in einer anderen Sprache, wie ich. Ist das normal?
+
+Millénaire Dorfbewohner sprechen alle in "ihrer" Sprache, wie zum Beispiel Hindi für die Inder, Französisch für die Normannen. Wenn Du in einer anderen Sprache spielst, wirst Du die Sprache durch Interaktion mit den Dorfbewohnern (Handel, Quests) "erlernen". Wenn Du die Sprache der Dorfbewohner "gelernt" hast, wird Millénaire die Übersetzungen mit anzeigen. Zuerst die Namen der Gebäude, dann den Beruf der Dorfbewohner und zu guter Letzt Ihre Dialoge.
+
+<darkblue>Mein Normannisches Dorf braucht Fachwerk und ich kann es nicht herstellen. Was kann ich tun?
+
+Fachwerk wird von einem Schreiner aus Holz hergestellt. Warte bis Dein Dorf eine Schreinerwerkstatt errichtet und ein Pärchen einzieht. Geduld!
+
+<darkblue>Mein Japanisches Dorf braucht Reet und ich kann es nicht herstellen, was kann ich machen?
+
+Die Japaner produzieren Reet aus Weizen. Wenn sie selbst nicht genug Weizen sammeln, verkaufe ihnen welches, um die Produktion anzukurbeln.
+
+<darkblue>Ich habe mein Haus in der Nähe eines Dorfes gebaut und die Dorfbewohner haben es bei Bauarbeiten an einem Projekt zerstört, ist das normal?
+
+Ja. Das Territorium des Dorfes gehört ihnen. Prüfe die Karte um die Grenzen zu sehen. Wenn Du in dem Dorf bauen willst, kaufe ein Grundstück beim Ältesten.
+
+<darkblue>Einige Dorfbewohner sind gestorben, werden sie wieder auferstehen?
+
+Ja, wenn ein Dorfbewohner stirbt, wird er die folgende Nacht kurz nach dem Sonnenuntergang auferstehen. Man sollte vermeiden, durch Schlafen die Nacht zu überspringen.
+
+<darkblue>Meine Dorfbewohner haben keine Kinder oder Ihre Kinder werden nicht erwachsen, was ist da los?
+
+Neue Kinder können erscheinen, wenn ein Paar während der Nacht zu Hause ist. Ebenso wachsen die Kinder heran, wenn sie nachts zu Hause sind. Einige Nahrungsarten (Getränke, Süßigkeiten) erhöhen die Chance, dass Babys geboren werden und andere (Brot, Getreide) erhöhen die Wachstumsrate von Kindern.
+
+<darkblue>Ein Gebäude in dem Dorf wurde beschädigt, werden die Dorfbewohner es reparieren?
+
+Nein, die Dorfbewohner werden keine Reparaturen an Gebäuden vornehmen. (Manchmal können die Dorfbewohner bei Erweiterungen die fehlenden Blöcke allerdings ersetzen) Der Grund hierfür ist - wäre es so, würde die Leistung enorm einbrechen. Du wirst die Gebäude also selbst reparieren müssen.
+
+<darkblue>Mein Dorf hat keinen Platz mehr, kann ich helfen?
+
+Ja, durch studieren der Dorfkarte, um zu sehen, in welchen Bereichen die Dorfbewohner nicht bauen können. Einen See, Fluss oder eine Felsspalte mit einer Schicht Erde abzudecken reicht aus, um den Bereich bebaubar zu machen.

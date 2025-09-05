@@ -1,0 +1,28 @@
+﻿version:3.4
+<darkblue>Boj in roparski napad
+
+Millénaire ni vedno miroljuben mod: lahko se tepeš z vaščani, vasi bodo organizirali roparske napade proti nasprotinikom, pošasti napadajo vaščanje in nekaj osamljenih stavb, zasedenih z razbojniki napadajo vas. Karkoli je okoliščina dogajanja, se principi ne spreminjajo: <darkblue>ranljivi vaščani so samo za neposredne napade (pretep, s puščicami in napoji)<black>. Na njih ne vpliva ogenj, padec ali kaktus. To prepreči, da bi vaščani umrli ne da bi vedeli, da so napadeni.
+
+Vaščani imajo različno moč in opremo, ki jo nosijo, da jih naredi še nevarnejše.
+
+<darkblue>Ponovno "oživetje" vaščanov
+
+Ko je vaščan enkrat ubit, je začasno mrtev. Mrtvi vašlani se ponovno "oživijo" v njihovih domovih (ampak izgubijo opremo). Konec koncev, igralec se pravtako lahko ponovno "oživi"...
+
+<darkblue>Napad na igralca
+
+Vedno lahko napadeš igralca, ampak ostali moški v vasi mu bodo pomagali v bitki s teboj. Lahko vam uspe ubiti vse vaščane v vasi ali v zapuščeni stavbi, potem se odklenejo skrinje in lahko kradeš njihove zaloge.
+
+<darkblue>Razbojniki
+
+Nekaj prebivalcev zapuščenih stavb vas bo napadlo brez opozorila, če se jim približaš. Vaš ugled v tej kulturi se ne bo zmanšal, če jih ubiješ. Kot v drugi vasi, se bodo tudi tukaj ponovno "oživeli" čez noč - glej pod "<darkblue>uničenje vasi<black>" da vidite kako to preprečiti.
+
+<darkblue>Roparski napadi med vasmi
+
+Millénaire vasi imajo pozitivne in negativne razmerja med seboj. Ta razmerja se naključno spreminjajo in igralec lahko vpliva na to s pogovorom z poglavarjem vasi. Če je razmerje slabo ali zelo slabo in ima vas dobolj borcev, se sproži roparski napad na vas. Opozorjen boš s sporočilom. Med roparskim napadom bodo napadalci napadli mesto in poskušali ubiti moške v vasi, ki jo napadajo. Če uspejo, bodo vzeli nekaj stvari iz skrinj. Lahko pomagaš kateri koli strani med napadom.
+
+Uporabno zna biti, da opogumite vasi, da napdejo sosednje vasi, da zvišajo zaloge. Bolj cinično, spodbujati roparske napade vam lahko pravtako pomaga, da si priborite plen, ko so branilci že umrli.
+
+<darkblue>Najem vaščana
+
+Mogoče je najeti vaščaka, kot je vojak, gozdar, da vam pomagajo v bitkah. Sledili vam bodo in tepli vaše sovražnike z vami.

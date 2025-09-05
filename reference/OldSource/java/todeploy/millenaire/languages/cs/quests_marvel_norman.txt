@@ -1,0 +1,22 @@
+
+marvel_norman_1_picklocation_0_description=$name, slyseli jste ty ohromne zpravy? Velky architekt ze zemi vychodnich Franku, prosluleho Nicolase de Weilbourga, cestoval po okolnich vesnicich, aby podporil vystavbu velké katedraly, pamatky nasi viry v tuto novou a cizi zemi! I kdyz to neni Norman, naucil se mnoho z nasi architektury od te doby, co v Normandii hleda praci tak dosahl velkeho talentu.<ret><ret>Nedaleci lordi a ja jsme debatovali o tom, kde by mel byt tento zazrak postaven - no zda se, ze by to mohlo byt $startvillager_villagename$ je to jedine misto, ktere stoji za takovou pamatku. Ale mozna bys nam mohl pomoct prolomit tuto patovou situaci a najit misto vhodne pro vsechny strany?
+marvel_norman_1_picklocation_0_description_refuse=To me velmi zarmoutilo.
+marvel_norman_1_picklocation_0_description_success=Mnohokrat dekuji, $name. Budete potřebovat "hulku stvoreni" - muzeme vam ji prodat, pokud ji jeste nemate pro tuto mocnou památku. Az najdete spravne misto, daleko od existujicich osad a s dostatecnym volnym prostorem, pouzijte ji tam, abyste oznacili vybrane misto. Pak se vratte ke mne.
+marvel_norman_1_picklocation_0_label=Bozske videni
+marvel_norman_2_generate_0_description=Och, $name! Jste spokojeni s misteme ktere jste vybrali? Jsme netrpelivi, uz chci videt skveleho Nicolase v praci!
+marvel_norman_2_generate_0_description_refuse=Mate pravdu, toto rozhodnuti se nesmi jen tak uspechat. Vratte se az si budete jisti.
+marvel_norman_2_generate_0_description_success=Toto je presne ta lokace kterou hledame. Myslim si ze Mistr zacne velice brzy.
+marvel_norman_2_generate_0_label=Vybrana poloha
+marvel_norman_3_searchhelp_0_description=$name, jsem pocten ze vas konecne poznavam. Misto ktere jste vybrali je inspirujici lokace!<ret><ret>Mohu vas pozadat o laskavost? Pro tento zazrak budeme potrebovat hodne prispevku. Cim vice vesnic se nam zavaze ze nam bude pomahat tim rychleji stavbu dokoncime - jak muzete videt v "prispevky" panelu.<ret><ret>Mohli by jste se prosim vydat na cestu do Normanskych vesnic a rozsirit tak nasi novinu o zapoceti stavby?
+marvel_norman_3_searchhelp_0_description_refuse=Nejste muz viry, $name.
+marvel_norman_3_searchhelp_0_description_success=Hledejte vudce kazde vesnice. Jsem si jist ze budou ochotni pomoci ve jmenu Boha a me.
+marvel_norman_3_searchhelp_0_label=Zadost o pomoc
+marvel_norman_4_gethelp_0_description=Vitejte, $name!<ret><ret>Slyseli jsme o velke katedrale, kterou konstruuje renomovaný architekt. Mate o tom nejake novinky?
+marvel_norman_4_gethelp_0_description_refuse=Bohuzel nepomohu.
+marvel_norman_4_gethelp_0_description_success=Dohodnuto! Jaka to uzasna prace! $startvillager_villagename$ budeme pocteni kdyz budeme moci prispet. Ujistujeme vas ze od teto chvile budeme pravidelne prispivat na tuto skvelou stavbu.
+marvel_norman_4_gethelp_0_label=Odpoved na vyzvu
+marvel_norman_5_return_0_description=$name, obdrzeli jsme oznameni, ze dary by mely dorazit brzy! To vyrazně zvysi rychlost, s jakou muzeme vybudovat tuto velkou katedralu. Nevim 
+ jak ti dostatecne podekovat!
+marvel_norman_5_return_0_description_refuse=Nezadal jsem vas o nic jineho!
+marvel_norman_5_return_0_description_success=Dekuji ti znovu!
+marvel_norman_5_return_0_label=Zprava pro architekta

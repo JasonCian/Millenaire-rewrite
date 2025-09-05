@@ -1,0 +1,1 @@
+native:B'aat Winik Nah;gameNameKey:mayanlumber_A0;male:mayan_Lumberman;female:mayan_PeasantWife;chest:1-5;sign:1;moveinpriority:10

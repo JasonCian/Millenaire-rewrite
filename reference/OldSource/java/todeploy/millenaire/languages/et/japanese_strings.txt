@@ -1,0 +1,45 @@
+﻿
+culture.japanese=Jaapanlaste
+
+villager.japanese_boy=Poiss
+villager.japanese_girl=Tüdruk
+villager.japanese_teenagermale=Nooruk
+villager.japanese_teenagerfemale=Nooruk
+villager.japanese_lumberman=Puuraidur
+villager.japanese_miner=Kaevur
+villager.japanese_loneminer=Kaevur
+villager.japanese_monk=Monk
+villager.japanese_peasant=Talunik
+villager.japanese_peasantwife=Nais talunik
+villager.japanese_samuraigeneral=Isand
+villager.japanese_richwoman=Daam
+villager.japanese_samurai=Sõjamees
+villager.japanese_emperor=Emperaator
+villager.japanese_crafter=Käsitööline
+villager.japanese_armysmith=Meister Sepp
+villager.japanese_sculptor=Artisan
+villager.japanese_kuge=Kuge
+villager.japanese_merchant=Kaupmees
+villager.japanese_chickenfarmer=Linnu talunik
+villager.japanese_smith=Sepp
+villager.japanese_fisherman=Kalur
+villager.japanese_farmer=Nisu talunik
+villager.japanese_farmerchief=Ülem talunik
+villager.japanese_farmwife=Taluniku naine
+villager.japanese_womanservant=Nais sulane
+villager.japanese_merchant_food=Toidu kaupmees
+villager.japanese_merchant_blacksmith=Töövahendite kaupmees
+villager.japanese_bravewoman=Julge naine
+villager.japanese_bandit=Jaapani Bandit
+villager.japanese_brewer=Ülem pruulija
+villager.japanese_brewerwife=Pruulija
+
+shop.japanesetownhall=Keskuse pood
+shop.forge=Töövahendid
+shop.armyforge=Soomus ja relvad
+shop.japanesecrafter=Paber
+shop.kitchen=Toit
+shop.lonemine=Kivi
+shop.japaneseoutpost=Kesk pood
+shop.fishery=Küpsetatud kalad
+

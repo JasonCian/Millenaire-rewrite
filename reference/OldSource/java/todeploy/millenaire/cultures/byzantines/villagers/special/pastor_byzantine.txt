@@ -1,0 +1,64 @@
+native_name=Iereus
+gender=male
+familyNameList=greek_family_names
+firstNameList=greek_men_names
+tag=religious
+icon=byzantineiconmedium
+
+texture=textures/entity/byzanz/noblemale/byz.religious.A.png
+texture=textures/entity/byzanz/noblemale/byz.religious.B.png
+texture=textures/entity/byzanz/noblemale/byz.religious.C.png
+texture=textures/entity/byzanz/noblemale/byz.religious.D.png
+texture=textures/entity/byzanz/noblemale/byz.religious.E.png
+texture=textures/entity/byzanz/noblemale/byz.religious.F.png
+
+clothes=free,textures/entity/byzanz/noblemale/clothes/byz.priest.1.A.png
+clothes=free,textures/entity/byzanz/noblemale/clothes/byz.priest.1.B.png
+clothes=free,textures/entity/byzanz/noblemale/clothes/byz.priest.1.C.png
+
+itemNeeded=clothes_byz_silk
+
+//leisure goals
+goal=gorest
+goal=gosocialise
+goal=chat
+goal=goholdaservice
+goal=goDrinkWine
+
+//household goals
+goal=deliverResourcesShop
+goal=GetHouseTHResources
+goal=getGoodsHousehold
+goal=deliverGoodsHousehold
+
+//Book making
+goal=makebook
+goal=makepaperwoodpulp
+
+//Teaching
+goal=teach
+
+//make fresco
+goal=makefresco
+requiredGood=quartz,32
+requiredGood=dye_purple,64
+
+//paint icons
+goal=makeicon_small
+goal=makeicon_medium
+goal=makeicon_large
+requiredGood=silk,64
+
+
+startingInv=bookandquill,1
+
+requiredGood=leather,2
+requiredGood=paper,6
+requiredGood=wood,16
+requiredGood=wood_pine,16
+requiredGood=wood_birch,16
+requiredGood=wood_jungle,16
+requiredGood=wood_acacia,16
+requiredGood=wood_darkoak,16
+
+baseAttackStrength=2

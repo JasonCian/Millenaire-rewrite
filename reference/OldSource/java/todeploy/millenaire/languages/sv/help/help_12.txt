@@ -1,0 +1,14 @@
+﻿version:4.3.0
+<darkblue>Byzantinerna
+
+Stolta och värdiga efterträdare till Romarna, Byzantinerna gör vin och eleganta religösa bilder. De pratar grekiska, men deras dialog översätts ju mer spelaren "lär" sig deras språk.
+
+<darkblue>Unika objekt och block
+
+-De planterar vindruvor och gör vin av dom. Spelaren kan fråga ledaren om de kan lära han att skörda plantan.
+-De använder lera för att skapa eleganta byzantanska plattor som de täcker deras byggnader med
+-Deras bemästrande i att skörda silkesmask låter dom göra siden som de sedan målar deras byzantanska helgon på.
+
+<darkblue>Specifika recept
+
+.Två rader med tre vindruvor blir vin.

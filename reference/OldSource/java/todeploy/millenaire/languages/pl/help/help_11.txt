@@ -1,0 +1,12 @@
+
+Wersja: 4.8.0
+<darkblue> Japończycy 
+Żyją w wioskach religijnych, wojskowych i cesarskich, które można rozróżnić poprzez ich architekturę. Mówią po Japońsku, ale ich języka można się "nauczyć" poprzez handel z nimi.
+<darkblue> Unikalne bloki i przedmioty.
+- Hodują ryż. Gracz może spytać wodza wioski jak obchodzić się z tą rośliną,
+- Gotują przepyszny makaron udon z pszenicy i kurczaka.
+- W wioskach handlowych, gorzelnicy tworzą Sake ( Ryżówkę).
+- Podobnie jak Normanie, tworzą drewniane ramy.
+- Używają bloków strzechy tworzonych z pszenicy.
+- Produkują delikatne papierowe ściany z ryżu dla swoich budynków
+- Ich kowale tworzą potężne miecze tachi, a także łuki Yumi. Dochodzą do tego trzy typy wytrzymałych pancerzy.

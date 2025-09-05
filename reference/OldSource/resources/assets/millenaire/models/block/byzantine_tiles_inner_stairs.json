@@ -1,0 +1,8 @@
+{
+    "parent": "block/inner_stairs",
+    "textures": {
+        "bottom": "millenaire:blocks/byzantine_tiles_top",
+        "top": "millenaire:blocks/byzantine_tiles_top",
+        "side": "millenaire:blocks/byzantine_tiles_side"
+    }
+}

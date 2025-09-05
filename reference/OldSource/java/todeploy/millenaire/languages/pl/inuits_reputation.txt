@@ -1,0 +1,14 @@
+
+0;Obcy; Witaj, czy potrzebujesz pomocy na tym lodowatym pustkowiu?
+4*64;Znajomy; Twoja obecność została zauważona. Niech tak pozostanie, a pozwolimy ci zostać.
+8*64;Znana Twarz; Widzieliśmy cie już parę razy. Proszę, zostań i się rozgrzej.
+16*64;Częsty Gość; Dobrze cię znowu widzieć, $name.
+32*64;Ocalały; Ah, dobrze widzieć że dalej żyjesz!.
+64*64;Ulubiony Kupiec;Każdy się cieszy że cie widzi. Przyniosłeś coś ciekawego tym razem?
+2*64*64;Przyjaciel Wioski; Okazałeś się dobrym towarzyszem. Znajdziesz tutaj wielu przyjaciół, $name.
+4*64*64;Krwawy Brat; Wiele nam pomogłeś, i z chęcią się odwdzięczymy. Masz nasze zaufanie.
+8*64*64;Jeden z Nas; Duchy pobłogosławiły nas twoją obecnością. Zadeklarowały że jesteś teraz naszą rodziną, a one się nigdy nie mylą.
+32*64*64;Naturalny Przywódca;$name, zyskałeś szacunek i zaufanie Innuitów. Podążymy za tobą wszędzie.
+-64;Natręt; Proszę, nie mamy czasu dla ludzi takich jak ty.
+-4*64;Nieprzyjemny Obcy; Jesteśmy ostrożni wobec ludzi twojego pokroju. Odejdź i zostaw nas w spokoju.
+-16*64;Wróg Publiczny; Daliśmy ci wiele okazji do pokoju, ale każdą z tych prób odrzucałeś. Odejdź, i módl się żeby duchy cie nie pożarły na tym pustkowiu.

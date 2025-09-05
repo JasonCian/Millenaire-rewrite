@@ -1,0 +1,1 @@
+native:Mahal;craft:1;chest:6-20;sign:9;radius:10;shop:townhall;tag:leasure;tag:playerth;tag:Patrol;male:indian_boy;male:indian_boy;male:indian_boy;female:indian_girl;female:indian_girl;female:indian_girl

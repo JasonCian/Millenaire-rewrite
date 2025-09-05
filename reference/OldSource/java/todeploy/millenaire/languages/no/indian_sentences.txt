@@ -1,0 +1,68 @@
+
+
+villager.greeting=Namaste, $name-ji! / Vær hilset, $name-ji!
+villager.greeting=Aaj bahut garmi hai. / Det er veldig varmt i dag.
+villager.greeting=Kya haal hai? / Hvordan står det til?
+villager.greeting=Kya khabar hai? / Hva er nytt?
+villager.greeting=Ghar par sa theek hain? / Har alle det bra i hjemmet?
+villager.greeting=Yeh barish kyun nahin ho rahi? / Hvorfor regner det ikke?
+villager.greeting=Kya tum se kale pani se pare ho? / Er du fra den andre siden av havet?
+indian_pandit.greeting=Jeetey raho. / Ha et langt liv.
+merchant_oriental.greeting=Salam alaikum, bhai! / Fred være med deg, broder!
+merchant_adivasi.greeting=Main van se a raha hoon / Jeg har akkurat ankommet fra skogen
+merchant_villagewoman.greeting=Ek akeelii mahila ke lie safar karna mushkil hai / Å reise er tøft for en enslig kvinne
+
+male.gorest=Ab jaakey aaram karta hoon. / Nå vil jeg gå og hvile meg.
+male.gorest=Subah sey kaam kar raha hoon. / Jeg har arbeidet siden i dag morges.
+male.gorest=Main thak gaya hoon. / Jeg er sliten.
+
+female.gorest=Ab jaakey aaram karti hoon. / Nå vil jeg gå og hvile meg.
+female.gorest=Subah sey kaam kar rahi hoon. / Jeg har arbeidet siden i dag morges.
+female.gorest=Main thak gayi hoon. / Jeg er sliten.
+
+villager.gopray=Hey Bhagwan, is baar phasal achhi ho. / Kjære Gud, måtte avlingene bli gode denne gangen.
+villager.gopray=Bhagwan, bas aap hi ka sahara hai. / Gud, du er vårt eneste håp.
+
+indian_lumberman.BringBackResourcesHome=Itna saara lakri ghar ley jaaney mein mushkil hooga. / Det vil bli vanskelig å bære så mye tre tilbake til hjemmet.
+indian_lumberman.ChopTrees=Yeh lakri kaat-tey kaat-tey meri zindagi beet jayegi. / Det ser ut til at jeg vil tilbringe livet mitt med å kutte ned disse trærne.
+indian_lumberman.GatherGoods=Ab saari lakriyan ikaththa karta hoon. / Nå vil jeg samle sammen alt treet.
+indian_lumberman.PlantSaplings=Jitna zyaada ped lagaoonga, utna hi aagey jaakey aaram raheyga. / Jo flere trær jeg planter, jo enklere blir livet senere.
+
+indian_peasant.DryBrick=Ghar bananey key liye kitney inth chahiyey? / Hvor mange mursteiner trenger du for å bygge et hus?
+indian_peasant.GatherBrick=Aaj suraj teez hai, inth jaldi sookh rahaien hain. / Solen er sterk, de tørker raskt i dag.
+indian_peasant.CookBrick= Dekho, aag mein kaisi badhiyan pakti hai yeh intein. / Se så fint som disse mursteinene koker i ilden.
+villager.PlantRice=Is saal barish achchi hui toh phasal accha hoga. / Dersom det regner sterkt, så vil avlingene bli gode i år.
+villager.HarvestRice=Is baar barish acchi honey sey phasal bhi acchi hui hai. / På grunn av de gode regnperiodene denne gangen, så er avlingene gode også.
+villager.PlantTurmeric=Haldi toh sabhi ko chahiyein. / Når alt kommer til stykket, så trenger vi alle gurkemeie.
+villager.HarvestTurmeric=Haldi ki kheti kartey kartey merey haath peeley ho gayein hain. / All denne høstingen av gurkemeie gjør hendene mine gule.
+indian_peasant.SlaughterChicken=Bahut kha liya ghas-phoos. / Jeg har hatt nok av vegetarkarri!
+
+indian_peasantwife.GetHouseTHResources=Sab kuch toh thakur ko dey dena padta hai. / Alt ender alltid opp i utleierens hus.
+indian_peasantwife.GetGoodsHousehold=Inkey liye chahey jitna bhi khana lao, kam padta hai. / Uansett hvor mye du skaffer for familien, så blir det aldri nok!
+indian_peasantwife.DeliverGoodsHousehold=Uffh, itna sara khana akeley kaisey leh jaoongi. / Hvordan vil jeg kunne bære all denne maten alene?
+indian_peasantwife.makeRasgulla= Bacchon koh rasgulla bahut pasand hai. / Barna elsker rasgulla.
+
+
+indian_peasant.GetResourcesForBuild=Hmmm, ek tan ka inth  chahiye, dau tan paththar .. / La meg se, et tonn med murstein, to tonn med stein.
+indian_peasant.construction=Hindu vastu-kala desh videsh mein mashoor hai. / Hinduistisk arkitektur er verdenskjent.
+indian_peasant.construction=Iskey baad, main lal kila banaoonga. / Når jeg blir ferdig med dette så vil jeg lage en rød festning.
+
+villager.GoPlay=Mujjhey mitti sey khelna accha lagta hai. / Jeg elsker å leke med jord.
+villager.BecomeAdult=Khel kud bahut ho gaya, ab kaam par chalo. / Nok leking, på tide å arbeide.
+male.BecomeAdult=Main badey hokar yodhdha ban-na chahta tha. / Jeg ønsket å bli en stor kriger når jeg var yngre...
+female.BecomeAdult=Mainey socha tha kisi rajkumar sey shaadi hogi... / Jeg drømte om å gifte meg med en prins...
+
+villager.gopray.chosen=Mandir jaaney ka samay ho gaya. / På tide å besøke tempelet igjen.
+indian_pandit.gopray.chosen=Main mandir ki dekh bhaal nahin karoonga toh kaun karega? / Hvis ikke jeg vil ta meg av tempelet, hvem vil gjøre det da?
+
+villager.calltoarms=Jeet hamari hoogi. / Seieren vil bli vår.
+villager.calltoarms=Dushmano ki haar. / Fienden skal beseires!
+villager.calltoarms=Sab apney apney hathiyar utha lo! / Ta opp våpen, alle sammen!
+
+indian_smith.MakeTools=Sabhi merey banaye huye upkaran istamal kartey hain, phir bhi mujhey neecha samachtey hain. / Alle bruker verktøyene mine, og allikevel ser alle ned på meg.
+indian_armysmith.MakeWeapons=Hathiyaar bananey mein, upkaran bananey sey zyaada maan hai. / Å lage våpen er mye mer prestisjefylt enn å lage verktøy!
+indian_sculptor.Scult=Murtikala ched aur gaanth ki kala hai. / Det å lage skulpturer er kunsten om hullet og klumpen.
+
+merchant_oriental.KeepStall=Dekho yeh phaarsa ka gaurav! / Se Persias herligheter!
+merchant_adivasi.KeepStall= Sab kuch mere parivar dwara kheti ki gayi hai. / Alt er avlet av familien min, dypt inne i jungelen.
+merchant_villagewoman.KeepStall=Ghara ka bana khana, bhukhe yaatriyon ke lie! / Hjemmelagd mat for sultne reisende!

@@ -1,0 +1,34 @@
+version:3.4
+<darkblue>Reputatie & Dorpsleider
+
+Elk dorp in Millénaire heeft een mening over jou. Neutraal in het begin en die verandert aan de hand van jouw acties. Deze reputatie is heel belangrijk. Vele beloningen zijn alleen beschikbaar met een goede reputatie en als je reputatie te slecht wordt, zullen dorpelingen weigeren met je te handelen. Je kan je reputatie bekijken door (<darkblue>met de rechter muisknop te klikken<black>) op de dorpsleider.
+
+De beste manier om je reputatie te verbeteren is handelen met de dorpelingen. Aankopen en verkopen verbeteren je reputatie gelijk aan de prijs. Je kan je reputatie ook verbeteren door quests te doen voor ze. Daarentegen, het aanvallen van een dorpeling of bepaalde missis falen zal je reputatie schaden.
+
+Je hebt ook een <darkblue>reputatie met elke cultuur<black>. Deze reputatie wordt bepaald door al je handelingen met dorpen van die cultuur en bepaald ook je handel met alle andere dorpen van diezelfde cultuur. Bijvoorbeeld, als je een goede reputatie hebt met een Normaans dorp, zullen andere Normaanse dorpen je ook (iets) aardiger vinden. Je kunt je reputatie met elke cultuur controleren in het informatiescherm ("M" knop).
+
+<darkblue>Acties die een bepaalde reputatie nodig hebben.
+
+<darkblue>Een dorpsrol kopen
+
+Met voldoende reputatie kun je een dorpsrol kopen van de dorpsleider. Deze rol heeft alle informatie die gegeven wordt door de verschillende panelen van het dorp zelf.
+
+<darkblue>Een huis kopen
+
+Als je voldoende reputatie hebt kun je een huis kopen (of land om op te bouwen) door met de dorpsleider te praten. Je huis zal gebouwd worden door het dorp als de constructie van dat moment af is. Afgezien van de rest van het dorp is het huis van jou en kun je het naar keuze aanpassen.
+
+<darkblue>Leren hoe je een gewas moet verbouwen.
+
+Je kan leren om Millénaire specifieke gewassen te planten die worden gebruikt door de culturen. Spreek met de dorpsleider als je genoeg reputatie hebt.
+
+<darkblue>Speciale spullen kopen
+
+Sommige waardevolle spullen benodigen een goede reputatie in het dorp. Als je de benodigde reputatie niet hebt om het object te kopen wordt dit aangegeven in het handelsscherm.
+
+<darkblue>Speciale quests
+
+Sommige quests, inclusief de Creatie quest, kunnen alleen gestart worden met een goede reputatie (zie <darkblue>quests<black>)
+
+<darkblue>Leider worden in een cultuur.
+
+Als je de maximale reputatie hebt bereikt (<darkblue>"Natuurlijke leider"<black>) kan je een dorp bouwen waar jij de leider bent (zie <darkblue>"Een dorp creëren"<black>).

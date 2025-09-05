@@ -1,0 +1,10 @@
+0;Straniero;In questo posto siamo diffidenti con gli estranei, nuovo arrivato. Ma trattaci equamente e troverai gente ospitale.
+4*64;Viso conosciuto;Ti abbiamo visto in giro già in precedenza, e nessun pollo sembra essere scomparso. Continua così e andremo d'accordo.
+16*64;Visitatore regolare;Benvenuto, $name! E' bello vederti di nuovo.
+64*64;Mercante;Ah, $name! Tutto il villaggio stava aspettando il tuo ritorno.
+2*64*64;Amico del villaggio;Noi Normanni non siamo noti per la facilità con cui diamo fiducia alle persone, ma mio buon amico $name, ci hai davvero mostrato che possiamo fidarci di te!
+8*64*64;Uno di noi;E' sempre un piacere vederti, $name. Puoi anche venire da terre remote, ma sei davvero uno di noi ora.
+32*64*64;Leader naturale;$name,ti sei guadagnato la fiducia e il rispetto dei Normannni. Loro ti seguiranno ovunque. 
+-64;Scocciatore;Ti stiamo osservando, $name. Sei avvisato.
+-4*64;Straniero sgradito;Hai dimostrato di essere una vera scocciatura in questo posto. Devi essere felice che non ti abbiamo ancora sbattuto fuori.
+-16*64;Nemico pubblico;La tua presenza qui è a malapena tollerata. Un solo passo falso e sei morto.

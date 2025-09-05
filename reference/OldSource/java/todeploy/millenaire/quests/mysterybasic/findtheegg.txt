@@ -1,0 +1,15 @@
+minreputation:0
+chanceperhour:1
+maxsimultaneous:1
+
+step:new
+definevillager:key=startvillager,type=mayan/mayan_merchant,forbiddentag=findtheegg_done
+villager:startvillager
+duration:5
+requiredgood:egg,5
+rewardgood:feather,5
+rewardreputation:64
+rewardmoney:32
+penaltyreputation:0
+settagsuccess:startvillager,findtheegg_done
+settagfailure:startvillager,findtheegg_done

@@ -1,0 +1,97 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "millenaire:pathdirt_slab",
+      "millenaire:pathgravel_slab",
+      "millenaire:pathgravelslabs_slab",
+      "millenaire:pathochretiles_slab",
+      "millenaire:pathsandstone_slab",
+      "millenaire:pathslabs_slab",
+      "millenaire:pathsnow_slab"
+    ]
+  },
+  "criteria": {
+    "has_pathdirt": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "millenaire:pathdirt"
+          }
+        ]
+	  }
+    },
+    "has_pathgravel": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "millenaire:pathgravel"
+          }
+        ]
+	  }
+    },
+    "has_pathgravelslabs": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "millenaire:pathgravelslabs"
+          }
+        ]
+	  }
+    },
+    "has_pathochretiles": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "millenaire:pathochretiles"
+          }
+        ]
+	  }
+    },
+    "has_pathsandstone": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "millenaire:pathsandstone"
+          }
+        ]
+	  }
+    },
+    "has_pathslabs": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "millenaire:pathslabs"
+          }
+        ]
+	  }
+    },
+    "has_pathsnow": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "millenaire:pathsnow"
+          }
+        ]
+	  }
+    }
+  },
+  "requirements": [
+    [
+      "has_pathdirt",
+      "has_pathgravel",
+      "has_pathgravelslabs",
+      "has_pathochretiles",
+      "has_pathsandstone",
+      "has_pathslabs",
+      "has_pathsnow"
+    ]
+  ]
+}

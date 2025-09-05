@@ -1,0 +1,26 @@
+name=Bûcheron solitaire
+weight=10
+radius=30
+
+//Vanilla biomes
+biome=Forest
+biome=ForestHills
+biome=Flower Forest
+biome=Birch Forest
+biome=Roofed Forest
+
+//biomes o'plenty
+biome=boreal forest
+biome=eucalyptus forest
+biome=grove
+biome=orchard
+biome=seasonal forest
+biome=snowy forest
+biome=woodland
+
+pathmaterial=pathdirt
+
+//starting buildings=
+centre=lonelumbermanhut
+start=lonegrove
+core=loneorchard

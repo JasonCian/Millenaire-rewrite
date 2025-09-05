@@ -1,0 +1,1 @@
+native:Uxul Otoch;gameNameKey:mayansculptorhouse_A0;male:mayan_Sculptor;female:mayan_PeasantWife;moveinpriority:20;craft:1;chest:1-5;sign:1

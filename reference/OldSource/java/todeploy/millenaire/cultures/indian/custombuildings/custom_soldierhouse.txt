@@ -1,0 +1,1 @@
+native:Sainik ka Ghar;gameNameKey:soldierhouse_A0;male:indian_soldier;female:indian_peasantwife;chest:1-5;sign:1;moveinpriority:15

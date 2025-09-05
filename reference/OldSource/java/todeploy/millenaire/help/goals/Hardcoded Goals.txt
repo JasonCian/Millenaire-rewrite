@@ -1,0 +1,90 @@
+List of hard-coded goals in Millénaire.
+
+becomeadult: Move to a house with an empty 'job' and become adult. Only valid for fully grown children.
+
+bepujaperformer: Go to the temple to be available for pujas or sacrifices.
+
+beseller: Go and sell to the player.
+
+breed: Breed animals at the villager's house, of types decided by tags like 'cattle', 'pig' etc tags.
+
+brewpotions: Brew alchemical potions from nether warts. Currently broken.
+
+bringbackresourceshome: Brings resources home from the villager's inventory. Typically used to bring back resources produced by mining, crafting etc.
+
+buildpath: Build village paths.
+
+chat: Make the villager meet a villager looking for someone to chat, to initiate a dialog
+
+choptrees: Go chop trees in a grove.
+
+clearoldpath: Clear an old path.
+
+construction: Build a building
+
+defendvillage: Defend the village when attacked in a raid.
+
+delivergoodshousehold: Deliver to the villager's house goods required by the household, like food or crafting inputs. Paired with getgoodshousehold.
+
+deliverresourcesshop: Deliver resources to a shop from the villager's inventory. Paired with gethousethresources that picks them up.
+
+drybrick: Go and dry bricks in a building with the kiln tag.
+
+fish: Fish from fishing holes at home, bringing in standard fish.
+
+fishinuit: Extension of basic fishing goal that also brings in bone block.
+
+gatherbrick: Pick up dried bricks from a kiln.
+
+gathergoods: Gather items around the villager, if they are of a type declared for that villager. For example, saplings for lumbermen.
+
+gathersilk: Gather ripe silk from a silk block.
+
+gathersnails: Gather snails from a snail soil block to make purple dye.
+
+getgoodshousehold: Gets goods required by the household (food, inputs for crafting...) from the TH or shops and loads them in the inventory. Paired with delivergoodshousehold, which delivers them.
+
+gethousethresources: Takes items from the villager's house or the town hall that are needed in a shop. Paired with deliverresourcesshop that delivers them.
+
+getitemtokeep: Go and get an item from a shop to keep in the villager's inventory. Typically a tool, or a new cloth in some cultures.
+
+getresourcesforbuild: Pick up the resources needed for a construction from the TH. Builders should have this.
+
+gorest: Makes the villager 'rest' at home. Has a priority of 0 and is there to ensure there is always something to do.
+
+gosocialise: Makes villagers go to buildings with the leisure tag, so they can meet people to chat with.
+
+harvestcocoa: Goal that harvests ripe cacao.
+
+harvestsugarcane: Gather sugar cane from a building with the sugar cane plantation tag.
+
+harvestwarts: Harvest grown nether warts froom home.
+
+hide: Makes villagers hide in the town hall during a raid.
+
+huntmonster: Seek out mobs around the village and attack them.
+
+keepstall: For market merchants, hold their stalls so the player can trade with them.
+
+mining: Go and mine rocks etc at the villager's house.
+
+performpujas: Perform a puja or a Maya sacrifice.
+
+plantcocoa: Plant cacao seeds at home.
+
+plantsaplings: Go plant saplings in a grove.
+
+plantsugarcane: Plant sugarcane in a building with the sugar cane plantation tag.
+
+plantwarts: Plant nether warts at home (for free).
+
+raidvillage: Goal for village raiders, active when in the target village.
+
+shearsheep: Sheer sheeps present around the villager's house.
+
+sleep: Go to sleep at home at night. This goal is auto-added to all villagers.
+
+visitbuilding: For local merchants, pick up goods from village shops for exports and drop off goods brought from other villages.
+
+visitinn: For local merchants, drop off picked up goods at the Inn for export and take goods for import.
+

@@ -1,0 +1,17 @@
+name=Sunsan Ghar
+weight=10
+radius=10
+
+//Vanilla biomes
+biome=Savanna M
+biome=Jungle M
+biome=JungleEdge M
+biome=Desert M
+
+//biomes o'plenty
+biome=prairie
+biome=rainforest
+biome=tropical rainforest
+
+//starting buildings=
+centre=indiandesertedfarm

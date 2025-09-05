@@ -1,0 +1,25 @@
+//Parameters for the building as a whole
+building.length=14
+building.width=29
+building.areatoclear=5
+building.buildingorientation=1
+building.icon=indianstatue
+building.randombrickcolour=white;white:50
+building.version=2
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Gaanv Ka Mandir
+initial.priority=500
+initial.pathlevel=1
+initial.tag=praying
+initial.tag=pujas
+
+//Parameters for specific upgrades
+upgrade1.priority=50
+upgrade1.rebuildpath=true
+
+upgrade2.priority=45
+upgrade2.rebuildpath=true
+
+upgrade4.rebuildpath=true

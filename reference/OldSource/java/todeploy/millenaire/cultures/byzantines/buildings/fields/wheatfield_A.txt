@@ -1,0 +1,19 @@
+building.length=20
+building.width=13
+building.mindistance=0.5
+building.icon=wheat
+building.buildingorientation=3
+building.max=1
+building.areatoclear=3
+building.closetotag=farm,75
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Choráfi
+initial.priority=100
+initial.tag=wheat
+initial.pathlevel=1
+
+//Parameters for specific upgrades
+upgrade1.priority=200
+upgrade1.pathlevel=2

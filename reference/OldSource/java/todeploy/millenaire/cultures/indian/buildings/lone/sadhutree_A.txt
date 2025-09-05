@@ -1,0 +1,13 @@
+//Parameters for the building as a whole
+building.length=20
+building.width=20
+building.buildingorientation=2
+
+building.icon=vishnu_amulet
+
+//Parameters for initial construction
+initial.startlevel=-2
+initial.nativename=Sadhu Ke Peer
+initial.male=indian_sadhu
+initial.tag=despawnallmobs
+

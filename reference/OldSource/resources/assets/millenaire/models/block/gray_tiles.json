@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "down": "millenaire:blocks/gray_tiles_0",
+        "up": "millenaire:blocks/gray_tiles_0",
+        "north": "millenaire:blocks/gray_tiles_180",
+        "east": "millenaire:blocks/gray_tiles_90p",
+        "south": "millenaire:blocks/gray_tiles_0",
+        "west": "millenaire:blocks/gray_tiles_90n",
+        "particle" : "millenaire:blocks/gray_tiles_0"
+    }
+}

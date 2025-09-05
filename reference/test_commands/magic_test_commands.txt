@@ -1,0 +1,32 @@
+# 魔法物品测试命令 - 带动画效果版本
+# 在游戏中输入这些命令来获取和测试魔法物品
+
+# 法杖类
+/give @p millenaire_rewrite:wand_summoning
+/give @p millenaire_rewrite:wand_negation  
+/give @p millenaire_rewrite:wand_creative
+/give @p millenaire_rewrite:tuning_fork
+
+# 护身符类 - 现在具有原版动画效果！
+/give @p millenaire_rewrite:amulet_skoll_hati
+/give @p millenaire_rewrite:amulet_alchemist
+/give @p millenaire_rewrite:amulet_vishnu
+/give @p millenaire_rewrite:amulet_yggdrasil
+
+# 测试说明：
+# 1. 调音叉 - 右键点击方块可查看方块信息
+# 2. 斯库尔与哈提护身符 - 右键可切换白天/夜晚
+# 3. 炼金术师护身符 - 放在物品栏中自动探测附近矿物
+#    ★ 现在具有动画效果！材质会根据矿物强度变化
+# 4. 毗湿奴护身符 - 放在物品栏中自动探测附近生物
+#    ★ 现在具有动画效果！材质会根据威胁等级变化
+# 5. 世界树护身符 - 放在物品栏中显示当前高度
+#    ★ 现在具有动画效果！材质会根据高度变化
+# 6. 其他法杖 - 目前显示功能提示，建筑导入导出功能待实现
+
+# 动画说明：
+# - 护身符使用了原版Minecraft的材质动画系统
+# - 动画会根据探测到的内容强度自动变化
+# - 炼金术师护身符：矿物越多，动画越活跃
+# - 毗湿奴护身符：生物威胁越大，动画越明显
+# - 世界树护身符：高度不同，动画颜色不同

@@ -1,0 +1,15 @@
+//Parameters for the building as a whole
+building.length=13
+building.width=12
+building.buildingorientation=3
+building.startinggood=bread,1.0,2,6
+building.startinggood=denier,1.0,20,44
+building.startinggood=wheat,1.0,8,16
+building.startinggood=normanhoe,0.2,1,0
+
+building.icon=bread
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Moulin abandonné
+

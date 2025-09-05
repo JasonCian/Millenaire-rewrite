@@ -1,0 +1,17 @@
+building.length=18
+building.width=16
+building.max=0
+building.mindistance=0.6
+building.icon=bucketempty
+building.areatoclear=3
+
+initial.startlevel=-3
+initial.nativename=Ntamári
+initial.priority=100
+initial.pathwidth=1
+initial.tag=sandpit
+
+upgrade1.priority=400
+upgrade1.pathlevel=2
+
+upgrade2.priority=200

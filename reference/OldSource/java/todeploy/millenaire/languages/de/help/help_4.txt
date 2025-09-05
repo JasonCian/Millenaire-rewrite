@@ -1,0 +1,10 @@
+version:3.4
+<darkred>Dorf Ausbau
+
+Alle Dörfer fangen klein um ein Zentrales Gebäude herum an, (unterschiedlicher Art: Fort, Palast, Kloster, etc. ...) gemeinhin bekannt als Rathaus, mit wenigen Häusern oder anderen Gebäuden. Der Dorfbewohner ihr Hauptziel ist es, das Dorf zu erweitern, indem Sie neue Gebäude aufbauen und Verbesserungen bestehender Gebäude veranlassen. Aus diesem Grund, benötigen sie Rohstoffe - sie können sich einige selbst herstellen (Holzfäller sammeln Holz und Bergleute Stein ...) aber sind abhängig vom Spieler für andere. Ihre materiellen Bedürfnisse für den geplanten Bau werden im Hauptgebäude angezeigt. Du kannst ihnen dabei helfen, indem Du ihnen diese Materialien verkaufst.
+
+Die Dorfbevölkerung wird sich im Laufe der Zeit erhöhen - in der Nacht, können verheiratete Dorfbewohner Kinder bekommen. Sobald die Kinder aufgewachsen sind, ziehen sie in eigene Häuser ein und werden erwachsen (vorausgesetzt freie Häuser sind vorhanden).
+
+Der Ausbau eines Dorfes wird in der Regel auf eine von zwei Arten enden: Entweder, weil das Dorf alle Bauwerken fertiggestellt hat, oder weil es keinen Platz hat. Im letzteren Fall, kannst Du auf die Dorf Karte schauen, um zu sehen welche Gebiete unbebaubar sind. Manchmal ist es möglich, einen See zu füllen oder einen Berg abzutragen um diese Gebiete bebaubar zu machen.
+
+Manchmal braucht ein Dorf einen Gegenstand, den man nicht selbst herstellen kann. So wie normannisches und japanisches Fachwerk. Dann musst Du warten, bis das Dorf eine Werkstatt baut und ein Kind sich Dort in Ausbildung zum Schreiner begibt.

@@ -1,0 +1,341 @@
+//Français par xIflot
+//French by xIflot
+//Anglais par Teethdude
+//English by Teethdude
+//Maya by TheyCallMePoncho
+//Maya par TheyCallMePoncho
+//Allemand par xBlackD
+//German by xBlackD
+
+newchat;key:stone,weigth:10;
+v1;0;Nojoch tuunich antal ts’íib ku bin táanil ti’ junp’éel k’aaba’ tia’al u ye’esik xiib yéetel chéen juntúul wáa junp’éel ma’alobkin wíiklal ka kuxtal. / Stein ist das beste Material das je existierte. 
+v2;30;¡Kux yaan ma'alobtal bi'bi'ki! ¡Ts'íic tuunich! / Gebrannt ist er sogar noch besser! Ein Hoch auf Stein!! 
+v1;60;¡Haah k'ana'an hóok's! Ich meyah! / Wir müssen es abbauen! An die Arbeit! 
+
+newchat;key:pyramid,building:mayanpyramid,weigth:7;
+v1;0;Tin nah k'uh haah ma'alobkin hats'uts yéetel ma'alobkin beet. / Unsere Pyramide ist die schönste und am besten gebaute! 
+v2;30;Haah u t'aan. Xíimbal uláak' chan kaah. Utia'al letio'ob antal ki'ichpam, ¡Ba'ale' ma' ki'ichkelem he'ebix in tia'al! / Es ist wahr. Ich besuchte andere Dörfer. Sie sind sehr schön aber nicht so elegant wie unseres! 
+v1;60;In tia'al xook utia'al nahil haah hun yéetel ha'as óol. / Unsere Architektur ist einzigartig und originell.  
+v2;90;Ma' u'uyba nohchil hach. Ma' k'áat kex antal he'ebix Byzantines. / Prahl nicht so rum. Ich will nicht das wir werden wie diese eingebildeten Byzantiner. 
+v1;120;Ah, kux. In ch'a' k'uux. ¿¡Bixi' páahtal yaan hach  u'uyba noh ba'al!? / Oh ja, ähhh... Ich hasse sie. Wie kann man nur so überheblich sein?! 
+
+newchat;key:player,weigth:10;
+v1;0;To'on ma' hach wíiniko'ob ka taal ich xíimbal lelo' kúuch. / Wir bekommen hier nicht viele Besucher. 
+v2;30;Kux, chéen lela' $name yéetel uláak' wíiniko'ob saat... / Stimmt, da sind nur $name und andere verlorene Leute... 
+v1;60;T'aan utia'al $name, ¿ma' teech tuukul ka $name il ka'anal yéetel hela'an? / Apropos $name, findet ihr Ihn nicht zunehmend seltsam und müde? 
+v2;90;Kux. Leti' p'aax wa'atal. / Genau. Er sollte eine Pause machen. 
+
+newchat;key:miner,weigth:9;
+v1;0;To'on p'aax antal máas áaktun máako'ob. / Wir sollten mehr Bergarbeiter anstellen. 
+v2;30;¡Ah kux! Nohoch tuunich yéetel yaan ma'alokin bi'bi'ki ti' kúuch. / Oh ja! Diese Steine und Mineralien sind die besten die es gibt! 
+v1;60;Kux, haah u t'aan. Kurx yaan k'aana'an máas utia'al to'on, P'aax ya'abtal xook. / Ich stimme zu... doch sind wir hier nicht genug. Unsere Zahl muss wachsen. 
+v2;90;Yéetel ma' ts'aa ich meyah ich mix may paal. / Und Kinder können wir nicht Arbeiten lassen. Sie sind zu jung. 
+
+newchat;key:woman,weigth:6,v1:adult,v2:adult,v1:female;
+v1;0;Haah k'iin utia'al nah. / Zeit, das Haus zu putzen. 
+v2;30;¡Kurx teech hun k'iin! / Aber das hast du Gestern schon gemacht! 
+v1;60;Ma', yaan mix ba'al ka beet te'ela'. / Ist egal. Ich darf hier ja sonst nichts machen. 
+v2;90;¡Teech huntiich' tak ho'ol! / Immer beschwerst du dich! 
+v1;120;Yaáxil tak pool, ¡óot na'at! / Anstatt sich zu beschweren, das ich mich beschwere, solltest du versuchen zu verstehen WARUM ich mich beschwere! 
+
+newchat;key:friend,v1:vtype:mayan_miner,v2:adult,weigth:10;
+v1;0;Ah, tin uts amikoo, ¡$targetfirstname! ¿Bixi' antal? / Oh, mein guter Freund $targetfirstname! Wie geht es dir? 
+v2;30;¡Toh oolal, $targetfirstname! Meen ka in páahtal, meyahil bin k'aas. / Hallo $targetfirstname! Ich tue zwar was ich kann, doch das Geschäft läuft schlecht. 
+v1;60;¿Teech p'aat koonol tuunich ich Hindis? / Verkaufst du keinen Stein mehr an die Hindi's? 
+v2;90;Kux. Behla'e' leo'ob Japanese sahkab máako'ob k'a'ay meyah, leito'ob ma' k'abeet. / Genau. Nachdem unabhängige japanische Bergarbeiter Ihre Dienste anboten, brauchten Sie mich nicht mehr. 
+v1;120;Teech ts'a'ah wa ba'ax hach. / Du musst Ihnen einfach etwas anders anbieten. 
+v2;150;¿Teech yaan hun tuukul? / Hast du irgendwelche Ideen? 
+
+newchat;key:monster,weigth:5;
+v1;0;Yaan hach k'aak'as ba'al táankab. / Es sind zur Zeit viele Monster unterwegs. 
+v2;30;In antal máako'ob ba'ate'il páahtal kíimsah. / Ich bin sicher unsere Wachen können Sie bekämpfen 
+v1;60;In antal sahkil beey hun múuch' lelo'ob paal wáak'al ya'ax taah ich chan kaah. / Ich mache mir nur sorgen das uns eine Horde dieser grünen explodierenden Kreaturen angreift. 
+v2;90;Ma' sahakil. To'on yaan léech tia'al ts'aa yiknal letio'ob. / Keine Sorge. Wir haben Köder die wir gegen Sie verwenden können. 
+v1;120;Lela' uts, to'on yaan ich $name. Leti' ma' ba'ate'el k'aw. Leti' páahtal áantah to'on.  / Nagut. und im schlimmsten Fall ist da noch $name. Er kämpft gut und kann uns verteidigen.  
+v2;150;Kin ma' péek óol. Leti' ma' k'aw. / Das glaube ich auch. Er ist nicht schlecht. 
+
+newchat;key:normands,weigth:6;
+v1;0;¿Teech yaan paakat boon oot'il utia'al Normans? ¡Letio'ob hach saas! / Hast du die Hautfarbe der Normannen gesehen? Sie sind so blass! 
+v2;30;¡Kux! In mix bik'in yaan paakat saas máako'ob. Hela'n.  / Oh ja! So eine Farbe sah ich noch nie. Sehr seltsam.  
+v1;60;In tuukul letio'ob xota'an u k'iin... / Ich glaube Sie sind verflucht... 
+v2;90;Ma' yaan ma' na'at. Letio'ob yaan wíinik he'ebix tuláakal to'on. / Sei nicht albern! Sie sind Menschen wie wir. 
+v1;120;Ma' péek óol yaan káaltalil k'eex beey. In antal chich leio'ob ma' yaan beey. / Es war ohne Zweifel Ihr Alkohol der Sie verändert hat. Sie waren bestimmt nicht immer so!
+v2;150;Wale' teech antal k'aw. / Da liegst du wahrscheinlich falsch.. 
+
+newchat;key:alchimist,weigth:4;
+v1;0;Ch'óoch' káax, in il báaxal t'aan wáay. / Als ich den Wald erkundete, sah ich einen komischen Alchemisten. 
+v2;30;¿Teech' he'ebix leti' léeyli'e'? Leti' yaan su'utsil hela'an. / Du hast Ihn auch gesehen? Er ist wirklich merkwürdig! 
+v1;60;"¡Yéetel bixi'! Leti' yaan hun ts'íib hela'an xa'ak'. ¿Teech oohel "tseek' baakel muuts'" wa "sa'am utia'al píixan" p'aax a'al? / Und wie. Er hat eine seltsame Zutatenliste. Weisst du was "verdorrte Skelettschädel sind? Oder Seelensand? 
+v2;90;Ma'. Kurx ma' yaan hach hets' tuukul. / Nein. Und es klingt auch nicht sehr beruhigend. 
+v1;120;¡Kurx! To'on tuukul leti' óot beet ich tuunich yum k'iin. / Ja! Wir glaube er versucht einen Stein der Weisen zu erschaffen. 
+v2;150;Tohol $targetfirstname, beey teech tuukul huum u tsikbalil wáa ba’ax, teech antal hach k'as tuukul kab yaan táax. / Naiver $targetfirstname, wenn du an solche Gerüchte glaubst, glaubst du noch die Erde sei rund! 
+v1;180;Teech antal wáa ma'alob. / Da hast du bestimmt recht. 
+
+newchat;key:dragonegg,v1:adult,v2:adult,weigth:5;
+v1;0;Kin il ich hela'an he' boox ich bilim. / Ich habe ein seltsames schwarzes Ei in der Wüste gesehen. 
+v2;30;Ah, ¿ich wa maax? ¿Bixi' haah il? / Wirklich? Wie sah es aus? 
+v1;60;Yaan noh, yaan wóolis chak puk’e’en. Yaan hach noh. ¡Nohoch! / Es war groß mit lilanen Punkten. Sehr groß. 
+v2;90;¿Teech uk' Norman máak sen ya'ab wa teech antal p'a'as? / Hast du wieder normannischen Alkohol getrunken oder scherzt du nur rum? 
+v1;120;Ba'ale'... ¡Haah haahil! / Aber... Es ist wahr! Ich schwöre es! 
+v2;150;¡Jaja! Teech tuukul teech tuus beey, ¡teech k'aw! / Haha! Wenn du denkst, du kannst mich reinlegen, täuschst du dich! 
+
+newchat;key:wither,weigth:3;
+v1;0;Ich k'aáx in il ich hela'an boox paal. / Im Wald sah ich eine seltsame schwarze Kreatur. 
+v2;30;¿Haah haahil? Tsool, ¡in k'áat oohel máas! / Wirklich? Beschreib Sie mir! Ich bin neugierig! 
+v1;60;Leti' yaan boox he'ebix baakel paal, yiknal ho'ol ich ts'ook utia'al k'ab, yéetel ich kaal, yéetel yaan ta' hach ke'el he'ebix ha' chichkunta'an tumen ke'el wáa síis... / Nun, es war eine schwarze, Skelettartige Kreatur mit drei Köpfen. Zwei davon an den Enden ihrer Arme. Ihr Blick war kalt wie Eis... 
+v2;90;Xi'ix mukuy pu'uch. / Da läuft's mir kalt den Rücken runter. 
+v1;120;Enderwíinik antal k'óoch leti'. / Endermen haben es angegriffen. 
+v2;150;¿Ederwíinik? Letio'ob ma' kuxtal, teech antal wayak'. / Endermen? Die existieren doch nicht! Das musst du geträumt haben! 
+
+newchat;key:bakery,notbuilding:mayanbakery,weigth:7;
+v1;0;To'on p'aax wa'akum nah hun tu'ux ku meenta'al yéetel ku ko'onol waah. Too'n antal ich meyahil. / Wir sollten eine Bäckerei bauen. Und wir würden sie dann leiten.
+v2;30;Haah u t'aan. To'on ma' kukin otoch waah. / Wohl wahr. Wir können uns nicht mit selbstgebackenem Brot zufrieden geben! 
+v1;60;Bin ich t'aan ich halach wíinik. / Lass uns mit dem Häuptling reden.
+
+newchat;key:bestdad,v1:child,v2:child,weigth:8;
+v1;0;Tin taatáa yaan toop tumen leti' haah hun ma'ako'ob mol che'. / Mein Vater ist der beste, denn er ist ein Holzfäller! 
+v2;30;¡Jah! ¡Che' haah ma' k'abéet! Tin taatáa yaan toop tumen antal sahkab máako'ob. / Pfft! Holz ist nutzlos! Meiner ist besser, denn er ist Bergarbeiter! 
+v1;60;Mina'an che', a taatáa ma' meyah. / Ohne Holz, wäre dein Vater nutzlos! 
+v2;90;¿¡Ba'ax!? ¿Teech kaxan hun? / Ach ja?! Willst du ein paar?! 
+v1;120;Ka'anal, tuunich ma' yaan meyah. ¡Ta'! / Hör auf! Stein ist nutzlos! Gib's zu! 
+v2;150;¡Mina'an tuunich, a taatáa weneh yáanal eek'! / Ohne Stein würde dein Vater unter den Sternen schlafen! 
+
+newchat;key:becomeadult,v1:child,v2:child,weigth:9;
+v1;0;Kin yaan sahakil utia'al suut nohoch máak. / Ich habe Angst, erwachsen zu werden. 
+v2;30;¿Ba'ax ten? / Warum das? 
+v1;60;Tumen... Yaan hach hach meyahil yéetel ma' báaxah... / Nun weil... Es gibt so viel Arbeit und wir können nicht mehr spielen... 
+v2;90;Teech il, ¡toop! / Du wirst sehen! Das wird großartig!! 
+v1;120;Ma'... Kin ma' k'áat! Kin ma' k'áat! Kin ma' k'áat! / Nein... Ich will nicht ich will nicht ich will nicht ich will nicht!! 
+
+newchat;key:rebellion,v1:child,v2:child,rel:sibling,weigth:6;
+v1;0;¡Taatáa yéetel na' yaan k'aw! ¡To'on yaan léeyli'e' cho' tin otoch! / Mutter und Vater sind unfair! Immer müssen wir unser Zimmer aufräumen! 
+v2;30;¡Kurx! ¡To'on p'aax e'es yéetel k'áat hun kuxtal hach tsikbe’en! / Ja! Wir sollten rebellieren und eine bessere Behandlung verlangen! 
+v1;60;¡To'on il! ¡Teech na'! / In den Kampf! Konzentrier dich auf Mutter! 
+
+newchat;key:japanese,v1:adult,weigth:8;
+v1;0;Eh, $taargetfirstname, il. / Hey, $targetfirstname, guck dir das an. 
+v2;30;¡Báaxal t'aan ts'oons! ¿Tu'ux teech antal? / Komisches Schwert! Und ein komischer Bogen! Wo hast du das gefunden? 
+v1;60;Haah yumi yéetel tachi. Utia'al Japanese máaskab. / Es ist ein "Yumi Bogen" und ein "Tachi Schwert". Aus der japanischen Schmiede. 
+v2;90;Haah hats'uts yéetel k'abéet. ¿Haah ko'ok? / Sie sind schön und sehen effektiv aus. Waren sie teuer? 
+v1;120;¡Kurx! ¡In ch'iin 2 sak taak'in yiknal yumi! / Auf jeden Fall! Der Bogen alleine kostete zwei Silber! 
+v2;150;¡Oohh! Teech líik'es hach táanil maan. / Wow! Da muss man eine Menge sparen bevor man sich das leisten kann! 
+
+newchat;key:exchange,v1:adult,v2:adult,v1:male,v2:male,weigth:9;
+v1;0;Heh, $targetfirstname. ¿To'on k'íiwik toohol koonol? / Hallo $targetlastname, Herr. Steht unser Handel noch? 
+v2;30;Kurx, kurx. He'ebix in a'al, in yaan túulis. / Ja, ja. Wie verlangt, habe ich alles.
+v1;60;¡Huntiich ich k'iin! Haah ma'aldo beet meyahil yiknal teech. / Wie immer pünktlich! Schön mit Ihnen Geschäfte zu machen. 
+v2;90;Ki’imak óolal haah tin. Le túun... 32 chuun che' tumen 8 máaskab. ¡Péeka'an! / Das Vergnügen ist ganz meinerseits. So... 32 Stämme für 8 Eisenbarren. Erledigt! 
+v1;120;Hach dyos bo’otik, yuum. Teech yaan ich ma'aldo k'iin. / Vielend Dank mein Herr. Ich wünsche einen schönen Tag. 
+v2;150;Teech, yuum $targetlastname! / Ich Ihnen auch, Herr $targetlastname ! 
+
+newchat;key:embauchement,v1:adult,v2:vtype:mayan_warrior,weigth:7;
+v1;0;Kin meyah máak teech tia'al kalan in, tumen 48 Deniers tumen k'iin. / Ich heuere dich an, für 48 Münzen pro Tag. 
+v2;30;Amm... koonol bahux k'iin teech meyah máak, $targetfirstname. / Hmmm. Das kommt darauf an, für wie lange du mich anheuerst, $targetfirstname . 
+v1;60;6 K'iin. Tin xiibil peek' ma' ka'ans tia'al kalan in kin. / Sechs Tage. Meine Hunde reichen nicht aus um mich zu beschützen. 
+v2;90;Hun Argentum. Ma' óotsil. / Also gut, Eine Silber Münze. Nicht weniger. 
+v1;120;¡Lelo' haah ookol! / Das ist Raub! 
+v2;150;Ma', $targetfirstname. Kin péek óol tin kuxtal waye' meyahil. / Überhaupt nicht, $targetfirstname. Immerhin riskiere ich hier mein Leben. 
+
+newchat;key:cereal,v2:vtype:mayan_farmer,weigth:9;
+v1;0;Kin k'áat pak'al arroz. / Ich werde versuchen etwas Reis anzubauen.
+v2;30;¿Arroz? ¿Ba'ax yaan? / Reis? Was ist das?
+v1;60;Hun aban in maan utia'al Hindu. ¡Letio'ob t'aan yaan ki'! / Eine Pflanze die ich von den Hindi kaufte. Sie sagen sie sei vorzüglich! 
+v2;90;¿Kin páahtal túum? / Darf ich mal probieren? 
+v1;120;Yah tu yool, ma'. Kin pak' neek'. / Leider nein. Ich muss jedes Korn pflanzen. 
+v2;150;Lelo' ma' antal k'abéet. / Das wird eh nix. 
+
+newchat;key:zombiepigmen,weigth:6;
+v1;0;¿Teech il chak iik' hach túumben? / Hast du den letzen Sturm gesehen? 
+v2;30;¡Yéetel he'ebix! Tin koolki' óolt ha', kurx kin yaan sahkil. / Und ob! Unsere Feldfrüchte lieben den Regen, doch es war erschreckend! 
+v1;60;Kin antal pak'al, yéetel antal k'éek'en tséel kin. / Nun, ich war in den Ebenen und da stand ein Schwein neben mir. 
+v2;90;¿Yéetel? / Und? 
+v1;120;Hun haats' cháak yéetel leti'... Leti' níikil paachil mo'ol... / Ein Blitz traf es und... Es stelle sich auf seine Hinterbeine... 
+v2;150;¿Haah u t'aan? ¿Bixi' il? / Wirklich?! Wie sah es aus? 
+v1;180;Lei' yaan kuuxum ya'ax óok'ol... wa wa ba'axhe'ebix leto'. Lei' yaan xtol k'uun. / Es hatte grünen Schimmel an sich oder etwas ähnliches. Und es trug ein Goldschwert. 
+v2;210;¿Teech kóoch wa hóok'ol? / Hast du angegriffen oder bist du geflohen? 
+v1;240;In antal ma' xtol. Kurx leti' ma' k'áat kóoch kin. Leti' il kin, suut, yéetel xíimbal ma' ohéelal t'aan máan. / Ich war unbewaffnet, doch es wollte mich nicht angreifen. Es sah mich an, drehte sich weg und ging. Anscheinend ohne zu wissen was los war. 
+v2;270;Teech p'aax ts'aa k'áak'. ¿Yéetel k'óoch chan kaah? / Du hättest Feuer nutzen sollen. Was wenn es das Dorf angreift? 
+v1;300;Kurx haats' cháak, yéetel leti' uúy mix ba'al. / Feuer machte ihm nichts. Es wurde nochmal vom Blitz getroffen und es schien nichts zu fühlen. 
+
+newchat;key:recolt,weigth:10;
+v1;0;T'ook yaan pik'taan tun. / Die Ernte ist reich, dieses Jahr. 
+v2;30;Kurx, yéetel tak ho'ol yaan chich pool. / Stimmt, es wäre dumm sich zu beschweren! 
+v1;60;¡Wáa! / Natürlich! 
+
+newchat;key:village,weigth:8;
+v1;0;Kin tuukul chan kaah il ma'aldo. / Ich finde unser Dorf ist schön. 
+v2;30;Wáa. Yaan hach hats' uts. / Finde ich auch. Es ist wirkich künstlerisch. 
+v1;60;Yaan dyos bo'otik tuunich yéetel na'at meent. / Alles dank dem Stein und unserer meisterhaften Architektur! 
+
+newchat;key:peasantdialog,v1:vtype:mayan_peasant,v2:vtype:mayan_peasant,weigth:10;
+v1;0;Hach hach nal tia'al hooch, hach kóom k'iin... / So viel Mais zu ernten, doch so wenig Zeit... 
+v2;30;Kurx, in k'áat to'on yaan xet' utia'al hooch. / Ja, ich wünschte wir würde ein Teil der Ernte bekommen. 
+
+newchat;key:playerorigins,weigth:10;
+v1;0;$name haah ich hela'an máako'ob. / $name ist eine wirklich seltsame Person. 
+v2;30;Haah hach hela'an ka normans. / Sogar seltsamer als die Normannen. 
+v1;60;¿Kurx utia'al tu'ux taal leti'? / Doch wo kam er her? 
+v2;90;Kin ma' antal, leti' ma' haah il he'ebix uláak' chan kaah. / Bin mir nicht sicher. Er scheint keiner Kultur anzugehören. 
+
+newchat;key:byzantins,weigth:9;
+v1;0;Kin ma' muk'yah ich leio'ob Byzantines, ¡letio'ob tuukul letio'ob yaan yuumil lu'um! / Ich kann diese Byzantiner nicht ausstehen! Sie denken das Land gehört Ihnen! 
+v2;30;¿Yéetel teech il lelo'ob nahils? / Und hast du Ihre Gebäude gesehen? 
+v1;60;Kurx kin il lelo'ob, hach hela'am. / Ja habe ich, sehr seltsam. 
+v2;90;¿Pak'lu'um? ¿Ka haah xuul? / Ziegel? Wo ist da der Sinn!? 
+v1;120;Letio'ob ts'aa ba'al utia'al xukul, he'ebix Normans. / sie benutzen auch dieses Glas-Zeug. Wie die Normannen. 
+v2;150;Túun, kurx leio'ob il hach máan táanil ka indians. Letio'ob chéen yaan hool. / Stimmt, doch scheinen Sie fortgeschrittener als die Inder. Die haben nur Löcher als Fenster.. 
+
+newchat;key:dialogchildmother,v1:child,v2:adult,v2:female,rel:parent,weigth:10;
+v1;0;¡Na'! ¿Kin páathal bin báaxal táanakb chan kaah? / Mama! Kann ich weiter weg vom Dorf spielen? 
+v2;30;Ma' tin paal, kin ma' k'áat ka teech k'ool. / Nein mein Kind, ich will nicht das du dich verletzt. 
+v1;60;K'ool utia'al ka? Ma' haah hach k'as táanak. / Wovon verletzt? Da ist nichts gefärhliches! 
+v2;90;U'uy, yaan hach k'as paal táankab... / Hör zu, es gibt dort draussen gefährliche Kreaturen... 
+v1;120;¿K-ka xook utia'al paal, na'? / W-Was für Kreaturen, Mama? 
+v2;150;K'aas ba'al he'ebix... creepers. / Schreckliche Dinge wie... Creeper. 
+v1;180;C-c-creepers? / C-c-creeper? 
+v2;210;Kurx tin paal, letio'ob áalkab paach teech chan kaah yéetel waak' teech. / Ja mein Kind, sie folgen dir nach Hause und sprengen dich in die Luft wenn du's am wenigsten erwartest!
+
+newchat;key:tobewarrior,v1:vtype:mayan_warrior,v2:notvtype:mayan_warrior,weigth:9;
+v1;0;Antal máako'ob ba'ate'el yaan ma'aldo ka in beet. / Ein Krieger zu werden war die beste Entscheidung meines Lebens. 
+v2;30;¿He'ebix bin?? / Wie das? 
+v1;60;Tumen kin páahtal bin aantah ich toop ch’a’ k’uxta’an, hach  náays óol ka hooch ixi'im. / Weil ich rausgehen und helfen kann Monster zu bekämpfen. Viel spaßiger als Mais zu ernten.. 
+v2;90;Kux kuxtal yaan máas hets'. / Dafür ist mein Leben viel sicherer. 
+v1;120;Túun, kux huntiich' antal óot hach k'as. / Stimmt, doch ich wollte schon immer den Nervenkitzel. 
+
+newchat;key:likemydad,v1:male,v2:child,v1:child,weigth:8;
+v1;0;¡Kin k'áat yaan he'ebix taat utia'al noch. / Wenn ich groß bin, möchte ich wie Vater sein! 
+v2;30;¿Hun sahak? / Ein Schwächling? 
+v1;60;¿Ba'ax? Ma', Leti' ma' yaan hun sahak. / Was? Nein, er ist kein Schwächling!
+
+newchat;key:palace,v1:vtype:mayan_king-mayan_leader-mayan_chieftain,v2:adult,weigth:9;
+v1;0;Leti' kuxtal kuxtah tin ha'ak'óol nukuch nah. / In meinem Palast zu leben ist wahrlich das wirkliche leben! 
+v2;30;¡Yéetel yaan hun ha'ak'óol nukuch nah, tin chanan! / Und was für ein schöner Palast es ist, mein Herr! 
+
+newchat;key:become,v1:adult,v2:child,v2:male,rel:child,weigth:9;
+v1;0;¿Kex teech k'áat yaan utia'al noch? / Was möchtest du werden wenn du groß bist? 
+v2;30;Kin ma' oohel, wale' kanan, wa pan... we'matz wale'.. / Ich weiss nicht. vielleicht ein Krieger oder Bergarbeiter... oder Bauer vielleicht. 
+v1;60;Teech yaan yéey hayp'éel k'iin. / Nun, eines Tages musst du dich entscheiden. 
+
+newchat;key:wah,weigth:9;
+v1;0;Kin yaakun hanal wah. / Ich liebe es "Wah" zu essen. 
+v2;30;¡Kin léeyli'e'! Yaan alobkin tuukul. / Ich auch! Das beste was je erfunden wurde. 
+
+newchat;key:rain,v1:female,v2:female,v1:hasspouse,v2:hasspouse,weigth:9;
+v1;0;To'on k'abeet cháak tia'al ixi'im. / Wir brauchen Regen für den Mais. 
+v2;30;Kin óot cháak. / Wie ich mir wünsche das es regnet. 
+v1;60;Wale' beey payal chi', píixan ts'a'ah to'on hun hooch nohoch lelo' tun. / Vielleicht würden die Geister uns einen Regen schenken, der uns eine perfekte Ernte beschert, wenn wir beten gehen. 
+v2;90;Ma'aldo, bin behla'e' túumen to'on ma' antal tusbel. / Nagut, wir gehen sobald wir nicht mehr so beschäftigt sind. 
+
+newchat;key:zombie,v2:vtype:warrior,v2:vtype:mayan_warrior,weigth:8;
+v1;0;¿Yéetel beey hun túuk utia'al kimen k'óoch? / Was machen wir wenn eine Horde Zombies einfällt? 
+v2;30;Teech ma' tuukul, kin yaan ba'ate'el máako'ob ti' lu'um. / Keine Sorge, ich der am besten ausgebildete Krieger im ganzen Land! 
+
+newchat;key:rich,v1:female,v2:vtype:mayan_peasantwife,v1:vtype:mayan_peasantwife,weigth:8;
+v1;0;Ix yaan túulis, ma' beet mix ba'al. / Reiche Frauen haben es gechafft. Sie brauchen überhaupt nicht zu arbeiten. 
+v2;30;Kux, kin tuukul kuxtal beey. / Ich wünschte ich würde so behandelt werden. 
+v1;60;Kin tuukul kin ts’o’okol beel yiknal wa maax yiknal máas taak'in. / Ich wusste ich hätte jemande mit mehr Geld heiraten sollen.. 
+
+newchat;key:rule,v1:male,v2:male,v1:notvtype:mayan_king-mayan_leader-mayan_chieftain,v2:notvtype:mayan_king-mayan_leader-mayan_chieftain,weigth:9;
+v1;0;Kin pa'at hayp'éel k'iin kin ahau lela' chan kaah. / Ich hoffe ich werde eines Tages diese Dorf regieren. 
+v2;30;Teech toohol náay, tumen kin antal ka'an ba'a teech. / Träum weiter, denn ich werde vor dir an der Spitze stehen1 
+v1;60;To'on paakat... to'on paakat. / Wir werden sehen... wird werden sehen. 
+
+newchat;key:indians,weigth:8;
+v1;0;Indians il máas hets' óol kex normans, ¿ma'? / Die Inder scheinen viel freidvoller zu sein als die Normannen, oder? 
+v2;30;Kux, wale' to'on páathal óot nuuch yiknal letio'ob. / Ja, vielleicht sollten wir uns mit Ihnen verbünden. 
+v1;60;Hmm... Kux, le túun wale' to'on páathal k'óoch normans, wa Byzantines. / Hmm.. Ja, zusammen könnten wir vielleicht die Normannen überfallen. Oder sogar die Byzantiner.
+
+newchat;key:gravity,weigth:7;
+v1;0;K'iin yaan kóom waye' lu'um. / Die Tage sind in diesen Ländern viel kürzer. 
+v2;30;Ka, yéetel lu'um chíikpahal báab ichmáal. / Ja, und manchmal scheint der Boden zu schweben. 
+v1;60;Chichan yaah... yéetel sa'am. / Außer Kies... und Sand. 
+v2;90;Kin k'áat ba'ax ten. / Ich frage mich wieso? 
+
+newchat;key:obsidian,v1:vtype:mayan_obsidiancrafter,weigth:8;
+v1;0;Nu'ukul yéetel ts'oon utia'al obsidiana yaan máas hats'uts. / Obsidian Werkzeuge und Waffen sind die elegantesten. 
+v2;30;Hats'uts ba'ale kex mix máak páahtal yaan wa hayp'éel. / So luxuriös und doch könnte jeder welche haben. 
+v1;60;Bahab yaan ma'alob tia'al peech' ich a ch’a’ k’uxta’an. / Der Streitkolben ist super um Feinde zu zerschmettern. 
+v2;90;¿Haahil? Kin yaakun il hun ts'aa ich péek. / Wirklich? Den würde ich gerne in aktion sehen. 
+
+newchat;key:mayanarchitecture,weigth:7;
+v1;0;Nahil maya antal tsíib máas chichha'an ti' lu'um.  / Maya Architektur ist die stärkste aller Länder. 
+v2;30;Yaan yiknal túulis áaktum utia'al tuunich ka to'on beet lelo' hats'utsil. / Dank dem Stein können wir solche Schönheiten erschaffen. 
+v1;60;Kin k'áat bahux nah utai'al tuunich to'on yaan ka beet. / ich frage mich wieviele Steinhäuser wir noch bauen werden? 
+v2;90;Chéen k'iin a'al, amikoo./ Das wird und die Zeit zeigen, mein Freund. 
+
+newchat;key:cacaoyer,weigth:7;
+v1;0;There are few cocoa trees here, this place is unhealthy. / Es gibt hier zu weing Kakaobäume. Dieser Ort ist nicht gesund.
+v2;40;Let's plant some. / Lass uns welche pflanzen!
+v1;80;Says you! Cocoa beans are extremely expensive! / Sagst du! Kakaobohnen sind wirkich teuer!
+v2;120;Ek Chuah will help us. / Ek Chuan wird uns helfen.
+
+newchat;key:chickenegg,weigth:5;
+v1;0;We don't have enough chickens to sacrifice. / Wir haben nicht genug Hühner für die Opfer.
+v2;40;I think we passed by $name. Let's buy eggs from him. / Ich glaube ich traf $name. Lass uns von Ihm Eier kaufen.
+v1;90;You are right, let's do that. / Du hast recht, machen wir das.
+
+newchat;key:ahmunghanan,weigth:6;
+v1;0;Thanks to Ah Mun and Ghanan, our harvests are good. Praise be to them! / Dank Ah Mun und Ghanan haben wir eine reiche Ernte. Gelobt seien sie!
+v2;30;Let's thank them during prayer. / Lass uns Ihnen mit einem Gebet danken.
+v1;80;What can we offer them? / Was könne wir Ihnen darbieten?
+v2;120;Ne fais pas l'idiot ! Notre sang, bien sûr ! / Sei nicht albern! Natürlich unser Blut!
+
+newchat;key:badweather,weigth:8;
+v1;0;Chac is angry. The weather is bad. / Chac is wütend. Das Wetter ist schlecht.
+v2;40;We're not praying enough. / Wir beten nicht genug.
+
+newchat;key:monotheisme,weigth:4;
+v1;0;Really? $name is monotheistic?  / Wirklich? $name ist Monotheist?
+V2;35;He doesn't seem to take our religion seriously... / Er scheint unsere Religion nicht ernst zu nehmen...
+v1;75;Come on, He's not stupid enough to not believe in our Gods. / Kommt schon, er ist nicht dumm genug, nicht an unsere Götter zu glauben!
+
+newchat;key:mayangods,v1:adult,v2:adult,weigth:8;
+v1;0;Faith is our only weapon in these strange lands. / Glaube ist unsere einzige Waffe in diesem fremden Land.
+v2;40;Given our situation, we need to punish those who offend our gods. / Aufgrund unserer Situation, müssen wir die, die unsere Götter beleidigten bestrafen!
+v1;80;We can certainly not get them offended. / Wir können Sie sicherlich nicht beleidigen.
+
+newchat;key:poktapok,weigth:7;
+v1;0;I love Pok-ta-Pok! / Ich liebe Pok-ta-Pok!
+v2;40;Me too! I must say that it is one of our few fun activity here. / Ich auch! Eine unserer wenigen spaßigen Aktivitäten hier.
+v1;80;It's true. It's boring...and I lost my last ball! / Stimmt. Es ist langweilig... Und ich verlor meinen letzten Ball!
+
+newchat;key:year,weigth:5;
+v1;0;We knew before anyone else that one year was precisely 365.2420 days. / Wir wussten vor allen anderen das ein Jahr genau 365,242 Tage lang ist.
+v2;40;We are good in all areas: mathematics, art, geography... / Wir sind gut in allen Bereichen: Mathematik, Kunst, Geography...
+
+newchat;key:puja,weigth:6;
+v1;0;Did you go to pray? / Warst du beten?
+v2;35;Of Course! A real Maya must! / Natürlich! Ein echter Maya muss!
+v1;80;Haha! Of course! What a stupid question I asked. / Haha! Stimmt! Was für eine blöde Frage!
+
+newchat;key:endofworld,weigth:3;
+v1;0;Our shamans and our astrologers see something. / Unsere Schamanen und Asterologen sehen etwas.
+v2;40;Oh really? What? / Oh wirklich? Was?
+v1;80;They see an important event in the year 2012. / Sie sehen ein wichtiges Ereignis im Jahre 2012.
+v2;120;You do not think they are planning a little too far ahead? / Meinst du nicht auch das Sie etwas zu weit vorrausplanen?
+
+newchat;key:xaire,weigth:3;
+v1;0;Xaire, $targetfirstname! / Ave, $targetfirstname!
+v2;30;"Xaire? What's ""xaire""?" / "Ave"? Was ist "Ave"?
+v1;70;A Byzantine greeted me this way. / Ein Byzantine grüßte mich so.
+v2;110;Come on. You are Maya. Let's greet ourselves in our language. / Komm schon. Du bist ein Maya. Lass uns in unserer Sprache grüßen.
+v1;150;A real Maya must have knowledge in all areas. / Ein echter Maya muss Wissen in allen Bereichen haben.
+v2;200;I grant you that it is good to be able to speak several languages__, but you will not talk that way in the village! / Ich stimme dir zu, das es gut ist mehrere Sprachen sprechen zu können, doch in userem Dorf wirst du das nicht tun!
+
+newchat;key:bloodbis,v1:adult,v2:adult,weigth:2;
+v1;0;Let's mutilate ourselves during the next prayer. / Während dem nächsten Gebet sollten wir uns verstümmeln.
+v2;40;I have already done so. Not you? / Habe ich schon. Du ewta nicht?
+v1;80;J-J-Je préfère garder mon sang... / I-i-ich mag mein Blut da wo es ist!
+v2;120;And now, you're doing it again! Every time you look decided, you change your mind! / Und trotzdem machst du es! Jedesmal wenn du entschieden guckst, änderst du deine Meinung!
+v1;160;I don't want to! / Aber ich will nicht!
+v2;200;You refuse to honour our Gods?! / Du weigerst dich unsere Götter zhu ehren?!
+
+newchat;key:cacao,weigth:6;
+v1;0;Cocoa is healthy and delicious... / Kakao ist gesung und vorzüglich...
+v2;40;Healthy, no doubt! But delicious, surely not! Wah is so much better. / Gesund ohne Zweifel! Aber vorzüglich sicherlich nicht! Wah ist viel besser!
+v1;80;Cocoa is the favourite food of the gods. Eat what they offer you. / Kakao ist das Lieblingsessen der Götter. Iss was Sie dir geben.
+
+newchat;key:reborn,weigth:7;
+v1;0;What a wonderful butterfly over there. Maybe this is our friend, sacrificed four years earlier? / Was für ein schöner Schmetterling. Vielleicht unser Freund den wir vor vier Jahren opferten?
+v2;40;I think he would be a hummingbird instead! / Ich denke er wäre eher ein Kolibri.
+v1;80;We won't be the ones to know. / Wir würden es wohl eh nicht wissen.

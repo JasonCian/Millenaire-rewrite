@@ -1,0 +1,10 @@
+{
+    "parent": "millenaire:block/oriented_upper_slab",
+    "textures": {
+        "bottom": "millenaire:blocks/green_tiles_0",
+        "top": "millenaire:blocks/green_tiles_0",
+        "side_ns": "millenaire:blocks/green_tiles_0",
+        "side_ew": "millenaire:blocks/green_tiles_90p",
+        "particle" : "millenaire:blocks/green_tiles_0"
+    }
+}

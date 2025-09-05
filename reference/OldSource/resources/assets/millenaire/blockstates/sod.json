@@ -1,0 +1,11 @@
+{
+	"forge_marker": 1,
+    "variants": {
+        "variant=oak": { "model": "millenaire:sod_oak" },
+        "variant=spruce": { "model": "millenaire:sod_spruce" },
+        "variant=birch": { "model": "millenaire:sod_birch" },
+        "variant=jungle": { "model": "millenaire:sod_jungle" },
+        "variant=acacia": { "model": "millenaire:sod_acacia" },
+        "variant=dark_oak": { "model": "millenaire:sod_dark_oak" }
+    }
+}

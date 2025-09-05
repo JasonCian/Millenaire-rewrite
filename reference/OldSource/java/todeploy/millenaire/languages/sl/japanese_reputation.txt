@@ -1,0 +1,10 @@
+0;Tujec;Mi ne zaupamo tujcem tako zlahka. Lepo se vedi!
+4*64;Znan obraz;Videli smo te že tukaj, ampak to ne pomeni, da ti lahko zaupamo.
+16*64;Reden obiskovalec;Kakšna so bila tvoja pottovanja, $name?
+64*64;Priljubljen trgovec;Oh, $name, prišel si tako daleč, da bi videl naše vaščane.
+2*64*64;Prijatelj vasi;Pozdravljen prijatelj, kaj lahko danes storimo zate?
+8*64*64;Eden naših;Pozzdravljen $name, čakali smo na tvojo vrnitev z velikim pričakovanjem.
+32*64*64;Rojen vladar;$name, pridobil si zaupanje in ugled pri mojih ljudjeh. Sedaj ti bodo sledili povsod. 
+-64;Nadloga;Oh, spet ti! Kaj bi rad?
+-4*64;Neprijeten obiskovalec;Zapusti našo vas, ti svinja!
+-16*64;Sovražnik;Kako se upaš prikazati tukaj! Sooči se s svojo kaznijo!

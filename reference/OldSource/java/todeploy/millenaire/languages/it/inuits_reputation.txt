@@ -1,0 +1,23 @@
+//*        La parte prima del ";" è il titolo, dopo è la descrizione
+//* 
+//* 
+//* 
+//* 
+//* 
+//* 
+//* 
+
+
+0;Sconosciuto;Saluti. Ti serve una mano per sopravvivere in queste lande congelate?
+4*64;Familiarità;La tua presenza non è passata inosservata. Sii pacifico e noi faremo lo stesso.
+8*64;Faccia conosciuta;Ti abbiamo visto girare qui prima. Sentiti libero di restare e riscaldarti.
+16*64;Visitatore Regolare;Siamo contenti di rivederti ancora, $name.
+32*64;Compagno Sopravvissuto;Ah, è bello vedere che sei ancora vivo e sopravvivi bene!
+64*64;Mercante Preferito;Tutti sono felici di vederti. Hai portato qualcosa di eccitante con te questa volta?
+2*64*64;Amico del Villaggio;Ti sei dimostrato un degno compagno. Potrai trovare molti amici qui, $name.
+4*64*64;Fratello di Sangue;Hai fatto molto per aiutarci e siamo lieti di ripagare i tuoi sforzi. Hai la nostra fiducia.
+8*64*64;Uno di noi;Gli spiriti ci hanno benedetti con te. Hanno decretato che tu faccia parte della nostra famiglia ora e sento che hanno fatto la scelta giusta.
+32*64*64;Leader naturale;$name, hai guadagnato la fiducia e il rispetto del popolo Inuit. Ti seguiranno ovunque.
+-64;Fastidio;Non abbiamo tempo per persone come te.
+-4*64;Visitatore Spiacevole;Diffidiamo delle persone come te. Vattene e lasciaci in pace.
+-16*64;Nemico pubblico;Ti abbiamo dato molte possibilità di comunicare con noi, ma hai evitato i nostri sforzi. Vattene e spera che gli spiriti non ti prendano mentre vaghi per le lande congelate.

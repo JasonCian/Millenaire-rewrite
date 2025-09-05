@@ -1,0 +1,21 @@
+priority=40
+
+//en/in millisecondes
+duration=5000
+
+//objets tenus par le villageois
+heldItems=planks_acacia,bed_charpoy
+
+input=wood_acacia,2
+
+output=bed_charpoy,1
+
+
+//s'il y a plus d'objets dans le batiment que ça, arrêter le but
+//if more than that number of item is present in building, stop goal
+townhalllimit=bed_charpoy,16
+
+
+maxsimultaneoustotal=1
+
+sound=wood

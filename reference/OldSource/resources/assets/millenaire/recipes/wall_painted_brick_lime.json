@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "wall_painted_brick",
+    "pattern": [
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "millenaire:painted_brick_lime",
+            "data": 0
+        }
+    },
+    "result": {
+        "item": "millenaire:wall_painted_brick_lime",
+		"count": 6,
+        "data": 0
+    }
+}

@@ -1,0 +1,47 @@
+//Parameters for the building as a whole
+building.length=32
+building.width=32
+building.buildingorientation=2
+building.max=0
+building.icon=normanbroadsword
+
+
+//Parameters for initial construction
+initial.startlevel=-5
+initial.nativename=Fort
+initial.priority=600
+initial.male=knight
+initial.female=lady
+initial.tag=patrol
+initial.shop=townhall
+initial.signs=2,1,3,5,7,8,6,4,0
+
+//Parameters for specific upgrades
+upgrade1.rebuildpath=true
+upgrade1.extrasimultaneouswallconstructions=1
+
+upgrade2.priority=580
+upgrade2.rebuildpath=false
+
+upgrade3.priority=560
+upgrade3.extrasimultaneouswallconstructions=2
+
+upgrade4.priority=540
+
+upgrade5.priority=520
+upgrade5.rebuildpath=true
+upgrade5.tag=nopaths
+
+upgrade6.startlevel=-1
+upgrade6.priority=500
+
+upgrade7.startlevel=-5
+upgrade7.priority=480
+upgrade7.subbuilding=fort_A_lefttower
+upgrade7.subbuilding=fort_A_righttower
+
+upgrade8.priority=460
+upgrade8.rebuildpath=false
+
+upgrade9.priority=440
+

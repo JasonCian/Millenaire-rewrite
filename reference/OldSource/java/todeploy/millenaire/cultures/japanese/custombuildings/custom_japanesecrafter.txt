@@ -1,0 +1,1 @@
+native:Shugi ie;gameNameKey:japanesecrafter_A0;male:japanese_Crafter;female:japanese_peasantwife;craft:1;chest:1-5;sign:1;shop:japanesecrafter;moveinpriority:15

@@ -1,0 +1,9 @@
+List of parameters usable in crafting goals:
+
+input (item and number: 'bone,8'):
+Each action will require and use all the inputs.
+
+output (item and number: 'bone,8'):
+Each action will produce all the outputs.
+
+

@@ -1,0 +1,8 @@
+{
+	"forge_marker": 1,
+    "variants": {
+        "progress=wetbrick0": { "model": "millenaire:wetbrick0" },
+        "progress=wetbrick1": { "model": "millenaire:wetbrick1" },
+        "progress=wetbrick2": { "model": "millenaire:wetbrick2" }
+    }
+}

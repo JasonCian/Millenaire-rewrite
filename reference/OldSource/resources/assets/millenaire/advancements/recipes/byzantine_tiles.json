@@ -1,0 +1,26 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "millenaire:byzantine_stone_tiles",
+      "millenaire:byzantine_tiles_slab"
+    ]
+  },
+  "criteria": {
+    "has_byzantine_tiles": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "millenaire:byzantine_tiles"
+          }
+        ]
+	  }
+    }
+  },
+  "requirements": [
+    [
+      "has_byzantine_tiles"
+    ]
+  ]
+}

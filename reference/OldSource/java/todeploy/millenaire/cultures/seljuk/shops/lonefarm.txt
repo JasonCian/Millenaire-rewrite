@@ -1,0 +1,2 @@
+sells=hay,wheat,yogurt,beefcooked,beefraw,leather,wool_white,mutton,bone
+buys=wheat,ayran,clothes_seljuk_cotton

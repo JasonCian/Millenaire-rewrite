@@ -1,0 +1,39 @@
+//Note pour les utilisateurs de Windows: si vous voyez le fichier entier sur une seule ligne, ouvrez-le avec PSPAd ou UltraEdit plutôt que Notepad
+
+//Note to Windows users: if you see the entire file in one line, open it using PSPad or UltraEdit instead of Notepad
+
+
+//tag nécéssaire à la réalisation de l'action
+//extra tag required for the destination to be valid
+requiredTag=armoury
+
+priority=50
+
+//spécifier si l'étiquette ou les phrases pour ce but n'ont pas le code du but lui-même
+//specify if the label and sentences for this goal is not the name of the goal itself
+sentencekey=makenormanweapons
+
+
+//en/in millisecondes
+duration=20000
+
+//objets tenus par le villageois
+heldItems=iron,normanhelmet
+
+//chaque action consome tous les objets "input" et produit tous les "output"
+//each action will require and use all the inputs and produce all the outputs
+input=iron,2
+output=normanhelmet,1
+
+//s'il y a plus d'objets dans le batiment que ça, arrêter le but
+//if more than that number of item is present in building, stop goal
+buildinglimit=normanhelmet,2
+
+
+//son à jouer quand un objet est fabriqué
+//sound to play once an object is done
+sound=metal
+
+
+tag=tag_smithing
+tag=tag_weaponsmithing

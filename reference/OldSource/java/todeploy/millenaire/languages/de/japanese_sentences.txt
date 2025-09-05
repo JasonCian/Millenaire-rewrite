@@ -1,0 +1,60 @@
+female.BecomeAdult=Watashi wa ituka hahaoya ni naritai desu. / Eines Tages will ich Mutter werden.
+
+male.BecomeAdult=Watashi wa sensi ni naritai desu. / Ich möchte mal ein Samurai werden.
+
+villager.BecomeAdult=Seicho suru jikan! / Zeit, erwachsen zu werden!
+
+villager.BringBackResourcesHome=Cho cho cho... / Schaffe, schaffe...
+
+villager.ChopTrees=Watashi wa nanbonka no ki wo bassai suru tsumori da. / Ich werde ein paar Bäume fällen.
+
+villager.ConstructionStepByStep=Watashi no chichi wa kentiku no houhou ni tuite watashi ni oshieta. / Mein Vater lehrte mich wie man baut.
+villager.ConstructionStepByStep=Watashi wa kami ga watashi no kenchiku wo kiniiru koto wo negatte imasu. / Ich hoffe, die Kami mögen mein Gebäude.
+
+villager.DeliverGoodsHousold=Watashi wa mise kara syokuryou wo eta. / Ich habe Lebensmittel vom Markt.
+
+villager.GatherGoods=Watashi wa ikutuka no souchi ga hituyou da. / Ich brauche ein paar Rohstoffe.
+
+villager.GetGoodsHousold=Watashi wa ie ni korera no mono ga hituyou desu. / Dies sind Sachen, die ich zuhause brauche.
+
+villager.GetHouseResources=Watashi wa ie kara nani ka o shutoku suru hitsuyo ga arimasu. / Ich muss etwas aus meinem Haus holen.
+
+villager.GetResourcesForBuild=Watashi wa motto takusan no zairyou ga hituyou desu. / Ich brauche mehr Baumaterialien.
+
+villager.GoPlay=Watashi wa asobitai desu. / Ich will was spielen.
+
+villager.childobserveagriculture=Watashinohaha wa,-mai sakumotsu o saibai suru koto wa jūyōdesuga, sore wa watashi no tame ni totemo taikutsuda to iimasu... / Meine Mutter sagt Reis anbauen sei wichtig. Aber es sieht so langweilig aus...
+villager.childobserveconstruction=Tabun watashi ga ōkiku naru to, watashi wa tō o taterudeshou. Kin kara! / Vielleicht baue ich Pagoden wenn ich größer bin. Nur aus Gold!
+villager.childobservesmithing=Watashitachi no buki ya yoroi wa mottomo utsukushī monodesu! / Unsere Waffen und Rüstungen sehen am besten aus!
+villager.childobserveproducefood=Naze koko ni subete ga kome de tsukura renakereba naranai nodesu ka? Watashi wa kome ni tsukarete iru! / Warum muss hier alles aus Reis gemacht werden? Ich habe genug vom Reis!
+villager.childobserveproducealcohol=Zenkai watashi wa sake o tameshite mimashita. / Mir war schlecht als ich das letzte mal Sake probierte.
+
+villager.childeatapple=Kono sekai wa mahōdesu! Ringo wa subete no ki ni sodatsu! / Diese Welt ist magisch! An jedem Baum wachsen Äpfel!
+
+villager.MakeTools=Watashi wa naganen no aida saikoukyu no dougu wo koumyou ni tukutte iru. / Ich mache seit vielen Jahren das beste Werkzeug.
+
+villager.MakeWeapons=Saikoukyu no buki no himitu wa sisyou kara watashi ni uketugareta. / Von meinem Meister habe ich die Geheimnisse die schärfsten Schwerter herzustellen.
+
+villager.PlantSaplings=Watashi wa korera no naegi wo ueru tumori desu. / Ich werde diese Setzlinge pflanzen.
+
+villager.SlaughterChicken=Anata no shi wa, jomyaku de niwatorideatte wa naranai! / Dein Tod wird nicht umsonst sein, Huhn!
+
+villager.calltoarms=Mura wo mamore! / Verteidigt das Dorf!
+villager.calltoarms=Karera wa watashitachi wo kougeki suru hi wo koukai suru darou! / Sie werden den Tag verfluchen an dem sie uns angegriffen haben!
+villager.calltoarms=Kuki wo mote! / Zu den Waffen!
+
+villager.gopray=Watashi wa, watashi-tachi no sosen ga hosaku motarasu koto o. / Ich werde beten, dass dir unsere Vorfahren eine reiche Ernte bescheren.
+villager.gopray=Rei wa watashi-tachi o hozon suru. / Die Geister beschützen uns.
+villager.gopray.chosen=Kokoro wo otitukasete kudasai. / Beruhige deinen Geist.
+
+villager.gorest=Watashi niwa kyu-kei ga hituyou desu. / Ich brauche Schlaf.
+villager.gorest=A, mou neru jikan da / Ah, jetzt ist Schlafenszeit.
+villager.gorest=Watashi wa totemo tukarete imasu. / Ich bin zu müde zum Weitermachen.
+
+villager.greeting=Kon'nichiwa, $name-ji! / Hallo, $name-ji!
+villager.greeting=Oi. / Hey.
+villager.greeting=Ogenki desuka, $name-san  / Wie geht es dir, $name-san?
+villager.greeting=Kawatta koto aru? / Was gibt's Neues?
+villager.greeting=Hajimemashite / Schön dich zu treffen.
+villager.greeting=Yokoso. / Sei gegrüsst, Reisender.
+villager.greeting=Gokigenyou. / Wie steht's?

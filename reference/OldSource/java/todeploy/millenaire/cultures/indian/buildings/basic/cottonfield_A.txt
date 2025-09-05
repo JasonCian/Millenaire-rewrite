@@ -1,0 +1,15 @@
+building.length=9
+building.width=12
+building.buildingorientation=3
+building.mindistance=0.6
+building.icon=cotton
+building.randombrickcolour=white;white:50,silver:30
+building.areatoclear=4
+
+initial.startlevel=-1
+initial.nativename=Kapaas Ka Khet
+initial.tag=cottonfield
+initial.tag=flowerfield
+initial.villagetag=cottonfield
+
+upgrade1.priority=60

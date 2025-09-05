@@ -1,0 +1,26 @@
+//Parameters for the building as a whole
+building.length=10
+building.width=10
+building.buildingorientation=4
+building.icon=mayanstatue
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Uxul Otoch
+initial.priority=800
+initial.male=mayan_sculptor
+initial.female=mayan_peasantwife
+initial.prioritymovein=50
+initial.shop=mayansculptor
+
+//Parameters for specific upgrades
+upgrade1.priority=80
+
+upgrade2.priority=75
+
+upgrade3.priority=70
+
+upgrade4.priority=65
+upgrade4.pathlevel=1
+

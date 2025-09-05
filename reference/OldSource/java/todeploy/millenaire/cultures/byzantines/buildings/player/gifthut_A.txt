@@ -1,0 +1,14 @@
+building.length=10
+building.width=12
+building.buildingorientation=3
+building.max=0
+building.isgift=true
+building.icon=cake
+building.areatoclear=3
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Oíkia Áxion
+initial.priority=1000000
+initial.pathlevel=2

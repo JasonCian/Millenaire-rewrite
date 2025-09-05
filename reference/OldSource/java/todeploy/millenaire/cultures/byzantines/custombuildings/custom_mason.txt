@@ -1,0 +1,1 @@
+native:Oikía Technítou;gameNameKey:mason_A0;male:mason_byzantine;female:artisanwife_byzantine;craft:1;chest:1-5;sign:1;shop:mason;tag:tiles;tag:quartz;moveinpriority:20

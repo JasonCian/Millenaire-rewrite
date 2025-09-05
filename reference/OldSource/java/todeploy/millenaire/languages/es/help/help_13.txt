@@ -1,0 +1,19 @@
+
+version:3.4
+<darkblue>Preguntas frecuentes
+<darkblue>Los aldeanos hablan en un idioma distinto al mío. ¿Es esto normal?
+Los aldeanos de Millénaire hablan en "su" lenguaje, como el iindi para los indios o el francés de los normandos. Si juegas en un idioma diferente, "aprenderás" la lengua al interactuar con ellos (comercio, misiones ...). A medida que "aprendes" su lenguaje, Millénaire proporcionará traducciones, primero de los nombres de los edificios, luego de los tipos de aldeanos, y, finalmente, de los diálogos de los aldeanos.
+<darkblue>Mi pueblo normando necesita marcos de madera y no puedo fabricarlos, ¿qué puedo hacer?
+Los marcos de madera son hechos por un carpintero de madera. Espera hasta que la aldea construya una "casa de carpintero" y una pareja se asiente. ¡Ten Paciencia!
+  <darkblue>Mi pueblo japonés necesita paja y no puedo fabricarla, ¿qué puedo hacer?
+Los japoneses producen paja del trigo. Si no están cosechando lo suficientemente por sí mismos, véndeles algunas cosechas para acelerar la producción.
+<darkblue>Construí mi casa cerca de la aldea y los aldeanos la destruyeron mientras construían algo, ¿es esto normal?
+Sí. El territorio de la aldea es de ellos, consulta el mapa para ver los límites. Si quieres construir en la aldea, compra una parcela al jefe.
+<darkblue>Algunos aldeanos están muertos, ¿se regeneran?
+Sí, los aldeanos se regeneran cada noche, poco después de la puesta del sol. Evita dormir para que suceda.
+<darkblue>Mis aldeanos no tienen hijos o sus hijos no están creciendo, ¿qué está sucediendo?
+Nuevos niños pueden aparecer cuando una pareja está en su casa durante la noche. Del mismo modo, crecen en la noche cuando están en casa. Algunos alimentos (bebidas, dulces) aumentan las posibilidades de que los bebés nazcan y otros (pan, cereales) aumentan la tasa de crecimiento de los niños.
+<darkblue>Un edificio en el pueblo se ha dañado, ¿lo arreglarán?
+No, los aldeanos no reparan los edificios (aunque a veces las actualizaciones pueden reemplazar los bloques que faltan), principalmente por razones de rendimiento. Tendrás que repararlo tu mismo.
+<darkblue>A mi pueblo le falta espacio, ¿puedo ayudar?
+Sí, mirando el mapa de la aldea para ver las zonas en las que no se puede construir. Cubriendo un lago, río o cañón con una capa de tierra es suficiente para que la superficie sea útil para los aldeanos.

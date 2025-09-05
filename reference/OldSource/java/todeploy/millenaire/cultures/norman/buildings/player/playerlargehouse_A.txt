@@ -1,0 +1,16 @@
+//Parameters for the building as a whole
+building.length=10
+building.width=12
+building.buildingorientation=3
+building.max=0
+building.reputation=8192
+building.price=4096
+building.icon=denierargent
+
+
+//Parameters for initial construction
+initial.startlevel=-7
+initial.nativename=Maison bourgeoise
+initial.priority=1000000
+initial.pathlevel=1
+

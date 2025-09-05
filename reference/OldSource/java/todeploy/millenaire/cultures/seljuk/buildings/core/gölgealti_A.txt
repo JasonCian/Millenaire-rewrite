@@ -1,0 +1,12 @@
+building.length=9
+building.width=9
+building.areatoclear=3
+building.farfromtag=leisure,40
+building.max=1
+
+building.icon=wool_white
+
+initial.startlevel=-2
+initial.nativename=Gölge altı
+initial.priority=100
+initial.tag=leisure

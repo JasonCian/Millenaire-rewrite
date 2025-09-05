@@ -1,0 +1,13 @@
+minreputation:100
+chanceperhour:0.1
+maxsimultaneous:2
+step:new
+duration:48
+definevillager:key=startvillager,type=seljuk/turk_soldier,forbiddentag=ayranpidesoldier_done
+villager:startvillager
+requiredgood:ayran,1
+requiredgood:pide,2
+rewardmoney:12*64
+rewardreputation:1500
+settagsuccess:startvillager,ayranpidesoldier_done
+settagfailure:startvillager,ayranpidesoldier_done

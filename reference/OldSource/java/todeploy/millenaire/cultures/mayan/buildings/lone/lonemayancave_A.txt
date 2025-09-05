@@ -1,0 +1,17 @@
+//Parameters for the building as a whole
+building.length=11
+building.width=8
+building.buildingorientation=0
+building.showtownhallsigns=false
+building.startinggood=gold,0.8,10,10
+building.startinggood=denierargent,0.5,2,6
+building.startinggood=mayangold,0.5,2,6
+building.startinggood=mayanstatue,0.8,2,4
+
+building.icon=dirt
+
+//Parameters for initial construction
+initial.startlevel=-4
+initial.nativename=Ch'en
+initial.priority=3000
+

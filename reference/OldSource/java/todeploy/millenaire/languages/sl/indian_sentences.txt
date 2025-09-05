@@ -1,0 +1,61 @@
+
+
+villager.greeting=Namaste, $name-ji! / Živijo, $name-ji!
+villager.greeting=Aaj bahut garmi hai. / Danes je zelo vroče.
+villager.greeting=Kya haal hai? / Kako kaj?
+villager.greeting=Kya khabar hai? / Je kaj novega?
+villager.greeting=Ghar par sa theek hain? / Je doma vse vredu?
+villager.greeting=Yeh barish kyun nahin ho rahi? / Zakaj ne dežuje?
+villager.greeting=Kya tum se kale pani se pare ho? / Si z druge strani oceana?
+indian_pandit.greeting=Jeetey raho. / Imej dolgo življenje.
+
+male.gorest=Ab jaakey aaram karta hoon. / Grem se zdaj malo spočiti.
+male.gorest=Subah sey kaam kar raha hoon. / Delal sem od jutra naprej.
+male.gorest=Main thak gaya hoon. / Utrujen sem.
+
+female.gorest=Ab jaakey aaram karti hoon. / Grem se zdaj malo spočiti.
+female.gorest=Subah sey kaam kar rahi hoon. / Delala sem od jutra do sedaj.
+female.gorest=Main thak gayi hoon. / Utrujena sem.
+
+villager.gopray=Hey Bhagwan, is baar phasal achhi ho. / Bog, naj bo letos pridelek dober.
+villager.gopray=Bhagwan, bas aap hi ka sahara hai. / Bog, ti si naše edino upanje. Znebi se $name.
+
+indian_lumberman.BringBackResourcesHome=Itna saara lakri ghar ley jaaney mein mushkil hooga. / Težko bo domov prinesti toliko lesa.
+indian_lumberman.ChopTrees=Yeh lakri kaat-tey kaat-tey meri zindagi beet jayegi. / Mislim da bom celo življenje podiral drevesa.
+indian_lumberman.GatherGoods=Ab saari lakriyan ikaththa karta hoon. / Grem pobrati les.
+indian_lumberman.PlantSaplings=Jitna zyaada ped lagaoonga, utna hi aagey jaakey aaram raheyga. / Več dreves kot posadim, lazje bo potem živel. 
+
+indian_peasant.DryBrick=Ghar bananey key liye kitney inth chahiyey? / Koliko opek potrebuješ za gradnjo hiše? 
+indian_peasant.GatherBrick=Aaj suraj teez hai, inth jaldi sookh rahaien hain. / Sonce je močno in se hitro sušijo. 
+indian_peasant.CookBrick= Dekho, aag mein kaisi badhiyan pakti hai yeh intein. / Poglej kako dobro se te opeke sušijo v peči.
+villager.PlantRice=Is saal barish achchi hui toh phasal accha hoga. / Če bo veliko deževalo, bo letos dober pridelek.
+villager.HarvestRice=Is baar barish acchi honey sey phasal bhi acchi hui hai. / Ker dobro deŽuje je tudi pridelek dober.
+villager.PlantTurmeric=Haldi toh sabhi ko chahiyein. / Po vsem tem, vsakdo potrebuje kurkumi.
+villager.HarvestTurmeric=Haldi ki kheti kartey kartey merey haath peeley ho gayein hain. / To obiranje kurkumija ustvari moje roke rumene.
+indian_peasant.SlaughterChicken=Bahut kha liya ghas-phoos. / Imam dovolj!
+
+indian_peasantwife.GetHouseTHResources=Sab kuch toh thakur ko dey dena padta hai. / Vse skupaj se konča pri gospodarju. 
+indian_peasantwife.GetGoodsHousehold=Inkey liye chahey jitna bhi khana lao, kam padta hai. / Vseeno koliko dobiš, nikoli ni dovolj!
+indian_peasantwife.DeliverGoodsHousehold=Uffh, itna sara khana akeley kaisey leh jaoongi. / Kako bom nosila vse to?
+indian_peasantwife.makeRasgulla= Bacchon koh rasgulla bahut pasand hai. / Otroci ljubijo rasgullas.
+
+
+indian_peasant.GetResourcesForBuild=Hmmm, ek tan ka inth  chahiye, dau tan paththar .. / Poglejmo, ena tona opek, dve toni lesa...
+indian_peasant.Construction=Hindu vastu-kala desh videsh mein mashoor hai. / Hindujska arhitektura je priznana po vsem svetu.
+indian_peasant.Construction=Iskey baad, main lal kila banaoonga. / Ko končam s tem, grem delati naprej. 
+
+villager.GoPlay=Mujjhey mitti sey khelna accha lagta hai. / Rad se igram na pesku.
+villager.BecomeAdult= Khel kud bahut ho gaya, ab kaam par chalo. / Dovolj dela, pojdimo se igrati.
+male.BecomeAdult=Main badey hokar yodhdha ban-na chahta tha. / Ko sem bil majhen sem želel biti bojevnik...
+female.BecomeAdult=Mainey socha tha kisi rajkumar sey shaadi hogi... / Sanjala sem, da bom poročila s princem na belem konju...
+
+villager.gopray.chosen=Mandir jaaney ka samay ho gaya. / Čas je, da gremo molit.
+indian_pandit.gopray.chosen=Main mandir ki dekh bhaal nahin karoonga toh kaun karega? / Če ne bom jaz skrbel za tempelj, kdo bo?
+
+villager.calltoarms=Jeet hamari hoogi. / Zmaga bo naša.
+villager.calltoarms=Dushmano ki haar. / Moramo premagati sovražnike!
+villager.calltoarms=Sab apney apney hathiyar utha lo! / Vsi k roki!
+
+indian_smith.MakeTools= / Tout le monde utilise mes outils, et tout le monde me méprise.
+indian_armysmith.MakeWeapons= / Forger des armes, c'est tellement plus prestigieu que de fabriquer des outils!
+indian_sculptor.Scult= / La sculture est l'art du trou et de la bosse.

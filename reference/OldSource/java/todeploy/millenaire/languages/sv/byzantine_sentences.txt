@@ -1,0 +1,89 @@
+villager.greeting=Xaire, $name! / Hej, $name!
+villager.greeting=Omorfi mera, etsi den einai? / Vacker dag, inte sant?
+villager.greeting=Tha brexei. Syntoma.  / It will rain. Soon. Det kommer regna. Snart.
+villager.greeting=Kamia polh ston kosmo den sygrinete me thn Kwnstantinoupolh./ Ingen stad i världen kan jämföras med Konstantinopel.
+villager.greeting=Den eimaste Ellines , eimaste Romaioi. / Vi är inte greker, vi är Romare
+villager.greeting=Eimaste oi Byzantinoi oi teleutaioi alhthinoi Romaioi. Ypoklitheite sthn doxa tou politismou mass. / Vi Byzanter är de sista sanna Romarna.
+villager.GoPlay=Mallon tha paixw exw. / Jag tror jag går utomhus och leker.
+villager.gorest=Eimai kourasmenos. Tha pao spiti na koimitho. / Jag är trött. Jag går nog hem och lägger mig.
+villager.makeBread=To psomi myrizei idi wraia. / Brödet luktar redan gott...
+villager.gorest=Mallon oti tha pao gia ypno. / Jag tror jag går och lägger mig.
+villager.BecomeAdult=Telika egina enas romaios poliths! / Äntligen har jag blivit en romersk medborgare!
+villager.calltoarms=H Romaikh Autokratoria dexete epithesh! Sta opla! / Det romerska riket är under attack! Ta till vapen!
+villager.GoPlay=Nomizo oti tha pao na paixoun exo. / Jag tror jag går utomhus och leker.
+
+architect_byzantine.construction=Xtizw toso peritexna xtismata. Eimai enas alhthinos kallitexnhs. / Jag bygger sådana komplicerade byggnader. Jag är verkligen en artist.
+architect_byzantine.construction=O arxitektonas mas den sigrinetai me kanena allo. / Våran arkitektur kan inte jämföras med andra.
+artisan_byzantine.greeting=H zwh mou einai poly kalyterh apo kapion allwn anthrwpwn edw. / Mitt liv är mycket bättre än andra människor som bor här.
+artisan_byzantine.makePainting=H Romaikh texnh einai h pio exeligmenh ston kosmo. / Romersk konst är den mest advancerade i hela världen. 
+
+merchant_art.greeting=Kamia polh ston kosmo den sygrinetai me thn Kwnstantinoupolh. / Ingen stad i världen kan jämföras med Konstantinopel.
+merchant_art.greeting=	Emeis oi Byzantinoi eimaste oi teleutaioi alh8inoi Romaioi. / Vi Byzanter är de sista sanna Romarna
+
+smith_byzantine.MakeIndianTools=Ta Byzantina ergaleia einai ta kalytera ston kosmo. / Byzantiska verktyg är de bästa i världen.
+armysmith_byzantine.MakeIndianTools=Ta Byzantina ergaleia einai ta kalytera ston kosmo. / Byzantiska verktyg är de bästa i världen.
+armysmith_byzantine.MakeByzantineMace=Mhn prospatheis na katapolemhseis enan oplismeno andra. / Försök inte att attackera någon som är beväpnad av mig.
+
+wife_byzantine.greeting=To kathikon mas einai na elegxoume tous andres. / Våran uppgift är att kontrollera våra män.
+wife_byzantine.greeting=An eisai gynaika dn mporeis na kaneis kai polla edw... / Som kvinna här får du inte göra mycket...
+wife_byzantine.getGoodsHousehold=Nomizw einai wra na frontisw gia thn kathariothta tou spitiou. / Dags att sköta hushållet.
+wife_byzantine.DeliverGoodsHousehold=Pragmata opws auto einai ta mona pou mporw na kanw. / Saker som detta är det enda jag kan göra här.
+wife_byzantine.GetHouseTHResources=Epitelous o syzygos mou metefere ta agatha opws tou eipa. / Min man har äntligen levererat sina resurser som jag bad honom om.
+wife_byzantine.cooking=H mageirikh einai poly diaskedastikh. / Matlagning är verkligen kul.
+
+miner_byzantine.Mining=Gia na kaneis aythn thn douleia h dynamh kai h antoxh einai aparaithta. Kaneis omws den to katalabainei... / I detta jobbet krävs styrka och uthållighet. Men ingen här märker det...
+miner_byzantine.Mining=Eimai perifanos pou eimai Romaios katoikos kai pou douleyw gia thn aytokratoria , an kai einai dyskolh douleia. / Jag är stolt att vara en romersk medborgare som arbetar för det ärorika romerska riket. även om detta jobbet är svårt.
+
+patriarch_byzantine.makebooks=Ta biblia mou einai merika apo ta kalytera xeirografa ekei exo. / Mina böcker är några av de bästa manuskript som finns.
+pastor_byzantine.makebooks=Ta biblia mou einai merika apo ta kalytera xeirografa ekei exo. / Mina böcker är några av de bästa manuskript som finns.
+
+lumberman_byzantine.BringBackResourcesHome=H gynaika mou prepei na einai perhfanh me olo to xilo pou efera . / Min fru måste vara stolt över allt trä som jag hämtat.
+lumberman_byzantine.ChopTrees=Kathe ktirio edw xreiazete xilo, h apokthsh tou einai douleia mou! / Alla strukturer här behöver trä, och att få tag på trä är mitt jobb!
+lumberman_byzantine.ChopTrees=Éna állo déntro káto, perissótero xýlo gia to chorió! / Ett träd till nere, Mer trä till byn!
+lumberman_byzantine.GatherGoods=Polu wraio dentryllio. / Fina trädplantor.
+lumberman_byzantine.PlantSaplings=Syntoma tha ginei ena megalo, panemorfo dentro! Kai tha to kopsw.  / Snart så kommer detta vara ett stort, magnifikt träd! och så kommer jag att hugga ner det.
+
+keeperBirch_byzantine.greeting=Pws skeftike kapios oti mporei na brei ergasia edw... / Hur kan någon tro att någon skulle vara posterad här...
+keeperBirch_byzantine.greeting=Einai toso bareta edw, den symvainei sxedon tipota... / Det är så tråkigt här, Inget händer nånsin här...
+keeperBirch_byzantine.greeting=Kalhspera taxideuth, anarwtiemai pws irthes ews edw. / Hälsningar resande, Jag undrar hur du hamnade på denna avlägsena plats.
+
+
+keeperOak_byzantine.greeting=Pws skeftike kapios oti mporei na brei ergasia edw... / Hur kan någon tro att någon skulle vara posterad här...
+keeperOak_byzantine.greeting=Einai toso bareta edw, den symvainei sxedon tipota... / Det är så tråkigt här, Inget händer nånsin här...
+keeperOak_byzantine.greeting=Kalhspera taxideuth, anarwtiemai pws irthes ews edw. / Hälsningar resande, Jag undrar hur du hamnade på denna avlägsena plats.
+keeperOak_byzantine.greeting=Aftoi oi anthrwpoi, autoapokalountai "Normans", moy thimyzoun thn xakousth autokratotria mas. / Dessa människor, som kallar sig Normaner, påminner mig om vårat ärorika rike.
+
+keeperPine_byzantine.greeting=Pws skeftike kapios oti mporei na brei ergasia edw... / Hur kan någon tro att någon skulle vara posterad här... 
+keeperPine_byzantine.greeting=Einai toso bareta edw, den symvainei sxedon tipota... / Det är så tråkigt här, Inget händer nånsin här...
+keeperPine_byzantine.greeting=Kalhspera taxideuth, anarwtiemai pws irthes ews edw. / Hälsningar resande, Jag undrar hur du hamnade på denna avlägsena plats.
+keeperPine_byzantine.greeting=Afto to kryo einai tsouxtero. Den anarwtiemai pou den yparxei kaneis edw... / Den här kylan är hemsk. Inte undra på att det inte finns någon här.
+
+keeperTropical_byzantine.greeting=Pws skeftike kapios oti mporei na brei ergasia edw... / Hur kan någon tro att någon skulle vara posterad här...
+keeperTropical_byzantine.greeting=Einai toso bareta edw, den symvainei sxedon tipota... / Det är så tråkigt här, Inget händer nånsin här...
+keeperTropical_byzantine.greeting=Kalhspera taxideuth, anarwtiemai pws irthes ews edw. / Hälsningar resande, Jag undrar hur du hamnade på denna avlägsena plats.
+keeperTropical_byzantine.greeting=Einai toso zesta edo. Den borw na katalavo giati aftoi 'Hindi' zoun se afth th gh. / Det är så varmt. Jag kan inte fatta hur hinduerna kan leva i dessa land.
+keeperTropical_byzantine.greeting=Exeis dei pote aftous tous periergous tous 'Maya' ? Ta ktiria tous moiazoun san na einai etoima na katareusoun. / Har du sett dessa märkliga mayas? Deras byggnader ser ut att kunna kollapsa när som helst.
+
+//Team's changes
+villager.greeting=Kalós ílthate sto chorió mas, $name! / Välkommen till byn, $name! 
+
+lumberman_byzantine.BringBackResourcesHome=As elpísoume óti aftó tha eínai arketó gia na evdokimísei to chorió! / Hoppningsvis är detta nog för att byn ska kunna trivas!
+lumberman_byzantine.BringBackResourcesHome=Eímai polý epitychiménos xylourgós, i apografí mou eínai gemáti me koútsoura! / Jag är verkligen en lyckad skogshuggare, mitt förråd är fyllt med timmer!
+lumberman_byzantine.BringBackResourcesHome=Férno pollá déntra allá den eínai variá gia kápoio lógo. / Jag bär många träd men de är inte tynga av någon anledning.
+lumberman_byzantine.BringBackResourcesHome=Aftí ítan mia kalí douleiá. / Det är ett jobb väl gjort.
+lumberman_byzantine.ChopTrees=Éna állo déntro káto, perissótero xýlo gia to chorió! / Ett till träd nere, Mer trä för byn!
+lumberman_byzantine.ChopTrees=$name, échete kópsei poté éna déntro prin? / $name, Har du någonsin huggit ner ett träd förrut?
+lumberman_byzantine.ChopTrees=Párte to déntro Choppa! / Ta dig till Choppa trädet!
+lumberman_byzantine.ChopTrees=Pethaínoun déntro pethaínoun! CHACHACHA! Kaloúpi! Kaloúpi! Kaloúpi! CHA-O, Geia sou, $name! Típota ... paráxeno ... symvaínei edó.! / Dö träd dö! HAHAHA! DÖ! DÖ! DÖ! ha- åh, hej där $name! inget.. märkligt.. händer här.
+lumberman_byzantine.ChopTrees=Den thélo na se skotóso, allá prépei na ... Antío déntro! / Jag vill inte döda dig, men jag måste... Hejdå trädet!
+lumberman_byzantine.ChopTrees=Échete anarotitheí poté giatí ta temachisména déntra ftánoun edó, ónoma $? Eínai polý períergo. Ó, ti ki an káno, pántote epipléoun kai prépei na spáso to déntro pros ta páno lígo sigá, eínai énas tétoios pónos.! / Har du någonsin undrat varför ner huggena träd flyter här, $name? Det är verkligen konstigt. Vad jag än gör så flyter de alltid och så får jag ta ner trädet bit för bit, det är så jobbigt. 
+lumberman_byzantine.GatherGoods=Geia sou $name! Min to paírnete! / Öj $name! Ta inte det!
+lumberman_byzantine.GatherGoods=Ta déntra megálosan kalá aftí ti forá, tósa pollá koútsoura kai fytá. / Träden växte bra denna gången, så mycket timmer och trädplantor.
+lumberman_byzantine.GatherGoods=Elpízo óti to chorió tha chreiasteí óla aftá ta koútsoura. / Jag hopas byn behöver allt timmer.
+lumberman_byzantine.GatherGoods=Aftó ítan éna megálo déntro! Tóra to chorió boreí na chrisimopoiísei ta koútsourá tou. / Det var ett stort träd! Nu kan byn använda dess trä.
+lumberman_byzantine.GatherGoods=Koitáxte óla aftá ta néa kormoús kai ta fytá pou píra apó tin kopí ton déntron! / Titta på allt timmer och trädplantor jag fick från att hugga ner träden!
+lumberman_byzantine.PlantSaplings=Aftá ta fytá eínai tóso mikrá, merikés forés den boró na pistépso óti tha gínoun tóso megála. / Dessa trädplantor är så små, Ibland kan jag inte fatta att de blir så stora.
+lumberman_byzantine.PlantSaplings=Eísai tóso charitoméno mikrófyllo, schedón me afínei na xecháso óti tha se kópso ótan megalóseis. / Du är en söt liten trädplanta, glömmer nästan att jag kommer hugga ner dig när du blir stor. 
+lumberman_byzantine.PlantSaplings=$name, thélete na fytépsete éna fytó? / $name, vill du plantera en trädplanta?
+lumberman_byzantine.PlantSaplings=Ta déntra megalónoun tóso grígora edó, se líges méres gyrízoun apó aftó to mikroskopikó déntro méchri na eínai éna gemáto déntro. / Träden växer så snabbt här, på några dagar har de gått från denna lilla trädplanta till ett stort träd.
+lumberman_byzantine.PlantSaplings=I fýtefsi eínai i efkolóteri douleiá, to móno pou prépei na káno eínai na ta topothetíso sto édafos. / Plantera är det lättaste jobbet, allt jag behöver göra är att placera dom på marken. 

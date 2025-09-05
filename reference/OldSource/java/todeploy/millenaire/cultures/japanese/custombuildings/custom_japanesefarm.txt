@@ -1,0 +1,1 @@
+native:Noujou Nojo;gameNameKey:japanesefarm_A0;male:japanese_Farmer;female:japanese_farmwife;moveinpriority:10;cropType:wheat;chest:1-5;sign:1;field:10-30;radius:10

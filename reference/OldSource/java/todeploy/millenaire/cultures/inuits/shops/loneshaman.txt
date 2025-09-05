@@ -1,0 +1,5 @@
+sells=pathsnow,sod_spruce,sod_birch,sod_oak,sod_jungle,sod_acacia,sod_dark_oak,leather,bed_straw,bone,boneblock,snowwall,snowbrick,icebrick,fire_pit,inuitcarving,hidehanging,dirtwall,cauldron
+
+buys=bone,boneblock,snowwall,snowbrick,ice,icebrick,inuitcarving,hidehanging,inuitbow,inuittrident,cauldron
+
+buysoptional=cobblestone,stone,wolfmeat_raw,wolfmeat_cooked,bearmeat_raw,bearmeat_cooked,beefraw,beefcooked,fishraw,fishcooked,seafood_raw,rabbit,cooked_rabbit,mutton,cooked_mutton,wheat,bread,porkchops,porkchopscooked,chickenmeat,chickenmeatcooked,furhelmet,furplate,furlegs,furboots,stonePickaxe,stoneAxe,stoneShovel,stoneHoe,diamondPickaxe,diamondAxe,diamondShovel,diamondHoe,cake,cookie,rottenflesh,egg

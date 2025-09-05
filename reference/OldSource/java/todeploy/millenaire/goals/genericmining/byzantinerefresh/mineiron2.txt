@@ -1,0 +1,14 @@
+priority=30
+
+buildingtag=mine
+
+villagelimit=ironnugget,1028
+
+sourceblockstate=minecraft:stone
+
+range=4
+sentencekey=mining
+
+//long mining goal
+loot=ironnugget,9
+duration=4500

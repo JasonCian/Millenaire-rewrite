@@ -1,0 +1,24 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "millenaire:items/alchemist_amulet0"
+    },
+    "overrides": [
+        { "predicate": { "score": 0 }, "model": "millenaire:item/alchemist_amulet" },
+        { "predicate": { "score": 1 }, "model": "millenaire:item/alchemist_amulet1" },
+        { "predicate": { "score": 2 }, "model": "millenaire:item/alchemist_amulet2" },
+        { "predicate": { "score": 3 }, "model": "millenaire:item/alchemist_amulet3" },
+        { "predicate": { "score": 4 }, "model": "millenaire:item/alchemist_amulet4" },
+        { "predicate": { "score": 5 }, "model": "millenaire:item/alchemist_amulet5" },
+        { "predicate": { "score": 6 }, "model": "millenaire:item/alchemist_amulet6" },
+        { "predicate": { "score": 7 }, "model": "millenaire:item/alchemist_amulet7" },
+        { "predicate": { "score": 8 }, "model": "millenaire:item/alchemist_amulet8" },
+        { "predicate": { "score": 9 }, "model": "millenaire:item/alchemist_amulet9" },
+        { "predicate": { "score": 10 }, "model": "millenaire:item/alchemist_amulet10" },
+        { "predicate": { "score": 11 }, "model": "millenaire:item/alchemist_amulet11" },
+        { "predicate": { "score": 12 }, "model": "millenaire:item/alchemist_amulet12" },
+        { "predicate": { "score": 13 }, "model": "millenaire:item/alchemist_amulet13" },
+        { "predicate": { "score": 14 }, "model": "millenaire:item/alchemist_amulet14" },
+        { "predicate": { "score": 15 }, "model": "millenaire:item/alchemist_amulet15" }
+    ]
+}

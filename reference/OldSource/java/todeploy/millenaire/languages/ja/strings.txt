@@ -1,0 +1,843 @@
+startup.loadproblem=ロード時にエラーが発生しました<0>。
+startup.checkload=フォルダをチェックしてください。\.minecraft\millenaire\culture
+startup.millenaireloaded=<0> はロードされました。村を検索するには'<1>'を押してください。
+startup.radiuswarning=警告:村の半径を大きすぎる値にするのはラグの原因になります。<0>以上の値は推奨されません。
+startup.bonus=ボーナスコンテンツが有効になっています。
+command.nogenerate=<0> 新たな村は生成しません。
+command.willgenerate=<0> 新たな村を生成可能です。
+command.astarpathing=A*（A-star）アルゴリズムで探索します。
+command.binarypathing=バイナリアルゴリズムで探索します。
+command.minecraftpathing=Minecraft方式で探索します。
+command.inactive=停止中
+command.active=動作中
+command.frozen=凍結
+command.villagelist=<4>: <0> 村(<1>) は <2> メートル先 <3> あります。
+command.villagelistkeylonebuilding= <0> は <1> メートル先 <2> 方向にあります。
+command.noknowvillage=2キロ以内に村は存在していません。探索を継続してください!
+command.newvillagefound=新しい村を発見: <0>村、 <1>タイプ <2>文化で <3>メートル <4>方向にあります。
+command.newlonebuildingfound=新しい建物を発見しました: <0>は <1>メートル先 <2>方向にあります。
+command.pathrebuild=マップと <0> のパスが再構築されました。
+
+//Text used in various UI parts, in no specific order:
+ui.lockedchest=鍵のかかったチェスト
+ui.largelockedchest=鍵のかかった大きなチェスト
+ui.unlockedchest=鍵の開いたチェスト
+ui.largeunlockedchest=鍵の開いた大きなチェスト
+ui.allchestsunlocked=全ての <0> のチェストは鍵が開きました。
+ui.outofstock=在庫がありません!
+ui.reputationneeded=評価が必要です: <0>
+ui.missingdeniers=<0> デニール足りません。
+ui.missingequipment=設備が足りません。
+ui.noneininventory=あなたのインベントリには何もありません。
+ui.selling=販売
+ui.buying=購入
+ui.buybuilding=<0> を購入する (<1>)
+ui.buybonusbuilding=ボーナスギフト: <0>
+ui.sellercoming=<0>: 今行きますよ、$name!
+ui.tradecomplete=<0>: あなたがここでの取引を気に入ってくれたら嬉しい! よい一日を。
+ui.sellerboycott=<0>: 二度と我々はあなたとは取引をしない。 この無法者!
+ui.sellernotcurrently possible=<0>: 私たちの村が破壊されたらどうやって取引ができるでしょうか?
+ui.wesell=販売中
+ui.webuy=買取中
+ui.isell=売ります
+ui.inventory=インベントリ
+ui.villagechief=<0> 村の長
+ui.yourstatus=ステータス
+ui.possiblehousing=購入可能な家
+ui.alreadybuilt=建築済
+ui.alreadyrequested=要求済
+ui.notavailableyet=まだ利用できません
+ui.available=利用できます
+ui.bonusavailable=利用できます (ギフト)
+ui.youaremissing=あなたがいません: <0>
+ui.scrollsnoreputation=あなたの信頼は村の巻物を買うのに十分ではありません。
+ui.scrollsnotenoughmoney=村の巻物を買うには <0> デニールが足りません。
+ui.scrollsok=村の巻物を買うことができます。
+ui.buyscroll=村の巻物を購入。
+ui.cost=コスト
+ui.clicktorequest=要求をクリック
+ui.scrollbought=<0>: 村の巻物を入手しました!
+ui.housebought=<0>: あなたの <1> の建設が間もなく開始されます!
+ui.inhabitantof=<0> の住人
+ui.inconstruction=建設中
+ui.nospace=スペースが足りません
+ui.reservedforvillager1=予約済
+ui.reservedforvillager2=村人用
+ui.currentlyempty1=現在
+ui.currentlyempty2=無人
+ui.visitorslist1=来客
+ui.visitorslist2=リスト
+ui.goodstraded=取引した商品
+ui.imports=輸入
+ui.exports=輸出
+ui.import_total=輸入総額: <0>
+ui.export_total=輸出総額: <0>
+ui.merchants=商人:
+ui.goalscompleted1=全ての建物
+ui.goalscompleted2=目標達成
+ui.project=計画
+ui.noconstruction1=建設中無し
+ui.noconstruction2=建設中
+ui.upgrading=アップグレード中 (<0>)
+ui.construction=建築工程 <0>:
+ui.population=人口:
+ui.populationnumber=総人口: <0>
+ui.adults=大人: <0> (<1>/<2>)
+ui.teens=若者: <0> (<1>/<2>)
+ui.children=子供: <0> (<1>/<2>)
+ui.villagemap=村の地図
+ui.nbbuildings=建物数 <0>
+ui.wandwrongblock=この杖はとある村、もしくは一般的な黒曜石の上でのみ使用できます:
+ui.wandblocklist=<0> を生成 <1>
+ui.wandblocklistcontrolled=<0> を生成 <1> (この文化の中における指導者である必要があります)
+ui.brickinstructions=砂と土がレンガを作るのに必要です。
+ui.buildingscentre=中心部
+ui.buildingsstarting=元の建築物
+ui.buildingsplayer=プレイヤーの建築物
+ui.buildingskey=重要な建築物
+ui.buildingssecondary=通常の建築物
+ui.buildingsextra=追加の建築物
+ui.worldnotgenerated=このエリア周辺は正しく生成されませんでした。 周りを歩いてから戻ってきてください。
+ui.tooclosetospawn=スポーン地点に近すぎるため村を生成することができません。
+ui.generatenotenoughspace=町役場を作成するためのスペースがありません。
+ui.generatenotenoughspacevillage=村を作成するためのスペースがありません。
+ui.lackingresources=資源不足
+ui.lockedchestwarning=警告: 鍵のついたチェストを破壊すると村が正常に機能しなくなります。 村を失っていい時のみ行ってください。
+ui.xoutofy=<1> の <0>
+ui.extraresneeded1=<0> その他の資源
+ui.extraresneeded2=必須
+ui.woodforplanks=木材 (どれでも)
+ui.woodoak=樫の原木
+ui.woodpine=松の原木
+ui.woodbirch=白樺の原木
+ui.woodjungle=ジャングルの原木
+ui.anyenchanted=エンチャントされたアイテム
+ui.enchantedsword=エンチャントされた剣
+ui.selectabuildingproject=建設計画を選択
+ui.projectadded=計画をリストに追加
+ui.problemat=<0> で問題発生: <1>
+ui.constructionforbidden=建設禁止
+ui.locationclash=他の建物と衝突します。
+ui.outsideradius=村の範囲外です
+ui.wrongelevation=高度が範囲外です
+ui.danger=危険なブロック
+ui.notreachable=届かないエリアです
+ui.unknownerror=不明なエラー
+ui.controlbuildingprojects=建設計画管理
+ui.forbidupgrades=アップグレードの中止
+ui.allowupgrades=アップグレードの許可
+ui.cancelbuilding=建物を撤去する
+ui.level=レベル
+ui.notyetbuilt=まだ建設されていません
+ui.nbinhabitants=住民数: <0>
+ui.wandnocontrol=このタイプの村はあなたが <0> 文明の指導者ではないので作成できません。
+ui.control_ok=あなたは <0> の人々にとっての指導者として認められました! 正式に認められたあなたは自分の村を建てることができるようになりました。
+ui.control_noreputation=あなたの評価は <0> の人々の指導者として<ret>認められるには不足しています。<ret><ret>必要な評価を得るには評判を改善したり<ret>追加で仕事をしてみてください。
+ui.control_alreadydone=あなたはすでに <0> の人々の指導者として<ret>認められています。
+ui.control_get=指導者として認めてもらえるか聞く。
+ui.control_gotten=<0>: 私は正式にあなたを我々 <1> の指導者としてふさわしいと認めましょう! これからは自分の村を建てることもできますよ。
+ui.selectavillage=建てる村のタイプを選択する
+ui.leadershipstatus=指導者のステータス
+ui.leaderin=あなたは <0> 文明の指導者です。 あなたの支配下にあるこの文化の村を建てることができます。
+ui.notleaderin=あなたは <0> 文明の指導者ではありません。
+ui.leaderinstruction=文明の指導者になるには村の"指導者" のレベルになり村の長に聞くか、 もしくはワールドクエスト（実行可能であれば）を完了してください。
+ui.wandinstruction=ランダムで村を建てるには黒曜石ブロックの上で、希望する村のタイプを選択して建てるには金ブロックの上で杖を使用してください。
+ui.controlled=支配下
+ui.villagerelations=<0> (<1>, <2>): <3>
+ui.relationlist=他の村との関係
+ui.relationpraise=賞賛
+ui.relationslander=中傷
+ui.relationpoints=利用可能な外交ポイント: <0>
+ui.villagerelationsnobutton=村に影響を与えるには外交ポイントと<ret>良好な評価が必要です。
+ui.relationhelp=外交ヘルプ<ret><ret>村と相互協力するか、もしくはしないかを決定します。<ret><ret>取引(資材商人の間で)は、同じ文化のそこそこ良好な<ret>関係性の村同士で行われるか、関係がとても良好になった<ret>別の文化の村と行われます。<ret><ret>関係が最良な文化の違う村同士ではそれぞれの村に<ret>お互いの文化の出張市を設営します。<ret><ret>関係が最良の同じ文化の村同士ではお互いの村の<ret>若者が出稼ぎすることがあります。<ret><ret><ret><ret>村同士の外交は同じ文化であれば<ret>村落に対しては「最良」<ret>村自体に対しては「良好」からはじまります。<ret>それ以外の場合は中立から開始されます。<ret><ret>毎日、プレイヤーは村に影響を与える外交ポイントを<ret>5ポイント取得します。<ret><ret>賞賛や中傷の有効度は村での評判に依存します。
+ui.relationfriendly=最近の <0> 村と <1> 村の関係は改善されました。 彼らの関係性は現在 <2> です。
+ui.relationunfriendly=最近の <0> 村と <1> 村の衝突があり関係が悪化しています。 彼らの関係性は現在 <2> です。
+ui.cropplantingknowledge=あなたは <0> の栽培方法を知りません。 長老に方法について聞いてください。
+ui.cropsknown=この文化で知られている作物
+ui.cropknown=あなたは <0> の栽培方法を学習しました。
+ui.cropinsufficientreputation=この村の人々に <0> の栽培方法を教えるにはあなたの評価は低すぎます。
+ui.cropnotenoughmoney=<0> の栽培方法を学ぶには <1> が必要です。
+ui.cropoktolearn=<0> の栽培方法を村から教わることができます。
+ui.croplearn=学習 (<0>)
+ui.croplearned=<0>: あなたは <1> の栽培の秘密を解明しました!
+ui.raider=侵略者
+ui.communicationexplanations=村人とコミュニケーションをするには右クリックしてください。 もしコミュニケーションが可能な村人であれば対応するウィンドウ(取引、 長老との会話、 雇用、 クエスト)が開きます。
+ui.helpbutton=Millénaireヘルプ
+ui.chunkbutton=チャンクマップ
+ui.configbutton=設定
+ui.serverimportforbidden=管理者権限のあるユーザーのみサーバー上に建物を追加することができます。
+ui.controldiplomacy=外交
+ui.raidinprogress=侵略進行中!
+ui.otherraidinprogress=他の進行中の侵略。
+ui.otherraidplanned=他の計画されている侵略。
+ui.raidcancel=侵略をキャンセル。
+ui.raidplanned=計画されている侵略。
+ui.relgood=和平
+ui.relneutral=中立
+ui.relbad=対立
+ui.raid=侵略計画
+
+help.tab_1=村について
+help.tab_2=貿易について
+help.tab_3=評判（評価）と村長
+help.tab_4=村の成長
+help.tab_5=戦闘や襲撃
+help.tab_6=村の作成または破棄
+help.tab_7=クエスト
+help.tab_8=ノルマン文化
+help.tab_9=インド文化
+help.tab_10=マヤ文化
+help.tab_11=日本文化
+help.tab_12=ビザンティン文化
+help.tab_13=FAQ
+
+quest.obtained=獲得済
+quest.lackingcondition=不足している条件:
+quest.lackinghiddengoods=このクエストに必要なアイテム持っていません。
+quest.close=閉じる
+quest.accept=クエスト受諾
+quest.refuse=クエストを断る
+quest.continue=クエスト続行
+quest.conditionsnotmet=あなたはまだ条件を満たしていません。
+quest.lessthananhourleft=時間が残りわずかです!
+quest.timeremaining=残り時間
+quest.hours=時間
+quest.noquestsvisible=進行中のクエストはありません
+quest.questlist=進行中のクエスト
+quest.reputationlost=信頼を失った
+quest.creationqueststatus=進行中のクエストステータス
+quest.creationqueststatusshort=進行中のクエスト:
+quest.cqchaptersadhu=導師
+quest.cqsadhustartexplanation=インドの村で「村の友人」になるためのクエストを案内できる村人を探しましょう。
+quest.cqchapteralchemist=錬金術師
+quest.cqalchemiststartexplanation=ノルマンの村で「村の友人」になるためのクエストを案内できる村人を探しましょう。
+quest.cqchapterfallenking=堕ちた王
+quest.cqfallenkingstartexplanation=マヤの村で「村の友人」になるためのクエストを案内できる村人を探しましょう。
+quest.cqallcompleted=おめでとうございます、 現在進行可能な全てのワールドクエストを完了しました!
+quest.cqcheckforupdates=追加予定のアップデートとクエストについては www.millenaire.org をごらんください。
+quest.cqchapternotstarted=まだ "<0>" の章を開始していません。
+quest.cqchapterinprogress="<0>" の章 <1>/<2> を完了。
+quest.cqchaptercompleted="<0>" 達成。
+quest.cqchapternotstartedshort="<0>" の章: 開始していません。
+quest.cqchapterinprogressshort="<0>" の章: <1>/<2>。
+quest.cqchaptercompletedshort="<0>" の章: 完了しました。
+quest.cqcheckquestlistandhelp='<0>' を押して詳しい情報を確認するか、Millénaireヘルプを参照して下さい。
+
+
+
+error.unknownitem=不明なアイテム名
+
+
+//Errors
+ui.updateEntity=TileEntityBuilding.updateEntity().エラーが発生しました。Millénaireのログをチェックしてください。
+
+//Panels & parchments
+panels.notextfound=この本の内容を見つけられませんでした: <0>
+panels.invalidid=無効な村のIDです。
+panels.toofar=その村の記録を読み込むには村が遠すぎます。
+panels.recordsnotloaded=村の記録が読み込めませんでした。
+panels.villagescroll=村の巻物
+panels.mother=母親
+panels.father=父親
+panels.spouse=配偶者
+panels.dead=死者
+panels.awayraiding=侵略中
+panels.awayhired=プレイヤーの傭兵
+panels.invaderincoming=敵の来襲
+panels.missing=行方不明!
+panels.multiple=現在 <0> 回!
+panels.currentoccupation=現在の職業
+panels.visitors=訪問者
+panels.constructions=建設物
+panels.upgrade=アップグレード
+panels.buildingprojects=建設計画
+panels.notyetbuilt=未建設
+panels.nbupgradesleft=<ret>建設完了まであと <0> 回の<ret>アップグレードが必要です。
+panels.finished=完了
+panels.houseunoccupied=この家は空き家です。 若者が引っ越してきて家庭を築くでしょう。
+panels.man=男性
+panels.woman=女性
+panels.children=子供
+panels.nofemaleresident=女人禁制の家です。
+panels.bachelor=ここに住む男性はまだ独身です。 若い女性がそのうち一緒に住み始めるでしょう。
+panels.nomaleresident=男子禁制の家です。
+panels.spinster=ここに住む女性はまだ独身です。 若い男性がそのうち一緒に住み始めるでしょう。
+panels.resources=資材
+panels.goodstraded=この村で取引された物
+panels.goodsimported=この村に輸入された物
+panels.goodsexported=別の村に輸出した物
+panels.innvisitors=訪問者数 <0>
+panels.mappurple=紫: 建設中
+panels.mapblue=青: 他の建物
+panels.mapgreen=緑: 建設可能エリア
+panels.maplightgreen=ライトグリーン: 建設可能エリア、ただし中心部にはできません。
+panels.mapred=赤: 危険エリア (溶岩やサボテンなど)
+panels.mapyellow=黄: 建設禁止エリア (氷や人工物など)
+panels.maporange=オレンジ: 建設禁止エリア (他の建物に近すぎます)、 建設不可能エリア (川や渓谷など)
+panels.maplightblue=ライトブルー: 水
+panels.mapbrown=茶: その他のエリア (高度範囲の外など)
+panels.unreachablebuilding=建設不可!
+panels.merchantlist=商人リスト
+panels.capacity=収容力
+panels.nbnightsin=<0> 晩この村に住んでいます。
+panels.storedexports=<0> は輸出のために保管されています: <1>
+panels.broughtimport=<0> は村に到着しています: <1>
+panels.startedtrading=<0> (<1>) 取引を選択しました。
+panels.merchantmovedout=<3> 日後、 <0> (<1>) は <2> に移動します。
+panels.merchantarrived=<0> (<1>) は <2> から到着しました。
+panels.childarrived=<0> は <1> から到着し仕事を探しています。
+panels.resourcesneeded=計画に必要な資材
+panels.resourcesavailable=資材の在庫
+panels.villageculture= <0> 文化の村
+panels.military=軍
+panels.planningraid=計画中の侵略
+panels.raidinprogress=実行中の侵略
+panels.underattack=攻撃を受けている!
+panels.offense=攻撃: <0>
+panels.defense=防御: <0>
+panels.offenselong=攻撃力: <0>
+panels.defenselong=防御力: <0>
+panels.raidinprogresslong=<0> を攻撃中、 <1> 時間前に開始されました。
+panels.planningraidlong=<0> への攻撃を計画中、 <1> 時間前から計画されています。
+panels.underattacklong=<2> の、強さ <1> の敵 <0> から攻撃を受けています!
+panels.villagefighters=村の戦士
+panels.attackers=アタッカー
+panels.defender=ディフェンダー
+panels.raider=侵略者
+panels.health=体力
+panels.weapons=武器
+panels.armour=防具
+panels.militarystrength=軍事力
+panels.unknownattacker=不明な敵
+panels.raidsperformed=実行した襲撃
+panels.raidssuffered=受けた攻撃
+panels.nameand=<0> と
+panels.buildingproject=現在の計画:
+panels.currentconstruction=現在建設中:
+panels.villagesummary=重要な情報
+
+//Goals (text displayed above the villager when he is doing it)
+goal.gorest=休憩
+goal.godrink=飲みに行く
+goal.gopray=祈りに行く
+goal.GatherGoods=アイテムを集める
+goal.BringBackResourcesHome=資源を持ち帰ってきた
+goal.GetTool=道具を取りに行く
+goal.huntMonster=狩猟
+goal.getGoodsHousehold=家事の道具を取りに行く
+goal.DeliverGoodsHousehold=家事の道具を届けに行く
+goal.GetHouseTHResources=家から資材を取ってくる
+goal.DeliverResourcesShop=資材を届ける
+goal.raidvillage=村を襲撃
+goal.defendvillage=村を防衛
+goal.hide=避難
+
+goal.CollectCrop=作物の採取
+goal.PlantSeeds=種まき
+goal.ChopTrees=伐採
+goal.PlantSaplings=苗植え
+goal.GetResourcesForBuild=建設資材準備
+goal.MakeBread=パン作成
+goal.BeSeller=プレイヤーに販売
+goal.MakeCider=りんご酒を作成
+goal.MakeCalva=カルヴァドスを作成
+goal.Construction=建設
+goal.GoPlay=遊ぶ
+goal.BecomeAdult=引越
+goal.MakeNormanTools=道具を作成
+goal.MakeNormanWeapons=武器を作成
+goal.Patrol=パトロール
+goal.Butcher=畜殺
+goal.MakeBoudin=ソーセージを作成
+goal.MakeTripes=トライプを作成
+goal.Mining=採掘中
+goal.Cooking=料理の材料
+goal.MakeBooks=羊皮紙を作成
+goal.MakeTapestry=織物を作成
+goal.VisitInn=宿に行く
+goal.VisitBuilding=店に行く
+goal.MakeAmulet=魔除けを作成
+goal.KeepStall=露天を所有
+goal.MakeTimberFrame=木製フレーム作成
+
+goal.DryBrick=レンガを乾かす
+goal.GatherBrick=乾いたレンガを集める
+goal.CookBrick=レンガを焼く
+goal.PlantRice=米を植える
+goal.HarvestRice=米を収穫
+goal.PlantTurmeric=ターメリックを植える
+goal.HarvestTurmeric=ターメリックを収穫
+goal.SlaughterChicken=鶏を屠殺
+goal.PlantSugarCane=サトウキビを植える
+goal.HarvestSugarCane=サトウキビを収穫
+goal.MakeRasgulla=ラスグッラを作成
+goal.Makesteelaxe=鉄の斧を作成
+goal.Makesteelpickaxe=鉄のツルハシを作成
+goal.Makesteelshovel=鉄のシャベルを作成
+goal.Makesteelhoe=鉄のクワを作成
+goal.Makesteelsword=鉄の剣を作成
+goal.makesteelchest=鉄のチェストプレートを作成
+goal.makesteelhelmet=鉄のヘルメットを作成
+goal.makesteellegs=鉄のレギンスを作成
+goal.makesteelboots=鉄のブーツを作成
+goal.makeindianstatue=インドの像を作成
+
+goal.performpujas=祈祷する
+goal.bepujaperformer=祈祷の日
+goal.performsacrifices=供物の作成
+goal.besacrificeperformer=供物にできる
+goal.PlantMaize=トウモロコシを植える
+goal.HarvestMaize=トウモロコシを収穫
+goal.makemayanGoldBlock=金の装飾を作成
+goal.makemayanstatue=マヤの像を作成
+
+goal.Makestoneaxe=石の斧を作成
+goal.Makestonepickaxe=石のツルハシを作成
+goal.Makestoneshovel=石のシャベルを作成
+goal.Makestonehoe=石のクワを作成
+goal.Makestonesword=石の剣を作成
+goal.makeleatherboots=皮のブーツを作成
+goal.makeleatherchest=皮のチェストプレートを作成
+goal.makeleatherhelmet=皮のヘルメットを作成
+goal.makeleatherlegs=皮のレギンスを作成
+goal.makemayanaxe=黒曜石の斧を作成
+goal.makemayanpickaxe=黒曜石のツルハシを作成
+goal.makemayanshovel=黒曜石のシャベルを作成
+goal.makemayanhoe=黒曜石のクワを作成
+goal.makemayanmace=黒曜石のメイスを作成
+goal.makeobsidianflake=黒曜石を薄片にする
+goal.harvestcocoa=カカオを収穫
+goal.plantcocoa=カカオを植える
+goal.makecacauhaa=ココアを作成
+
+goal.fish=釣り
+goal.makethatch=わらぶき屋根を作成
+goal.makepaper=紙を作成
+goal.makepaperrice=紙を作成
+goal.makepaperwoodpulp=紙を作成
+goal.makepaperwall=障子を作成
+goal.cookfish=魚を調理
+goal.cooksteak=牛を調理
+goal.cooklamb=羊を調理
+goal.cookpork=豚を理
+goal.cookchicken=鶏を調理
+goal.makeudon=うどんを作成
+goal.maketachi=太刀を作成
+goal.makejapaneseweapons=日本の兵器を作成
+goal.makesake=日本酒を醸造
+goal.slaughtersquid=イカ釣り
+
+goal.brewpotions=ポーション醸造
+goal.harvestwarts=ウォートの収穫
+goal.makeglassbottles=ガラス瓶を作成
+goal.plantwarts=ウォートを植える
+
+goal.plantvines=ブドウを植える
+goal.harvestvines=ブドウの収穫
+goal.gathersilk=絹糸を集める
+goal.makeicon=宗教画を作成
+goal.makewine=ワインを作成
+goal.makebookshelves=本棚を作成
+goal.makebyzantinetiles=タイルを作成
+goal.makebrick=レンガを作成
+goal.training=稽古
+goal.paintpainting=絵画の制作
+goal.makebook=本の執筆
+goal.makebyzantinemace=ビザンティン・メイスを作成
+goal.makebyzantinechest=ビザンティン・チェストプレートを作成
+goal.makebyzantinelegs=ビザンティン・レギンスを作成
+goal.makebyzantinehelmet=ビザンティン・ヘルメットを作成
+goal.makebyzantineboots=ビザンティン・ブーツを作成
+
+goal.makebow=弓を作成
+goal.makerottenflesh=腐った肉を作成
+goal.makearrow=矢を作成
+
+goal.sleep=睡眠中
+goal.sleep_travelling=寝に行く
+
+goal.makeclothes_byz_wool=服を織る
+goal.makemasa=トルティーヤを作成
+goal.slaughterpig=豚を屠殺
+goal.makesouvlaki=スブラキを作成
+goal.makewah=肉巻きを作成
+goal.makecurry=ベジタリアンカレーを作成
+goal.makeclothes_byz_silk=絹の服を織る
+goal.slaughtersheep=羊を屠殺
+goal.slaughtercow=牛を屠殺
+goal.breed=動物を繁殖させる
+goal.shearsheep=羊の毛刈り
+goal.makemurgh=チキンカレーを作成
+goal.getitemtokeep=アイテムを拾う
+
+goal.buildpath=道の作成
+goal.clearoldpath=古い道の撤去
+
+goal.gosocialise=話しに行く
+goal.chat=会話中
+
+goal.makedirtwall=土壁ブロックを作成
+goal.makepath=道ブロックを作成
+
+//other
+other.west=西
+other.east=東
+other.north=北
+other.north-east=北東
+other.north-west=北西
+other.south=南
+other.south-east=南東
+other.south-west=南西
+
+other.tothewest=西に
+other.totheeast=東に
+other.tothenorth=北に
+other.tothenorth-east=北東に
+other.tothenorth-west=北西に
+other.tothesouth=南に
+other.tothesouth-east=南東に
+other.tothesouth-west=南西に
+other.west_short=西
+other.east_short=東
+other.north_short=北
+other.south_short=南
+other.shortdistancedirection=<0>m <1>
+other.metre=メートル
+other.kilometre=キロ
+other.andhalf=半
+
+other.directionshort=<1> <0>
+other.exploredbuilding=建物を発見しました: <0>
+other.malevillager=Millénaireの村人
+other.femalevillager=Millénaireの村人
+other.buildinghealing=<0> はあなたを治療しています。
+other.localmerchantinteract=この商人は貿易商人です。 村と村の貿易をしています。 あなたが交流することはできません。
+other.chattosomeone=<0> と <1>
+
+hire.health=体力
+hire.strength=攻撃力
+hire.cost=費用 (一日分)
+hire.aggressive=応戦
+hire.passive=通常
+hire.timeleft=あと <0> 時間
+hire.hiredvillager=この村人は雇用されました。 <0> 時間のあいだ傭兵としてあなたを護衛し、死んだら村にリスポーンします(死んだ場合雇用は破棄されます)<ret><ret>'<1>' を押すことで臨戦態勢をとり、左シフトと'<1>' で通常態勢になります。
+hire.hireablevillager=この村人を雇用することができます。 雇用の有効期限が切れるか、死ぬまであなたの傭兵にできます。 傭兵はあなたに攻撃したモンスターを攻撃します、または臨戦態勢の場合近くのモンスターや敵対勢力を自動的に攻撃します。
+hire.hireablevillagernoreputation=村人を雇うためには少なくともその村の「お気に入りの客」になる必要があります。
+hire.extend=延長
+hire.release=解雇
+hire.close=閉じる
+hire.hire=雇用
+hire.hireover=<0> の雇用期間は終了しました。 村に帰還します。
+hire.hiredied=<0> は死にました。 村でリスポーンします、雇用状態はキャンセルされました。
+hire.hiredbyotherplayer=<0> はすでに <1> によって雇用されています。
+hire.hiredby=<0> に雇用されました。
+
+actions.forest_success=森の探索に成功しました。
+actions.forest_continue=森の探索を <0>% 完了しました。
+actions.desert_success=砂漠の探索に成功しました。
+actions.desert_continue=砂漠の探索を <0>% 完了しました。
+actions.mountain_success=山の探索に成功しました。
+actions.mountain_continue=山の探索を <0>% 完了しました。
+actions.underwaterglass_success=深海の観察窓を建設するのに成功しました。
+actions.underwaterglass_notdeepenough=この場所では海の深さが足りません。
+actions.underwaterdive_success=海の深くへ潜ることに成功しました。
+actions.bottomoftheworld_success=これ以上深く掘ることはできません。 ここが地面の一番下のようです!
+actions.topoftheworld_success=これ以上、上昇することはできません。 ここが空の一番上のようです!
+actions.borehole_nblineok=<0> 個の岩盤ブロックを露出させるのに成功しました。 25マス(5x5マス)が必要です。
+actions.borehole_success=穿孔を掘ることに成功しました!
+actions.boreholetnt_success=十分な数のTNTが配置されました。 起爆してください。
+actions.boreholetnt_nbtnt=<0> 個のTNTブロックが黒曜石の上に並べられ黒曜石で覆われています。 20個必要です。
+actions.boreholetntlit_success=TNTに点火しました。 結果を観察し、錬金術師に報告してください。
+actions.thevoid_success=空間を発見しました!
+actions.enchantmenttable_success=導師の近くにエンチャントテーブルを作成しました。
+actions.mayan_siege_start=ピラミッドが攻撃されています! ガスト <0>、 ブレイズ <1>、 スケルトン <2> です。 早急に倒してください。
+actions.mayan_siege_success=ピラミッドを攻撃していた力を打ち破りました!
+actions.mayan_siege_update=ガスト <0>、 ブレイズ <1>、 スケルトン <2> が残っています。
+
+info.culturetitle=文化
+info.culture=<0> 文化
+info.culturereputation=評価: <0>
+info.culturelanguage=言語レベル: <0>
+
+culturereputation.scourgeofgod=神の災い
+culturereputation.dreadful=とても悪い
+culturereputation.bad=悪い
+culturereputation.stellar=最も良い
+culturereputation.excellent=とても良い
+culturereputation.good=良い
+culturereputation.decent=感じの良い
+culturereputation.neutral=どちらでもない
+culturelanguage.fluent=なめらか
+culturelanguage.moderate=そこそこ
+culturelanguage.beginner=しろうと
+culturelanguage.minimal=かたこと
+
+weapon.criticalstrike=クリティカル! <0> 倍のダメージ！
+
+negationwand.villagelocked=<0> はまだ保護されています。 村を破壊するには全ての大人の男性を殺して下さい。
+negationwand.confirmmessage=本当に <0> 村を破壊しますか? その場合、建物は残りますがここの全ての村人は永久にいなくなります。
+negationwand.confirm=承認する
+negationwand.cancel=キャンセル
+negationwand.destroyed=<0> 村は破壊されました! 全ての建物は空き家になり村人は二度と戻って来ません。
+
+relation.excellent=最高
+relation.verygood=かなり良好
+relation.good=良好
+relation.decent=感じの良い
+relation.fair=対等
+relation.openconflict=抗争中
+relation.atrocious=最悪
+relation.verybad=かなり悪い
+relation.bad=悪い
+relation.chilly=感じの悪い
+relation.neutral=中立
+raid.planningstarted=<0> は <1> に侵略を計画しだしたようだ。
+raid.started=<0> は <1> に侵略を開始した! <2> 名の戦士が加わっている。
+raid.raidsuccesfull=<0> は <1> の侵略に成功し、 <2> を略奪しました!
+raid.raidfailed=<1> は <0> からの侵略を防ぐことに成功しました。
+raid.nothing=何もありません。
+raid.historysuccess=<0> の侵略は成功しました。 戦利品: <1>
+raid.historyraided=<0> による侵略。 戦利品: <1>
+raid.historyfailure=<0> への侵略は失敗しました。
+raid.historydefended=<0> からの襲撃に対し、防衛に成功しました。
+
+hof.hof=栄光の殿堂
+hof.modcreator=Mod製作者
+hof.creatorofmayan1=マヤ文明の
+hof.creatorofmayan2=創始者
+hof.creatorofjapanese1=日本文明の
+hof.creatorofjapanese2=創始者
+hof.creatorofbyzantine1=ビザンティン文明の
+hof.creatorofbyzantine2=創始者
+hof.creatorofindianskins1=インド文明の
+hof.creatorofindianskins2=創始者
+hof.skinmaker=スキンデザイナー
+hof.buildingmaker=建築物デザイナー
+hof.wikiadmin=Wiki管理者
+hof.armouricons=アーマーデザイン
+hof.normanarmour1=ノルマン武具
+hof.normanarmour2=グラフィックス
+hof.support1=フォーラム
+hof.support2=サポート
+hof.frenchversion1=フランス語版
+hof.frenchversion2=作成補助
+hof.wikicontributions=Wiki貢献者
+hof.improvementsjapanese1=日本の村の
+hof.improvementsjapanese2=改善
+hof.lonebuildings=一軒家
+hof.obsidiantools1=黒曜石の道具
+hof.obsidiantools2=のアイコン
+hof.forgecode1=Forge Sprite API用の
+hof.forgecode2=オリジナルプログラム
+hof.btw=(BTW 製作者)
+hof.forgehelp1=Forge Sprite API
+hof.forgehelp2=についての補助
+hof.hofidea1=栄光の殿堂
+hof.hofidea2=のアイディア
+hof.donor=提供者
+hof.variousimprovements1=様々な
+hof.variousimprovements2=改善事項
+
+pujas.invanme=祈祷
+pujas.panditfee=賢者への
+pujas.offering=お布施
+pujas.god0=ハヌマーン神 - スピードに
+pujas.god1=シヴァ神 - 強さに
+pujas.god2=ラクシュミー神 - 幸運に
+pujas.god3=ガネーシャ神 - 技量に
+pujas.priestcoming=<0>: 十分に祈祷をしましたか? 献身的で立派だと思います!
+pujas.offeringslot=神々への奉納品を置く。
+pujas.offeringslot2=全ての物が受け入れられるわけではありません。 色々と試してみましょう。
+pujas.moneyslot=賢者へお金を渡す。
+pujas.toolslot=エンチャントする道具を置く。
+
+sacrifices.priestcoming=<0>: 十分な供物を持っていますか? 神々を鎮めるのにとても賢い選択です。
+sacrifices.panditfee=シャーマンへの
+sacrifices.offering=生贄
+mayan.god0=アフプチ神 - サバイバルのために
+mayan.god1=キニチアハウ神 - 火のために
+mayan.god2=カブラカン神 - 情勢不安のために
+mayan.god3=アフタバイ神 - 弓のために
+mayan.god4=クムハウ神 - 復讐のために
+mayan.god5=ウクスチョ神 - 沼のために
+mayan.god6=ウクスパロ神 - 海のために
+mayan.god7=アロム神 - 空気のために
+mayan.god8=ブルクチャブタン神 - 戦いのために
+mayan.god9=アフプチ神 - 戦いと死のために
+mayan.god10=クムハウ神 - モンスターとの戦いのために
+mayan.god11=フラカン神 - 息のために
+mayan.god12=キニチアハウ神 - 炎のために
+mayan.god13=エクチュアフ神 - 幸運のために
+mayan.god14=ブルクチャブタン神 - 戦いのために
+mayan.god15=フラカン神 - 息のために
+mayan.god16=キニチアハウ神 - 火のために
+mayan.god17=エクチュアフ神 - 幸運のために
+mayan.god18=ヴィッツ神 - 耐性のために
+
+culture.norman=ノルマン
+culture.indian=インド
+culture.japanese=日本
+culture.mayan=マヤ
+culture.byzantines=ビザンティン
+
+export.errornoname=建設計画の最初のラインに名前をつける必要があります。
+export.errornoendsigneast=東には終点を見つけることができません。 スタート地点から256ブロック以内の直線地点でなければなりません。
+export.errornoendsignsouth=南には終点を見つけることができません。 スタート地点から256ブロック以内の直線地点でなければなりません。
+export.errorlength=検出された長さは、<0>ですが、<1> の長さの建設計画がすでにエクスポートファイル内にあります。
+export.errorwidth=検出された幅は、<0>ですが、<1> の幅の建設計画がすでにエクスポートファイル内にあります。
+export.errorstartinglevel=3つめに無効なレベルがあります。
+export.defaultstartinglevel=指定されたレベルでは開始できません、-1が初期値です。
+export.errorunknownblockid=不明なブロック: <0>
+export.buildingexported=<0> として建物を書き出し。
+
+import.notonserver=建物を読み込むことはこのサーバーでは不可能です。
+import.errornoname=建設計画の最初のラインに名前をつける必要があります。
+import.errornotfound=要求された建物はmillenaire-custom/exportsフォルダには存在しません。
+import.buildingupto=建設レベル <0>
+import.errorinvalidupgradelevel=2つめに無効なレベルがあります。
+import.buildinginitialphase=どの段階まで建設するか指定されていません、初期段階までのみ建設します。
+import.errorupgradeleveltoohigh=要求された建設レベルは可能なものより高いです。
+import.doublevertical=垂直の高さを倍にする
+import.buildinglevel=建設レベル: <0>
+
+effect.towncentre=村の中心
+effect.shop=店: <0>
+effect.irrigation=農業: <0>% 追加作物
+effect.pujalocation=祈祷をあげる
+effect.sacrificeslocation=供物を捧げる
+effect.healing=プレイヤーを治癒する
+
+chunk.chunkmap=チャンクマップ
+chunk.caption=説明
+chunk.captiongeneral=全てのチャンクは 2x2 ピクセルのドットで<ret>表示されています。
+chunk.captiongreen=緑： ロードされたエリア。
+chunk.captionblue=青: 村のエリア内。
+chunk.captionpurple=紫: 一軒家などのエリア内。
+chunk.captionwhite=白: Mod(Millénaireや他のMod)による<ret>     常時読み込みエリア。
+chunk.playerposition=プレイヤーの座標: <0>
+chunk.settings=村の読み込み半径: <0> m<ret>Forgeによって許可された最大チャンク数<ret>: <1>
+chunk.explanations=Millénaireの村は、村の部分のチャンク全てが<ret>読み込まれた時のみアクティブになります。<ret><ret>他の村の住民は普段は凍結されています。<ret><ret>Millénaireは、プレイヤーの周囲<ret>200m(値は変更可能です) 以内のチャンクにある<ret>村を常に読み込みます。 <ret><ret>Forgeの機能でデフォルトは 200m に制限<ret>されています。<ret>minecraft/config/forgeChunkLoading.cfg.<ret>ファイルでこの値を設定することができます。<ret><ret>警告: 常に読み込むチャンクを増やすと<ret>パフォーマンスが低下することがあります。
+chunk.chunkcoords=チャンク: <0>
+chunk.village=<0>
+chunk.chunkforced=強制読み込み
+
+
+
+
+config.pagetitle=Millénaire の設定
+config.page.uisettings=UI 設定
+config.page.worldgeneration=World 設定
+config.page.worldgeneration.desc=この設定はローカルでしか動作しません<ret>(サーバーでは不適応)。
+config.page.villagebehaviour=村の設定
+config.page.villagebehaviour.desc=この設定はローカルでしか動作しません<ret>(サーバーでは不適応)。
+config.page.devtools=開発ツール
+
+config.village_list_key.label=村リスト キー
+config.village_list_key.desc=周囲にある村のリストを表示します。 デフォルト: <0>
+
+config.quest_list_key.label=情報パネル キー
+config.quest_list_key.desc=Millénaireの情報パネルを開きます。 デフォルト: <0>
+
+config.escort_key.label=スタンス変更 キー
+config.escort_key.desc=傭兵のスタンス(応戦or通常)を変更します。 デフォルト: <0>
+
+config.fallback_language.label=代替言語
+config.fallback_language.desc=代替の言語です、主言語に設定したものが<ret>利用できない場合変更されます。
+
+config.dynamic_textures.label=ダイナミック テクスチャー
+config.dynamic_textures.desc=64xもしくはそれ以上のテクスチャーパックが<ret>導入されている場合、自動的に適応されます。
+
+config.language_learning.label=言語学習
+config.language_learning.desc=言語を "学習" するかどうか<ret>(プレイヤーが学習すると翻訳文が表示)。
+
+config.load_all_languages.label=全ての言語を読み込む
+config.load_all_languages.desc=使用可能な言語を全て読み込みます。<ret>必要な翻訳があれば"はい"にしてください。
+
+config.display_start.label=スタート時のテキスト表示
+config.display_start.desc=スタート時にMillénaireのバージョンと<ret>作成クエストの進行度を表示します。
+
+config.display_names.label=村人の名前表示
+config.display_names.desc=村人の頭上に「名前、職業、現在の仕事」を表示します。
+
+config.villagers_names_distance.label=名前表示の距離
+config.villagers_names_distance.desc=名前が表示されるまでの距離です。 デフォルト: <0>
+
+config.villagers_sentence_in_chat_distance_client.label=チャットの文章 (MP)
+config.villagers_sentence_in_chat_distance_client.desc=マルチプレイで村人の会話が表示されるまでの距離。<ret>デフォルト: <0>
+
+config.villagers_sentence_in_chat_distance_sp.label=チャットの文章 (SP)
+config.villagers_sentence_in_chat_distance_sp.desc=シングルプレイで村人の会話が表示されるまでの距離。<ret>デフォルト: <0>
+
+config.generate_villages.label=村の生成
+config.generate_villages.desc=新しいチャンクでMillénaireの村を生成するかどうか。
+
+config.generate_lone_buildings.label=一軒家の生成
+config.generate_lone_buildings.desc=新しいチャンクでMillénaireの一軒家を生成するかどうか。
+
+config.keep_active_radius.label=チャンクの読み込み半径
+config.keep_active_radius.desc=プレイヤーを中心とした常に読み込むチャンクの半径。<ret>(村をアクティブにする) デフォルト: <0>
+
+config.min_village_distance.label=村間の最短距離
+config.min_village_distance.desc=村と村の間の最短距離。 デフォルト: <0>
+
+config.min_village_lonebuilding_distance.label=村と一軒家の最短距離
+config.min_village_lonebuilding_distance.desc=村と一軒家の間の最短距離。 デフォルト: <0>
+
+config.min_lonebuilding_distance.label=一軒家の最短距離
+config.min_lonebuilding_distance.desc=一軒家と一軒家の間の最短距離。 デフォルト: <0>
+
+config.spawn_protection_radius.label=スポーンプロテクション半径
+config.spawn_protection_radius.desc=スポーンポイントを中心としたプロテクト半径の設定。<ret>デフォルト: <0>
+
+config.village_radius.label=村の半径
+config.village_radius.desc=一般的な村の半径 (村落は例外)。 デフォルト: <0>
+
+config.min_distance_between_buildings.label=建設物間の最短距離
+config.min_distance_between_buildings.desc=建物と建物の間の最短距離。 デフォルト: <0>
+
+config.village_paths.label=村の道路の作成
+config.village_paths.desc=村に道路を生成し、必要に応じて村人が<ret>アップグレードする。
+
+config.max_children_number.label=子供の最大人数
+config.max_children_number.desc=村が許容できる子供の最大人数。 デフォルト: <0>
+
+config.background_radius.label=村の評価の半径
+config.background_radius.desc=村同士の評価(外交、貿易、侵略)が影響する半径。<ret>デフォルト: <0>
+
+config.bandit_raid_radius.label=山賊の襲撃半径
+config.bandit_raid_radius.desc=山賊が村を襲撃する半径。 デフォルト: <0>
+
+config.raiding_rate.label=侵略の確率
+config.raiding_rate.desc=山賊が襲撃する確率です。 デフォルト: <0>(%)
+
+config.generate_colour_chart.label=カラーチャートを生成
+config.generate_colour_chart.desc=建設計画で利用できるカラーチャートを生成。
+
+config.generate_building_res.label=資材リストの生成
+config.generate_building_res.desc=建設に利用する資材リストを生成。
+
+config.generate_translation_gap.label=翻訳不足分のログを生成
+config.generate_translation_gap.desc=不足リストとして各言語の翻訳テキストのレポートログを生成。
+
+config.generate_goods_list.label=アイテムリストの生成
+config.generate_goods_list.desc=Millénaireのアイテムリストを生成。
+
+config.valuetrue=はい
+config.valuefalse=いいえ
+
+config.page.bonus=共同制作者ボーナス
+config.page.bonus.desc=Millénaireの協力者 <ret>(翻訳、建築デザイン、テクスチャー、wikiの編集者など) <ret>もしくは寄付してくれた方へのボーナス: 小さい家が村長からプレゼントされます。
+
+config.bonus_code.label=ボーナスコード
+config.bonus_code.desc=ボーナスを受け取るためのコード。<ret> 自動的にインターネットから取得します。
+
+config.validbonuscode=有効なコードです! ボーナスが適応されました。
+config.invalidbonuscode=無効なコードです。 チェックしてみてください。
+
+tradehelp.title=<0> - 取引
+tradehelp.goodssold=売り切れ
+tradehelp.goodsbought=買った品物
+tradehelp.buyingprice=購入:
+tradehelp.sellingprice=販売:
+tradehelp.helptitle=取引ルール
+tradehelp.helptext=それぞれの店では村に在庫のある物が<ret>商品として買うことができます。<ret><ret>例外として"無料"ブロック(道路用)や<ret>特別なアイテム(杖)などの、村で企画され<ret>作成された品物は購入すると"失われ"ます。<ret>Minecraftの村のように無限ではありません。<ret><ret>村人は自分たちが必要とするアイテムをほぼ<ret>全て作成できますが、資源を売って<ret>あげることで村の発展を少し助けます。

@@ -1,0 +1,54 @@
+archives_A0=Tempelarchiv
+armyforge_A0=Armeeschmiede
+bazaar_A0=Basar
+brickkiln_A0=Ziegeltrocknerei
+chiefhouse_A0=Anführerhaus
+chiefhouse_B0=Anführerhaus
+forge_A0=Schmiede
+fort_A0=Festung
+fort_A_forge_A0=Festungsschmiede
+fort_A_soldierhouse_A0=Barracke
+grove_A0=Hain
+guesthouse_A0=Gasthaus
+inn_A0=Herberge
+largepeasanthouse_A0=Großes Haus
+largepeasanthouse_A_secondary_A0=Zweites Haus
+lumbermanhouse_A0=Holzfällerhütte
+paddy_A0=Reisfeld
+palace_A0=Palast
+pandithouse_A0=Priesterhaus
+peasanthouse_A0=Bauernhaus
+peasanthouse_B0=Bauernhaus
+peasanthouse_C0=Bauernhaus
+playerestate_A0=Villa
+playerhugefield_A0=Riesiges Grundstück
+playerlargefield_A0=Großes Grundstück
+playerpalace_A0=Palast
+playersmallfield_A0=Kleines Grundstück
+playersmallhouse_A0=Kleines Haus
+quarry_A0=Steinbruch
+quarry_B0=Steinbruch
+scultorhouse_A0=Bildhauerwerkstatt
+soldierhouse_A0=Soldatenhaus
+spicegarden_A0=Kräutergarten
+sugarplantation_A0=Zuckerrohrplantage
+tank_A0=Stufenbrunnen
+villagetemple_A0=Dorftempel
+
+//extra buildings:
+well_A0=Brunnen
+
+//lone buildings:
+adivasifarm_A0=Adivasihof
+adivasifarm_B0=Adivasihof
+deserttradeoutpost_A0=Wüstenhandelsposten
+indiandesertedfarm_A0=Vertrockneter Bauernhof
+loneshrine_A0=Einsamer Hindischrein
+ruinedfort_A0=Zerstörte Festung
+sadhutree_A0=Baum des Sadhu
+sandblasted_A0=Verschütter Handelsposten
+
+gifthouse_a0=Geschenkhaus
+
+hindushrine_a0=Hindi Statue
+villagetree_a0=Dorfbaum

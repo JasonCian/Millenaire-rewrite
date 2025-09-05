@@ -1,0 +1,28 @@
+version:3.4
+<darkblue>Combats et raids
+
+Millénaire n’est pas toujours un mod pacifique : vous pouvez combattre les villageois, les villages peuvent mener des raids les uns contre les autres, les monstres peuvent attaquer les villages et certains bâtiments isolés sont occupés par des bandits. Quelque soit les circonstances, certains principes ne changent pas : <darkblue>les villageois ne sont vulnérables qu’aux attaques directes (corps à corps, flèches et potions)<black>. Ils ne sont pas affectés par le feu, les chutes ou les cactus. Cette restriction est voulue, pour empêcher le joueur de les tuer sans qu’ils ne soient conscients que l’attaque vient de lui.
+
+Différents types de villageois sont plus ou moins forts, et surtout l’équipement qu’ils portent peut les rendre beaucoup plus dangereux.
+
+<darkblue>Résurrection des villageois
+
+Un villageois tué, par vous ou un autre villageois ou monstre, n’est mort que temporairement. A la tombé de la nuit, tous les villageois renaissent dans leur maison (mais ils perdent leur équipement). Après tout, le joueur ressuscite bien lui aussi…
+
+<darkblue>Attaque par le joueur
+
+Vous pouvez à tout moment attaquer un villageois. Les autres hommes du village viendront alors l’aider à vous combattre. Si vous parvenez à tuer tous les villageois d’un village ou bâtiment isolé, ses coffres s’ouvriront et vous pourrez voler leurs contenus.
+
+<darkblue>Bandits
+
+Ces villageois habitant certains bâtiments isolés vous attaqueront sans avertissement si vous vous approchez. Votre réputation avec leur culture ne baissera pas si vous les tuez. Comme les autres villageois, ils ressuscitent à la nuit tombée – regardez la section « <darkblue>détruire un village<black> » pour voir comment empêcher ça.
+
+<darkblue>Raids entre villages
+
+Les villages Millénaire ont des relations positives ou négatives avec les villages proches. Ces relations changent aléatoirement et peuvent être influencées par le joueur en parlant au chef d’un des villages. Si elles sont trop mauvaises et qu’un des villages dispose d’assez de soldats, il peut lancer un raid sur un autre village. Vous serez prévenu par un message. Lors d’un raid, les soldats du village attaquant tentent de tuer les hommes du village attaqué. S’ils y arrivent, ils prennent une partie des ressources comme butin. Vous pouvez aider un camp ou l’autre pendant un raid.
+
+Il peut être utile d’encourager un village auquel vous tenez à attaquer ses voisins pour augmenter ses ressources. Cyniquement, encourager les raids peut aussi vous permettre d’aller vous-même piller un village en profitant du fait que les défenseurs sont morts.
+
+<darkblue>Embaucher un villageois
+
+Pour vous aider dans vos combats, il est possible d’embaucher certains villageois, comme les soldats ou les bûcherons. Ils vont suivront et combattront vos ennemis avec vous.

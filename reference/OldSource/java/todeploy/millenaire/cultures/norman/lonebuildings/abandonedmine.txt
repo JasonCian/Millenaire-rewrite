@@ -1,0 +1,22 @@
+name=Mine abandonnée
+weight=10
+radius=10
+
+//Vanilla biomes
+biome=Extreme Hills
+biome=Extreme Hills M
+biome=Stone beach
+biome=ForestHills
+biome=Birch Forest Hills
+biome=Cold Taiga Hills
+biome=Mega Taiga Hills
+
+//biomes o'plenty
+biome=cold desert
+biome=crag
+biome=tundra
+biome=volcanic island
+biome=wasteland
+
+//starting buildings=
+centre=abandonedmine

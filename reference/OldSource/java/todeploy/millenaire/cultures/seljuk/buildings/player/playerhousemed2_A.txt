@@ -1,0 +1,14 @@
+building.length=14
+building.width=14
+building.buildingorientation=3
+building.max=0
+building.reputation=8192
+building.price=4096
+
+building.icon=denierargent
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Orta Boyutlu Hane
+initial.priority=1000000
+initial.pathlevel=2

@@ -1,0 +1,64 @@
+# 千年重制版 - 增强钱包系统测试命令
+
+## 基础物品获取
+/give @p millenaire_rewrite:purse 1
+/give @p millenaire_rewrite:village_sign 1
+/give @p millenaire_rewrite:denier 100
+/give @p millenaire_rewrite:denier_argent 10
+/give @p millenaire_rewrite:denier_or 5
+
+## 钱包功能测试步骤
+# 1. 获取钱包: /give @p millenaire_rewrite:purse 1
+# 2. 获取散币: /give @p millenaire_rewrite:denier 50
+# 3. 获取散币: /give @p millenaire_rewrite:denier_argent 20
+# 4. 获取散币: /give @p millenaire_rewrite:denier_or 10
+# 5. 右键钱包查看内容（应该显示空钱包）
+# 6. 潜行右键钱包收集散币到钱包
+# 7. 再次右键钱包查看内容（应该显示收集的货币）
+# 8. 双击钱包取出所有货币到背包
+
+## 全套装备测试
+/give @p millenaire_rewrite:norman_helmet 1
+/give @p millenaire_rewrite:norman_chestplate 1
+/give @p millenaire_rewrite:norman_leggings 1
+/give @p millenaire_rewrite:norman_boots 1
+/give @p millenaire_rewrite:norman_sword 1
+
+## 食物系统测试
+/give @p millenaire_rewrite:sake 1
+/give @p millenaire_rewrite:murgh_curry 1
+/give @p millenaire_rewrite:calva 1
+/give @p millenaire_rewrite:wine 1
+
+## 特殊工具测试
+/give @p millenaire_rewrite:mayan_mace 1
+/give @p millenaire_rewrite:japanese_sword 1
+/give @p millenaire_rewrite:byzantine_mace 1
+
+## 完整套装测试
+# 拜占庭套装
+/give @p millenaire_rewrite:byzantine_helmet 1
+/give @p millenaire_rewrite:byzantine_chestplate 1
+/give @p millenaire_rewrite:byzantine_leggings 1
+/give @p millenaire_rewrite:byzantine_boots 1
+
+# 日本武士套装
+/give @p millenaire_rewrite:japanese_red_helmet 1
+/give @p millenaire_rewrite:japanese_red_chestplate 1
+/give @p millenaire_rewrite:japanese_red_leggings 1
+/give @p millenaire_rewrite:japanese_red_boots 1
+
+## 钱包系统详细测试说明
+# 🎯 钱包新功能:
+# ✅ 右键查看钱包内容和余额
+# ✅ 潜行右键自动收集背包中的散币到钱包  
+# ✅ 双击钱包快速取出所有货币到背包
+# ✅ 工具提示显示货币详情和操作说明
+# ✅ 智能货币转换和优化存储
+
+## 测试场景
+# 1. 货币收集测试：获取大量散币，用钱包收集
+# 2. 货币取出测试：双击钱包将货币取出
+# 3. 混合货币测试：同时处理金银铜三种货币
+# 4. 工具提示测试：悬停查看钱包详细信息
+# 5. 村庄标牌测试：右键查看村庄配置选项

@@ -1,0 +1,19 @@
+//Parameters for the building as a whole
+building.length=38
+building.width=38
+building.buildingorientation=3
+building.startinggood=maize,1.0,8,16
+building.startinggood=denieror,0.4,1,1
+building.startinggood=denier,1.0,28,44
+building.startinggood=denierargent,0.6,16,22
+building.startinggood=mayangold,0.8,18,26
+building.startinggood=mayanstatue,0.8,1,2
+building.startinggood=gold,1.0,20,10
+
+building.icon=chiseledstonebrick
+
+//Parameters for initial construction
+initial.startlevel=-2
+initial.nativename=Muul
+initial.priority=10
+

@@ -1,0 +1,19 @@
+//Parameters for the building as a whole
+building.length=28
+building.width=32
+building.buildingorientation=3
+building.issubbuilding=true
+building.parentbuildingplan=largeinn_A1
+building.max=0
+building.icon=bed_straw
+
+
+//Parameters for initial construction
+initial.startlevel=-3
+initial.nativename=Dortois des femmes
+initial.visitor=pilgrimfemale
+initial.visitor=pilgrimfemale
+initial.visitor=pilgrimfemale
+initial.visitor=pilgrimfemale
+initial.requiredparenttags=1
+

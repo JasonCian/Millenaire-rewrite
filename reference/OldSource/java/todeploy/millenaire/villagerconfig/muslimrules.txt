@@ -1,0 +1,13 @@
+//Muslims don't eat pork and flesheaters
+foodGrowthValue=porkchopscooked,0
+foodGrowthValue=tripes,0
+foodGrowthValue=boudin,0
+foodConceptionValue=inuitbearstew,0
+foodConceptionValue=bearmeat_cooked,0
+foodConceptionValue=wolfmeat_cooked,0
+
+//Muslims don't drink alcohol
+foodConceptionValue=winebasic,0
+foodConceptionValue=cider,0
+foodConceptionValue=calva,0
+foodConceptionValue=winefancy,0

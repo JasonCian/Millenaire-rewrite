@@ -1,0 +1,22 @@
+building.length=15
+building.width=15
+building.areatoclear=3
+building.max=2
+
+building.icon=olives
+
+initial.startlevel=-1
+initial.nativename=Zeytin Bahçesi
+initial.tag=olivepress
+initial.tag=olives
+initial.tag=leasure
+initial.tag=patrol
+initial.priority=100
+initial.shop=olivefarm
+
+upgrade1.priority=200
+
+upgrade2.priority=100
+uprgade2.pathlevel=1
+
+upgrade3.priority=70

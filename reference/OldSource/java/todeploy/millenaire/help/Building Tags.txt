@@ -1,0 +1,54 @@
+List of tags for buildings that trigger special features.
+
+archives: Makes the building's tags display the villagers' locations and activities.
+
+autospawnvillagers: Makes the building's inhabitants spawn after the first night.
+
+borderpostsign: Enables the border post type sign.
+
+brickkiln: Makes the building into a valid target for mud brick drying and gathering goals.
+
+cattle: Makes the building a valid target for cow-breeding.
+
+chicken: Makes the building a valid target for chicken-breeding.
+
+despawnallmobs: Makes the building despawn all mobs around it, not just creepers.
+
+fishingspot: Makes the building a valid target for the fishing goal.
+
+grove: Makes the building a valid target for chopping trees and planting saplings, and activates accelerated tree growth.
+
+hof: Makes the building display the Hall of Fame on its signs.
+
+inn: Makes the building into an Inn where local merchants can stay.
+
+leasure: Makes the building into a place where villagers go to chat.
+
+market: Makes the building into a market that hosts foreign merchants.
+
+marvel: Makes the building into a marvel, with specific panel displays
+
+no_upgrade_till_wall_initialized: Stops this upgrade until all wall segments have been built.
+
+nopaths: Stops the construction of paths within this building's limits.
+
+pathnode: Makes the building into a path node, where village paths converge.
+
+pigs: Makes the building a valid target for pig-breeding.
+
+pujas: Makes the building into a location where pujas can be held.
+
+sacrifices: Makes the building into a location where Maya sacrifices can be held.
+
+scaffoldings: Requires builders to use scaffoldings to reach the proper height to lay blocks instead of doing it at a distance.
+
+sheeps: Makes the building a valid target for sheep-breeding.
+
+silkwormfarm: Makes the building into a valid location for gathering silk.
+
+snailsfarm: Makes the building into a valid location for gathering snails.
+
+sugarplantation: Makes the building into a valid target for planting and harvesting sugar cane.
+
+wall_level: Wall level, for use in the wall panel. Use with a level added like this: wall_level_0, wall_level_1...
+

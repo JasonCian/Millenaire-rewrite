@@ -1,0 +1,1 @@
+native:Ektrofí Metaxoskólika;gameNameKey:silkfarm_A0;male:silkfarmer_byzantine;female:lady_byzantine;craft:1;chest:1-5;sign:1;tag:silkwormfarm;moveinpriority:15

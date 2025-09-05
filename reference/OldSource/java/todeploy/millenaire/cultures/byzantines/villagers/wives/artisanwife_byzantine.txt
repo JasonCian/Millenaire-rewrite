@@ -1,0 +1,82 @@
+native_name=Texnitria
+gender=female
+familyNameList=greek_family_names
+firstNameList=greek_women_names
+baseheight=0.95
+health=20
+malechild=boy_byzantine
+femalechild=girl_byzantine
+tag=seller
+icon=souvlaki
+
+model=femaleasymmetrical
+
+texture=textures/entity/byzanz/nfemale/byz_female_1.png
+texture=textures/entity/byzanz/nfemale/byz_female_2.png
+texture=textures/entity/byzanz/nfemale/byz_female_3.png
+texture=textures/entity/byzanz/nfemale/byz_female_4.png
+texture=textures/entity/byzanz/nfemale/byz_female_5.png
+texture=textures/entity/byzanz/nfemale/byz_female_6.png
+texture=textures/entity/byzanz/nfemale/byz_female_7.png
+texture=textures/entity/byzanz/nfemale/byz_female_8.png
+texture=textures/entity/byzanz/nfemale/byz_female_9.png
+texture=textures/entity/byzanz/nfemale/byz_female_10.png
+texture=textures/entity/byzanz/nfemale/byz_female_11.png
+texture=textures/entity/byzanz/nfemale/byz_female_12.png
+texture=textures/entity/byzanz/nfemale/byz_female_13.png
+texture=textures/entity/byzanz/nfemale/byz_female_14.png
+
+clothes=natural,1,textures/entity/byzanz/nfemale/hair/byz_braid_1.png
+clothes=natural,1,textures/entity/byzanz/nfemale/hair/byz_braid_2.png
+clothes=natural,1,textures/entity/byzanz/nfemale/hair/byz_braid_3.png
+clothes=natural,1,textures/entity/byzanz/nfemale/hair/byz_bun_1.png
+clothes=natural,1,textures/entity/byzanz/nfemale/hair/byz_bun_2.png
+clothes=natural,1,textures/entity/byzanz/nfemale/hair/byz_curls_1.png
+
+clothes=free,0,textures/entity/byzanz/nfemale/clothes/byz_dress_1_a.png
+clothes=free,0,textures/entity/byzanz/nfemale/clothes/byz_dress_1_b.png
+clothes=free,0,textures/entity/byzanz/nfemale/clothes/byz_dress_1_c.png
+clothes=free,0,textures/entity/byzanz/nfemale/clothes/byz_dress_1_d.png
+clothes=free,0,textures/entity/byzanz/nfemale/clothes/byz_dress_1_e.png
+
+clothes=clothes_byz_wool,0,textures/entity/byzanz/nfemale/clothes/byz_dress_2_a.png
+clothes=clothes_byz_wool,0,textures/entity/byzanz/nfemale/clothes/byz_dress_2_b.png
+clothes=clothes_byz_wool,0,textures/entity/byzanz/nfemale/clothes/byz_dress_2_c.png
+clothes=clothes_byz_wool,0,textures/entity/byzanz/nfemale/clothes/byz_dress_2_d.png
+clothes=clothes_byz_wool,0,textures/entity/byzanz/nfemale/clothes/byz_dress_2_e.png
+
+itemNeeded=clothes_byz_wool
+
+//leisure goals
+goal=gorest
+goal=gosocialise
+goal=chat
+goal=gopray
+goal=listentospeech2
+
+//household goals
+goal=deliverResourcesShop
+goal=GetHouseTHResources
+goal=getGoodsHousehold
+goal=deliverGoodsHousehold
+
+//sandstone production
+// MC + -
+//goal=makesandstone
+//requiredGood=sand,256
+goal=makesandstoneworkshop
+goal=fetchsandstonebyz
+
+//banner production
+goal=makebannerwool
+requiredGood=wool_white,32
+
+//iron production
+// MC + -
+//goal=makeironbyz
+//requiredGood=ironnugget,45
+goal=makeironbyzworkshop
+goal=fetchironbyz
+
+baseAttackStrength=2
+defaultweapon=woodaxe

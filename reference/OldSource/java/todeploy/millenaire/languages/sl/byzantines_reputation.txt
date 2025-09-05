@@ -1,0 +1,10 @@
+0;Tujec;Kot trgovsko ljudstvo, sprejmemo vsakega, a nam jim še ni potrebno zaupati.
+4*64;Znan obraz;Pogosto smo te videli v rimljanskih deželah.
+16*64;Reden obiskovalec;Pozdravljen $name! Lepot te je spet videti. Kako kaj gredo stvari?
+64*64;Priljubljen trgovec;Vsi so veseli, da te lahko vidijo. Imaš kaj, s čim bi lahko trgovali?
+2*64*64;Prijatelj vasi;Sedaj si del naše vasi $name, zaupamo ti!
+8*64*64;Eden naših;Sedaj te imamo za rimljana, $name. Mogoče nisi rojen kot eden od nas, ampak si lahko ponosen, da se lahko imenuješ pa pravega Rimljana.
+32*64*64;Rojen vladar;$name, dobil si zaupanje in ugled Bizantincev. Sedaj ti bodo sledili povsod.
+-64;Nadloga;Nisi kaj preveč prijazen, $name. Pazi se nas.
+-4*64;Neprijeten obiskovalec;Sprejemamo trgovce, ampak ne ljudi, ko si ti. Pazi se nas.
+-16*64;Sovražnik;Bilo je v sramoto celega rimskega imperija, da smo te pustili živega. Ko boš nadeljeval pot, bodi srečen, da živiš in pusti primiru rimske dežele in se ne vračaj nazaj!

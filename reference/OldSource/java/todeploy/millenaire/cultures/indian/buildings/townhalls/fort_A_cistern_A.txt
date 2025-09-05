@@ -1,0 +1,11 @@
+building.length=30
+building.width=40
+building.issubbuilding=true
+building.parentbuildingplan=fort_A8
+building.max=0
+building.icon=bucketwater
+
+initial.startlevel=-4
+initial.nativename=Qila ka Gadh
+initial.priority=600
+initial.irrigation=10

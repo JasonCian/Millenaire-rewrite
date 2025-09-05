@@ -1,0 +1,15 @@
+//Parameters for the building as a whole
+building.length=19
+building.width=12
+building.buildingorientation=3
+building.icon=wool_white
+building.showtownhallsigns=false
+travelbook_display=False
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Apomonomeno Boske Probaton
+initial.male=loneshepherd_byzantine
+initial.tag=sheeps
+initial.shop=lonesheep
+

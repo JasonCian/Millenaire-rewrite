@@ -1,0 +1,20 @@
+//Note pour les utilisateurs de Windows: si vous voyez le fichier entier sur une seule ligne, ouvrez-le avec PSPAd ou UltraEdit plutôt que Notepad
+//Note to Windows users: if you see the entire file in one line, open it using PSPad or UltraEdit instead of Notepad
+
+priority=10000
+
+requiredTag=school
+buildingTag=school
+
+targetvillagergoals=teach
+lookatgoal=true
+
+heldItems=bookandquill
+
+duration=30000
+
+minimumhour=2000
+maximumhour=6000
+
+travelBookShow=true
+icon=bookandquill

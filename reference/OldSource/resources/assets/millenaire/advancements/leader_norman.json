@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "millenaire:normanhelmet"
+        },
+        "title": {
+            "translate": "advancements.leader_norman.name"
+        },
+        "description": {
+            "translate": "advancements.leader_norman.desc"
+        }
+    },
+    "parent": "millenaire:rep_norman",
+    "criteria": {
+        "leader_norman": {
+            "trigger": "leader_norman"
+        }
+    }
+}

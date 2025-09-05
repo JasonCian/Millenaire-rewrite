@@ -1,0 +1,27 @@
+//Note pour les utilisateurs de Windows: si vous voyez le fichier entier sur une seule ligne, ouvrez-le avec PSPAd ou UltraEdit plutôt que Notepad
+
+//Note to Windows users: if you see the entire file in one line, open it using PSPad or UltraEdit instead of Notepad
+
+priority=40
+
+//tag désignant le bâtiment à utiliser. Si cette valeur est absente, c'est la maison du villageois.
+//tag a building must have for action to be possible. If absent, then the villager's house is used.
+buildingTag=paddy
+
+//Type de plante
+//Type of plant
+croptype=millenaire:crop_rice
+
+//Bonus pour les villages irrigués
+//Bons for irrigated villages
+irrigationbonuscrop=rice
+
+//Objets obtenus lors de la requête, avec % de chance
+//Items gained during harvest, with the chance %
+harvestitem=rice,100
+
+maxsimultaneousinbuilding=2
+
+villagelimit=rice,512
+
+helditemsoffhand=rice

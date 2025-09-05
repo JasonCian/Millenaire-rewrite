@@ -1,0 +1,20 @@
+{
+    "display": {
+        "icon": {
+            "item": "millenaire:vishnu_amulet"
+        },
+        "title": {
+            "translate": "advancements.wq_indian.name"
+        },
+        "description": {
+            "translate": "advancements.wq_indian.desc"
+        },
+        "frame": "goal"
+    },
+    "parent": "millenaire:maitreapenser",
+    "criteria": {
+        "wq_indian": {
+            "trigger": "wq_indian"
+        }
+    }
+}

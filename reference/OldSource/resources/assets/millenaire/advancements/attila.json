@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "millenaire:normanbroadsword"
+        },
+        "title": {
+            "translate": "advancements.attila.name"
+        },
+        "description": {
+            "translate": "advancements.attila.desc"
+        }
+    },
+    "parent": "millenaire:darkside",
+    "criteria": {
+        "attila": {
+            "trigger": "attila"
+        }
+    }
+}

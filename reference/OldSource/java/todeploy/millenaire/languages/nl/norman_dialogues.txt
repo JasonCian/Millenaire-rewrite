@@ -1,0 +1,364 @@
+//*   Save your translation in UNICODE next time. Fixed "�" characters.
+//* 
+//* 
+
+
+
+newchat;key:rain,tag:notraining,weigth:10
+v1;0;Je sens qu'il va pleuvoir. / Ik kan voelen  dat het gaat regenen.
+v2;30;Il pleut toujours en Normandie. / Het regent altijd in Normandië...
+
+newchat;key:beautifulvillage,weigth:10
+v1;0;Il est beau notre village, tu ne trouve pas? / Ons dorp is prachtig nietwaar?
+v2;30;Magnifique! Et on y travaille dur! / Geweldig! En we werken er hard voor!
+
+newchat;key:sunset,weigth:10
+v1;0;Le soleil se lève où, déjà? J'oublie toujours. / Waar komt de zon ook alweer op? Ik blijf het vergeten.
+v2;30;Au nord, bien sûr! / In het noorden, waar anders?
+
+newchat;key:harvest,weigth:10
+v1;0;Tu penses que la récolte sera bonne cette année? / Denk je dat de oogst goed zal zijn dit jaar?
+v2;30;Qui sait, avec le temps qu'il a fait. / Wie weet, met het weer dat we gehad hebben.
+v1;60;Il n'y a plus de saisons. / Seizoenen zijn niet echt logisch hier.
+
+newchat;key:indianfood,weigth:5
+v1;0;Tu as entendu parler des Indiens? / Heb je van die Indiase mensen gehoord?
+v2;30;Il paraît qu'ils sont très bizarres. / Men zegt dat ze erg raar zijn.
+v1;60;J'ai même entendu dire que leur nourriture brûle! / Klaarblijkelijk brand hun voedsel!
+v2;100;Comme du calva? / Zoals calva?
+v1;120;Non, pire! / Nee erger!
+
+newchat;key:byzantines,v1:adult,v2:adult,weigth:5
+v1;0;Ces byzantins m'énervent! / Die Byzantijnen werken me op me zenuwen!
+v2;30;Oui, tu as vu comme ils nous prennent de haut? / Zag je hoe groot en machtig ze zijn?
+v1;60;Tout ça parce qu'ils prétendent être romains. / En dat alles omdat ze beweren Romeinen te zijn.
+v2;100;Quelle blague. Des romains dégénérés, alors. / Wat een grap. Nepromeinen zeker.
+v1;130;On devrait organiser un raid chez eux. / We zouden een overval op ze moeten plannen!
+v2;160;On est vikings après tout! / Wij zijn uiteindelijk vikingen!
+
+newchat;key:storm,weigth:10
+v1;0;Il y a eu un orage terrible hier. / Er was een verschrikkelijke storm gisteren.
+v2;30;Oui, j'ai cru que le toit allait s'envoler. / Inderdaad, ik dacht dat het dak eraf geblazen werd.
+v1;60;Il faudrait les renforcer tous. / We moeten ze allemaal versterken.
+
+newchat;key:visitors,weigth:10
+v1;0;Ce qui manque ici, c'est des visiteurs. / Wat we hier missen zijn bezoekers.
+v2;30;Il y a bien $name... / Nou, we hebben $name...
+v1;60;Oui, mais il est un peu bizarre, non? / Maar hij is een beetje vreemd nietwaar?
+v2;100;C'est vrai qu'on ne sait jamais trop ce qu'il va faire. / Het is waar dat we nooit weten wat hij gaat doen.
+
+newchat;key:christmas,weigth:10
+v1;0;C'est quand Noël, déjà? / Wanneer komt de kerst?
+v2;30;Je ne sais pas trop... Les saisons ne changent pas ici. / Ik heb werkelijk geen idee, de seizoenen veranderen hier nooit.
+v1;80;Quel monde bizarre quand même. / Wat een rare wereld.
+v2;110;Parfois on dirait presque la Normandie... / Soms is het net Normandië...
+v2;140;et puis on se rappele que tout est différent. / En dan zien we dat alles anders is.
+
+newchat;key:william,v2:adult,weigth:10
+v1;0;Tu as déjà vu le Duc Guillaume, toi? / Heb jij ooit graaf Willem gezien?
+v2;30;Non, jamais. Et qui sait où il est maintenant? / Nee, nooit. En wie weet waar hij nu is?
+v1;60;S'il était là, nous aurions déja conquis ce nouveau monde! / Als hij hier was hadden we deze nieuwe wereld al overgenomen!
+v2;100;Vive le Duc Guillaume! / Lang leve graaf Willem!
+
+newchat;key:floatingearth,v2:adult,weigth:10
+v1;0;Tu as remarqué, ici la terre flotte si on creuse en-dessous. / Heb jij gezien dat de aarde zweeft als we eronder graven?
+v2;40;Oui, et alors? / Ja, en dan?
+v1;60;En Normandie, elle tombait... In Normandië viel het altijd...
+v2;90;En Normandie, Dieu voulait qu'elle tombe. Ici, il veut qu'elle flotte. / In Normandië wilde God dat het viel, hier wil hij dat het valt.
+v2;150;Pourquoi critique-tu Dieu? / Waarom bekritiseer je God?
+
+newchat;key:likingrain,tag:raining,weigth:10
+v1;0;J'aime bien la pluie. / Ik hou van regen.
+v2;30;C'est une bonne chose pour un normand! / Goed ding voor een Normandiër!
+
+newchat;key:boudintripes,weigth:10
+v1;0;Tu préfères quoi toi, le boudin ou les tripes? / Wat heb je liever, bloedworst of tripes?
+v2;40;Le boudin, les tripes c'est trop lourd. / Bloedworst. Tripes zijn te zwaar!
+v1;80;Trop lourd? Et tu te dis normand? / Te zwaar? En jij noemt jezelf Normandiër?
+
+newchat;key:horses,v1:child,v2:adult,weigth:10
+v1;0;Ca manque d'animaux, ce pays. / Dit land mist dieren.
+v2;30;Il y a des vaches, des moutons et des cochons. / Er zijn koeien, schapen en varkens.
+v2;60;Que faudrait-il de plus? / Wat wil je nog meer?
+v1;60;Des chevaux? Et des poneys! / Paarden? En pony's!
+v2;90;Parce que tu veux un poney, maintenant? / Omdat je nu een pony wilt?
+
+newchat;key:tripes,v1:adult,v2:adult,v1:male,v2:female
+v1;0;Les tripes, ça c'est un plat d'homme. / Tripes, dat is nou een mannenmaaltijd.
+v2;30;Préparé par les femmes... / Gemaakt door vrouwen...
+v1;60;Mais avec des vaches abattues par des hommes! / Met koeien geslacht door mannen!
+v2;100;Et nourries par des femmes... / En gevoerd door vrouwen...
+
+newchat;key:countingcows,weigth:10
+v1;0;Ca manque de distraction par ici. / Er is niet veel te doen hier.
+v2;30;C'est bien, c'est calme. / Het is goed, vredelievend.
+v1;60;Et ennuyeux... / En saai...
+v2;75;Tu n'as compter les vaches pour te distraire. / Waarom ga je de koeien niet tellen?
+v1;110;Déjà fait hier. Et les poulets aussi. / Heb ik gisteren al gedaan en de kippen ook.
+
+newchat;key:paris,v1:adult,v2:adult,weigth:2
+v1;0;Quel coin paumé ici, quand même. J'aimerai voir autre chose un jour... / Wat een geïsoleerde plek... Ik zou ook wel eens wat anders willen zien.
+v2;30;Les autres villages sont tous pareils. / De andere dorpen zijn precies hetzelfde.
+v1;60;Pas un village! Un bourg. Ou même une ville! / Geen dorp, een stad of een grote stad!
+v2;90;Quoi, comme Rouen? Tu es fou, c'est à des jours d'ici. / Zoals Rouen? Je bent gek! Dat is dagen weg van hier.
+v1;120;Rouen... ou même... Pourquoi pas Paris? / Rouen... of misschien... waarom niet Parijs?
+v1;150;Tu te rend compte, on dit qu'il y aurait 25 000 personnes là-bas! / Kun je je dat voorstellen? Ze zeggen dat er 25 000 mensen wonen!
+v2;180;Tu divague, mon pauvre. 25 000 personnes au même endroit? Et où on les mettrait? / Je wordt gek. 25 000 mensen op dezelfde plek? Waar zouden ze dan naartoe gaan?
+
+newchat;key:calva,v1:adult,v2:adult,v1:male,v2:male,weigth:10
+v1;0;Par ce temps, un petit calva s'impose! / Met dat soort weer, is een calva een must!
+v2;30;Par tous les temps! / Met elk weer!
+v1;50;A la Normandie et son climat à calva! / Proost voor Normandië en zijn calva weer!
+v2;70;Santé! / Proost!
+
+newchat;key:boyvillagechief,v1:child,v1:male,v2:adult,weigth:5
+v1;0;Quand je serais grand, je serais le chef du village! / Als ik groot ben word ik dorpshoofd!
+v2;30;Il va falloir que tu mange beaucoup de soupe avant d'en arriver là. / Jij hebt een boel soep nodig voordat je dat bereikt.
+v1;60;Et je te ferais punir! / En ik zal jou laten straffen!
+v2;70;C'est ça. En attendant, va travailler ou tu vas prendre une claque. / Prima. En nu, aan het werk of jij krijgt klappen.
+
+newchat;key:kids1,v1:child,v2:child,weigth:10
+v1;0;Mon papa est bien plus fort que le tien. / Mijn vader is veel sterken dan die van jou.
+v2;30;N'importe quoi. Mon papa est le plus fort du village. / Onzin! Mijn vader is de sterkste in dit dorp.
+v1;60;Tu rêves. Mon père met le tien par terre en deux minutes. / Ga door met dromen! Mijn vader slaat die van jou in 2 minuten tegen de grond
+v2;70;Et la Terre est ronde! / En de aarde is rond!
+
+newchat;key:kids2,v1:child,v1:male,v2:child,v2:female,weigth:10
+v1;0;Les filles, ça ne sert à rien. / Meiden zijn nutteloos.
+
+newchat;key:kids3,v2:child,v2:male,v1:child,v1:female,weigth:10
+v1;0;T'es peut être un garçon, mais je te fait pleurer quand je veux. / Je mag dan een jongen zijn, ik kan jou laten huilen als het moet.
+v2;30;Même pas vrai! Même pas vrai! / Niet waar! Niet waar!
+
+newchat;key:enderman,v1:adult,v2:child,weigth:10
+v1;0;Sois sage, ou l'homme des limbes t'emportera cette nuit! / Gedraag je of de enderman neemt je mee vanavond
+v2;40;Pfff, j'ai passé l'âge de croire à ces bêtises. / Pfff, ik ben te oud om die nonsens te geloven.
+
+newchat;key:badflirt,v1:adult,v2:adult,v1:nospouse,v2:nospouse,v1:male,v2:female,notrel:sibling,v1:notvtype:monk-priest-abbot,weigth:20
+v1;0;Alors beauté, qu'est ce que tu fais ce soir? / Zo schoonheid, wat ga jij doen vanavond?
+v2;40;$targetfirstname, je t'ai déjà dit non! / $targetfirstname, ik heb al nee gezegd!
+v1;60;Quel caractère! / Zo'n karakter!
+v2;80;Quel nigaud! / Zo'n debiel!
+
+newchat;key:badflirt2,v1:vtype:guard-lumberman,v2:adult,v1:hasspouse,v2:female,notrel:sibling,notrel:parent,notrel:child,weigth:20
+v2;0;$targetfirstname, quels beaux muscles! / $targetfirstname, wat een mooie spieren!
+v1;30;Tais-toi, malheureuse! Si ma femme t'endend... / Wees stil jij idioot! Als mijn vrouw ons hoort dan...
+v2;60;Et bien quoi, bel homme? / Dan wat, knapperd?
+v1;90;Tu sais bien comme elle est jalouse! / Je weet hoe jaloers ze wordt!
+v2;120;Et? Elle te fait peur? / En? Ben je bang voor haar?
+v1;140;Peur? Elle? Quelle blague! / Bang? Voor haar? Je maakt een grap!
+v2;160;Ha!
+
+newchat;key:frerejacques,v1:child,v2:child,weigth:10
+v1;0;Frère Jacques, frère Jacques / Broer John, Broer John
+v2;30;Dormez-vous? Dormez-vous? / Slaap je, slaap je?
+v1;60;Sonnez les matines! Sonnez les matines! / Luid de ochtendklokken! Luid de ochtendklokken!
+v2;100;Ding, daing, dong. Ding, daing, dong!
+
+newchat;key:alouette,v1:child,v2:child,weigth:10
+v1;0;Alouette, gentille alouette, / Kleine veldleeuwerik, leuke kleine veldleeuwerik,
+v2;0;Alouette, gentille alouette, / Kleine veldleeuwerik, leuke kleine veldleeuwerik,
+v1;30;Alouette, je te plumerai. / Kleine leeuwerik, ik pluk je veren eraf.
+v2;30;Alouette, je te plumerai. / Kleine leeuwerik, ik pluk je veren eraf.
+v1;60;Je te plumerai la tête. / Ik pluk de veren van je hoofd.
+v2;60;Je te plumerai la tête. / Ik pluk de veren van je hoofd.
+v1;90;Et la tête! Et la tête / Van je hoofd!
+v2;90;Et la tête! Et la tête! / Van je hoofd!
+v1;120;Pauvre alouette quand même... / Arme veldleeuwerik trouwens...
+v2;160;Pourquoi? C'est drôle! / Waarom? Het is leuk!
+
+newchat;key:loupyesttu,v1:child,v2:child,weigth:10
+v1;0;Promenons-nous dans les bois, / Laat ons in de bossen lopen,
+v2;0;Promenons-nous dans les bois, / Laat ons in de bossen lopen,
+v1;30;Tant que le loup n'y est pas. / Terwijl de wolf weg is.
+v2;30;Tant que le loup n'y est pas. / Terwijl de wolf weg is.
+v1;60;Si le loup y était / Als de wolf er was
+v2;60;Si le loup y était / Als de wolf er was
+v1;90;Il nous mangerait, / Zou hij ons eten,
+v2;90;Il nous mangerait, / Zou hij ons eten,
+v1;120;Mais comme il n'y est pas, / Maar nu hij er niet is,
+v2;120;Mais comme il n'y est pas, / Maar nu hij er niet is,
+v1;150;Il nous mangera pas. / Zal hij ons niet eten.
+v2;150;Il nous mangera pas... / Zal hij ons niet eten...
+v2;180;Euh, tu es sûr? / Euh, weet je dat zeker?
+v1;200;Lâche! / Lafaard!
+
+newchat;key:dagobert,v1:child,v2:child,weigth:10
+v1;0;Le bon roi Dagobert / De goede koning Dagobert
+v1;30;A mis sa culotte à l'envers / Had zijn broek binnenstebuiten.
+v1;60;Le grand saint Éloi / De grote sint Eloy
+v1;90;Lui dit : Ô mon roi ! / Zei hem : Oh mijn koning !
+v1;120;Votre Majesté / Uwe majesteit
+v1;150;Est mal culottée. / Is slecht gebroekt.
+v2;180;Mal culottée? Ca veut dire quoi? / Slecht gebroekt? Wat betekent dat?
+v1;220;Qu'il a pas de culotte! / Dat hij geen broek aanheeft!
+v2;250;N'importe quoi, c'est le roi! / Nonsens, hij is de koning!
+v1;280;Ben il a pas de culotte le roi! / Nou, de koning heeft geen broek!
+v2;310;Même toi t'as une culotte, idiot! / Zelfs jij hebt ze, idioot!
+
+newchat;key:confession,v1:vtype:abbot-priest,v2:male,v2:notvtype:abbot-priest,weigth:10
+v1;0;Mon fils, il y a longtemps que tu ne t'es pas confess�. / Mijn zoon, het is lang geleden sinds je voor het laatst hebt gebiecht.
+v2;40;Mais mon mon Père, je n'ai pas péché! / Maar vader, ik heb niet gezondigd!
+v1;70;Tout le monde pèche dans ce bas monde. / Iedereen zondigd in deze vervallen wereld.
+v2;110;Même vous, mon père? / Zelfs u, vader?
+v1;130;Ne sois pas insolent! Tu feras dix Pater Noster en pénitence! / Genoeg brutaliteit! Jij gaat tien paternoster doen als boete.
+
+newchat;key:confession2,v1:vtype:abbot-monk-priest,v2:female,v2:adult,weigth:10
+v1;0;Mon fille, il y a longtemps que tu ne t'es pas confessée. / Mijn dochter, het is lang geleden dat je voor het laatst gebiecht hebt.
+v2;30;C'est vrai mon père, et j'ai péché! / Dat is waar vader, en ik heb gezondigd!
+v1;60;Si c'est un péché de chair, nous en parlerons ailleurs. / Als het een zonde van het vlees was, hebben we het daar ergens anders over.
+v2;100;Merci, mon père. / Dank u vader!
+v1;120;En attendant, dix Pater Noster. Ca servira toujours! / In de tussentijd, tien paternoster. Altijd nuttig!
+
+newchat;key:carpenter,v1:vtype:carpenter,weigth:10
+v1;0;J'ai encore amélioré ma technique. / Ik heb mijn vaardigheden weer verbeterd.
+v1;30;Avant d'assembler les colombages, je commence par... / Voordat ik frams in elkaar zet begin ik bij...
+v2;70;C'est fascinant. / Fascinerend.
+v1;90;Tu trouves? / Denk je echt?
+v2;110;Non. / Nee.
+
+newchat;key:cattlefarmer,v1:vtype:cattlefarmermale-cattlefarmerfemale,v2:notvtype:cattlefarmermale-cattlefarmerfemale,weigth:10
+v1;0;J'adore préparer des tripes. D'abord, saigner la vache... / Ik hou van tripes maken. Eerst de koe leegbloeden...
+v1;40;Puis extraire les boyaux... / Dan de darmen verzamelen...
+v2;60;Arrête, tu me dégoutes! / Stop ermee, ik walg ervan!
+v1;80;Mais tu adores les tripes! / Maar je bent gek op tripes!
+v2;110;Et je ne veux pas savoir comment elles sont faites. / En ik wil niet weten hoe ze gemaakt worden.
+
+newchat;key:farmer,v1:vtype:farmer,v2:notvtype:farmer,weigth:10
+v1;0;Aucun doute, fermier c'est le métier le plus important. / Geen twijfel, boer is een belangrijke taak.
+v1;40;Sans moi, pas de pain! / Zonder mij was er geen brood!
+v2;60;Je préfère les tripes, de toute façon. / Ik vind tripes toch lekkerder.
+
+newchat;key:guildmaster,v1:vtype:guildmaster,weigth:10
+v1;0;Quand j'étais jeune, j'étais un apprenti très prometteur / Toen ik jong was was ik een veelbelovende leerling.
+v1;40;Guillaume Vif-Argent lui-même s'intéressait à moi!! / Guillaume Vif-Argent was geïnteresseerd in mij!
+v1;80;Et maintenant je suis coincé ici. / En nu zit ik hier vast.
+v1;110;A m'occuper d'abrutis. / Zorg ik voor idioten.
+v2;130;Hein, quoi? / Eh, wat?
+v1;150;*soupir* / *zucht*
+
+newchat;key:knight,v1:vtype:knight,weigth:10
+v1;0;Regarde mon château! Une vraie forteresse! / Kijk naar mijn kasteel! Een echt fort!
+v2;30;Vous êtes si puissant, seigneur! / Je bent machtig, mijn heer!
+v1;60;Quand le Duc Guillaume reviendra, il me fera sûrement Comte! / Als Hertog Willem komt maakt hij me zeker graaf!
+v2;100;Vive le Compte $targetfirstname! / Hoera voor graaf $targetfirstname!
+v1;130;Vive moi! / Hoera voor mij!
+
+newchat;key:lady,v1:vtype:lady,v2:notvtype:knight,weigth:10
+v1;0;Ma beauté est célèbre dans ces contrés. / Mijn schoonheid is legendarisch in deze landen.
+v2;30;Vous êtes superbe, ma Dame! / Je bent prachtig, mijn dame!
+v1;60;Et pourtant j'ai épousé un petit chevalier de rien du tout... / En toch ben ik getrouwd met een slappe, waardeloze ridder...
+v2;100;Mais sa Seigneurie deviendra certainement comte un jour! / Maar zijn heerschap wordt zeker een graafschap één dezer dagen!
+v1;130;Ce nigaud? Ah! Et pourquoi pas Pape, tant qu'à faire? / Deze idioot? En waarom niet paus terwijl jij er bent?
+v2;160;Pourquoi pas, ma Dame! Euh... Je voulais dire... / Waarom niet, mijn dame! Euh... Ik bedoel...
+
+newchat;key:lumberman,v1:vtype:lumberman,weigth:10
+v1;0;Pommes pommes pommes! / Appels appels appels!
+v1;30;Pommes, pommes... pommes! / Appels, appels... appels!
+v2;60;Plutôt cidre cidre cidre dans ton cas, non? / Weet je zeker dat het niet cider cider cider was?
+
+newchat;key:merchant,v1:vtype:merchant,weigth:10
+v1;0;Quel village minable. / Wat een nietig dorpje.
+v2;30;Eh étranger, attention à ce que tu dis! / Hey vreemdeling, pas op wat je zegt!
+v1;70;Et quels habitants charmants! / En wat een leuke mensen!
+
+newchat;key:miner,v1:vtype:merchant,weigth:10
+v1;0;J'ai composé une petite chanson, tu veux l'écouter? / Ik he been klein liedje gemaakt. Wil je er naar luisteren?
+v2;40;Vas-y! / Laat maar horen!
+v1;50;He-ho, He-ho, He-ho, He-ho...
+v2;70;Ca commence bien... / Veelbelovend begin...
+v1;90;Je rentre du boulot! / T'is thuis van het werk daar waar ik ga!
+v2;110;Et moi j'ai beaucoup à faire. / En ik werk nog lekker na.
+
+newchat;key:monk,v1:vtype:monk,v2:child,weigth:10
+v2;0;Frère Jacques, frère Jacques! / Broer John, broer John!
+v1;30;Trés drôle, mon enfant. / Erg leuk, mijn kind.
+v2;60;Dormez-vous? Dormez-vous? / Slaap je, slaap je?
+v1;90;Ca va, ça va, je connais la chanson. / Genoeg, genoeg, ik ken het liedje.
+
+newchat;key:pigherd,v1:vtype:pigherd-pigherdf,v2:notvtype:pigherd-pigherdf,weigth:10
+v1;0;Tout est bon dans le cochon! / Alles is goed met het varken!
+v2;30;Ils font beaucoup de bruit quand tu les égorges, quand même. / Toch maken ze veel te veel herrie als je ze slacht.
+v1;70;Plus le cochon braille, meilleure est la viande! / Des te harder de krijs, des te beter het vlees!
+
+newchat;key:priest,v1:vtype:priest,weigth:10
+v1;0;Je veille sur la santé spirituelle des villageois. / Ik dien de spirituele gezondheid van de burgers.
+v2;30;Et il y a du travail! / En er is te dienen!
+
+newchat;key:priest2,v1:vtype:priest,weigth:10
+v1;0;Notre village craint Dieu. / Ons dorp is bang voor God.
+v2;30;Et son représentant, Père $targetlastname. / En zijn dominee, vader $targetlastname.
+
+newchat;key:seneschal,v1:vtype:seneschal,weigth:10
+v1;0;Je suis très estimé à la cour du Roi le Duc Guillaume. / Ze hebben hoge verwachtingen van me in het hof van Koning Hertog Willem.
+v2;40;Le Roi le Duc? / Koning Hertog?
+v1;60;Sa Majesté Guillaume le Conquérant, Duc de Normandie et Roi d'Angleterre, ignare! / Zijne majesteit Willem de Veroveraar, Hertog van Normandië en koning van Engeland, jij dwaas!
+v2;100;C'est où l'Angleterre? / Waar is Engeland?
+v1;120;De l'autre côte de la mer. Quelle ignorance! / Aan de andere kant van de zee! Zulke onwetendheid.
+v2;140;De quelle mer, Seigneur? / Van welke zee, mijn heer?
+v1;160;Quelle insolence! Il suffit! / Zulke brutaliteit! Genoeg!
+
+newchat;key:shepherd,v1:vtype:shepherd-shepherdf,v2:notvtype:shepherd-shepherdf,weigth:10
+v1;0;Etre berger est un métier très noble. / Herder zijn is een nobel vak.
+v2;30;Noble? Berger? / Nobel? Herder?
+v1;50;N'avons nous pas été choisis par Dieu pour recevoir la Bonne Nouvelle? / Zijn wij niet gekozen door God om het goede nieuws te horen?
+v2;90;Ah, oui. Pendant que vous vous occupiez des agneaux nouveau-nés - en Décembre. / Ah, ja. Terwijl jij zorgde voor de nieuw geboren lammetjes in December.
+v1;130;Et alors? Peut être qu'à Bethléem il n'y a pas de saisons. Comme ici! / En dan? Misschien zijn er in Betlehem geen seizoenen. Zoals hier!
+
+newchat;key:smith,v1:vtype:smith,weigth:10
+v1;0;La vrai force des normands, c'est leurs outils et leurs armes. / De werkelijke kracht van de Normandiërs zit in hun wapens en werktuigen
+v2;40;Et donc leurs forgerons? / En in hun smeden?
+v1;60;Voilà! / Inderdaad!
+
+newchat;key:wife,v1:vtype:wife,v2:male,v2:adult,weigth:10
+v1;0;Pourquoi est-ce toujours les femmes qui construisent? / Waarom moeten vrouwen altijd bouwen?
+v2;40;Si ça te gène, je m'occupe du prochain bâtiment. / Als het je dwars zit doe ik de volgende wel.
+v1;80;Vraiment? Tu es adorable! Alors, pour les rideaux, n'oublie pas de... / Echt! Dat is zo lief! Dus, wat betreft de gordijnen, vergeet niet om...
+v2;120;En fait non, je vais te laisser faire. / Eigenlijk nee, ik denk dat ik het jou laat doen.
+
+newchat;key:alchemyworkshop,villager:alchemistapprentice,v1:notvtype:alchemistapprentice-guildmaster,v2:notvtype:alchemistapprentice-guildmaster,v1:adult,v2:adult,weigth:10
+v1;0;Je suis passé devant l'atelier de l'alchimiste hier. / Ik ben voorbij de alchemist gelopen gisteren.
+v1;40;Il y avait une odeur d'œuf pourris horrible! / Het stonk er naar rotte eieren!
+v2;80;Il paraît qu'il essaye de fabriquer la pierre philosophale! / Ze zeggen dat hij de steen der wijzen probeerde te maken
+v1;120;Moi j'ai entendu qu'il veut résusciter les morts. / Ik heb gehoord dat hij de doden weer wilt laten leven.
+v2;160;Et moi qu'il va fabriquer un monstre avec des cadavres! / En ik dat hij een monster wil maken van lichaamsdelen!
+v1;200;Quelle horreur! / Hoe vreselijk!
+v2;220;C'était un garçon si charmant pourtant... / En hij was zo''n schattige jongen...
+
+newchat;key:archives,building:archives,weigth:10
+v1;0;Tu as visité les nouvelles archives? / Heb je de nieuwe archieven al bezocht?
+v1;30;On y voit ce que tout le monde fait! / Je kan zien wat iedereen doet!
+v2;60;Ah, vraiment... et euh... / Oh, echt... en, euh...
+v1;90;Oui, j'ai vu ton panneau. / Ja, Ik zag jouw paneel.
+v1;120;Tu devrais avoir honte. / Je moet jezelf schamen.
+
+newchat;key:bakery,building:bakery,weigth:10
+v1;0;J'adore l'odeur de pain qui sort de la boulangerie. / Ik hou van de geur van vers gebakken brood bij de bakker.
+v2;40;Il ne nous manque plus que quelqu'un sachant faire des croissants. / Nu moeten we alleen nog iemand vinden die croissants kan maken.
+
+newchat;key:church,building:church,weigth:10
+v1;0;Notre église est vraiment superbe. / Onze kerk is echt mooi!
+v2;30;Elle montre que nous sommes un village pieux. / Het laat zien dat we een vroom dorp zijn.
+v1;60;Et elle est plus grande que celle du village voisin! / En hij is groter dan die van ons buurdorp.
+
+newchat;key:inn,building:inn,v1:notvtype:merchant,v2:notvtype:merchant,weigth:10
+v1;0;Maintenant que nous avons une auberge, nous allons pouvoir commercer! / Nu we een herberg hebben kunnen we handelen!
+v2;40;Autrement dit, les marchands de passage vont se servir dans nos resources. / Met andere woorden, handelaren die voorbij lopen kunnen zichzelf van grondstoffen voorzien.
+v1;80;Tu as toujours été cynique. / Je bent altijd cynisch geweest.
+
+newchat;key:market,building:market,v1:notvtype:merchant,v2:notvtype:merchant,weigth:10
+v1;0;J'adore le marché! Tellement de marchandises superbes! / Ik hou van de markt! Zoveel mooie goederen.
+v2;40;On se sent moins isolé maintenant. / We voelen ons minder geïsoleerd nu hij hier is.
+v2;80;Mais pas plus riches... / Maar niet rijker...
+
+newchat;key:tavern,building:tavern,v1:adult,v2:adult,weigth:10
+v1;0;La taverne est certainement la meilleure chose qu'on est construite. / De taveerne is echt het beste ding dat we hier in het dorp hebben.
+v2;40;Personne ici ne dira le contraire! / Niemand zal dat tegenspreken!
+
+newchat;key:fort,building:tavern,v1:adult,v2:adult,weigth:10
+v1;0;Hahaha! Nous sommes imparables. Nos navires impressionnants et honorables chevaliers sont le fléau du monde!. / Hahaha! Niemand kan ons tegengaan. Onze indrukwekkende boten en eervolle ridders.
+v2;40;Et quels sont nos ennemis? Un groupe de tricksters romains et amoureux de la pierre Maya / En wie zijn onze vijanden? Een paar Romeinse bedriegers en Maya steenliefhebbers?
+v1;80;Ne pas oublier les fous des neiges qui n'ont même pas le concept de l'argent! / Vergeet die sneeuw-dwazen die niet eens de concept van geld hebben niet!
+v2;120;Hahaha! La vie normande est la meilleure du monde! Merveilleux cidre, meilleurs outils. Ah, c'est notre âge d'or! / Hahaha! De Normaanse leven is de beste in de hele wereld. Geweldige Cider, de beste werktuigen. Ah, dit is onze gouden eeuw. 
+v1;160;Et nous arrivons à le partager! / En wij mogen het delen!
+v2;200;Hahaha! / Hahaha!

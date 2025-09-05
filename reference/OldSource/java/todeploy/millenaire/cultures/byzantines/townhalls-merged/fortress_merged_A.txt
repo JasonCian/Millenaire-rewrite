@@ -1,0 +1,40 @@
+//empty shell for tweaks & changes, as building and subbuildings depend on each others progress
+
+building.length=41
+building.width=40
+building.max=0
+building.icon=byzantinemace
+
+travelbook_display=False
+
+initial.startlevel=-4
+initial.nativename=Frourio
+
+//Sequence of the plans
+//building plan - equivalent of the TH
+
+//a0 - fortress_a0
+//a1 - fortress_a_barracks_a0
+//a2 - fortress_a1
+//a3 - fortress_a2
+//a4 - fortress_a3
+//a5 - fortress_a4
+//a6 - fortress_a5
+//a7 - fortress_a_barracks_a1
+//a8 - fortress_a_barracks_a2
+//a9 - fortress_a_armyforge_a0
+//a10 - fortress_a_armyforge_a1
+//a11 - fortress_a_armyforge_a2
+//a12 - fortress_a6
+//a13 - fortress_a_barracks_a3
+//a14 - fortress_a7
+//a15 - fortress_a8
+//a16 - fortress_a9
+//a17 - fortress_a10
+//a18 - fortress_a11
+//a19 - fortress_a12
+//a20 - fortress_a13
+//a21 - fortress_a14
+//a22 - fortress_a15
+//a23 - fortress_a16
+//a24 - fortress_a17

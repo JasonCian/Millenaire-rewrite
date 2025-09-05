@@ -1,0 +1,19 @@
+building.length=13
+building.width=12
+building.max=0
+building.version=2
+building.showtownhallsigns=false
+building.startinggood=bread,1.0,8,16
+
+building.icon=bread
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Moulin à eau isolé
+initial.male=lonemiller
+initial.female=lonewife
+initial.tag=bakery
+initial.tag=leasure
+initial.shop=lonemill
+
+upgrade1.tag=sugarplantation

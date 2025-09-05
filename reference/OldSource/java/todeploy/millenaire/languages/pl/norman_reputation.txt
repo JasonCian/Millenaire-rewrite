@@ -1,0 +1,15 @@
+
+0;Nieznajomy;Jesteśmy ostrożni względem nieznajomych, niemniej handluj z nami uczciwie, a poznasz gościnność tutejszej ludności.
+4*64;Znajoma twarz;Kręciłeś się tu już wcześniej i nie zginęła ani jedna sztuka drobiu. Oby tak dalej, a się dogadamy.
+8*64;Znana twarz;Wygląda na to ,że zrobiłeś na nas dobre wrażenie.
+16*64;Częsty gość;Xaire, $name! Dobrze znów Cię widzieć.
+32*64;Współ-eksplorator;Huh,wyglądasz również na unieruchomionego w tym świecie.Cóż,możemy razem eksplorować te nowe miejsca razem i robić zyski!
+64*64;Ulubiony kupiec;Wszyscy mieszkańcy czekali na Twój powrót.
+2*64*64;Przyjaciel wioski;My Normanowie nie słyniemy z łatwowierności, ale Ty $name, pokazałeś, że naprawdę możemy Ci ufać!
+4*64*64;Sprzymierzeniec;w tym dziwnym świecie każdy potrzebuje sprzymierzeńców.Uważaj nas za takiego,za pomoc jaką nam udzieliłeś.
+8*64*64;Jeden z nas;Zawsze miło Cię gościć $name. Może i pochodzisz z dalekich krain, ale tak naprawdę jesteś jednym z nas.
+32*64*64;Urodzony przywódca;$name, zasłużyłeś na zaufanie i szacunek ludu Normanów. Podążymy za Tobą wszędzie.
+16*32*64*64;Następca Kinnikena;
+-64;Utrapieniec;Obserwujemy Cię, $name. Pilnuj się.
+-4*64;Niepożądany obcy;Jesteś strasznie upierdliwy. Ciesz się, że jeszcze cię stąd nie wykopaliśmy.
+-16*64;Wróg publiczny numer jeden;Twoje wybryki nie będą dłużej tolerowane. Jeden fałszywy ruch i będziesz trupem.

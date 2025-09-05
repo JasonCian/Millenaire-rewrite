@@ -1,0 +1,10 @@
+﻿version:3.4
+<darkblue>By expansion
+
+Alla byar börjar runt en central byggnad (typ ett fort, palats, kloster, osv... även kallat "Central affär") samt med vissa nadra byggnader. Bybornas mål är att expandera byn genom att bygga nya byggnader och att uppgradera befintliga byggnader. Av denna anledning behöver de resurser - som de kan producera själva (Skogshuggare samlar trä och gruvarbetare samlar sten...) Men måste vända sig till spelaren för vissa. De matrial de behöver för en byggnad visas i huvudbyggnaden (Central affär) du kan hjälpa dom genom att sälja resursena till dom
+
+Byns population kommer att öka med tiden - under natten så kommer gifta par att försöka få barn. När de sedan har växt upp så kommer dessa barnen att flytta till ett eget hus om det finns och att bli vuxena.
+
+Expansionen av byn kan upphöra på två sätt; antigen genom at ha byggta alla byggnader eller för att det inte finns någon plats, du kan se på kartan om ett ställe inte kan byggas på. Det är ibland möjligt att göra en plats byggbar genom att tillexempel att fylla igen en sjö.
+
+Ibland så kan en by behöva ett block som de inte kan skapa själva, som tillexempel Normanska eller japanska trä ramar. Du måste vänta tills byn bygger en verkstad och sätter ett barn där som arbetare.

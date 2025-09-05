@@ -1,0 +1,26 @@
+//Note pour les utilisateurs de Windows: si vous voyez le fichier entier sur une seule ligne, ouvrez-le avec PSPAd ou UltraEdit plutôt que Notepad
+
+//Note to Windows users: if you see the entire file in one line, open it using PSPad or UltraEdit instead of Notepad
+
+priority=50
+
+
+//spécifier si l'étiquette ou les phrases pour ce but n'ont pas le code du but lui-même
+//specify if the label and sentences for this goal is not the name of the goal itself
+sentencekey=plantflowers
+labelkey=plantflowers
+
+//objets tenus par le villageois
+heldItems=dye_white
+
+//Type de plante
+//Type of plant
+croptype=flower
+
+plantblockstate=yellow_flower;type=dandelion
+
+soiltype=grass
+
+//Objet "graine" (optionnel)
+//"Seed" object (optional)
+seed=dye_white

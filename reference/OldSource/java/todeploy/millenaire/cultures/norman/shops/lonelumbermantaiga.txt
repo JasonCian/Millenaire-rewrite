@@ -1,0 +1,3 @@
+sells=wood_pine
+
+buys=bread,normanAxe,normanShovel

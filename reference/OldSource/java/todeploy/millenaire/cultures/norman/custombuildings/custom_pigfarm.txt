@@ -1,0 +1,1 @@
+native:Elevage Porcin;gameNameKey:pigfarm_A0;male:pigherd;female:pigherdF;moveinpriority:10;shop:pigfarm;tag:pigs;tag:Oven;chest:1-5;craft:1;sign:1;spawn:2-4;spawnType:Pig;radius:10

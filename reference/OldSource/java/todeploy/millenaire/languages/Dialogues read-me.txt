@@ -1,0 +1,59 @@
+Explanation on dialogues:
+
+"key" must be unique in this culture
+"weight" indicates the change that this dialogue will be selected (if valid)
+"v1" indicates a restriction on the first villager, "v2" on the second. These restrictions can be:
+adult: must be an adult
+child: must be an child
+male: must be a man or boy
+female: must be a woman or girl
+hasspouse: must be married
+nospouse: must be unmarried
+vtype: must be of this type of villager. It's possible to put several options, separated by dashes. Ex: vtype:guard-lumberman
+novtype: cannot be of this type. Ex: novtype:monk-priest-abbot
+
+"rel" indicates a required relationship between the two villagers. Values ​​can be:
+"spouse": the two villagers are married
+"parent": v1 is the parent of v2
+"child": v1 is a child of v2
+"sibling": v1 and v2 are siblings
+
+"notrel" accepts the same relationship types as rel but the relationship is forbidden
+
+"building" means a building that must exist in the village
+"notbuilding" means a building that does not exist in the village
+
+"villager" means a villager type that must exist in the village
+"notvillager" means a villager type that does not exist in the village
+
+"tag" means a special condition that has to be true. Those conditions can currently be:
+"raining": it's raining (or snowing) in the world (even if it's not over the villagers, like in deserts)
+"notraining": the opposite
+
+These criteria are cumulative: they must all be valid for a dialogue to be valid.
+
+Examples:
+
+Dialogues between a man and a woman, both unmarried, who are not siblings, and where the man is neither a priest nor a monk
+
+newchat;key:badflirt,v1:adult,v2:adult,v1:nospouse,v2:nospouse,v1:male,v2:female,notrel:sibling,v1:novtype:monk-priest-abbot,weigth:20
+
+Dialogue between a knight and a lumberman in a village without a tavern:
+
+newchat;key:letsbuildatavern,v1:vtype:lumberman,v2:knight,notbuilding:tavern,weigth:20
+
+Dialogue in a village with an alchemist apprentice, between two adults that are neither alchemist apprentices nor guild masters:
+
+newchat;key:alchemyworkshop,villager:alchemistapprentice,v1:notvtype:alchemistapprentice-guildmaster,v2:notvtype:alchemistapprentice-guildmaster,v1:adult,v2:adult,weigth:10
+
+
+The sentences come after the conditions, with three values:
+- The person who says it (v1 or v2)
+- The moment when to say it after the beginning of the dialogue (in "ticks" - a second is 20 ticks)
+- The sentence itself with a "/" to separate the sentence into the language of the village (displayed in blue in the game) and in the language of the player (in red). 
+- the sentence can include the name of the player ("$name"), the first name of the other person ("$targetfirstname") and his last name ("$targetlastname")
+
+
+For example, a sentence part of a Hindi dialogue said on tick 30 by the second villager:
+
+v2;30;Sab kuch thik hai, $targetfirstname! / Everything is fine, $targetfirstname!

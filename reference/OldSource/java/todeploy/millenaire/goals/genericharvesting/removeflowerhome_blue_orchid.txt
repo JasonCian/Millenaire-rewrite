@@ -1,0 +1,25 @@
+//Note pour les utilisateurs de Windows: si vous voyez le fichier entier sur une seule ligne, ouvrez-le avec PSPAd ou UltraEdit plutôt que Notepad
+
+//Note to Windows users: if you see the entire file in one line, open it using PSPad or UltraEdit instead of Notepad
+
+priority=35
+
+
+//spécifier si l'étiquette ou les phrases pour ce but n'ont pas le code du but lui-même
+//specify if the label and sentences for this goal is not the name of the goal itself
+sentencekey=collectflowers
+labelkey=collectflowers
+
+//Type de plante
+//Type of plant
+croptype=flower
+
+harvestblockstate=red_flower;type=blue_orchid
+
+//Objets obtenus lors de la requête, avec % de chance
+//Items gained during harvest, with the chance %
+harvestitem=dye_lightblue,0
+
+helditemsoffhand=dye_lightblue
+
+buildinglimit=dye_lightblue,16

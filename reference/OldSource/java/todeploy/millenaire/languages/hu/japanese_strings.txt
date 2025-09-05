@@ -1,0 +1,38 @@
+culture.japanese=japán
+
+villager.japanese_boy=Fiú
+villager.japanese_girl=Lány
+villager.japanese_teenagermale=Legény
+villager.japanese_teenagerfemale=Hajadon
+villager.japanese_lumberman=Favágó
+villager.japanese_miner=Bányász
+villager.japanese_loneminer=Bányász
+villager.japanese_monk=Szerzetes
+villager.japanese_peasant=Paraszt
+villager.japanese_peasantwife=Parasztasszony
+villager.japanese_samuraigeneral=Szamuráj
+villager.japanese_richwoman=Gazdag hölgy
+villager.japanese_samurai=Harcos
+villager.japanese_emperor=Emperor
+villager.japanese_crafter=Kézműves
+villager.japanese_armysmith=Kovácsmester
+villager.japanese_sculptor=Kőfaragó, Szobrász
+villager.japanese_kuge=Nemes
+villager.japanese_merchant=Kereskedő
+villager.japanese_chickenfarmer=Baromfitenyész
+villager.japanese_smith=Kovács
+villager.japanese_fisherman=Halász
+villager.japanese_farmer=Búzatermesztő Farmer
+villager.japanese_farmerchief=Gazdavezér
+villager.japanese_farmwife=Földművesnő
+villager.japanese_womanservant=Cseléd
+villager.japanese_merchant_food=Ételkereskedő
+villager.japanese_merchant_blacksmith=Szerszámkereskedő
+villager.japanese_bravewoman=Bátor nő
+
+
+shop.japanesetownhall=Központi üzlet
+shop.forge=Szerszámok
+shop.armyforge=Páncélok és fegyverek
+shop.japanesecrafter=Papír
+shop.kitchen=Étel

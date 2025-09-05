@@ -1,0 +1,20 @@
+{
+    "display": {
+        "icon": {
+            "item": "millenaire:paper_wall"
+        },
+        "title": {
+            "translate": "advancements.complete_japanese.name"
+        },
+        "description": {
+            "translate": "advancements.complete_japanese.desc"
+        },
+        "frame": "goal"
+    },
+    "parent": "millenaire:leader_japanese",
+    "criteria": {
+        "complete_japanese": {
+            "trigger": "complete_japanese"
+        }
+    }
+}

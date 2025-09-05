@@ -1,0 +1,17 @@
+name=Adivasi ka Ghar
+weight=12
+radius=30
+
+//Vanilla Biomes
+biome=Swampland
+biome=Swampland M
+
+//biomes o'plenty
+biome=bayou
+biome=lush swamp
+
+//starting buildings=
+centre=adivasifarm
+
+start=paddy
+start=spicegarden

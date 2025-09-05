@@ -1,0 +1,4 @@
+sells=bread,cake,sugar
+buys=cider,calva,normanHoe,normanShovel
+
+deliverto=wheat,sugarcane

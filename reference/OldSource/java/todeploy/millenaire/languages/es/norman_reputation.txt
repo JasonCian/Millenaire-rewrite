@@ -1,0 +1,17 @@
+//* La parte antes del ";" es el título, después de eso va la descripción.
+
+
+0;Extranjero;Somos concientes de los extraños por aquí, recién llegado. Esperamos que seas honesto con nosotros y no seas hostil con la gente.
+4*64;Conocido;Te hemos visto por aquí antes y ninguno de los pollos ha desaparecido. Por el momento nos llevamos bien.
+8*64;Cara Conocida;Parece que has creado una buena primera impresión en muchos de nosotros.
+16*64;Visitante Regular;¡Bienvenido $name! Nos alegra verte por aqui.
+32*64;Compañero Explorador;Huh, parece que también estás varado en este mundo. ¡Bien, podemos explorar este nuevo lugar juntos y sacar beneficio!
+64*64;Comerciante Favorito;¡Ah, $name! Todo el pueblo te estaba esperando para comerciar.
+2*64*64;Amigo del Pueblo; Nuestro pueblo no suele confiar en los forasteros con facilidad. Pero $name, mi buen amigo, tú has demostrado ser de confianza.
+4*64*64;Aliado;En este mundo extraño, todos necesitan aliados. Considéranos uno, por toda la ayuda que nos has brindado.
+8*64*64;Uno de los Nuestros; Siempre es un placer verte $name. Vienes de un país lejano, pero ya eres uno de nosotros.
+32*64*64;Líder Natural;$name, Te has ganado la confianza y la fidelidad del pueblo normando. Te seguirán a donde vayas.
+16*32*64*64;El Siguiente Kinniken;
+-64;Molestia; Te estamos observando $name. Estate alerta.
+-4*64;Forastero Indeseable; Has demostrado ser una verdadera molestia por aqui. Tienes suerte de que no te hallamos echado.
+-16*64;Enemigo Público; Tu presencia aqui es casi insoportable. Un movimiento en falso y eres hombre muerto.

@@ -1,0 +1,92 @@
+﻿villager.greeting=Bonjour, $name! / Hej, $name!
+villager.greeting=Belle journée, n'est ce pas? / Visst är det en underbar dag?
+villager.greeting=Il va pleuvoir, je le sens / Det kommer börja regna. Jag kan känna det.
+villager.greeting=Je ne me souvenais pas de la Normandie comme ça. / Jag minns inte, Normandie riktigt så.
+guard.greeting=Vous avez l'air un peu faible, $name. Je vous protègerais si vous avez des ennuis. / Du ser lite svag ut, $name. Jag ska skydda dig om du får problem.
+priest.greeting=Soyez béni, mon fils. / Välsignelser på dig, min son.
+monk.greeting=Dieu soit avec toi, mon frère. / Gud vare med dig, broder.
+boy.greeting=Quand je serai grand, je veux être comme papa. / När jag blir stor vill jag bli som pappa!
+knight.greeting=Je n'obéi qu'au Roi Guillaume, Duc de Normandie, et à Dieu. Dans cet ordre. / Jag lyder bara King William, hertig av Normandie, och Gud. I den ordningen.
+knight.greeting=$name, saviez-vous que j'ai combattu à Hastings? / $name, visste du att jag kämpade vid Hastings?
+knight.greeting=Je prend possession de cette terre au nom du Duc de Normandie! / Jag ger detta främmande land till hertigen av Normandie!
+lady.greeting=Ma sœur a épousé un duc. Je vis ici. / Min syster gifte sig med en hertig. Jag bor här.
+lady.greeting=Vous auriez dû voir le château de mon père. Ca c'était une vrai forteresse. / Du skulle ha sett min fars slott. Det var en imponerande fästning.
+viking_merchant.greeting=Cette terre appartient aux vikings. L'Angleterre aussi. La Sicile aussi. Vive nous! / Detta land är vikinga mark. England är vikinga mark. Sicilien är vikinga mark. Vi är bäst!
+viking_merchant.greeting=Aujourd'hui je vient commercer. Demain... / Idag har jag kommit för att handla. I morgon...
+weapon_merchant.greeting=Vous voulez vraiment savoir comment j'ai survécu toutes ces années voyageant seul avec des marchandises précieuses? / Vill du veta hur jag överlevt alla dessa år med att resa ensam med värdefulla handelsvaror?
+plant_merchant.greeting= / Vissa människor säger att jag är en drömmare, men jag är inte den enda...
+oriental_merchant.greeting=Ce pays est riche, mais fallait il vraiment qu'il soit si froid? / Detta land är rikt, men måste det vara så kallt?
+oriental_merchant.greeting=Etes vous allez à Cordoue? Ca, c'est une ville civilisée. / Har du varit i Cordoba? Det är ett civiliserat ställe.
+art_merchant.greeting=Les gens ici sont des barbares. / Folket här är barbarer.
+art_merchant.greeting=Aucune ville dans le monde n'est comparable à Constantinople. / Ingen stad i världen kan jämföras med Konstantinopel.
+art_merchant.greeting=Nous les byzantins sont les derniers vrais romans. Admirez notre civilisation! / Vi Byzantineser är de sista sanna romarna. Sola sig i glansen av vår civilisation.
+wool_merchant.greeting=Les textiles hollandais sont les meilleurs à l'ouest de Cathay. / Holländska textilier är de finaste väster om Cathay.
+seneschal.greeting=Je gère ces terres pour mon roi. / Jag övervakar dessa marker för min kung.
+seneschal.greeting=J'ai hâte de retourner à la cours du roi. / Jag är otålig att få gå tillbaka till det kungliga hovet.
+guildmaster.greeting=Les artisans ne valent rien sans quelqu'un pour les superviser. / Hantverkare är inte bra utan någon som övervakar dem.
+
+knight.patrol=Je reigne sur ces terres. / Jag styr dessa länder.
+knight.patrol=La force fait le droit, et je suis fort. / Makt är rätt, och jag är mäktig.
+
+lady.MakeTapestry=Personne ici n'apprécie l'art. / Ingen här uppskattar konst.
+lady.MakeTapestry=Peut-être que ces pièces seront moins glauques avec ces tapisseries. Peut-être. / Kanske kommer denna plats att se mindre tråkig ut med de här på väggarna. Kanske.
+
+villager.gorest=Un peu de repos me ferait du bien... / Jag skulle kanske vila lite...
+villager.gorest=La vie ici est un peu morne. / Livet här är lite tråkigt.
+villager.gorest=Rien d'intéressant n'arrive jamais ici. / Inget spännande händer någonsin här.
+villager.gorest=Je suis fatigué. / Jag är trött.
+villager.godrink=C'est à boire qu'il nous faut! / Jag behöver en drink!
+villager.godrink=Un cidre n'a jamais fait de mal à personne. / En cider skadar aldrig någon.
+villager.gopray=Je parle à Dieu, pas vous, $name. / Jag pratar med Gud, inte dig, $name.
+
+farmer.BringBackResourcesHome=Récoltons ce blé doré. / Låt oss föra tillbaka det gyllene vetet.
+farmer.CollectCrop=On dirait que le blé est mûr. / Ser ut som vetet är mogen.
+farmer.PlantSeeds=Je plante, et je récolterai. / Jag sår, och sen ska jag att skörda.
+
+lumberman.BringBackResourcesHome=Même ma femme devra admettre que c’est beaucoup de bois. / Även hustrun måste erkänna att är en massa trä.
+lumberman.ChopTrees=Regardez-moi couper cet arbre ! / Titta när jag hugger ner det här trädet!
+lumberman.GatherGoods=Bel arbrisseau là-bas. / Snygg planta där borta.
+lumberman.PlantSaplings=Bientôt ce sera un arbre magnifique ! Et je le couperai. / Snart kommer detta att bli en stor, majestätisk träd! Och jag ska hugga ner det.
+
+wife.GetHouseTHResources=On dirai que mon mari a travaillé pour une fois. / Ser ut som min lata man producerat något för en gångs skull
+wife.GetResourcesForBuild=Je part chercher une tonne ou deux de matérieaux. Je suis plus forte que j’en ai l’air ! / Sticker för att plocka upp ett ton eller två av byggmaterial. Jag är starkare än jag ser ut.
+//villager.DeliverResourcesShop=
+wife.MakeBread=Mon pain est le meilleure du village. / Mitt bröd är det bästa i byn.
+//villager.BeSeller=Coming, coming!
+wife.MakeCider=Préparer le cidre n’est pas le pire travail par ici. / Förbereda cider är inte det värsta jobbet häromkring.
+wife.Construction=Je construit, je construit, comme seule une femme le peu ! / Bygger, bygger, som bara en kvinna kan!
+wife.Construction=Les hommes n’ont pas la finesse nécessaire au travail de précision. / Män har inte den rätta känslan som behövs för precisionsarbete.
+wife.Construction=Ca va être un bâtiment superbe. / Detta kommer att bli ett fint bygge.
+wife.GetGoodsHousehold=Pourquoi est ce toujours moi qui doit tout aller chercher ? / Varför är jag alltid den som skickas för att plocka upp saker?
+wife.DeliverGoodsHousehold="Vas chercher ça, vas chercher ça", ils me disent. Un jour je refuserais ! /  "Hämta det här, hämta det där", säger de. En dag skall jag vägra! Jag skall vägra!
+
+villager.GoPlay=Je vais aller jouer dehors. / Jag tror jag ska gå och leka utomhus.
+villager.BecomeAdult=Il est l’heure de devenir quelqu’un ! / Dags att bli något i den här världen!
+
+villager.MakeBoudin=Vous ne le mangeriez pas si vous saviez comment c’est fait. / Du skulle inte äta det om du visste hur den gjordes.
+
+smith.MakeTools=Les outils normands sont les meilleurs du monde. / Normanska verktyg är de finaste i världen.
+
+miner.Mining=Miner est un art, vous savez. / Hugga sten är en konst, vet du.
+miner.Mining=Personne d’autre dans le village n’a la force et l’endurance nécessaire à ce travail. Et vous pensez qu’ils sont reconnaissants ? / Ingen annan i byn har den styrka och uthållighet som krävs för att göra detta jobb. Och vilket tack får jag?
+miner.Cooking=Ca c’est de la vrai cuisson. / Det här allvarligt matlagning.
+
+villager.gopray.chosen=Ca fait longtemps que je n’ai pas prié… / Länge sedan jag bad senast...
+priest.gopray.chosen=Prier est plus dur qu’il n’y paraît. / Att be är mer arbete än det ser ut.
+
+villager.calltoarms=Aux armes ! Aux armes ! / Till vapen! Till vapen!
+villager.calltoarms=Montjoi Saint-Denis!
+villager.calltoarms=Tous pour un ! / Alla för en!
+villager.calltoarms=Aux armes, citoyens! / Till vapen, medborgare!
+
+monk.makebooks=Si la vanité n’était pas un péché, je dirai que mes manuscrits sont les plus beaux du pays. / Om fåfänga inte var en synd, skulle jag säga att mina manuskript är de finaste i landet.
+
+priest.makeamulets=Ceci ne devrait pas être vu par un étranger… / Detta bör inte ses av utomstående...
+
+viking_merchant.KeepStall=La magie viking est puissance. / Vikinga magi är kraftfull magi.
+viking_merchant.KeepStall=Venez et achetez. Je ne vous parlerai pas des sacrifices nécessaires pour rendre ces amulettes puissantes. / Kom och köp. Jag kommer inte berätta vilka uppoffringar som gjordes för att göra dessa amuletter starka.
+weapon_merchant.KeepStall=Vous ne voulez pas savoir ce qui est arrivé à l’homme qui m’a fait cette cicatrice. Mais vous pouvez acheter la lame que j’ai utilisée. / Du vill inte veta vad som hände med mannen som gav mig mitt ärr. Men du kan köpa klingan jag använde.
+plant_merchant.KeepStall=Je vend toutes les herbes dont vous aurez jamais besoin. / Jag säljer alla de örter du någonsin behöver.
+oriental_merchant.KeepStall=Venez voir des produits de luxes tels que les gens d’ici ne voient jamais ! / Kom och se lyx vars like folk här bara drömmer om!
+art_merchant.KeepStall=Des perles pour des cochons, comme ils disent ici. / Pärlor före svin, som man säger här.
+wool_merchant.KeepStall=Toute la laine rose qu’il vous faut ! / All rosa ull du någonsin kommer behöva!

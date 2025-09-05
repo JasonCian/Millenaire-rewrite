@@ -1,0 +1,39 @@
+//Parameters for the building as a whole
+building.length=35
+building.width=25
+building.buildingorientation=3
+building.startingsubbuilding=manor_A_inn
+building.max=0
+building.version=2
+building.icon=bookshelves
+
+
+//Parameters for initial construction
+initial.startlevel=-9
+initial.nativename=Manoir
+initial.priority=600
+initial.male=seneschal
+initial.female=lady
+initial.tag=leasure
+initial.shop=townhall
+initial.signs=5,3,1,2,4,6,8,0,7
+
+//Parameters for specific upgrades
+upgrade3.priority=580
+
+upgrade4.priority=560
+upgrade4.rebuildpath=true
+
+upgrade5.priority=540
+upgrade5.rebuildpath=false
+
+upgrade6.priority=520
+
+upgrade7.priority=500
+
+upgrade8.priority=480
+upgrade8.tag=garden
+
+upgrade9.priority=460
+
+upgrade10.priority=440

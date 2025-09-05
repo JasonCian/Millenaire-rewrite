@@ -1,0 +1,10 @@
+0;Straniero;Noi non accettiamo stranieri facilmente. Comportati bene.
+4*64;Faccia conosciuta;Ti abbiamo visto in giro prima, ma questo non significa che abbiamo fiducia in te.
+16*64;Visitatore regolare;Come è stato il tuoi viaggio $name?
+64*64;Commerciante preferito;Ah, $name, hai fatto molta strada agli occhi degli abitanti del villaggio.
+2*64*64;Amico del villaggio;Ciao amico, cosa possiamo fare per te oggi?
+8*64*64;Uno di noi;Ciao, $name, siamo stati in attesa del tuo ritorno con grande aspettativa.
+32*64*64;Leader naturale;$name, Ti sei guadagnato la fiducia e il rispetto della mia gente. Ti seguiranno ovunque. 
+-64;Scocciatore;Oh sei tu, cosa vuoi?
+-4*64;Straniero spiacevole;Lascia il nostro villaggio adesso, porco!
+-16*64;Nemico pubblico;Come osi farti vedere qui. Affronta la tua punizione!

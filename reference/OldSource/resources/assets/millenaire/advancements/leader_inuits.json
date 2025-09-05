@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "millenaire:furhelmet"
+        },
+        "title": {
+            "translate": "advancements.leader_inuits.name"
+        },
+        "description": {
+            "translate": "advancements.leader_inuits.desc"
+        }
+    },
+    "parent": "millenaire:rep_inuits",
+    "criteria": {
+        "leader_inuits": {
+            "trigger": "leader_inuits"
+        }
+    }
+}

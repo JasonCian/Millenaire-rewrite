@@ -1,0 +1,1 @@
+native:Muul;gameNameKey:mayanplayerpyramid_A0;craft:1;chest:6-20;sign:9;radius:10;shop:mayantownhall;tag:leasure;tag:playerth;tag:Patrol;male:mayan_boy;male:mayan_boy;male:mayan_boy;female:mayan_girl;female:mayan_girl;female:mayan_girl

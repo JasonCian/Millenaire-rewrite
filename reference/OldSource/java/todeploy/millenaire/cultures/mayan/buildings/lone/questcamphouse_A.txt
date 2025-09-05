@@ -1,0 +1,19 @@
+//Parameters for the building as a whole
+building.length=9
+building.width=7
+building.startinggood=denier,1.0,4,4
+building.startinggood=masa,1.0,3,5
+building.startinggood=bow,1.0,1,4
+building.startinggood=arrow,1.0,16,32
+
+building.travelbook_display=false
+building.icon=mayanmace
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Kanan Otoch
+initial.male=questkingwarrior
+initial.male=questkingwarrior
+initial.male=questkingscout
+initial.tag=nopaths
+

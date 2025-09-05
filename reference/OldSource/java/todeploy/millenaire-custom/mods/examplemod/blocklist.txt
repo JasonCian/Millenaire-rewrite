@@ -1,0 +1,15 @@
+//Note pour les utilisateurs de Windows: si vous voyez le fichier entier sur une seule ligne, ouvrez-le avec PSPAd ou UltraEdit plutôt que Notepad
+
+//le nom n'est qu'indicatif
+//la première valeur après est l'id du block, la deuxième la valeur meta
+//la troisième est si le bloc doit être placé après les autres blocks (torche par exemple)
+//enfin la couleur en RVB
+
+//Note to Windows users: if you see the entire file in one line, open it using PSPad or UltraEdit instead of Notepad
+
+//name is only indicative
+//first value after is the blockId, second the meta value
+//third whether it should be placed after the other blocks (torch for example)
+//fourth the colour in RGB
+
+dragonEgg;122;0;false;115/0/0

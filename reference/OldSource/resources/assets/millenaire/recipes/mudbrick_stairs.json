@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "millenaire:stone_deco",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "millenaire:stairs_mudbrick",
+    "count": 4
+  }
+}

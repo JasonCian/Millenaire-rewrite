@@ -1,0 +1,140 @@
+name=Ipqitchuq
+icon=inuitcarving
+weight=10
+
+carriesraid=true
+
+pathmaterial=pathsnow
+
+biome=ice plains
+biome=ice plains spikes
+biome=cold taiga
+biome=cold taiga m
+biome=cold taiga hills
+biome=frozen river
+
+//BoP mod
+
+biome=alps
+biome=boreal forest
+biome=cold desert
+biome=dead forest
+biome=snowy coniferous forest
+biome=snowy forest
+biome=tundra
+biome=glacier
+
+outerwallType=borderposts
+
+//starting buildings=
+centre=shamanistic
+start=lumberman
+start=lake
+start=flower
+start=flower
+start=flower
+start=grove
+start=animistic
+
+
+//player buildings=
+player=playeriglu
+player=playercampsite
+player=playerlargegrove
+player=playersmallhouse
+player=playermedhouse
+player=playerlargehouse
+
+//to be built in priority
+core=sodder
+core=offering2
+core=foodprephouse
+
+//to be built after the core ones
+secondary=foodpreparer
+secondary=hunter
+secondary=market
+secondary=grove
+secondary=guesthouse
+secondary=carver
+
+never=armoury
+never=shaman
+never=farmw
+never=farmp
+never=tannery
+never=council
+never=offering
+never=armourerhouse
+
+//Selling prices=
+sellingPrice=bread,7
+
+
+//Buying prices=
+
+//banner patterns
+banner_json={BlockEntityTag:{Base:15,Patterns:[{Pattern:tts,Color:2},{Pattern:bts,Color:2},{Pattern:mr,Color:2},{Pattern:flo,Color:2}]}}
+banner_json={BlockEntityTag:{Base:15,Patterns:[{Pattern:tts,Color:3},{Pattern:bts,Color:3},{Pattern:mr,Color:3},{Pattern:flo,Color:3}]}}
+banner_json={BlockEntityTag:{Base:14,Patterns:[{Pattern:bri,Color:15},{Pattern:iu3,Color:0}]}}
+banner_json={BlockEntityTag:{Base:14,Patterns:[{Pattern:bri,Color:15},{Pattern:iu3,Color:3}]}}
+banner_json={BlockEntityTag:{Base:14,Patterns:[{Pattern:bri,Color:15},{Pattern:iu3,Color:4}]}}
+banner_json={BlockEntityTag:{Base:14,Patterns:[{Pattern:bri,Color:15},{Pattern:iu3,Color:6}]}}
+banner_json={BlockEntityTag:{Base:14,Patterns:[{Pattern:bri,Color:15},{Pattern:iu3,Color:12}]}}
+banner_json={BlockEntityTag:{Base:7,Patterns:[{Pattern:bri,Color:15},{Pattern:iu3,Color:0}]}}
+banner_json={BlockEntityTag:{Base:7,Patterns:[{Pattern:bri,Color:15},{Pattern:iu3,Color:3}]}}
+banner_json={BlockEntityTag:{Base:7,Patterns:[{Pattern:bri,Color:15},{Pattern:iu3,Color:4}]}}
+banner_json={BlockEntityTag:{Base:7,Patterns:[{Pattern:bri,Color:15},{Pattern:iu3,Color:6}]}}
+banner_json={BlockEntityTag:{Base:7,Patterns:[{Pattern:bri,Color:15},{Pattern:iu3,Color:12}]}}
+banner_json={BlockEntityTag:{Base:8,Patterns:[{Pattern:bri,Color:15},{Pattern:iu3,Color:0}]}}
+banner_json={BlockEntityTag:{Base:8,Patterns:[{Pattern:bri,Color:15},{Pattern:iu3,Color:3}]}}
+banner_json={BlockEntityTag:{Base:8,Patterns:[{Pattern:bri,Color:15},{Pattern:iu3,Color:4}]}}
+banner_json={BlockEntityTag:{Base:8,Patterns:[{Pattern:bri,Color:15},{Pattern:iu3,Color:6}]}}
+banner_json={BlockEntityTag:{Base:8,Patterns:[{Pattern:bri,Color:15},{Pattern:iu3,Color:12}]}}
+banner_json={BlockEntityTag:{Base:0,Patterns:[{Pattern:bri,Color:15},{Pattern:iu3,Color:0}]}}
+banner_json={BlockEntityTag:{Base:0,Patterns:[{Pattern:bri,Color:15},{Pattern:iu3,Color:3}]}}
+banner_json={BlockEntityTag:{Base:0,Patterns:[{Pattern:bri,Color:15},{Pattern:iu3,Color:4}]}}
+banner_json={BlockEntityTag:{Base:0,Patterns:[{Pattern:bri,Color:15},{Pattern:iu3,Color:6}]}}
+banner_json={BlockEntityTag:{Base:0,Patterns:[{Pattern:bri,Color:15},{Pattern:iu3,Color:12}]}}
+banner_json={BlockEntityTag:{Base:12,Patterns:[{Pattern:bri,Color:15},{Pattern:iu3,Color:0}]}}
+banner_json={BlockEntityTag:{Base:12,Patterns:[{Pattern:bri,Color:15},{Pattern:iu3,Color:3}]}}
+banner_json={BlockEntityTag:{Base:12,Patterns:[{Pattern:bri,Color:15},{Pattern:iu3,Color:4}]}}
+banner_json={BlockEntityTag:{Base:12,Patterns:[{Pattern:bri,Color:15},{Pattern:iu3,Color:6}]}}
+banner_json={BlockEntityTag:{Base:12,Patterns:[{Pattern:bri,Color:15},{Pattern:iu3,Color:14}]}}
+banner_json={BlockEntityTag:{Base:3,Patterns:[{Pattern:ss,Color:15},{Pattern:iu1,Color:14}]}}
+banner_json={BlockEntityTag:{Base:3,Patterns:[{Pattern:ss,Color:15},{Pattern:iu1,Color:8}]}}
+banner_json={BlockEntityTag:{Base:3,Patterns:[{Pattern:ss,Color:15},{Pattern:iu1,Color:2}]}}
+banner_json={BlockEntityTag:{Base:3,Patterns:[{Pattern:ss,Color:15},{Pattern:iu1,Color:1}]}}
+banner_json={BlockEntityTag:{Base:3,Patterns:[{Pattern:ss,Color:15},{Pattern:iu1,Color:0}]}}
+banner_json={BlockEntityTag:{Base:0,Patterns:[{Pattern:ss,Color:15},{Pattern:iu1,Color:14}]}}
+banner_json={BlockEntityTag:{Base:0,Patterns:[{Pattern:ss,Color:15},{Pattern:iu1,Color:8}]}}
+banner_json={BlockEntityTag:{Base:0,Patterns:[{Pattern:ss,Color:15},{Pattern:iu1,Color:2}]}}
+banner_json={BlockEntityTag:{Base:0,Patterns:[{Pattern:ss,Color:15},{Pattern:iu1,Color:1}]}}
+banner_json={BlockEntityTag:{Base:0,Patterns:[{Pattern:ss,Color:15},{Pattern:iu1,Color:3}]}}
+banner_json={BlockEntityTag:{Base:2,Patterns:[{Pattern:ss,Color:15},{Pattern:iu1,Color:14}]}}
+banner_json={BlockEntityTag:{Base:2,Patterns:[{Pattern:ss,Color:15},{Pattern:iu1,Color:8}]}}
+banner_json={BlockEntityTag:{Base:2,Patterns:[{Pattern:ss,Color:15},{Pattern:iu1,Color:3}]}}
+banner_json={BlockEntityTag:{Base:2,Patterns:[{Pattern:ss,Color:15},{Pattern:iu1,Color:1}]}}
+banner_json={BlockEntityTag:{Base:2,Patterns:[{Pattern:ss,Color:15},{Pattern:iu1,Color:0}]}}
+banner_json={BlockEntityTag:{Base:7,Patterns:[{Pattern:ss,Color:15},{Pattern:iu1,Color:14}]}}
+banner_json={BlockEntityTag:{Base:7,Patterns:[{Pattern:ss,Color:15},{Pattern:iu1,Color:8}]}}
+banner_json={BlockEntityTag:{Base:7,Patterns:[{Pattern:ss,Color:15},{Pattern:iu1,Color:2}]}}
+banner_json={BlockEntityTag:{Base:7,Patterns:[{Pattern:ss,Color:15},{Pattern:iu1,Color:1}]}}
+banner_json={BlockEntityTag:{Base:7,Patterns:[{Pattern:ss,Color:15},{Pattern:iu1,Color:3}]}}
+banner_json={BlockEntityTag:{Base:7,Patterns:[{Pattern:ss,Color:15},{Pattern:iu1,Color:0}]}}
+banner_json={BlockEntityTag:{Base:8,Patterns:[{Pattern:ss,Color:15},{Pattern:iu1,Color:14}]}}
+banner_json={BlockEntityTag:{Base:8,Patterns:[{Pattern:ss,Color:15},{Pattern:iu1,Color:3}]}}
+banner_json={BlockEntityTag:{Base:8,Patterns:[{Pattern:ss,Color:15},{Pattern:iu1,Color:2}]}}
+banner_json={BlockEntityTag:{Base:8,Patterns:[{Pattern:ss,Color:15},{Pattern:iu1,Color:1}]}}
+banner_json={BlockEntityTag:{Base:8,Patterns:[{Pattern:ss,Color:15},{Pattern:iu1,Color:0}]}}
+banner_json={BlockEntityTag:{Base:10,Patterns:[{Pattern:ss,Color:15},{Pattern:iu1,Color:14}]}}
+banner_json={BlockEntityTag:{Base:10,Patterns:[{Pattern:ss,Color:15},{Pattern:iu1,Color:3}]}}
+banner_json={BlockEntityTag:{Base:10,Patterns:[{Pattern:ss,Color:15},{Pattern:iu1,Color:8}]}}
+banner_json={BlockEntityTag:{Base:10,Patterns:[{Pattern:ss,Color:15},{Pattern:iu1,Color:2}]}}
+banner_json={BlockEntityTag:{Base:10,Patterns:[{Pattern:ss,Color:15},{Pattern:iu1,Color:1}]}}
+banner_json={BlockEntityTag:{Base:10,Patterns:[{Pattern:ss,Color:15},{Pattern:iu1,Color:0}]}}
+banner_json={BlockEntityTag:{Base:14,Patterns:[{Pattern:ss,Color:15},{Pattern:iu1,Color:3}]}}
+banner_json={BlockEntityTag:{Base:14,Patterns:[{Pattern:ss,Color:15},{Pattern:iu1,Color:8}]}}
+banner_json={BlockEntityTag:{Base:14,Patterns:[{Pattern:ss,Color:15},{Pattern:iu1,Color:2}]}}
+banner_json={BlockEntityTag:{Base:14,Patterns:[{Pattern:ss,Color:15},{Pattern:iu1,Color:1}]}}
+banner_json={BlockEntityTag:{Base:14,Patterns:[{Pattern:ss,Color:15},{Pattern:iu1,Color:0}]}}

@@ -1,0 +1,16 @@
+
+version:3.4
+<darkblue>Combate e invasiones
+Millénaire no es siempre un mod pacífico: puedes luchar contra los aldeanos, las aldeas pueden realizar incursiones contra otras, los monstruos pueden atacar aldeas, y algunos edificios aislados están ocupados por bandidos. Cualesquiera que sean las circunstancias, ciertos principios no cambian: <darkblue>los aldeanos sólo son vulnerables a los ataques directos (cuerpo a cuerpo, flechas y pociones)<black>. No se ven afectados por el fuego, daño de la caída, o cactus. Esta restricción tiene como fin evitar al jugador matarlos sin que sean conscientes de que el jugador les está atacando.
+Los aldeanos varían en fuerza, y el equipo que lleven puede hacerlos mucho más peligrosos.
+<darkblue>Reaparición de los aldeanos
+Una vez asesinado, el aldeano está temporalmente muerto. Los aldeanos muertos reaparecen en sus hogares (pero pierden su equipo). Después de todo, el jugador también puede reaparecer ...
+<darkblue>Ataque por los jugadores
+Siempre puedes atacar a un aldeano, pero otros hombres de la aldea le ayudarán a luchar contra ti. Si te las arreglas para matar a todos los habitantes de una aldea o edificio aislado, los cofres de la aldea se abrirán y podrás robar su contenido.
+<darkblue>Bandidos
+Algunos habitantes de edificios aislados te atacarán sin previo aviso si te acercas. Tu reputación con su cultura no caerá si los matas. Al igual que otros aldeanos, reaparecen por la noche - busca en la sección <darkblue>"Destruir una aldea"<black> para ver cómo prevenirlo.
+<darkblue>Incursiones entre pueblos
+Las aldeas de Millénaire tienen relaciones positivas o negativas con las aldeas cercanas. Estas relaciones cambian aleatoriamente y pueden verse influidas por el jugador hablando con los jefes de cualquiera de las aldeas. Si sus relaciones son muy malas y uno de los pueblos tiene suficientes guerreros, podrán lanzar un ataque contra otras aldeas. Serás notificado por un mensaje. Durante una incursión, los guerreros que ataquen la aldea tratarán de matar a los hombres de la aldea que estén atacando. Si lo hacen, cogerán algunos de los recursos como botín. Puedes ayudar a un lado o al otro durante una incursión.
+Puede ser útil fomentar a una aldea a que ataque a sus vecinos para aumentar sus recursos. Más cínicamente, fomentar incursiones pueden incluso ayudarte a disfrutar parte del botín una vez que los defensores están muertos.
+<darkblue>Contratación de un aldeano
+Es posible contratar a algunos aldeanos como soldados y leñadores para ayudarte en batallas. Ellos te seguirán y lucharán contra tus enemigos junto a tí.

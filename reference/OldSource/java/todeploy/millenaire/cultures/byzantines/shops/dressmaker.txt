@@ -1,0 +1,6 @@
+sells=carpet_purple,carpet_yellow,clothes_byz_wool,clothes_byz_silk,byzantineiconsmall,byzantineiconmedium,byzantineiconlarge
+
+buys=silk,wool_white,dye_purple,dye_yellow,bone,dye_white
+
+
+deliverto=dye_purple,dye_yellow,silk,bone,dye_white

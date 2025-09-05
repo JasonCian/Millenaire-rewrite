@@ -1,0 +1,9 @@
+List of parameters usable in mining goals:
+
+sourceblockstate (a Minecraft blockstate ('red_flower;type=blue_orchid')):
+Blockstate of the source, like stone (not necessarily the block being harvest - stone gives cobblestone for example).
+
+loot (item and number: 'bone,8'):
+Blocks or items  gained when mining.
+
+

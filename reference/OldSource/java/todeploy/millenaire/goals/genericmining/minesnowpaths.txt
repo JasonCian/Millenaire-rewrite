@@ -1,0 +1,20 @@
+priority=30
+priorityrandom=10
+
+
+//tag désignant le bâtiment à utiliser. Si cette valeur est absente, c'est la maison du villageois.
+//tag a building must have for action to be possible. If absent, then the villager's house is used.
+buildingTag=inuitmining
+
+maxsimultaneousinbuilding=2
+
+
+townhalllimit=pathsnow,256
+
+sourceblockstate=minecraft:snow_layer
+
+loot=pathsnow,1
+
+sentencekey=mining
+
+range=4

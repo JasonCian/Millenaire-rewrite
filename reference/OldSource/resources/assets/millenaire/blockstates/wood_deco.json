@@ -1,0 +1,9 @@
+{
+	"forge_marker": 1,
+    "variants": {
+        "variant=timberframeplain": { "model": "millenaire:timberframeplain" },
+        "variant=timberframecross": { "model": "millenaire:timberframecross" },
+        "variant=thatch": { "model": "millenaire:thatch" },
+        "variant=honey_block": { "model": "millenaire:honey_block" }
+    }
+}

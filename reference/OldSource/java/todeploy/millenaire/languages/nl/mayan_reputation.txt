@@ -1,0 +1,15 @@
+
+0;Vreemdeling;We hebben er nog geen gezien met jouw huidskleur, we moeten opletten.
+4*64;Een Kennis;Wees gewaarschuwd, onze krijgers letten op je.
+8*64;Bekend gezicht;Onze bouwers zeggen dat je ons hoge kwaliteit steen hebt verkocht. Misschien moeten we niet op jou opletten.
+16*64;Geregelde Bezoeker;$name!Brachten de tijden verandering?
+32*64;Mede Steen Mijnwerker;Net zoals wij, je lijkt te weten hoe je steen moet mijnen. Misschien kunnen we toch vrienden worden.
+64*64;Favoriete Handelaar;Hallo, $name. Zoals altijd zijn je handelsartikelen welkom.
+2*64*64;Vriend van het dorp;$name, je hebt ons echt naar betere tijden geholpen.
+4*64*64;Capabele bondgenoot;$name, je bent een capabele bondgenootschap  van deze dorpje voor al de goederen en services dat je ons hebt gegeven.
+8*64*64;Een van ons;$name Onze shamanen hebben gezegd dat je een van ons bent.
+32*64*64;Natuurlijke Leider;Je hebt het vertrouwen en respect van alle Maya's gekregen. Ze zullen je overal volgen.
+4*32*64*64;De Grote Steen God;We weten dat je niet uit deze wereld bent, maar je hebt ons een hele berg aan steen gegeven. Je moet een god zijn.
+-64;Overlastveroorzaker;Verlaat onze grond. Jouw soort ontheiligd onze cultuur.
+-4*64;Ongevraagde Buitenstaander;Je hebt stank en rumoer gebracht naar ons dorp.
+-16*64;Vijand;Je hebt onze manier van leven vernield, dit wordt niet getolereerd!

@@ -1,0 +1,225 @@
+//name, selling price, buying price, reserved quantity, target quantity, foreign merchant price, auto-generated, needed equipment(deprecated), minimum reputation
+
+pathdirt,2,1,64,128,4,false,,0,construction
+pathgravel,3,2,64,128,5,false,,0,construction
+pathgravelslabs,4,3,64,128,6,false,,0,construction
+wood,2,1,128,1024,3,false,,0,construction
+wood_pine,2,1,128,1024,3,false,,0,construction
+wood_birch,2,1,128,1024,3,false,,0,construction
+wood_jungle,2,1,128,1024,3,false,,0,construction
+wood_acacia,2,1,128,1024,3,false,,0,construction
+wood_darkoak,2,1,128,1024,3,false,,0,construction
+cobblestone,2,1,16,1024,3,false,,0,construction
+stone,2,1,16,1024,3,false,,0,construction
+ironore,15,0,0,16,25
+sandstone,6,4,8,0,8,false,,0,construction
+sand,4,2,8,1024,7,false,,0,construction
+hay,27,18,90,64,4,false,,0,construction
+
+mudbrick,5,4,8,2048,6,false,,0,construction
+mudbrick_smooth,6,5,8,512,14,false,,0,construction
+mudbrick_seljuk_ornamented,8,6,8,1024,28,false,,0,construction
+mudbrick_seljuk_decorated,16,14,8,256,36,false,,0,construction
+
+bookshelves,220,166,8,16, 0,false,,0,construction
+book,70,53,16,64, 0,false,,0,crafting
+
+////////food//////////////////////////////////////////
+
+egg,2,1,0,1024,3,false,,0,agriculture
+carrot,5,4,10,64,10,false,,0,agriculture
+bread,10,8,5,10,15,false,,0,agriculture
+lokum,15,10,5,64,25,false,,0,agriculture
+sugar,15,5,5,64,4,false,,0,agriculture
+helva,20,15,5,64,30,false,,0,agriculture
+pistachios,5,2,5,64,10,false,,0,agriculture
+apple,7,3,5,64,15,false,,0,agriculture
+
+beefraw,20,10,8,64,25,false,,0,agriculture
+beefcooked,28,20,4,64,32,false,,0,agriculture
+chickenmeat,20,10,8,64,32,false,,0,agriculture
+chickenmeatcooked,28,20,4,64,48,false,,0,agriculture
+fishraw,5,3,8,256,0,false,,0,agriculture
+fishcooked,7,5,16,256,16,false,,0,agriculture
+cooked_mutton,30,24,4,64,35,false,,0,agriculture
+mutton,20,10,8,64,28,false,,0,agriculture
+
+yogurt,10,6,16,64,15,false,,0,agriculture
+ayran,20,15,4,64,25,false,,0,agriculture
+pide,30,25,4,64,35,false,,0,agriculture
+
+cake,0,64,0,0,128,false,,0,foreigntrade
+cookie,0,4,0,0,8,false,,0,foreigntrade
+cacauhaa,0,2*80,0,0,0,false,0,0,foreigntrade
+feta,0,96,0,0,0,false,,0,foreigntrade
+rasgulla,0,2*80,0,0,0,false,,0,foreigntrade
+vegcurry,0,40,0,0,0,false,,0,foreigntrade
+masa,0,48,0,0,0,false,,0,foreigntrade
+
+olives,2,1,16,32,3,false,,0,agriculture
+oliveoil,32,28,8,16,0,false,,0,agriculture
+
+////////Equip//////////////////////////////////////////
+
+purse,32*64,0,0,0,0,true,,0,playeritem
+summoningwand,2*64*64,0,0,0,0,true,,8*64*64,playeritem
+brickmould,64,0,0,0,2*48,true,,0,playeritem
+
+bow,64,60,2,0,2*25,false,,0,weapons
+arrow,2,1,16,320,2*2,false,,0,weapons
+
+steelSword,40,30,0,64,50,false,,0,weapons
+steelaxe,40,30,0,64,50,false,,0,tools
+steelboots,40,30,0,64,50,false,,0,weapons
+steelchest,50,40,0,64,65,false,,0,weapons
+steelhelmet,40,30,0,64,50,false,,0,weapons
+steellegs,45,35,0,64,55,false,,0,weapons
+steelhoe,40,30,0,64,50,false,,0,tools
+steelpickaxe,40,30,0,64,50,false,,0,tools
+steelshovel,40,30,0,64,50,false,,0,tools
+
+stoneSword,20,2,0,64,25,false,,0,tools
+stoneaxe,20,3,0,64,22,false,,0,tools
+stonehoe,15,2,0,64,20,false,,0,tools
+stonepickaxe,20,3,0,64,22,false,,0,tools
+stoneshovel,15,1,0,64,20,false,,0,tools
+
+leatherchest,16,8,0,64,20,false,,0,weapons
+leatherboots,8,4,0,64,12,false,,0,weapons
+leatherlegs,12,6,0,64,16,false,,0,weapons
+leatherhelmet,8,4,0,64,12,false,,0,weapons
+
+seljukscimitar,18*64,18*60,0,8*18*64,55,false,,8*64*64,weapons
+seljukbow,19*64,17*60,0,8*18*64,55,false,,8*64*64,weapons
+seljukturban,64,60,0,64*64,50,false,,2*64*64,weapons
+seljukhelmet,10*64,10*60,0,8*64*64,50,false,,8*64*64,weapons
+seljukplate,20*64,20*60,0,8*64*64,70,false,,8*64*64,weapons
+seljuklegs,8*64,8*60,0,64,8*64*64,false,,8*64*64,weapons
+seljukboots,5*64,5*60,0,64,8*64*64,false,,8*64*64,weapons
+
+diamondHelmet,0,3*64*5,0,0, 5*20*64,false,,0,foreigntrade
+diamondSword,0,3*64*2,0,0, 2*20*64,false,,0,foreigntrade
+diamondChest,0,3*64*8,0,0, 8*20*64,false,,0,foreigntrade
+diamondLegs,0,3*64*7,0,0, 7*20*64,false,,0,foreigntrade
+diamondBoots,0,3*64*4,0,0, 4*20*64,false,,0,foreigntrade
+byzantineMace,0,64*64,0,0, 0,false,,0,foreigntrade
+byzantineHelmet,0,12*64,0,0, 0,false,,0,foreigntrade
+byzantinePlate,0,20*64,0,0, 0,false,,0,foreigntrade
+byzantineLegs,0,8*64,0,0, 0,false,,0,foreigntrade
+byzantineBoots,0,6*64,0,0, 0,false,,0,foreigntrade
+yumibow,0,7*64,0,0, 0,false,,0,foreigntrade
+tachisword,0,2*80,0,0, 0,false,,0,foreigntrade
+japaneseguardboots,0,96,0,0, 0,false,,0,foreigntrade
+japaneseguardHelmet,0,3*64,0,0, 0,false,,0,foreigntrade
+japaneseguardLegs,0,4*64,0,0, 0,false,,0,foreigntrade
+japaneseguardPlate,0,6*64,0,0, 0,false,,0,foreigntrade
+japaneseblueboots,0,4*64,0,0, 0,false,,0,foreigntrade
+japanesebluehelmet,0,6*64,0,0, 0,false,,0,foreigntrade
+japanesebluelegs,0,12*64,0,0, 0,false,,0,foreigntrade
+japaneseblueplate,0,18*64,0,0, 0,false,,0,foreigntrade
+japaneseredboots,0,4*64,0,0, 0,false,,0,foreigntrade
+japaneseredhelmet,0,6*64,0,0, 0,false,,0,foreigntrade
+japaneseredlegs,0,12*64,0,0, 0,false,,0,foreigntrade
+japaneseredplate,0,18*64,0,0, 0,false,,0,foreigntrade
+mayanmace,0,7*64,0,0, 0,false,,0,foreigntrade
+normanBroadsword,64*64,60*64,1,1,,,,8*64*64,foreigntrade
+normanHelmet,10*64,10*60,0,0,,,,8*64*64,foreigntrade
+normanplate,20*64,20*60,0,0,,,,8*64*64,foreigntrade
+normanLegs,8*64,8*60,0,0,,,,8*64*64,foreigntrade
+normanBoots,5*64,5*60,0,0,,,,8*64*64,foreigntrade
+normanPickaxe,0,10*80,0,0,,,,0,foreigntrade
+normanAxe,0,10*80,0,0,,,,0,foreigntrade
+normanShovel,0,10*80,0,0,,,,0,foreigntrade
+normanHoe,0,10*80,0,0,,,,0,foreigntrade
+mayanpickaxe,0,7*64,0,0, 0,false,,0,foreigntrade
+mayanaxe,0,7*64,0,0, 0,false,,0,foreigntrade
+mayanshovel,0,7*64,0,0, 0,false,,0,foreigntrade
+mayanhoe,0,7*64,0,0, 0,false,,0,foreigntrade
+diamondPickaxe,0,3*64*3,0,0, 0,false,,0,foreigntrade
+diamondAxe,0,3*64*3,0,0, 0,false,,0,foreigntrade
+diamondShovel,0,3*64*1,0,0, 0,false,,0,foreigntrade
+diamondHoe,0,3*64*2,0,0, 0,false,,0,foreigntrade
+
+
+////////Misc//////////////////////////////////////////
+
+
+string,2,1,0,64,4,false,,0,crafting
+coal,4,2,0,1024,6,false,,0,crafting
+iron,25,20,0,64,35,false,,0,crafting
+ironnugget,2,1,0,128,4,false,,0,crafting
+gold,25,15,0,128,35,false,,0,foreigntrade
+leather,8,4,0,1024,12,false,,0,crafting
+seeds,2,1,10,128,4,false,,0,agriculture
+wheat,3,2,10,128,4,false,,0,agriculture
+cotton,6,3,16,128,10,false,,0,agriculture
+bed_straw,4,3,10,128,8,false,,0,construction
+paper,15,12,32,128, 25,false,,0,crafting
+pumpkin,5,3,0,128,10,false,,0,agriculture
+pumpkinseeds,2,1,0,128,5,false,,0,agriculture
+melonseeds,2,1,0,128,5,false,,0,agriculture
+rice,2,1,0,0,22,false,,0,foreigntrade
+grapes,2,1,0,0,4,false,,0,foreigntrade
+sapling,0,0,0,0,5,false,,0,agriculture
+sapling_pine,0,0,0,0,5,false,,0,agriculture
+sapling_birch,0,0,0,0,5,false,,0,agriculture
+sugarcane,15,10,0,128,28,false,,0,crafting
+yellowFlower,0,0,0,0,2,false,,0,foreigntrade
+redFlower,0,0,0,0,4,false,,0,foreigntrade
+bone,10,8,16,64,16,false,,0,crafting
+sapling_pistachio,18,0,0,0,25,true,,8192,agriculture
+
+
+wallcarpetlarge,5*64,5*60,2,10,7*64,false,,0,playeritem
+wallcarpetmedium,4*64,4*60,2,10,6*64,false,,0,playeritem
+wallcarpetsmall,3*64,3*60,2,10,5*64,false,,0,playeritem
+painting,30,0,0,0,48,false,,0,foreigntrade
+
+clothes_seljuk_cotton,3*64,0,0,2,4*64*64,false,,0,crafting
+clothes_seljuk_wool,1*64,0,0,4,3*64*64,false,,0,crafting
+
+wool_black,4,2,0,1024,6,false,,0,foreigntrade
+wool_blue,4,2,0,1024,6,false,,0,construction
+wool_brown,4,2,0,1024,6,false,,0,foreigntrade
+wool_cyan,20,14,0,1024,6,false,,0,construction
+wool_gray,4,2,0,1024,6,false,,0,foreigntrade
+wool_green,8,4,0,1024,6,false,,0,construction
+wool_lightblue,14,10,0,1024,6,false,,0,construction
+wool_lightgray,4,2,0,1024,6,false,,0,foreigntrade
+wool_magenta,4,2,0,1024,6,false,,0,foreigntrade
+wool_orange,4,2,0,1024,6,false,,0,foreigntrade
+wool_purple,4,2,0,1024,6,false,,0,foreigntrade
+wool_red,4,2,0,1024,6,false,,0,construction
+wool_white,10,6,8,1024,12,false,,0,construction
+wool_yellow,4,2,0,1024,6,false,,0,foreigntrade
+
+dye_black,2,1,0,128,1,false,,0,foreigntrade
+dye_blue,2,1,0,128,1,false,,0,foreigntrade
+dye_brown,2,1,0,128,1,false,,0,foreigntrade
+dye_cyan,2,1,0,128,1,false,,0,foreigntrade
+dye_gray,2,1,0,128,1,false,,0,foreigntrade
+dye_green,5,4,0,128,1,false,,0,foreigntrade
+dye_lightblue,10,5,0,128,1,false,,0,foreigntrade
+dye_lightgray,2,1,0,128,1,false,,0,foreigntrade
+dye_magenta,2,1,0,128,1,false,,0,foreigntrade
+dye_orange,2,1,0,128,1,false,,0,foreigntrade
+dye_purple,2,1,0,128,1,false,,0,foreigntrade
+dye_red,3,2,0,128,1,false,,0,foreigntrade
+dye_white,2,1,0,128,1,false,,0,foreigntrade
+dye_yellow,2,1,0,128,1,false,,0,foreigntrade
+
+carpet_white,10,8,16,64,16,false,,0,construction
+carpet_red,20,18,16,64,16,false,,0,construction
+carpet_blue,20,18,16,64,16,false,,0,construction
+carpet_cyan,20,18,16,64,16,false,,0,construction
+carpet_lightblue,20,18,16,64,16,false,,0,construction
+carpet_green,20,18,16,64,16,false,,0,construction
+
+
+banner_white,64,58,4,16,90,false,,0,construction
+sjkpattern,64,0,0,0,100,true,,8192,crafting
+sjkrpattern,64,0,0,0,100,true,,8192,crafting
+sjkmpattern,64,0,0,0,100,true,,8192,crafting
+
+
+

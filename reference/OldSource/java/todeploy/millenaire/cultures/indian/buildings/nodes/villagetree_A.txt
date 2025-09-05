@@ -1,0 +1,19 @@
+//Parameters for the building as a whole
+building.length=9
+building.width=7
+building.farfromtag=pathnode,30
+building.icon=sapling_acacia
+building.version=2
+building.areatoclear=4
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Gaanv Ke Peer
+initial.priority=700
+initial.tag=pathnode
+initial.tag=leasure
+
+//Parameters for specific upgrades
+upgrade1.priority=70
+upgrade1.pathlevel=1
+

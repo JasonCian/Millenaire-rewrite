@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "axis=y,half=bottom,variant=default": { "model": "millenaire:red_tiles_slab_bottom", "x": 90, "y": 90 },
+        "axis=z,half=bottom,variant=default": { "model": "millenaire:red_tiles_slab_bottom", "y": 90 },
+        "axis=x,half=bottom,variant=default": { "model": "millenaire:red_tiles_slab_bottom" },
+        "axis=y,half=top,variant=default": { "model": "millenaire:red_tiles_slab_top", "x": 90, "y": 90 },
+        "axis=z,half=top,variant=default": { "model": "millenaire:red_tiles_slab_top", "y": 90 },
+        "axis=x,half=top,variant=default": { "model": "millenaire:red_tiles_slab_top" }
+    }
+}

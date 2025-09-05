@@ -1,0 +1,18 @@
+version:3.4
+<darkblue>Millénaire Help
+
+Questo Help descrive le funzionalità chiave di Millénaire. Per maggiori informazioni, fate riferimento alla wiki o chiedete nel forum minecraftforum.net.
+
+Usate le icone ai lati dello schermo per accedere ai vari capitoli.
+
+<darkblue>Generalità su villaggi e edifici solitari
+
+Millénaire aggiunge <darkblue>villaggi<black> di diverse culture in Minecraft. Questi villaggi sono generati casualmente nei diversi biomi. Hanno stili diversi e offrono diversi prodotti, ma tutti hanno un capo villaggio, costruiscono nuovi edifici, commerciano con te o meno in base alle tue azioni (vedi la sezione "reputazione" ).
+
+Ogni villagio è costruito intorno ad un edificio centrale (che può essere un forte, un monastero, un palazzo ...). In questo edificio troverai diversi pannelli con informazioni sul villaggio. Fai <darkblue>click-destro<black> su un pannello per informazioni aggiuntive.
+
+Gli <darkblue>edifici solitari<black> invece non si espandono. Possono essere vuoti (con oggetti nascosti nelle casse), occupati da cittadini pacifici che commerceranno con te, o presidiati da nemici che ti attaccheranno.
+
+Premendo il tasto "V" (di default) viene mostrata l'elenco dei villaggi vicini. Gli edifici solitari non sono mostrati, devi ricordarti la loro posizione.
+
+Di default la distanza minima tra i villaggi è 2km. I sobborghi creati intorno ad un villaggio sono una eccezione a questa regola.

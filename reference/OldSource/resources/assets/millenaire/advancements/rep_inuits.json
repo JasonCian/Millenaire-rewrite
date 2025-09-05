@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "millenaire:inuitbearstew"
+        },
+        "title": {
+            "translate": "advancements.rep_inuits.name"
+        },
+        "description": {
+            "translate": "advancements.rep_inuits.desc"
+        }
+    },
+    "parent": "millenaire:friendindeed",
+    "criteria": {
+        "rep_inuits": {
+            "trigger": "rep_inuits"
+        }
+    }
+}

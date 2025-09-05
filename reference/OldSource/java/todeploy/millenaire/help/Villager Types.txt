@@ -1,0 +1,114 @@
+List of valid parameters for the villager files.
+
+native_name (string):
+Name of the villager in the culture's language.
+
+alt_native_name (string):
+Alternate name of the villager in the culture's language (used for teens).
+
+alt_key (string (case-insensitive)):
+'Key' of the alternate type (used for teens).
+
+icon (item (from itemlist.txt)):
+Name of a good whose icon represents this villager type.
+
+travelbook_category (string (case-insensitive)):
+Category in the Travel Book to appear in.
+
+travelbook_display (boolean):
+Whether to display this villager type in the Travel Book.
+Default value: true
+
+travelbook_held_item (item (from itemlist.txt)):
+Item to hold in the main hand for the Travel Book pict
+
+travelbook_held_item_off_hand (item (from itemlist.txt)):
+Item to hold in the off hand for the Travel Book pict
+
+travelbook_main_culture_villager (boolean):
+Whether this villager is the 'headline' villager for the culture (and thus gets a special export).
+Default value: false
+
+familynamelist (string (case-insensitive)):
+The list to use for this villager's family name.
+
+firstnamelist (string (case-insensitive)):
+The list to use for this villager's given name.
+
+villagerconfig (A villager config (from millenaire/villagerconfig).):
+The villager config the villager uses, if different from the default.
+
+model (string (case-insensitive)):
+Model to use (used to switch women to one of the custom Millénaire female models).
+
+baseheight (floating point value):
+The villager's height (1 = two blocks high).
+Default value: 1
+
+basespeed (floating point value):
+The villager's speed.
+Default value: 0.55
+
+gender (A gender, either 'male' or 'female'):
+Gender of the villager.
+
+malechild (string (case-insensitive)):
+The villager type used to create male offspring from this villager. Set only for women.
+
+femalechild (string (case-insensitive)):
+The villager type used to create female offspring from this villager. Set only for women.
+
+texture (string (case-insensitive, multiple parameters possible)):
+Texture to use for the villager. If more than one listed, will be picked at random.
+
+clothes (A cloth texture that can be worn when an item is present. The optional second parameter is the layer it will be placed on. ('free,textures/entity/byzanz/male/clothes/byz.miner.1.A.png' or 'free,0,textures/entity/norman/female/clothes/nor_housewife_0.png')):
+A cloth the villager can wear. 'free' is free clothes, 'natural' is fixed layers that do not change on picking up updated clothes.
+
+requiredgood (item and number: 'bone,8'):
+A good and its quantity the villager requires. For example, inputs for a crafter.
+
+startinginv (item and number: 'bone,8'):
+A good and a quantity that will be in the villager's inventory on spawn. For example, a starting stock of seeds.
+
+itemneeded (an item: ('chickenmeat')):
+An item the villager needs and will keep in his inventory, like the clothes items for the Byzantines.
+
+toolneededclass (A tool category to require, from: meleeweapons, rangedweapons, armour, pickaxes, axes, shovels and hoes.):
+Tools and similar items the villager needs and will go and pick if available.
+
+defaultweapon (item (from itemlist.txt)):
+The villager's default weapon, used when no other are available.
+
+goal (Id of a goal ('construction', 'gopray'...)):
+Goal a villager can pursue.
+
+bringbackhomegood (an item: ('chickenmeat')):
+An item type the villager will bring back home when present in his inventory. Used in particular to bring back goods produced via crafting/mining/harvesting etc.
+
+collectgood (an item: ('chickenmeat')):
+An item type the villager will attempt to collect if present around him, like saplings for lumbermen.
+
+baseattackstrength (integer value):
+The villager's attack strength.
+Default value: 1
+
+experiencegiven (integer value):
+The experience quantity given by killing this villager.
+
+health (integer value):
+How much health the villager has.
+Default value: 30
+
+hiringcost (integer value):
+The cost in denier of hiring this villager.
+
+merchantstock (item and number: 'bone,8'):
+A good and a quantity that a foreign merchant starts with in order to sell it to the player.
+
+chanceweight (integer value):
+The weight given to this villager when picking a villager at random. Used to pick merchants for the market.
+
+tag (string (case-insensitive, multiple parameters possible)):
+A tag set for this villager type. Controls various special behaviours.
+
+

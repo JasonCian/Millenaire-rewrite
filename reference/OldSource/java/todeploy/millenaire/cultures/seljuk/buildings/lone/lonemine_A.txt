@@ -1,0 +1,14 @@
+building.length=13
+building.width=13
+
+building.icon=stonepickaxe
+
+initial.startlevel=-8
+initial.nativename=Yanlız Mayın
+initial.male=turk_loneminer
+initial.tag=brickkiln
+initial.tag=stonecrafter
+initial.shop=lonemine
+
+upgrade1.priority=2
+upgrade1.tag=ironmine

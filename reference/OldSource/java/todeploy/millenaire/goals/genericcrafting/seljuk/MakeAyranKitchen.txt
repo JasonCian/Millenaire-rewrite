@@ -1,0 +1,16 @@
+buildingTag=kitchen
+priority=50
+
+duration=5000
+
+heldItems=yogurt,ayran
+
+input=yogurt,1
+output=ayran,1
+
+buildinglimit=ayran,12
+
+maxsimultaneousinbuilding=1
+
+
+tag=tag_producefood

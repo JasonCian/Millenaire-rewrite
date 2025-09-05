@@ -1,0 +1,32 @@
+//Note pour les utilisateurs de Windows: si vous voyez le fichier entier sur une seule ligne, ouvrez-le avec PSPAd ou UltraEdit plutôt que Notepad
+
+//Note to Windows users: if you see the entire file in one line, open it using PSPad or UltraEdit instead of Notepad
+
+
+//tag désignant le bâtiment à utiliser. Si cette valeur est absente, c'est la maison du villageois.
+//tag a building must have for action to be possible. If absent, then the villager's house is used.
+
+priority=20
+
+//en/in millisecondes
+duration=5000
+
+//objets tenus par le villageois
+heldItems=rice,thatch
+
+//chaque action consome tous les objets "input" et produit tous les "output"
+//each action will require and use all the inputs and produce all the outputs
+input=rice,1
+output=thatch,5
+
+
+//s'il y a plus d'objets dans le batiment que ça, arrêter le but
+//if more than that number of item is present in building, stop goal
+townhalllimit=thatch,256
+
+//pas plus de X villageois fesant ce but dans le même bâtiment en même temps
+//no more than X villagers doing this goal in the same building at the same time
+maxsimultaneousinbuilding=1
+
+labelkey=makethatch
+sentencekey=makethatch

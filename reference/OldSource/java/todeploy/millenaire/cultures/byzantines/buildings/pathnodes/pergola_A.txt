@@ -1,0 +1,17 @@
+building.length=8
+building.width=8
+building.farfromtag=pathnode,30
+building.max=2
+building.icon=sapling_acacia
+building.areatoclear=2
+
+initial.startlevel=-1
+initial.nativename=Klematariá
+initial.tag=pathnode
+initial.tag=garden
+initial.priority=100
+initial.pathlevel=2
+initial.tag=leisure
+initial.tag=patrol
+
+upgrade1.priority=100

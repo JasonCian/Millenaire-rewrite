@@ -1,0 +1,2 @@
+sells=fishcooked
+deliverto=fishcooked,fishraw

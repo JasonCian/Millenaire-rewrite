@@ -1,0 +1,88 @@
+
+fallenking_1_firstomens_0_label=Mroczny omen
+fallenking_1_firstomens_0_description=$name… Czy ostatnio studiowałeś Cycles? Tajemniczy ludzie, od których przychodzisz, muszą mieć jakąś wiedzę o astronomii! Studiowałem gwiazdy, składałem ofiary, a jednak nic nie jest jasne. Ale czuję, że przyszłość jest ponura. I nie tylko wróżby. Otrzymałem informacje od innych szamanów, które są bardzo niepokojące. Pomóż mi dowiedzieć się, co się dzieje, bardzo się martwię!
+fallenking_1_firstomens_0_description_refuse=Niech Bogowie nas oszczędzą!
+fallenking_1_firstomens_0_description_success=Przygotuję nową ofiarę dla bogów, aby udzielili mi więcej informacji. Będę cię potrzebował, abyś przyniósł mi odpowiednie przedmioty. Ponieważ nie używamy już więźniów, wystarczą szczątki demonów, które nawiedzają  nocą.
+fallenking_1_firstomens_1_label=Odzyskaj dobra do poświęcenia
+fallenking_1_firstomens_1_description=Co mi przynosisz, $name?
+fallenking_1_firstomens_1_description_success=Jesteś potężnym łowcą. Bogowie będą zadowoleni i pomogą nam. Pozwól, że wykonam rytuały i wrócę do mnie.
+fallenking_1_firstomens_1_listing=Muszę przynieść szamańskie zgniłe ciało, kości i oczy pająka.
+fallenking_2_warpreparations_0_label=Przygotowania do wojny
+fallenking_2_warpreparations_0_description=Bogowie przyjęli moją ofiarę i wysłali mi znaki. Miałem też wiadomości od potężnego szamana odległej wioski i nie są dobrzy. Zakładam, że słyszałeś o potężnym królu Ixtab K'u Ix? Nie? Nie jesteś przecież wszechwiedzący! <ret> <ret> Wytłumaczę. Ale najpierw muszę myśleć o naszej wiosce. Wiem, że możesz wykuwać broń o wiele mocniejszą niż nasze ostrza z obsydianu. Nasz szef  $localleader_villagername$ może je dobrze wykorzystać, aby chronić nas w tym złowieszczym czasie. Muszę cię prosić o pomoc!
+fallenking_2_warpreparations_0_description_refuse=Niech Bogowie nas oszczędzą!
+fallenking_2_warpreparations_0_description_success=Wierzę, że wystarczą cztery ostrza i dwa pancerze. Ale nie jestem wojownikiem. On powie ci dokładniej, czego potrzebujemy.
+fallenking_2_warpreparations_1_label=Zbierz broń
+fallenking_2_warpreparations_1_description=Nasz szaman mnie martwi. Zawsze wiedział, jak nas prowadzić w tych trudnych chwilach, gdy widzi że wojna nadchodzi, wierzę mu. Co nam przyniosłeś, żeby nam pomóc?
+fallenking_2_warpreparations_1_description_success=Te bronie robią wrażenie! Nasi kowale są zacofani w porównaniu z innymi kulturami.
+fallenking_2_warpreparations_1_listing=Muszę oddać żelazne miecze i zbroje szefowi wioski.
+fallenking_3_thecamp_0_label=Tropem Króla
+fallenking_3_thecamp_0_description=Teraz, kiedy nasza wioska może się obronić, muszę ci powiedzieć o królu Ixtab K'u Ix. Jest potężnym władcą, który rządził dużą częścią Jukatanu w starym świecie. Udało mu się zrzeszać wiele wiosek Majów odkąd tu przybyliśmy. Mówi się, że jest surowy i wyniosły, ale Bogowie go faworyzują i wiele uczynił dla naszego ludu. Niedawno otrzymałem dziwną wiadomość od jego osobistego szamana, Tohila Uchbena, błyskotliwego i ambitnego człowieka. Mówi o fascynującym odkryciu, które zrobił ze swoim sługą. Nie udziela dalszych informacji, z wyjątkiem tego, że odnosi się do Xibalby, krainy umarłych! Martwię się, $name. Obawiam się, że istnieje powiązanie ze mrocznymi wróżbami, które mnie prześladują. Król Ixtab i jego szaman prawdopodobnie znaleźli coś niebezpiecznego w tym dziwnym świecie. Czy mógłbyś to zbadać?
+
+fallenking_3_thecamp_0_description_refuse=Niech Bogowie nas oszczędzą!
+fallenking_3_thecamp_0_description_success=Nie mam zbyt wielu informacji, ale Tohil Uchben pisał z obozu w lesie lub dżungli, który wydawał się powiązany z ich odkryciem, cokolwiek by to nie było. Szukajcie, a ja będę kontynuował moje ofiary, aby Bogowie mogli was prowadzić.
+fallenking_3_thecamp_1_label=Porozmawiaj z Szamanem
+fallenking_3_thecamp_1_description=Podróżowałeś długo, a ciemne znaki pojawiły się podczas twojej nieobecności. Jakie są wieści? Znalazłeś Króla Ixtaba lub Tohila Uchbena?
+fallenking_3_thecamp_1_description_success=Fioletowa brama otwierająca się na świat płomieni! Nigdy nie myślałem, że mogliby znaleźć coś tak niesamowitego! I tak niebezpiecznego. Nie wiem, czy to drzwi do Xibalby czy złowrogi żart złego Boga, ale te wiadomości przerażają mnie. I dlaczego wojska króla atakowały cię bez powodu? Majowie nie są pokojowymi ludźmi, ale taka agresywność jest nienormalna. I dlaczego to puste więzienie w obozie? Nie wiem co mam myśleć. Jestem zdezorientowany, $name. Jeszcze raz skonsultuję się z bogami.
+
+fallenking_3_thecamp_1_listing=Muszę odnaleźć obóz Króla Ixtaba w dżungli lub lesie, a następnie wrócić do szamana.
+fallenking_4_newomens_0_label=Nowe ofiary
+fallenking_4_newomens_0_description=$name, złożyłem wiele ofiar bez odpowiedzi Bogów. Nie będą już przyjmować moich ofiar! Ich chciwość jest nieograniczona i zawsze żądają więcej, zanim udzielą mi pomocy. Potrzebujemy czegoś nowego, aby im zaoferować - rzadkie poświęcenie, które wymaga siły i odwagi, aby je zebrać. Czy pomożesz mi jeszcze raz?
+
+fallenking_4_newomens_0_description_refuse=Niech Bogowie nas oszczędzą!
+fallenking_4_newomens_0_description_success=Wierzę, że wiem, co ich zadowoli: ten przedmiot, który znalazłeś obok tej przeklętej bramy. Czuję, że pochodzi od potężnego stworzenia. Będzie to ofiara, na którą bogowie będą musieli odpowiedzieć! Czy mógłbyś mi przynieść kryształowe łzy?
+
+fallenking_4_newomens_1_label=Zbierz łzy
+fallenking_4_newomens_1_description=Czy potrafisz znaleźć stworzenia, które produkują te łzy? Czy możesz poświęcić ich wystarczająco dużo?
+fallenking_4_newomens_1_description_success=Więc pochodzą z lewitujących stworzeń plujących ogniem? I mógłbyś je pokonać? $name, ty też nie jesteś tym, na kogo wyglądasz. Czy jesteś także z Xibalba? Zapytam bogów, kiedy poświecę te łzy. Przyjdź do mnie później.
+fallenking_4_newomens_1_listing=Muszę przyprowadzić do szamana cztery łzy Ghasta.
+fallenking_5_thepyramid_0_label=Obsydianowa Piramida
+fallenking_5_thepyramid_0_description=Bogowie wysyłają mi żywy omen, $name: wizerunek ogromnej piramidy Majów z obsydianową świątynią na samej górze. Może to być tylko jedno miejsce… Keban Muul, pomnik wybudowany dawno temu na cześć Ah Puch i gdzie odbywały się niekończące się ofiary nim została opuszczona. Wierzę, że król Ixtab tam jest. Bogowie wiedzą tylko dlaczego! Musisz go znaleźć i zakończyć jego praktyki z Xibalba!
+
+fallenking_5_thepyramid_0_description_refuse=Niech Bogowie nas oszczędzą!
+fallenking_5_thepyramid_0_description_success=Nie wiem, gdzie leży ta piramida, ale była w samym sercu lasu. Podróżuj, ja złożę ofiary Bogom, aby poprowadzili cię do zwycięstwa.
+fallenking_6_thesiege_0_label=Szaman króla
+fallenking_6_thesiege_0_description=Na Ach Puch, kim jesteś? Zabiłeś króla Ixtaba i zmasakrowałeś jego armię na własną rękę! Wyglądałeś jak sam Bóg Buluc Chabtan! <ret> <ret> Ale kimkolwiek jesteś, nie możesz być gorszy od demona, który nawiedza to miejsce ... Odkąd odkryliśmy ten wrogi Portal w dżungli i odwiedziliśmy Króla Xibalby wydawał się opętany przez jakąś złowrogą siłę. Zabrał nas do tej starej i przeklętej świątyni ... Przestał marzyć o niczym innym, jak tylko złocie i podbojach, i przysiągł ofiarować wszystkie sąsiednie wioski osobiście Ach Puchowi! Zawsze był ambitny, ale do tej pory nigdy nie był żądny krwi. Nauczyłem go od dzieciństwa, ale nie mogłem go już zrozumieć. A kiedy sprzeciwiłem się jego mrocznym planom, uczynił mnie więźniem, mnie jego najstarszego i najbardziej lojalnego wyznawcę! Ale nie wierzę, że to nadal jego słowa. A teraz mam nadzieję, że to wszystko skończyło się wraz z jego śmiercią. Czy pomożesz mi wrócić do domu?
+
+fallenking_6_thesiege_0_description_refuse=Zostanę tutaj, gdzie umarł mój król.
+fallenking_6_thesiege_0_description_success=Czekaj ... Czuję coś. Jesteśmy w niebezpieczeństwie! Nie mogę walczyć - pozwól mi zostać tutaj i idź zobaczyć, co się dzieje. Boję się najgorszego.
+fallenking_6_thesiege_1_label=Ocalony!
+fallenking_6_thesiege_1_description=Twoje umiejętności walki są imponujące ... Czy wiesz, że potrzeba dziesięciu elitarnych wojowników króla Ixtaba, by zabić jednego z tych ogromnych białych stworzeń w innym świecie?A ty wystrzelałeś je jak muchy! Ale musimy być ostrożni. Wygląda na to, że demon lub Bóg, który manipulował moim Królem, nie chce nas widzieć, czy to z zemsty, czy ze strachu ... Pozwól mi się zebrać i zobaczymy, co zrobić. Odpocznij też; Nie wątpię, że twoje umiejętności jako wojownika będą potrzebne ponownie.
+
+fallenking_6_thesiege_1_description_success=Wkrótce porozmawiamy ponownie.
+fallenking_6_thesiege_1_listing=Muszę bronić piramidy i szamana przed demonicznymi hordami.
+fallenking_7_thepit_0_label=Komora lawy
+fallenking_7_thepit_0_description=Kiedy dotarliśmy do piramidy, król zabrał mnie do pokoju głęboko poniżej. Pośrodku znajdował się obsydianowy basen wypełniony lawą. Na tym etapie był już na wpół obłąkany i zastanawiał się, w jaki sposób będzie tam składał największe ofiary, rzucając w lawę przywódców każdej wioski, która mu się przeciwstawiła. Nie wierzę, że jego gorączkowe lamenty wiele znaczyły, ale zastanawiam się, jaki cel miał ten basen. A skąd pochodzi lawa? Powinieneś się dowiedzieć.
+
+fallenking_7_thepit_0_description_refuse=Zostanę tutaj, gdzie umarł mój król.
+fallenking_7_thepit_0_description_success=Prowadzą tam schody obok mojego więzienia. Być może będziesz musiał podążać za lawą ... Tutaj, weź te ogniste jedzenie, które kupiłem  indyjskiej wiosce. Pozwolą ci oprzeć się lawie. I wypij to cacauhaa. Jeśli dotrzesz do mrocznego miejsca, pomoże ci to widzieć w ciemności.
+
+fallenking_7_thepit_1_label=Pułapka
+fallenking_7_thepit_1_description=Czy możesz znaleźć źródło lawy?
+fallenking_7_thepit_1_description_success=Wyglądasz na zmęczonego, $name. A ty mówisz, że nie było nic ... tylko potwory pojawiają się w pustych pokojach ... Nie spodziewałam się tego. <ret> <ret> $name, widzę tylko jedną możliwość: ta studnia była pułapką, mającą na celu wyeliminowanie przedsiębiorczych odkrywców. Po tak dużym wysiłku jest to skromny komplement, ale jesteś wyraźnie silniejszy niż demon, który stworzył tę pułapkę.
+
+fallenking_7_thepit_1_listing=Muszę znaleźć źródło lawy w pokoju za więzieniem.
+fallenking_8_sacrifice_0_label=Ofiary Wojownika
+fallenking_8_sacrifice_0_description=Wahałem się mówić o tym z tobą, $name, ale po twojej walce w podziemnej komnacie zdobyłeś więcej niż prawo do dzielenia się moją wiedzą. Gdyby król Ixtab oszczędził mnie, gdy się mu sprzeciwiłem, tylko dlatego, że potrzebował moich umiejętności komunikowania się z Bogami. Odkąd po raz pierwszy przybyłem do tego nowego świata, dokonałem wielu poświęceń i często piłem świętego Cacauhaa,  otrzymałem od bogów zapewnienie, że pomagają wojownikom króla, zaklinając ich ramiona i zbroje. Bogowie żądają dużo krwi w zamian za potężne zaklęcia, ale uzyskana broń jest groźna. Król chciał zachować te rytuały wyłącznie dla swoich wojowników - ale nie mogę już ryzykować, że pojedynczy człowiek uzyska dostęp do tak potężnej broni. Idź do szamana i podziel się z nim tymi rytuałami.
+
+fallenking_8_sacrifice_0_description_refuse=Zostanę tutaj, gdzie umarł mój król.
+fallenking_8_sacrifice_0_description_success=Bezpiecznej podróży, $name. Wróć do mnie kiedyś. Zostanę tutaj i porozmawiam z Bogami. Nie wierzę, że skończyliśmy z tą piramidą.
+fallenking_8_sacrifice_1_label=Wróć do szamana
+fallenking_8_sacrifice_1_description=Rozmawiam z Bogami. Zawsze chcą więcej ofiar!
+fallenking_8_sacrifice_1_description_success=Robi się to wtedy. Nie jestem już jedynym szamanem zdolnym do zaczarowania broni. Mam nadzieję, że zrobiłem dobrze.
+fallenking_8_sacrifice_1_listing=Muszę przekazać rytuały Tohila Uchbena wioskowemu szamanowi.
+fallenking_9_backtothevillage_0_label=Nowe rytuały
+fallenking_9_backtothevillage_0_description=Chcesz ze mną porozmawiać, $name?
+fallenking_9_backtothevillage_0_description_refuse=W tym przypadku, wrócę do moich rytuałów.
+fallenking_9_backtothevillage_0_description_success=Te rytuały są mroczne! Przerażające. Tohil Uchben ma wielkie moce i musiał wiele poświęcić, aby zdobyć tę wiedzę. Ale mogę to zrobić, jeśli przyniesiesz krew, której żądają Bogowie. Przyjdź do mnie na ołtarz ofiar.
+
+fallenking_10_thebrokendoor_0_label=Źródło Zła
+fallenking_10_thebrokendoor_0_description=Pod twoją nieobecność podwoiłem moje ofiary i Yum Kaax, Bóg Labiryntu, wysłał mi wiadomość. Wierzę, że jest zazdrosny o sukces demona odpowiedzialnego za to miejsce. W każdym razie pomógł mi zlokalizować źródło zła, które nawiedza to miejsce. Jest pod ziemią, ale głębiej i lepiej ukrytym pokoju, który znalazłeś. Czy jesteś gotowy ponownie stawić czoła tym siłom?
+
+fallenking_10_thebrokendoor_0_description_refuse=Zostanę tutaj, gdzie umarł mój król.
+fallenking_10_thebrokendoor_0_description_success=Ah Puch chroni cię, $name. Jeśli to nie on, to kto stworzył to miejsce!
+
+fallenking_10_thebrokendoor_1_label=Przełamane drzwi
+fallenking_10_thebrokendoor_1_description=Czy to wreszcie koniec, dzielny $name?
+fallenking_10_thebrokendoor_1_description_success=Drzwi, takie jak te, które znalazłeś, ale wykonane z niezniszczalnej materii i ... złamane. Muszą otwierać się na świat, z którego pochodzi ten, kto za tym wszystkim stoi! Ale jak możemy go śledzić? Ocean ofiar nie dałby nam takiej łaski od bogów. $name, obawiam się, że twoje wysiłki się tutaj zakończą. W każdym razie na razie. <ret> <ret> Ale nie myśl, że to na próżno! Ludzkie pieniądze i broń, które znalazłeś na dole, pokazują, że demon miał zamiar użyć króla Ixtaba do rozpoczęcia wojny na tych ziemiach. I że zostawił ich za sobą pokazuje, że uciekł pośpiesznie na twój widok! Możesz go nie pokonać, ale zmusiłeś go do wycofania się. Niewielu ludzi może pochwalić się, że zrobili to demonowi. Pozdrawiam cię, $name. <ret> <ret> I myślę, że to sprawiedliwe, że ci to oddałem; Znalazłem to w piramidzie pod twoją nieobecnością: koronę, którą zrobiłem dla króla Ixtab. Nikt inny niż ty nie jest tego teraz wart. Noś ją więc, a ochroni cię i pozwoli ci pływać pod wodą jak kajman. Użyj jej dobrze. I wiedz również, że człowiek, który ją posiada, zostanie uznany na ziemiach Majów jako Król. Jeśli chcesz zbudować własne miasto, Majowie pójdą za tobą. Powodzenia, $ imię.
+
+fallenking_10_thebrokendoor_1_listing=Muszę zbadać źródło zła w piramidzie ujawnionej szamanowi.

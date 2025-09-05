@@ -1,0 +1,37 @@
+name=Keban Muul
+weight=0
+radius=50
+
+//Vanilla biomes
+biome=Swampland
+biome=Swampland M
+biome=JungleEdge
+biome=JungleEdge M
+biome=Jungle
+biome=Jungle M
+biome=Birch Forest
+biome=Birch Forest Hills
+biome=Birch Forest M
+biome=Birch Forest Hills M
+
+//biomes o'plenty
+biome=bayou
+biome=lush swamp
+biome=rainforest
+biome=tropical rainforest
+
+generateforplayer=true
+keyLoneBuildingGenerateTag=fallenking_pyramid_generate
+
+mindistancefromspawn=1000
+
+//starting buildings=
+centre=questpyramid
+
+start=questbarrack
+start=questbarrack
+start=questcamphouse
+start=questcamphouse
+start=questguardtower
+start=questguardtower
+start=questguardtower

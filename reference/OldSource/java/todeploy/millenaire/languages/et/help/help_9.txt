@@ -1,0 +1,16 @@
+version:3.4
+<darkblue>The Indians
+
+They hail from northern India and live in three types of villages: military settlements are based around a fort, agricultural settlements around a headman's house, and palatial ones are dominated by a royal palace with two associated hamlets. They speak Hindi, but their dialogue will be translated as the player "learns" speaking their language with them.
+
+<darkblue>Unique objects and blocks
+
+-Indians cultivate rice and turmeric. The player may ask the chef to teach him how to grow these plants.
+-Mud bricks and cooked bricks, produced by leaving wet bricks to dry in the sun to dry. Wet bricks are created with a brick mould (purchased in a village).
+-Indian bas-reliefs, representing deities and created by a sculptor.
+-Delicious rasgulla, candy made ​​with sugar cane.
+
+<darkblue>Specific recipes (formless)
+
+-One rice and turmeric produce a vegetarian curry.
+-One rice, one turmeric and a raw chicken produce a murgh curry.

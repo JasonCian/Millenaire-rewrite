@@ -1,0 +1,15 @@
+priority=35
+priorityrandom=10
+
+buildingtag=mine
+
+townhalllimit=cobblestone,2056
+
+sourceblockstate=minecraft:stone
+
+range=4
+sentencekey=mining
+
+//long mining goal
+loot=cobblestone,16
+duration=80000

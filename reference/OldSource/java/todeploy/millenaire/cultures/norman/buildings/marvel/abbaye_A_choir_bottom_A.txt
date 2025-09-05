@@ -1,0 +1,39 @@
+//Parameters for the building as a whole
+building.length=48
+building.width=112
+building.areatoclear=1
+building.buildingorientation=3
+building.issubbuilding=true
+building.parentbuildingplan=abbaye_A0
+building.max=0
+building.icon=chiseledstonebrick
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Chœur (nord)
+initial.priority=650
+initial.tag=scaffoldings
+
+//Parameters for specific upgrades
+upgrade1.priority=600
+upgrade1.parenttag=3
+
+upgrade2.priority=550
+upgrade2.requiredparenttags=13
+
+upgrade3.priority=500
+upgrade3.parenttag=23
+upgrade3.requiredparenttags=level_2
+
+upgrade4.priority=450
+
+upgrade5.priority=400
+upgrade5.parenttag=43
+upgrade5.requiredparenttags=level_3
+
+upgrade6.priority=250
+upgrade6.tag=pilgrimsite
+upgrade6.parenttag=103
+upgrade6.requiredparenttags=level_5
+

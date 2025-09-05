@@ -1,0 +1,13 @@
+building.length=14
+building.width=14
+building.fixedorientation=east
+building.issubbuilding=true
+building.max=0
+building.parentbuildingplan=smallmosque_A0
+building.travelbook_display=false
+
+building.icon=book
+
+initial.nativename=Kadınlar Tarafı
+initial.tag=mosquefemaleside
+initial.startlevel=-2

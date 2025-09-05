@@ -1,0 +1,14 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "millenaire:items/cherries"
+    },
+    "display": {
+        "gui": {
+            "scale":[ 0.9, 0.9, 0.9 ]
+        },
+        "ground": {
+            "scale":[ 0.8, 0.8, 0.8 ]
+        }
+    }
+}

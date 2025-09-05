@@ -1,0 +1,1 @@
+native:Seigneurie;gameNameKey:playerfort_A0;craft:1;chest:6-20;sign:9;radius:10;shop:townhall;tag:leasure;tag:playerth;tag:Patrol;male:boy;male:boy;male:boy;female:girl;female:girl;female:girl

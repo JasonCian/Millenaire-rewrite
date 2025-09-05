@@ -1,0 +1,39 @@
+//Parameters for the building as a whole
+building.length=31
+building.width=35
+building.buildingorientation=3
+building.max=0
+building.icon=tapestry
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Forteresse
+initial.male=knight
+initial.female=lady
+initial.tag=patrol
+initial.tag=nopaths
+initial.shop=townhall
+initial.signs=2,1,3,5,7,8,6,4,0
+
+//Parameters for specific upgrades
+upgrade1.priority=600
+upgrade1.rebuildpath=true
+upgrade1.extrasimultaneouswallconstructions=1
+
+upgrade2.priority=580
+upgrade2.rebuildpath=false
+
+upgrade3.priority=560
+upgrade3.extrasimultaneouswallconstructions=2
+
+upgrade4.priority=540
+
+upgrade5.priority=520
+upgrade5.subbuilding=largefort_A_armoury
+
+upgrade6.priority=500
+upgrade6.subbuilding=largefort_A_barrack
+
+upgrade7.priority=480
+

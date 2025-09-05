@@ -1,0 +1,14 @@
+
+version:3.4
+<darkblue>Commercie
+Jouw meest voorkomende uitwisselingen met dorpelingen zal het handelen zijn. Je kan vele goederen aan hen verkopen en vele producten kopen, inclusief blokken en Millénaire specifieke objecten. Om met een dorp te handelen moet je naar het hoofdgebouw (of een andere winkel) gaan en wachten op een dorpeling met de "Verkopen aan speler" status boven zijn hoofd. <darkblue>Klik met de rechter muisknop<black> op hem om het handelsscherm te openen.
+Millénaire dorpelingen kunnen je alleen spullen verkopen die ze in voorraad hebben en alleen spullen verkopen die het dorp nodig heeft (varieert afhankelijk van het dorp).
+Alle handel met een dorp gaat met "denier", een middeleeuws Franse valuta. Er zijn drie typen denier: standaard deniers, "deniers argent" (zilver deniers) die 64 deniers waard zijn en "deniers or" (gouden deniers) die 64 deniers argent waar zijn.
+<darkgreen>Op de dorpsplattegrond (verkregen door in het dorp in kwestie met de rechter muisknop op het paneel te drukken in het hoofdgebouw, kunnen winkels weergegeven worden als je je cursor boven een gebouw laat hangen.
+standaard deniers. (koperen deniers)
+"deniers argent" (zilvere deniers)
+waart 64 deniers
+"deniers or" (goude deniers)
+waart 64 deniers argent
+<darkgreen> Tip:
+Op de dorpskaart (verkrijgbaar door klikken met het rechtermuisknop op de overeenkomende panel in de centrale gebouw in de dorp), zijn winkels vermeld als je over ze met je muis zweeft.

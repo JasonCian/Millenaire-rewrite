@@ -1,0 +1,68 @@
+
+
+villager.greeting = Namaste, $ name-ji! / Доброго здоров'я, $ name-жи!
+villager.greeting = Aaj bahut garmi hai. / Сьогодні дуже жарко.
+villager.greeting = Kya haal hai? / Як справи твої?
+villager.greeting = Kya khabar hai? / Які новини Ви чули?
+villager.greeting = Ghar par sa theek hain? / Чи всі добре вдома?
+villager.greeting = Yeh barish kyun nahin ho rahi? / Де ж дощ?
+villager.greeting = Kya tum se kale pani se pare ho? / Ви за океану?
+indian_pandit.greeting = Jeetey raho. / Довгого життя.
+merchant_oriental.greeting = Salam alaikum, bhai! / Мир тобі, брате!
+merchant_adivasi.greeting = Main van se a raha hoon / Я нарешті-таки вибрався з лісу
+merchant_villagewoman.greeting = Ek akeelii mahila ke lie safar karna mushkil hai / Подорожі дуже важкі самотній жінці
+
+male.gorest = Ab jaakey aaram karta hoon. / Тепер треба піти відпочити.
+male.gorest = Subah sey kaam kar raha hoon. / Я працював з самого ранку.
+male.gorest = Main thak gaya hoon. / Як я втомився.
+
+female.gorest = Ab jaakey aaram karti hoon. / Пора б мені і відпочити.
+female.gorest = Subah sey kaam kar rahi hoon. / З самого ранку працювала як пташка.
+female.gorest = Main thak gayi hoon. / Так втомилася.
+
+villager.gopray = Hey Bhagwan, is baar phasal achhi ho. / Господи! Нехай цей сезон принесе хороший урожай.
+villager.gopray = Bhagwan, bas aap hi ka sahara hai. / Боже, уповаю на тебе тільки.
+
+indian_lumberman.BringBackResourcesHome = Itna saara lakri ghar ley jaaney mein mushkil hooga. / Було дуже складно волочити такий вантаж дерева назад додому.
+indian_lumberman.ChopTrees = Yeh lakri kaat-tey kaat-tey meri zindagi beet jayegi. / Мабуть доля моя така, все життя рубати ці дерева.
+indian_lumberman.GatherGoods = Ab saari lakriyan ikaththa karta hoon. / Тепер я нарубаю всі дерева.
+indian_lumberman.PlantSaplings = Jitna zyaada ped lagaoonga, utna hi aagey jaakey aaram raheyga. / Чим більше дерев я посаджу, тим легше буде жити потім.
+
+indian_peasant.DryBrick = Ghar bananey key liye kitney inth chahiyey? / Як багато цеглин тобі потрібно щоб побудувати будинок?
+indian_peasant.GatherBrick = Aaj suraj teez hai, inth jaldi sookh rahaien hain. / Сонце сьогодні спекотне, вони сохнуть швидко.
+indian_peasant.CookBrick = Dekho, aag mein kaisi badhiyan pakti hai yeh intein. / Подивися як добре ці цеглини обпікаються у вогні.
+villager.PlantRice = Is saal barish achchi hui toh phasal accha hoga. / Якщо будуть великі дощі, то урожай буде хорошим у цьому році.
+villager.HarvestRice = Is baar barish acchi honey sey phasal bhi acchi hui hai. / Були добрі дощі в сезоні, урожай не менш різниться.
+villager.PlantTurmeric = Haldi toh sabhi ko chahiyein. / Ну звичайно ж, всім потрібна куркума.
+villager.HarvestTurmeric = Haldi ki kheti kartey kartey merey haath peeley ho gayein hain. / Від збору куркуми мої руки пожовкли.
+indian_peasant.SlaughterChicken = Bahut kha liya ghas-phoos. / Я досить поїв вегетаріанського каррі!
+
+indian_peasantwife.GetHouseTHResources = Sab kuch toh thakur ko dey dena padta hai. / Вічно все закінчується в будинку землевласника.
+indian_peasantwife.GetGoodsHousehold = Inkey liye chahey jitna bhi khana lao, kam padta hai. / Без різниці скільки ти віддаси цій сім'ї - їй все одно буде недостатньо!
+indian_peasantwife.DeliverGoodsHousehold = Uffh, itna sara khana akeley kaisey leh jaoongi. / Як я буду тягнути всю цю їжу одна?
+indian_peasantwife.makeRasgulla = Bacchon koh rasgulla bahut pasand hai. / Дітлахи люблять расгулла.
+
+
+indian_peasant.GetResourcesForBuild = Hmmm, ek tan ka inth chahiye, dau tan paththar .. / Нумо глянемо, одна тонна цеглин, дві тонни каміння ...
+indian_peasant.construction = Hindu vastu-kala desh videsh mein mashoor hai. / Архітектура гінді відома світу.
+indian_peasant.construction = Iskey baad, main lal kila banaoonga. / А коли я закінчу з цим, я побудую червоний форт.
+
+villager.GoPlay = Mujjhey mitti sey khelna accha lagta hai. / Обожнюю ліпити з бруду.
+villager.BecomeAdult = Khel kud bahut ho gaya, ab kaam par chalo. / Час для ігор минув, настав час роботи.
+male.BecomeAdult = Main badey hokar yodhdha ban-na chahta tha. / Я хотів стати великим воїном, коли був молодшим ...
+female.BecomeAdult = Mainey socha tha kisi rajkumar sey shaadi hogi ... / Я мріяла вийти заміж за принца ...
+
+villager.gopray.chosen = Mandir jaaney ka samay ho gaya. / Пора знову відвідати храм.
+indian_pandit.gopray.chosen = Main mandir ki dekh bhaal nahin karoonga toh kaun karega? / Якщо я не подбаю про храм, то хто ж?
+
+villager.calltoarms = Jeet hamari hoogi. / Перемога буде нашою.
+villager.calltoarms = Dushmano ki haar. / Смерть ворогам!
+villager.calltoarms = Sab apney apney hathiyar utha lo! / Всі до зброї!
+
+indian_smith.MakeTools = Sabhi merey banaye huye upkaran istamal kartey hain, phir bhi mujhey neecha samachtey hain. / Всі користуються моїми інструментами і при цьому дивляться на мене звисока.
+indian_armysmith.MakeWeapons = Hathiyaar bananey mein, upkaran bananey sey zyaada maan hai. / Виготовлення зброї більш престижно, ніж виготовлення інструментів!
+indian_sculptor.Scult = Murtikala ched aur gaanth ki kala hai. / Скульптура - це мистецтво поглиблень і опуклостей.
+
+merchant_oriental.KeepStall = Dekho yeh phaarsa ka gaurav! / Побач славу Персії!
+merchant_adivasi.KeepStall = Sab kuch mere parivar dwara kheti ki gayi hai. / Всі вирощено моєю родиною глибоко в джунглях.
+merchant_villagewoman.KeepStall = Ghara ka bana khana, bhukhe yaatriyon ke lie! / Домашня їжа для голодних мандрівників!

@@ -1,0 +1,9 @@
+{
+    "parent": "block/upper_slab",
+    "textures": {
+        "bottom": "millenaire:blocks/thatch_topbottom",
+        "top": "millenaire:blocks/thatch_topbottom",
+        "side": "millenaire:blocks/thatch",
+        "particle" : "millenaire:blocks/thatch"
+    }
+}

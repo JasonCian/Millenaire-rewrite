@@ -1,0 +1,18 @@
+version:3.4
+<darkblue>Millénaire Hulp
+
+Deze hulp beschrijft de belangrijkste features van Millénaire. Voor meer informatie, check de wiki of stel vragen op het forum minecraftforum.net.
+
+Gebruik de icoontjes aan beide kanten om bij de verschillende hoofdstukken van hulp te komen.
+
+<darkblue>Basiszaken omtrent dorpen en alleenstaande gebouwen
+
+Millénaire voegt <darkblue>dorpen<black> van verschillende culturen toe in minecraft. De dorpen worden willekeurig gegenereerd in verschillende biosystemen. Ze zijn van verschillende stijlen en bieden verschillende producten aan, maar ze hebben allemaal een leider, bouwen nieuwe gebouwen, handelen met je en vinden je aarig of niet, afhangend van jouw acties (zie de "reputatie" sectie).
+
+Elk dorp wordt gebouwd rond een centraal gebouw (dat kan een fort, klooster of paleis zijn...). In dit gebouw vind je verschillende panelen die je informeren over het dorp. Klik met <darkblue>rechter muisknop<black> op een paneel om meer informatie weer te geven.
+
+<darkblue>Alleenstaande gebouwen<black> daarentegen breiden niet uit. Ze kunnen leeg zijn (met alleen spullen om te vinden in kisten), bezet zijn door vredelievende dorpelingen die met je willen handelen of vijandige dorpelingen die je aanvallen.
+
+Drukken op de "V" knop (standaard instelling) laat een lijst zien van nabijzijnde dorpen. Geisoleerde gebouwen worden niet getoond. Je moet zelf hun positie onthouden.
+
+Standaard is de minimale afstand tussen dorpen 2 km. Gehuchten rond verschillende dorpen zijn een uitzondering op deze regel.

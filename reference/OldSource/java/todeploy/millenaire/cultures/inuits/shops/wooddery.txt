@@ -1,0 +1,7 @@
+sells=wood_pine,wood_birch,wood,wood_jungle,wood_acacia,wood_darkoak,sod_spruce,sod_birch,sod_oak,sod_jungle,sod_acacia,sod_dark_oak,bed_straw,dirtwall
+
+buys=wood_pine,wood_birch,wood,wood_jungle,wood_acacia,wood_darkoak,sod_spruce,sod_birch,sod_oak,sod_jungle,sod_acacia,sod_dark_oak
+
+buysoptional=timberframeplain,timberframecross,stoneaxe,steelaxe,diamondaxe
+
+deliverto=wood_pine,wood_birch,wood,wood_jungle,wood_acacia,wood_darkoak,sod_spruce,sod_birch,sod_oak,sod_jungle,sod_acacia,sod_dark_oak,bed_straw,dirtwall

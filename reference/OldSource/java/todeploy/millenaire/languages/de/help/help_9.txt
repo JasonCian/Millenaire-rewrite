@@ -1,0 +1,32 @@
+version:3.4
+<darkred>Die Hindu
+
+Sie stammen aus dem Norden Indiens und leben in drei Arten von Dörfern:
+
+militärische Siedlungen sind um eine Festung errichtet, landwirtschaftliche Siedlungen um ein Haupthaus, prunkvolle Dörfer sind um einen königlichen Palast herum angeordnet mit zwei dazugehörigen Ortsteilen. Sie sprechen Hindi, aber die Dialoge werden übersetzt, wenn der Spieler ihre Sprache lernt. Die Sprache wird durch das Handeln und Reden erlernt.
+
+Die Hindu produzieren viele einzigartige Gegenstände.
+
+<darkred>Einzigartige Objekte und Blöcke:
+
+<darkblue>Reis und Gelbwurz 
+Inder bauen Reis und Gelbwurz an. Der Spieler kann den Dorfältesten bitten, ihm die Kultivierung dieser Pflanzen beizubringen.
+
+<darkblue>Lehmziegel und gebrannte Lehmziegel 
+Lehmziegel werden produziert, indem man die Nassen Lehmziegel in der Sonne Trocknen lässt. Gebrannte Lehmziegel werden im Ofen hergestellt. Feuchte Lehmziegel werden durch eine Ziegelform (erhältlich bei einem Dorfhändler) hergestellt.
+
+<darkblue>Indische Basreliefs 
+Ihre Bildhauer stellen indische Basreliefs her, die Ihre Gottheiten darstellen.
+
+<darkblue>Rasgulla 
+Köstliches Rasgulla, eine Süßigkeit, die aus Zuckerrohr hergestellt wird.
+
+
+
+
+
+<darkred>Besondere Rezepte (formlos):
+
+Je Ein Reis und Gelbwurz stellt ein vegetarisches Curry her.
+
+Je ein Reis, ein Gelbwurz und ein rohes Hühnchen stellt ein Murgh Curry her.

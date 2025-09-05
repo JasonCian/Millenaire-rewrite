@@ -1,0 +1,37 @@
+name=Sikuliaq
+weight=12
+radius=5
+carriesraid=false
+
+mindistancefromspawn=420
+
+//Vanilla biomes
+biome=TaigaHills
+biome=tundra
+biome=Taiga
+biome=Ice Plains
+biome=Cold Taiga Hills
+biome=Frozen River
+biome=Extreme Hills
+biome=Extreme Hills M
+biome=Extreme Hills+
+biome=Extreme Hills+ M
+biome=Taiga M
+biome=Taiga Hills
+biome=Taiga Hills M
+biome=Mega Taiga Hills
+biome=Redwood Taiga Hills M
+biome=Mega Taiga
+biome=Mega Spruce Taiga
+biome=Stone Beach
+
+//biomes o'plenty
+biome=ice mountains
+biome=autumn woods
+biome=dead forest
+biome=ominous woods
+biome=snowy coniferous forest
+biome=snowy forest
+
+//starting buildings=
+centre=lake2

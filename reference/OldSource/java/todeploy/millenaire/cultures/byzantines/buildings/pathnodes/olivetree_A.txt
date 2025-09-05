@@ -1,0 +1,17 @@
+building.length=7
+building.width=7
+building.icon=olives
+building.areatoclear=3
+building.farfromtag=pathnode,30
+building.max=6
+
+initial.startlevel=-1
+initial.nativename=Elaiódentro
+initial.tag=pathnode
+initial.tag=olives
+initial.pathlevel=0
+initial.priority=100
+initial.tag=patrol
+
+upgrade1.priority=300
+upgrade1.pathlevel=1

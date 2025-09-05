@@ -1,0 +1,89 @@
+female.BecomeAdult=Mainey socha tha kisi rajkumar sey shaadi hogi... / 我曾梦想过嫁给一个王子……
+
+female.gorest=Main ab aaraam karane jaoonga. / 我要去休息了。
+female.gorest=Main thak gayi hoon. / 我累了。
+female.gorest=Subah sey kaam kar rahi hoon. / 我一大早就开始不停的工作了。
+
+indian_armysmith.MakeWeapons=Hathiyaar bananey mein, upkaran bananey sey zyaada maan hai. / 制作武器要比制作工具更具盛名！
+
+indian_lumberman.BringBackResourcesHome=Itna saara lakri ghar ley jaaney mein mushkil hooga. / 带这么多木材回家可不轻松。
+indian_lumberman.ChopTrees=Yeh lakri kaat-tey kaat-tey meri zindagi beet jayegi. / 看来我的一生都要花在砍这些树上了。
+indian_lumberman.GatherGoods=Ab saari lakriyan ikaththa karta hoon. / 我要去收集木材。
+indian_lumberman.PlantSaplings=Jitna zyaada ped lagaoonga, utna hi aagey jaakey aaram raheyga. / 要想富，先种树。
+
+indian_pandit.gopray.chosen=Main mandir ki dekh bhaal nahin karoonga toh kaun karega? / 如果连我都不在意神庙了，谁还会在乎？
+indian_pandit.greeting=Jeetey raho. / 祝你长命百岁。
+
+indian_peasant.CookBrick=Dekho, aag mein kaisi badhiyan pakti hai yeh intein. / 看看，这些砖在火里烧得多好。
+
+indian_peasant.DryBrick=Ghar bananey key liye kitney inth chahiyey? / 你需要多少砖块来建造你的房子？
+
+indian_peasant.GatherBrick=Aaj suraj teez hai, inth jaldi sookh rahaien hain. / 阳光很强烈，那些砖很快就会干了。
+
+indian_peasant.GetResourcesForBuild=Hmmm, ek tan ka inth  chahiye, dau tan paththar .. / 让我看看，一吨砖块，两吨砖块……
+
+indian_peasant.SlaughterChicken=Bahut kha liya ghas-phoos. / 我有了足够的素食咖喱！
+indian_peasant.SlaughterChicken=Main murgiyon se napharat karata hoon ve zor se aur khae jaane ke alaava any kisee bhee any uddeshy kee seva nahin karate hain. / 我讨厌鸡。它们声音很大，除了吃以外，没有其他用途。
+
+indian_peasant.construction=Hindu vastu-kala desh videsh mein mashoor hai. / 印度的建筑闻名世界。
+indian_peasant.construction=Iskey baad, main lal kila banaoonga. / 等我造完这个建筑之后，我还要造一个红色的要塞。
+
+indian_peasantwife.GetHouseTHResources=Sab kuch toh thakur ko dey dena padta hai. / 所有的东西都归房东。
+indian_peasantwife.GetGoodsHousehold=Inkey liye chahey jitna bhi khana lao, kam padta hai. / 无论你为这个家庭付出了多少，那都不够！
+indian_peasantwife.DeliverGoodsHousehold=Uffh, itna sara khana akeley kaisey leh jaoongi. / 我怎么一个人搬走这所有的食物？
+indian_peasantwife.makeRasgulla=Bacchon koh rasgulla bahut pasand hai. / 孩子们都喜欢吃奶豆腐汤圆甜点。
+
+indian_smith.MakeTools=Sabhi merey banaye huye upkaran istamal kartey hain, phir bhi mujhey neecha samachtey hain. / 每个人都用我做的工具，然而每个人却都看不起我。
+indian_sculptor.Scult=Murtikala ched aur gaanth ki kala hai. / 雕刻就是石块和孔洞的艺术。
+
+male.BecomeAdult=Main badey hokar yodhdha ban-na chahta tha. / 在我年轻的时候，曾梦想过成为一个伟大的战士……
+
+male.gorest=Main ab aaraam karane jaoonga. / 我要去休息了。
+male.gorest=Main thak gaya hoon. / 我累了。
+male.gorest=Subah sey kaam kar raha hoon. / 我一大早就开始不停的工作了。
+
+merchant_adivasi.KeepStall=Sab kuch mere parivar dwara kheti ki gayi hai. / 所有东西都是由我那住在丛林深处的家人制作的。
+merchant_adivasi.greeting=Main van se a raha hoon / 我刚从丛林那边抵达这里。
+
+merchant_oriental.KeepStall=Dekho yeh phaarsa ka gaurav! / 见证波斯王国的辉煌吧！
+merchant_oriental.greeting=Salam alaikum, bhai! / 愿和平与你同在，朋友！
+
+merchant_villagewoman.KeepStall=Ghara ka bana khana, bhukhe yaatriyon ke lie! / 为饥饿的旅人准备的家庭美食！
+merchant_villagewoman.greeting=Ek akeelii mahila ke lie safar karna mushkil hai / 旅行对一个单身女人可不简单。
+
+villager.BecomeAdult=Khel kud bahut ho gaya, ab kaam par chalo. / 玩够了，要工作了。
+
+villager.GoPlay=Mujjhey mitti sey khelna accha lagta hai. / 我喜欢在泥巴里面玩。
+
+villager.childobserveagriculture=Phasalon ko ropan karana har din bahut ubaoo lagata hai. Mujhe saahas ka jeevan chaahie! / 种植作物整天似乎很无聊，我想要一个冒险的生活！
+villager.childobserveconstruction=Nirmaan mere lie bahut adhik kaam kee tarah dikhata hai. / 建筑对我来说似乎太多了。
+villager.childobservesmithing=Kitne mazbut hathiyaar! / 多么强壮的胳膊！
+villager.childobserveproducefood=Meri Ma sabase achchhe rasagulle banaati hai. / 我妈妈制作了最好的奶豆腐汤圆。
+
+villager.childeatsugarcane=Ma kahati hain ki yah daanton ko nukasaan pahunchaata hai, lekin yah bahut achchha hai! / 妈妈说它会蛀牙，但它是如此的美味！
+
+villager.HarvestRice=Adbhut baarish ke mausam kee vajah se, ab hamaare paas ek majaboot phasal hai.. / 由于这个美妙的雨季，我们现在有了很大的收获。
+
+villager.HarvestTurmeric=Haldi ki kheti kartey kartey merey haath peeley ho gayein hain. / 姜黄的收获使我的手变黄了。
+
+villager.PlantRice=Is saal barish achchi hui toh phasal accha hoga. / 如果雨量足够，今年就会是个大丰收。
+
+villager.PlantTurmeric=Haldi toh sabhi ko chahiyein. / 毕竟，每个人都需要姜黄。
+
+villager.calltoarms=Dushmano ki haar. / 击败那些敌人！
+villager.calltoarms=Jeet hamari hoogi. / 胜利必将属于我们。
+villager.calltoarms=Sab apney apney hathiyar utha lo! / 大家都拿起自己的武器！
+
+villager.gopray.chosen=Mandir jaaney ka samay ho gaya. / 是时候再次去拜访寺庙了。
+villager.gopray=Bhagwan, bas aap hi ka sahara hai. / 神啊，你是我们唯一的希望。
+villager.gopray=Hey Bhagwan, is baar phasal achhi ho. / 神明保佑会有一个好收成。
+
+villager.greeting=Aaj bahut garmi hai. / 今天可真热。
+villager.greeting=Ghar par sa theek hain? / 家人还好吗？
+villager.greeting=Kya haal hai? / 最近怎么样？
+villager.greeting=Kya khabar hai, $name-ji!? / 有什么消息吗，$name-ji！？
+villager.greeting=Kya tum se kale pani se pare ho? / 你是从大海的另外一边过来的吗？
+villager.greeting=Namaste, $name-ji! / 很高兴见到你，$name-ji！
+villager.greeting=Yeh barish kyun nahin ho rahi? / 为什么还不下雨？
+
+villager.inspectconstruction=Mujhe lagata hai ki hamaare raajamistree aise achchhe kaam karate hain. / 我喜欢看到我们的建筑工人生产这么好的作品。

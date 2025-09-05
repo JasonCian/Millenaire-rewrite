@@ -1,0 +1,10 @@
+0;Tujec;Nismo še videli to barco kože. Moramo se paziti.
+4*64;Znan obraz;Vedi, da te naši vojaki opazujejo!
+16*64;Reden obiskovalec;$name! Kolikokrat si nam že prinesel spremembo?
+64*64;Priljubljen trgovec;Pozdravljen, $name. Kot vedno so tvoje zaloge dobrodošle.
+2*64*64;Prijatelj vasi;$name, res si nam pomagalprinesti svetlejšo dobo.
+8*64*64;Eden naših;$name Naši šamani so te imenovali kot enega naših.
+32*64*64;Rojen vladar;Pridobil si ugled in zaupanje vseh Majev. Sedaj ti bodo sledili povsod. 
+-64;Nadloga;Zapusti naše dežele! Tvoje vrste ne bodo oskrunile naše kulture.
+-4*64;Neprijeten obiskovalec;Prinesel si smrad in nered v našo vas.
+-16*64;Sovražnik;Uničil si naš način življenja, kar ne bomo trpeli.

@@ -1,0 +1,49 @@
+
+culture.indian=Индийцы
+culture.fullname=Индийцы
+
+village.indian_agricole_hamlet=сельскохозяйственная деревушка
+village.indian_agricole=сельскохозяйственное поселение
+village.indian_controlled=управляемое поселение
+village.indian_customcontrolled=пользовательское поселение
+village.indian_fort_hamlet=военная деревушка
+village.indian_fort=форт
+village.indian_palace=дворец
+
+villager.indian_boy=Мальчик
+villager.indian_girl=Девочка
+villager.indian_teenagerMale=Юноша
+villager.indian_teenagerFemale=Девушка
+villager.indian_lumberman=Дровосек
+villager.indian_miner=Шахтер
+villager.indian_pandit=Жрец
+villager.indian_peasant=Крестьянин
+villager.indian_peasantwife=Крестьянка
+villager.indian_rajputgeneral=Генерал Раджпут
+villager.indian_richwoman=Богатая женщина
+villager.indian_soldier=Солдат Раджпута
+villager.indian_villagechief=Вождь
+villager.indian_smith=Кузнец
+villager.indian_armysmith=Оружейник
+villager.indian_sculptor=Резчик по камню
+villager.indian_panditayin=Жена жреца
+villager.indian_raja=Раджа
+villager.indian_rani=Королева рани
+villager.indian_merchant=Купец
+villager.indian_lonetrader=Одинокий торговец
+villager.indian_adivasipeasant=Крестьянин абориген
+villager.indian_adivasipeasantwife=Крестьянка абориген
+villager.indian_sadhu=Мудрец Садху
+villager.merchant_oriental=Персидский купец
+villager.merchant_adivasi=Купец абориген
+villager.merchant_villagewoman=Купчиха
+villager.indian_weaver=Ткач
+villager.indian_craftsman=Ремесленник
+villager.indian_painter=Художник
+
+shop.townhall=Главный рынок
+shop.forge=Инструменты
+shop.armyforge=Броня и оружие
+shop.adivasifarm=Продукты аборигенов
+shop.deserttradeoutpost=Драгоценности
+shop.sculptor=Продажа камня

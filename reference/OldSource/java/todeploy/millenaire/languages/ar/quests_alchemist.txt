@@ -1,0 +1,122 @@
+﻿
+
+
+alchemist_1_introb_0_label=الكيمياء
+alchemist_1_introb_0_description=يابني , لقد اتى لمسمعنا انك تطمح للحصول على معرفة قد تتجاوز بها قدرات البشر العاديين.لاتدخل في التوقعات والافكار المشتتة,إذا اردت من يرشدك,يجب عليك ان تتقاعد و تبقى بالدير وتدعو الرب ان تحصل على مطلبك. الرب يبتسم للأشخاص الحكماء اللذي يعلمون حددوهم بالتفكير وما اقصى مايصلون إليه من الفهم,لكنك انت شاب واناني ومتهور , وانا اعلم ان نصيحتي تسقط على اذن صماء, حتى تتعلم بنفسك وترى ماكنت اثرثر به إليك.كما كل الشباب مثلك !<ret><ret> هناك رجل اخر  يمكنك ان تذهب إليه وتراه , لربما يقدر على مساعدتك. او اقناعك بنسيان هذا الشيئ. هو يلعب بأشياء لا افهمها,ولكنه متعلم وذكي.هل تريد مني ان ارشدك إليه؟
+alchemist_1_introb_0_description_success=اسمه هو غيوم فيف ارجينت"Guillaume Vif-argent", وهو يدعو نفسه 'الكيمياء'.لااعلم مكانه بالتحديد,ولكن من المعلوم عنه انه يمللك ورشة في الجبال,ليتأمل النجوم.
+alchemist_1_introb_0_description_refuse=انت احكم مما تبدو عليه.
+alchemist_1_introb_1_label=بلّغ $startvillager_villagerrole$
+alchemist_1_introb_1_description=هل وجدت رجلك المنشود ,ماللذي يمكنك قوله عنه؟
+alchemist_1_introb_1_description_success=ارى ان معرفته قد ابهرتك,كن حذر, $name.
+alchemist_1_introb_1_description_refuse=سوف ابقى هنا وادعو الرب بأن تغير رأيك, $name.
+alchemist_1_introb_1_listing=ابحث عن برج الكيماء بالجبال وعندما تجده عد ل $startvillager_villagerrole$ بشأن $startvillager_villagename$.
+
+alchemist_1_introguildmasterb_0_label=الكيمياء
+alchemist_1_introguildmasterb_0_description=$name, لقد اتاني انك سافرت وبحث بهذه الاراضي لتستكشف أسرار هذا العالم. كان من الأفضل لك ان تختصر المسافة من البداية وتأتي إلي! واناأفتخر بمعرفتي لأعظم واذكى عقل بشري حيّ يرزق بعصرنا هذا, انه الكيميائي غيوم فيف ارجينت "Guillaume Vif-argent",الذي سمعته الثانية عند العاديين الذي لم يخوضو ضمار الفلسفة مثلنا.انه هو رجلك المنشود.
+alchemist_1_introguildmasterb_0_description_success=مكان وجوده ومختبره موجود بالمنطقة الجبلية, حيث يقوم بدراسة الصخور والنجوم.
+alchemist_1_introguildmasterb_0_description_refuse=حسناً قد لا تستمع لأفلاطون نفسه؟ لقد قمت بتخييب ظني,يا $name.
+alchemist_1_introguildmasterb_1_label=تقرير لرئيس النقابة
+alchemist_1_introguildmasterb_1_description=ماذا لديك من أخبار عن الكيميائي العظيم؟
+alchemist_1_introguildmasterb_1_description_success=أرى ان عقله لايزال ثاقب وحاد كالعادة. راقب وتعلم منه,أيها الشاب $name.
+alchemist_1_introguildmasterb_1_description_refuse=سوف ابقى هنا وادعو ان تغير رأيك,يا $name.
+alchemist_1_introguildmasterb_1_listing=جد برج الكيماء في المنطقة الجبلية,ثم قم بالتبليغ إلى $startvillager_villagerrole$ بشأن $startvillager_villagename$.
+
+alchemist_1_introknight_0_label=الكيمياء
+alchemist_1_introknight_0_description=إذاً تريد ان تعلم من بعالمنا هذا لديه معرفة عن العالم نفسه؟ ليسو الكهنة, هذا مؤكد. توخى الحذر من رؤساء النقابات, دائما مايدّعون بمعرفة أكثر  مابحوزتهم. هناك رجل واحد فقط يستطيع مساعدتك,ربما إدّعى انه حكيم ومتعلم ومن ثم عرض ان يحول الرصاص إلى ذهب لملكنا بالعالم القديم.....أسف اطلت عليك.على كل الأحوال. دائماً ماكنت اعتقد انه رجل غامض, لكن لديه شيء مميز عنّا.
+alchemist_1_introknight_0_description_success=هو مستقر بالبرية الأن, قرب الجبال.ويدّعي بأنه يريد الهدوء ليكمل عمله, لكن لدي شعور بانه يقوم بإخفاء شيء غريب هناك. على أية حال, اسمه غيوم فيف ارجينت   "Guillaume Vif-argent" .
+alchemist_1_introknight_0_description_refuse=ربما لرفضُك لقرار حكيم.
+alchemist_1_introknight_1_label=قم بتبليغ $startvillager_villagerrole$
+alchemist_1_introknight_1_description=هل رأيت الرجل؟ alchemist_1_introknight_1_description_success=هل بدأ عبقريا بالنسبة لك؟ حسناً, طالما لايتدخل في شؤون سيدي لايهمني الأمر...
+alchemist_1_introknight_1_description_refuse=شوف أبقى هنا وأدعو ان تغير رأيك, $name.
+alchemist_1_introknight_1_listing=ابحث عن برج الكيمياء بمنطقة الجبال, ثم بلّغ  $startvillager_villagerrole$ بشأن $startvillager_villagename$.
+
+alchemist_2_meeting_0_label=تحياتي
+alchemist_2_meeting_0_description=إذا لقد أتيت إلي راغباً في المعرفة, يا$name؟ لقد أصبت بمجيئك هنا.انا الكيميائي الوحيد الحقيقي بهذا العالم المنبوذ, يابني. لو رغبت في ان تتعلم مني, بجب عليك ان تساعدني. استطيع دائما الإستفادة من شاب مفيد مثلك.والمقابل سيكون علماً صافي اقدمه لك,أعلم اني لم انجح بتحويل الرصاص لذهب, ولكن قمت بتحويل الكيماء إلى عملات بالقصر.
+alchemist_2_meeting_0_description_success=تستطيع الإقامة بالمنزل بالخارج لو أردت.فمساعدي وأنا مشغولون حتى نتقاعد ونقيم بالمنزل.
+alchemist_2_meeting_0_description_refuse=إذاً إنصرف, فلدي عمل اقوم به.
+
+alchemist_3_ores_0_label=جمع الحجارة
+alchemist_3_ores_0_description=انا حالياً اقوم بالعمل على تحليل حجارة هذا العالم. بطريقة ما تبدو حجارة اليوم متشابه مع حجارة الماضي نوعاًما, ولكن توزيعها يختلف. أحتاج لعينات الأن! او أنك كنت تعتقد أني مجرد فيلسوف يعتمد على كتب الأخرين فيما يقول ويفكر؟
+alchemist_3_ores_0_description_refuse=إذاً لماذا تزعجني؟
+alchemist_3_ores_0_description_success=جيد,مساعدي سيوفر لك الأدوات التي تحتاجها للقيام بعملك.لاتقلق لن اكلفك بإحضار الألماس اعلم كم هو صلب, فلست بحاجة إليها. لقد قمت بالعمل عليها سابقاً.
+alchemist_3_ores_1_label=أخذ المعدات
+alchemist_3_ores_1_description=تحيات $name, انا مساعد السيد غيوم فيف أرجينت.لاتكن مستاء من بعض تصرفاته, أنه رجل علم حقيقي, لكنه مندمج جداً بعمله فليس لديه وقت للحياة الأجتماعية! لكنه حكيم جداً, هذا ما أعلمه. بأي حال, خذ هذه أدواتك.
+alchemist_3_ores_1_description_success=حظاًجيداً, يا$name!
+alchemist_3_ores_1_description_refuse=سوف ابلغ المعلم.
+alchemist_3_ores_1_listing=أخذ المعدات من مساعد الكيمائي.
+alchemist_3_ores_2_label=عد بالعينات
+alchemist_3_ores_2_description=مالذي وجدته؟
+alchemist_3_ores_2_description_success=جيد, جيد جداً! انت رجل مناضل, يا$name. احب هذا فيك.
+alchemist_3_ores_2_description_refuse=سوف ابقى هنا وأدعو ان تغير رأيك, $name.
+alchemist_3_ores_2_listing=عد بالعينات لترى الكيميائي.
+
+alchemist_4_lavab_0_label=A burning need
+alchemist_4_lavab_0_description=لدي تجربة كبيرة , يا$name. كما رأيت اثناء تجوالك حول العالم لايوجد بركان كبير كاالذي كان موجود قديماً, ولكن التربة مليئة بالحمم وليس من المالوف ان نرى تدفقاتها على السطح. أريد ان أعرف من ما صنعت هذه الحمم, وما إذا كانت الحمم تستطيع تغيير المعادن. رفيقي روبيرت كبير جداً ليتمكن من القيام بالعمل, لكنك تبدو حذق بما فيه الكفاية لتجلب لي العينات المطلوبة.
+alchemist_4_lavab_0_description_refuse=كل هذا لترفض بالنهاية؟
+alchemist_4_lavab_0_description_success=أذهب لروبيرت, انه يملك ماتحتاجه.
+alchemist_4_lavab_1_label=اخذ المعدات
+alchemist_4_lavab_1_description=انها الحمم مايحتاجه الأن صحيح؟ انا متأكد انه سيقوم بعمل جيد بها! خذ هذه الدلاء, وحظاًجيداً بمهمتك. تذكر المعلم يحتاجها جميعها ال 16 ممتلئة.
+alchemist_4_lavab_1_description_success=عد بسرعة, يا$name!
+alchemist_4_lavab_1_description_refuse=سوف أبلغ المعلم بهذا.
+alchemist_4_lavab_1_listing=التقاط المعدات من المساعد الكيميائي.
+alchemist_4_lavab_2_label=عد  بالحمم
+alchemist_4_lavab_2_description=هل جلبت جميع الحمم المطلوبة؟
+alchemist_4_lavab_2_description_success=ممتاز, سوف تعود بفائدة كبيرة لتجاربي.
+alchemist_4_lavab_2_description_refuse=سوف أبقى هنا وأدعو ان تغير رأيك, $name.
+alchemist_4_lavab_2_listing=عد بالحمم لترى الكيميائي.
+
+alchemist_5_creeper_0_label=الحاجة للمتفجرات
+alchemist_5_creeper_0_description=أه, يا$name! هل أعطاك المعلم إي مهمة مستعجلة؟ لا؟ جيد,جيد...انا بمشكلة,يا $name. المعلم طلب مني جلب كميات كبيرة من تلك المادة المتفجرة الغريبة التي يعثر عليها القرويين حول قريتهم, لكني لم أتمكن من جمع كمية كافية. سوف أخيب ثقته بي! هل تستطيه مساعدتي؟ سوف أوفر لك أي أداة تحتاجها.
+alchemist_5_creeper_0_description_refuse=مالذي سأفعله الأن؟
+alchemist_5_creeper_0_description_success=شكراً جزيلاً! طبعاً أستطيع ان اوفر لك قوس وأسهم لو كنت بحاجتها.
+alchemist_5_creeper_1_label=أجلب البارود
+alchemist_5_creeper_1_description=هل وفّقت بإيجاد البعض؟
+alchemist_5_creeper_1_description_success=كيف تمكنت من جلبها بسرعة؟ انت حقاً لرجل إستثنائي,يا $name. مهما فعلت فلن أستطيع شكرك بما فيه الكفاية!
+alchemist_5_creeper_1_description_refuse=سوف ابلغ المعلم بهذا.
+alchemist_5_creeper_1_listing=جمع البارود لمساعد الكيميائي.
+
+
+
+alchemist_6_boreholec_0_label=التنقيب العظيم
+alchemist_6_boreholec_0_description=لقد كنت أدرس جيلوجية هذا العالم, مع كل دقة الكيماء. الكثير منه كان غريباً, لكن ليست أكثر غرابة من طبقة الحجر الذي حاول مساعدي كسره فلم يستطع. لربما انه ليس قوي بما فيه الكفاية لكسره, أو لربما هنا شيء مثير وراء هذا, لم نستطيع الوصول إليه. كائناًماكان, انا مصر على تغييره.<ret><ret>هل أنت جاهز للقيام بعمل جاد,يا $name؟
+alchemist_6_boreholec_0_description_refuse=ماللذي تنتظره صدقة مني؟
+alchemist_6_boreholec_0_description_success=قيل أن نتمكن حقاً من كسر هذا الحاجز, نحن بحاجة إلى بداية صحيحة. $name, أحتاجك بأن تقوم بحفر بئر أو حفرة لإسفل العالم. أحفر من أي مكان تريد, لكن يجب ان تكون ابعادها خمسة بخمسة اي خمسة وعشرون متر مربع وأن تعرض الطبقة السفلى للشمس.<ret><ret>لاتقلق, لن تحفر بيدك المجردة. تفقد مساعدي سيزودك بأفضل أدة يمكن الحصول عليها من الكيمياء.
+alchemist_6_boreholec_1_label=إلتقاط المتفجرات
+alchemist_6_boreholec_1_description=حقاً سوف يتابع خطته في الحفر؟ انه لرجل عظيم, مع فكر عالي! بالطبع, الأن يتوقف علينا القيام بالعمل الحقيقي. حسناً, أقصد يتوقف عليك.<ret><ret>على أية حال... شكراً على مجموعة البارود, لقد قمت بتجهيز المتفجرات تحت إشرافه. سوف تساعدك على الحفر سريعاً.
+alchemist_6_boreholec_1_description_success=كن حذراً بإستخدامها, وحقاً اتمنى لك حظ جيد!
+alchemist_6_boreholec_1_description_refuse=سوف اخبر المعلم بهذا.
+alchemist_6_boreholec_1_listing=إلتقاط المتفجرات من مساعد الكيميائي.
+alchemist_6_boreholec_2_label=بلّغ الكيمائي
+alchemist_6_boreholec_2_description=أثق ان متفجراتي سوف تساعدك على إكمال مهمتك.
+alchemist_6_boreholec_2_description_success=عمل ممتاز! لديك مايتطلب لتكون كيميائي جيد,يا $name. تنفيذ مهمة من هذا القبيل من دون ان تفجر نفسك يظهر حقاً مدى براعتك.<ret><ret>انا مدين لك بالكثير, $name. الرجاء ان تقبل هذا..يعود الفضل في تمكني من صنعها لعيناتك التي جمعتها لي. سوف تشع عندما تكون على مقربة من المعادن الثمينة.<ret><ret>لقد وضعت اللمسات الأخيرة على مخططي لأختراق تلك الصخور الصلبة. كن مستعد.
+alchemist_6_boreholec_2_description_refuse=سوف أبقى هنا وأدعو ان تغير رأيك, $name.
+alchemist_6_boreholec_2_listing=احفر حفرة بقياسات 5*5 في الطبقة السفلة, ثم بلّغ للكيميائي.
+
+
+alchemist_7_boreholetnt_0_label=المسائل التفجيرية
+alchemist_7_boreholetnt_0_description=اليوم المنشود أتى, $name! لقد قمت بدراسية كيفية تركيز قوة المتفجرات لإختراق الطبقة السفلة, وأعتقد أني وجدت الطريقة. طبقة من كتلة السبج كافية لتركيز قوة التفجير لتحدث ثقب. هل أنت مستعد؟
+alchemist_7_boreholetnt_0_description_refuse=إذاً لما حدثتني؟
+alchemist_7_boreholetnt_0_description_success=روبيرت سيعطيك المتفجرات. إحرص على إنزالها لأسفل الحفرة التي حفرتها وضع المتفجرات هناك وضع فوقها طبيقة من السبج. حسب حساباتي, سوف تحتاج لعشرين من المتفجرات حتى يحدث تأثير فعّال. إحذر من السقوط أثناء نولك.
+alchemist_7_boreholetnt_1_label=إلتقاط المتفجرات
+alchemist_7_boreholetnt_1_description=لقد قمت بتجهيز كل شيء لك! المتفجرات, وسبج وأسلاك كافية حتى تكون بمأمان عند ماتنتهي.
+alchemist_7_boreholetnt_1_description_success=أهنئك يابني, صديقي الشاب - سوف تكون أول من يرى ماتحت الأرض!
+alchemist_7_boreholetnt_1_description_refuse=سوف أخبر المعلم بهذا.
+alchemist_7_boreholetnt_1_listing=إلتقاط المتفجرات من مساعد الكيميائي.
+alchemist_7_boreholetnt_2_label=بلّغ الكيميائي
+alchemist_7_boreholetnt_2_description=حسناً, $name! هل انهيت المهمة؟ ماهي الأشياء العظيمة التي رأيتها هناك؟
+alchemist_7_boreholetnt_2_description_success=لاشيء؟ لاشيء؟ كيف لهذا أن يكون ممكن؟ كيف يمكن لشيء أن يقاوم إنفجار مركز وقوي؟ هذا مستحيل, لربما قمت بإرتكاب خطأ أثناء التنفيذ! أو أن حساباتي خاطئة!<ret><ret>حسناً, حسناً, إعتذاراتي,  يا $name. أعلم أن تنفيذك وعملك للمهام دائما دقيق. كم أنا سخيف عندما إعتقدت أن متفجرات عادية قادرة على إحداث التأثير المناسب. يجب عليك تركي حتى أدرس جيداً يجب أن يكون هناك حل - وكيف أن ماتحت الأرض محمي جيداً يجب أن يكون شيء ثمين جداً حتى يتم حمايته بهذه القوة!
+alchemist_7_boreholetnt_2_description_refuse=سوف أبقى هنا حتى تغير رأيك, $name.
+alchemist_7_boreholetnt_2_listing=وضع عشرين حبة متفجرات داخل الحفرة, وتغطيتهم بكتلة من السبج وتفجريهم. بلّغ النتيجة للكيميائي.
+
+
+alchemist_8_anomalyb_0_label=الحالة الشّاذة
+alchemist_8_anomalyb_1_label=بلّغ الكيميائي
+
+
+
+alchemist_9_anomalytwob_1_label=بلّغ الكيميائي
+
+
+
+alchemist_10_anomalythree_1_label=بلّغ الكيميائي
+

@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=south": { "model": "millenaire:locked_chest" },
+    "facing=north": { "model": "millenaire:locked_chest" },
+    "facing=east": { "model": "millenaire:locked_chest" },
+    "facing=west": { "model": "millenaire:locked_chest" }
+  }
+}

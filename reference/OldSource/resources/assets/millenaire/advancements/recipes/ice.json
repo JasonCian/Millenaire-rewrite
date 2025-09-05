@@ -1,0 +1,25 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "millenaire:icebricks"
+    ]
+  },
+  "criteria": {
+    "main": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:ice"
+          }
+        ]
+	  }
+    }
+  },
+  "requirements": [
+    [
+      "main"
+    ]
+  ]
+}

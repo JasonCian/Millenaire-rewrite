@@ -1,0 +1,7 @@
+
+verze:3.4
+<darkblue>Rozsireni vesnice
+Kazda vesnice zacne jako mala vesnicka kolem centralni budovy (na zaklade prirody: pevnost, palac, klaster atd.. bezne se jim rika Mestske centra") s nejakyma bonusama nebo jinyma budovama. Hlavni cil vesnicanu je rozsirovat jejich vesnici a vylepsovani jiz postavenych budov. Z toho duvodu potrebuji suroviny - nektere si muzou vyrobit samy (drevorubec sbira drevo a hornici kameni..) ale ostatni zalezi na hraci. Potrebny material k vystavbe jejich budov je zobrazen v hlavni budove. Prodanim techo surovin jim muzete pomoct.
+Populace vesnicanu casem poroste - pres noc manzelsky par muze mit deti. Az deti vyrostou tak se prestehuji do vlastniho domu pokud bude dostupny a stanou se dospelymi.
+Rozsireni vesnice skonci dvema zpusoby: bud vesnice dokonci vystavbu vsech budov nebo uz nebudou mit misto kde stavet. V druhem pripade se muzete podivat na mapu kde vesnicane nemohou stavet a muzete jim pomoct napr. zastavenim jezera.
+Nekdy vesnice potrebuje typ blocku ktery nemuzete vycraftit jako napr. Normani a Japonci jejich drevene ramy. Musite pockat az vesnice vybuduje Dilnu a usadi zde dite jako remeslnika.

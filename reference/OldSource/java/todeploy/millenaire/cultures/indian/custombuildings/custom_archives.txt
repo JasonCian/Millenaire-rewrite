@@ -1,0 +1,1 @@
+native:Puraalekhagar;gameNameKey:archives_A0;sign:10-50;tag:archives;radius:10

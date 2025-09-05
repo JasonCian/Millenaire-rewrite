@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "millenaire:byzantineplate"
+        },
+        "title": {
+            "translate": "advancements.selfdefense.name"
+        },
+        "description": {
+            "translate": "advancements.selfdefense.desc"
+        }
+    },
+    "parent": "millenaire:firstcontact",
+    "criteria": {
+        "selfdefense": {
+            "trigger": "selfdefense"
+        }
+    }
+}

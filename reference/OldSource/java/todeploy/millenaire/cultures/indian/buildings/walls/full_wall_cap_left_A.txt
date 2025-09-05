@@ -1,0 +1,16 @@
+building.length=6
+building.width=3
+building.icon=sandstone
+building.max=0
+building.buildingorientation=3
+building.areatoclearlengthbefore=0
+building.areatoclearlengthafter=0
+building.areatoclearwidthbefore=3
+building.areatoclearwidthafter=0
+building.iswallsegment=true
+
+initial.startlevel=-5
+initial.nativename=Gaanv ki Divaar
+initial.nopathstobuilding=true
+initial.priority=500
+initial.tag=wall_level_1

@@ -1,0 +1,21 @@
+//Parameters for the building as a whole
+building.length=9
+building.width=13
+building.buildingorientation=3
+building.mindistance=0.6
+building.icon=mudbrick
+building.randombrickcolour=white;white:50,silver:30
+building.version=2
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Int Bhatta
+initial.priority=1000
+initial.pathwidth=1
+initial.tag=brickkiln
+
+//Parameters for specific upgrades
+upgrade1.priority=1000
+
+upgrade2.priority=100
+

@@ -1,0 +1,20 @@
+name=Lost Maya Corn Farm
+weight=10
+radius=15
+
+//Vanilla biomes
+biome=Swampland
+biome=JungleEdge
+biome=Jungle
+biome=Birch Forest
+biome=Birch Forest M
+biome=Roofed Forest
+
+//biomes o'plenty
+biome=bayou
+biome=lush swamp
+biome=rainforest
+biome=tropical rainforest
+
+//starting buildings=
+centre=lonemayancornfarm

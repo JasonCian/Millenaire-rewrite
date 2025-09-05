@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:iron_axe"
+        },
+        "title": {
+            "translate": "advancements.viking.name"
+        },
+        "description": {
+            "translate": "advancements.viking.desc"
+        }
+    },
+    "parent": "millenaire:scipio",
+    "criteria": {
+        "main": {
+            "trigger": "viking"
+        }
+    }
+}

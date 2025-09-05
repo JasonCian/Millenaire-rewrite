@@ -1,0 +1,29 @@
+{
+    "variants": 
+    {
+        "facing=up": 
+        { 
+            "model": "millenaire:mayan_calendar" 
+        },
+    
+        "facing=south": 
+        { 
+            "model": "millenaire:mayan_calendar" 
+        },
+    
+        "facing=east": 
+        { 
+            "model": "millenaire:mayan_calendar","y":270 
+        },
+    
+        "facing=west": 
+        { 
+            "model": "millenaire:mayan_calendar","y":90 
+        },
+    
+        "facing=north": 
+        { 
+            "model": "millenaire:mayan_calendar","y":180 
+        }
+    }
+}

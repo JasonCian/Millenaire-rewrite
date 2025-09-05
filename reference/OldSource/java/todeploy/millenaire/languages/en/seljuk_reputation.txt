@@ -1,0 +1,15 @@
+0;Stranger;God bless you, stranger! Be on your best behavior and we'll stay on friendly terms.
+4*64;Familiarity;Welcome! Feel free to stay here to get out from under the hot sun, traveller.
+8*64;Known Face;Ah, $name, it is good to see you again. Any interesting stories to tell?
+16*64;Regular Visitor;The people of the village seem to be warming up to you. Keep it up and you'll have friends for life.
+32*64;Fellow Wanderer;Everyone is on their own journey through life, and we're glad to know that you've been willing to join us on ours.
+64*64;Favourite Trader;We look forward to seeing what you've brought with you today! Anything new?
+2*64*64;Friend of the Village;God brought you to us, and we're very glad that He did, friend.
+4*64*64;Respectable Ally;We Turks are not known for being the most trusting of outsiders, but we're more than happy to know that we can call you one of our closest allies.
+8*64*64;One of Us;You might not have been born a Turk, $name, but as far as I can tell, you're just as Seljuk as anyone else here.
+32*64*64;Natural Leader;$name, you have gained the trust and respect of the Seljuks. They will follow you anywhere.
+4*32*64*64;The Next Great Sultan;While some may object, we all know that there's no one better than you to carry out the will of God and of the Turkish people.
+-64;Nuisance;We don't want any trouble here.
+-4*64;Unpleasant Outsider;Please, stop harrassing us. Go away if you want to make trouble.
+-16*64;Public Enemy;We have nothing to say to you. Get going before we kill you.
+-64*64;Scourge;Maybe if you repent now, we might forgive you, but I think you're too far gone. 

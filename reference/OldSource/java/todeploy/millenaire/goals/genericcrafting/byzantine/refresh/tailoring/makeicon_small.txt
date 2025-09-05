@@ -1,0 +1,36 @@
+//Note pour les utilisateurs de Windows: si vous voyez le fichier entier sur une seule ligne, ouvrez-le avec PSPAd ou UltraEdit plutôt que Notepad
+
+//Note to Windows users: if you see the entire file in one line, open it using PSPad or UltraEdit instead of Notepad
+
+priority=25
+
+//en/in millisecondes
+duration=50000
+
+
+//spécifier si l'étiquette ou les phrases pour ce but n'ont pas le code du but lui-même
+//specify if the label and sentences for this goal is not the name of the goal itself
+sentencekey=makeicon
+labelkey=makeicon
+
+//objets tenus par le villageois
+heldItemsDestination=silk,byzantineiconsmall
+heldItemsOffhandDestination=shears
+
+//chaque action consome tous les objets "input" et produit tous les "output"
+//each action will require and use all the inputs and produce all the outputs
+input=silk,5
+//input=dye_yellow,2
+input=dye_purple,2
+output=byzantineiconsmall,1
+
+//s'il y a plus d'objets dans le centre du village que ça, arrêter le but
+//if more than that number of item is present in townhall, stop goal
+townhalllimit=byzantineiconsmall,32
+
+
+//son à jouer quand un objet est fabriqué
+//sound to play once an object is done
+sound=wood
+
+requiredtag=loom

@@ -33,10 +33,6 @@ run/
 run-data/
 logs/
 crash-reports/
-/reference/
-reference/
-reference/**
-**/reference/**
 
 # Compiled class files
 *.class

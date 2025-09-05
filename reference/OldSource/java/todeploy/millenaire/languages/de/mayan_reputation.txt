@@ -1,0 +1,17 @@
+//* Der Teil vor dem ";" ist der Ruf, danach kommt die Beschreibung
+
+
+0;Fremder;Wir haben noch nie jemanden von Deiner Hautfarbe gesehen, wir müssen vorsichtig sein.
+4*64;Vertrauter;Sei gewarnt, unsere Krieger haben ein Auge auf Dich.
+8*64;Bekanntes Gesicht;Unsere Baumeister sagen, dass du uns hochqualitativen Stein verkauft hast. Wir müssen dich nicht mehr beobachten.
+16*64;Regelmäßiger Besucher;$name! Hat die Zeit Veränderungen gebracht?
+32*64;Befreundeter Steinbergmann;Du kannst uns mögen. Du weißt wie man Stein abbaut, wir könnten Freunde werden.
+64*64;Bevorzugter Händler;Hallo, $name. Wie immer sind Deine Waren willkommen.
+2*64*64;Freund des Dorfes;$name, Du hast uns wirklich geholfen, ein besseres Zeitalter zu erreichen.
+4*64*64;Wertvoller Verbündeter;$name, du bist ein guter Verbündeter für dieses Dorf geworden. Danke für all die Ressourcen und Taten, mit denen du uns unterstützt hast!
+8*64*64;Einer von uns;$name unsere Schamanen haben Dich als einen der unseren gesalbt.
+32*64*64;Geborener Anführer;Du hast Dir den Respekt und das Vertrauen aller Maya verdient. Sie werden Dir überall hin folgen.
+4*32*64*64;Großer Steingott;Wir wissen, dass du nicht von dieser Welt bist, aber du hast uns ganze Berge von Stein gegeben. Du musst ein Gott sein!
+-64;Ärgernis;Verlass unser Land. Deine Art wird unsere Kultur nicht entweihen.
+-4*64;Unangenehmer Außenseiter;Du hast Gestank und Chaos in unser Dorf gebracht.
+-16*64;Staatsfeind;Du hast unsere Leben ruiniert, das wird nicht toleriert.

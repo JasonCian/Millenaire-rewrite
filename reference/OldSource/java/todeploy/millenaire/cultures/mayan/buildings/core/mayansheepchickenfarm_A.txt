@@ -1,0 +1,27 @@
+//Parameters for the building as a whole
+building.length=16
+building.width=12
+building.buildingorientation=2
+building.mindistance=0.5
+building.icon=feather
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Ah Kax Makan
+initial.priority=1000
+initial.male=mayan_chickenfarmer
+initial.female=mayan_peasantwife
+initial.tag=chicken
+initial.tag=oven
+initial.tag=nopaths
+initial.shop=mayansheepchickenfarm
+
+//Parameters for specific upgrades
+upgrade1.priority=100
+
+upgrade2.priority=95
+
+upgrade3.priority=90
+upgrade3.pathlevel=1
+

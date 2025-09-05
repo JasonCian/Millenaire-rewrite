@@ -1,0 +1,13 @@
+minreputation:0
+chanceperhour:0.1
+maxsimultaneous:2
+
+step:new
+duration:48
+definevillager:key=startvillager,type=byzantines/lumberman_byzantine,forbiddentag=lumbermanwine_done
+villager:startvillager
+requiredgood:winefancy,1
+rewardmoney:64
+rewardreputation:128
+settagsuccess:startvillager,lumbermanwine_done
+settagfailure:startvillager,lumbermanwine_done

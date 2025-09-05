@@ -1,0 +1,1 @@
+native:Kikori Koya;gameNameKey:japaneselmh_A0;male:japanese_Lumberman;female:japanese_peasantwife;chest:1-5;sign:1;moveinpriority:10

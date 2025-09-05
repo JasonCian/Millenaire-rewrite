@@ -1,0 +1,64 @@
+villager.greeting=Xaire, $name! / 你好， $name！
+villager.greeting=Omorfi mera, etsi den einai? / 真是個美好的一天，不是嗎?
+villager.greeting=Tha brochi. Syntoma.  / 馬上就要下雨了。
+villager.greeting=Kamia poli ston kosmo boroun na synkrithoun me tin Konstantinoupoli/ 這世界上沒有任何城市能和君士坦丁堡相提並論。
+villager.greeting=Den eimaste Ellines , eimaste Romaioi. / 我們才不是希臘人，是羅馬人！
+villager.greeting=Eimaste Byzantinoi einai to teleutaio alaethino Romaious. Bask stae doxa tou politismou mas. / 我們拜占庭人是現在唯一正統的羅馬人，沉浸在我們文明的榮耀之中吧！
+villager.GoPlay=Nomizo oti tha pao na paixoun exo. / 我想我該出去玩了。
+villager.gorest=Eimai kourasmenos. Tha pao spiti na koimitho. / 我累了，我等下就要回家去睡覺了。
+villager.makeBread=To psomi einai aedae myrodia kalo. / 這麵包聞起來真的好棒哦...
+villager.gorest=Nomizo oti tha pao gia Hypno. / 我等下就要去睡覺了。
+villager.BecomeAdult=Telos tha ginei mia romaiki politi! / 我終於成為了一個羅馬公民啦！
+villager.calltoarms=Ae Romaikae Autokratoria dexetai epithesi ! Gia ta opla ! / 羅馬帝國遭到攻擊了，拿起武器！
+villager.GoPlay=Nomizo oti tha pao na paixoun exo. / 我想我該出去玩了。
+
+architect_byzantine.construction= Staen pragmatikotita eimai enas kallitechnis otan ylopoisi ton en logo epexergasia domes. / 我竟然做出了這麼精細的東西，看來我真的是一個藝術家！
+architect_byzantine.construction=Ae architektonikae aemas den borei na synkrithei me kamia alli. / 別人的建築完全不能和我們的建築相提並論。
+artisan_byzantine.greeting=Ae zoae mou einai poly kalyteri apo tae zoae ton allon anthropon edo. / 我的生活可比其他住在這裡的人好多了。
+artisan_byzantine.makePainting=Romanikaes technaes aemas einai ae kalyterae ston kosmo. / 羅馬的藝術是這世上最先進的。
+
+merchant_art.greeting=Kamia poli ston kosmo boroun na synkrithoun me tin Konstantinoupoli/ 這世界上沒有任何城市能和君士坦丁堡相提並論。
+merchant_art.greeting=Eimaste Byzantinoi einai to teleutaio alaethino Romaious. Bask stae doxa tou politismou mas. / 我們拜占庭人是現在唯一正統的羅馬人。
+
+smith_byzantine.MakeIndianTools=Vyzantini̱ ergaleia einai ta kalytera ston kosmo. / 拜占庭的工具可是世界上最好的呢。
+armysmith_byzantine.MakeIndianTools=Vyzantini̱ ergaleia einai ta kalytera ston kosmo. / 拜占庭的工具可是世界上最好的呢。
+armysmith_byzantine.MakeByzantineMace=Mi̱n prospathi̱sete katapolemi̱si̱ enan andra oplismeno me mena. / 千萬不要和拿著我打造的武器的人打架。
+
+wife_byzantine.greeting=To kathikon mas einai na elenchei tous andreous aemas. / 我們的任務就是控制好我們的人民。
+wife_byzantine.greeting=Os gynaika sas , den yparchoun polla pou sas epitrepete na edo... / 作為一個女人，在這裡你是不能參予很多事的...
+wife_byzantine.getGoodsHousehold=Ora na noiazontai gia to noikokyrio. / 是時候去處理點家務事了。
+wife_byzantine.DeliverGoodsHousehold=Tetoia pragmata opos afto einai ta mona pragmata pou boro na kano edo. / 我所能做的事情，也只有像這種事情了。
+wife_byzantine.GetHouseTHResources=Telos o syzygos mou echei paradothei porous tou, opos tou eipa. / 我的丈夫終於照我說的去將物資送過去了。
+wife_byzantine.cooking=Ae kouzina tou einai pragmatika diaskedastiko. / 烹飪真的挺有趣的。
+
+miner_byzantine.Mining=Se afti tin dynami kai tin antochi douleia einai aparaititi. Omos, kaneis edo den echei syneiditopoiaesei pote... / 這個工作是非常需要力量與耐心的，但是沒有人注意到這點...
+miner_byzantine.Mining=Eimai perifanos pou Romaiki kai ergazontai gia afto to Empire doxa , akoma kai se afto to dyskolo ergo. / 即使這份工作很辛苦，但我依然為成為羅馬公民並為帝國工作而感到光榮！
+
+patriarch_byzantine.makebooks=Ta biblia mou einai merika apo ta kalytera cheirografa ekei exo. / 我的書可是這裡最好的稿子。
+pastor_byzantine.makebooks=Ta biblia mou einai merika apo ta kalytera cheirografa ekei exo. / 我的書可是這裡最好的稿子。
+
+lumberman_byzantine.BringBackResourcesHome=Ae gynaikos mou prepei na einai perifanoi giati ola ta xyla pou echo pira . / 我的妻子一定因會為我帶了這麼多的木頭而感到自豪。
+lumberman_byzantine.ChopTrees=Kathe domi tou xylou mas anankes , kai na parei afti einai ae douleia mou! / 這裡所有的建築都需要木材，而我的工作就是去搜集它們！
+lumberman_byzantine.GatherGoods=Nikaia dendryllio ekei. / Nice sapling over there.
+lumberman_byzantine.PlantSaplings=Syntoma auto tha einai ana megalo, epivlitiko dentro ! Kai tha to meiosoun.  / 不久之後，這棵樹將會長的高大雄偉！然後我就會砍倒它！
+
+keeperBirch_byzantine.greeting=Pos tha borouse na irthe me tin idea tis ergasias edo... / 為甚麼會有人認為這裡應該設崗...
+keeperBirch_byzantine.greeting=Einai toso vareti edo, tipota den symvainei pote... / 好無聊啊，這裡甚麼事情也沒發生過...
+keeperBirch_byzantine.greeting=Geia sou, anarotiemai pos tha vrethei afto to mikro meros makrino. / 你好啊，旅行者！我很好奇你為甚麼會在這麼偏僻的地方駐足？
+
+
+keeperOak_byzantine.greeting=Pos tha borouse na irthe me tin idea tis ergasias edo... / 為甚麼會有人認為這裡應該設崗...
+keeperOak_byzantine.greeting=Einai toso vareti edo, tipota den symvainei pote... / 好無聊啊，這裡甚麼事情也沒發生過...
+keeperOak_byzantine.greeting=Geia sou, anarotiemai pos tha vrethei afto to mikro meros makrino. / 你好啊，旅行者！我很好奇你為甚麼會在這麼偏僻的地方駐足？
+keeperOak_byzantine.greeting=Aftoi oi anthropoi edo, lene eafto tou 'Normans', mou thymizoun ti doxa tis aftokratorias mas. / 那些自稱是諾曼人的當地居民們，讓我想起了我們輝煌的帝國。
+
+keeperPine_byzantine.greeting=Pos tha borouse na irthe me tin idea tis ergasias edo... / 為甚麼會有人認為這裡應該設崗...
+keeperPine_byzantine.greeting=Einai toso vareti edo, tipota den symvainei pote... / 好無聊啊，這裡甚麼事情也沒發生過...
+keeperPine_byzantine.greeting=Geia sou, anarotiemai pos tha vrethei afto to mikro meros makrino. / 你好啊，旅行者！我很好奇你為甚麼會在這麼偏僻的地方駐足？
+keeperPine_byzantine.greeting=Afto to kryo einai fovero. Den yparchei amfivolia den boro na vro tous anthropous edo... / 這裡真的是有夠冷的，難怪這附近都沒有人居住！
+
+keeperTropical_byzantine.greeting=Pos tha borouse na irthe me tin idea tis ergasias edo... / 為甚麼會有人認為這裡應該設崗...
+keeperTropical_byzantine.greeting=Einai toso vareti edo, tipota den symvainei pote... / 好無聊啊，這裡甚麼事情也沒發生過...
+keeperTropical_byzantine.greeting=Geia sou, anarotiemai pos tha vrethei afto to mikro meros makrino. / 你好啊，旅行者！我很好奇你為甚麼會在這麼偏僻的地方駐足？
+keeperTropical_byzantine.greeting=Einai toso zesta edo. Den boro na katalavo giati aftoi 'Hindi' zoun se afti ti gi. / 這裡真的是超熱的，我完全無法理解那些印度人為甚麼會想住在這裡。
+keeperTropical_byzantine.greeting=Echete dei pote aftes tis perierges 'Maya' ? Ktirion tous moiazoun san na borouse na katarrefsei kathe defterolepto. /你有沒有見過那些怪異的馬雅人？他們的建築看起來好像一陣風就能吹倒。

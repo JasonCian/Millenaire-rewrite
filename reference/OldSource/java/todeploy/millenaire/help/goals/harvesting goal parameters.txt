@@ -1,0 +1,15 @@
+List of parameters usable in harvesting goals:
+
+croptype (Minecraft ID of a block ('wheat')):
+Type of plant to harvest.
+
+harvestitem (item, chance and (optional) required tag ('leather,50' or 'boudin,50,oven')):
+Item to be harvested, with chance.
+
+irrigationbonuscrop (item (from itemlist.txt)):
+Boons for irrigated villages.
+
+harvestblockstate (a Minecraft blockstate ('red_flower;type=blue_orchid')):
+Blockstate the crop must have to be harvested. If not set, must have a meta of 7.
+
+

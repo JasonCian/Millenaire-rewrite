@@ -1,0 +1,179 @@
+sadhu_intro_0_label=The Sadhu
+sadhu_intro_0_description=$name, we have known you for a long time now, and you know we trust you as one of us, despite never asking who you were or where you came from. Originally, we thought that you were simply a man from another nation that like us had been carried here on the fateful day where the earth shook and we found ourselves in this strange land, where the seasons never change and the rivers do not flow - someone like those strange men in their stone pyramids, or the white-faced men skilled in the forging of iron.<ret><ret>But we have observed you long, and you are different. You seem to have no memory of an earlier land, and thrive here as if you belonged. And yet we have never met anyone else of your kind.<ret><ret>If you know more than we do and do not want to share it, that is your right. But if - as I suspect - you wonder yourself what strange world you roam and what is your place in it, you need wisdom I do not have. One man only that I have heard of can help you: my old guru, Sadhu Vidya. I have not seen him in many years, but I know he wanders in the forest, choosing tall and strong trees for shelter. When you meet him, convey to him my thanks for the wisdom he shared with me.
+sadhu_intro_0_description_success=The Goddess bless you on your travels.
+sadhu_intro_0_description_refuse=The road to self-discovery is hard, I understand.
+sadhu_intro_1_label=Report to the Pandit
+sadhu_intro_1_description=So, have you met my old guru?
+sadhu_intro_1_description_success=He has greatly honoured you by sharing his knowledge with you! You are a man the Gods smile upon.
+sadhu_intro_1_description_refuse=I will stay here and pray you change your mind, $name.
+sadhu_intro_1_listing=Find the Sadhu under a tall tree in a forest. When you have met him, Say so to the Pandit of village $startvillager_villagename$.
+
+sadhu_introwife_0_label=The Sadhu
+sadhu_introwife_0_description=$name, we have known you for a long time now, and you know we trust you as one of us, despite never asking who you were or where you came from. Originally, we thought that you were simply a man from another nation that like us had been carried here on the fateful day where the earth shook and we found ourselves in this strange land, where the seasons never change and the rivers do not flow - someone like those strange men in their stone pyramids, or the white-faced men skilled in the forging of iron.<ret><ret>But we have observed you long, and you are different. You seem to have no memory of an earlier land, and thrive here as if you belonged. And yet we have never met anyone else of your kind.<ret><ret>If you know more than we do and do not want to share it, that is your right. But if - as I suspect - you wonder yourself what strange world you roam and what is your place in it, you need wisdom that few people have. Only one man that I have heard of can help you: Sadhu Vidya, a wise man who helped me in difficult times. I have not seen him in many years, but I know he wanders in the forest, choosing tall and strong trees for shelter. When you meet him, convey to him my thanks for his past wisdom.
+sadhu_introwife_0_description_success=The Goddess bless you on your travels.
+sadhu_introwife_0_description_refuse=You should not refuse the help of such a holy man.
+sadhu_introwife_1_label=Report to the $startvillager_villagerrole$
+sadhu_introwife_1_description=So, have you taken advice from the holy man?
+sadhu_introwife_1_description_success=He has greatly honoured you by sharing his knowledge with you! You are a man the Gods smile upon.
+sadhu_introwife_1_description_refuse=I will stay here and pray you change your mind, $name.
+sadhu_introwife_1_listing=Find the Sadhu under a tall tree in a forest. When you have met him, Say so to the $startvillager_villagerrole$ of village $startvillager_villagename$.
+
+sadhu_first_0_label=Initiation
+sadhu_first_0_description=I was expecting you, $name. Villagers visit me to seek advice, and I have been told many times about the stranger without a past that befriends Indian villages and seems at home in this wild world we have all been sent to. You must have been told by some village elder that I would answer your questions. It will not be so easy. My knowledge was great in the old world on the banks of the Holy Ganges, but here I must learn everything anew. If you seek a Guru, you have come in vain.<ret><ret>However... Before I retired to a life of meditation, I was skilled in the knowledge of the natural world. There was not a plant I could not name or use between the Himalayas and the jungles of the south. And while my body has grown frail, my mind is still sharp. Help me study this world and you too will learn much about it. But be warned: not all creatures here are peaceful, and I belive we may face... resistance when exploring this world.
+sadhu_first_0_description_success=I will meditate now. Come back in a little while for your first task.
+sadhu_first_0_description_refuse=I will stay here and pray you change your mind, $name.
+
+sadhu_1_samples_0_label=Botanical samples
+sadhu_1_samples_0_description=Your first task will be simple. I need to assemble a collection of the main vegetation types to be found around here. I would go myself, but I have vowed to stay within reach of this tree for the next three full moons, so you will have to perform this task.
+sadhu_1_samples_0_description_success=I will meditate in your absence.
+sadhu_1_samples_0_description_refuse=I will stay here and pray you change your mind, $name.
+sadhu_1_samples_1_label=Return samples
+sadhu_1_samples_1_description=I have been praying for guidance while you were working.
+sadhu_1_samples_1_description_success=Those samples will be most useful. I will praise you to the Goddess, $name.<ret><ret>I see also you found this task too simple. Know that no useful task is unworthy of being done. And know also that I foresee more demanding work for you in the future.<ret><ret>Come back when you have rested a little.
+sadhu_1_samples_1_description_refuse=I will stay here and pray you change your mind, $name.
+sadhu_1_samples_1_listing=Bring the samples back to the Sadhu.
+
+sadhu_2_forest_0_label=Exploring the forest
+sadhu_2_forest_0_description=We need to study the main landscapes of this new world. We will start with the forest; You will need to open your mind to this place and visit it at night. Start at sunset, and spend the night strolling through it, observing.<ret><ret>I do not need to remind you that outdoors are dangerous when the sun is down, but the gods will watch over you. Carrying a sword would be a good idea as well â€“ I have noticed that well-prepared warriors enjoy more effective divine protection.
+sadhu_2_forest_0_description_success=I will meditate in your absence.
+sadhu_2_forest_0_description_refuse=I will stay here and pray you change your mind, $name.
+sadhu_2_forest_1_label=Report findings
+sadhu_2_forest_1_description=So how was your midnight stroll? Are you closer to enlightenment?
+sadhu_2_forest_1_description_success=So you say it was agitated? This was to be expected, and yet you seem to have met more resistance than chance would suggest. There is much yet we do not understand in this world. Give me time to reflect on this and come back to see me.
+sadhu_2_forest_1_description_refuse=I will stay here and pray you change your mind, $name.
+sadhu_2_forest_1_listing=Explore the forest at night as indicated by the Sadhu.
+
+sadhu_3_pandit_0_label=Hindu epics
+sadhu_3_pandit_0_description=I have reflected long on your misadventures in the forest, and illumination eludes me. Those grotesque caricatures of men are unlike anything I had ever seen in our disappeared world, and I cannot understand their existence of purpose. There are however talks of demons in ancient Hindu epics that could relate to them. My solitary existence prevents me from keeping such expensive parchments, but you should be able to find them in Indian villages.
+sadhu_3_pandit_0_description_success=I need a library of my own... The life of a sadhu has its drawbacks.
+sadhu_3_pandit_0_description_refuse=I will stay here and pray you change your mind, $name.
+sadhu_3_pandit_1_label=Bring the books back
+sadhu_3_pandit_1_description=I have prayed long while you were gone, $name. I hope you found them without difficulties.
+sadhu_3_pandit_1_description_success=I thank you, $name. I will need to study those books for some time now. Go and meditate and come back when you have found inner peace.
+sadhu_3_pandit_1_description_refuse=You sadden me.
+sadhu_3_pandit_1_listing=Find an Indian villager you can borrow the books from and bring them back to the Sadhu.
+
+sadhu_3b_pandit_0_label=Speak to the pandit
+sadhu_3b_pandit_0_description=So you have met the wise sadhu? You must be honoured to be working under such a holy man!<ret><ret>I will of course give him the books he need right away. You should read them as well. Of course, assuming you are educated enough to read Sanskrit.
+sadhu_3b_pandit_0_description_success=And convey my regards to the holy sadhu!
+sadhu_3b_pandit_0_description_refuse=You dare refuse a task given to you by the Sadhu in person?
+
+sadhu_3b_wife_0_label=Speak to the $startvillager_villagerrole$
+sadhu_3b_wife_0_description=The Sadhu needs the great Hindu epics? It is an honour to let him take the copy I have!
+sadhu_3b_wife_0_description_success=And convey my regards to the holy sadhu!
+sadhu_3b_wife_0_description_refuse=You dare refuse a task given to you by the Sadhu in person?
+
+sadhu_4_desertb_0_label=Exploring the desert
+sadhu_4_desertb_0_description=The great epics are a source of wisdom, in this world like the old one. Many great heros and gods fought against demons in the old times, and the knowledge of their prowess will surely help protect you against evil in this dark world. I believe I can use this knowledge to protect you, but I will need to fast to purify myself first.<ret><ret>While I prepare myself, I want you to continue your work and gather information on this world's barren wastelands, where humans rarely go. Maybe you will meet less opposition there. Go and explore the first desert you find like you explored the forest.
+sadhu_4_desertb_0_description_success=I will fast while you are gone.
+sadhu_4_desertb_0_description_refuse=You sadden me, $name.
+sadhu_4_desertb_1_label=Report findings
+sadhu_4_desertb_1_description=I trust the Goddess kept you safe during your exploration.
+sadhu_4_desertb_1_description_success= Your description of the desert as "barren" and "sandy" does little to increase our knowledge, $name. But it is interesting that you noticed more of those walking skeletons than previously. The land itself seems to react to you exploring it.<ret><ret>In your absence, I have prayed long and hard, and Vishnu in his infinite widsom chose to bless our quest. He has granted me the knowledge to feel evil around me, and to pour it in this amulet. Take it, and let it protect you.
+sadhu_4_desertb_1_description_refuse=I will stay here and pray you change your mind, $name.
+sadhu_4_desertb_1_listing=Explore a desert at night as indicated by the Sadhu.
+
+sadhu_5_adivasi_0_label=Marsh expert
+sadhu_5_adivasi_0_description=$name, we need to continue gathering information on this world. I believe the marshes to be particularly important places as they seem to be present far more than natural forces would suggest. Thankfully for you, there will be no need to explore them yourself. There are people whose knowledge of them is unmatched: the adivasi farmers. Those men are poor and looked down upon by the villagers, but they are observant and spend their lives deep in the marshes. Find one and ask him for information. Tell him you are coming on my behalf and he will be welcoming.
+sadhu_5_adivasi_0_description_success=I cannot give you directions to their dwellings, but search the marshes and you should find them.
+sadhu_5_adivasi_0_description_refuse=I will stay here and pray you change your mind, $name.
+sadhu_5_adivasi_1_label=Bring the samples back
+sadhu_5_adivasi_1_description=Have the Adivasis shared their knowledge with you?
+sadhu_5_adivasi_1_description_success=Excellent, those will be most useful. Has he said anything about abnormal activities in the marshes?
+sadhu_5_adivasi_1_description_refuse=You sadden me.
+sadhu_5_adivasi_1_listing=Find an adivasi farmer in a marsh and ask him for information on the marshes. Go back to the Sadhu after that.
+
+sadhu_5b_adivasib_0_label=Speak to farmer
+sadhu_5b_adivasib_0_description=The Sadhu himself requests my help? But I am but a poor, ignorant man... What can I give him save for some lowly plants I have collected... I have also seen dark creatures wander in the marshes at night, and some burst into flames when the day comes! I have collected some of the remains of those foul things, maybe the Holy Man can understand what abomination this is?<ret><ret>And I pray you will accept this food before you leave, $name. Whoever works for the Sadhu must be a good man.
+sadhu_5b_adivasib_0_description_success=I pray this will be useful to him. His wisdom knows no bound. 
+sadhu_5b_adivasib_0_description_refuse=How can you refuse the holy task of helping the sadhu?
+
+sadhu_6_enchantedsword_0_label=Holy Weapon
+sadhu_6_enchantedsword_0_description=The adivasi's tales are dark, $name. Even with your amulet, how can you feel safe exploring this land when demons roam freely when the sun is set? I have read again the epics in your absence, and I feel I know what you need: a holy weapon to protect you, something mighty and terrible like the fearsome Sudarshana Chakra wielded by Lord Vishnu himself. But even after three days of fast, my meditation goes unanswered. I fear my knowledge is failing me. $name, your connection to this world is far greater than mine, though we do not understand it - do you believe you could obtain a holy blade to fight off this evil?
+sadhu_6_enchantedsword_0_description_success=May the Gods watch over you, friend.
+sadhu_6_enchantedsword_0_description_refuse=I will stay here and pray you change your mind, $name.
+sadhu_6_enchantedsword_1_label=Bring the enchanted blade
+sadhu_6_enchantedsword_1_description=So $name, have you be granted a weapon with which to fight those unholy creatures?
+sadhu_6_enchantedsword_1_description_success=Such power is in you, that you did not request a magical weapon from the Gods, but forged it yourself! Your inborn knowledge of this world frightens me, $name. I sometime wonder if you are just a man. Leave me now. I need to pray for guidance.
+sadhu_6_enchantedsword_1_listing=Show the Sadhu an enchanted sword.
+sadhu_6_enchantedsword_1_description_refuse=I will stay here and pray you change your mind, $name.
+
+sadhu_7_enchantmenttable_0_label=Fear and knowledge
+sadhu_7_enchantmenttable_0_description=Forgive me, my friend. I did not mean to chase you away so brusquely, after all you have done. I should not have let my fear overpower me. I need to understand your powers, not take fright. Will you show me how you crafted this sword of yours?
+sadhu_7_enchantmenttable_0_description_success=I thank you.
+sadhu_7_enchantmenttable_0_description_refuse=I will stay here and pray you change your mind, $name.
+sadhu_7_enchantmenttable_1_label=Show the enchantment table
+sadhu_7_enchantmenttable_1_description=So, how did you perform this feat worthy of a god?
+sadhu_7_enchantmenttable_1_description_success=A table of obsidian and diamonds, books full of words you cannot decipher, energy gathered from dead demons - and you naturally know how to make it all work, as if by instinct. Someone is guiding you, $name. God or Demon King, I cannot say.
+sadhu_7_enchantmenttable_1_listing=Build an enchantment table and at least one bookshelf next it within ten metres of the Sadhu's tree.
+sadhu_7_enchantmenttable_1_description_refuse=I will stay here and pray you change your mind, $name.
+
+sadhu_8_mountain_0_label=Exploring mountains
+sadhu_8_mountain_0_description=I must study this table you built, and see if I can understand how it works. While I do this, I have a last exploration task for you to do, $name. I need you to study a nearby mountain range. In my meditations, I can almost see a pattern forming, almost...
+sadhu_8_mountain_0_description_success=I have no doubts you will come back, now that I understand what power you wield.
+sadhu_8_mountain_0_description_refuse=I will stay here and pray you change your mind, $name.
+sadhu_8_mountain_1_label=Report findings
+sadhu_8_mountain_1_description=I trust you found the mountains peaceful under the moonlight.
+sadhu_8_mountain_1_description_success= So this time it was spiders that troubled your night-time explorations? I have seen those at night, lurking near this tree. But what do they mean? Why are they present even in mountains where they do not fit? It is a worrying sign, creatures that do not belong to the places they roam.
+sadhu_8_mountain_1_description_refuse=I will stay here and pray you change your mind, $name.
+sadhu_8_mountain_1_listing=Explore a mountain range at night as indicated by the Sadhu.
+
+sadhu_9_underwater_0_label=The great dive
+sadhu_9_underwater_0_description=Last night the Goddess spoke to me and whispered that it is deeper that I should look. I have given it much thought, but I now know what she meant: you must explore the very depth of the sea.
+sadhu_9_underwater_0_description_success=Dive, my friend, and tell me what lies in the depths.
+sadhu_9_underwater_0_description_refuse=I will stay here and pray you change your mind, $name.
+sadhu_9_underwater_1_label=Report findings
+sadhu_9_underwater_1_description=So what is there to be seen so deep under the waves?
+sadhu_9_underwater_1_description_success=You say that as deep as you went, there was no sign of life... No fish, and no aquatic plants? This will require much thought on my part.
+sadhu_9_underwater_1_description_refuse=I will stay here and pray you change your mind, $name.
+sadhu_9_underwater_1_listing=Dive at least 12 metres below the surface of a sea.
+
+sadhu_10_underwaterglass_0_label=Window in the depth
+sadhu_10_underwaterglass_0_description=I have thought long about your report, $name. Maybe you did not see well enough, in your fleeting dives. I need you to go back to the sea and build an observation room as deep as you can, from which to study the depths in peace.
+sadhu_10_underwaterglass_0_description_success=I know this is a challenging project, but I trust the Goddess to inspire you in its fulfilment.
+sadhu_10_underwaterglass_0_description_refuse=I will stay here and pray you change your mind, $name.
+sadhu_10_underwaterglass_1_label=Report findings
+sadhu_10_underwaterglass_1_description=What have you seen, where no man has ever seen?
+sadhu_10_underwaterglass_1_description_success=So the bottom of the sea is truly a barren place, devoid of life beyond those mysterious squid. This cannot be... No sea can be so empty, and how could such mighty animals survive without prey? <ret><ret>You have given me much to think about, $name. Come back in a while and I pray I will have answers for you.
+sadhu_10_underwaterglass_1_description_refuse=I will stay here and pray you change your mind, $name.
+sadhu_10_underwaterglass_1_listing=Build an observation room with a glass ceiling at least 15 metres below the surface.
+
+sadhu_11_pujas_0_label=Knowledge and rituals
+sadhu_11_pujas_0_description=While you have explored the sea, I have focused all my thoughts on this mystery you left me - the enchantment table. I have struggled to decipher the books and the secrets of the construction of the table itself, and understood nothing. But wisdom came in my meditations: the table and the books do not matter. A practical man like you need them, a material support for you to focus on. But the power is not in them, it is in you and the world. And there are other ways to harness it.<ret><ret>I believe even a village pandit can do something similar, with proper training. I want you to go to the nearest Indian village and take this parchment to its priest. With the hymns I have written on it, he should be able to pray the gods to bless tools you give him, provided you give him proper offerings for the deities.
+sadhu_11_pujas_0_description_success=I could not bring myself to write hymns of war, so he will be limited to blessing tools, not weapons.
+sadhu_11_pujas_0_description_refuse=I will stay here and pray you change your mind, $name.
+sadhu_11_pujas_1_label=Speak with the Sadhu
+sadhu_11_pujas_1_description=Did the priest read the hymns?
+sadhu_11_pujas_1_description_success=I am glad it worked. This will be useful to you, $name, and it is reassuring that we can shape this world in ways that we had not expected.
+sadhu_11_pujas_1_description_refuse=I will stay here and pray you change your mind, $name.
+sadhu_11_pujas_1_listing=Go back to the Sadhu after speaking with the pandit.
+
+sadhu_11b_pandit_0_label=Speak to the pandit
+sadhu_11b_pandit_0_description=Why would the Sadhu want me to sing new hymns, when all wisdom is in the old one? If he was not such a holy man I would wonder if he has not stayed too long in the forest. But I will perform pujas with those for you if you want. Come see me in the temple with your offerings, my fee and the tool you want blessed.
+sadhu_11b_pandit_0_description_success=Do not forget my fee, if you want me to do pujas for you.
+sadhu_11b_pandit_0_description_refuse=How can you refuse the holy task of helping the sadhu?
+
+sadhu_12_topandbottom_0_label=Limits of the world
+sadhu_12_topandbottom_0_description=$name, there is a last challenge I need you to undertake for me. I know from reports of courageous Indian explorers that this new world is vast - in the first few years after the night of fire which took us here, many young Indian villagers travelled far and wide to find known shores again, in vain. They also never saw any mountain that is worthy of that name, something to rival the mighty Himalayas. I have thought hard about it, and this has come to my mind: the sky here looks as high as it ever was over the plains of the Ganges, but the clouds are always low, and never do we see any birds or creature above them. Could it be that everything above them is an illusion? You need to go and see for yourself what is there above the clouds.
+sadhu_12_topandbottom_0_description_success=You may start by climbing the branches of this venerable tree if it helps your undertaking.
+sadhu_12_topandbottom_0_description_refuse=I will stay here and pray you change your mind, $name.
+sadhu_12_topandbottom_1_label=Report findings
+sadhu_12_topandbottom_1_description=What have you seen from so far above the earth, $name?
+sadhu_12_topandbottom_1_description_success=So there is a limit, no further than the height of ninety men above the waters of the sea... Is this world a mockery of the real one then, the work of a demon or a god? $name, you must confirm this finding. You must see if this world is finite downward as well, if this ground we live in is but a thin slice of earth floating on nothingness.
+sadhu_12_topandbottom_1_description_refuse=I will stay here and pray you change your mind, $name.
+sadhu_12_topandbottom_1_listing=Reach as far up in the sky as you can and report your findings to the Sadhu.
+sadhu_12_topandbottom_2_label=Report findings
+sadhu_12_topandbottom_2_description=What did you find deep below the ground, my worthy explorer?
+sadhu_12_topandbottom_2_description_success=So you met rocks too hard to break and could go downward no further. And you say this was the height of thirty men below the surface. There is too much symmetry at work here, $name. It cannot be, and yet it is.<ret><ret>I have no more work for you now. I need to think and meditate and pray for guidance, until I can make sense of all of this. Come back in some time and I will give you the results of my finding, if Lord Ganesh inspires me.
+sadhu_12_topandbottom_2_description_refuse=I will stay here and pray you change your mind, $name.
+sadhu_12_topandbottom_2_listing=Dig as deep as you can go and report the results to the Sadhu.
+
+sadhu_13_conclusion_0_label=The Book of the Sadhu
+sadhu_13_conclusion_0_description=I have fasted and prayed for guidance, and the Gods have whispered some wisdom in my ears. But I was not worthy enough to uncover the truth, just to glimpse at aspects of it.<ret><ret>$name, I am too tired to speak now. I have written my findings in this scroll. Take it and have my blessings in your quest for knowledge, I do not believe I can do more for you at present. You may need more wisdom than an old sadhu ever had.
+sadhu_13_conclusion_0_description_success=I have written this parchment in the holy language of Sanskrit, which only a few pandits master anymore. But somehow I knew you would be able to understand it. The Goddess whispers in your ear, even if you cannot hear her.
+sadhu_13_conclusion_0_description_refuse=I will keep this book until you change your mind.
+
+sadhu_leadership_0_label=Leadership
+sadhu_leadership_0_description=I have heard you ambition to lead a group of Indian villagers to start a new village. $name, after all you have done for me, I am convinced of your righteousness. Should you want it, you have my blessing in this project.
+sadhu_leadership_0_description_success=I will pray for your success. Good luck, $name.
+sadhu_leadership_0_description_refuse=So you prefer to focus on searching for the truth? This is a wise decision. But should you change your mind, come back to me.

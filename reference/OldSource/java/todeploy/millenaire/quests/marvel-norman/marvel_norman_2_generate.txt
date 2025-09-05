@@ -1,0 +1,11 @@
+minreputation:10*64*64
+chanceperhour:1               
+maxsimultaneous:1
+definevillager:key=startvillager,requiredtag=normanmarvel_sponsor
+forbiddenplayertag:normanmarvel_generate_complete
+requiredplayertag:normanmarvel_picklocation_complete
+
+step:new
+villager:startvillager
+duration:48
+setplayertagsuccess:normanmarvel_generate

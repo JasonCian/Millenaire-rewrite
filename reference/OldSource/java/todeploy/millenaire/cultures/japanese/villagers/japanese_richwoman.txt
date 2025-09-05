@@ -1,0 +1,14 @@
+native_name=Reifujin
+gender=female
+familyNameList=high_caste_family_names
+firstNameList=high_caste_women_names
+baseHeight=0.85
+icon=gold
+
+texture=textures/entity/japanese/japanese_Lady_Woman0.png
+texture=textures/entity/japanese/japanese_Lady_Woman1.png
+
+goal=gorest
+goal=gopray
+goal=gosocialise
+goal=chat

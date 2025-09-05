@@ -1,0 +1,184 @@
+name=Mahal
+icon=rasgulla
+weight=10
+qualifier=Mahal
+type=hameau
+
+//Vanilla biomes
+biome=Desert
+biome=Desert M
+biome=Mesa
+biome=Mesa M
+biome=Mesa Plateau
+biome=Mesa Plateau M
+biome=Mesa Plateau F
+biome=Mesa Plateau F M
+biome=JungleEdge
+biome=Savanna
+biome=Savanna M
+biome=Savanna Plateau
+
+//biomes o'plenty
+biome=lush desert
+biome=lush swamp
+biome=outback
+biome=shrubland
+biome=rainforest
+biome=xeric shrubland
+
+//Traverse biomes
+biome=Arid Highland
+biome=Mountainous Desert
+biome=Rocky Plateau
+biome=Red Desert
+biome=Desert Shrubland
+biome=Badlands
+
+pathmaterial=pathdirt
+pathmaterial=pathsandstone
+
+//hamlets to be generated around=
+hameau=indian_agricole_hamlet
+hameau=indian_fort_hamlet
+
+innerwallType=sandstonewalls
+innerwallRadius=50
+outerwallType=borderposts
+
+//starting buildings=
+centre=palace
+start=largepeasanthouse
+start=peasanthouse
+start=grove
+start=lumbermanhouse
+start=quarry
+start=inn
+start=brickkiln
+start=paddy
+
+player=playersmallfield
+player=playersmallhouse
+player=playerlargefield
+player=playerhugefield
+player=playerestate
+player=gifthouse
+
+//to be built in priority
+core=largepeasanthouse
+core=largepeasanthouse
+core=quarry
+core=hindushrine
+core=craftsmanhouse
+core=brickkiln
+
+//to be built after the core ones
+secondary=painterhouse
+secondary=scultorhouse
+secondary=quarry
+secondary=archives
+secondary=soldierhouse
+secondary=villagetree
+secondary=pandithouse
+
+//never for this type of village
+never=sugarplantation
+never=villagetemple
+never=forge
+never=armyforge
+never=spicegarden
+never=cottonfield
+never=weaverhouse
+
+//Selling prices=
+sellingPrice=sugarcane,20
+sellingprice=iron,0
+sellingprice=indianstatue,6/0
+
+//Buying prices=
+buyingPrice=sugarcane,18
+buyingPrice=iron,0
+buyingPrice=indianstatue,5/32
+
+
+//white, cream and off-white colours
+brickcolourtheme=light:50;other:white:50,yellow:50,gray:30,silver:30
+
+//blue and blue-green colours
+brickcolourtheme=jodhpur:20;white:light_blue:50,blue:50,cyan:30,purple:30;other:light_blue:50,cyan:40,blue:30,purple:30
+
+//red and ochres colours, little bit of magenta
+brickcolourtheme=rajput:30;white:brown:50,orange:50,magenta:10;other:brown:50,orange:40,magenta:20
+
+//mainly pink
+brickcolourtheme=jaipur:10;white:red:50,pink:30;other:white:50,gray:40
+
+
+//swords
+banner_json={BlockEntityTag:{Base:11,Patterns:[{Pattern:in1,Color:1}]}}
+banner_json={BlockEntityTag:{Base:11,Patterns:[{Pattern:in1,Color:0}]}}
+banner_json={BlockEntityTag:{Base:11,Patterns:[{Pattern:in1,Color:15}]}}
+banner_json={BlockEntityTag:{Base:11,Patterns:[{Pattern:in1,Color:4}]}}
+banner_json={BlockEntityTag:{Base:1,Patterns:[{Pattern:in1,Color:11}]}}
+banner_json={BlockEntityTag:{Base:1,Patterns:[{Pattern:in1,Color:0}]}}
+banner_json={BlockEntityTag:{Base:1,Patterns:[{Pattern:in1,Color:15}]}}
+banner_json={BlockEntityTag:{Base:1,Patterns:[{Pattern:in1,Color:4}]}}
+banner_json={BlockEntityTag:{Base:4,Patterns:[{Pattern:in1,Color:11}]}}
+banner_json={BlockEntityTag:{Base:4,Patterns:[{Pattern:in1,Color:0}]}}
+banner_json={BlockEntityTag:{Base:4,Patterns:[{Pattern:in1,Color:15}]}}
+banner_json={BlockEntityTag:{Base:4,Patterns:[{Pattern:in1,Color:1}]}}
+
+//elephant
+banner_json={BlockEntityTag:{Base:11,Patterns:[{Pattern:in2,Color:1}]}}
+banner_json={BlockEntityTag:{Base:11,Patterns:[{Pattern:in2,Color:0}]}}
+banner_json={BlockEntityTag:{Base:11,Patterns:[{Pattern:in2,Color:15}]}}
+banner_json={BlockEntityTag:{Base:11,Patterns:[{Pattern:in2,Color:4}]}}
+banner_json={BlockEntityTag:{Base:1,Patterns:[{Pattern:in2,Color:11}]}}
+banner_json={BlockEntityTag:{Base:1,Patterns:[{Pattern:in2,Color:0}]}}
+banner_json={BlockEntityTag:{Base:1,Patterns:[{Pattern:in2,Color:15}]}}
+banner_json={BlockEntityTag:{Base:1,Patterns:[{Pattern:in2,Color:4}]}}
+banner_json={BlockEntityTag:{Base:4,Patterns:[{Pattern:in2,Color:11}]}}
+banner_json={BlockEntityTag:{Base:4,Patterns:[{Pattern:in2,Color:0}]}}
+banner_json={BlockEntityTag:{Base:4,Patterns:[{Pattern:in2,Color:15}]}}
+banner_json={BlockEntityTag:{Base:4,Patterns:[{Pattern:in2,Color:1}]}}
+
+//conch
+banner_json={BlockEntityTag:{Base:11,Patterns:[{Pattern:in3,Color:1}]}}
+banner_json={BlockEntityTag:{Base:11,Patterns:[{Pattern:in3,Color:0}]}}
+banner_json={BlockEntityTag:{Base:11,Patterns:[{Pattern:in3,Color:15}]}}
+banner_json={BlockEntityTag:{Base:11,Patterns:[{Pattern:in3,Color:4}]}}
+banner_json={BlockEntityTag:{Base:1,Patterns:[{Pattern:in3,Color:11}]}}
+banner_json={BlockEntityTag:{Base:1,Patterns:[{Pattern:in3,Color:0}]}}
+banner_json={BlockEntityTag:{Base:1,Patterns:[{Pattern:in3,Color:15}]}}
+banner_json={BlockEntityTag:{Base:1,Patterns:[{Pattern:in3,Color:4}]}}
+banner_json={BlockEntityTag:{Base:4,Patterns:[{Pattern:in3,Color:11}]}}
+banner_json={BlockEntityTag:{Base:4,Patterns:[{Pattern:in3,Color:0}]}}
+banner_json={BlockEntityTag:{Base:4,Patterns:[{Pattern:in3,Color:15}]}}
+banner_json={BlockEntityTag:{Base:4,Patterns:[{Pattern:in3,Color:1}]}}
+
+//cow
+banner_json={BlockEntityTag:{Base:11,Patterns:[{Pattern:in4,Color:1}]}}
+banner_json={BlockEntityTag:{Base:11,Patterns:[{Pattern:in4,Color:0}]}}
+banner_json={BlockEntityTag:{Base:11,Patterns:[{Pattern:in4,Color:15}]}}
+banner_json={BlockEntityTag:{Base:11,Patterns:[{Pattern:in4,Color:4}]}}
+banner_json={BlockEntityTag:{Base:1,Patterns:[{Pattern:in4,Color:11}]}}
+banner_json={BlockEntityTag:{Base:1,Patterns:[{Pattern:in4,Color:0}]}}
+banner_json={BlockEntityTag:{Base:1,Patterns:[{Pattern:in4,Color:15}]}}
+banner_json={BlockEntityTag:{Base:1,Patterns:[{Pattern:in4,Color:4}]}}
+banner_json={BlockEntityTag:{Base:4,Patterns:[{Pattern:in4,Color:11}]}}
+banner_json={BlockEntityTag:{Base:4,Patterns:[{Pattern:in4,Color:0}]}}
+banner_json={BlockEntityTag:{Base:4,Patterns:[{Pattern:in4,Color:15}]}}
+banner_json={BlockEntityTag:{Base:4,Patterns:[{Pattern:in4,Color:1}]}}
+
+//lotus
+banner_json={BlockEntityTag:{Base:11,Patterns:[{Pattern:in5,Color:1}]}}
+banner_json={BlockEntityTag:{Base:11,Patterns:[{Pattern:in5,Color:0}]}}
+banner_json={BlockEntityTag:{Base:11,Patterns:[{Pattern:in5,Color:15}]}}
+banner_json={BlockEntityTag:{Base:11,Patterns:[{Pattern:in5,Color:4}]}}
+banner_json={BlockEntityTag:{Base:1,Patterns:[{Pattern:in5,Color:11}]}}
+banner_json={BlockEntityTag:{Base:1,Patterns:[{Pattern:in5,Color:0}]}}
+banner_json={BlockEntityTag:{Base:1,Patterns:[{Pattern:in5,Color:15}]}}
+banner_json={BlockEntityTag:{Base:1,Patterns:[{Pattern:in5,Color:4}]}}
+banner_json={BlockEntityTag:{Base:4,Patterns:[{Pattern:in5,Color:11}]}}
+banner_json={BlockEntityTag:{Base:4,Patterns:[{Pattern:in5,Color:0}]}}
+banner_json={BlockEntityTag:{Base:4,Patterns:[{Pattern:in5,Color:15}]}}
+banner_json={BlockEntityTag:{Base:4,Patterns:[{Pattern:in5,Color:1}]}}

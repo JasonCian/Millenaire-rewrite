@@ -1,0 +1,19 @@
+
+verze:3.4
+<darkblue>Casto kladene dotazy
+<darkblue>Tito lide mluvi v jazyce kteremu nerozumim. Je to normalni?
+Vesnicane Millanaire modu mluvi v jejich "vlastnim" jazyce napr. indove mluvi Hindsky, normani Francouzsky. Pokud se rozhodnete hrat v jinem jazice tak se "naucite" jejich jazyk tim ze s nimi budete delat veci jako napr. (obchodovat, prijmat ukoly ..) Tim jak se naucite jejich jazyk tak vam Millenaire mod zpristupni preklady, nejdrive pro budovy a nasledne pro ruzne typy vesnicanu a nakonec jejich dialogy.
+<darkblue>Moje Normanska vesnice potrebuje drevene ramy a nemohu je vyrobit, co mam delat?
+Drevene ramy zhotovuje tesar ze dreva. Počkejte, až vaše vesnice vytvoří „tesařský dům“ a pár se usadí. Vyckejte dokud vase vesnice nevybuduje "tesarsky dom" a par se usadi.
+<darkblue>Moje japonska vesnice poteebuje dosek a nemuzu jej vyrobit, co mam delat?
+Japonci vyrabi dosek z psenice. V pripade se sklizi pomalu, muzes jim nejakou prodat aby jsi urychlil vyrobu.
+<darkblue>Postavil sem si dum pobliz vesnice a vesnicani ho znicili aby tam postavily neco jineho, je to v poradku?
+Ano. Je to jejich teritorium ktere jim patri, zkontroluj mapu kde uvidis jak daleko jejich teritorium dosahuje. Pokud chces ve vesnici stavet musite si koupit pozemek.
+<darkblue>Nekteri vesnicane jsou mrtvy, muzou se respawnou?
+Ano. Vesnicane se respawnuji kazdou noc kratce po zapadu slunce. Jenom hned nechodte spat.
+<darkblue>Moji vesnicane nemaji deti a nebo jejich deti nerostou, proc se to deje?
+Nove deti se objevi vetsinou kdyz je par doma v prubehu noci. Podobne deti rostou v noci doma, nejake jidlo (napoje, sladkosti) zvysi sanci aby par mel deti a ostatni (chleba, cerealie) aby deti rostly.
+<darkblue>Budova ve vesnici byla ponicena, bude opravena?
+Ne. Vesnicane neopravuji blocky (ale nektere vylepseni budov muze nahradit poskozene blocky) je to z duvodu lepsiho vykonu hry. Budete to muset opravit samy.
+<darkblue>Moji vesnicane nemaji dostatek mista, muzu nejak pomoct?
+Ano. Kdyz se podivate na mapu tak muzete videt oblasti kde vesnicane nemohou stavet. Zakryjte jezero nebo propast vrstvou hliny aby jste udelali oblast pouzitelnou pro staveni.

@@ -1,0 +1,14 @@
+building.length=39
+building.width=39
+building.parentbuildingplan=sarayfort_A4
+building.buildingorientation=2
+building.issubbuilding=true
+building.max=0
+building.travelbook_display=false
+
+building.icon=seljukscimitar
+
+initial.startlevel=-1
+initial.nativename=Asker odasi
+initial.priority=1000
+initial.male=turk_soldier

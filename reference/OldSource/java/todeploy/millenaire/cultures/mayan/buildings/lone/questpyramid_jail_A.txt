@@ -1,0 +1,16 @@
+//Parameters for the building as a whole
+building.length=38
+building.width=38
+building.buildingorientation=3
+building.issubbuilding=true
+building.parentbuildingplan=questpyramid_A0
+building.max=0
+
+building.travelbook_display=false
+building.icon=mayanmace
+
+//Parameters for initial construction
+initial.startlevel=-30
+initial.nativename=Keban Muul
+initial.male=questshaman
+

@@ -1,0 +1,14 @@
+
+0;Estranho; saudações. Você gostaria de alguma ajuda para sobreviver nesses desertos frígidos?
+4*64;Familiar; Sua presença não passou despercebida. Fique em paz e faremos o mesmo.
+8*64;Rosto Conhecido; Já vimos você por aqui antes. Sinta-se à vontade para ficar um pouco e se aquecer.
+16*64;Visitante Regular; Estamos felizes em vê-lo novamente, $name.
+32*64;Sobrevivente companheiro; Ah, é bom ver que você ainda está vivo e sobrevivendo bem!
+64*64;Comerciante Favorito; Todo mundo aqui está feliz em vê-lo. Você trouxe alguma coisa emocionante com você desta vez?
+2*64*64;Amigo da Aldeia; Você se mostrou um companheiro digno. Você pode encontrar muitos amigos aqui, $name.
+4*64*64;Irmão de Sangue; Você tem feito muito para nos ajudar, e nós estamos contentes de retribuir seus esforços. Você tem nossa confiança.
+8*64*64;Um de nós; Os espíritos nos abençoaram com você. Eles decretaram que você é parte da nossa família agora, e eu sinto que eles fizeram a escolha certa.
+32*64*64;Líder natural; $name, você conquistou a confiança e o respeito do povo Inuit. Eles seguirão você em qualquer lugar.
+-64;Incômodo; Por favor, não temos tempo para pessoas como você.
+-4*64;Forasteiro desagradável; Somos cautelosos com pessoas como você. Apenas vá embora e nos deixe em paz.
+-16*64;Inimigo Público; Damos muitas chances de comungar conosco, mas você evitou nossos esforços. Deixe-nos e espere que os espíritos não o levem enquanto você vagueia pelos resíduos congelados.

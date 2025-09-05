@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+	"group": "millenairepathslab",
+    "pattern": [
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "millenaire:pathgravelslabs",
+            "data": 0
+        }
+    },
+    "result": {
+        "item": "millenaire:pathgravelslabs_slab",
+		"count": 6,
+            "data": 0
+    }
+}

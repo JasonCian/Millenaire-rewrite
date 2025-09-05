@@ -1,0 +1,16 @@
+﻿version:3.4
+<darkblue>Maaiad
+
+Yucutanitelt, Maaiad on välhapaistvad nende kivi arhitektuurist kulla dekoratsioonidega ja elavad põllumajanduses, usus ja sõjanduses. Nad räägivad maaiade keeles,aga nende dialoogid on tõlkitud kui mängija "õppib" nende keelt nendega suhtlema.
+
+<darkblue>Erilised asjad ja plokid
+
+-Nad kasvatavad maizi. Mängija saab küsida juhilt,et too õpetaks kuidas harida seda teravilja.
+-Obsidiaani käsitööline toodab relvi ja töövahendeid obsidiaanist mis on habrad,aga lihtsasti nõiutud.
+-Nende käsitöölised teevad dekoratiivseid plokke kulla kangidest antud mängija poolt.
+-Nad samuti nikerdavad bas-relief asju mis esindab Maaiade jumalust.
+
+<darkblue>Erilised retseptid
+
+-Kolm maizi reas teevad ühe wahi maize(peaaegu nagu tortilla).
+-Kaks maizi reas,ühe toore kanaga keskel teevad ühe masa(tortilla kanaga).

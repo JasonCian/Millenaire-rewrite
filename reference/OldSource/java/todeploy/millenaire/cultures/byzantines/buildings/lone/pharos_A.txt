@@ -1,0 +1,15 @@
+building.length=11
+building.width=14
+building.buildingorientation=3
+building.icon=torch
+building.showtownhallsigns=false
+building.altitudeoffset=3
+building.areaToClear=7
+building.foundationDepth=13
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.pathlevel=1
+initial.nativename=Pharos
+initial.male=keeper_byzantine
+initial.shop=lonetower

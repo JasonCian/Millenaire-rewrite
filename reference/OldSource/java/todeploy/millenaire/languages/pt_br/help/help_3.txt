@@ -1,0 +1,33 @@
+version:3.4
+<darkblue>Reputação e o Chefe da Aldeia
+
+Cada aldeia no Millénaire tem uma opinião específica sobre o jogador, que começa sendo neutra e vai variando conforme as suas acções. Este nível de reputação é fundamental: muitas recompensas requerem um nível adequado de reputação para ficarem disponíveis, e se a sua reputação se tornar muito baixa, os aldeões poderão recusar-se a negociar com você. Para verificar a sua reputação com uma aldeia, interaja com o chefe da aldeia utilizando o <darkblue>botão direito <black>do mouse.
+A principal forma de melhorar a sua reputação é negociar com a aldeia. Tanto as compras como as vendas melhoram a sua reputação, em proporção com os preços dos bens negociados. Pode também obter uma melhor reputação completando missões para os aldeões. Por outro lado, atacar uma aldeia ou falhar certas missões diminuirá a sua reputação.
+
+Existe também um nível de <darkblue>reputação para com a cultura<black>. Esta reputação depende de todas as suas interacções com todas as aldeias de cada cultura e afecta o comércio com as mesmas. Por exemplo, se tiver uma reputação muito boa numa determinada aldeia Normanda, as restantes aldeias Normandas também gostarão um pouco mais de você. Para verificar a sua reputação com uma cultura, pressione a tecla "M" (por predefinição) para acessar o painel informativo.
+
+<darkblue>Acções que requerem uma determinada Reputação:
+
+<darkblue>Adquirir o Pergaminho da Aldeia
+
+Se tiver uma reputação boa o suficientemente, poderá adquirir o pergaminho da aldeia solicitando ao chefe. Este pergaminho contém toda a informação disponibilizada separadamente nos diversos painéis da aldeia.
+
+<darkblue>Solicitar um Terreno ou uma Residência
+
+À medida que for acumulando reputação, poderá solicitar diversas construções privadas para você (tanto casas como terrenos), solicitando-as ao chefe da aldeia. A sua construção será iniciada assim que o projecto em curso for completado. Ao contrário das restantes construções, estas te pertencem e poderão ser personalizadas à vontade.
+
+<darkblue>Aprender a Cultivar uma Planta
+
+Pode também aprender a cultivar plantas específicas do Millénaire que algumas culturas utilizam. Para isso, basta solicitar ao chefe de uma aldeia da cultura apropriada quando tiver reputação suficiente.
+
+<darkblue>Negociar certos Bens
+
+Alguns bens valiosos só poderão ser adquiridos quando atingir um nível adequado de reputação na aldeia. Se tal não for ainda o caso, estes bens aparecerão nas listas de comércio mas não poderão ser comprados (surgirá também uma indicação das condições em falta).
+
+<darkblue>Missões Adicionais
+
+Algumas missões, incluíndo a Jornada da Criação, só podem ser iniciadas se tiver uma reputação adequada (ver secção "<darkblue>Missões<black>").
+
+<darkblue>Liderar uma Cultura
+
+Quando atingir a reputação máxima (<darkblue>"Líder Natural"<black>) numa aldeia, poderá solicitar ao seu chefe para ser reconhecido como líder dessa cultura. Poderá depois criar uma aldeia onde será o seu chefe e tomará as decisões sobre a mesma (ver secção "<darkblue>Criar e Destruir Aldeias<black>").

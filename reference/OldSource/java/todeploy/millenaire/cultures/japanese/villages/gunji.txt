@@ -1,0 +1,81 @@
+name=Gunjiteki Mura
+icon=tachisword
+weight=10
+carriesraid=true
+
+pathmaterial=pathdirt
+pathmaterial=pathgravel
+pathmaterial=pathgravelslabs
+
+//Vanilla biomes
+biome=Taiga
+biome=Taiga Hills
+biome=Taiga M
+biome=Extreme Hills
+biome=Extreme Hills+
+
+//biomes o'plenty
+biome=boreal forest
+biome=maple woods
+biome=shield
+
+//Traverse biomes
+biome=Autumnal Woods
+biome=Woodlands
+biome=Coniferous Forest
+biome=Forested Hills
+biome=Autumnal Wooded Hills
+biome= Birch Forested Hills
+
+outerwallType=borderposts
+
+//starting buildings=
+centre=japanesefort
+start=japaneselmh
+start=japanesefarm
+start=japanesegrove
+start=japanesefishery
+start=japanesepeasanth
+start=japanesepeasanth
+start=japaneseinn
+
+player=japaneseplot1
+player=japaneseplot2
+player=japaneseplot3
+player=japanesehut
+player=japanesehouse
+player=japanesehousemedium
+player=japanesehouselarge
+player=japanesearcheryrange
+player=gifthouse
+
+//to be built in priority
+core=japanesepaddy
+core=japaneselookout
+core=japanesecrafter
+core=japanesesamuraih
+core=japanesequarry
+core=japaneseforge
+core=japanesearmyforge
+
+//to be built after the core ones
+secondary=japanesearchive
+secondary=japanesemarket
+secondary=chickenfarm
+
+//not to be built
+never=japanesepagoda
+never=japanesepalace
+never=japaneseshintoshrine 
+never=japanesefarmbig
+never=japanesekitchen
+never=bath
+never=well
+never=squidfarm
+
+
+banner_json={BlockEntityTag:{Base:0,Patterns:[{Pattern:jam,Color:15}]}}
+banner_json={BlockEntityTag:{Base:4,Patterns:[{Pattern:jam,Color:15}]}}
+banner_json={BlockEntityTag:{Base:2,Patterns:[{Pattern:jam,Color:15}]}}
+banner_json={BlockEntityTag:{Base:5,Patterns:[{Pattern:jam,Color:15}]}}
+banner_json={BlockEntityTag:{Base:1,Patterns:[{Pattern:jam,Color:15}]}}

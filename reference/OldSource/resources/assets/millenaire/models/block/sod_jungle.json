@@ -1,0 +1,6 @@
+{
+  "parent": "millenaire:block/sod",
+  "textures": {
+    "planks": "minecraft:blocks/planks_jungle"
+  }
+}

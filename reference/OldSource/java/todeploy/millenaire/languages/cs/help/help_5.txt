@@ -1,0 +1,16 @@
+
+verze:3.4
+<darkblue>Souboj a najezdy
+Millenaire mod neni jen mirumilovny: muzete bojovat proti vesnicanum, vesnice muzou proti sobe poradat najezdy, monstra muzou utocit na vesnicane a nektere izolovane budovy mohou byt okupovany bandity. Bez ohledu na okolnosti se nektere zasady nemeni: <darkblue>vesnicane jsou zranitelni jenom na prime utoky (utok z blizka, sipy a lektvary)<black>. Nemuzou byt zraneni ohnem, padem nebo kaktusem. Cilem tohoto je zabranit aby byli zraneni bez pricineni hrace.
+Vesnicane se lisí svou silou a vybavenim které nosi, je ciní mnohem nebezpecnejsími.
+<darkblue>Respawn vesnicanu
+Po zabiti jsou vesnicani na nejakou dobu mrtvy. Mrtvy vesnicane se respawnou v jejich domu (ale strati veskere vybaveni) Koneckoncu se i hrac muze respawnout..
+<darkblue>Utok hracem
+Kdykoliv muzete zautocit na vesnicana, ale muzi z vesnice mu pomohou proti vam bojovat. Pokud se vam podari zabit vsechy vesnicany, otevrou se vam truhly s jejich vecma ktere budete moct ukrast.
+<darkblue>Banditi
+Nekteri obyvatele osamocenych budov mimo vesnici na vas mohou zautocit bez varovani pokud se moc priblizite. Vase reputace s jejich kulturou neklesne. Stejne jako jini vesnicane se znovu respawnuji v noci - podivejte se do "<darkblue>zniceni vesnice<black>" aby jste zjistily jak tomu predejit.
+<darkblue>Najezdy mezi vesnicema
+Millenaire vesnicani maji pozitivni nebo negativni vztahy mezi vesnicema pobliz. Jejich vztahy se meni nahodne a mohou byt ovlivneni tim ze hrac bude mluvit s nacelnikem druhe vesnice. Pokud jsou jejich vztahy spatne a jedna z vesnic ma dostatek bojovniku tak se muze pokusit o najezd na druhou vesnici o cemz budete informovani zpravou. V prubehu najezdu se budou bojovnici snazit zabit muze v te vesnici na kterou utoci. Pokud se jim to podari tak si vemou nejake vybaveni a predmety jako korist. Muzete se samy rozhodnout ktere strane pomuzete.
+Muze byt uzitecne povzbudit vesnici aby zautocily na jejich sousedy aby z nich meli suroviny. Nebo vice cynicky, povzbuzenim najezdu vam muze pomoct tim ze vam dovoli si vzit cast koristi z oloupene vesnice jakmile budou obranci mrtvy.
+<darkblue>Najmnuti vesnicana
+Muzete si najmout vesnicana jako drevorubce nebo vojaka ktery vam pomuze v bitve. Budou vas nasledovat a bojovat proti vasim nepratelum.

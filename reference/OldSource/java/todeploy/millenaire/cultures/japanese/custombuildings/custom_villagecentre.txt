@@ -1,0 +1,1 @@
+native:Densha;gameNameKey:japaneseplayerpalace_A0;craft:1;chest:6-20;sign:9;radius:10;shop:japanesetownhall;tag:leasure;tag:playerth;tag:Patrol;male:japanese_boy;male:japanese_boy;male:japanese_boy;female:japanese_girl;female:japanese_girl;female:japanese_girl

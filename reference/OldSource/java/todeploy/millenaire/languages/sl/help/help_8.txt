@@ -1,0 +1,13 @@
+﻿version:3.4
+<darkblue>Normani
+
+Prva kultura v Millénaire so Normani, ki imajo največjo število tipov vasi - kmetijska, vojaška, verska in industrijsko orientirano naselje, pravtako gros bourge (velika mesta), ki imajo okrog tri manjše vasice. Normani govorijo Francosko v igri, ampak njihov dialog je prevedej, ko se igralec "nauči" njihovega jezika.
+
+<darkblue>Posebni objekti in bloki
+
+Normani proizvajajo veliko različnih predmetov:
+-Normansko orodje, ki je učinkovitejše kot diamantno (kovači ga ustvarijo v kovačnici).
+-Normanski meč in oklep, narejen v orožarnici in je pravtako boljše od diamantnega.
+-Krvavica, vampi, žganje in jabolčnik, je hrana, ki takoj vrne igralčevo zdravje.
+-Lesene okvirne kocke so gradbeni bloki z dvema načinoma blokov, uporabni za naprednejše Normanske stavbe, ki jih izdeluje samo tesar.
+-Normanske tapiserije izdeljue kraljica v gradu iz volne (dve beli, ena siva, ena svetlo siva, ena črna in ena rjava) in je povzeta iz Bayeux Tapestry.

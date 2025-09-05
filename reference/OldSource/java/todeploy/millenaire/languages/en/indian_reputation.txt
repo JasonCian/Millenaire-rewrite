@@ -1,0 +1,16 @@
+//* The part before the ";" is the title, after it the description
+
+0;Stranger;We are not used to foreigners in our remote village.
+4*64;Familiarity;So far, you have not committed any major breach of custom.
+8*64;Known Face;You seem to have made a good impression on many of us. Continue, and we will both benefit.
+16*64;Regular Visitor;Namaste, $name-ji! What news do you bring?
+32*64;Fellow Neighbor;While you are not perfect, we acknowledge that you have been a good neighbor $name-ji. We enjoy your company.
+64*64;Favourite Trader;Welcome back, $name. What have you brought to trade with us?
+2*64*64;Friend of the Village;$name-ji, we all consider you a true friend here.
+4*64*64;A True Ally;You are a true ally of this village $name-ji! If you ever need refuge, you can stay in our village.
+8*64*64;One of Us;I would not thought I would live to see a foreign accepted in the village, but $name-ji, you are one of us now!
+32*64*64;Natural Leader;$name-ji, you have gained the trust and respect of my people. They will follow you anywhere. 
+4*32*64*64;Overachieving Rajput;The Indian people are extremely happy that you've wanted to stay with them and help them with their struggles! In case you haven't noticed, we've created 5 other amazing cultures that will probably give you a better reward than a lackluster and disappointing message.
+-64;Nuisance;We do not like foreigners here, especially of your kind.
+-4*64;Unpleasant Outsider;Whoever raised you did a very poor job. We hope you will be gone soon.
+-16*64;Public Enemy;Every morning I pray the Goddess I will never see your face again.

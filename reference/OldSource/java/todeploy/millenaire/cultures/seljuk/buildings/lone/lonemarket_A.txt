@@ -1,0 +1,14 @@
+building.length=25
+building.width=25
+building.startingsubbuilding=lonemarket_a_market
+
+building.icon=purse
+
+building.startinggood=denier,1.0,50,256
+
+initial.startlevel=-1
+initial.nativename=Ticaret Noktası
+initial.male=turk_lonemerchant
+initial.male=turk_lonesoldier
+initial.male=turk_lonesoldier
+initial.priority=1000

@@ -1,0 +1,1 @@
+native:Ah Tz'on Si' Took;gameNameKey:mayanarmyforge_A0;male:mayan_ArmySmith;female:mayan_PeasantWife;craft:1;chest:1-5;sign:1;shop:mayanarmyforge;moveinpriority:15

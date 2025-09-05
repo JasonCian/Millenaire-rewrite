@@ -1,0 +1,21 @@
+//Parameters for the building as a whole
+building.length=12
+building.width=11
+building.buildingorientation=3
+building.startinggood=rice,1.0,32,32
+building.startinggood=turmeric,1.0,16,16
+building.startinggood=chickenmeat,1.0,8,8
+building.startinggood=dye_blue,0.8,32,32
+building.startinggood=diamond,0.5,1,2
+building.startinggood=gold,0.8,8,16
+
+building.icon=dye_blue
+
+//Parameters for initial construction
+initial.startlevel=-5
+initial.nativename=Saray
+initial.priority=5
+initial.male=indian_lonetrader
+initial.male=indian_soldier
+initial.shop=deserttradeoutpost
+

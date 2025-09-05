@@ -1,0 +1,55 @@
+﻿
+culture.mayan=Maiade
+
+villager.mayan_boy=Poiss
+villager.mayan_girl=Tüdruk
+villager.mayan_teenagerMale=Meessoost nooruk
+villager.mayan_teenagerFemale=Naissoost nooruk
+villager.mayan_lumberman=Puuraidur
+villager.mayan_miner=Kaevur
+villager.mayan_shaman=Šamaan
+villager.mayan_peasant=Talunik
+villager.mayan_peasantwife=Taluniku naine
+villager.mayan_leader=Liider
+villager.mayan_richwoman=Kuninganna
+villager.mayan_warrior=Sõjamees
+villager.mayan_chieftain=Pealik
+villager.mayan_crafter=Käsitööline
+villager.mayan_armysmith=Armee sepp
+villager.mayan_sculptor=Skulptor
+villager.mayan_shamanwife=Šamaani naine
+villager.mayan_king=Kuningas
+villager.mayan_merchant=Kaupmees
+villager.mayan_chickenfarmer=Kana farmer
+villager.mayan_farmer=Farmer
+villager.mayan_obsidiancrafter=Obsidiani käsitööline
+villager.mayan_cocoafarmer=Koka farmer
+
+villager.lonemayanfarmer=Üksik maia talunik
+
+villager.lonemayanpeasantwife=Üksiku maia taluniku naine
+villager.lonemayanshaman=Üksik maia  šhamaan
+villager.lonemayanshamanwife=Üksik maia šhamaani naine
+villager.mayanbanditboy=Bandiidi poiss
+villager.mayanbanditwarrior=Bandiidi sõdur
+villager.mayanfemalebandit=Bandiidi tüdruk
+
+villager.merchant_mayanfarmer= Talu kaupmees
+villager.merchant_mayanhunter= Küti kaupmees
+villager.merchant_mayanshaman=Šamaani kaupmees
+
+villager.questfallenking=Langend kuningas
+villager.questkingelitewarrior=Eliit sõdur
+villager.questkinglieutnant=Leitnant
+villager.questkingscout=Skaut
+villager.questkingwarrior=Sõdur
+villager.questshaman=Šamaan
+
+shop.mayantownhall=Keskuse pood
+shop.mayancrafter=Tööriistad
+shop.mayanarmyforge= Soomus ja relvad
+shop.mayansheepchickenfarm=Kana produktid
+shop.mayanobsidiancrafter=Obsidiani relvad ja tööriistad
+shop.lonemayanfarm=Farmi saadused
+shop.mayancocoa=Koka ja cacauhaa
+

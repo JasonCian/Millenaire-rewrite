@@ -1,0 +1,1 @@
+sells=steelHelmet,steelChest,steelLegs,steelBoots,steelSword,bow

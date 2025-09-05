@@ -1,0 +1,239 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "millenaire:stairs_painted_brick_black",
+      "millenaire:stairs_painted_brick_blue",
+      "millenaire:stairs_painted_brick_brown",
+      "millenaire:stairs_painted_brick_cyan",
+      "millenaire:stairs_painted_brick_gray",
+      "millenaire:stairs_painted_brick_green",
+      "millenaire:stairs_painted_brick_light_blue",
+      "millenaire:stairs_painted_brick_lime",
+      "millenaire:stairs_painted_brick_magenta",
+      "millenaire:stairs_painted_brick_orange",
+      "millenaire:stairs_painted_brick_pink",
+      "millenaire:stairs_painted_brick_purple",
+      "millenaire:stairs_painted_brick_red",
+      "millenaire:stairs_painted_brick_silver",
+      "millenaire:stairs_painted_brick_white",
+      "millenaire:stairs_painted_brick_yellow",
+      
+      "millenaire:slab_painted_brick_black",
+      "millenaire:slab_painted_brick_blue",
+      "millenaire:slab_painted_brick_brown",
+      "millenaire:slab_painted_brick_cyan",
+      "millenaire:slab_painted_brick_gray",
+      "millenaire:slab_painted_brick_green",
+      "millenaire:slab_painted_brick_light_blue",
+      "millenaire:slab_painted_brick_lime",
+      "millenaire:slab_painted_brick_magenta",
+      "millenaire:slab_painted_brick_orange",
+      "millenaire:slab_painted_brick_pink",
+      "millenaire:slab_painted_brick_purple",
+      "millenaire:slab_painted_brick_red",
+      "millenaire:slab_painted_brick_silver",
+      "millenaire:slab_painted_brick_white",
+      "millenaire:slab_painted_brick_yellow",
+      
+      "millenaire:wall_painted_brick_black",
+      "millenaire:wall_painted_brick_blue",
+      "millenaire:wall_painted_brick_brown",
+      "millenaire:wall_painted_brick_cyan",
+      "millenaire:wall_painted_brick_gray",
+      "millenaire:wall_painted_brick_green",
+      "millenaire:wall_painted_brick_light_blue",
+      "millenaire:wall_painted_brick_lime",
+      "millenaire:wall_painted_brick_magenta",
+      "millenaire:wall_painted_brick_orange",
+      "millenaire:wall_painted_brick_pink",
+      "millenaire:wall_painted_brick_purple",
+      "millenaire:wall_painted_brick_red",
+      "millenaire:wall_painted_brick_silver",
+      "millenaire:wall_painted_brick_white",
+      "millenaire:wall_painted_brick_yellow"
+    ]
+  },
+  "criteria": {
+    "has_painted_brick_black": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "millenaire:painted_brick_black"
+          }
+        ]
+	  }
+    },
+    "has_painted_brick_blue": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "millenaire:painted_brick_blue"
+          }
+        ]
+	  }
+    },
+    "has_painted_brick_brown": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "millenaire:painted_brick_brown"
+          }
+        ]
+	  }
+    },
+    "has_painted_brick_cyan": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "millenaire:painted_brick_cyan"
+          }
+        ]
+	  }
+    },
+    "has_painted_brick_gray": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "millenaire:painted_brick_gray"
+          }
+        ]
+	  }
+    },
+    "has_painted_brick_green": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "millenaire:painted_brick_green"
+          }
+        ]
+	  }
+    },
+    "has_painted_brick_light_blue": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "millenaire:painted_brick_light_blue"
+          }
+        ]
+	  }
+    },
+    "has_painted_brick_lime": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "millenaire:painted_brick_lime"
+          }
+        ]
+	  }
+    },
+    "has_painted_brick_magenta": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "millenaire:painted_brick_magenta"
+          }
+        ]
+	  }
+    },
+    "has_painted_brick_orange": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "millenaire:painted_brick_orange"
+          }
+        ]
+	  }
+    },
+    "has_painted_brick_pink": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "millenaire:painted_brick_pink"
+          }
+        ]
+	  }
+    },
+    "has_painted_brick_purple": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "millenaire:painted_brick_purple"
+          }
+        ]
+	  }
+    },
+    "has_painted_brick_red": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "millenaire:painted_brick_red"
+          }
+        ]
+	  }
+    },
+    "has_painted_brick_silver": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "millenaire:painted_brick_silver"
+          }
+        ]
+	  }
+    },
+    "has_painted_brick_white": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "millenaire:painted_brick_white"
+          }
+        ]
+	  }
+    },
+    "has_painted_brick_yellow": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "millenaire:painted_brick_yellow"
+          }
+        ]
+	  }
+    }
+  },
+  "requirements": [
+    [
+      "has_painted_brick_black",
+      "has_painted_brick_blue",
+      "has_painted_brick_brown",
+      "has_painted_brick_cyan",
+      "has_painted_brick_gray",
+      "has_painted_brick_green",
+      "has_painted_brick_light_blue",
+      "has_painted_brick_lime",
+      "has_painted_brick_magenta",
+      "has_painted_brick_orange",
+      "has_painted_brick_pink",
+      "has_painted_brick_purple",
+      "has_painted_brick_red",
+      "has_painted_brick_silver",
+      "has_painted_brick_white",
+      "has_painted_brick_yellow"
+    ]
+  ]
+}

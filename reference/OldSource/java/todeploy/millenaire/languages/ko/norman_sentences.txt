@@ -1,0 +1,100 @@
+villager.greeting=Bonjour, $name! / 안녕하세요, $name 님!
+villager.greeting=Belle journée, n'est ce pas? / 좋은 날씨네요, 그렇지 않나요?
+villager.greeting=Il va pleuvoir, je le sens / 곧 비가 올거 같네요.
+villager.greeting=Je ne me souvenais pas de la Normandie comme ça. / 난 노르망디가 분명히 어떤 곳인지 기억나지 않아.
+guard.greeting=Vous avez l'air un peu faible, $name. Je vous protègerais si vous avez des ennuis. / 조금 지쳐보이네요, $name 님. 제가 만약 무슨 일이 있으면 지켜드릴게요.
+priest.greeting=Soyez béni, mon fils. / 내 아들에게 축복이 있기를.
+monk.greeting=Dieu soit avec toi, mon frère. / 신의 가호가 있기를.
+boy.greeting=Quand je serai grand, je veux être comme papa. / 전 커서, 아빠같은 사람이 되고싶어요!
+knight.greeting=Je n'obéi qu'au Roi Guillaume, Duc de Normandie, et à Dieu. Dans cet ordre. / 저는 노르망디의 군주인 윌리엄 폐하과 신을 믿습니다.
+knight.greeting=$name, saviez-vous que j'ai combattu à Hastings? / $name, 내가 헤스팅스에서 싸운 걸 알고있나?
+knight.greeting=Je prend possession de cette terre au nom du Duc de Normandie! / 이 이상한 세계를 영주께 불평하고 싶습니다!
+lady.greeting=Ma sœur a épousé un duc. Je vis ici. / 제 언니는 영주와 결혼해서, 전 여기에 살아요.
+lady.greeting=Vous auriez dû voir le château de mon père. Ca c'était une vrai forteresse. / 제 아버지의 성을 보고가세요! 인상적일거에요.
+viking_merchant.greeting=Cette terre appartient aux vikings. L'Angleterre aussi. La Sicile aussi. Vive nous! / 이 땅은 우리 땅이고, 영국과 시실리도 우리 땅입니다!
+viking_merchant.greeting=Aujourd'hui je vient commercer. Demain... / 오늘 거래하러 갈거에요. 내일이나...
+weapon_merchant.greeting=Vous voulez vraiment savoir comment j'ai survécu toutes ces années voyageant seul avec des marchandises précieuses? / 내가 이 귀중한 물건으로 지난 시간을 어떻게 살아왔는지 알고싶나?
+plant_merchant.greeting=몇 사람들은 저보고 상상이 지나치다고 해요, 하지만 그건 저뿐만이 아니에요 ... / 
+oriental_merchant.greeting=Ce pays est riche, mais fallait il vraiment qu'il soit si froid? / 여긴 잘 사는데 비해 너무 춥군.
+oriental_merchant.greeting=Etes vous allez à Cordoue? Ca, c'est une ville civilisée. / 코르도바에 가본 적 있나요? 거긴 잘 산다던데. 
+art_merchant.greeting=Les gens ici sont des barbares. / 여기 사람들은 너무 무례해요!
+art_merchant.greeting=Aucune ville dans le monde n'est comparable à Constantinople. / 콘스탄티노플을 이길 도시는 없습니다.
+art_merchant.greeting=Nous les byzantins sommes les derniers vrais romans. Admirez notre civilisation! / 우리 비잔티움은 진정한 마지막 로마인입니다. 우리 문명의 영광에 축복이 있기를!
+wool_merchant.greeting=Les textiles hollandais sont les meilleurs à l'ouest de Cathay. / 덱스타일은 서부 케세이에서 최고입니다.
+seneschal.greeting=Je gère ces terres pour mon roi. / 저는 폐하을 위해 이 도시를 다스리고 있습니다.
+seneschal.greeting=J'ai hâte de retourner à la cours du roi. / 어서 왕실로 돌아가고 싶어요!
+guildmaster.greeting=Les artisans ne valent rien sans quelqu'un pour les superviser. / 장인은 관리하는 사람이 없으면 소용없는 거 같아요.
+
+knight.patrol=Je reigne sur ces terres. / 저는 이 마을을 다스리고 있습니다.
+knight.patrol=La force fait le droit, et je suis fort. / 힘이 곧 정의입니다.
+
+lady.MakeTapestry=Personne ici n'apprécie l'art. / 여기엔 아무도 예술을 감상하는 사람이 없어요..
+lady.MakeTapestry=Peut-être que ces pièces seront moins glauques avec ces tapisseries. Peut-être. / 아마도 벽 덕분에 더 화사해보이는군.
+
+villager.gorest=Un peu de repos me ferait du bien... / 조금 쉬면 할 수 있을거 같아요.
+villager.gorest=La vie ici est un peu morne. / 여기서 사는건 좀 지루한거 같아요.
+villager.gorest=Rien d'intéressant n'arrive jamais ici. / 재밌는 일 없으려나.
+villager.gorest=Je suis fatigué. / 힘들다..
+villager.godrink=C'est à boire qu'il nous faut! / 목말라!
+villager.godrink=Un cidre n'a jamais fait de mal à personne. / 사이다는 모두에게 좋은 거 같아.
+villager.gopray=Je parle à Dieu, pas vous, $name. / 기도 중엔 방해하지 말아주세요, $name.
+
+farmer.BringBackResourcesHome=Récoltons ce blé doré. / 이 황금빛 밀들을 수확해볼까. 
+farmer.CollectCrop=On dirait que le blé est mûr. / 이 밀은 다 익은 것 같군.
+farmer.PlantSeeds=Je plante, et je récolterai. / 씨를 뿌렸으니, 곧 수확할 때가 오겠죠. 
+
+lumberman.BringBackResourcesHome=Même ma femme devra admettre que c’est beaucoup de bois. / 나무를 많이 캐오면 아내가 인정해주겠지.
+lumberman.ChopTrees=Regardez-moi couper cet arbre ! / 나무 자르는 걸 봐봐!
+lumberman.GatherGoods=Bel arbrisseau là-bas. / 좋은 묘목이 있군.
+lumberman.PlantSaplings=Bientôt ce sera un arbre magnifique ! Et je le couperais. / 후후, 곧 있으면 크게 자라겠지! 그럼 잘라야겠군.
+
+wife.GetHouseTHResources=On dirait que mon mari a travaillé pour une fois. / 제 게으른 남편이 뭐 하나 만드는 것 같군요.
+wife.GetResourcesForBuild=Je part chercher une tonne ou deux de matériaux. Je suis plus forte que j’en ai l’air ! / 건축 자재로 1-2톤이나 가져와 지은건, 내가 보기에도 튼튼해 보이는군.
+//villager.DeliverResourcesShop=
+wife.MakeBread=Mon pain est le meilleur du village. / 제 빵은 마을 중에서 제일 맛있을껄요?
+//villager.BeSeller=오세요! 오세요!
+wife.MakeCider=Préparer le cidre n’est pas le pire travail par ici. / 사이다를 준비하는건 어려운 일이에요.
+wife.MakeCalva=Une boisson d'homme, faite par une femme. / 보통 남자들이 마실 것을 만드는 건 여자의 몫이에요.
+wife.construction=Je construis, je construis, comme seule une femme le peu ! / 건축! 건축! 오직 여자만 할 수 있는 것!
+wife.construction=Les hommes n’ont pas la finesse nécessaire au travail de précision. / 남자들은 작업의 기본인 깔끔함이 안 돼있어요.
+wife.construction=Ca va être un bâtiment superbe. / 이 건물은 화려하게 지어질 겁니다.
+wife.getGoodsHousehold=Pourquoi est ce toujours moi qui doit tout aller chercher ? / 왜 난 물건을 옮기기만 해야되지?
+wife.DeliverGoodsHousehold="Vas chercher ci, vas chercher ça", ils me disent. Un jour je refuserais ! /  "이리 옮겨라, 저리 옮겨라" 말하는데, 못 해먹겠어요!
+
+villager.GoPlay=Je vais aller jouer dehors. / 밖에서 놀아야겠어요.
+villager.BecomeAdult=Il est l’heure de devenir quelqu’un ! / 세상이 변하는 시간!
+
+villager.MakeBoudin=Vous ne le mangeriez pas si vous saviez comment c’est fait. / 만약 이게 만들어지는 과정을 본다면 먹고 싶지 않아질걸요.
+
+smith.MakeNormanTools=Les outils normands sont les meilleurs du monde. / 노르만 도구는 가장 좋은 도구입니다!
+smith.MakeNormanWeapons=N'essayez pas d'affronter un homme armé par mes soins. / 싸우려고 하지 마세요.
+
+
+miner.Mining=Miner est un art, vous savez. / 알다시피, 채광은 예술이죠.
+miner.Mining=Personne d’autre dans le village n’a la force et l’endurance nécessaire à ce travail. Et vous pensez qu’ils sont reconnaissants ? / 이 일을 할 사람은 마을에서 아무도 없을겁니다. 그런다고 제가 무슨 혜택을 받을까요?
+miner.Cooking=Ca c’est de la vrai cuisson. / Now this is serious cooking.
+
+villager.gopray.chosen=Ca fait longtemps que je n’ai pas prié… / 마지막으로 기도한 지 오래된거 같아요.
+priest.gopray.chosen=Prier est plus dur qu’il n’y paraît. / 기도는 보이는 것보다 더 힘든 일이에요.
+
+villager.calltoarms=Aux armes ! Aux armes ! / 전투 준비!
+villager.calltoarms=Montjoi Saint-Denis!
+villager.calltoarms=Tous pour un ! / 영주님을 위해!
+villager.calltoarms=Aux armes, citoyens!
+
+monk.makebooks=Si la vanité n’était pas un péché, je dirai que mes manuscrits sont les plus beaux du pays. / 자만이 죄악이 아니였더라면, 저는 제 사본이 최고라 말하고 싶습니다.
+
+priest.makeamulets=Ceci ne devrait pas être vu par un étranger… / 외부인에겐 공개할 수 없습니다.
+
+viking_merchant.KeepStall=La magie viking est puissance. / 바이킹의 마법은 강력합니다..
+viking_merchant.KeepStall=Venez et achetez. Je ne vous parlerai pas des sacrifices nécessaires pour rendre ces amulettes puissantes. / 와서 보고가세요, 저는 이 아뮬렛을 강하게 만들어줄때 필요한 무언가까지 말해줄 순 없습니다. 
+weapon_merchant.KeepStall=Vous ne voulez pas savoir ce qui est arrivé à l’homme qui m’a fait cette cicatrice. Mais vous pouvez acheter la lame que j’ai utilisée. / 당신은 상처입은 저한테 무슨 일이 일어났는지에 대해서 알고싶지 않을겁니다. 하지만 당신은 제가 쓰는 칼을 사실 수 있습니다.
+plant_merchant.KeepStall=Je vend toutes les herbes dont vous aurez jamais besoin. / 약초 팔아요! 당신이 원하는 모든 약초도 여기에 있어요!
+oriental_merchant.KeepStall=Venez voir des produits de luxes tels que les gens d’ici ne voient jamais ! / 모든 사람들이 원할만한 비싼 물건이 왔습니다, 보고 가세요!
+art_merchant.KeepStall=Des perles pour des cochons, comme ils disent ici. / 당신이 말하는 진주가 들어왔습니다!
+wool_merchant.KeepStall=Toute la laine rose qu’il vous faut ! / 당신이 원하는 핑크색 양털이 들어왔습니다!
+
+villager.makeglassbottles=Une fiole de qualité, c'est une potion réussie! / 잘 만들어진 병이 좋은 포션을 만듭니다!
+villager.harvestwarts=Heuresement que je porte des gants. / 신이시여, 감사합니다!
+villager.plantwarts=Seul Maître Vif-argent aurait pu comprendre comment cultiver ces horreurs. / 우리 마스터만이 이 끔찍한게 어떻게 자라는지 알고있지.
+villager.brewpotions=Un jour je serais un maître alchimiste! / 저는 대연금술사가 될껍니다!

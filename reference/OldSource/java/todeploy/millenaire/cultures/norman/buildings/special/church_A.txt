@@ -1,0 +1,28 @@
+//Parameters for the building as a whole
+building.length=14
+building.width=27
+building.buildingorientation=3
+building.version=2
+building.icon=stained_glass_green_blue
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Chapelle
+initial.priority=10
+initial.tag=praying
+
+//Parameters for specific upgrades
+upgrade1.priority=60
+
+upgrade2.priority=55
+
+upgrade3.nativename=Eglise
+upgrade3.priority=50
+upgrade3.pathlevel=2
+
+upgrade4.priority=45
+
+upgrade5.priority=40
+
+upgrade6.priority=35
+

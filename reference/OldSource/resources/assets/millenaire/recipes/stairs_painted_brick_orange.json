@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "stairs_painted_brick",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "millenaire:painted_brick_orange",
+            "data": 0
+    }
+  },
+  "result": {
+    "item": "millenaire:stairs_painted_brick_orange",
+    "count": 4
+  }
+}

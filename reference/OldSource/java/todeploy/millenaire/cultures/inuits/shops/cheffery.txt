@@ -1,0 +1,7 @@
+sells=bearmeat_raw,bearmeat_cooked,wolfmeat_raw,wolfmeat_cooked,beefraw,beefcooked,porkchops,porkchopscooked,chickenmeat,chickenmeatcooked,fishraw,fishcooked,seafood_raw,seafood_cooked,rabbit,cooked_rabbit,mutton,cooked_mutton,potato,baked_potato,wheat,bread,inuitbearstew,inuitmeatystew,inuitpotatostew
+
+buys=bearmeat_raw,bearmeat_cooked,wolfmeat_raw,wolfmeat_cooked,beefraw,beefcooked,porkchops,porkchopscooked,chickenmeat,chickenmeatcooked,fishraw,fishcooked,seafood_raw,seafood_cooked,rabbit,cooked_rabbit,mutton,cooked_mutton,potato,baked_potato,wheat,bread,inuitbearstew,inuitmeatystew,inuitpotatostew
+
+buysoptional=tripes,boudin,cider,calva,winefancy,feta,souvlaki,grapes,rice,turmeric,rasgulla,vegcurry,chickencurry,udon,cacauhaa,maize
+
+deliverto=bearmeat_raw,bearmeat_cooked,wolfmeat_raw,wolfmeat_cooked,beefraw,beefcooked,porkchops,porkchopscooked,chickenmeat,chickenmeatcooked,fishraw,fishcooked,seafood_raw,seafood_cooked,rabbit,cooked_rabbit,mutton,cooked_mutton,potato,baked_potato,bread,inuitbearstew,inuitmeatystew,inuitpotatostew

@@ -1,0 +1,28 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "millenaire:mudbrick_slab",
+      "millenaire:mudbrick_stairs",
+      "millenaire:wall_mud_brick"
+    ]
+  },
+  "criteria": {
+    "has_item": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "millenaire:stone_deco",
+            "data": 0
+          }
+        ]
+	  }
+    }
+  },
+  "requirements": [
+    [
+      "has_item"
+    ]
+  ]
+}

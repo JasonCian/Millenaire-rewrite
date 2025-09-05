@@ -1,0 +1,19 @@
+building.length=20
+building.width=13
+building.mindistance=0.6
+building.icon=grapes
+building.buildingorientation=3
+building.max=2
+building.areatoclear=3
+
+//Parameters for initial construction
+initial.startlevel=-2
+initial.nativename=Amplónas
+initial.priority=100
+initial.tag=vineyard
+initial.requiredvillagetag=taverna
+initial.pathlevel=1
+
+//Parameters for specific upgrades
+upgrade1.priority=200
+upgrade1.pathlevel=2

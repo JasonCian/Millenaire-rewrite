@@ -1,0 +1,15 @@
+building.length=1
+building.width=3
+building.max=0
+building.buildingorientation=3
+building.icon=banner_white
+building.isborderbuilding=true
+building.areatoclear=1
+
+initial.startlevel=-1
+initial.nativename=Akrolíthos
+initial.tag=borderpostsign
+initial.nopathstobuilding=true
+initial.startlevel=-1
+
+upgrade1.priority=10

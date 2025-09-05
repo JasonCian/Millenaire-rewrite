@@ -1,0 +1,3 @@
+buys=iron,ikayaki,udon,chickenmeat,leather
+
+sells=dirtwall,japaneseguardboots,japaneseguardHelmet,japaneseguardLegs,japaneseguardPlate,japaneseblueboots,japanesebluehelmet,japanesebluelegs,japaneseblueplate,japaneseredboots,japaneseredhelmet,japaneseredlegs,japaneseredplate,tachisword,yumibow,rice

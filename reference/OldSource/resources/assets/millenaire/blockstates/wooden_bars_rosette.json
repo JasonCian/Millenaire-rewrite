@@ -1,0 +1,253 @@
+{
+    "multipart": [
+
+        {   "when": { "topbottom":"bottom", "facing":"south" },
+            "apply": { "model": "millenaire:wooden_bars_rosette_bottomleft_post" }
+        },
+        {   "when": { "topbottom":"bottom", "facing":"south", "south": true },
+            "apply": { "model": "millenaire:wooden_bars_rosette_bottomleft_side_alt" }
+        },
+        {   "when": { "topbottom":"bottom", "facing":"south", "south": false },
+            "apply": { "model": "millenaire:wooden_bars_rosette_bottomleft_noside_alt", "y": 90 }
+        },
+        {   "when": { "topbottom":"bottom", "facing":"south", "north": true },
+            "apply": { "model": "millenaire:wooden_bars_rosette_bottomleft_side" }
+        },
+        {   "when": { "topbottom":"bottom", "facing":"south", "north": false },
+            "apply": { "model": "millenaire:wooden_bars_rosette_bottomleft_noside" }
+        },
+        {   "when": { "topbottom":"bottom", "facing":"south", "west": true },
+            "apply": { "model": "millenaire:wooden_bars_rosette_bottomleft_side_alt", "y": 90 }
+        },
+        {   "when": { "topbottom":"bottom", "facing":"south", "west": false },
+            "apply": { "model": "millenaire:wooden_bars_rosette_bottomleft_noside", "y": 270 }
+        },
+        {   "when": { "topbottom":"bottom", "facing":"south", "east": true },
+            "apply": { "model": "millenaire:wooden_bars_rosette_bottomleft_side", "y": 90 }
+        },
+        {   "when": { "topbottom":"bottom", "facing":"south", "east": false },
+            "apply": { "model": "millenaire:wooden_bars_rosette_bottomleft_noside_alt" }
+        },
+        
+        
+        
+        {   "when": { "topbottom":"bottom", "facing":"north" },
+            "apply": { "model": "millenaire:wooden_bars_rosette_bottomright_post" }
+        },
+        {   "when": { "topbottom":"bottom", "facing":"north", "south": true },
+            "apply": { "model": "millenaire:wooden_bars_rosette_bottomright_side_alt" }
+        },
+        {   "when": { "topbottom":"bottom", "facing":"north", "south": false },
+            "apply": { "model": "millenaire:wooden_bars_rosette_bottomright_noside_alt", "y": 90 }
+        },
+        {   "when": { "topbottom":"bottom", "facing":"north", "north": true },
+            "apply": { "model": "millenaire:wooden_bars_rosette_bottomright_side" }
+        },
+        {   "when": { "topbottom":"bottom", "facing":"north", "north": false },
+            "apply": { "model": "millenaire:wooden_bars_rosette_bottomright_noside" }
+        },
+        {   "when": { "topbottom":"bottom", "facing":"north", "west": true },
+            "apply": { "model": "millenaire:wooden_bars_rosette_bottomright_side_alt", "y": 90 }
+        },
+        {   "when": { "topbottom":"bottom", "facing":"north", "west": false },
+            "apply": { "model": "millenaire:wooden_bars_rosette_bottomright_noside", "y": 270 }
+        },
+        {   "when": { "topbottom":"bottom", "facing":"north", "east": true },
+            "apply": { "model": "millenaire:wooden_bars_rosette_bottomright_side", "y": 90 }
+        },
+        {   "when": { "topbottom":"bottom", "facing":"north", "east": false },
+            "apply": { "model": "millenaire:wooden_bars_rosette_bottomright_noside_alt" }
+        },
+        
+        
+        
+        {   "when": { "topbottom":"bottom", "facing":"west" },
+            "apply": { "model": "millenaire:wooden_bars_rosette_bottomleft_post" }
+        },
+        {   "when": { "topbottom":"bottom", "facing":"west", "south": true },
+            "apply": { "model": "millenaire:wooden_bars_rosette_bottomleft_side_alt" }
+        },
+        {   "when": { "topbottom":"bottom", "facing":"west", "south": false },
+            "apply": { "model": "millenaire:wooden_bars_rosette_bottomleft_noside_alt", "y": 90 }
+        },
+        {   "when": { "topbottom":"bottom", "facing":"west", "north": true },
+            "apply": { "model": "millenaire:wooden_bars_rosette_bottomleft_side" }
+        },
+        {   "when": { "topbottom":"bottom", "facing":"west", "north": false },
+            "apply": { "model": "millenaire:wooden_bars_rosette_bottomleft_noside" }
+        },
+        {   "when": { "topbottom":"bottom", "facing":"west", "west": true },
+            "apply": { "model": "millenaire:wooden_bars_rosette_bottomleft_side_alt", "y": 90 }
+        },
+        {   "when": { "topbottom":"bottom", "facing":"west", "west": false },
+            "apply": { "model": "millenaire:wooden_bars_rosette_bottomleft_noside", "y": 270 }
+        },
+        {   "when": { "topbottom":"bottom", "facing":"west", "east": true },
+            "apply": { "model": "millenaire:wooden_bars_rosette_bottomleft_side", "y": 90 }
+        },
+        {   "when": { "topbottom":"bottom", "facing":"west", "east": false },
+            "apply": { "model": "millenaire:wooden_bars_rosette_bottomleft_noside_alt" }
+        },
+        
+        
+        
+        
+        {   "when": { "topbottom":"bottom", "facing":"east" },
+            "apply": { "model": "millenaire:wooden_bars_rosette_bottomright_post" }
+        },
+        {   "when": { "topbottom":"bottom", "facing":"east", "south": true },
+            "apply": { "model": "millenaire:wooden_bars_rosette_bottomright_side_alt" }
+        },
+        {   "when": { "topbottom":"bottom", "facing":"east", "south": false },
+            "apply": { "model": "millenaire:wooden_bars_rosette_bottomright_noside_alt", "y": 90 }
+        },
+        {   "when": { "topbottom":"bottom", "facing":"east", "north": true },
+            "apply": { "model": "millenaire:wooden_bars_rosette_bottomright_side" }
+        },
+        {   "when": { "topbottom":"bottom", "facing":"east", "north": false },
+            "apply": { "model": "millenaire:wooden_bars_rosette_bottomright_noside" }
+        },
+        {   "when": { "topbottom":"bottom", "facing":"east", "west": true },
+            "apply": { "model": "millenaire:wooden_bars_rosette_bottomright_side_alt", "y": 90 }
+        },
+        {   "when": { "topbottom":"bottom", "facing":"east", "west": false },
+            "apply": { "model": "millenaire:wooden_bars_rosette_bottomright_noside", "y": 270 }
+        },
+        {   "when": { "topbottom":"bottom", "facing":"east", "east": true },
+            "apply": { "model": "millenaire:wooden_bars_rosette_bottomright_side", "y": 90 }
+        },
+        {   "when": { "topbottom":"bottom", "facing":"east", "east": false },
+            "apply": { "model": "millenaire:wooden_bars_rosette_bottomright_noside_alt" }
+        },
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+         {   "when": { "topbottom":"top", "facing":"south" },
+            "apply": { "model": "millenaire:wooden_bars_rosette_topleft_post" }
+        },
+        {   "when": { "topbottom":"top", "facing":"south", "south": true },
+            "apply": { "model": "millenaire:wooden_bars_rosette_topleft_side_alt" }
+        },
+        {   "when": { "topbottom":"top", "facing":"south", "south": false },
+            "apply": { "model": "millenaire:wooden_bars_rosette_topleft_noside_alt", "y": 90 }
+        },
+        {   "when": { "topbottom":"top", "facing":"south", "north": true },
+            "apply": { "model": "millenaire:wooden_bars_rosette_topleft_side" }
+        },
+        {   "when": { "topbottom":"top", "facing":"south", "north": false },
+            "apply": { "model": "millenaire:wooden_bars_rosette_topleft_noside" }
+        },
+        {   "when": { "topbottom":"top", "facing":"south", "west": true },
+            "apply": { "model": "millenaire:wooden_bars_rosette_topleft_side_alt", "y": 90 }
+        },
+        {   "when": { "topbottom":"top", "facing":"south", "west": false },
+            "apply": { "model": "millenaire:wooden_bars_rosette_topleft_noside", "y": 270 }
+        },
+        {   "when": { "topbottom":"top", "facing":"south", "east": true },
+            "apply": { "model": "millenaire:wooden_bars_rosette_topleft_side", "y": 90 }
+        },
+        {   "when": { "topbottom":"top", "facing":"south", "east": false },
+            "apply": { "model": "millenaire:wooden_bars_rosette_topleft_noside_alt" }
+        },
+        
+        
+        
+        {   "when": { "topbottom":"top", "facing":"north" },
+            "apply": { "model": "millenaire:wooden_bars_rosette_topright_post" }
+        },
+        {   "when": { "topbottom":"top", "facing":"north", "south": true },
+            "apply": { "model": "millenaire:wooden_bars_rosette_topright_side_alt" }
+        },
+        {   "when": { "topbottom":"top", "facing":"north", "south": false },
+            "apply": { "model": "millenaire:wooden_bars_rosette_topright_noside_alt", "y": 90 }
+        },
+        {   "when": { "topbottom":"top", "facing":"north", "north": true },
+            "apply": { "model": "millenaire:wooden_bars_rosette_topright_side" }
+        },
+        {   "when": { "topbottom":"top", "facing":"north", "north": false },
+            "apply": { "model": "millenaire:wooden_bars_rosette_topright_noside" }
+        },
+        {   "when": { "topbottom":"top", "facing":"north", "west": true },
+            "apply": { "model": "millenaire:wooden_bars_rosette_topright_side_alt", "y": 90 }
+        },
+        {   "when": { "topbottom":"top", "facing":"north", "west": false },
+            "apply": { "model": "millenaire:wooden_bars_rosette_topright_noside", "y": 270 }
+        },
+        {   "when": { "topbottom":"top", "facing":"north", "east": true },
+            "apply": { "model": "millenaire:wooden_bars_rosette_topright_side", "y": 90 }
+        },
+        {   "when": { "topbottom":"top", "facing":"north", "east": false },
+            "apply": { "model": "millenaire:wooden_bars_rosette_topright_noside_alt" }
+        },
+        
+        
+        
+        {   "when": { "topbottom":"top", "facing":"west" },
+            "apply": { "model": "millenaire:wooden_bars_rosette_topleft_post" }
+        },
+        {   "when": { "topbottom":"top", "facing":"west", "south": true },
+            "apply": { "model": "millenaire:wooden_bars_rosette_topleft_side_alt" }
+        },
+        {   "when": { "topbottom":"top", "facing":"west", "south": false },
+            "apply": { "model": "millenaire:wooden_bars_rosette_topleft_noside_alt", "y": 90 }
+        },
+        {   "when": { "topbottom":"top", "facing":"west", "north": true },
+            "apply": { "model": "millenaire:wooden_bars_rosette_topleft_side" }
+        },
+        {   "when": { "topbottom":"top", "facing":"west", "north": false },
+            "apply": { "model": "millenaire:wooden_bars_rosette_topleft_noside" }
+        },
+        {   "when": { "topbottom":"top", "facing":"west", "west": true },
+            "apply": { "model": "millenaire:wooden_bars_rosette_topleft_side_alt", "y": 90 }
+        },
+        {   "when": { "topbottom":"top", "facing":"west", "west": false },
+            "apply": { "model": "millenaire:wooden_bars_rosette_topleft_noside", "y": 270 }
+        },
+        {   "when": { "topbottom":"top", "facing":"west", "east": true },
+            "apply": { "model": "millenaire:wooden_bars_rosette_topleft_side", "y": 90 }
+        },
+        {   "when": { "topbottom":"top", "facing":"west", "east": false },
+            "apply": { "model": "millenaire:wooden_bars_rosette_topleft_noside_alt" }
+        },
+        
+        
+        
+        
+        {   "when": { "topbottom":"top", "facing":"east" },
+            "apply": { "model": "millenaire:wooden_bars_rosette_topright_post" }
+        },
+        {   "when": { "topbottom":"top", "facing":"east", "south": true },
+            "apply": { "model": "millenaire:wooden_bars_rosette_topright_side_alt" }
+        },
+        {   "when": { "topbottom":"top", "facing":"east", "south": false },
+            "apply": { "model": "millenaire:wooden_bars_rosette_topright_noside_alt", "y": 90 }
+        },
+        {   "when": { "topbottom":"top", "facing":"east", "north": true },
+            "apply": { "model": "millenaire:wooden_bars_rosette_topright_side" }
+        },
+        {   "when": { "topbottom":"top", "facing":"east", "north": false },
+            "apply": { "model": "millenaire:wooden_bars_rosette_topright_noside" }
+        },
+        {   "when": { "topbottom":"top", "facing":"east", "west": true },
+            "apply": { "model": "millenaire:wooden_bars_rosette_topright_side_alt", "y": 90 }
+        },
+        {   "when": { "topbottom":"top", "facing":"east", "west": false },
+            "apply": { "model": "millenaire:wooden_bars_rosette_topright_noside", "y": 270 }
+        },
+        {   "when": { "topbottom":"top", "facing":"east", "east": true },
+            "apply": { "model": "millenaire:wooden_bars_rosette_topright_side", "y": 90 }
+        },
+        {   "when": { "topbottom":"top", "facing":"east", "east": false },
+            "apply": { "model": "millenaire:wooden_bars_rosette_topright_noside_alt" }
+        }
+        
+
+    ]
+}

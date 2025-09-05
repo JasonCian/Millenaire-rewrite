@@ -1,0 +1,20 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:sign"
+        },
+        "title": {
+            "translate": "advancements.pantheon.name"
+        },
+        "description": {
+            "translate": "advancements.pantheon.desc"
+        },
+        "frame": "challenge"
+    },
+    "parent": "millenaire:magellan",
+    "criteria": {
+        "pantheon": {
+            "trigger": "pantheon"
+        }
+    }
+}

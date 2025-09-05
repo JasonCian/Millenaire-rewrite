@@ -1,0 +1,14 @@
+
+verze:4.8.0
+<darkblue>Mayove
+Od Yucutana, Mayove se vyznacuji kamennou architekturou zdobenou zlatem, mohou zit jako zemedelske, nabozenske nebo vojenske. Mluvi maysky ale jejich dialogy budou prelozene jakmile se hrac "nauci" jejich jazyk tim ze s nimi bude mluvit.
+<darkblue>Unikatni objekty a blocky
+Pestují kukurici. Hrác muze pozadat kuchare aby ho naucil jak pestovat tuto obilninu.
+Vari mah a masas z kukurice a kurete - plnene tortilly
+Pestuji kakao a pripravuji z nej cacauhaa, coz je ozivujici cokoladovy napoj.
+Obsidiansky remeslnik vyrabi zbrane a nastroje z obsidianu ktery je krehky ale da se lehce oenchantovat.
+Jejich remeslnici vyrabeji dekorativni blocky ze zlata ktere jim poskytuje hrac.
+Take tesaji basreliefy reprezentujíci Mayske bozstvo.
+<darkblue>Specificky recept
+Tri kukurice v jedne rade vyprodukuji jeden wah (druh tortilly)
+Dve kukurice v jedné rade a syrove kure uprostred vyprodukují jeden masa (tortilla s kuřetem)

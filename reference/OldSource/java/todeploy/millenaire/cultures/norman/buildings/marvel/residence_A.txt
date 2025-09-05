@@ -1,0 +1,20 @@
+//Parameters for the building as a whole
+building.length=26
+building.width=30
+building.buildingorientation=3
+building.max=0
+building.icon=stonebrick
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Palais épiscopal
+initial.priority=1000
+initial.male=bishop
+initial.subbuilding=residence_A_orderoutpost
+initial.subbuilding=residence_A_priest
+initial.subbuilding=residence_A_vicar
+initial.pathlevel=2
+initial.tag=autospawnvillagers
+initial.requiredvillagetag=level_6
+

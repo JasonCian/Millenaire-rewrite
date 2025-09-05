@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "millenaire:calva"
+        },
+        "title": {
+            "translate": "advancements.cheers.name"
+        },
+        "description": {
+            "translate": "advancements.cheers.desc"
+        }
+    },
+    "parent": "millenaire:cresus",
+    "criteria": {
+        "cheers": {
+            "trigger": "cheers"
+        }
+    }
+}

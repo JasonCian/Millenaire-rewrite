@@ -1,0 +1,95 @@
+List of valid parameters for the wall files.
+
+
+=== Village Walls ===
+
+village_wall (A building from the current culture. One allowed.):
+Walls to surround the village.
+
+village_wall_tower (A building from the current culture. One allowed.):
+Towers for the village walls.
+
+village_wall_gate (A building from the current culture. One allowed.):
+Gateways for the village wall
+
+village_wall_corner (A building from the current culture. One allowed.):
+Corners for the village wall
+
+village_wall_cap_right (A building from the current culture. One allowed.):
+Optional alternate plan for the wall that stops on the right (seen from outside)
+
+village_wall_cap_left (A building from the current culture. One allowed.):
+Optional alternate plan for the wall that stops on the left (seen from outside)
+
+village_wall_cap_both (A building from the current culture. One allowed.):
+Optional alternate plan for the wall that stops on both sides
+
+village_wall_slope1_left (A building from the current culture. One allowed.):
+Optional alternate plan for the wall that rises on the left by 1 (seen from outside)
+
+village_wall_slope1_right (A building from the current culture. One allowed.):
+Optional alternate plan for the wall that rises on the right by 1 (seen from outside)
+
+village_wall_slope2_left (A building from the current culture. One allowed.):
+Optional alternate plan for the wall that rises on the left by 2 (seen from outside)
+
+village_wall_slope2_right (A building from the current culture. One allowed.):
+Optional alternate plan for the wall that rises on the right by 2 (seen from outside)
+
+village_wall_slope3_left (A building from the current culture. One allowed.):
+Optional alternate plan for the wall that rises on the left by 3 (seen from outside)
+
+village_wall_slope3_right (A building from the current culture. One allowed.):
+Optional alternate plan for the wall that rises on the right by 3 (seen from outside)
+
+village_wall_slope4_left (A building from the current culture. One allowed.):
+Optional alternate plan for the wall that rises on the left by 4 (seen from outside)
+
+village_wall_slope4_right (A building from the current culture. One allowed.):
+Optional alternate plan for the wall that rises on the right by 4 (seen from outside)
+
+village_wall_slope5_left (A building from the current culture. One allowed.):
+Optional alternate plan for the wall that rises on the left by 5 (seen from outside)
+
+village_wall_slope5_right (A building from the current culture. One allowed.):
+Optional alternate plan for the wall that rises on the right by 5 (seen from outside)
+
+village_wall_slope6_left (A building from the current culture. One allowed.):
+Optional alternate plan for the wall that rises on the left by 6 (seen from outside)
+
+village_wall_slope6_right (A building from the current culture. One allowed.):
+Optional alternate plan for the wall that rises on the right by 6 (seen from outside)
+
+village_wall_spawn (boolean):
+Whether to spawn the first level of walls
+Default value: false
+
+village_wall_tower_spawn (boolean):
+Whether to spawn the first level of wall towers
+Default value: false
+
+village_wall_gate_spawn (boolean):
+Whether to spawn the first level of wall gateways
+Default value: false
+
+village_wall_corner_spawn (boolean):
+Whether to spawn the first level of wall corner towers
+Default value: false
+
+village_wall_cap_spawn (boolean):
+Whether to spawn the first level of wall caps
+Default value: false
+
+village_wall_nb_between_towers (integer value):
+How many wall segments to place between every towers. If no walls, space in block.
+Default value: 3
+
+nb_smooth_runs (integer value):
+How many times the smoothing algorithm should be applied. The more times, the 'flatter' walls will be.
+Default value: 3
+
+max_y_delta (integer value):
+Maximum difference between a wall segment's Y position and the town hall where a wall will be built.
+Default value: 15
+
+

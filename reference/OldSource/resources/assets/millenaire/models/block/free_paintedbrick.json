@@ -1,0 +1,6 @@
+{
+  "parent": "millenaire:block/free",
+  "textures": {
+    "freeblock": "millenaire:blocks/painted_brick_white"
+  }
+}

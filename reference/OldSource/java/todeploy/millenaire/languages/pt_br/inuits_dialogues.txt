@@ -1,0 +1,160 @@
+//*  As linhas de diálogo começam com um código como "v2; 30;" que especificam quem está falando e quando a linha aparece. Por favor, copie-o exatamente nas suas traduções.
+//*  A primeira metade da linha (até o /) está no idioma dos aldeões e deve ser mantida como está, a segunda parte deve ser traduzida
+//* 
+
+
+
+newchat;key:rain,tag:notraining,weigth:10
+v1;0;kisu qanniqtuq? / Está nevando?
+
+v2;30;aamai qiuvit?? / Parece neve, mas não parece estar frio.
+
+
+newchat;key:beautiful,weigth:10
+v1;0;asiujivaa, Parece o mesmo, mas parece diferente.
+
+v2;30;angakkuq uqalaittuq unillarvik tuurngaq, ittukki! / Os xamãs dizem que estamos na terra abençoada dos espíritos prestativos, é por isso que é tão incrível aqui!
+
+newchat;key:sunset,weigth:10
+v1;0;sinigiaqaqtunga, unnusak... / Estou cansado, hoje está passando rápido o suficiente ...
+
+newchat;key:seasons,weigth:10
+v1;0;aaqqiktausimalluni angunasungniq suvallituq ukiuq? / Você acha que a caça será boa este ano?
+
+v2;30;aamai, uqqulimajuq./ Quem sabe, com o tempo que tivemos.
+v1;60;upirngalaaq ippigijaillingajuq./ Estações não fazem sentido aqui.
+
+
+newchat;key:normans,weigth:5
+v1;0;qallunaat uivirripaa, uiguit?  / Eu conheci algumas pessoas estranhas, eles se chamam normandos?
+v2;30;ii uigit anittaa pirlajuq. / Sim, os normandos são ótimos, mas com certeza precisam de muito.
+
+v1;60;nauk ilitsimajuq? / O que você quer dizer?
+
+v2;90;uiguit ungalliani pimajaqpuq, pirlajuq. / Um veio no outro dia e esvaziei minha casa dando-lhe coisas, ele continuou precisando de mais aparentemente.
+
+v1;120;saipaaqsauti  / Coitado.
+
+
+newchat;key:japanese,v1:adult,v2:adult,weigth:5
+v1;0;ualiniq immikkuurtuq qallunaat nirrimaatsiutit iqaluk! / Aqueles japoneses certamente sabem como preparar peixe!
+
+v2;30;"nirrimaatsiutit" iqaluk? uugitsanguivuq, ii? / "Preparar" peixe? Você quer dizer que eles cozinham, certo?
+v1;60;aakka nirrimaatsiutit papa mamaqtuq. / Não, quero dizer que eles servem comida com todos esses métodos e sabores elaborados.
+
+v2;90;aungajuaq mamailliungusuttuq tangiq aakka? / Os alimentos podem ter um sabor diferente sem serem estragados?
+
+v1;120;siaruulaaqtumi suurmi! / Sim, você deveria vir comigo na próxima vez que eu der uma olhada neles!
+
+newchat;key:murderer,weigth:10
+v1;0;tusarniiluttuq sukutsiq sivunittini. / Você ouviu o que aconteceu com ele após o acidente?
+v2;30;ilinngatuq inuarniq aakka. / Acidente ou não, matar pessoas é errado.
+
+v1;60;pirlajuq inuillitiqtuq ii tuqutsiarivaa / Sim, mas precisamos expulsá-lo da vila? Ouvi dizer que ele ficou louco por conta própria.
+
+v2;90;manguppaa! akka itjiunngittuq aakka qiqumajuq. / Nós tivemos que! Pelo menos aqui não está frio e ele não vai morrer de frio por aí.
+
+v1;120;inuillitiqtuq! / Isto é melhor? Agora ele é forçado a viver sozinho sozinho!
+
+
+newchat;key:kys,weigth:10
+v1;0;qarungu avasirngulik tuqutsiarivaa? / Quando o ancião vai sair para morrer?
+
+v2;30;aakka pirlajuq, suvallituq! / Acho que não precisamos fazer isso aqui, esse novo mundo é muito mais acolhedor!
+
+v1;60;aamai... uummangajuq / eu acho ... mas é estranho vê-la ainda viva.
+
+newchat;key:visitors,weigth:10
+v1;0; nunasiuriijaqtuq tikittusiaqpaa, upaajut qallunaat. / Este lugar é estranho, está cheio de pessoas estranhas.
+v2;30;qallunaat $name? / Você quer dizer $name?
+
+v1;60;aakka $name, qinungati / Bem $name é apenas uma pessoa, quero dizer todas as outras.
+
+newchat;key:endermen,weigth:10
+v1;0;avasirngulik uqautivaa takisuuq, haattuq, iliranaqtuq kallupilluk? / Você já ouviu o que o ancião diz sobre aquelas pessoas altas, magras e assustadoras?
+
+v2;30;unniluppuq tariaksuq? aamai... / O que eles são o Povo das Sombras? Eu não sei...
+v1;60;maituaq! ii uqalaittuq unillarvik irinaliut / Mas faz sentido! Se estamos verdadeiramente em uma terra abençoada, eles seriam distorcidos assim!
+
+v2;90;uqalaittuq unillarvik summat tariaksuq?  / Mas se estamos em uma terra abençoada, por que o Povo das Sombras está aqui?
+
+v2;120;quingaaluk... aamai... / Oh ... hummm, eu não sei ...
+
+
+newchat;key:likingrain,tag:raining,v1:adult,v2:adult,weigth:10
+v1;0;unganaqtuq aput. / Eu gosto de neve.
+v2;42;mamaaqpi inuk!  / Coisa boa para um inuit!
+
+
+newchat;key:meat,weigth:10
+v1;0;pijurivaa niqituinnaq nangminiqaqatiujjutit, uumisuttuq niqiinniatuq / Acho que nossas lojas de carnes estão acabando, eu odeio quando acabamos.
+
+v1;30;niqituinnaq aakka qaluniq / Carne não é a mesma coisa que ensopados ...
+v2;60;qaluniq pigivaa niqituinnaq? / Mas a maioria dos ensopados tem carne?
+
+v1;90;qaluniq aakka niqituinnaq... / Sim, mas não é o mesmo ...
+
+
+newchat;key:carribou,weigth:10
+v1;0;nauk tuttuq? uggualuppuq tuttuvinik / Onde estão todos os caribus? Sinto falta de carne de caribu.
+v2;30;tuttuliaq aakka pitsasiaq tuttuq. / Tivemos muitas caçadas, mas nenhuma encontrou nenhum caribu.
+v2;60;pitsasiaq immuksiugaq! / Encontramos muito do que parece ser bisonte!
+
+v1;60;kiinaujat piiqsiviulauqtinnagit, uumisuttuq immuksiugaq, tuttuq ikullajuq. / Eca, eu odeio bisonte, caribu é melhor.
+
+v2;90;tamualitiqpait iqaluk, minallakaat.  / Bem, então pegue o peixe, temos muito disso.
+
+
+newchat;key:countingcows,v1:child,v2:adult,weigth:10
+v1;0;iqianngunaqtuq. / Não há muito o que fazer por aqui.
+
+v2;30;mamaaq, qasungajuq. / É bom, pacífico.
+
+v1;60;sarimaikuni... / E chato ...
+
+v2;75;iluliuqpuq, illulinnipuq! / Você pode cavar um buraco ou construir um iglu de neve!
+
+v1;110;igluvijaq?! / Meu próprio iglu de neve ?!
+
+
+newchat;key:shamans,v1:child,v2:adult,weigth:5
+v1;0;ilaavigivaa angakkuq, uqasiriittuq tuurngaq. / Invejo os xamãs, gostaria de poder falar com os espíritos como eles.
+v2;30;ilinniaqtuq angakkuq ilippuq / Você poderia ver se o xamã irá ensiná-lo?
+
+v1;60;aamai... tuurngaq iliranaqtuq / Talvez ... mas alguns espíritos são assustadores.
+
+v2;70;ii, taimanngat tuurngaq iliranaqtuq ivaaqpuq. / Certo, sempre haverá espíritos assustadores para observar.
+
+newchat;key:kids1,v1:child,v2:child,weigth:10
+v1;0;ataata pakkiggumiuttut ivvit. / Meu pai é muito mais forte que o seu.
+
+v2;30;ataata pakkiggumiut illugasatjuat, tukiittulivuq! / Meu pai é o mais forte da vila!
+
+v1;60;tikittusiaqpaa, ataata pakkiggumiuttut ivvit attaiq. / Continue sonhando. Meu pai pode vencer o seu em dois minutos.
+
+
+newchat;key:badflirt,v1:adult,v2:child,v1:male,v2:female,weigth:11
+v1;0;takuminaqsalaivuq, suvit unnuaq?  / Então, beleza, o que você está fazendo hoje à noite?
+
+v2;40;$targetfirstname, qinungavik suvit, qinuaqarvik! / $targetfirstname, eu já te disse, me prometi a outro!
+
+
+newchat;key:hunting,weigth:10
+v1;0;takurngiunaqsivaa. / Melhorei minhas habilidades novamente.
+
+v2;30;piusivuq uummajuqsutuq! / Você está rapidamente se tornando um grande caçador!
+
+v1;90;ii isumanaqtuq? / Você realmente acha?
+
+
+newchat;key:foodpreparer,building:foodpreparer,weigth:10
+v1;0;takutsugusuppuq pujaniq niqituinnaq igaarniq niq?iuqti. / Adoro o cheiro de carne que cozinha no preparador de alimentos.
+v2;30;aamai mikitjipuq, surratippaa nainguumivuq. / Eu não sei, geralmente prefiro minha carne crua, muda o sabor.
+
+v1;60;ua taamannak asianngutuq uuppaa. / Ei, eu gosto desse gosto alterado!
+
+
+newchat;key:mikiruk,v1:adult,v2:adult,weigth:8
+v1;0;umingmak kaszruruk mikiruk. / Ugh, veja como o bisonte é pequeno e doente.
+
+v2;42;tunisiruq, "immulivik..?" / O comerciante estrangeiro os chama de "vacas ..?"

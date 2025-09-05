@@ -1,0 +1,64 @@
+﻿
+quarrybyzantine_A0=Kaevandus
+grovebyzantine_A0=Puiestik
+testfarm_A0=Farm
+testfarm_A_backerei_A0=Veski
+churchbyzantine_A0=Kiriku ehitus plats
+churchbyzantine_A9=Orthodoxi Kirik
+churchbyzantine_A_altar_A0=Altar
+artisanbyzantine_A0=Artisani maja
+workshopbyzantine_A0=Töökoda
+ancienttemplebyzantine_A0=Iidne tempel
+ancienttheatrebyzantine_A0=Iidne teater
+bakerybyzantine_A0=Pagariäri
+placebyzantine_A0=Küla keskus
+fortbyzantine_A0=Kindlus
+forgebyzantine_A0=Sepikoda
+villa urbana_A0= Suur maja
+taverna_A0=Kõrts
+bakerybyzantine_A0=Pagariäri
+fisherbyzantine_A0=Kaluri onn
+lumberbyzantine_A0=Puuraiduri onn
+watchtowerbyzantine_A0=Vahitorn
+chapelbyzantine_A0=Kabel
+farmbyzantine_A0=Farm
+sheepbyzantine_A0=Lamba farm
+playerfortbyzantine_A0=Kindlus
+innbyzantine_A0=Kõrts
+guesthousebyzantine_A0=Võõrastemaja
+basilkabyzantine_A0=Turu väljak
+barracksbyzantine_A0=Kasarmud
+barracksbyzantine_A_bed_A0=Kasarmu magala
+presbyterybyzantine_A0=Presbyteerio
+fortbyzantine_A_forge_A0=Kindlus
+playerfortbyzantine_A_forge_A0=Kindlus
+well_A0=Kaev
+
+oaktower_A0=Vahitorn
+birchtower_A0=Vahitorn
+pinetower_A0=Vahitorn
+jungletower_A0=Vahitorn
+
+placebyzantine_a_basilica_a0=Küla Kabel
+vineyard_a0=Viinamarjaistandus
+grovebirchbyzantine_a0=Kase puiestik
+silkfarmbyzantine_a0=Siidi Farm
+playerfortbyzantine_a_bed3_a0=Kindluse magamistuba
+fortbyzantine_a_bed3_a0=Kindluse magamistuba
+playerfortbyzantine_a_bed2_a0=Kindluse magamistuba
+fortbyzantine_a_bed1_a0=Kindluse magamistuba
+playerfortbyzantine_a_bed1_a0=Kindluse magamistuba
+fortbyzantine_a_bed2_a0=Kindluse magamistuba
+lighthouse_a0=Majakas
+architectbyzantine_a0=Architecti stuudio
+lonecastle_a_living_a0=Mahajäetud kindluse magamistuba
+lonecastle_a0=Mahajäetud kindlus
+lonesheepfarm_a0=Mahajäetud lamba far
+lonesheepfarm_b0=Mahajäetud lamba Farm
+groveoakbyzantine_a0=Tamme puiestik
+
+lonecastle_a_training_a0=Treening ala
+lonecastle_a_praying_a0=Palvetus tuba
+
+gifthouse_a0=Kingitud maja
+playersmallhouse_a0=Väike maja

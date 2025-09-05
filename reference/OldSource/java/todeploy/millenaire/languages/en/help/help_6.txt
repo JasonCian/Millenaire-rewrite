@@ -1,0 +1,14 @@
+version:3.4
+<darkblue>Spawning villages
+
+You can spawn a village type of your choice to the location of your choice with a Summoning Wand, an object that you can buy in any village whenever you have a sufficiently high reputation. To use the wand, put a gold block where you want to spawn a village and right-click the block with the wand. The subsequent screen allows you to choose the desired type of village.
+
+<darkblue>Destruction of a village or lone building
+
+The inhabitants of a village or building respawn every night, even if you destroy all the buildings in the village. To prevent this (if you want to occupy the buildings yourself, for example), you must use the <darkblue>Wand of Negation<black>: you will find it in the chests of the main building once all the inhabitants are dead. Please note that the destruction of a village is irreversible.
+
+<darkblue>Player-controlled Villages
+
+It is possible to create a village with you as the leader, in which you can pick the locations of the buildings. To do this, you need to either be recognised as a leader in the culture of the village or to have completed the Creation Quest (see quests section), or to have increased your reputation to "natural leader" in a village and talk to its leader. You will then see an option to create player-controlled villages in the interface of the Summoning Wand.
+
+In player-controlled villages, you can order the construction of a new building using the wand at the desired location. An interface will open to allow you to choose the desired building. You can also allow or stop improvements to existing buildings via the "projects" panels. Trading resources with the villagers is unnecessary in these villages - just place items in the chests.

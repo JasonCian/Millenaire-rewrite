@@ -1,0 +1,42 @@
+//Note pour les utilisateurs de Windows: si vous voyez le fichier entier sur une seule ligne, ouvrez-le avec PSPAd ou UltraEdit plutôt que Notepad
+
+//Note to Windows users: if you see the entire file in one line, open it using PSPad or UltraEdit instead of Notepad
+
+
+
+
+
+//tag désignant le bâtiment à utiliser. Si cette valeur est absente, c'est la maison du villageois.
+//ici, nous disons que cette action n'arrivera que dans les bâtiments taggés "cimetière"
+
+//tag a building must have for action to be possible. If absent, then the villager's house is used.
+//here, we are saying this crafting action will only happen at a building tagged "graveyard"
+buildingTag=graveyard
+
+
+//tag nécéssaire à la réalisation de l'action (normallement utilisé pour que l'action nécéssite une amélioration, comme pour makecalva)
+//extra tag the building must have for action to be possible (normally used to enable the action in an upgrade, like for makecalva)
+requiredtag=tomb
+
+priority=50
+
+//en/in millisecondes
+duration=8000
+
+//objets tenus par le villageois. en général inputs+outputs
+//normally the inputs and outputs
+heldItems=bone,rottenflesh
+
+
+//chaque action consome tous les objets "input" et produit tous les "output"
+//ici il faut donc quatre os (dans l'inventaire du villageois ou du bâtiment) pour faire une chaire pourrie
+
+//each action will require and use all the inputs and produce all the outputs
+//so here it takes four bones (in the villager's inventory or in the building's chest) to make one rotten flesh
+input=bone,4
+output=rottenflesh,1
+
+
+//s'il y a plus d'objets dans le batiment que ça, arrêter le but
+//if more than that number of item is present in building, stop goal
+buildinglimit=rottenflesh,10

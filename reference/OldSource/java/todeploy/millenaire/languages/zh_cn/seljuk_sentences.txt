@@ -1,0 +1,135 @@
+//villager.BeSeller=过来，过来！
+//villager.DeliverResourcesShop=
+
+turk_boy.greeting=Büyüyünce çok güçlü olacağım! / 我长大后会很强壮！
+
+villager.BringBackResourcesHome=Sonunda rahatlama vakti. / 终于到了放松的时候了。
+villager.CollectCrop=Hasat vakti. / 收获的时间到了。
+villager.PlantSeeds=Şimdi bu tohumları ekeceğim. / 我现在就种这些种子。
+
+turk_soldier.greeting=Ben buranın muhafızıyım,bir şey olursa bana söyle. / 我是这个地方的守卫。如果发生什么事请告诉我。
+
+guildmaster.greeting=Her türlü güzel üründen satarım. /我卖各种各样的手工制品。
+
+turk_soldier.greeting=$name, zamanında Sultanımızın şövalyesiydim. / 我曾经是我们苏丹的骑士 $name.
+turk_soldier.greeting=Sadece Allah'tan korkarım. / 我只害怕真主。
+turk_soldier.greeting=Anadolu artık bizim yurdumuzdur. / 安纳托利亚现在是我们的家。
+turk_soldier.patrol=Kanuna hizmet ederim. / 我为法律服务。
+turk_soldier.patrol=Güçsüzün kılıcıyım. / 我是弱者之剑。
+
+turk_richwoman.Bu çok zor bir iş. / 这是一项非常艰苦的工作。
+turk_richwoman.greeting=Sarayima hoş geldiniz./ 欢迎来到我的宫殿。
+turk_richwoman.greeting=Eski evim bu kadar güzel değildi. / 我的旧房子没那么漂亮。 
+
+turk_lumberman.BringBackResourcesHome=Bu odunlar çok işe yarayacak. / 这些木头会派上用场的。
+turk_lumberman.ChopTrees=Allahım bana güç ver. / 真主保佑。
+turk_lumberman.GatherGoods=Bu fidan işime yarayabilir. / 我可能需要这棵树苗。
+turk_lumberman.PlantSaplings=Bu fidanı ekmeliyim. / 我应该种下这棵树苗。
+
+turk_miner.Cooking=Pişirme vakti. / 该做饭了。
+turk_miner.Mining=Demirci bunları sevecek. / 铁匠会喜欢这些的。
+turk_miner.Mining=Herkes madenci olamaz. / 不是每个人都能成为矿工。
+
+orderguard.patrol=Sadece Allah'tan korkarım! / 我只害怕真主。
+orderguard.calltoarms=Burayı terket! / 离开这里！
+orderguard.patrol=Buraları korumak bizim işimiz / 保护这里是我们的责任。
+orderguard.calltoarms=Toplanın kardeşler! / 兄弟们，集合了！
+orderguard.greetings=İyi günler dilerim. / 祝您有个美好的一天。
+orderguard.greetings=Seni gördüğüme sevindim. / 很高兴见到你。
+
+merchant.KeepStall=Her türlü lüks şeyi satarım! / 我卖各种奢侈品！
+merchant.greeting=Anadolu çok verimli! / 安纳托利亚真有钱！
+merchant.greeting=Gel ve ürünlerime bak. / 过来看看我的产品。
+
+merchant.KeepStall=Birinin ihtiyacı olabilecek her türlü bitki bende var. / 我有你所需要的任何一种药草。
+merchant.greeting=Bitkileri seven herkesi severim. / 我喜欢任何喜欢草药的人。
+
+turk_imam.gopray.chosen=Allah her yaptığımızı görür. / 真主看到了我们所做的一切。
+turk_imam.greeting=Allah yardımcın olsun. / 愿真主帮助你。
+
+turk_armourysmith.MakeSeljukTools=Kendimizi korumak için bunlara ihtiyacımız var. / 我们需要这些东西来保护自己。
+turk_armourysmith.MakeSeljukWeapons=Allah'ın izniyliyle bu zırh askerlerimizi koruyacak. / 有了真主的意志，这件盔甲将保护我们的士兵。
+
+
+villager.BecomeAdult=Devletime hizmet etme vakti ! / 是时候报效祖国了！
+
+villager.GoPlay=Oyun oynamayı severim. / 我喜欢玩。
+
+
+villager.brewpotions=Simyacı olmayı seviyorum. / 我喜欢当炼金术士。
+
+villager.calltoarms=Silahlanın! Allah bizimle beraber! / 去拿起武器！真主与我们同在！
+villager.calltoarms=Silahlanın askerler silahlanın!/ 去拿起武器，士兵们，去拿起武器！
+villager.calltoarms=Ya Allah!/ 真主啊！
+villager.calltoarms=Allah'ım bize güç ver! / 真主赐予我们力量！
+
+villager.childeatapple=Neden bütün elmalar kırmızı? / 为什么苹果都是红色的？
+
+villager.childobserveagriculture=Çiftçiler bizim devletimiz için önemlidir! / 农民对我们国家很重要！
+villager.childobserveconstruction=Erkekler neden kadınlara yardım etmiyor? / 为什么男人不帮助女人？
+villager.childobserveproducefood=Karnım çok acıktı! / 我太饿了！
+villager.childobservesmithing=O demir çok sıcak olmalı! / 那块铁一定很烫！
+
+villager.godrinkayran=Lütfen bana bir içecek verir misin? / 你能请我喝一杯吗？
+villager.godrinkayran=Ayran buralardaki en güzel içecek. / 艾兰是这里最好的饮料。
+
+villager.gopray.chosen=İbadet etme vakti. / 是时候祈祷了。
+villager.gopray=Allahım bana yardım et / 真主保佑我。
+
+villager.gorest=Yoruldum. / 我累了。
+villager.gorest=Uyumayı hak ettim. / 我应该睡觉。
+villager.gorest=Bugün güzel bir gündü. / 今天是个好日子。
+villager.gorest=Uyumam gerekiyor. / 我要睡觉。
+
+villager.greeting=Anadoluya hoş geldin! / 欢迎来到安纳托利亚！
+villager.greeting=Hayırlı günler dilerim. / 祝您有个美好的一天。
+villager.greeting=Selamünaleyküm, $name! / 愿你平安，$name ！
+villager.greeting= Seni tekrar görmek güzel/ 很高兴再次见到你。
+villager.greeting= Seni daha önce gördüm mü? / 我以前见过你吗？
+
+villager.MakeWallcarpetLarge=Bunlar duvara çok yakışacak! / 这些在墙上会很好看的！
+villager.MakeWallcarpetSmall=Bunlar duvara çok yakışacak! / 这些在墙上会很好看的！
+villager.MakeWallcarpetMedium=Bunlar duvara çok yakışacak! /这些在墙上会很好看的！
+
+villager.inspectconstruction=İnsanlarımız her zaman çalışkandır! / 我们的人民总是辛勤的工作！
+
+villager.makeglassbottles=Bu şişe çok işimize yarayacak. / 这个瓶子对我们很有用。
+
+
+turk_merchant_weapon.KeepStall=Her türlü silahı satarım. / 我卖各种武器。
+turk_merchant_weapon.greeting=Buraların en iyi tüccarının dükkanına hoş geldin./ 欢迎来到本村最好的商人的商店。
+
+turk_peasantwife.DeliverGoodsHousehold=Aileme yardım etmek benim de görevim. /  帮助家人也是我的责任。
+
+turk_peasantwife.GetHouseTHResources=Kocam eve malzemelerle dönüyor. / 我丈夫带着资源回家了。
+turk_peasantwife.GetResourcesForBuild=Bir şeyler inşa etmek için malzeme alma vakti. / 是时候为建设争取资源了！
+
+turk_cook.MakeLokum=Lokumlarımız çok lezzetlidir. / 我们的软糖是如此的美味。
+turk_cook.MakePideBeef=Pidelerimiz çok lezzetlidir. / 我们的披萨是如此的美味。
+turk_cook.MakePideMutton=Pidelerimiz çok lezzetlidir. / 我们的披萨是如此的美味。
+
+turk_cowfarmer.MakeYogurt=Yemekle beraber çok güzel olur. / 一起吃饭就很开心。
+
+turk_cook.MakeAyran=Erkeklerimizi serin tutmak için ayran yapmalıyım. / 我应该做艾兰让我们的人恢复精神。
+
+villager.construction=Allahım bana yardım et. / 真主保佑我。
+villager.construction=Kadınlar da bu devlet için önemli! / 女人对这个国家也很重要！
+villager.construction=Erkekler ve kadınlar birbirlerine yardım etmeli. / 男人和女人应该互相帮助。
+
+turk_peasantwife.getGoodsHousehold=Niye her şeye beni yolluyorlar?/ 他们为什么要派我去所有的地方？
+
+turk_merchant_wool.KeepStall=Bütün yünler burada! / 所有的羊毛都在这儿！
+turk_merchant_wool.greeting=Anadolunun hayvanlar için harika!/ 安纳托尔对待动物很好！
+
+ghaznavid_merchant.KeepStall=Gel ve benimle ticaret yap / 来和我交易。
+ghaznavid_merchant.KeepStall=Benimle ticaret yaparsan pişman olmazsın. / 如果你和我交易，你不会后悔的。
+ghaznavid_merchant.greeting=Çok uzak diyarlardan Müslüman kardeşlerimle ticarete geldim. / 我从很远的地方来和我的穆斯林兄弟们做生意。
+ghaznavid_merchant.greeting=Hepimiz kardeşiz./ 我们都是兄弟。
+
+
+
+
+
+
+
+

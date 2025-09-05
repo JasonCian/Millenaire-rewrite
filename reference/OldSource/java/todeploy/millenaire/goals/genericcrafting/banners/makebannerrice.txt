@@ -1,0 +1,19 @@
+priority=50
+
+//en/in millisecondes
+duration=10000
+
+
+sentencekey=makebanner
+labelkey=makebanner
+
+heldItems=rice,banner_white
+
+
+input=rice,10
+output=banner_white,1
+
+townhalllimit=banner_white,16
+
+
+sound=wool

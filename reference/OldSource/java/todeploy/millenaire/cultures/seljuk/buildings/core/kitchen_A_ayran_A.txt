@@ -1,0 +1,15 @@
+building.length=16
+building.width=16
+building.areatoclear=1
+building.issubbuilding=true
+building.max=0
+
+building.icon=ayran
+building.travelbook_display=false
+
+building.parentbuildingplan=kitchen_A0
+
+initial.tag=godrinkayran
+initial.startlevel=-1
+initial.nativename=Mutfak
+initial.priority=1000

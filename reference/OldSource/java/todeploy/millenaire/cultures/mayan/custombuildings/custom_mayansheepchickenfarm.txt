@@ -1,0 +1,1 @@
+native:Ah Kax Makan;gameNameKey:mayansheepchickenfarm_A0;male:mayan_ChickenFarmer;female:mayan_PeasantWife;moveinpriority:10;shop:mayansheepchickenfarm;tag:chicken;chest:1-5;craft:1;sign:1;spawn:2-4;furnace:1-2;tag:Oven;spawnType:Chicken;radius:10

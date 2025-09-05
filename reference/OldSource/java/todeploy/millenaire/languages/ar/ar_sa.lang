@@ -1,0 +1,184 @@
+#From 1.12 onward, block and item names must be in lang files
+#packaged within the jar.
+#A copy is provided in millenaire/languages for the translators' convenience,
+#but will not be used by Minecraft. It will however be copied within the jar
+#when a new Millénaire version is packaged.
+
+#The Translation Gaps calculator however does use the versions in the
+#millenaire/language folder, so you can check your progress without
+#copying it in the jar
+
+
+
+#The following items should not be translated
+#They are either proper names (the deniers)
+#or specific local specialities that aren't translated
+#in other languages
+#I'm putting them for non-Latin alphabet languages,
+#so they can be written in other alphabets
+item.millenaire.denier.name=دينار
+item.millenaire.denieror.name=دينار ذهب
+item.millenaire.denierargent.name=دينار فضة
+item.millenaire.calva.name=كالفا
+item.millenaire.tripes.name=أمعاء
+item.millenaire.boudin.name=بودين
+
+tile.millenaire.dirtwall.name=جدار ترابي
+
+tile.millenaire.locked_chest.name=صندوق مقفل
+item.millenaire.normanpickaxe.name=مِعول النورمان
+item.millenaire.normanaxe.name=فأس النورمان
+item.millenaire.normanshovel.name=مجرفة النرومان
+item.millenaire.normanhoe.name=معزفة النورمان
+item.millenaire.normanbroadsword.name=سيف النورمان
+item.millenaire.normanhelmet.name=خوذة النورمان
+item.millenaire.normanplate.name=صفيحة صدر النورمان
+item.millenaire.normanlegs.name=سروال النورمان
+item.millenaire.normanboots.name=حذاء النورمان
+item.millenaire.rice.name=الرز
+item.millenaire.turmeric.name=الكركم
+item.millenaire.vegcurry.name=كاري نباتي
+item.millenaire.chickenmeat.name=دجاج نيء
+item.millenaire.chickencurry.name=كاري مورغّ
+item.millenaire.brickmould.name=قوالب الطوب
+item.millenaire.rasgulla.name=راسجولا
+tile.millenaire.timberframeplain.name=إطار خشبي منتظم
+tile.millenaire.timberframecross.name=إطار خشبي متقاطع
+tile.millenaire.wetbrick0.name=طوب رطب
+tile.millenaire.cookedbrick.name=طوب مطبوخ
+tile.millenaire.mudbrick.name=طوب طين
+item.millenaire.indianstatue.name=تمثال هندو
+item.millenaire.ciderapple.name=تفاحة خضراء
+item.millenaire.cider.name=عصير
+item.millenaire.summoningwand.name=عصا الأستدعاء
+item.millenaire.negationwand.name=عصا النّفي
+item.millenaire.parchment_normanvillagers.name=قرويين النورمان
+item.millenaire.parchment_normanitems.name=أدوات النورمان
+item.millenaire.parchment_normanbuildings.name=مباني النورمان
+item.millenaire.parchment_normanfull.name=لفافة كاملة عن النورمان
+item.millenaire.tapestry.name=نسيج نورمان
+item.millenaire.vishnu_amulet.name=تميمة فشنو
+item.millenaire.alchemist_amulet.name=تميمة الكيمياء
+item.millenaire.yggdrasil_amulet.name=تميمة يدّراسيل
+item.millenaire.skoll_hati_amulet.name=تميمة سكولّ وهآتي
+item.millenaire.parchment_villagescroll.name=لفافة القرية
+item.millenaire.parchment_indianvillagers.name=القرويين الهنديين
+item.millenaire.parchment_indianitems.name=الأدوات الهندية
+item.millenaire.parchment_indianbuildings.name=المباني الهندية
+item.millenaire.parchment_indianfull.name=لفافة كاملة عن الهنود
+item.millenaire.unknownpowder.name=بودرة غير معروفة
+tile.millenaire.alchemistexplosive.name=متفجرات كيميائية
+
+item.millenaire.wah.name=واه
+item.millenaire.masa.name=ماسا
+item.millenaire.maize.name=ذُرة
+tile.millenaire.mayangoldblock.name=زخرفة ذهبية
+item.millenaire.mayanstatue.name=نحت مايا
+item.millenaire.parchment_mayanvillagers.name=قرويين المايا
+item.millenaire.parchment_mayanitems.name=أدوات المايا
+item.millenaire.parchment_mayanbuildings.name=مباني المايا
+item.millenaire.parchment_mayanfull.name=لفافة كاملة عن المايا
+item.millenaire.mayanmace.name=صولجان سبج
+item.millenaire.mayanpickaxe.name=مِعول سبج
+item.millenaire.mayanaxe.name=فأس سبج
+item.millenaire.mayanshovel.name=مجرفة سبج
+item.millenaire.mayanhoe.name=معزفة سبج
+item.millenaire.obsidianflake.name=رقاقة سبج
+
+tile.millenaire.paper_wall.name=ورق جدران
+item.millenaire.udon.name=آودون
+item.millenaire.thatched.name=قش
+
+item.millenaire.parchment_sadhu.name=كتاب السادهو
+
+item.millenaire.tachisword.name=تاتشي
+item.millenaire.yumibow.name=قوس يومي
+
+item.millenaire.japanesebluelegs.name=سروال أو- يوروي أزرق 
+item.millenaire.japanesebluehelmet.name=خوذة أو- يوروي زرقاء
+item.millenaire.japaneseblueplate.name=صفيحة صدر أو- يوروي زرقاء
+item.millenaire.japaneseblueboots.name=حذاء أو- يوروي أزرق
+
+item.millenaire.japaneseredlegs.name=سروال أو- يوروي أحمر
+item.millenaire.japaneseredhelmet.name=خوذة أو- يوروي حمراء
+item.millenaire.japaneseredplate.name=صفيحة صدر أو- يوروي حمراء
+item.millenaire.japaneseredboots.name=حذاء أو- يوروي أحمر
+
+item.millenaire.japaneseguardlegs.name=سروال كيكو
+item.millenaire.japaneseguardhelmet.name=خوذة كيكو
+item.millenaire.japaneseguardplate.name=صفيحة صدر كيكو
+item.millenaire.japaneseguardboots.name=حذاء كيكو
+
+item.millenaire.parchment_japanesevillagers.name=القرويين اليبانين
+item.millenaire.parchment_japaneseitems.name=الأدوات اليبانية
+item.millenaire.parchment_japanesebuildings.name=المباني اليابانية
+item.millenaire.parchment_japanesefull.name=لفافة كاملة عن اليبانين
+
+tile.millenaire.silkwormempty.name=كتلة دودة قز فارغة
+tile.millenaire.silkwormfull.name=كتلة دودة القز
+tile.millenaire.byzantine_tiles.name=بلاط بيزنطيني
+tile.millenaire.byzantine_tiles_slab.name=لوح بلاط بيزنطيني
+tile.millenaire.byzantine_stone_tiles.name=باط حجر بيزنطيني
+item.millenaire.grapes.name=عنب
+item.millenaire.vine.name=كروم
+item.millenaire.winefancy.name=نبيذ مالفاسيا
+item.millenaire.silk.name=حرير
+item.millenaire.byzantineiconsmall.name=رمز بيزنطيني صغير
+item.millenaire.byzantineiconmedium.name=رمز بيزنطيني متوسط
+item.millenaire.byzantineiconlarge.name=رمز بيزنطيني كبير
+item.millenaire.byzantineboots.name=حذاء بيزنطيني
+item.millenaire.byzantinelegs.name=سروال بيزنطيني
+item.millenaire.byzantineplate.name=صفيحة صدر بيزنطينية
+item.millenaire.byzantinehelmet.name=خوذة بيزنطينية
+item.millenaire.byzantinemace.name=صولجان بيزنطيني
+item.millenaire.lambraw.name=لحم خروف
+item.millenaire.lambcooked.name=ضلع خروف مشوي
+item.millenaire.feta.name=فيتا
+item.millenaire.winebasic.name=كروم
+item.millenaire.clothes_byz_wool.name=ملابس الصوف البيزنطية
+item.millenaire.clothes_byz_silk.name=ملابس الحرير البيزنطي
+
+item.millenaire.souvlaki.name=سوفلاكي
+item.millenaire.purse.name=منحة أموال
+
+
+advancements.firstcontact.name=Millénaire
+advancements.firstcontact.desc=مقابلة قروي
+advancements.cresus.name=كرويسوس
+advancements.cresus.desc=كسب دينار
+advancements.summoningwand.name=استدعاء
+advancements.summoningwand.desc=شراء عصا إستدعاء وبناء قرية بها
+advancements.villageleader.name=قائد القرية
+advancements.villageleader.desc=أصبح زعيماً في حضارة وأنشيء لك قرية اخرى تحت سيطرتك
+advancements.thequest.name=المهمة
+advancements.thequest.desc=أكمل مهمة أعطيت لك من قبل  قروي
+advancements.maitreapenser.name=المعلم
+advancements.maitreapenser.desc=قابل السادهو او الكيميائي
+advancements.forbiddenknwoledge.name=المعرفة المحرمة
+advancements.forbiddenknwoledge.desc=أكمل فصلين من مهام الإنشاء
+advancements.puja.name=القليل من المساعدة من الآلهة
+advancements.puja.desc=دفع بانديت لتنفيذ بوجا
+advancements.explorer.name=مستكشف
+advancements.explorer.desc=أستكشف مبنى منعزل او وحيد
+advancements.marcopolo.name=ماركو بولو
+advancements.marcopolo.desc=زر قرى ثلاثة حضارات بالعالم نفسه
+advancements.magellan.name=فرناند دي ماجلان
+advancements.magellan.desc=زر قرى كل الحضارات بالعالم نفسه
+advancements.selfdefense.name=الدفاع عن النفس
+advancements.selfdefense.desc=أقتل قاطع طريق او لص
+advancements.pantheon.name=البانثيون
+advancements.pantheon.desc=قم بزيارة بانتيون الغامض
+
+advancements.darkside.name=الجانب المظلم
+advancements.darkside.desc=أقتل قروي
+advancements.scipio.name=Carthago delenda est
+advancements.scipio.desc=دمر قرية بعصا النفي
+advancements.attila.name=أتيلا
+advancements.attila.desc=اكتساب سمعة "آفة من الله" في الثقافات الثلاث
+
+advancements.cheers.name=ثلاثة هتافات لماين كرافت!
+advancements.cheers.desc=أشرب كحول Millénaire
+advancements.hired.name=وظف يد للخدمة
+advancements.hired.desc=وظف قروي
+advancements.masterfarmer.name=مزارع خبير
+advancements.masterfarmer.desc=أزرع محصول Millénaire

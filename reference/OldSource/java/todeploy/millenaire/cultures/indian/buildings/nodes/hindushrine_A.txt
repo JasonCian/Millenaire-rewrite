@@ -1,0 +1,20 @@
+//Parameters for the building as a whole
+building.length=6
+building.width=3
+building.farfromtag=pathnode,30
+building.icon=indianstatue
+building.version=2
+building.randombrickcolour=white;white:50
+building.areatoclear=4
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Choti Mandir
+initial.priority=700
+initial.tag=pathnode
+initial.tag=leasure
+
+//Parameters for specific upgrades
+upgrade1.priority=70
+upgrade1.pathlevel=1
+

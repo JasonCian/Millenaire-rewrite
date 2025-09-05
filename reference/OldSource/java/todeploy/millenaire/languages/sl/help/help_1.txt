@@ -1,0 +1,18 @@
+﻿version:3.4
+<darkblue>Millénaire Pomoč
+
+Tukaj so opisane značilnosti tipk v Millénaire. Za več informacij preverite Millénaire wiki ali vprašajte na forumu forum minecraftforum.net.
+
+Uporabite ikone na zaslonu, da dostopate različna poglavja pomoči.
+
+<darkblue>Posplošeno o vaseh in zapuščenih stavbah
+
+Millénaire dodaja <darkblue>vasi<black> različnih kultur v Minecraft. Te vasi so poljubno ustvarjene v različnih biomerih. Imajo različne stile in ponujajo edinstvene produkte. Vse imajo poglavarja, gradijo nove stavbe, trgujejo s teboj in te imajo radi ali ne glede na tvoja dejanja (glej poglavje "ugled").
+
+Vsaka vasi ima svojo centralno stavbo (ki je lahko utrdba, samostan, palača...). V tej stavbi najdete več plošč, ki vas obveščajo o tej vasi. <darkblue>Desni klik<black> na ploščo vam pokaže še dodatne informacije.
+
+<darkblue>Zapuščene stavbe<black> se ne širijo. Lahko so prazne (z nekaj predmeti najdenimi v skrinjah), zasedene s strani mirlojubnih vaščanov, s katerimi lahko trguješ, lahko z sovražnimi vaščani, ki te napadejo, ko prideš v njihovo bliženo.
+
+Pritiskanje črke "V" (po standardnih nastavitvah) pokaže seznam bližnijh vasi. Odmaknjene stavbe niso vključene na seznam, zato si morate zapomniti njihovo lokacijo.
+
+Po standardnih nastavitvah, je najmanjša razdalija med dvema vasema 2 kilometra. Vasice okrog določene vasi so pričkovane, da pripadajo tej vasi.

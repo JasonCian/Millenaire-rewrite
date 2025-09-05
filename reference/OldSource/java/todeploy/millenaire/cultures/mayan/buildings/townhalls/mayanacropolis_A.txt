@@ -1,0 +1,41 @@
+//Parameters for the building as a whole
+building.length=22
+building.width=42
+building.buildingorientation=3
+building.max=0
+building.icon=chiseledstonebrick
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=K'uhul Jalab
+initial.priority=600
+initial.male=mayan_chieftain
+initial.female=mayan_richwoman
+initial.tag=leasure
+initial.shop=mayantownhall
+initial.signs=5,3,1,2,4,0,6,8,7
+
+//Parameters for specific upgrades
+upgrade2.priority=580
+upgrade2.rebuildpath=true
+
+upgrade3.priority=560
+upgrade3.rebuildpath=false
+
+upgrade4.priority=540
+
+upgrade5.priority=520
+
+upgrade6.priority=500
+
+upgrade7.priority=480
+
+upgrade8.priority=460
+
+upgrade9.priority=440
+
+upgrade10.priority=420
+
+upgrade11.priority=400
+

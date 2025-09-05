@@ -1,0 +1,15 @@
+
+0;Estranho;Não estamos acostumados a receber forasteiros na nossa aldeia remota.
+4*64;Conhecido;Até ao momento, ainda não cometeu nenhuma atrocidade imperdoável.
+8*64;Rosto conhecido; Você parece ter causado uma boa impressão em muitos de nós. Continue, e ambos nos beneficiaremos.
+16*64;Visitante Regular;Bem-vindo, $name! Que novidades nos traz?
+32*64;Vizinho companheiro; Enquanto você não é perfeito, nós reconhecemos que você tem sido um bom vizinho $name-ji. Nós gostamos da sua companhia.
+64*64;Comerciante Favorito;Bem-vindo de novo, $name. Que trouxe hoje para negociar connosco?
+2*64*64;Amigo da Aldeia;$name-ji, por cá todos nós o consideramos um verdadeiro amigo.
+4*64*64;Um verdadeiro aliado; Você é um verdadeiro aliado desta vila $name-ji! Se você precisar de refúgio, pode ficar em nossa aldeia.
+8*64*64;Um de Nós;Nunca pensei viver o dia em que um forasteiro fosse aceite na nossa aldeia, mas $name-ji, agora é um de nós!
+32*64*64;Líder Natural;$name-ji, conquistou a confiança e o respeito do meu povo. Eles segui-lo-ão para qualquer lado.
+4*32*64*64;Superação de Rajput; O povo indiano é extremamente feliz que você queria ficar com eles e ajudá-los com suas lutas! Caso você não tenha notado, criamos outras 5 culturas incríveis que provavelmente lhe darão uma recompensa melhor do que uma mensagem sem brilho e decepcionante.
+-64;Incómodo;Não gostamos de forasteiros na nossa aldeia, e muito menos da sua laia.
+-4*64;Forasteiro Indesejável;Quem cuidou de si fez um péssimo trabalho. Esperemos que se vá embora em breve.
+-16*64;Inimigo Público;Todas as manhãs eu rezo à Deusa para que nunca mais tenha de olhar para a sua cara.

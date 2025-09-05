@@ -1,0 +1,15 @@
+building.length=23
+building.width=28
+building.issubbuilding=true
+building.max=0
+building.parentbuildingplan=hamlettownhall_A0
+
+building.icon=bed_red
+
+initial.startlevel=-1
+initial.nativename=Belediye Bina Konağı
+initial.priority=1000
+initial.male=turk_localmerchant
+
+initial.tag=inn
+initial.signs=1,0

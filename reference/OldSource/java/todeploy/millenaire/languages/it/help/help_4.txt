@@ -1,0 +1,10 @@
+version:3.4
+<darkblue>Espansione del villaggio
+
+Tutti i villaggi si sviluppano intorno ad un edificio centrale (di diversa natura: forti, palazzi, monasteri, ... normalmente chiamati "centri città"), con alcune case e altri edifici. L'obiettivo degli abitanti è sviluppare il villaggio selezionando nuovi edifici da costruire o migliorie per quelli esistenti. Per questa ragione hanno bisogno di risorse - alcune sono auto-prodotte (i taglialegna raccolgono legna, i minatori pietra ...) ma dipendono dal giocatore per altre. I materiali necessari alle costruzioni sono mostrati nell'edificio centrale. Possono essere aiutati vendendogli risorse.
+
+La popolazione del villaggio aumenta nel tempo: di notte le coppie possono avere figli. Una volta cresciuti, questi bambini vanno a vivere in nuove case e diventano adulti.
+
+L'espansione del villaggio può terminare in due modi: tutte gli edifici sono stati completati o non c'è abbastanza spazio. Nel secondo caso puoi verificare nella mappa del villagio quali aree non sono costruibili. In alcuni casi è possibile renderle edificabili, ad esempio coprendo un lago.
+
+A volte un villaggio necessita di blocchi non costruibili dal giocatore, come i graticci per giapponesi e normanni. E' necessario aspettare che il villaggio costruisca un laboratorio e un artigiano vi si trasferisca.

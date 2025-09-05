@@ -1,0 +1,18 @@
+//Parameters for the building as a whole
+building.length=48
+building.width=112
+building.buildingorientation=3
+building.issubbuilding=true
+building.parentbuildingplan=abbaye_A5
+building.max=0
+building.icon=carpet_yellow
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Autel
+initial.priority=100
+initial.tag=praying
+initial.parenttag=201
+initial.requiredparenttags=level_6
+

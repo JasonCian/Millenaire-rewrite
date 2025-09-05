@@ -1,0 +1,22 @@
+
+marvel_norman_1_picklocation_0_description=$name, har du hört de goda nyheterna? En stor arkitekt från Öst-Frankernas land, den store Nicolas de Weilbourg, har gått på turné till nära byar för att bygga support för konstruktionen av en stor katedral, ett monument till vår tro i detta nya land! Han är inte Norman, men han har lärt sig mycket om vår arkitektur sen han kom till Normandy i sök på arbete värdigt av sina talanger.<ret><ret>Nära härskare och jag har diskuterat vart detta underverk ska byggas - de verkar inte kunna enas om att $startvillager_villagename$ är den enda byn värdig nog för ett sånt monument. Men kanske du kan hjälpa oss att hitta en ordentlig plats som passar för alla involverade?
+marvel_norman_1_picklocation_0_description_refuse=Detta gör mig illa.
+marvel_norman_1_picklocation_0_description_success=Mycket tack, $name. Du behöver en "Stav av tillkallelse" - vi kan sälja en till dig om du inte ännu har denna kraftfulla relik. När du har hittat ett bra ställe, använd den där för att markera området och kom sedan tillbaka till mig.
+marvel_norman_1_picklocation_0_label=En Gudomlig Vision
+marvel_norman_2_generate_0_description=$name! Är du nöjd med platsen du valt? Jag är otålig att see den store Nicolas arbeta!
+marvel_norman_2_generate_0_description_refuse=Du har rätt, detta är inte ett val som är lätt att göra. Kom tillbaka när du är säker.
+marvel_norman_2_generate_0_description_success=Det är verkligen en bra plats. Jag är säker på att mästaren vill börja arbeta snart.
+marvel_norman_2_generate_0_label=Ett Bra Val
+marvel_norman_3_searchhelp_0_description=$name, jag är ärad att äntligen möta dig. Platsen du valde är en inspirerad plats!<ret><ret>Får jag fråga dig om en till tjänst? Vi behöver hela tiden fler resurser till underverket. Ju fler byar som hjälper oss, ju snabbare kan vi samla in resurser och bli klara med detta stora verk - som du kan se på vår "donations" panel.<ret><ret>Skulle du vilja ta en pilgrims pinne och gå ut till alla Normad byar du kan hitta och sprida ordet om vårt arbete?
+marvel_norman_3_searchhelp_0_description_refuse=Du är inte en trons man, €name.
+marvel_norman_3_searchhelp_0_description_success=Sök upp ledarna till varje by - dom vill nog gärna göra sin plikt till Gud och mig.
+marvel_norman_3_searchhelp_0_label=Förfrågan för Hjälp
+marvel_norman_4_gethelp_0_description=Välkommen, $name!<ret><ret>Vi har hört nyheten om att en stor katedral ska byggas av en välkänd arkitekt, har du några nyheter om detta?
+marvel_norman_4_gethelp_0_description_refuse=Olyckligt.
+marvel_norman_4_gethelp_0_description_success=Underbart! Vilket storslaget verk!
+$startvillager_villagename$ är ärad att få hjälpa till med det. Var säker på att vi kommer skicka donationer till detta stora verk från och med nu.
+marvel_norman_4_gethelp_0_label=Svar på Ropet
+marvel_norman_5_return_0_description=$name, vi har hört att donationerna borde komma fram snart! Detta kommer att skynda på konstruktionen av vår stora katedral mycket. Jag kan inte tacka dig tillräckligt!
+marvel_norman_5_return_0_description_refuse=Jag kommer inte fråga om någonting mer!
+marvel_norman_5_return_0_description_success=Tack igen!
+marvel_norman_5_return_0_label=Rapportera till Arkitekten

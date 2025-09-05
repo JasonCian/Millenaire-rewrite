@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "millenaire:cacauhaa"
+        },
+        "title": {
+            "translate": "advancements.rep_mayan.name"
+        },
+        "description": {
+            "translate": "advancements.rep_mayan.desc"
+        }
+    },
+    "parent": "millenaire:friendindeed",
+    "criteria": {
+        "rep_mayan": {
+            "trigger": "rep_mayan"
+        }
+    }
+}

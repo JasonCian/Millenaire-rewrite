@@ -1,0 +1,22 @@
+
+travelbook.culture.desc=I Bizantini si definiscono veri Romani e sono molto fieri della loro architettura, della disciplina militare e delle icone che fabbricano per venerare i Santi. Dicono che sono fin troppo fieri dei loro risultati.
+travelbook.villager.architect_byzantine.desc=Questo abile abitante costruisce magnifiche e civilizzate costruzioni per il villaggio, a differenza delle desolate baracche costruite da quei folli barbari qua vicino.
+travelbook.villager.armysmith_byzantine.desc=Il fabbro costruisce potenti armi per il villaggio
+travelbook.villager.artisan_byzantine.desc=Gli artigiani usano l'argilla per creare uniche tegole che rendono i tetti bellissimi.
+travelbook.villager.artwife_byzantine.desc=La moglie dell'artigiano cura la casa e tesse la famosa lana Bizantina e vestiti di seta.
+travelbook.villager.baron_byzantine.desc=Il barone guadagna le sue ricchezze dalle spalle dei suoi sudditi, tuttavia è inestimabile nella gestione dei bisogni quotidiani del villaggio.
+travelbook.villager.boy_byzantine.desc=Questo ragazzo crescerà e diventerà un cittadino civilizzato.
+travelbook.villager.centurio_byzantine.desc=Ex leader di un centinaio di uomini. Non vuole parlare della ragione della sua retrocessione.
+travelbook.villager.farmiller_byzantine.desc=Lui garantisce la produzione dell'originale pane Imperiale.
+travelbook.villager.farmiller_wife_byzantine.desc=Lei produce e commercializza l'originale pane Imperiale.
+travelbook.villager.fisherman_byzantine.desc=Il pescatore pesca dei pesci, si spiega da solo.
+travelbook.villager.girl_byzantine.desc=Questo ragazza crescerà e diventerà una cittadina civilizzata.
+travelbook.villager.keeper_byzantine.desc=Illumina la via per navi che non arriveranno mai.
+travelbook.villager.keeperbirch_byzantine.desc=Lui protegge gli alberi di betulla dagli invasivi alberi di quercia.
+travelbook.villager.keeperoak_byzantine.desc=Lui osserva i movimenti delle altre culture.
+travelbook.villager.keeperpine_byzantine.desc=Questo soldato ha considerato questo lavoro come una promozione, ma l'ambiente gelido lo ha fatto ricredere.
+travelbook.villager.keepertropical_byzantine.desc=Lui è il protettore della giungla - E segretamente dipendente dal cacao.
+travelbook.villager.loneshepherd_byzantine.desc=Questo pastore si è spostato col suo gregge verso distese più verdi. È proprio un tipo unico in questo mondo.
+travelbook.villager.loneshepherdf_byzantine.desc=Questa pastora si è spostata col suo gregge verso distese più verdi. È proprio un tipo unico in questo mondo.
+travelbook.villager.lumberman_byzantine.desc=Il taglialegna abbatte gli alberi per ottenere del prezioso legno Imperiale.
+travelbook.villager.merchant_art.desc=Questo mercante Bizantino vende pitture ed Icone, che dovresti assolutamente comprare per assicurarti la redenzione eterna.

@@ -1,0 +1,18 @@
+//*  A parte antes do ";" é o título, depois a descrição
+//* 
+
+
+0;Estranho;Não estamos acostumados a receber forasteiros na nossa aldeia.
+4*64;Conhecido;Até ao momento, ainda não cometeu nenhuma atrocidade imperdoável.
+8*64;Cara conhecida; você parece ter causado uma boa impressão em muitos de nós. Continue e nós dois nos beneficiaremos.
+16*64;Visitante Regular;Bem-vindo, $name! Que novidades nos traz?
+32*64;Companheiro vizinho; embora você não seja perfeito, reconhecemos que você foi um bom vizinho $name-ji. Gostamos da sua empresa.
+64*64;Comerciante Favorito;Bem-vindo de novo, $name. Oque trouxe hoje para negociar?
+2*64*64;Amigo da Aldeia;$name-ji, por aqui você é considerado um verdadeiro amigo.
+4*64*64;Um verdadeiro aliado; você é um verdadeiro aliado desta vila $name-ji! Se você precisar de refúgio, pode ficar em nossa vila.
+8*64*64;Um de Nós;Nunca pensei viver o dia em que um forasteiro fosse aceito na nossa aldeia, mas $name-ji, agora é um de nós!
+32*64*64;Líder Natural;$name-ji, conquistou a confiança e o respeito do meu povo. Eles o seguirão para qualquer lado.
+4*32*64*64;Ultrapassar Rajput; O povo indiano está extremamente feliz por você querer ficar com eles e ajudá-los em suas lutas! Caso você não tenha notado, criamos outras 5 culturas incríveis que provavelmente lhe darão uma recompensa melhor do que uma mensagem sem brilho e decepcionante.
+-64;Incómodo;Não gostamos de forasteiros na nossa aldeia, e muito menos da sua laia.
+-4*64;Forasteiro Indesejável;Quem cuidou de você fez um péssimo trabalho. Esperemos que se vá embora em breve.
+-16*64;Inimigo Público;Todas as manhãs eu rezo à Deusa para que nunca mais tenha de olhar para a sua cara.

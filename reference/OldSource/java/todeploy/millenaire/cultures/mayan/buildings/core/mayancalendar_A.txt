@@ -1,0 +1,13 @@
+//Parameters for the building as a whole
+building.length=10
+building.width=13
+building.farfromtag=leasure,30
+building.icon=mayanstatue
+
+//Parameters for initial construction
+initial.nativename=K'in Pak
+initial.priority=400
+initial.pathlevel=1
+initial.tag=nopaths
+initial.tag=leasure
+

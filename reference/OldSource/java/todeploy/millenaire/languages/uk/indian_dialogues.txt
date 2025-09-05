@@ -1,0 +1,42 @@
+//Note to translators: the version in devanagari (Hindi script) is for reference purpose. It will not show in game.                                             
+
+
+
+
+
+newchat;key:sun,tag:notraining,weigth:10
+v1;0;Kitni Garmi Hai! / Дуже жарко!
+v2;30;Main is garmi se pagal ho gaya hoon. / Тепло зводить мене з розуму.
+v1;70;Baarish kab hogi? / Сьогодні пійде дощ?
+
+//कीतनी गर्मी है!
+//मैं इस गर्मी से पागल हो गया हूं |
+//बारीश कब होगी ?
+
+
+newchat;key:monsoon,tag:notraining,weigth:10
+v1;0;Barish nahi ho rahi hai. / Сьогодні нема дощю...
+v2;30;Barish hogi. Chinta mat karo. / Не горячись. Дощ пійде.
+v1;60;Tum har sal yahi bolte ho... / Ти говориш це кожний рік...
+
+//बारिश नही हो रही है |
+//बारिश होगी| चिन्ता मत करो|
+//तुम हर साल यही कहते हो ...
+
+newchat;key:rain,tag:raining,weigth:10
+v1;0;Arre! Baarish ho rahi hai! / Так! Дощ пішов!
+v2;40;Itni si baarish se kya hoga... / Так менше дощу нічого не робитиме...
+v1;80;Sukhe se toh behtar hai. /  Це краще, ніж не маючи дощ взагалі.
+v1;120;Lekin fasal kaise hogi? / Але як наші культури ростуть?
+
+
+//अरे! बारिश हो रही है!
+//इतनी सी बारिश से क्या होगा ...        
+//सूखे से तो बेह्तर है। 
+//लेकिन फसल कैसे होगी?        
+
+newchat;key:sandstone,weigth:10
+v1;0;Hamara gaon pragati kar raha hai, hai na? / Наша село робить успіхи, ні?
+v2;40;Par abhi bahut kaam baki hai. / Але є ще багато чого, що має бути зроблено.
+v1;80;Sach me? / Дійсно?
+v2;100;Bilkul! / Звісно!

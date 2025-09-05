@@ -1,0 +1,1 @@
+native:Agrós;gameNameKey:farm_A0;male:farmiller_byzantine;female:farmiller_wife_byzantine;moveinpriority:10;cropType:wheat;chest:1-5;sign:1;field:10-30

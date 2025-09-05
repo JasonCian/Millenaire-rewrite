@@ -1,0 +1,92 @@
+# Millenaire Rewrite - 盔甲穿戴测试命令
+# 复制命令到游戏聊天框测试盔甲穿戴效果
+
+# ============= Norman 盔甲套装测试 =============
+/give @p millenaire_rewrite:norman_helmet
+/give @p millenaire_rewrite:norman_chestplate
+/give @p millenaire_rewrite:norman_leggings
+/give @p millenaire_rewrite:norman_boots
+
+# ============= Byzantine 盔甲套装测试 =============
+/give @p millenaire_rewrite:byzantine_helmet
+/give @p millenaire_rewrite:byzantine_chestplate
+/give @p millenaire_rewrite:byzantine_leggings
+/give @p millenaire_rewrite:byzantine_boots
+
+# ============= Japanese Guard 盔甲套装测试 =============
+/give @p millenaire_rewrite:japanese_guard_helmet
+/give @p millenaire_rewrite:japanese_guard_chestplate
+/give @p millenaire_rewrite:japanese_guard_leggings
+/give @p millenaire_rewrite:japanese_guard_boots
+
+# ============= Japanese Blue 盔甲套装测试 =============
+/give @p millenaire_rewrite:japanese_blue_helmet
+/give @p millenaire_rewrite:japanese_blue_chestplate
+/give @p millenaire_rewrite:japanese_blue_leggings
+/give @p millenaire_rewrite:japanese_blue_boots
+
+# ============= Japanese Red 盔甲套装测试 =============
+/give @p millenaire_rewrite:japanese_red_helmet
+/give @p millenaire_rewrite:japanese_red_chestplate
+/give @p millenaire_rewrite:japanese_red_leggings
+/give @p millenaire_rewrite:japanese_red_boots
+
+# ============= Mayan Ceremonial 测试 =============
+/give @p millenaire_rewrite:mayan_quest_crown
+
+# ============= 快速清空装备 =============
+/clear @p
+
+# ============= 快速穿戴指定套装命令 =============
+
+# 穿戴Norman套装
+/item replace entity @p armor.head with millenaire_rewrite:norman_helmet
+/item replace entity @p armor.chest with millenaire_rewrite:norman_chestplate
+/item replace entity @p armor.legs with millenaire_rewrite:norman_leggings
+/item replace entity @p armor.feet with millenaire_rewrite:norman_boots
+
+# 穿戴Byzantine套装
+/item replace entity @p armor.head with millenaire_rewrite:byzantine_helmet
+/item replace entity @p armor.chest with millenaire_rewrite:byzantine_chestplate
+/item replace entity @p armor.legs with millenaire_rewrite:byzantine_leggings
+/item replace entity @p armor.feet with millenaire_rewrite:byzantine_boots
+
+# 穿戴Japanese Guard套装
+/item replace entity @p armor.head with millenaire_rewrite:japanese_guard_helmet
+/item replace entity @p armor.chest with millenaire_rewrite:japanese_guard_chestplate
+/item replace entity @p armor.legs with millenaire_rewrite:japanese_guard_leggings
+/item replace entity @p armor.feet with millenaire_rewrite:japanese_guard_boots
+
+# 穿戴Japanese Blue套装
+/item replace entity @p armor.head with millenaire_rewrite:japanese_blue_helmet
+/item replace entity @p armor.chest with millenaire_rewrite:japanese_blue_chestplate
+/item replace entity @p armor.legs with millenaire_rewrite:japanese_blue_leggings
+/item replace entity @p armor.feet with millenaire_rewrite:japanese_blue_boots
+
+# 穿戴Japanese Red套装
+/item replace entity @p armor.head with millenaire_rewrite:japanese_red_helmet
+/item replace entity @p armor.chest with millenaire_rewrite:japanese_red_chestplate
+/item replace entity @p armor.legs with millenaire_rewrite:japanese_red_leggings
+/item replace entity @p armor.feet with millenaire_rewrite:japanese_red_boots
+
+# ============= 测试说明 =============
+# 1. 使用give命令获取盔甲物品
+# 2. 手动穿戴盔甲查看物品栏中的显示
+# 3. 使用item replace命令快速切换套装
+# 4. 按F5切换第三人称视角查看盔甲在玩家身上的显示效果
+# 5. 检查每套盔甲的贴图是否正确显示
+# 6. 验证不同套装之间的视觉差异
+
+# ============= 盔甲层贴图文件对应关系 =============
+# norman_layer_1.png -> 头盔、胸甲、靴子
+# norman_layer_2.png -> 护腿
+# byzantine_layer_1.png -> 头盔、胸甲、靴子  
+# byzantine_layer_2.png -> 护腿
+# japanese_guard_layer_1.png -> 头盔、胸甲、靴子
+# japanese_guard_layer_2.png -> 护腿
+# japanese_blue_layer_1.png -> 头盔、胸甲、靴子
+# japanese_blue_layer_2.png -> 护腿
+# japanese_red_layer_1.png -> 头盔、胸甲、靴子
+# japanese_red_layer_2.png -> 护腿
+# mayan_ceremonial_layer_1.png -> 头盔、胸甲、靴子
+# mayan_ceremonial_layer_2.png -> 护腿

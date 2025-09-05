@@ -1,0 +1,10 @@
+
+versione:3.4
+<darkblue>Missioni
+Le missioni sono attività che possono essere svolte per i cittadini. Quando disponibile, la missione è mostrata sopra la testa dell'abitante in parentesi quadre, ad esempio: "<darkblue>[Assetato!]<black>". Fare click-destro per una descrizione e decidere se accettare o rifiutare. Le missioni sono premiate con monete, reputazione o oggetti. Alcune necessitano di una buona reputazione per essere disponibili.
+Per sapere le missioni in corso e l'attività da svolgere premere "M".
+<darkblue>Missione della Creazione
+Questo insieme di missioni comprende due capitoli indipendenti, focalizzati sulle culture normanne e indiane. La prima missione di ogni capitolo viene assegnata da un abitante indiano o normanno una volta raggiunta la reputazione di "Amico del villaggio" (l'attivazione delle missioni è casuale, e potrebbe non essere disponibile immediatamente) .
+Entrambe le missioni richiedono di trovare un edificio solitario particolare. Continua ad esplorare finchè non lo trovi. A differenza degli altri edifici solitari questi luoghi particolari sono segnalati, premendo il tasto "V".
+La missione speciale è, sostanzialmente, una serie di numerose missioni divise in due capitoli indipendenti e centrate sulla cultura Normanna e Indiana. Le missioni iniziali di ogni capitolo sono disponibili da un villager Indiano o Normanno quando ottieni la reputazione "Amico del villaggio" (puoi dover aspettare un po' di tempo prima che la missione iniziale diventi disponibile dopo aver ottenuto la reputazione necessaria).
+In entrambe le missioni iniziali dovrai trovare una speciale costruzione isolata; dovrai esplorare la mappa fino a che la trovi. Nota: Comunque, anche se sono uniche queste costruzioni e non sono come le comuni, sono elecante nella lista dei villaggi (premi "V" sulla tastiera).

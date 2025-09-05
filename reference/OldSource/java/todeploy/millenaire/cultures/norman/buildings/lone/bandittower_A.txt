@@ -1,0 +1,24 @@
+//Parameters for the building as a whole
+building.length=9
+building.width=9
+building.buildingorientation=3
+building.showtownhallsigns=false
+building.startinggood=denier,1.0,30,50
+building.startinggood=denierargent,0.3,8,20
+building.startinggood=normanbroadsword,0.3,1,0
+building.startinggood=normanlegs,0.3,1,0
+building.startinggood=normanhelmet,0.3,1,0
+building.startinggood=cider,1.0,1,2
+building.startinggood=calva,0.5,1,1
+
+building.icon=normanbroadsword
+
+//Parameters for initial construction
+initial.startlevel=-10
+initial.nativename=Tour Des Bandits
+initial.priority=5
+initial.male=armoredbandit
+initial.male=armoredbandit
+initial.male=bandit
+initial.male=bandit
+

@@ -1,0 +1,17 @@
+//Parameters for the building as a whole
+building.length=6
+building.width=6
+building.buildingorientation=3
+building.farfromtag=pathnode,30
+building.icon=bucketwater
+
+
+//Parameters for initial construction
+initial.startlevel=-4
+initial.nativename=Ch’en
+initial.priority=1000
+initial.pathlevel=1
+initial.tag=pathnode
+initial.irrigation=5
+initial.tag=leasure
+

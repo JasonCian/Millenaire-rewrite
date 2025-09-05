@@ -1,0 +1,47 @@
+//empty shell for tweaks & changes, as building and subbuildings depend on each others progress
+
+building.length=50
+building.width=33
+building.max=0
+building.icon=byzantineiconlarge
+
+travelbook_display=False
+
+initial.startlevel=-5
+initial.nativename=Ekklesia
+
+
+//Sequence of the plans
+//building plan - equivalent of the TH
+
+//a0 - church_a0
+//a1 - church_a_sanctuary_a0
+//a2 - church_a1
+//a3 - church_a2
+//a4 - church_a3
+//a5 - church_a_chamber1_a0
+//a6 - church_a_chamber2_a0
+//a7 - church_a_school_a0
+//a8 - church_a_warehouse_a0
+//a9 - church_a4
+//a10 - church_a_sanctuary_a1
+//a11 - church_a5
+//a12 - church_a6
+//a13 - church_a7
+//a14 - church_a_warehouse_a1
+//a15 - church_a_school_a1
+//a16 - church_a8
+//a17 - church_a_sanctuary_a2
+//a18 - church_a_warehouse_a2
+//a19 - church_a_school_a2
+//a20 - church_a9
+//a21 - church_a_sanctuary_a3
+//a22 - church_a10
+//a23 - church_a_warehouse_a3
+//a24 - church_a_school_a3
+//a25 - church_a_sanctuary_a4
+//a26 - church_a11
+//a27 - church_a12
+//a28 - church_a13
+//a29 - church_a_warehouse_a4
+//a30 - church_a_school_a4

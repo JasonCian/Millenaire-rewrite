@@ -1,0 +1,372 @@
+newchat;key:rain,tag:notraining,weigth:10
+v1;0;Je sens qu'il va pleuvoir. / Jag kan känna att det kommer att regna.
+v2;30;Il pleut toujours en Normandie. / Det regnade altid i normandie...
+
+
+newchat;key:beautifulvillage,weigth:10
+v1;0;Il est beau notre village, tu ne trouve pas? / Våran by är fin, tycker du inte?
+v2;30;Magnifique! Et on y travaille dur! / Utmärkt! och vi har arbetat hårt med den!
+
+newchat;key:sunset,weigth:10
+v1;0;Le soleil se lève où, déjà? J'oublie toujours. / Var går solen upp, igen? jag glömmer det alltid.
+v2;30;Au nord, bien sûr! / Norr, var annars?
+
+newchat;key:harvest,weigth:10
+v1;0;Tu penses que la récolte sera bonne cette année? / Tror du skörden kommer vara bra i år?
+v2;30;Qui sait, avec le temps qu'il a fait. / Vem vet, med det vädret vi har haft.
+v1;60;Il n'y a plus de saisons. / Årstiderna är konstiga här.
+
+newchat;key:indianfood,weigth:5
+v1;0;Tu as entendu parler des Indiens? / Har du hört talas om de indiska människorna?
+v2;30;Il paraît qu'ils sont très bizarres. / Folk säger att de är väldigt konstiga.
+v1;60;J'ai même entendu dire que leur nourriture brûle! / Tydligen så är deras mat stark!
+v2;100;Comme du calva? / Som calva?
+v1;120;Non, pire! / Nej, värre!
+
+
+
+newchat;key:byzantines,v1:adult,v2:adult,weigth:5
+v1;0;Ces byzantins m'énervent! / Dessa bysantiner går mig på nerverna!
+v2;30;Oui, tu as vu comme ils nous prennent de haut? / Du ser hur stora och mäktiga de har blivit?
+v1;60;Tout ça parce qu'ils prétendent être romains. / Bara för att de påstår sig vara Romare.
+v2;100;Quelle blague. Des romains dégénérés, alors. / Vilket skämt. urartade Romare är.
+v1;130;On devrait organiser un raid chez eux. / Vi borde organisera en räd mot dom!
+v2;160;On est vikings après tout! / Vi är ju vikingar!
+
+newchat;key:storm,weigth:10
+v1;0;Il y a eu un orage terrible hier. / Det var en förfärlig storm igår.
+v2;30;Oui, j'ai cru que le toit allait s'envoler. / Verkligen, jag trodde taket på huset skulle blåsa av.
+v1;60;Il faudrait les renforcer tous. / Vi borde förstärka taken.
+
+newchat;key:visitors,weigth:10
+v1;0;Ce qui manque ici, c'est des visiteurs. / Det vi saknar här omkring är besökare.
+v2;30;Il y a bien $name... / Nåja, vi har ju $name...
+v1;60;Oui, mais il est un peu bizarre, non? / Men han är väl lite märklig, eller hur?
+v2;100;C'est vrai qu'on ne sait jamais trop ce qu'il va faire. / Det är sant vi vet aldrig vad han håller på med.
+
+newchat;key:christmas,weigth:10
+v1;0;C'est quand Noël, déjà? / När är det jul?
+v2;30;Je ne sais pas trop... Les saisons ne changent pas ici. / Jag vet faktiskt inte... säsongerna ändras inte här.
+v1;80;Quel monde bizarre quand même. / Vilken märklig värld.
+v2;110;Parfois on dirait presque la Normandie... / Ibland liknar nästan nästan normadie...
+v2;140;et puis on se rappele que tout est différent. / Och så ser vi att allt är annorlunda.
+
+newchat;key:william,v2:adult,weigth:10
+v1;0;Tu as déjà vu le Duc Guillaume, toi? / Har du nånsin sett hertig William?
+v2;30;Non, jamais. Et qui sait où il est maintenant? / Nej, aldrig. Och vem vet var han är nu?
+v1;60;S'il était là, nous aurions déjà conquis ce nouveau monde! / Om han vore här hade vi redan erövrat den här nya världen!
+v2;100;Vive le Duc Guillaume! / Länge leve hertig William!
+
+newchat;key:floatingearth,v2:adult,weigth:10
+v1;0;Tu as remarqué, ici la terre flotte si on creuse en-dessous. / Har du lagt märke till att jorden här flyter om vi gräver under den?
+v2;40;Oui, et alors? / Ja, och?
+v1;60;En Normandie, elle tombait... / I Normadie brukade det falla...
+v2;90;En Normandie, Dieu voulait qu'elle tombe. Ici, il veut qu'elle flotte. / I Normandie, ville gud att den skulle falla. Här, vill han att den ska flyta.
+v2;150;Pourquoi critiques-tu Dieu? / Varför kritiserar du gud?
+
+newchat;key:likingrain,tag:raining,weigth:10
+v1;0;J'aime bien la pluie. / Jag gillar regn.
+v2;30;C'est une bonne chose pour un normand! / Bra sak för en Normand!
+
+newchat;key:boudintripes,weigth:10
+v1;0;Tu préfères quoi toi, le boudin ou les tripes? / Vad föredrar du, boudin or tripes?
+v2;40;Le boudin, les tripes c'est trop lourd. / Boudin, Tripes är för tunga!
+v1;80;Trop lourd? Et tu te dis normand? / För tunga? Och du kallar dig Normand?
+
+newchat;key:horses,v1:child,v2:adult,weigth:10
+v1;0;Ca manque d'animaux, ce pays. / Detta landet saknar djur.
+v2;30;Il y a des vaches, des moutons et des cochons. / Det finns kor, får och grisar.
+v2;60;Que faudrait-il de plus? / Vad annars behöver man?
+v1;60;Des chevaux? Et des poneys! / Hästar? och ponier!
+v2;90;Parce que tu veux un poney, maintenant? / För att du vill ha en ponie, nu?
+
+
+newchat;key:tripes,v1:adult,v2:adult,v1:male,v2:female
+v1;0;Les tripes, ça c'est un plat d'homme. / Tripes, det är nu en mans dish
+v2;30;Préparé par les femmes... / Förberedd av kvinnor....
+v1;60;Mais avec des vaches abattues par des hommes! / Med kor slaktade av män!
+v2;100;Et nourries par des femmes... / Och matade av kvinnor...
+
+newchat;key:countingcows,weigth:10
+v1;0;Ca manque de distraction par ici. / Det finns inte mycket att göra här omkring.
+v2;30;C'est bien, c'est calme. / Det är bra, fridfullt.
+v1;60;Et ennuyeux... / Och tråkigt...
+v2;75;Tu n'as qu'à compter les vaches pour te distraire. / Varför räknar du inte korna?
+v1;110;Déjà fait hier. Et les poulets aussi. / Har gjort det, igår. Och kycklingarna, med.
+
+newchat;key:paris,v1:adult,v2:adult,weigth:2
+v1;0;Quel coin paumé ici, quand même. J'aimerai voir autre chose un jour... / Vilket isolerat ställe. Skulle vilja se något annat en dag...
+v2;30;Les autres villages sont tous pareils. / De andra byarna är likadana.
+v1;60;Pas un village! Un bourg. Ou même une ville! / Inte ens en by! eller en stad!
+v2;90;Quoi, comme Rouen? Tu es fou, c'est à des jours d'ici. / Som vad, Rouen? du är galen, det är dagar från här.
+v1;120;Rouen... ou même... Pourquoi pas Paris? / Rouen... eller kanske... varför inte paris?
+v1;150;Tu te rend compte, on dit qu'il y aurait 25 000 personnes là-bas! / Kan du fatta, folk säger att 25 000 människor bor där!
+v2;180;Tu divague, mon pauvre. 25 000 personnes au même endroit? Et où on les mettrait? / Du är galen. 25 000 människor i samma ställe? vart skulle de ta vägen?
+
+newchat;key:calva,v1:adult,v2:adult,v1:male,v2:male,weigth:10
+v1;0;Par ce temps, un petit calva s'impose! / I den här sortens väder, så är calva ett måste!
+v2;30;Par tous les temps! / I alla väder!
+v1;50;A la Normandie et son climat à calva! / Skål för Normandie och det är calva väder!
+v2;70;Santé! / Skål!
+
+newchat;key:boyvillagechief,v1:child,v1:male,v2:adult,weigth:5
+v1;0;Quand je serais grand, je serais le chef du village! / När jag är vuxen, så kommer jag vara chef för byn!
+v2;30;Il va falloir que tu mange beaucoup de soupe avant d'en arriver là. / Du kommer behöva en massa soppa innan du kommer dit.
+v1;60;Et je te ferais punir! / Och ni alla kommer bli bestraffade!
+v2;70;C'est ça. En attendant, va travailler ou tu vas prendre une claque. / Säkert. Och nu iväg till arbete eller så kommer du få en örfil.
+
+newchat;key:kids1,v1:child,v2:child,weigth:10
+v1;0;Mon papa est bien plus fort que le tien. / Min pappa är mycket starkare än din.
+v2;30;N'importe quoi. Mon papa est le plus fort du village. / Nonsens. Min pappa är den starkaste i byn.
+v1;60;Tu rêves. Mon père met le tien par terre en deux minutes. / Som om. Min pappa can slå din på två minuter.
+v2;70;Et la Terre est ronde! / Och jorden är rund!
+
+newchat;key:kids2,v1:child,v1:male,v2:child,v2:female,weigth:10
+v1;0;Les filles, ça ne sert à rien. / Tjejer är värdelösa.
+
+newchat;key:kids3,v2:child,v2:male,v1:child,v1:female,weigth:10
+v1;0;T'es peut être un garçon, mais je te fait pleurer quand je veux. / Du må vara en pojke men jag kan få dig till att gråta när jag vill.
+v2;30;Même pas vrai! Même pas vrai! / Inte sant! Inte sant!
+
+newchat;key:enderman,v1:adult,v2:child,weigth:10
+v1;0;Sois sage, ou l'homme des limbes t'emportera cette nuit! / Var snäll, eller så tar Endermannen dig ikväll!
+v2;40;Pfff, j'ai passé l'âge de croire à ces bêtises. / Pfff, Jag är för gammal för att tro på sånt nonsens.
+
+newchat;key:badflirt,v1:adult,v2:adult,v1:nospouse,v2:nospouse,v1:male,v2:female,notrel:sibling,v1:notvtype:monk-priest-abbot,weigth:20
+v1;0;Alors beauté, qu'est ce que tu fais ce soir? / Så, vackra, vad gör du ikväll?
+v2;40;$targetfirstname, je t'ai déjà dit non! / $targetfirstname, Jag har redan sagt till dig - Nej!
+v1;60;Quel caractère! / Vilken karaktär!
+v2;80;Quel nigaud! / Vilken idioti!
+
+newchat;key:badflirt2,v1:vtype:guard-lumberman,v2:adult,v1:hasspouse,v2:female,notrel:sibling,notrel:parent,notrel:child,weigth:20
+v2;0;$targetfirstname, quels beaux muscles! / $targetfirstname, vilka fina muskler!
+v1;30;Tais-toi, malheureuse! Si ma femme t'endend... / Va tyst, din idiot! Om min fru hör oss...
+v2;60;Et bien quoi, bel homme? / Vad händer då, stilliga?
+v1;90;Tu sais bien comme elle est jalouse! / Du vet hur avundsjuk hon blir!
+v2;120;Et? Elle te fait peur? / Och? Är du rädd för henne?
+v1;140;Peur? Elle? Quelle blague! / Rädd? för henne? Du måste skämta!
+v2;160;Ha!
+
+newchat;key:frerejacques,v1:child,v2:child,weigth:10
+v1;0;Frère Jacques, frère Jacques / Broder Jacob, Broder Jacob
+v2;30;Dormez-vous? Dormez-vous? / Sover du, sover du?
+v1;60;Sonnez les matines! Sonnez les matines! / Hör du inte klockan! Hör du inte klockan!
+v2;100;Ding, daing, dong. Ding, daing, dong! 
+
+
+newchat;key:alouette,v1:child,v2:child,weigth:10
+v1;0;Alouette, gentille alouette, / Little skylark, lovely little skylark, 
+v2;0;Alouette, gentille alouette, / Little skylark, lovely little skylark,
+v1;30;Alouette, je te plumerai. / Little lark, I'll pluck your feathers off.
+v2;30;Alouette, je te plumerai. / Little lark, I'll pluck your feathers off.
+v1;60;Je te plumerai la tête. / I'll pluck the feathers off your head.
+v2;60;Je te plumerai la tête. / I'll pluck the feathers off your head.
+v1;90;Et la tête! Et la tête! / Off your head!
+v2;90;Et la tête! Et la tête! / Off your head!
+v1;120;Pauvre alouette quand même... / Poor skylark though...
+v2;160;Pourquoi? C'est drôle! / Why? It's fun!
+
+
+newchat;key:loupyesttu,v1:child,v2:child,weigth:10
+v1;0;Promenons-nous dans les bois, / Let us walk in the woods,
+v2;0;Promenons-nous dans les bois, / Let us walk in the woods,
+v1;30;Tant que le loup n'y est pas. / While the wolf is away.
+v2;30;Tant que le loup n'y est pas. / While the wolf is away.
+v1;60;Si le loup y était / If the wolf was there
+v2;60;Si le loup y était / If the wolf was there
+v1;90;Il nous mangerait, / He would eat us,
+v2;90;Il nous mangerait, / He would eat us,
+v1;120;Mais comme il n'y est pas, / But since he isn't there,
+v2;120;Mais comme il n'y est pas, / But since he isn't there,
+v1;150;Il nous mangera pas. / He will not eat us.
+v2;150;Il nous mangera pas... / He will not eat us...
+v2;180;Euh, tu es sûr? / Euh, you are sure?
+v1;200;Lâche! / Coward!
+
+
+newchat;key:dagobert,v1:child,v2:child,weigth:10
+v1;0;Le bon roi Dagobert / The good King Dagobert
+v1;30;A mis sa culotte à l'envers / Had his breeches inside out.
+v1;60;Le grand saint Éloi / The great Saint Eloy
+v1;90;Lui dit : Ô mon roi ! / Told him : Oh my king !
+v1;120;Votre Majesté / Your Majesty
+v1;150;Est mal culottée. / Is badly panted.
+v2;180;Mal culottée? Ca veut dire quoi? / Badly panted? What does it mean?
+v1;220;Qu'il a pas de culotte! / That he does not have pants!
+v2;250;N'importe quoi, c'est le roi! / Nonsense, he's the King!
+v1;280;Ben il a pas de culotte le roi! / Well, the King doesn't have pants!
+v2;310;Même toi t'as une culotte, idiot! / Even you have some, idiot!
+
+newchat;key:confession,v1:vtype:abbot-priest,v2:male,v2:notvtype:abbot-priest,weigth:10
+v1;0;Mon fils, il y a longtemps que tu ne t'es pas confessé. / Min son, din sista bekännelse var länge sen.
+v2;40;Mais mon Père, je n'ai pas péché! / Men Fader, jag har inte syndat!
+v1;70;Tout le monde pèche dans ce bas monde. / Alla syndar i denna fallena värld.
+v2;110;Même vous, mon père? / Även du, Fader?
+v1;130;Ne sois pas insolent! Tu feras dix Pater Noster en pénitence! / Nog med fräckhet! du ska göra tio fadernvår i botfärdighet!
+
+
+newchat;key:confession2,v1:vtype:abbot-monk-priest,v2:female,v2:adult,weigth:10
+v1;0;Ma fille, il y a longtemps que tu ne t'es pas confessée. / Min Dotter, din sista bekännelse var länge sen.
+v2;30;C'est vrai mon père, et j'ai péché! / Det är sant, Fader och jag har syndat!
+v1;60;Si c'est un péché de chair, nous en parlerons ailleurs. / Om det är köttets synd, så ska vi prata om det någon annastans.
+v2;100;Merci, mon père. / Tack, Fader.
+v1;120;En attendant, dix Pater Noster. Ca servira toujours! / Under tiden tio fadernvår. Alltid användbart!
+
+newchat;key:carpenter,v1:vtype:carpenter,weigth:10
+v1;0;J'ai encore amélioré ma technique. / Jag har förbättrat mina färdigheter igen.
+v1;30;Avant d'assembler les colombages, je commence par... / Innan jag sätter ihop ramen, så börjar jag med...
+v2;70;C'est fascinant. / Fascinerande.
+v1;90;Tu trouves? / Tycker du verkligen det?
+v2;110;Non. / Nej.
+
+newchat;key:cattlefarmer,v1:vtype:cattlefarmermale-cattlefarmerfemale,v2:notvtype:cattlefarmermale-cattlefarmerfemale,weigth:10
+v1;0;J'adore préparer des tripes. D'abord, saigner la vache... / Jag älskar att förbereda komage. Först få kon att blöda...
+v1;40;Puis extraire les boyaux... / Sen samlar man ihop tarmarna...
+v2;60;Arrête, tu me dégoutes! / Sluta, du äcklar mig!
+v1;80;Mais tu adores les tripes! / Men du älskar ju komage!
+v2;110;Et je ne veux pas savoir comment elles sont faites. / Jag vill inte veta hur det görs.
+
+newchat;key:farmer,v1:vtype:farmer,v2:notvtype:farmer,weigth:10
+v1;0;Aucun doute, fermier c'est le métier le plus important. / Inga tvivel, jordbruk är det viktigaste jobbet.
+v1;40;Sans moi, pas de pain! / Utan mig, skulle det inte finnas bröd!
+v2;60;Je préfère les tripes, de toute façon. / Jag gillar komage bättre hursomhelst.
+
+newchat;key:guildmaster,v1:vtype:guildmaster,weigth:10
+v1;0;Quand j'étais jeune, j'étais un apprenti très prometteur. / När jag var ung var jag en väldigt lovande lärling.
+v1;40;Guillaume Vif-Argent lui-même s'intéressait à moi! / Självaste Guillaume Vif-Argent var intresserad av mig!
+v1;80;Et maintenant je suis coincé ici. / Och nu är jag fast här.
+v1;110;A m'occuper d'abrutis. / Att ta hand om idioter.
+v2;130;Hein, quoi? / Äh, va?
+v1;150;*soupir* / *Suck*
+
+
+newchat;key:knight,v1:vtype:knight,weigth:10
+v1;0;Regarde mon château! Une vraie forteresse! / Titta på mitt slott! Verkligen en fästning!
+v2;30;Vous êtes si puissant, seigneur! / Du är mäktig, min herre!
+v1;60;Quand le Duc Guillaume reviendra, il me fera sûrement Comte! / När hertig William kommer tilbaka, kommer han säkert göra mig till greve!
+v2;100;Vive le Compte $targetfirstname! / Hurra för greve $targetfirstname!
+v1;130;Vive moi! / Hurra för mig!
+
+newchat;key:lady,v1:vtype:lady,v2:notvtype:knight,weigth:10
+v1;0;Ma beauté est célèbre dans ces contrés. / Min skönhet är legendarisk i dessa länder.
+v2;30;Vous êtes superbe, ma Dame! / Du är vacker, min dam!
+v1;60;Et pourtant j'ai épousé un petit chevalier de rien du tout... / Och så är jag är gift med en knappt, och värdelös riddare...
+v2;100;Mais sa Seigneurie deviendra certainement comte un jour! / Men din man kommer säkert att bli greve en dag!
+v1;130;Ce nigaud? Ah! Et pourquoi pas Pape, tant qu'à faire? / Denna idioten? och varför inte påve, när vi ändå håller på?
+v2;160;Pourquoi pas, ma Dame! Euh... Je voulais dire... / Varför inte, min Dam! uh... Jag menar...
+
+newchat;key:lumberman,v1:vtype:lumberman,weigth:10
+v1;0;Pommes pommes pommes! / Äppel. äppel! äppel!
+v1;30;Pommes, pommes... pommes! / Äppel, äppel... äppel,
+v2;60;Plutôt cidre cidre cidre dans ton cas, non? / Är du säker på att det inte är cider, cider, cider?
+
+newchat;key:merchant,v1:vtype:merchant,weigth:10
+v1;0;Quel village minable. / Vilken liten by.
+v2;30;Eh étranger, attention à ce que tu dis! / Öj främling, vakta din tunga!
+v1;70;Et quels habitants charmants! / Och vilket charmerande folk!
+
+newchat;key:miner,v1:vtype:merchant,weigth:10
+v1;0;J'ai composé une petite chanson, tu veux l'écouter? / Jag har skapat en liten sång, vill du höra?
+v2;40;Vas-y! / Javisst!
+v1;50;Hej-hå, hej-hå hej-hå...
+v2;70;Ca commence bien... / Lovande start...
+v1;90;Je rentre du boulot! / Hej hå från vår gruva gå!
+v2;110;Et moi j'ai beaucoup à faire. / Och en massa arbete jag har.
+
+newchat;key:monk,v1:vtype:monk,v2:child,weigth:10
+v2;0;Frère Jacques, frère Jacques! / Broder Jacob, Broder Jacob!
+v1;30;Très drôle, mon enfant. / Väldigt roligt, mitt barn.
+v2;60;Dormez-vous? Dormez-vous? / Sover du, sover du?
+v1;90;Ca va, ça va, je connais la chanson. / Nog, nog, Jag kan sången.
+
+newchat;key:pigherd,v1:vtype:pigherd-pigherdf,v2:notvtype:pigherd-pigherdf,weigth:10
+v1;0;Tout est bon dans le cochon! / Allt det goda i grisen!
+v2;30;Ils font beaucoup de bruit quand tu les égorges, quand même. / De skriker mycket när du slaktar dom.
+v1;70;Plus le cochon braille, meilleure est la viande! / Ju högre grisen skriker, ju bättre kött!
+
+newchat;key:priest,v1:vtype:priest,weigth:10
+v1;0;Je veille sur la santé spirituelle des villageois. / Jag tjänar bybornas andliga hälsa.
+v2;30;Et il y a du travail! / Och det är mycket att göra!
+
+newchat;key:priest2,v1:vtype:priest,weigth:10
+v1;0;Notre village craint Dieu. / Våran by fruktar gud.
+v2;30;Et son représentant, Père $targetlastname. / Och hans änglar, Fader $targetlastname.
+
+newchat;key:seneschal,v1:vtype:seneschal,weigth:10
+v1;0;Je suis très estimé à la cour du Roi le Duc Guillaume. / Jag har hög status i Kung Williams hov.
+v2;40;Le Roi le Duc? / Kungen?
+v1;60;Sa Majesté Guillaume le Conquérant, Duc de Normandie et Roi d'Angleterre, ignare! / Hans majestät William erövraren, hertig av Normandie och kung över England, din idiot!
+v2;100;C'est où l'Angleterre? / Vart är England?
+v1;120;De l'autre côté de la mer. Quelle ignorance! / På andra sidan havet. Sådan okunnighet!
+v2;140;De quelle mer, Seigneur? / Av vilket hav, min herre?
+v1;160;Quelle insolence! Il suffit! / Sådan fräckhet! Nog!
+
+newchat;key:shepherd,v1:vtype:shepherd-shepherdf,v2:notvtype:shepherd-shepherdf,weigth:10
+v1;0;Etre berger est un métier très noble. / Att vare en fåraherde är ett nobelt yrke.
+v2;30;Noble? Berger? / Nobelt? fåraherde?
+v1;50;N'avons nous pas été choisis par Dieu pour recevoir la Bonne Nouvelle? / Har vi inte blivit valda av gud att höra de bra nyheterna?
+v2;90;Ah, oui. Pendant que vous vous occupiez des agneaux nouveau-nés - en Décembre. / Åh, ja. När du tog hand om de nyfödda lammen i december.
+v1;130;Et alors? Peut être qu'à Bethléem il n'y a pas de saisons. Comme ici! / Och så? kanske i Betlehem är det kanske inga säsonger. Precis som här!
+
+newchat;key:smith,v1:vtype:smith,weigth:10
+v1;0;La vrai force des normands, c'est leurs outils et leurs armes. / Den sanna kraften av en Normand ligger i deras vapen och verktyg.
+v2;40;Et donc leurs forgerons? / Och därför i deras smeder?
+v1;60;Voilà! / Javisst!
+
+
+newchat;key:wife,v1:vtype:wife,v2:male,v2:adult,weigth:10
+v1;0;Pourquoi est-ce toujours les femmes qui construisent? / Varför är det alltid kvinnorna som bygger?
+v2;40;Si ça te gène, je m'occupe du prochain bâtiment. / Om det stör dig, så kommer jag att bygga nästa.
+v1;80;Vraiment? Tu es adorable! Alors, pour les rideaux, n'oublie pas de... / Verkligen! det är så snällt! så, angående prydning, glöm inte att...
+v2;120;En fait non, je vais te laisser faire. / Faktiskt så nej, jag tror jag låter dig göra det.
+
+
+newchat;key:alchemyworkshop,villager:alchemistapprentice,v1:notvtype:alchemistapprentice-guildmaster,v2:notvtype:alchemistapprentice-guildmaster,v1:adult,v2:adult,weigth:10
+v1;0;Je suis passé devant l'atelier de l'alchimiste hier. / Jag gick utanför alkemistens verkstad igår.
+v1;40;Il y avait une odeur d'œuf pourris horrible! / Det luktade ruttena ägg!
+v2;80;Il paraît qu'il essaye de fabriquer la pierre philosophale! / De säger att han försöker skapa filosofens sten!
+v1;120;Moi j'ai entendu qu'il veut résusciter les morts. / Jag har hört att han vill återuppväcka döda.
+v2;160;Et moi qu'il va fabriquer un monstre avec des cadavres! / Och att han ska skapa ett monster från kroppsdelar!
+v1;200;Quelle horreur! / Så hemskt!
+v2;220;C'était un garçon si charmant pourtant... / Han som var en sån rar pojke...
+
+newchat;key:archives,building:archives,weigth:10
+v1;0;Tu as visité les nouvelles archives? / Har du besökt de nya arkiven?
+v1;30;On y voit ce que tout le monde fait! / Du kan se vad alla gör!
+v2;60;Ah, vraiment... et euh... / Åh, verkligen... och, öh...
+v1;90;Oui, j'ai vu ton panneau. / Ja,jag såg din skylt.
+v1;120;Tu devrais avoir honte. / Du borde skämmas.
+
+newchat;key:bakery,building:bakery,weigth:10
+v1;0;J'adore l'odeur de pain qui sort de la boulangerie. / Jag älskar doften av färskt bröd som kommer från bageriet.
+v2;40;Il ne nous manque plus que quelqu'un sachant faire des croissants. / Nu behöver vi bara någon som vet hur man gör gifflar.
+
+newchat;key:church,building:church,weigth:10
+v1;0;Notre église est vraiment superbe. / Våran kyrka är verkligen vacker!
+v2;30;Elle montre que nous sommes un village pieux. / Det visar att vi är en religös by.
+v1;60;Et elle est plus grande que celle du village voisin! / Den är även större än grannbyns!
+
+
+newchat;key:inn,building:inn,v1:notvtype:merchant,v2:notvtype:merchant,weigth:10
+v1;0;Maintenant que nous avons une auberge, nous allons pouvoir commercer! / Nu när vi har ett värdshus, så kan vi byta!
+v2;40;Autrement dit, les marchants de passage vont se servir dans nos resources. / Med andra ord, köpmän som passerar kan själva komma åt våra resurser.
+v1;80;Tu as toujours été cynique. / Du har alltid varit cynisk.
+
+
+newchat;key:market,building:market,v1:notvtype:merchant,v2:notvtype:merchant,weigth:10
+v1;0;J'adore le marché! Tellement de marchandises superbes! / Jag älskar marknaden! Så många fina varor!
+v2;40;On se sent moins isolé maintenant. / Vi känner oss mindre isolerade nu när den finns.
+v2;80;Mais pas plus riches... / Men inte rikare...
+
+
+newchat;key:tavern,building:tavern,v1:adult,v2:adult,weigth:10
+v1;0;La taverne est certainement la meilleure chose qu'on ait construite. / Värdshuset är det besta vi byggt här i byn.
+v2;40;Personne ici ne dira le contraire! / Ingen här skulle påstå något annat!
+
+newchat;key:fort,building:tavern,v1:adult,v2:adult,weigth:10
+v1;0;Hahaha! Nous sommes imparables. Nos navires impressionnants et honorables chevaliers sont le fléau du monde!. / Hahaha! Vi är ostoppbara. Våra imponerande skepp och ärofulla riddare är en plåga för världen!
+v2;40;Et quels sont nos ennemis? Un groupe de tricksters romains et amoureux de la pierre Maya / Och vad är våra fiender? Ett gäng av Romerska skojare och Maya sten älskare?
+v1;80;Ne pas oublier les fous des neiges qui n'ont même pas le concept de l'argent! / Glömm inte snö idioterna som inte ens använder pengar!
+v2;120;Hahaha! La vie normande est la meilleure du monde! Merveilleux cidre, meilleurs outils. Ah, c'est notre âge d'or! / Hahaha! ett normanskt liv är det bästa här i världen! Underbar cider, bästa verktygen. åh detta är verkligen våran guld ålder.
+v1;160;Et nous arrivons à le partager! / Och vi får ta del av det!
+v2;200;Hahaha! / Hahaha!

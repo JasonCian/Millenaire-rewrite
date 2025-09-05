@@ -1,0 +1,82 @@
+
+fallenking_1_firstomens_0_label=Duistere Voortekenen
+fallenking_1_firstomens_0_description=$name… Heb je de Cycli recent bestudeerd? De mysterieuze mensen van waar jij komt moeten wel wat kennis hebben van astronomie! Ik bestudeerde de sterren, maakte offers en toch is niets duidelijk. Maar ik voel dat de toekomst guur is. En er zijn niet alleen voortekenen. Ik heb informatie ontvangen van andere shamans dat erg verontrustend is. Help me om uit te zoeken wat er aan de hand is, ik ben erg bezorgd!
+fallenking_1_firstomens_0_description_refuse=Mogen de goden met ons zijn!
+fallenking_1_firstomens_0_description_success=Ik zal een nieuw offer aan de Goden brengen zodat ze me meer informatie willen geven. Ik wil dat je me accepteerbare offers brengt. Omdat we geen menselijke gevangenen gebruiken, zullen de overblijfselen van demonen die in de nachten spoken volstaan.
+fallenking_1_firstomens_1_label=Breng goederen terug om te offeren.
+fallenking_1_firstomens_1_description=Wat breng je me, $name?
+fallenking_1_firstomens_1_description_success=Je bent een machtige jager. De goden zullen voldaan zijn en zullen ons helpen. Laat me de rituelen doen en kom terug om me te zien.
+fallenking_1_firstomens_1_listing=Ik moet de shaman rot vlees, botten en spinnenogen brengen.
+
+fallenking_2_warpreparations_0_label=Oorlogs Voorbereidingen
+fallenking_2_warpreparations_0_description=De Goden hebben mijn offer geaccepteerd and hebben me voortekenen gestuurd. Ik heb ook nieuws gehad van de machtige shaman van een ver dorp, en dat is niet goed. Ik neem aan dat je wel heb gehoord van de machtige Koning Ixtab K'u Ix. Niet? Dus je bent toch niet zo alwetend!<ret><ret>Ik zal het uitleggen. Maar ik moet eerst denken aan ons dorp. Ik weet dat jij wapens veel sterker kan smeden dan onze obsidiaan zwaarden. Onze hoofdman $localleader_villagername$ kan ze goed gebruiken om ons te beschermen in deze onheilspellende cyclus. Ik moet je om hulp vragen!
+fallenking_2_warpreparations_0_description_refuse=Mogen de goden met ons zijn!
+fallenking_2_warpreparations_0_description_success=Ik geloof dat vier zwaarden en twee harnassen wel genoeg zijn. Maar ik ben geen krijger. Hij zal je precies zeggen wat je nodig hebt.
+fallenking_2_warpreparations_1_label=Verzamel Wapens
+fallenking_2_warpreparations_1_description=Onze shaman baart me zorgen. Hij heeft altijd geweten hoe hij ons moest leiden in zulke verontrustende cycli, en als hij oorlog aan de horizon ziet, geloof ik hem.   He has always known how to guide us in those troubled cycles, and if he sees war on the horizon, I believe him. Wat heb jij meegebracht om ons te helpen?
+fallenking_2_warpreparations_1_description_success=Deze wapen zijn indrukwekkend! Onze smeden zijn zeker kinderen als je ze verglijkt met degene van andere culturen.
+fallenking_2_warpreparations_1_listing=Ik moet ijzeren zwaarden en harnassen geven aan het dorpshoofd.
+
+fallenking_3_thecamp_0_label=In het spoor van de Koning.
+fallenking_3_thecamp_0_description=Nu ons dorp zichzelf kan verdedigen, moet ik je vertellen over Koning Ixtab K'U Ix. Hij is een machtige heerser, die regeerde over een groot stuk van de Yucatan in de oude wereld. Het lukte hem om verschillende Mayaanse dorpen samen te brengen sinds we hier gearriveerd zijn. Ze zeggen dat hij streng en arrogant is, maar de Goden steunen hem, en hij heeft veel gedaan voor onze mensen. Ik heb laatst een vreemd bericht ontvangen van zijn persoonlijke shaman, Tohil Uchben, een slimme en ambitieuze man. Hij spreekt van een fascinerende ontdekking die hij heeft gedaan met zijn leenheer. Hij geeft geen verdere informatie, behalve dat het betrekking heeft tot Xibalba, het land van de dood! Ik ben bezorgd, $name. Ik vrees dat er een link is met de onheilspellende voortekenen die mij achtervolgen. Koning Ixtab K'U Ix en zijn shaman hebben misschien iets gevaarlijks gevonden in deze vreemde wereld. Kun jij het onderzoeken?
+fallenking_3_thecamp_0_description_refuse= Mogen de goden met ons zijn!
+fallenking_3_thecamp_0_description_success=Ik heb niet veel informatie, maar Tohil Uchben schreef het in een kamp in het bos of jungle dat lijkt gekoppeld aan hun ontdekking, wat het ook mag zijn. Zoek, en ik zal doorgaan met mijn offers, zodat de goden je kunnen leiden.
+fallenking_3_thecamp_1_label=Praat met de Shaman.
+fallenking_3_thecamp_1_description=Je hebt lang gereisd, en er zijn duistere voortekenen gekomen toen je weg was. Wat is het nieuws? heb je Koning Ixtab of Tohil Uchben gevonden?
+fallenking_3_thecamp_1_description_success=Een paarse poort openend naar een wereld van vlammen! Ik had nooit gedacht dat ze zo iets ongelooflijks gevonden hadden! En zo gevaarlijk. Ik weet niet of het de deur naar Xibalba is of een sinistere grap van een kwaadaardige God maar dit nieuws baart me zorgen. En waarom vielen de Koning's troepen jou aan zonder reden? De Maya's zijn geen vredige mensen, maar zo agressief is abnormaal. En waarom die lege gevangenis in het kamp? Ik weet niet wat ik moet denken. I kebn verward, $name. Ik zal de goden nog een keer raadplegen.
+fallenking_3_thecamp_1_listing=Ik moet op ontdekking uit om Koning Ixtab's kamp te vinden in de jungle of het bos. Daarna moet ik terug gaan naar de shaman. 
+
+fallenking_4_newomens_0_label=Nieuwe Offers
+fallenking_4_newomens_0_description=$name, Ik heb veel offers gemaakt zonder dat de Goden hebben geantwoord. Ze accepteren mijn offers niet meer! Hun hebzucht kent geen grenzen, en ze willen altijd meer voordat ze me helpen. We moeten iets nieuws offeren - een zeldzaam offer, dat sterkte en moed vereist om te krijgen. Wil jij me weer helpen?
+fallenking_4_newomens_0_description_refuse= Mogen de Goden met ons zijn!
+fallenking_4_newomens_0_description_success=Ik geloof dat ik weet wat ze tevreden stelt: dat voorwerp dat je vond naast die verdachte poort. Ik kan voelen dat het komt van een machtig wezen. Dit zal een offer zijn dat de Goden wel moeten beantwoorden! Kan jij me wat van die kristallen tranen geven?
+fallenking_4_newomens_1_label=Verkrijg de tranen
+fallenking_4_newomens_1_description=Kon je de wezens vinden die deze tranen produceerde? Kan je er genoeg offeren?
+fallenking_4_newomens_1_description_success=Dus ze kwamen van vliegende wezens die vuur ademden? En jij hebt ze verslagen? $name, jij bent ook niet wat het lijkt. Kom jij ook uit Xibalbe? Ik zal het de Goden vragen wanneer ik deze tranen offer. Kom daarna maar terug.
+fallenking_4_newomens_1_listing=Ik moet vier Ghasttranen geven aan de shaman.
+
+fallenking_5_thepyramid_0_label=De Obsidiaan Piramide
+fallenking_5_thepyramid_0_description=De Goden hebben me een helder voorteken gestuurd, $name: de afbeelding van een gigantische Mayaanse piramide met een obsidiaan temple er bovenop. Het kan maar een plaats zijn... Keban Muul, een monument dat lang geleden is gebouwd om Ah Puch te eren en waar veel offers plaatsvonden voordat het werd verlaten. Ik geloof dat Koning Ixtab daar is neergestreken. De Goden weten alleen waarom! Je moet hem vinden en een eind maken aan zijn contacten met Xibalba!
+fallenking_5_thepyramid_0_description_refuse= Mogen de Goden met ons zijn!
+fallenking_5_thepyramid_0_description_success=Ik weet niet waar deze piramide ligt, maar het was midden in een bos. Reis terwijl ik offers breng aan de Goden zodat ze jou de overwinning gunnen.
+
+fallenking_6_thesiege_0_label=De Koning's Shaman
+fallenking_6_thesiege_0_description=Bij Ach Puch, wie ben jij? Je hebt Koning Ixtab vermoord en je hebt zijn leger in je eentje afgeslacht! Je lijkt op de God Buluc Chabtan!<ret><ret>Maar wie je ook mag zijn, je kan niet slechter zijn dan de demon die hier spookt... Sinds we dat duistere Portaal in de jungle hebben ontdekt en Xibalba hebben bezocht, leek de Koning bezeten door een duistere kracht. Hij bracht ons naar deze oude en vervloekte tempel... Hij droomde alleen nog maar over goud en veroveringen, en beloofde dat hij alle naburige dorpen persoonlijk zou offeren aan Ach Puch!Hij is altijd al ambiteus geweest, maar totdan nooit bloeddorstig. Ik gaf hem al les sinds zijn kindertijd en ik kon hem niet meer begrijpen. En toen ik zijn duistere plannen tegensprak, nam hij mij gevangen, ik, zijn oudste en meest loyale volger! Maar ik geloof niet dat het hem was. Nu hoop ik dat het allemaal ten einde is na zijn dood. Wil jij me helpen om terug naar huis te reizen?
+fallenking_6_thesiege_0_description_refuse=Dan blijf ik wel hier, waar mijn Koning overleed.
+fallenking_6_thesiege_0_description_success=Wacht... Ik voel iets. We zijn in gevaar! Ik kan niet vechten - laat me alsjeblieft hier en ga kijken wat er aan de hand is. Ik vrees het ergste.
+fallenking_6_thesiege_1_label=Gered!
+fallenking_6_thesiege_1_description=Jouw vecht vaardigheden zijn indrukwekkend... Weet je dat het tien van Koning Ixtab's elite krijgers kostte om maar een van deze grote witte wezens te vermoorden in de andere wereld? En jij schoot ze neer alsof het niets was. Maar we moeten op onze hoede zijn. Het lijkt erop dat de demoon of God die mijn Koning heeft gemanipuleerd ons niet in leven wil zien, al dan niet uit wraak of angst... Laat me mezelf klaar maken en dan zullen we kijken wat we gaan doen. Rust ook; Ik twijfel niet aan je vaardigheden als een krijger die we weer nodig zullen hebben.
+fallenking_6_thesiege_1_description_success=We zullen elkaar snel weer spreken.
+fallenking_6_thesiege_1_listing=Ik moet de piramide en de shaman verdedigen tegen de de duivelse menigte.
+
+fallenking_7_thepit_0_label=De Kamer van Lava
+fallenking_7_thepit_0_description=Toen we de piramide bereikten, sloot de Koning me op in een kamer ver beneden. In het midden was een obsidiaan plas, gevuld met lava. Hij was al half-dement in dit stadium en ratelde over hoe hij de meeste offers hier zou brengen door alle leiders van dorpen die vijandig waren in de lava te gooien. Ik geloofde niet dat zijn koortsig geratel veel zou betekenen, maar ik ben benieuwd welk doel die plas had. En waar komt de lava vandaan? Jij moet het uitzoeken.
+fallenking_7_thepit_0_description_refuse=Dan blijf ik wel hier, waar mijn Koning overleed.
+fallenking_7_thepit_0_description_success=De trap naast mijn gevangenis komt hier uit. Je zou de lava kunnen volgen... Hier, neem wat eten dat ik geruild heb bij een Indiaans dorp. Dit zorgt ervoor dat je de lava kunt weerstaan. En drink deze cacauhaa. Als je een donkere plek bereikt, helpt je het beter te zien.
+fallenking_7_thepit_1_label=De val
+fallenking_7_thepit_1_description=Kon je de bron van het lava vinden?
+fallenking_7_thepit_1_description_success=Je ziet er moe uit, $name. En je zegt dat er niet was... alleen monsters die spawnden in lege kamers... Ik verwachtte dat niet.<ret><ret>$name, Ik zie maar een mogelijkheid: deze put was een val, bedoeld om ondernemende avonturiers te vermoorden. And you say that there was nothing... only monsters spawning in empty rooms... I was not expecting that.<ret><ret>$name, I see only one possibility: this well was a trap, intended to eliminate enterprising explorers. IHet is weinig troost na zoveel moeite, maar je bent duidelijk sterker dan de demoon die deze val heeft gemaakt.
+fallenking_7_thepit_1_listing=Ik moet de bron van lava vinden in de kamer achter de gevangenis.
+
+fallenking_8_sacrifice_0_label=Krijger's Offers
+fallenking_8_sacrifice_0_description=Ik aarzelde om er met jou over te spreken, $name, maar na je gevecht in de ondergrondse kamer heb je meer dan het recht verdiend om mijn kennis te delen. Als King Ixtab me spaarde toen ik hem tegensprak, is het omdat hij mijn vaardigheden nodig had in communiceren met de Goden. Sinds ik voor het eerst arriveerde in deze nieuwe wereld, heb ik veel offers gebracht en heb ik vaak het heilige Cacauhaa gedronken, En de Goden gaven me terug dat ze de Koning's krijgers hielpen door spreuken te binden aan hun wapens en harnassen. De Goden vragen veel bloed in ruil voor deze krachtige betoveringen, maar de verkregen wapens zijn formidabel. De Koning wilde deze rituelen uitsluitend voor zijn krijgers houden - maar ik kan het niet riskeren om de enige mens te zijn die toegang heeft tot zulke krachtige wapens. Zoek een shaman voor me en deel deze rituelen met hem.
+fallenking_8_sacrifice_0_description_refuse=Dan blijf ik wel hier, waar mijn Koning overleed.
+fallenking_8_sacrifice_0_description_success=Veilige reis, $name. Kom terug als je klaar bent. Ik blijf hier en praat met de Goden. Ik geloof niet dat we klaar zijn met deze piramide.
+fallenking_8_sacrifice_1_label= Ga terug naar de shaman.
+fallenking_8_sacrifice_1_description=Ik ben aan het praten met de Goden. Ze willen altijd meer offers!
+fallenking_8_sacrifice_1_description_success=Dan is het klaar. Ik ben niet meer de enige shaman die wapens kan betoveren. Ik hoop dat ik goed heb gedaan.
+fallenking_8_sacrifice_1_listing=Ik moet de rituelen van Tohil Uchben overbrengen naar een dorps shaman.
+
+fallenking_9_backtothevillage_0_label=Nieuwe Rituelen
+fallenking_9_backtothevillage_0_description=Wil je met me praten, $name ?
+fallenking_9_backtothevillage_0_description_refuse=Ik ga terug naar mijn rituelen, in dat geval.
+fallenking_9_backtothevillage_0_description_success=Deze rituelen zijn duister! Angstaanjagend zelfs. Tohil Uchben heeft grootse krachten en hij heeft veel moet offeren om deze kennis te krijgen. Maar ik kan het doen als je me het bloed brengt waar de Goden om vragen. Zie me bij het altaar van de offers.
+
+fallenking_10_thebrokendoor_0_label=De bron van het Kwaad
+fallenking_10_thebrokendoor_0_description=In je afwezigheid, heb ik de offers verdubbeld en Yum Kaax, de God van Dwaling, heeft me een bericht gestuurd. Ik geloof dat hij jaloers is op  het succes van de demoon die verantwoordelijk is voor deze plek. In ieder geval, hij heeft me geholpen om de bron van het kwaad dat hier spookt te vinden. Het is ondergronds, maar dieper en beter verstopt dan de kamer die jij hebt gevonden. Ben je klaar om oog in oog te staan met deze krachten?
+fallenking_10_thebrokendoor_0_description_refuse=Dan blijf ik wel hier, waar mijn Koning overleed.
+fallenking_10_thebrokendoor_0_description_success=Ah Puch beschermt je, $name. Alsof hij deze plaats niet heeft gemaakt!
+fallenking_10_thebrokendoor_1_label=De Gebroken Deur
+fallenking_10_thebrokendoor_1_description=Is het eindelijk over, dappere $name ?
+fallenking_10_thebrokendoor_1_description_success=Een deur, zoals degene die je heb gevonden, maar gemaakt van onverwoestbaar materiaal en... gebroken. Het moet uitkomen in het universum van waar degene die hier achter zit vandaan komt.! Maar hoe kunnen we hem volgen? Een oceaan van offers zou nog niet eens genoeg zijn om de Goden gunstig te stemmen. $name, ik vrees dat je inspanningen hier eindigen. Op dit moment, in ieder geval.<ret><ret>Maar denk niet dat het voor niets is geweest. Het menselijk geld en wapens die je op de bodem vond laat zien dat de demoon Koning Ixtab wilde gebruiken voor een grote oorlog. En wat hij heeft achtergelaten laat zien dat hij snel is gevlucht toen hij jou zag! Je mag hem dan niet verslagen hebben, maar je dwong hem terug te trekken. Maar weinig mensen kunnen dat zeggen. Ik groet je, $name.<ret><ret>En ik denk dat het eerlijk is dat ik dit aan je geef; Ik heb het gevonden in een de piramide toen je weg was: de kroon die ik gemaakt had voor Koning Ixtab. Niemand anders dan jij verdiend het meer. Wanneer je het draagt kan je onder waten zwemmen zonder te verdrinken, net zoals een kaaiman. Gebruik het goed. En weet ook dat de man die het bezit, herkent wordt in elk Maya land als Koning. Als je jouw eigen stad wilt bouwen, zullen de Maya's je volgen. Vaarwel, $name.
+fallenking_10_thebrokendoor_1_listing=Ik moet de bron van het kwaad ontdekken in de piramide dat onthuld is aan de shaman.

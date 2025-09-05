@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+	"group": "winebasic",
+	"pattern": [
+        "##",
+        "##",
+        "##"
+    ],
+    "key": {
+        "#": {
+            "item": "millenaire:grapes"
+        }
+    },
+    "result": {
+        "item": "millenaire:winebasic"
+    }
+}

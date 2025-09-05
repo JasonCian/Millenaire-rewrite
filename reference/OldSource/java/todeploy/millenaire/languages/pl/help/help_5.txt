@@ -1,0 +1,16 @@
+
+Wersja: 3.4
+<darkblue> Walka i Najazdy
+Millénaire nie zawsze będzie pokojowe: możesz walczyć z osadnikami, osadnicy mogą walczyć między sobą, potwory mogą atakować, a niektóre samotne budynki są zajęte przez bandytów. Pod jakimikolwiek okolicznościami, niektóre zasady się nie zmieniają: <darkblue> Osadnicy są podatni na ataki celowe ( walka wręcz, strzały, mikstury) <black>. Zaś nie są ranieni przez ogień, obrażenia od upadku i kaktusy. Te ograniczenia zostały stworzone by zapobiec zabijanie osadników bez zwracania na gracza uwagi.
+Osadnicy mogą różnić się siłą a także ekwipunkiem, który może z nich uczynić zawziętych wrogów.
+<darkblue> Odradzanie się Osadników.
+Po swojej śmierci, osadnik jest tymczasowo martwy. Martwi osadnicy odradzają się w swoich domach (tracąc ekwipunek). Bo przecież gracz też może się odradzać...
+<darkblue> Atak przez gracza
+Zawsze możesz zaatakować osadnika, ale inni mężczyźni w wiosce rzucą mu się na pomoc. Jesli uda ci się zabić wszystkich w wiosce lub w opuszczonym budynku, skrzynie staną się otwarte i będziesz w stanie zgrabić co się da.
+<darkblue> Bandyci.
+Niektórzy mieszkańcy samotnych budynków zaatakują cię bez ostrzeżenia jeśli podejdziesz. Twoja reputacja z ich kulturą się nie obniży jeśli ich zabijesz. W przeciwieństwie do innych osadników, odradzają się w nocy - spójrz w sekcję "<darkblue> zniszcz wioskę <black>" By zobaczyć jak temu zapobiec.
+<darkblue> Najazdy między Wioskami.
+Wioski w Millénaire mają wobec siebie pozytywne lub negatywne stosunki. Te stosunki mogą zmienić się losowo, i mogę być zmienione poprzez gracza rozmawiającego z wodzami wiosek. Jeśli ich stosunki spadną na wystarczająco niski poziom,a także jedna z wiosek posiada wystarczająco zdolnych do walki mężczyzn, może dojść do najazdu.  Będziesz o tym powiadomiony przez wiadomość. W czasie rajdu, atakujący będą zabijali mężczyzn w wiosce. Jeśli im się uda, ukradną surowce jako łup. W czasie ataku możesz pomagać jednej z stron konfliktu.
+Wrogie sobie wioski mogą opłacić się dla gracza, w celu zwiększenia surowców jednej. Cynicznie, takie najazdy mogą dać nawet przewagę dla gracza kiedy obrońcy zginą.
+<darkblue> Najęcie osadnika.
+Jest możliwe nająć paru osadników jako żołnierzy którzy pomogli by ci w bitwie. Będą za tobą podążać i atakować wrogów.

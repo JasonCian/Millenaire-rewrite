@@ -1,0 +1,22 @@
+//Parameters for the building as a whole
+building.length=8
+building.width=12
+building.buildingorientation=3
+building.max=0
+building.version=2
+building.showtownhallsigns=false
+
+building.icon=sapling
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Hutte de Bûcheron Isolé
+initial.tag=drinking
+initial.tag=leasure
+initial.pathwidth=1
+initial.priority=5
+initial.male=lonelumberman
+initial.female=lonewife
+initial.shop=lonelumberman
+
+upgrade1.priority=100

@@ -1,0 +1,14 @@
+//* Se la traduzione in italiano deve essere aggiornata, ricordati di guardare la "line_1" (prima riga), e di scrivere il numero della nuova versione( la reperisci a sinistra).
+
+
+versione:4.8.0
+<darkblue>I Giapponesi
+Vivono in villaggi religiosi, militari o imperiali, e si distinguono per la loro elegante architettura. Parlano Giapponese, ma i dialoghi saranno tradotti quando il giocatore "imaparerà" la lingua interagendo con loro.
+<darkblue>Oggetti e blocchi unici
+-Coltivano il riso. Il giocatore può chiedere al capo villaggio di imparare come coltivare questo cereale.
+-Come i Normanni, producono edifici con strutture in legno.
+-Usano molto i blocchi di pagliericcio ottenuto dal grano.
+-I loro fabbri forgiano le formidabili spade tachi e gli archi yumi, oltre a tre tipi di buone armature.
+-Usano molto i blocchi di paglia che sono prodotti dal grano.
+-Producono un elegante carta fatta di riso per i muri, per le costruzioni avanzate.
+-I loro fabbri forgiano formidabili spade tachi e archi lunghi yumi, come altri tre tipi di armature molto efficaci.

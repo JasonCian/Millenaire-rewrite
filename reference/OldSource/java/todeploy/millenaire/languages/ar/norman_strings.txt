@@ -1,0 +1,44 @@
+﻿
+culture.norman=النورمان
+
+//Norman:
+villager.abbot=رئيس دير
+villager.carpenter=نجار
+villager.cattleFarmerMale=مربي ماشية
+villager.cattleFarmerFemale=مربية ماشية
+villager.boy=فتى
+villager.girl=فتاة
+villager.teenagerMale=شاب
+villager.teenagerFemale=شابة
+villager.farmer=مزارع
+villager.merchant_viking=تاجر فايكنق
+villager.merchant_weapon=تاجر اسلحة
+villager.merchant_plant=تاجر زرع
+villager.merchant_art=تاجر فني
+villager.merchant_wool=تاجر صوف
+villager.merchant_food=تاجر طعام
+villager.guard=حارس
+villager.guildmaster=قائد رابطة
+villager.knight=فارس
+villager.lady=سيدة
+villager.lumberman=حطاب
+villager.merchant=تاجر
+villager.miner=منقب
+villager.monk=راهب
+villager.priest=كاهن
+villager.seneschal=الحاكم الإقطاعي
+villager.smith=حداد
+villager.wife=امرأة القرية
+
+villager.lonelumberman=حطاب
+villager.lonelumbermantaiga=حطاب
+villager.loneminer=منقب منعزل
+villager.lonemonk=راهب منعزل
+villager.loneabbot=رئيس دير وحيد
+villager.alchemist=كيميائي
+villager.alchemistassistant=كيميائي مساعد
+villager.alchemistapprentice=كيميائي مبتدئ
+villager.bandit=قاطع طريق
+villager.armoredbandit=قاطع طريق مدرع
+villager.felonbaron=بارون مجرم
+villager.felonsoldier=جندي مجرم

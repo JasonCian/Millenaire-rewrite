@@ -1,0 +1,1 @@
+native:Forge;gameNameKey:forge_A0;male:smith;female:Wife;craft:1;chest:1-5;sign:1;shop:forge;tag:forge;moveinpriority:15

@@ -1,0 +1,16 @@
+//Parameters for the building as a whole
+building.length=5
+building.width=8
+building.buildingorientation=3
+building.max=0
+building.reputation=4096
+building.price=128
+building.icon=fence_jungle
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Mehen Kuuch
+initial.priority=1000000
+initial.pathlevel=1
+

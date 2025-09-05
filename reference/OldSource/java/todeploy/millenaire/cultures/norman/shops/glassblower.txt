@@ -1,0 +1,3 @@
+sells=glass,stained_glass_white,stained_glass_yellow,stained_glass_yellow_red,stained_glass_red_blue,stained_glass_green_blue,rosette,dye_white,dye_red,dye_yellow,dye_lightblue
+buys=glass,bone,sand,dye_red,dye_yellow,dye_lightblue
+deliverto=dye_white,dye_red,dye_yellow,dye_lightblue,sand

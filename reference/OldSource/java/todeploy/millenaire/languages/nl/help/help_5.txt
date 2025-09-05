@@ -1,0 +1,28 @@
+version:3.4
+<darkblue>Gevechten en overvallen
+
+Millénaire is niet altijd een vredelievende mod. Je kan met dorpelingen vechten, dorpen kunnen overvallen starten tegen een ander, monsters kunnen het dorp aanvallen en sommige geïsoleerde gebouwen bevatten bandieten. Wat de omstandigheden ook zijn, sommige principes veranderen niet:<darkblue>Dorpelingen zijn kwets voor alleen directe aanvallen (klappen, pijlen en drankjes)<black>. Ze worden niet aangetast door vuur, valschade of cactussen. Deze beperking is ingevoerd om te voorkomen dat de speler de dorpelingen kan vermoorden zonder dat ze weten dat de speler ze aanvalt.
+
+Dorpelingen variëren in sterkte en de spullen die ze dragen kunnen ze veel gevaarlijker maken.
+
+<darkblue>Herspawnen van dorpelingen
+
+Eenmaal gedood is een dorpeling tijdelijk dood. Dode dorpelingen herspawnen in hun huizen (maar ze raken hun spullen kwijt). De speler kan immes ook herspawnen...
+
+<darkblue>Aanval door spelers
+
+Je kan altijd een dorpeling aanvallen, maar andere mannen van het dorp zullen dan helpen met vechten. Krijg je het voor elkaar om alle dorpelingen in een dorp of geïsoleerd gebouw te doden, dan openen alle kisten voor je en kun je de inhoud stelen.
+
+<darkblue>Bandieten
+
+Sommige inwoners van een geïsoleerd gebouw zullen je zonder waarschuwing aanballen als je nadert. Je reputatie met hun cultuur zal niet minder worden als je ze dood. Net zoals andere dorpelingen respawnen ze 's nachts. Kijk bij "<darkblue>een dorp vernietigen<black>" om te zien hoe je dat kan voorkomen.
+
+<darkblue>Overvallen tussen dorpen
+
+Millénaire dorpen hebben een positieve of negatieve relatie met nabijgelegen dorpen. Deze relaties veranderen willekeurig en kunnen worden beïnvloed door de speler die met de dorpsleiders spreekt. Als hun relaties slecht genoeg zijn en één van de dorpen heeft genoeg vechters, kan het een overval op andere dorpen starten. Je wordt op de hoogte gestelt met een bericht. Tijdens een overval, vallen de vechters het dorp aan en proberen alle mannen van het verdedigende dorp af te slachten. Als dat lukt, zullen ze wat grondstoffen meenemen als buit. Je kan een kant kiezen tijdens een overval.
+
+Het kan nuttig zijn om een dorp dat je leuk vindt over te halen om zijn buren aan te vallen zodat ze meer grondstoffen krijgen. Cynisch gezien, overvallen uitlokken kan jou ook helpen wat buit te krijgen als de verdedigers dood zijn.
+
+<darkblue>Een dorpeling inhuren
+
+Het is mogelijk om sommige dorpelingen in te huren zoals de soldaten en de houthakkers om je te helpen in gevechten. Ze volgen je en vechten met je tegen vijanden.

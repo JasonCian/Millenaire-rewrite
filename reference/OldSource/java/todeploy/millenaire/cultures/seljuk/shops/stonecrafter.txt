@@ -1,0 +1,2 @@
+sells=mudbrick,mudbrick_smooth,mudbrick_seljuk_ornamented,mudbrick_seljuk_decorated,brickmould
+buys=sand,sandstone,mudbrick

@@ -1,0 +1,34 @@
+version:3.4
+<darkblue>Réputation & chef du village
+
+Chaque village Millénaire a une opinion de vous, neutre au début et qui évolue suivant vos actions. Cette réputation est très importante : de nombreuses récompenses ne sont possibles qu’avec une bonne réputation, et si votre réputation devient trop mauvaise, les villageois peuvent refuser de commercer avec vous. Vous pouvez vérifier votre réputation en parlant (<darkblue>clic-droit<black>) avec le chef du village.
+
+La principale manière d’améliorer votre réputation est de commercer avec le village. Les ventes comme les achats améliorent votre réputation proportionnellement au prix. Vous pouvez également l’améliorer en réalisant des missions pour eux. À l’inverse, attaquer un villageois ou échouer à certaines missions ternira votre réputation.
+
+Vous avez également une <darkblue>réputation avec chaque culture<black>. Cette réputation est affectée par tous vos échanges avec des villages de cette culture, et affecte vos échanges avec tous les autres villages de la culture en question. En clair, si vous avez très bonne réputation auprès d’un village normand les autres villages normands vous aimeront (un peu) plus également. Vous pouvez vérifier votre réputation avec chaque culture dans l’écran d’information Millénaire.
+
+<darkblue>Actions nécéssitant une certaine réputation
+
+<darkblue>Achat du parchemin du village
+
+Avec une réputation suffisante, vous pouvez acheter le parchemin du village auprès du chef. Ce parchemin condense les informations données par les différents panneaux du village.
+
+<darkblue>Achat d'une maison
+
+Une fois votre réputation suffisante, vous pouvez acheter une maison (ou un terrain à construire) en parlant au chef du village. Votre maison sera construite par le village dès la construction en cours finie. Contrairement au reste de l'espace autour du village, ce bâtiment vous appartient et vous pouvez le personaliser à volonté.
+
+<darkblue>Apprentissage d'une culture
+
+Les civilisations cultivant des plantes ajoutées à Minecraft (riz, maïs, épices...) peuvent vous apprendre à les faire pousser. Adressez-vous au chef du village une fois votre réputation suffisante.
+
+<darkblue>Achat d'objets supplémentaires
+
+Certains objets très précieux nécessitent d’avoir une bonne réputation auprès du village. Si vous n'avez pas la réputation nécessaire ce sera indiqué.
+
+<darkblue>Missions supplémentaires
+
+Certaines missions, dont la Quête de la Création, ne sont accessibles qu’avec une réputation suffisante (voir la section <darkblue>« quêtes »<black>).
+
+<darkblue>Devenir chef d'une culture
+
+Une fois la réputation maximale obtenue (<darkblue>« chef reconnu »<black>) vous pourrez fonder un village dont vous serez le chef (voir la section <darkblue>« créer un village »<black>)

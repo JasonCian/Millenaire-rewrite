@@ -1,0 +1,1 @@
+native:Gannaa baagaana;gameNameKey:sugarplantation_A0;tag:sugarplantation;sugar:10-30;sign:1

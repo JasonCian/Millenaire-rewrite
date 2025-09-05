@@ -1,0 +1,14 @@
+version:4.8.0
+<darkblue>The Japanese
+
+They live in religious, military, trading or imperial villages, and are distinguished by their elegant architecture. They speak Japanese, but their dialogue will be translated as the player "learns" their language by speaking with them.
+
+<darkblue>Unique objects and blocks
+
+-They grow rice. The player may ask the chef to teach him how to cultivate this cereal crop.
+-They cook delicious udon noodles from wheat and chicken.
+-In trading villages, the brewers produce sake from rice
+-Like the Normans, they produce timbered buildings.
+-They use a lot of thatch blocks manufactured from wheat.
+-They produce elegant rice paper walls for their advanced buildings.
+-Their metalsmiths forge formidable tachi swords and yumi longbows, as well as three types of very effective armour.

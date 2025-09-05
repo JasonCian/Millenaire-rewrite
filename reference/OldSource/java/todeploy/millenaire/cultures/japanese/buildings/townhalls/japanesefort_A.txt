@@ -1,0 +1,34 @@
+//Parameters for the building as a whole
+building.length=37
+building.width=37
+building.max=0
+building.icon=japanesebluehelmet
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Bousai
+initial.priority=600
+initial.male=japanese_samuraigeneral
+initial.female=japanese_bravewoman
+initial.tag=oven
+initial.tag=leasure
+initial.shop=japanesetownhall
+initial.signs=0,5,3,1,2,4,6,8,7
+
+//Parameters for specific upgrades
+upgrade1.startlevel=-3
+
+upgrade2.priority=580
+
+upgrade3.priority=560
+
+upgrade4.priority=540
+
+upgrade5.priority=520
+
+upgrade6.priority=500
+upgrade6.rebuildpath=true
+
+upgrade7.priority=480
+upgrade7.rebuildpath=false
+

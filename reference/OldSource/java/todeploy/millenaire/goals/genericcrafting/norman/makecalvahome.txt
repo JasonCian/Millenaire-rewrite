@@ -1,0 +1,36 @@
+
+//tag nécéssaire à la réalisation de l'action
+//extra tag required for the destination to be valid
+requiredTag=Alembic
+
+priority=50
+
+//en/in millisecondes
+duration=5000
+
+//objets tenus par le villageois
+heldItems=cider,calva
+
+//chaque action consome tous les objets "input" et produit tous les "output"
+//each action will require and use all the inputs and produce all the outputs
+input=cider,4
+output=calva,1
+
+//s'il y a plus d'objets dans le batiment que ça, arrêter le but
+//if more than that number of item is present in building, stop goal
+buildinglimit=calva,5
+
+
+//pas plus de X villageois fesant ce but dans le même bâtiment en même temps
+//no more than X villagers doing this goal in the same building at the same time
+maxsimultaneousinbuilding=1
+
+
+//son à jouer quand un objet est fabriqué
+//sound to play once an object is done
+sound=glass
+
+tag=tag_producealcohol
+
+sentencekey=makecalva
+labelkey=makecalva

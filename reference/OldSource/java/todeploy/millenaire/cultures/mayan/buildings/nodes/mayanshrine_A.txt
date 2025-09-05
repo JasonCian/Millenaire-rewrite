@@ -1,0 +1,19 @@
+//Parameters for the building as a whole
+building.length=7
+building.width=5
+building.buildingorientation=3
+building.farfromtag=pathnode,30
+building.icon=mayanstatue
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Wayib
+initial.priority=750
+initial.pathlevel=1
+initial.tag=pathnode
+initial.tag=leasure
+
+//Parameters for specific upgrades
+upgrade1.priority=70
+

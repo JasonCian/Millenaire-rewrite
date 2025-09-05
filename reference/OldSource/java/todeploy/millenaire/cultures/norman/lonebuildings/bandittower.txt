@@ -1,0 +1,26 @@
+name=Tour des bandits
+weight=10
+radius=20
+carriesraid=true
+
+mindistancefromspawn=600
+
+//Vanilla biomes
+biome=ForestHills
+biome=TaigaHills
+biome=ExtremeHills
+biome=ExtremeHills M
+biome=ExtremeHills+
+biome=ExtremeHills+ M
+biome=Roofed Forest
+biome=Roofed Forest M
+
+//biomes o'plenty
+biome=alps
+biome=crag
+biome=highland
+biome=moor
+biome=mountain
+
+//starting buildings=
+centre=bandittower

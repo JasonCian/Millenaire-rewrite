@@ -1,0 +1,22 @@
+//Parameters for the building as a whole
+building.length=11
+building.width=12
+building.farfromtag=leasure,30
+building.icon=wood
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Soushi
+initial.priority=500
+initial.tag=praying
+initial.tag=leasure
+
+//Parameters for specific upgrades
+upgrade1.priority=50
+upgrade1.pathlevel=1
+
+upgrade2.priority=45
+upgrade2.pathlevel=2
+
+upgrade3.priority=40
+

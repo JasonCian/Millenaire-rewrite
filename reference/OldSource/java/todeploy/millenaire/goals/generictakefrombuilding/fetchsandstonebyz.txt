@@ -1,0 +1,15 @@
+// mc ++
+
+priority=100
+priorityrandom=20
+
+buildingtag=centralworkshop
+
+helditems=sandstone
+
+sentencekey=takefrombuilding
+labelkey=takefrombuilding
+
+collect_good=sandstone,256
+
+minimumpickup=128

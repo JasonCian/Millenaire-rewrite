@@ -1,0 +1,16 @@
+//* La parte antes del ";" Es el título, después de eso va la descripción.
+
+
+0;Extraño;Saludos. ¿Querrías algo de ayuda para sobrevivir en este gélido yermo?
+4*64;Conocido;Tu presencia no ha pasado desapercibida. Sigue siendo pacífico y nosotros haremos lo mismo.
+8*64;Cara Conocida;Ya te hemos visto antes por aquí. Puedes quedarte por un tiempo y entrar en calor.
+16*64;Visitante Regular;Nos alegramos de volver a verte, $name.
+32*64;Compañero Superviviente;¡Ah, está bien ver que todavía estás vivo y sobrevives bien!
+64*64;Comerciante Favorito;Todo el mundo se alegra de verte. ¿Esta vez has traído contigo algo emocionante?
+2*64*64;Amigo de la Aldea;Has demostrado ser un digno compañero. Aquí puedes encontrar muchos amigos, $name.
+4*64*64;Hermano de Sangre;Has hecho mucho para ayudarnos y nos alegra poder agradecerte tus esfuerzos. Tienes nuestra confianza.
+8*64*64;Uno de los Nuestros;Los espíritus nos han bendecido con tu presencia. Han decretado que ahora eres parte de nuestra familia, y creo que han tomado la decisión correcta.
+32*64*64;Líder Natural;$name, te has ganado la confianza y el respeto del pueblo inuit. Te seguirán a cualquier parte.
+-64;Molestia;Por favor, no tenemos tiempo para gente como tú.
+-4*64;Forastero Indeseable;Desconfiamos de gente como tú. Solo vete y déjanos en paz.
+-16*64;Enemigo Público;Te hemos dado muchas oportunidades para estar en comunión con nosotros, pero has rechazado todos nuestros esfuerzos. Déjanos estar y espera a que los espíritus no se te lleven mientras recorres los helados páramos .

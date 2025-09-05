@@ -1,0 +1,217 @@
+﻿//normanbasic:
+
+guardwife_0_label=丈夫的午餐
+guardwife_0_description=我的丈夫 $guard_villagername$是個守衛。他現在肯定餓壞了，但我卻忘記拿給他午餐了！可以請你幫我把黑血香腸帶給他嗎？
+guardwife_0_description_success=謝謝你，你真是個好人！
+guardwife_0_description_refuse=看來你真的不是樂於助人的那類型。
+guardwife_1_label=好餓啊！
+guardwife_1_description=我老婆又忘記我的午餐了！噢，這女人真是的！
+guardwife_1_description_success=你真是個大好人。
+guardwife_1_description_refuse=我再也不相信陌生人了。
+guardwife_1_description_timeup=你沒有準時送達食物。<ret>$guard_villagename$裡的村民會對此耿耿於懷的。
+guardwife_1_listing=將午餐送給在$guard_villagename$村裡的$guard_villagername$
+
+lumbermancider_0_label=好渴！
+lumbermancider_0_description=砍材可真的是個很辛苦的工作啊...<ret>要是能有個人能帶給我一瓶蘋果酒就好了！
+lumbermancider_0_description_success=哦哦，我正需要它！<ret>真的太感謝你啦，我的好兄弟！
+lumbermancider_0_description_refuse=下次你需要木材的時候別指望我會給你！
+
+lonelumbermancalva_0_label=需要酒精！
+lonelumbermancalva_0_description=這可怕的森林真的是超冷的啊，<ret>更糟的是我竟然找不到釀造卡爾瓦酒<ret>的蘋果！要是有酒的話我肯定能連乾幾瓶！
+lonelumbermancalva_0_description_success=太神奇啦！讓我們來喝幾杯慶祝一下！
+lonelumbermancalva_0_description_refuse=一年就那麼一個訪客，而且那唯一的<ret>一位甚至連一瓶酒也不肯分享。
+
+loneminerfood_0_label=我需要一頓真正的大餐
+loneminerfood_0_description=距離上次真正的一餐，<ret>我已經有幾個月沒吃到了。<ret>我恨透了天天都在這裡辛苦的挖礦，<ret>卻只能吃乾麵包充飢！
+loneminerfood_0_description_success=這才是真正的諾曼人的一餐！
+loneminerfood_0_description_refuse=好吧，只好繼續啃乾麵包了...
+
+knightstonedelivery_0_label=需要石頭
+knightstonedelivery_0_description=$name，我需要更多的石頭來加強我們的$startvillager_villagename$防禦！<ret>礦工$miner_villagername$，<ret>在距離這裡$miner_distance$方向為$miner_direction$的山丘裡工作，<ret>他曾經答應給我大量的石頭，<ret>至今卻從未送來任何東西。<ret>你能幫我看看他正在幹甚麼嗎？
+knightstonedelivery_0_description_success=祝你旅程愉快！
+knightstonedelivery_0_description_refuse=好吧，我會派我的手下去找的。
+knightstonedelivery_1_label=搜集石頭
+knightstonedelivery_1_description=噢，對！給$startvillager_villagename$的石頭！<ret>我正準備運給他呢。我希望你有足夠的<ret>物品空間，這裡可是整整有四組呢！
+knightstonedelivery_1_description_success=好，繼續採礦吧！
+knightstonedelivery_1_description_refuse=你幹麻大老遠的跑來告訴我這件事...
+knightstonedelivery_1_description_timeup=你並沒有在按時找到 $miner_villagername$。
+knightstonedelivery_1_listing=去找礦工 $miner_villagername$，<ret>他住在$startvillager_villagename$村<ret>$startvillager_miner_direction$方$startvillager_miner_distanceshort$的地方。<ret>問他關於 $startvillager_villagername$的石頭的消息。
+knightstonedelivery_2_label=交付石頭
+knightstonedelivery_2_description=你拿到那些石頭了嗎？太好了！<ret>你對諾曼人的貢獻我們會銘記在心的。
+knightstonedelivery_2_description_success=我向你表示由衷的感激。
+knightstonedelivery_2_description_refuse=叛徒！你該高興你現在還沒死掉。
+knightstonedelivery_2_description_timeup=你並沒有按時向$startvillager_villagername$ 繳交石頭。
+knightstonedelivery_2_listing=返回 $startvillager_villagename$ 那裡，<ret>並向 $startvillager_villagername$　繳交石頭。
+
+abbotbooksdelivery_0_label=送信
+abbotbooksdelivery_0_description=我的孩子$name啊，很高興看到你。<ret>我的研究非常需要一些珍貴的書籍，<ret>但它被保存在偏遠的 $loneabbot_villagename$村的修道院裡。<ret>你能傾聽一個老人的請求，<ret>去見我的老朋友 $loneabbot_villagername$嗎？<ret>我會幫你寫封介紹信的。<ret>你會在距離 $loneabbot_distance$，方向$loneabbot_direction$的<ret>修道院找到他。
+abbotbooksdelivery_0_description_success=上帝會在旅途中庇護你的。
+abbotbooksdelivery_0_description_refuse=唉，現在的年輕人真是冷漠啊...
+abbotbooksdelivery_1_label=送達信件
+abbotbooksdelivery_1_description=一封從我老朋友 $startvillager_villagername$送來的信？<ret>太棒了！我當然會借他那些書的。<ret>替我向他傳達我的祝福，我的孩子。
+abbotbooksdelivery_1_description_success=一路平安，我的孩子。
+abbotbooksdelivery_1_description_refuse=上帝會指示另一條路的。
+abbotbooksdelivery_1_description_timeup=你並沒有按時送信給 $loneabbot_villagername$。
+abbotbooksdelivery_1_listing=將從 $startvillager_villagername$拿到<ret>的信送給 $loneabbot_villagername$。<ret>他的修道院距離為$startvillager_loneabbot_distanceshort$ <ret>方向為 $startvillager_loneabbot_direction$ 的$startvillager_villagename$村。
+abbotbooksdelivery_2_label=送達書籍
+abbotbooksdelivery_2_description=我要的書！你的行動可真快啊，我的孩子！<ret>你在另一個世界一定會有福報的，但現在請你先收下這點小心意吧。
+abbotbooksdelivery_2_description_success=上帝與你同在。
+abbotbooksdelivery_2_description_refuse=你為甚麼專程跑回來嘲諷我，我的孩子？
+abbotbooksdelivery_2_description_timeup=你並沒有按時將書籍交給 $startvillager_villagername$ 。
+abbotbooksdelivery_2_listing=把從$loneabbot_villagename$ 那裡拿到的書，拿給修道院院長 $startvillager_villagername$，<ret>他住在$startvillager_villagername$村裡。
+
+//hindibasic:
+
+rajadiamondsword_0_label=機密任務
+rajadiamondsword_0_description=你好，$name。你已經證明你是$startvillager_villagename$村的朋友了。<ret>而我正好需要一個可信賴的人來完成特殊任務。$general_villagername$ 將軍已經證明他是個精明能幹且夠忠誠的士兵了，<ret>因此是時候獎勵他了。你請你將這把價值連城的鑽石劍交給他嗎？他的堡壘在$general_villagename$，<ret>離這裡的距離是$general_distance$，方向是$general_direction$ 。
+rajadiamondsword_0_description_success=請你誓死保護這把劍！
+rajadiamondsword_0_description_refuse=我不會忘記這件事的。
+rajadiamondsword_1_label=交付寶劍
+rajadiamondsword_1_description=陌生人，你來這裡幹甚麼？
+rajadiamondsword_1_description_success= $startvillager_villagername$殿下的行為讓我感到十分的光榮！<ret>他是個偉大的統治者。我由衷的感謝你和殿下。
+rajadiamondsword_1_description_refuse=沒有榮譽感的小偷！
+rajadiamondsword_1_description_timeup=你並沒有按時將劍交給$general_villagername$。印度王和將軍都恨死你了。
+rajadiamondsword_1_listing=將鑽石劍交給 $general_villagername$，他住在$general_villagename$的要塞裡。
+
+adivasifarmdelivery_0_label=貨運的需求
+adivasifarmdelivery_0_description=在這地方，我們只有自己種的米和薑黃，其他甚麼都沒有，<ret>生活得好苦啊...你能幫幫我們這些可憐的百姓嗎？<ret>$peasant_villagername$村的農夫表示他願意用肉和rasgulla來交換彼此的物資。<ret>如果你願意把這些貨物運到他們的村莊$peasant_villagename$，<ret>我們會很感謝你的。那裡的距離大概有$peasant_distance$，方向是在$peasant_direction$。
+adivasifarmdelivery_0_description_success=Shukriya(印度致敬語)，我的朋友
+adivasifarmdelivery_0_description_refuse=沒人想幫我們這些窮人...
+adivasifarmdelivery_1_label=遞送作物
+adivasifarmdelivery_1_description=啊，你是從$startvillager_villagername$來的嗎？<ret>是啊，我有些貨物要給他們，我現在就去拿！
+adivasifarmdelivery_1_description_success=要記得：這農場離這有$startvillager_distanceshort$米，方向是$startvillager_direction$。
+adivasifarmdelivery_1_description_refuse=好吧，看來他們真不走運。
+adivasifarmdelivery_1_description_timeup=你並沒有按時向$peasant_villagername$遞交貨物。
+adivasifarmdelivery_1_listing=去$peasant_villagename$村，交付來自阿瓦西農場的$peasant_villagername$的貨物。
+adivasifarmdelivery_2_label=遞送貨物
+adivasifarmdelivery_2_description=Shukriya(印度致敬語)，$name！這些貨物很受歡迎啊！<ret>我想$peasant_villagername$待你還算客氣吧？
+adivasifarmdelivery_2_description_success=願女神庇祐你。
+adivasifarmdelivery_2_description_refuse=偷窮人的東西不是什麼光榮的事情啊。
+adivasifarmdelivery_2_description_timeup=你並沒有按時將貨物交給 $startvillager_villagername。
+adivasifarmdelivery_2_listing=將從$peasant_villagename$拿來的貨物交給$startvillager_villagername$的農場，<ret>位於距離有$peasant_startvillager_direction$，方向是 $peasant_startvillager_distance$ 的$peasant_villagename$村。
+
+traderdiamonds_0_label=遞送珠寶
+traderdiamonds_0_description=你好，$name。我聽說你是我們印度人值得信賴的朋友，所以我有個重要的送貨任務要給你做。<ret>在$rani_villagename$村的可愛王妃$rani_villagername$向我買了一些價值連城的珠寶首飾。<ret>你能幫我把這些東西交到她的宮殿嗎？宮殿離這裡有$rani_distance$遠，<ret>方向是$rani_direction$。你可以自己拿兩個寶石當做酬勞。
+traderdiamonds_0_description_success=不要給任何任看到這些寶石！我不想要讓他們被偷走。
+traderdiamonds_0_description_refuse=我想這任務對你來說太危險了，對吧？
+traderdiamonds_1_label=遞送鑽石
+traderdiamonds_1_description=終於啊，我都等的不耐煩了。$startvillager_villagername$應該不想看到我生氣的樣子。
+traderdiamonds_1_description_success=我等下要出去試戴它們！
+traderdiamonds_1_description_refuse=我詛咒你被皇家大象踩死！
+traderdiamonds_1_description_timeup=你並沒有準時送給$rani_villagername$王妃鑽石，<ret>你在印度村莊之間的聲望會大幅下降。
+traderdiamonds_1_listing=幫貿易商$startvillager_villagername$ 傳遞鑽石給住在$rani_villagename$村的$rani_villagername$王妃。
+
+//mystery basic:
+
+normanrasgullas_0_label=生病的孩子
+normanrasgullas_0_description=我的兒子$child_villagername$最近臉色蒼白。他說他吃不下一個黑血香腸或燉牛肚。<ret>能請教你有沒有甚麼建議嗎？你看起來好像閱歷很豐富的樣子。
+normanrasgullas_0_description_success=這甜點好好吃哦！我想我可以自己吃掉它。
+normanrasgullas_0_description_refuse=我會讓他試試卡爾瓦酒的......
+
+mayanlumbermanaxe_0_label=沮喪的伐木工
+mayanlumbermanaxe_0_description=這把斧頭真是爛啊，為甚麼馬雅工匠不能做個真正像樣點的斧頭呢？<ret>有個好工具的話我的工作效率會更好的！
+mayanlumbermanaxe_0_description_success=一拿起這把斧頭就感受到它的神奇力量了啊！難道這是神製造的嗎？
+mayanlumbermanaxe_0_description_refuse=還是繼續去工作吧。
+
+
+
+losttapestry_0_label=遺失的掛毯
+losttapestry_0_description=你好啊$name！我在野外撿到了一個掛毯，你能幫我找它的物主嗎？
+losttapestry_0_description_success=謝謝你，$name！
+losttapestry_0_description_refuse=你好過份！我要跟媽媽告狀！
+losttapestry_1_label=失蹤的掛毯
+losttapestry_1_description=我弄丟了一個掛毯！不知道有沒有人看到它？
+losttapestry_1_description_success=謝謝你幫我找到它。
+losttapestry_1_description_refuse=我知道你一定瞞著某些事，對吧？
+losttapestry_1_listing=找到掛毯的失主。
+
+spiders_0_label=不知去向的朋友
+spiders_0_description=一個叫$miner_villagername$的朋友每天都會定時來找我奇怪的是他今天一直沒來 <ret>-- 事實上他已經遲到好幾個小時了。我承認我有點擔心他啊，<ret>$name。$miner_villagername$ 老是花很多時間在挖礦上，而我想你也知道那工作有多危險。<ret>所以要是你剛好要去挖礦的話，能請你順便幫我找他嗎？
+spiders_0_description_success=謝謝你，我的朋友！
+spiders_0_description_refuse=我相信他一定在某處。
+spiders_1_label=我很高興你終於找到我了。
+spiders_1_description=啊噢...在我探索這附近的洞窟時，有一隻蜘蛛狠狠的咬了我一口。<ret>我肯定我已經中劇毒了; 請你一定要幫我。<ret>請告訴我老婆$wife_villagername$這件事，她可以幫助我的。
+spiders_1_description_success=請快一點...我有點頭暈了... 
+spiders_1_description_refuse=你居然狠心把我丟在這裡？呃啊。
+spiders_1_listing=在採礦時找到$miner_villagername$。
+spiders_2_label=製作解藥
+spiders_2_description=救我丈夫的事情不能再拖延了！我知道有個解藥能夠處理這種毒，<ret>但在我做出解藥之前，我需要一些材料：<ret>我需要兩個棕色香菇、兩個紅色香菇和一些烏賊墨汁。
+spiders_2_description_success=盡可能快點，$name。
+spiders_2_description_refuse=好吧，我會自己去找的！
+spiders_2_listing=向$wife_villagername$尋求解藥。
+spiders_3_label=$miner_villagername$的解藥
+spiders_3_description=在限制時間之內把$miner_villagername$的解藥帶給$miner_villagername$。
+spiders_3_description_success=噢，我就知道$wife_villagername$能夠救我！<$miner_villagername$ 喝下了解藥。> <ret>每當我陷入麻煩的時候，我的老婆$wife_villagername$，呃，她總是會想盡辦法幫我脫困的。
+spiders_3_description_refuse=可惡，你是想讓我死嗎？
+spiders_3_description_timeup=你並沒有準時將$miner_villagername$的解藥拿給 $miner_villagername$。
+spiders_3_listing=帶著$miner_villagername$的解藥拿給$miner_villagername$。
+
+findtheegg_0_label=蒐集雞蛋
+findtheegg_0_description=這附近的雞也太多了吧！為了阻止他們繼續繁殖，<ret>我們要蒐集牠們的蛋...能請你幫個忙嗎？
+findtheegg_0_description_success=幹得好，$name。我會把這些蛋拿回家裡，<ret>那裡比較適合孵化！請收下我感激的謝禮。
+findtheegg_0_description_refuse=在你拿到更多蛋之後再來找我吧！
+
+feathercrafter_0_label=更多羽毛
+feathercrafter_0_description=我老婆想為窮困的百姓們做些枕頭，而做那些枕頭需<ret>要很多的羽毛。能請你讓出一些羽毛給我們嗎？
+feathercrafter_0_description_success=幹得好，$name。我會拿給我老婆的，真的很謝謝你。
+feathercrafter_0_description_refuse=又要用木枕了。
+
+watersample_0_label=奇怪的報告
+watersample_0_description=我的老婆從村民中收到一些報告，說是我們的孩子喝了井水<ret>之後都感到身體不適。請你拿著這水桶去幫我取個水的樣本吧。
+watersample_0_description_success=請快一點...不要讓拖到我們的孩子病倒。
+watersample_0_description_refuse=我先警告你，我會讓你以後的任務變得非常危險。
+watersample_1_label=水的樣本
+watersample_1_description=你拿到井水的樣本了嗎？
+watersample_1_description_success=謝謝你！這些樣本能幫助我找到問題的根源。
+watersample_1_description_refuse=我先警告你，下次你向我尋求幫助的時候，<ret>我會讓你付出代價的，$name！
+watersample_1_description_timeup=你並沒有按時將$startvillager_villagername$要的水拿給他。
+watersample_1_listing=住在$startvillager_villagename$村的$startvillager_villagername$希望你帶水的樣本給他。
+
+lordssword_0_label=斷劍
+lordssword_0_description=我的老公$knight_villagername$又弄斷他的劍了！你能幫我把這把新劍交給他嗎？
+lordssword_0_description_success=謝謝你，大好人！
+lordssword_0_description_refuse=看來你真的不是那種樂於助人的類型呢。
+lordssword_1_label=丟失的劍
+lordssword_1_description=我的老婆$startvillager_villagename$說她有一把劍要交給我，你帶來了嗎？
+lordssword_1_description_success=謝謝你，你又再度的化險為夷了。
+lordssword_1_description_refuse=要是我沒有劍，我要怎麼幫你戰鬥啊？
+lordssword_1_description_timeup=你並沒有按時將劍交給$knight_villagername$。這裡的村民會對此耿耿於懷的。
+lordssword_1_listing=住在$startvillager_villagename$村的$startvillager_villagername$希望你幫他拿他的新劍。
+
+sweettrader_0_label=表妹的生日
+sweettrader_0_description=明天就是我的小表妹$girl_villagername$她的生日了。能請你帶這個蛋糕給她嗎？
+sweettrader_0_description_success=謝謝你的幫忙。
+sweettrader_0_description_refuse=你真不夠意思！
+sweettrader_1_label=[遞送蛋糕]
+sweettrader_1_description=沒人想來替我慶生...
+sweettrader_1_description_success=謝謝你！太謝謝你了！
+sweettrader_1_description_refuse=沒有人喜歡我。
+sweettrader_1_listing=帶一個蛋糕給住在$startvillager_villagename$村的$girl_villagername$來幫她慶生。
+
+fishingfrenzy_0_label=瘋狂釣魚
+fishingfrenzy_0_description=H你好，我是$startvillager_villagername$。釣魚是件很耗時的工作，<ret>而我不知道今天能不能釣到今天應有的數量。你可以幫我一下嗎？
+fishingfrenzy_0_description_success=謝謝你，我想四條魚應該就夠了。<ret>把釣到的魚拿給我老婆，她會給你報酬的。
+fishingfrenzy_0_description_refuse=我可以理解，我們今天都很忙呢。
+fishingfrenzy_1_label=瘋狂釣魚
+fishingfrenzy_1_description=你一定是$startvillager_villagername$跟我提過的那個旅行者，你有抓到魚了嗎？
+fishingfrenzy_1_description_success=太棒了，這些魚看起來挺不錯的呢。村裡的人會很感激你的。
+fishingfrenzy_1_description_refuse=不適合當魚夫是吧？噢，好吧，我想你的專長應該是在其他方面。
+fishingfrenzy_1_description_timeup=你並沒有準時抓到魚，$startvillager_villagename$村的村民都知道了你的醜事。
+fishingfrenzy_1_listing=抓到四條魚並交給$wife_villagername$
+
+
+architectwife_0_label=老公的午餐
+architectwife_0_description=我老公$architect_villagername$是位建築師。這個時間他應該已經餓了，<ret>但我卻忘記讓他帶便當了！你能幫我把這條魚拿給他嗎？
+architectwife_0_description_success=謝謝你，大好人！
+architectwife_0_description_refuse=看來你真的不是那種樂於助人的類型呢。
+architectwife_1_label=好餓！
+architectwife_1_description=我老婆又忘記我的便當了！噢，這女人真是的！
+architectwife_1_description_success=你真是太好心了。
+architectwife_1_description_refuse=我再也不相信陌生人了。
+architectwife_1_description_timeup=你並沒有按時將食物送過去，$architect_villagename$村的村民會對此耿耿於懷的。
+architectwife_1_listing=給住在$architect_villagename$村的$architect_villagername$他的午餐。
+
+lumbermanwine_0_label=好渴！
+lumbermanwine_0_description=砍材可真的是個很辛苦的工作啊...<ret>要是能有個人能帶給我一瓶葡萄酒就好了！
+lumbermanwine_0_description_success=哦哦，我正需要它！<ret>真的太感謝你啦，我的好兄弟！
+lumbermanwine_0_description_refuse=下次你需要木材的時候別指望我會給你！

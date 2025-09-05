@@ -1,0 +1,25 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "millenaire:cider"
+    ]
+  },
+  "criteria": {
+    "has_grapes": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "millenaire:ciderapple"
+          }
+        ]
+	  }
+    }
+  },
+  "requirements": [
+    [
+      "has_grapes"
+    ]
+  ]
+}

@@ -1,0 +1,40 @@
+namelist=loneinns
+name=Auberge isolée
+icon=bed_red
+weight=10
+radius=15
+
+//Vanilla biomes
+biome=ExtremeHills
+biome=ExtremeHills M
+biome=ExtremeHills+
+biome=ExtremeHills+ M
+biome=Taiga
+biome=Taiga M
+biome=Forest
+biome=Flower Forest
+biome=Plains
+biome=Sunflower Plains
+
+//biomes o'plenty
+biome=alps
+biome=bamboo forest
+biome=boreal forest
+biome=coniferous forest
+biome=crag
+biome=dead forest
+biome=eucalyptus forest
+biome=grove
+biome=highland
+biome=maple woods
+biome=moor
+biome=mountain
+biome=ominous woods
+biome=redwood forest
+biome=shield
+biome=snowy coniferous forest
+biome=snowy forest
+biome=woodland
+
+//starting buildings=
+centre=loneinn

@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:writable_book"
+        },
+        "title": {
+            "translate": "advancements.maitreapenser.name"
+        },
+        "description": {
+            "translate": "advancements.maitreapenser.desc"
+        }
+    },
+    "parent": "millenaire:thequest",
+    "criteria": {
+        "maitreapenser": {
+            "trigger": "maitreapenser"
+        }
+    }
+}

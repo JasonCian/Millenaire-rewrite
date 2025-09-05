@@ -1,0 +1,27 @@
+//Note pour les utilisateurs de Windows: si vous voyez le fichier entier sur une seule ligne, ouvrez-le avec PSPAd ou UltraEdit plutôt que Notepad
+
+//Note to Windows users: if you see the entire file in one line, open it using PSPad or UltraEdit instead of Notepad
+
+priority=500
+
+gatherBlockState=millenaire:leaves_appletree;age=3,check_decay=false,decayable=true
+
+resultingBlockState=millenaire:leaves_appletree;age=0,check_decay=false,decayable=true
+
+helditems=ciderapple
+
+harvestitem=ciderapple,100
+
+buildinglimit=ciderapple,512
+
+buildingTag=lumbermanorchard
+
+maxsimultaneousinbuilding=1
+
+//the apples go in the orchard, not in the villager's inventory
+collectInBuilding=true
+
+duration=4000
+
+sentencekey=gatherciderapples
+labelkey=gatherciderapples

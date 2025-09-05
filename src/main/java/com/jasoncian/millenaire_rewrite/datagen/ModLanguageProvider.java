@@ -41,7 +41,19 @@ public class ModLanguageProvider extends LanguageProvider {
     }
 
     private void addEnglishTranslations() {
-        // Creative Tab
+        // Creative Tabs
+        add("creativetab.millenaire_rewrite.blocks", "Millenaire Blocks");
+        add("creativetab.millenaire_rewrite.norman", "Norman Culture");
+        add("creativetab.millenaire_rewrite.byzantine", "Byzantine Culture");
+        add("creativetab.millenaire_rewrite.japanese", "Japanese Culture");
+        add("creativetab.millenaire_rewrite.mayan", "Mayan Culture");
+        add("creativetab.millenaire_rewrite.indian", "Indian Culture");
+        add("creativetab.millenaire_rewrite.seljuk", "Seljuk Culture");
+        add("creativetab.millenaire_rewrite.inuit", "Inuit Culture");
+        add("creativetab.millenaire_rewrite.food", "Millenaire Foods");
+        add("creativetab.millenaire_rewrite.misc", "Millenaire Misc");
+
+        // Legacy Creative Tab (keep for compatibility)
         add("creativetab.millenaire_rewrite", "Millenaire Rewrite");
 
         // ================ Currency System ================
@@ -274,13 +286,13 @@ public class ModLanguageProvider extends LanguageProvider {
         add("item.millenaire_rewrite.wand.creative.tooltip", "Manage crop permissions and chest locks");
 
         // Debug wand messages
-        add("debug.millenaire_rewrite.wand.position", "Position: %d, %d, %d");
+        add("debug.millenaire_rewrite.wand.position", "Position: %%d, %%d, %%d");
         add("debug.millenaire_rewrite.wand.creative.help",
                 "Creative Wand - Right-click to manage crop permissions and chest locks");
-        add("debug.millenaire_rewrite.wand.block_info", "Block: %s at %d, %d, %d");
-        add("debug.millenaire_rewrite.wand.summoning.use", "Summoning Wand activated at %d, %d, %d");
-        add("debug.millenaire_rewrite.wand.negation.use", "Negation Wand activated at %d, %d, %d");
-        add("debug.millenaire_rewrite.wand.creative.use", "Creative Wand activated at %d, %d, %d");
+        add("debug.millenaire_rewrite.wand.block_info", "Block: %s at %%d, %%d, %%d");
+        add("debug.millenaire_rewrite.wand.summoning.use", "Summoning Wand activated at %%d, %%d, %%d");
+        add("debug.millenaire_rewrite.wand.negation.use", "Negation Wand activated at %%d, %%d, %%d");
+        add("debug.millenaire_rewrite.wand.creative.use", "Creative Wand activated at %%d, %%d, %%d");
         add("debug.millenaire_rewrite.wand.tuning_fork.help",
                 "Tuning Fork - Right-click blocks to inspect their properties");
         add("debug.millenaire_rewrite.wand.summoning.help", "Summoning Wand - Import and place building templates");
@@ -367,7 +379,19 @@ public class ModLanguageProvider extends LanguageProvider {
     }
 
     private void addChineseTranslations() {
-        // Creative Tab
+        // Creative Tabs
+        add("creativetab.millenaire_rewrite.blocks", "千年村庄建筑方块");
+        add("creativetab.millenaire_rewrite.norman", "诺曼文化");
+        add("creativetab.millenaire_rewrite.byzantine", "拜占庭文化");
+        add("creativetab.millenaire_rewrite.japanese", "日本文化");
+        add("creativetab.millenaire_rewrite.mayan", "玛雅文化");
+        add("creativetab.millenaire_rewrite.indian", "印度文化");
+        add("creativetab.millenaire_rewrite.seljuk", "塞尔柱文化");
+        add("creativetab.millenaire_rewrite.inuit", "因纽特文化");
+        add("creativetab.millenaire_rewrite.food", "千年村庄食物");
+        add("creativetab.millenaire_rewrite.misc", "千年村庄杂项");
+
+        // Legacy Creative Tab (keep for compatibility)
         add("creativetab.millenaire_rewrite", "千年村庄重制版");
 
         // ================ Currency System ================
@@ -407,6 +431,8 @@ public class ModLanguageProvider extends LanguageProvider {
         add(ModItems.CACAUHAA.get(), "可可亚");
         add(ModItems.MASA.get(), "玛萨");
         add(ModItems.WAH.get(), "玛雅特色食物");
+        add(ModItems.BALCHE.get(), "巴尔切酒");
+        add(ModItems.SIKILPAH.get(), "西基尔帕");
 
         // ================ Japanese Foods ================
         add(ModItems.SAKE.get(), "清酒");
@@ -580,12 +606,12 @@ public class ModLanguageProvider extends LanguageProvider {
         add("item.millenaire_rewrite.wand.creative.tooltip", "管理作物权限和箱子锁定");
 
         // Debug wand messages
-        add("debug.millenaire_rewrite.wand.position", "位置: %d, %d, %d");
+        add("debug.millenaire_rewrite.wand.position", "位置: %%d, %%d, %%d");
         add("debug.millenaire_rewrite.wand.creative.help", "创意法杖 - 右键管理作物权限和箱子锁定");
-        add("debug.millenaire_rewrite.wand.block_info", "方块: %s 位于 %d, %d, %d");
-        add("debug.millenaire_rewrite.wand.summoning.use", "召唤法杖在 %d, %d, %d 处激活");
-        add("debug.millenaire_rewrite.wand.negation.use", "否定法杖在 %d, %d, %d 处激活");
-        add("debug.millenaire_rewrite.wand.creative.use", "创意法杖在 %d, %d, %d 处激活");
+        add("debug.millenaire_rewrite.wand.block_info", "方块: %s 位于 %%d, %%d, %%d");
+        add("debug.millenaire_rewrite.wand.summoning.use", "召唤法杖在 %%d, %%d, %%d 处激活");
+        add("debug.millenaire_rewrite.wand.negation.use", "否定法杖在 %%d, %%d, %%d 处激活");
+        add("debug.millenaire_rewrite.wand.creative.use", "创意法杖在 %%d, %%d, %%d 处激活");
         add("debug.millenaire_rewrite.wand.tuning_fork.help", "调音叉 - 右键方块检查其属性");
         add("debug.millenaire_rewrite.wand.summoning.help", "召唤法杖 - 导入并放置建筑模板");
         add("debug.millenaire_rewrite.wand.negation.help", "否定法杖 - 将建筑区域导出为模板");

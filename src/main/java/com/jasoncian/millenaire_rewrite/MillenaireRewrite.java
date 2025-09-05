@@ -6,12 +6,9 @@ import com.jasoncian.millenaire_rewrite.core.ModBlockItems;
 import com.jasoncian.millenaire_rewrite.core.ModEntities;
 import com.jasoncian.millenaire_rewrite.core.ModBlockEntities;
 import com.jasoncian.millenaire_rewrite.core.ModToolMaterials;
+import com.jasoncian.millenaire_rewrite.core.MillCreativeTabs;
 import com.jasoncian.millenaire_rewrite.config.MillenaireConfig;
 import com.mojang.logging.LogUtils;
-import net.minecraft.core.registries.Registries;
-import net.minecraft.network.chat.Component;
-import net.minecraft.world.item.CreativeModeTab;
-import net.minecraft.world.item.ItemStack;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.event.server.ServerStartingEvent;
@@ -21,8 +18,6 @@ import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
 import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
-import net.minecraftforge.registries.DeferredRegister;
-import net.minecraftforge.registries.RegistryObject;
 import org.slf4j.Logger;
 
 /**
@@ -54,24 +49,6 @@ public class MillenaireRewrite {
     // 日志记录器
     public static final Logger LOGGER = LogUtils.getLogger();
 
-    // 创意模式标签页注册器
-    public static final DeferredRegister<CreativeModeTab> CREATIVE_MODE_TABS = DeferredRegister
-            .create(Registries.CREATIVE_MODE_TAB, MOD_ID);
-
-    // 创意模式标签页
-    public static final RegistryObject<CreativeModeTab> MILLENAIRE_TAB = CREATIVE_MODE_TABS.register("millenaire_tab",
-            () -> CreativeModeTab.builder()
-                    .title(Component.translatable("creativetab.millenaire_rewrite"))
-                    .icon(() -> new ItemStack(ModItems.DENIER_OR.get())) // 使用金德尼尔作为图标
-                    .displayItems((parameters, output) -> {
-                        // 添加所有模组物品到创意标签页
-                        ModItems.ITEMS.getEntries().forEach(item -> output.accept(item.get()));
-
-                        // 添加方块物品（现在在ModBlockItems中注册）
-                        ModBlockItems.BLOCK_ITEMS.getEntries().forEach(item -> output.accept(item.get()));
-                    })
-                    .build());
-
     @SuppressWarnings("removal") // FMLJavaModLoadingContext.get() 在1.20.1中是正确的用法
     public MillenaireRewrite() {
         // 获取mod事件总线
@@ -83,7 +60,7 @@ public class MillenaireRewrite {
         ModBlockItems.register(modEventBus); // 注册方块物品
         ModEntities.register(modEventBus);
         ModBlockEntities.register(modEventBus);
-        CREATIVE_MODE_TABS.register(modEventBus);
+        MillCreativeTabs.register(modEventBus); // 注册创意标签页
 
         // 注册事件监听器
         modEventBus.addListener(this::commonSetup);

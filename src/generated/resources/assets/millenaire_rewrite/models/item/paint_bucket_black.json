@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "millenaire_rewrite:item/paint_bucket_black"
+  }
+}

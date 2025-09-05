@@ -8,6 +8,20 @@
 
 ## 🏗️ 项目基础信息
 
+### 📊 当前实现状态（更新于 2025 年 9 月 5 日）
+
+#### ✅ 已完成系统
+
+- **翻译系统**: 100% 完成 - 双语支持（英文/中文各 249 个条目）完全同步
+- **创造模式标签页**: 100% 完成 - 8 个文化分类标签页全部正常工作
+- **物品系统**: 100% 完成 - 所有文化物品（货币、食物、工具、材料）已注册
+- **装饰方块系统**: 100% 完成 - 所有装饰方块和纹理实现
+- **数据生成**: 100% 完成 - 语言文件、模型、纹理自动生成
+
+#### 🔄 进行中系统
+
+- **功能性方块**: 30% 完成 - Village Stone 基础实现，Mill Chest 需要完善
+
 ## 开发指导原则
 
 1. **功能逻辑** - 参考 legacy 代码了解要实现什么功能
@@ -24,7 +38,7 @@
 - **主包命名**: `com.jasoncian.millenaire_rewrite`
 - **Mod ID**: `millenaire_rewrite`
 - **Mod 名称**: `Millenaire Rewrite`
-- **版本号**: `0.1.0-alpha`
+- **版本号**: `0.1.3-alpha`
 
 ### 项目目标
 
@@ -46,21 +60,45 @@ com.jasoncian.millenaire_rewrite/
 │   ├── ModEntities.java           # 实体注册
 │   ├── ModBlockEntities.java      # 方块实体注册
 │   ├── ModFoodProperties.java     # 食物属性
-│   └── ModToolMaterials.java      # 工具材料
+│   ├── ModToolMaterials.java      # 工具材料
+│   ├── ModArmorMaterials.java     # 护甲材料
+│   └── MillCreativeTabs.java      # 创造模式标签页
 ├── config/                         # 配置管理
+│   └── MillenaireConfig.java      # 主配置文件
 ├── blocks/                         # 方块实现
 │   ├── decorative/                # 装饰方块
 │   └── functional/                # 功能方块
+├── blockentities/                  # 方块实体实现
+│   └── VillageStoneBlockEntity.java
 ├── items/                          # 物品实现
+│   ├── ItemMillParchment.java     # 羊皮纸物品
+│   ├── ItemMillPurse.java         # 钱包物品
+│   ├── ItemVillageSign.java       # 村庄标志物品
 │   ├── magic/                     # 魔法物品
 │   ├── tools/                     # 工具类物品
 │   └── blocks/                    # 方块物品
+│       └── DecorativeBlockItem.java
+├── containers/                     # 容器实现
+├── menus/                          # 菜单实现
 ├── entity/                         # 实体实现
 ├── village/                        # 村庄系统
 ├── building/                       # 建筑系统
 ├── client/                         # 客户端专用
+│   ├── ClientColorHandlers.java   # 颜色处理器
+│   └── gui/                       # 图形界面
+│       └── ParchmentScreen.java   # 羊皮纸界面
 ├── datagen/                        # 数据生成器
+│   ├── DataGenerators.java        # 数据生成器主类
+│   ├── ModLanguageProvider.java   # 语言文件生成
+│   ├── ModBlockStateProvider.java # 方块状态生成
+│   ├── ModItemModelProvider.java  # 物品模型生成
+│   ├── ModBlockItemModelProvider.java # 方块物品模型生成
+│   ├── ModLootTableProvider.java  # 战利品表生成
+│   └── ModBlockLootTables.java    # 方块战利品表
+├── data/                           # 数据处理
+│   └── ParchmentContentData.java  # 羊皮纸内容数据
 └── util/                          # 工具类
+    └── CurrencyUtils.java         # 货币工具类
 ```
 
 ### 包命名规则
@@ -595,8 +633,8 @@ public static class ClientModEvents {
 
 **📋 版本信息**
 
-- 文档版本：1.0.0
-- 创建日期：2025 年 9 月 3 日
+- 文档版本：1.0.1
+- 创建日期：2025 年 9 月 5 日
 - 适用版本：Millenaire Rewrite 0.1.3-alpha
 - 更新频率：随项目发展动态更新
 

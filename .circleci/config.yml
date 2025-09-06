@@ -27,10 +27,10 @@ jobs:
           name: Make gradlew executable
           command: chmod +x ./gradlew
 
-      # 使用离线模式避免下载问题
+      # 构建项目
       - run:
           name: Build with Gradle
-          command: ./gradlew build --offline
+          command: ./gradlew build
 
       - store_artifacts:
           path: build/libs
@@ -61,7 +61,7 @@ jobs:
 
       - run:
           name: Run tests
-          command: ./gradlew test --offline
+          command: ./gradlew test
 
       - store_test_results:
           path: build/test-results

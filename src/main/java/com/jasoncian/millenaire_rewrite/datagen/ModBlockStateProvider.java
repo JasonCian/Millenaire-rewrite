@@ -1,14 +1,14 @@
 package com.jasoncian.millenaire_rewrite.datagen;
 
 import com.jasoncian.millenaire_rewrite.MillenaireRewrite;
-import com.jasoncian.millenaire_rewrite.blocks.decorative.*;
+// import com.jasoncian.millenaire_rewrite.blocks.decorative.*;
 import com.jasoncian.millenaire_rewrite.core.ModBlocks;
 import net.minecraft.data.PackOutput;
 import net.minecraft.world.level.block.Block;
 import net.minecraftforge.client.model.generators.BlockStateProvider;
-import net.minecraftforge.client.model.generators.ConfiguredModel;
-import net.minecraftforge.client.model.generators.ModelFile;
-import net.minecraftforge.client.model.generators.VariantBlockStateBuilder;
+// import net.minecraftforge.client.model.generators.ConfiguredModel;
+// import net.minecraftforge.client.model.generators.ModelFile;
+// import net.minecraftforge.client.model.generators.VariantBlockStateBuilder;
 import net.minecraftforge.common.data.ExistingFileHelper;
 import net.minecraftforge.registries.RegistryObject;
 
@@ -17,6 +17,8 @@ import net.minecraftforge.registries.RegistryObject;
  * 
  * 负责生成所有方块的blockstates json文件
  * 这比手动创建文件更高效且不容易出错
+ * 
+ * ⚠️  注意：装饰方块的数据生成已弃用，需要为新的统一方块系统添加支持
  */
 public class ModBlockStateProvider extends BlockStateProvider {
 
@@ -31,17 +33,23 @@ public class ModBlockStateProvider extends BlockStateProvider {
         // Village Stone - 简单的立方体方块
         blockWithItem(ModBlocks.VILLAGE_STONE);
 
-        // 装饰方块 - 生成变体状态
-        decorativeStoneBlock();
-        decorativeWoodBlock();
-        decorativeEarthBlock();
+        // ⚠️  装饰方块数据生成已弃用 - 装饰方块已迁移至ModBlocks的统一方块系统
+        // decorativeStoneBlock();
+        // decorativeWoodBlock();
+        // decorativeEarthBlock();
+        
+        // TODO: 为新的统一方块系统添加数据生成支持
+        // TODO: 通过BuildingBlockRegistry自动生成所有方块族的模型和状态
 
-        MillenaireRewrite.LOGGER.info("Generated block states for {} blocks", 4);
+        MillenaireRewrite.LOGGER.info("Generated block states for {} blocks", 1); // 只有Village Stone了
     }
 
     /**
-     * 生成石材装饰方块的状态和模型
+     * 生成石材装饰方块的状态和模型 - 已弃用
+     * 
+     * @deprecated 装饰方块已迁移至统一方块系统，需要为新系统编写对应的数据生成逻辑
      */
+    /*
     private void decorativeStoneBlock() {
         VariantBlockStateBuilder builder = getVariantBuilder(ModBlocks.DECORATIVE_STONE.get());
 
@@ -58,10 +66,14 @@ public class ModBlockStateProvider extends BlockStateProvider {
                             .build());
         }
     }
+    */
 
     /**
-     * 生成木材装饰方块的状态和模型
+     * 生成木材装饰方块的状态和模型 - 已弃用
+     * 
+     * @deprecated 装饰方块已迁移至统一方块系统，需要为新系统编写对应的数据生成逻辑
      */
+    /*
     private void decorativeWoodBlock() {
         VariantBlockStateBuilder builder = getVariantBuilder(ModBlocks.DECORATIVE_WOOD.get());
 
@@ -78,10 +90,14 @@ public class ModBlockStateProvider extends BlockStateProvider {
                             .build());
         }
     }
+    */
 
     /**
-     * 生成土质装饰方块的状态和模型
+     * 生成土质装饰方块的状态和模型 - 已弃用
+     * 
+     * @deprecated 装饰方块已迁移至统一方块系统，需要为新系统编写对应的数据生成逻辑
      */
+    /*
     private void decorativeEarthBlock() {
         VariantBlockStateBuilder builder = getVariantBuilder(ModBlocks.DECORATIVE_EARTH.get());
 
@@ -98,6 +114,7 @@ public class ModBlockStateProvider extends BlockStateProvider {
                             .build());
         }
     }
+    */
 
     /**
      * 为简单的立方体方块生成状态和模型

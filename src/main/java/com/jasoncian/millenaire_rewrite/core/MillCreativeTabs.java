@@ -43,17 +43,21 @@ public class MillCreativeTabs {
     public static final RegistryObject<CreativeModeTab> MILLENAIRE_BLOCKS = 
         CREATIVE_MODE_TABS.register("blocks", () -> CreativeModeTab.builder()
             .title(Component.translatable("creativetab.millenaire_rewrite.blocks"))
-            .icon(() -> new ItemStack(ModBlockItems.VILLAGE_STONE.get()))
+            .icon(() -> new ItemStack(ModBlocks.VILLAGE_STONE.get()))
             .displayItems((parameters, output) -> {
                 // 核心功能方块
-                output.accept(ModBlockItems.VILLAGE_STONE.get());
+                output.accept(ModBlocks.VILLAGE_STONE.get());
                 
-                // 所有装饰方块物品
-                ModBlockItems.BLOCK_ITEMS.getEntries().forEach(item -> {
-                    if (!item.getId().getPath().equals("village_stone")) {
-                        output.accept(item.get());
-                    }
-                });
+                // ⚠️  注意：统一建筑方块系统的物品现在通过 BuildingBlockRegistry 自动管理
+                // 
+                // 方块分类规则：
+                // - BASIC文化的所有建筑方块 → 显示在此通用方块标签页
+                // - 特定文化的建筑方块（NORMAN、BYZANTINE等） → 显示在对应的文化标签页
+                // - 所有建筑方块族（基础方块+楼梯+半砖+墙）都会自动生成和分类
+                
+                // TODO: 实现新的统一方块系统的创造模式标签页集成
+                // TODO: 通过 BuildingBlockRegistry 自动获取 BASIC 文化的所有建筑方块物品
+                // TODO: 确保特定文化方块分配到正确的文化标签页，通用方块留在此标签页
             })
             .build());
 
@@ -65,6 +69,9 @@ public class MillCreativeTabs {
             .title(Component.translatable("creativetab.millenaire_rewrite.norman"))
             .icon(() -> new ItemStack(ModItems.DENIER_OR.get()))
             .displayItems((parameters, output) -> {
+                // TODO: 添加诺曼文化的建筑方块（通过 BuildingBlockRegistry 自动获取）
+                // 诺曼文化建筑方块包括：石材系列 + 木质装饰 + 石质装饰
+                
                 // 货币系统
                 output.accept(ModItems.DENIER.get());
                 output.accept(ModItems.DENIER_ARGENT.get());
@@ -113,6 +120,9 @@ public class MillCreativeTabs {
             .title(Component.translatable("creativetab.millenaire_rewrite.byzantine"))
             .icon(() -> new ItemStack(ModItems.MALVASIA_WINE.get()))
             .displayItems((parameters, output) -> {
+                // TODO: 添加拜占庭文化的建筑方块（通过 BuildingBlockRegistry 自动获取）
+                // 拜占庭文化建筑方块包括：拜占庭瓦片 + 金装饰
+                
                 // 拜占庭食物
                 output.accept(ModItems.GRAPES.get());
                 output.accept(ModItems.WINE.get());
@@ -154,6 +164,9 @@ public class MillCreativeTabs {
             .title(Component.translatable("creativetab.millenaire_rewrite.japanese"))
             .icon(() -> new ItemStack(ModItems.JAPANESE_SWORD.get()))
             .displayItems((parameters, output) -> {
+                // TODO: 添加日本文化的建筑方块（通过 BuildingBlockRegistry 自动获取）
+                // 日本文化建筑方块包括：木框架 + 木质装饰
+                
                 // 日本食物
                 output.accept(ModItems.RICE.get());
                 output.accept(ModItems.SAKE.get());
@@ -194,6 +207,9 @@ public class MillCreativeTabs {
             .title(Component.translatable("creativetab.millenaire_rewrite.mayan"))
             .icon(() -> new ItemStack(ModItems.OBSIDIAN_FLAKE.get()))
             .displayItems((parameters, output) -> {
+                // TODO: 添加玛雅文化的建筑方块（通过 BuildingBlockRegistry 自动获取）
+                // 玛雅文化建筑方块包括：石材系列 + Galianite方块
+                
                 // 玛雅食物
                 output.accept(ModItems.MAIZE.get());
                 output.accept(ModItems.CACAUHAA.get());
@@ -229,6 +245,9 @@ public class MillCreativeTabs {
             .title(Component.translatable("creativetab.millenaire_rewrite.indian"))
             .icon(() -> new ItemStack(ModItems.TURMERIC.get()))
             .displayItems((parameters, output) -> {
+                // TODO: 添加印度文化的建筑方块（通过 BuildingBlockRegistry 自动获取）
+                // 印度文化建筑方块包括：特色瓦片 + 土质装饰材料
+                
                 // 印度食物和香料
                 output.accept(ModItems.TURMERIC.get());
                 output.accept(ModItems.VEG_CURRY.get());
@@ -255,6 +274,9 @@ public class MillCreativeTabs {
             .title(Component.translatable("creativetab.millenaire_rewrite.inuit"))
             .icon(() -> new ItemStack(ModItems.FUR_HELMET.get()))
             .displayItems((parameters, output) -> {
+                // TODO: 添加因纽特文化的建筑方块（通过 BuildingBlockRegistry 自动获取）
+                // 因纽特文化建筑方块包括：冰砖 + 雪砖
+                
                 // 因纽特食物
                 output.accept(ModItems.BEAR_MEAT_RAW.get());
                 output.accept(ModItems.BEAR_MEAT_COOKED.get());

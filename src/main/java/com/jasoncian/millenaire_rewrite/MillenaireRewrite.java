@@ -57,7 +57,6 @@ public class MillenaireRewrite {
         // 注册核心组件
         ModBlocks.register(modEventBus);
         ModItems.register(modEventBus);
-        ModBlockItems.register(modEventBus); // 注册方块物品
         ModEntities.register(modEventBus);
         ModBlockEntities.register(modEventBus);
         MillCreativeTabs.register(modEventBus); // 注册创意标签页

@@ -43,10 +43,9 @@ public class MillCreativeTabs {
     public static final RegistryObject<CreativeModeTab> MILLENAIRE_BLOCKS = 
         CREATIVE_MODE_TABS.register("blocks", () -> CreativeModeTab.builder()
             .title(Component.translatable("creativetab.millenaire_rewrite.blocks"))
-            .icon(() -> new ItemStack(ModBlocks.VILLAGE_STONE.get().asItem()))
+            .icon(() -> new ItemStack(ModItems.DENIER.get())) // 临时使用货币作为图标
             .displayItems((parameters, output) -> {
-                // 核心功能方块
-                output.accept(ModBlocks.VILLAGE_STONE.get().asItem());
+                // TODO: 添加建筑方块系统的方块
                 
                 // ⚠️  注意：统一建筑方块系统的物品现在通过 BuildingBlockRegistry 自动管理
                 // 

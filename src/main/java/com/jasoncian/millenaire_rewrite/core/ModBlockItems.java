@@ -6,11 +6,9 @@ import com.jasoncian.millenaire_rewrite.MillenaireRewrite;
 // import com.jasoncian.millenaire_rewrite.blocks.decorative.EarthDecorativeVariant;
 // import com.jasoncian.millenaire_rewrite.items.blocks.DecorativeBlockItem;
 import net.minecraft.world.item.Item;
-import net.minecraft.world.item.BlockItem;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
-import net.minecraftforge.registries.RegistryObject;
 
 /**
  * ⚠️  DEPRECATED - 已弃用的方块物品注册器
@@ -42,9 +40,7 @@ public class ModBlockItems {
 
     // ================ 核心功能方块物品 ================
 
-    /** Village Stone Block Item - 村庄核心方块物品 */
-    public static final RegistryObject<Item> VILLAGE_STONE = BLOCK_ITEMS.register("village_stone",
-            () -> new BlockItem(ModBlocks.VILLAGE_STONE.get(), new Item.Properties()));
+    // TODO: 添加真正需要的功能方块物品（基于 legacy 代码研究）
 
     // ================ 装饰方块变体物品 - 已弃用 ================
     // ⚠️  装饰方块物品注册已迁移至 ModBlocks 的统一方块系统

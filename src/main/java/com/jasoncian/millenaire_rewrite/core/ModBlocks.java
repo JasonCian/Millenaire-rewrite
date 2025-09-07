@@ -1,13 +1,11 @@
 package com.jasoncian.millenaire_rewrite.core;
 
 import com.jasoncian.millenaire_rewrite.MillenaireRewrite;
-import com.jasoncian.millenaire_rewrite.blocks.functional.VillageStoneBlock;
 import com.jasoncian.millenaire_rewrite.blocks.system.BuildingBlockRegistry;
 import net.minecraft.world.level.block.Block;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
-import net.minecraftforge.registries.RegistryObject;
 
 /**
  * 方块注册器 - 管理所有Millenaire mod方块的注册
@@ -38,13 +36,8 @@ public class ModBlocks {
 
     // ================ 核心功能方块 ================
 
-    /**
-     * Village Stone - 村庄核心方块
-     * 基于legacy BlockVillageStone重新实现
-     * 整个mod最重要的方块，标记和管理村庄
-     */
-    public static final RegistryObject<Block> VILLAGE_STONE = BLOCKS.register("village_stone",
-            VillageStoneBlock::new);
+    // TODO: 添加真正需要的功能性方块（基于 legacy 代码）
+    // 例如：Mill Chest, Import Table 等
 
     // ================ 统一建筑方块系统（已整合装饰方块） ================
 

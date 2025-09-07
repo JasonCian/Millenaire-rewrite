@@ -2,15 +2,12 @@ package com.jasoncian.millenaire_rewrite.datagen;
 
 import com.jasoncian.millenaire_rewrite.MillenaireRewrite;
 // import com.jasoncian.millenaire_rewrite.blocks.decorative.*;
-import com.jasoncian.millenaire_rewrite.core.ModBlocks;
 import net.minecraft.data.PackOutput;
-import net.minecraft.world.level.block.Block;
 import net.minecraftforge.client.model.generators.BlockStateProvider;
 // import net.minecraftforge.client.model.generators.ConfiguredModel;
 // import net.minecraftforge.client.model.generators.ModelFile;
 // import net.minecraftforge.client.model.generators.VariantBlockStateBuilder;
 import net.minecraftforge.common.data.ExistingFileHelper;
-import net.minecraftforge.registries.RegistryObject;
 
 /**
  * 方块状态数据生成器
@@ -30,8 +27,7 @@ public class ModBlockStateProvider extends BlockStateProvider {
     protected void registerStatesAndModels() {
         MillenaireRewrite.LOGGER.info("Generating block states and models...");
 
-        // Village Stone - 简单的立方体方块
-        blockWithItem(ModBlocks.VILLAGE_STONE);
+        // TODO: 添加真正需要的方块的状态和模型
 
         // ⚠️  装饰方块数据生成已弃用 - 装饰方块已迁移至ModBlocks的统一方块系统
         // decorativeStoneBlock();
@@ -123,7 +119,6 @@ public class ModBlockStateProvider extends BlockStateProvider {
      * 2. 生成方块模型
      * 3. 生成物品模型（引用方块模型）
      */
-    private void blockWithItem(RegistryObject<Block> blockRegistryObject) {
-        simpleBlockWithItem(blockRegistryObject.get(), cubeAll(blockRegistryObject.get()));
-    }
+    
+    // TODO: 为新的统一方块系统添加自动化数据生成支持
 }

@@ -30,6 +30,51 @@ import java.util.function.Supplier;
  */
 public enum ModArmorMaterials implements ArmorMaterial {
     
+    // ================ 华夏文明盔甲材料 ================
+    // TODO: 华夏文明盔甲材料系统（预留空间）
+    //
+    // 华夏皮甲材料：
+    // HUAXIA_LEATHER("huaxia_leather", 8,
+    //     Util.make(new EnumMap<>(ArmorItem.Type.class), map -> {
+    //         map.put(ArmorItem.Type.BOOTS, 1);
+    //         map.put(ArmorItem.Type.LEGGINGS, 2);
+    //         map.put(ArmorItem.Type.CHESTPLATE, 3);
+    //         map.put(ArmorItem.Type.HELMET, 1);
+    //     }),
+    //     SoundEvents.ARMOR_EQUIP_LEATHER,
+    //     () -> Ingredient.of(Items.LEATHER),
+    //     0.0F,
+    //     0.0F
+    // ),
+    //
+    // 华夏青铜甲材料：
+    // HUAXIA_BRONZE("huaxia_bronze", 10,
+    //     Util.make(new EnumMap<>(ArmorItem.Type.class), map -> {
+    //         map.put(ArmorItem.Type.BOOTS, 2);
+    //         map.put(ArmorItem.Type.LEGGINGS, 4);
+    //         map.put(ArmorItem.Type.CHESTPLATE, 5);
+    //         map.put(ArmorItem.Type.HELMET, 2);
+    //     }),
+    //     SoundEvents.ARMOR_EQUIP_IRON,
+    //     () -> Ingredient.of(ModItems.BRONZE_INGOT.get()),
+    //     0.0F,
+    //     0.0F
+    // ),
+    //
+    // 华夏官服材料：
+    // HUAXIA_OFFICIAL_ROBE("huaxia_official_robe", 6,
+    //     Util.make(new EnumMap<>(ArmorItem.Type.class), map -> {
+    //         map.put(ArmorItem.Type.BOOTS, 1);
+    //         map.put(ArmorItem.Type.LEGGINGS, 2);
+    //         map.put(ArmorItem.Type.CHESTPLATE, 2);
+    //         map.put(ArmorItem.Type.HELMET, 1);
+    //     }),
+    //     SoundEvents.ARMOR_EQUIP_LEATHER,
+    //     () -> Ingredient.of(ModItems.SILK_FABRIC.get()),
+    //     0.0F,
+    //     0.0F
+    // ),
+    
     // ================ 诺曼盔甲 ================
     
     /** 诺曼锁甲/板甲 - 重型中世纪盔甲 */

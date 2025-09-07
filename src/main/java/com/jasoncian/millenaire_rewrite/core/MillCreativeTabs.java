@@ -43,10 +43,10 @@ public class MillCreativeTabs {
     public static final RegistryObject<CreativeModeTab> MILLENAIRE_BLOCKS = 
         CREATIVE_MODE_TABS.register("blocks", () -> CreativeModeTab.builder()
             .title(Component.translatable("creativetab.millenaire_rewrite.blocks"))
-            .icon(() -> new ItemStack(ModBlocks.VILLAGE_STONE.get()))
+            .icon(() -> new ItemStack(ModBlocks.VILLAGE_STONE.get().asItem()))
             .displayItems((parameters, output) -> {
                 // 核心功能方块
-                output.accept(ModBlocks.VILLAGE_STONE.get());
+                output.accept(ModBlocks.VILLAGE_STONE.get().asItem());
                 
                 // ⚠️  注意：统一建筑方块系统的物品现在通过 BuildingBlockRegistry 自动管理
                 // 
@@ -60,6 +60,33 @@ public class MillCreativeTabs {
                 // TODO: 确保特定文化方块分配到正确的文化标签页，通用方块留在此标签页
             })
             .build());
+
+    // ================ 华夏文化标签页 ================
+    // TODO: 华夏文明 - 中华文化物品标签页（预留空间）
+    // 
+    // 设计规划：
+    // - 中华古代文明的代表性物品和建筑
+    // - 包含传统建筑方块：青砖、红木、琉璃瓦等
+    // - 传统食物：米饭、茶叶、豆腐、面条等
+    // - 传统服饰：汉服、官服等
+    // - 传统工具：青铜器、铁器等
+    // - 文化物品：书法卷轴、瓷器、丝绸等
+    // - 传统装饰：屏风、灯笼、石狮等
+    // - 货币系统：铜钱、银两、黄金等
+    //
+    // 实现时需要创建：
+    // public static final RegistryObject<CreativeModeTab> MILLENAIRE_HUAXIA = 
+    //     CREATIVE_MODE_TABS.register("huaxia", () -> CreativeModeTab.builder()
+    //         .title(Component.translatable("creativetab.millenaire_rewrite.huaxia"))
+    //         .icon(() -> new ItemStack(ModItems.HUAXIA_JADE_DISK.get())) // 使用玉璧作为图标
+    //         .displayItems((parameters, output) -> {
+    //             // 华夏建筑方块
+    //             // 华夏食物
+    //             // 华夏装备
+    //             // 华夏特色物品
+    //             // 华夏羊皮纸
+    //         })
+    //         .build());
 
     // ================ 诺曼文化标签页 ================
 

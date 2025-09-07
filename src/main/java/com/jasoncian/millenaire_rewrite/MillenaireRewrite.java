@@ -57,6 +57,7 @@ public class MillenaireRewrite {
         // 注册核心组件
         ModBlocks.register(modEventBus);
         ModItems.register(modEventBus);
+        ModBlockItems.register(modEventBus); // 注册方块物品
         ModEntities.register(modEventBus);
         ModBlockEntities.register(modEventBus);
         MillCreativeTabs.register(modEventBus); // 注册创意标签页
@@ -88,6 +89,22 @@ public class MillenaireRewrite {
 
             // 在这里进行需要主线程的初始化工作
             // 例如：配置网络数据包、注册生物群系特性等
+            
+            // TODO: 华夏文明初始化系统（预留空间）
+            // 
+            // 华夏文明初始化包括：
+            // - 华夏村庄类型注册
+            // - 华夏建筑模板加载
+            // - 华夏村民类型配置
+            // - 华夏贸易系统初始化
+            // - 华夏文化语言系统设置
+            // - 华夏特殊事件注册
+            //
+            // 示例代码：
+            // HuaxiaCultureManager.initialize();
+            // HuaxiaVillageRegistry.registerVillageTypes();
+            // HuaxiaBuildingRegistry.loadBuildingTemplates();
+            // HuaxiaTradeSystem.initializeTradeGoods();
         });
 
         LOGGER.info("Millenaire Rewrite common setup completed!");

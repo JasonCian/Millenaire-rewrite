@@ -43,6 +43,7 @@ public class ModLanguageProvider extends LanguageProvider {
     private void addEnglishTranslations() {
         // Creative Tabs
         add("creativetab.millenaire_rewrite.blocks", "Millenaire Blocks");
+        add("creativetab.millenaire_rewrite.huaxia", "Huaxia Culture"); // 华夏文化标签页
         add("creativetab.millenaire_rewrite.norman", "Norman Culture");
         add("creativetab.millenaire_rewrite.byzantine", "Byzantine Culture");
         add("creativetab.millenaire_rewrite.japanese", "Japanese Culture");
@@ -381,6 +382,7 @@ public class ModLanguageProvider extends LanguageProvider {
     private void addChineseTranslations() {
         // Creative Tabs
         add("creativetab.millenaire_rewrite.blocks", "千年村庄建筑方块");
+        add("creativetab.millenaire_rewrite.huaxia", "华夏文化"); // 华夏文化标签页
         add("creativetab.millenaire_rewrite.norman", "诺曼文化");
         add("creativetab.millenaire_rewrite.byzantine", "拜占庭文化");
         add("creativetab.millenaire_rewrite.japanese", "日本文化");

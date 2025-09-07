@@ -27,6 +27,41 @@ import java.util.List;
  */
 public class ModToolMaterials {
     
+    // ================ 华夏文明工具材料 ================
+    // TODO: 华夏文明工具材料系统（预留空间）
+    //
+    // 华夏青铜工具材料：
+    // public static final Tier HUAXIA_BRONZE = TierSortingRegistry.registerTier(
+    //     new ForgeTier(
+    //         1,                              // Harvest level (stone level)
+    //         320,                            // Uses/Durability (better than stone)
+    //         5.5F,                           // Speed (moderate)
+    //         2.0F,                           // Attack damage bonus
+    //         10,                             // Enchantability
+    //         null,                           // Tag
+    //         () -> Ingredient.of(ModItems.BRONZE_INGOT.get())  // 青铜锭修复
+    //     ),
+    //     ResourceLocation.fromNamespaceAndPath(MillenaireRewrite.MOD_ID, "huaxia_bronze"),
+    //     List.of(),
+    //     List.of()
+    // );
+    //
+    // 华夏精铁工具材料：
+    // public static final Tier HUAXIA_REFINED_IRON = TierSortingRegistry.registerTier(
+    //     new ForgeTier(
+    //         2,                              // Harvest level (iron level)
+    //         480,                            // Uses/Durability (better than iron)
+    //         6.8F,                           // Speed
+    //         2.5F,                           // Attack damage bonus
+    //         14,                             // Enchantability
+    //         null,                           // Tag
+    //         () -> Ingredient.of(ModItems.REFINED_IRON_INGOT.get())  // 精铁锭修复
+    //     ),
+    //     ResourceLocation.fromNamespaceAndPath(MillenaireRewrite.MOD_ID, "huaxia_refined_iron"),
+    //     List.of(),
+    //     List.of()
+    // );
+    
     // ================ 诺曼工具 ================
     
     /** 诺曼钢 - 平衡的中世纪工具 */

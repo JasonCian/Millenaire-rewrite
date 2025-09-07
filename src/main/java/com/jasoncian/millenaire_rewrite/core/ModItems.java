@@ -93,6 +93,58 @@ public class ModItems {
     public static final RegistryObject<Item> GRAPES = ITEMS.register("grapes",
             () -> new Item(new Item.Properties()));
 
+    // ================ 华夏文化物品 ================
+    // TODO: 华夏文明物品系统（预留空间）
+    //
+    // 华夏货币系统：
+    // - 铜钱 (COPPER_COIN) - 基础货币
+    // - 银两 (SILVER_TAEL) - 中等货币 
+    // - 黄金 (GOLD_TAEL) - 高级货币
+    //
+    // 华夏食物作物：
+    // - 小麦 (HUAXIA_WHEAT) - 主要粮食作物
+    // - 大米 (HUAXIA_RICE) - 南方主食
+    // - 大豆 (SOYBEANS) - 制作豆腐原料
+    // - 茶叶 (TEA_LEAVES) - 传统饮品原料
+    // - 桃子 (PEACH) - 传统水果
+    // - 竹笋 (BAMBOO_SHOOTS) - 蔬菜
+    //
+    // 华夏传统食物：
+    // - 米饭 (COOKED_RICE) - 主食
+    // - 面条 (NOODLES) - 面食
+    // - 豆腐 (TOFU) - 豆制品
+    // - 茶水 (TEA) - 传统饮品
+    // - 饺子 (DUMPLINGS) - 传统食物
+    // - 月饼 (MOON_CAKE) - 节庆食物
+    //
+    // 华夏工具武器：
+    // - 青铜剑 (BRONZE_SWORD) - 古代兵器
+    // - 汉剑 (HAN_SWORD) - 经典直剑
+    // - 青铜斧 (BRONZE_AXE) - 工具兼武器
+    // - 青铜镐 (BRONZE_PICKAXE) - 挖掘工具
+    // - 青铜铲 (BRONZE_SHOVEL) - 挖掘工具
+    // - 青铜锄 (BRONZE_HOE) - 农耕工具
+    //
+    // 华夏护甲：
+    // - 皮甲套装 (LEATHER_ARMOR_SET) - 轻甲
+    // - 青铜甲套装 (BRONZE_ARMOR_SET) - 重甲
+    // - 官服套装 (OFFICIAL_ROBE_SET) - 礼服
+    //
+    // 华夏特色物品：
+    // - 玉璧 (JADE_DISK) - 礼器
+    // - 青瓷 (CELADON) - 瓷器
+    // - 丝绸 (SILK_FABRIC) - 纺织品
+    // - 书法卷轴 (CALLIGRAPHY_SCROLL) - 文化物品
+    // - 灯笼 (LANTERN_HUAXIA) - 装饰品
+    // - 屏风 (SCREEN) - 家具
+    // - 石狮 (STONE_LION) - 装饰雕像
+    //
+    // 华夏羊皮纸：
+    // - 华夏村民羊皮纸 (PARCHMENT_HUAXIA_VILLAGER)
+    // - 华夏建筑羊皮纸 (PARCHMENT_HUAXIA_BUILDING)
+    // - 华夏物品羊皮纸 (PARCHMENT_HUAXIA_ITEM)
+    // - 华夏综合羊皮纸 (PARCHMENT_HUAXIA_ALL)
+
     // ================ 诺曼食物 ================
 
     /** 苹果酒原料 - 诺曼特色食物原料 */

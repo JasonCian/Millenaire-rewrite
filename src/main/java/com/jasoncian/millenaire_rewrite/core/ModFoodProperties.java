@@ -21,6 +21,46 @@ import net.minecraft.world.effect.MobEffectInstance;
  */
 public class ModFoodProperties {
 
+    // ================ 华夏文明食物属性 ================
+    // TODO: 华夏文明食物属性系统（预留空间）
+    //
+    // 华夏主食类：
+    // public static final FoodProperties COOKED_RICE = new FoodProperties.Builder()
+    //         .nutrition(5)
+    //         .saturationMod(0.6f)
+    //         .build();
+    //
+    // public static final FoodProperties NOODLES = new FoodProperties.Builder()
+    //         .nutrition(6)
+    //         .saturationMod(0.7f)
+    //         .build();
+    //
+    // public static final FoodProperties DUMPLINGS = new FoodProperties.Builder()
+    //         .nutrition(8)
+    //         .saturationMod(0.8f)
+    //         .build();
+    //
+    // 华夏豆制品：
+    // public static final FoodProperties TOFU = new FoodProperties.Builder()
+    //         .nutrition(4)
+    //         .saturationMod(0.5f)
+    //         .effect(() -> new MobEffectInstance(MobEffects.REGENERATION, 200, 0), 0.2f)
+    //         .build();
+    //
+    // 华夏饮品：
+    // public static final FoodProperties TEA = new FoodProperties.Builder()
+    //         .nutrition(1)
+    //         .saturationMod(0.1f)
+    //         .effect(() -> new MobEffectInstance(MobEffects.NIGHT_VISION, 600, 0), 0.5f)
+    //         .build();
+    //
+    // 华夏节庆食物：
+    // public static final FoodProperties MOON_CAKE = new FoodProperties.Builder()
+    //         .nutrition(12)
+    //         .saturationMod(1.0f)
+    //         .effect(() -> new MobEffectInstance(MobEffects.LUCK, 1200, 0), 1.0f)
+    //         .build();
+
     // ================ 水果类 ================
 
     /** 苹果酒苹果 - 基础水果，提供少量饱食度 */

@@ -55,7 +55,8 @@ public class DataGenerators {
             // MillenaireLogger.info(LogCategory.DATAGEN, "纹理占位生成器已注册");
 
             // 方块状态和模型数据生成器
-            generator.addProvider(true, new MillenaireBlockStateProvider(packOutput, existingFileHelper));
+            // generator.addProvider(true, new MillenaireBlockStateProvider(packOutput,
+            // existingFileHelper));
 
             // 物品模型数据生成器
             generator.addProvider(true, new MillenaireItemModelProvider(packOutput, existingFileHelper));

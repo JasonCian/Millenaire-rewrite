@@ -102,6 +102,49 @@ public class MillenaireLanguageProvider extends LanguageProvider {
         addItem(ModItems.HUAXIA_BIRD_NEST, "Huaxia Bird Nest");
         addItem(ModItems.HUAXIA_GOJI_TEA, "Huaxia Goji Tea");
 
+        // 华夏贸易商品翻译
+        // 茶叶类
+        addItem(ModItems.HUAXIA_GREEN_TEA_LEAVES, "Green Tea Leaves");
+        addItem(ModItems.HUAXIA_OOLONG_TEA_LEAVES, "Oolong Tea Leaves");
+        addItem(ModItems.HUAXIA_LONGJING_TEA_LEAVES, "Longjing Tea Leaves");
+        addItem(ModItems.HUAXIA_DAHONGPAO_TEA_LEAVES, "Dahongpao Tea Leaves");
+        
+        // 瓷器类
+        addItem(ModItems.HUAXIA_CELADON, "Celadon");
+        addItem(ModItems.HUAXIA_WHITE_PORCELAIN, "White Porcelain");
+        addItem(ModItems.HUAXIA_BLUE_WHITE_PORCELAIN, "Blue and White Porcelain");
+        addItem(ModItems.HUAXIA_DOUCAI_PORCELAIN, "Doucai Porcelain");
+        
+        // 丝绸类
+        addItem(ModItems.HUAXIA_RAW_SILK, "Raw Silk");
+        addItem(ModItems.HUAXIA_SILK_FABRIC, "Silk Fabric");
+        addItem(ModItems.HUAXIA_BROCADE, "Brocade");
+        addItem(ModItems.HUAXIA_CLOUD_BROCADE, "Cloud Brocade");
+        
+        // 香料类
+        addItem(ModItems.HUAXIA_STAR_ANISE, "Star Anise");
+        addItem(ModItems.HUAXIA_SICHUAN_PEPPER, "Sichuan Pepper");
+        addItem(ModItems.HUAXIA_CINNAMON, "Cinnamon");
+        addItem(ModItems.HUAXIA_AGARWOOD, "Agarwood");
+
+        // 华夏特殊物品翻译
+        // 卷轴类
+        addItem(ModItems.HUAXIA_BLUEPRINT_SCROLL, "Blueprint Scroll");
+        addItem(ModItems.HUAXIA_TRADE_RECORD_SCROLL, "Trade Record Scroll");
+        addItem(ModItems.HUAXIA_VILLAGE_MAP_SCROLL, "Village Map Scroll");
+        addItem(ModItems.HUAXIA_SPELL_SCROLL, "Spell Scroll");
+        
+        // 印章类
+        addItem(ModItems.HUAXIA_VILLAGE_CHIEF_SEAL, "Village Chief Seal");
+        addItem(ModItems.HUAXIA_TRADE_SEAL, "Trade Seal");
+        addItem(ModItems.HUAXIA_ARTISAN_SEAL, "Artisan Seal");
+        addItem(ModItems.HUAXIA_IMPERIAL_SEAL, "Imperial Seal");
+        
+        // 风水罗盘类
+        addItem(ModItems.HUAXIA_BASIC_FENGSHUI_COMPASS, "Basic Fengshui Compass");
+        addItem(ModItems.HUAXIA_ADVANCED_FENGSHUI_COMPASS, "Advanced Fengshui Compass");
+        addItem(ModItems.HUAXIA_MASTER_FENGSHUI_COMPASS, "Master Fengshui Compass");
+
         // TODO: 添加其他物品翻译
         // addItem(ModItems.CULTURE_SCROLL, "Culture Scroll");
         // addItem(ModItems.DENIER, "Denier");
@@ -175,6 +218,49 @@ public class MillenaireLanguageProvider extends LanguageProvider {
         addItem(ModItems.HUAXIA_GINSENG_SOUP, "人参汤");
         addItem(ModItems.HUAXIA_BIRD_NEST, "燕窝");
         addItem(ModItems.HUAXIA_GOJI_TEA, "枸杞茶");
+
+        // 华夏贸易商品翻译
+        // 茶叶类
+        addItem(ModItems.HUAXIA_GREEN_TEA_LEAVES, "绿茶叶");
+        addItem(ModItems.HUAXIA_OOLONG_TEA_LEAVES, "乌龙茶叶");
+        addItem(ModItems.HUAXIA_LONGJING_TEA_LEAVES, "龙井茶叶");
+        addItem(ModItems.HUAXIA_DAHONGPAO_TEA_LEAVES, "大红袍茶叶");
+        
+        // 瓷器类
+        addItem(ModItems.HUAXIA_CELADON, "青瓷");
+        addItem(ModItems.HUAXIA_WHITE_PORCELAIN, "白瓷");
+        addItem(ModItems.HUAXIA_BLUE_WHITE_PORCELAIN, "青花瓷");
+        addItem(ModItems.HUAXIA_DOUCAI_PORCELAIN, "斗彩瓷");
+        
+        // 丝绸类
+        addItem(ModItems.HUAXIA_RAW_SILK, "生丝");
+        addItem(ModItems.HUAXIA_SILK_FABRIC, "绢布");
+        addItem(ModItems.HUAXIA_BROCADE, "锦缎");
+        addItem(ModItems.HUAXIA_CLOUD_BROCADE, "云锦");
+        
+        // 香料类
+        addItem(ModItems.HUAXIA_STAR_ANISE, "八角");
+        addItem(ModItems.HUAXIA_SICHUAN_PEPPER, "花椒");
+        addItem(ModItems.HUAXIA_CINNAMON, "肉桂");
+        addItem(ModItems.HUAXIA_AGARWOOD, "沉香");
+
+        // 华夏特殊物品翻译
+        // 卷轴类
+        addItem(ModItems.HUAXIA_BLUEPRINT_SCROLL, "建筑图纸");
+        addItem(ModItems.HUAXIA_TRADE_RECORD_SCROLL, "贸易记录");
+        addItem(ModItems.HUAXIA_VILLAGE_MAP_SCROLL, "村庄地图");
+        addItem(ModItems.HUAXIA_SPELL_SCROLL, "法术卷轴");
+        
+        // 印章类
+        addItem(ModItems.HUAXIA_VILLAGE_CHIEF_SEAL, "村长印章");
+        addItem(ModItems.HUAXIA_TRADE_SEAL, "贸易印章");
+        addItem(ModItems.HUAXIA_ARTISAN_SEAL, "工匠印章");
+        addItem(ModItems.HUAXIA_IMPERIAL_SEAL, "皇室印章");
+        
+        // 风水罗盘类
+        addItem(ModItems.HUAXIA_BASIC_FENGSHUI_COMPASS, "基础风水罗盘");
+        addItem(ModItems.HUAXIA_ADVANCED_FENGSHUI_COMPASS, "精制风水罗盘");
+        addItem(ModItems.HUAXIA_MASTER_FENGSHUI_COMPASS, "大师风水罗盘");
 
         // TODO: 添加其他物品翻译
         // addItem(ModItems.CULTURE_SCROLL, "文化卷轴");

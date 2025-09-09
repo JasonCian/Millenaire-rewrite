@@ -7,6 +7,8 @@ import com.jasoncian.millenaire_rewrite.item.currency.UniversalWalletItem;
 import com.jasoncian.millenaire_rewrite.item.tool.HuaxiaToolItem;
 import com.jasoncian.millenaire_rewrite.item.weapon.HuaxiaWeaponItem;
 import com.jasoncian.millenaire_rewrite.item.food.HuaxiaFoodItem;
+import com.jasoncian.millenaire_rewrite.item.trade.HuaxiaTradeItem;
+import com.jasoncian.millenaire_rewrite.item.special.HuaxiaSpecialItem;
 import com.jasoncian.millenaire_rewrite.util.ModConstants;
 import net.minecraft.world.item.Item;
 import net.minecraftforge.eventbus.api.IEventBus;
@@ -242,6 +244,132 @@ public final class ModItems {
     public static final RegistryObject<Item> HUAXIA_GOJI_TEA = ITEMS.register("huaxia_goji_tea",
             () -> new HuaxiaFoodItem(new Item.Properties(), HuaxiaFoodItem.HuaxiaFoodType.GOJI_TEA, 
                     HuaxiaFoodItem.CraftingDifficulty.MODERATE));
+
+    // ========== 华夏贸易商品物品 ==========
+
+    // === 茶叶类贸易商品 ===
+    
+    /** 华夏绿茶叶 */
+    public static final RegistryObject<Item> HUAXIA_GREEN_TEA_LEAVES = ITEMS.register("huaxia_green_tea_leaves",
+            () -> new HuaxiaTradeItem(new Item.Properties(), HuaxiaTradeItem.HuaxiaTradeType.GREEN_TEA_LEAVES));
+
+    /** 华夏乌龙茶叶 */
+    public static final RegistryObject<Item> HUAXIA_OOLONG_TEA_LEAVES = ITEMS.register("huaxia_oolong_tea_leaves",
+            () -> new HuaxiaTradeItem(new Item.Properties(), HuaxiaTradeItem.HuaxiaTradeType.OOLONG_TEA_LEAVES));
+
+    /** 华夏龙井茶叶 */
+    public static final RegistryObject<Item> HUAXIA_LONGJING_TEA_LEAVES = ITEMS.register("huaxia_longjing_tea_leaves",
+            () -> new HuaxiaTradeItem(new Item.Properties(), HuaxiaTradeItem.HuaxiaTradeType.LONGJING_TEA_LEAVES));
+
+    /** 华夏大红袍茶叶 */
+    public static final RegistryObject<Item> HUAXIA_DAHONGPAO_TEA_LEAVES = ITEMS.register("huaxia_dahongpao_tea_leaves",
+            () -> new HuaxiaTradeItem(new Item.Properties(), HuaxiaTradeItem.HuaxiaTradeType.DAHONGPAO_TEA_LEAVES));
+
+    // === 瓷器类贸易商品 ===
+    
+    /** 华夏青瓷 */
+    public static final RegistryObject<Item> HUAXIA_CELADON = ITEMS.register("huaxia_celadon",
+            () -> new HuaxiaTradeItem(new Item.Properties(), HuaxiaTradeItem.HuaxiaTradeType.CELADON));
+
+    /** 华夏白瓷 */
+    public static final RegistryObject<Item> HUAXIA_WHITE_PORCELAIN = ITEMS.register("huaxia_white_porcelain",
+            () -> new HuaxiaTradeItem(new Item.Properties(), HuaxiaTradeItem.HuaxiaTradeType.WHITE_PORCELAIN));
+
+    /** 华夏青花瓷 */
+    public static final RegistryObject<Item> HUAXIA_BLUE_WHITE_PORCELAIN = ITEMS.register("huaxia_blue_white_porcelain",
+            () -> new HuaxiaTradeItem(new Item.Properties(), HuaxiaTradeItem.HuaxiaTradeType.BLUE_WHITE_PORCELAIN));
+
+    /** 华夏斗彩瓷 */
+    public static final RegistryObject<Item> HUAXIA_DOUCAI_PORCELAIN = ITEMS.register("huaxia_doucai_porcelain",
+            () -> new HuaxiaTradeItem(new Item.Properties(), HuaxiaTradeItem.HuaxiaTradeType.DOUCAI_PORCELAIN));
+
+    // === 丝绸类贸易商品 ===
+    
+    /** 华夏生丝 */
+    public static final RegistryObject<Item> HUAXIA_RAW_SILK = ITEMS.register("huaxia_raw_silk",
+            () -> new HuaxiaTradeItem(new Item.Properties(), HuaxiaTradeItem.HuaxiaTradeType.RAW_SILK));
+
+    /** 华夏绢布 */
+    public static final RegistryObject<Item> HUAXIA_SILK_FABRIC = ITEMS.register("huaxia_silk_fabric",
+            () -> new HuaxiaTradeItem(new Item.Properties(), HuaxiaTradeItem.HuaxiaTradeType.SILK_FABRIC));
+
+    /** 华夏锦缎 */
+    public static final RegistryObject<Item> HUAXIA_BROCADE = ITEMS.register("huaxia_brocade",
+            () -> new HuaxiaTradeItem(new Item.Properties(), HuaxiaTradeItem.HuaxiaTradeType.BROCADE));
+
+    /** 华夏云锦 */
+    public static final RegistryObject<Item> HUAXIA_CLOUD_BROCADE = ITEMS.register("huaxia_cloud_brocade",
+            () -> new HuaxiaTradeItem(new Item.Properties(), HuaxiaTradeItem.HuaxiaTradeType.CLOUD_BROCADE));
+
+    // === 香料类贸易商品 ===
+    
+    /** 华夏八角 */
+    public static final RegistryObject<Item> HUAXIA_STAR_ANISE = ITEMS.register("huaxia_star_anise",
+            () -> new HuaxiaTradeItem(new Item.Properties(), HuaxiaTradeItem.HuaxiaTradeType.STAR_ANISE));
+
+    /** 华夏花椒 */
+    public static final RegistryObject<Item> HUAXIA_SICHUAN_PEPPER = ITEMS.register("huaxia_sichuan_pepper",
+            () -> new HuaxiaTradeItem(new Item.Properties(), HuaxiaTradeItem.HuaxiaTradeType.SICHUAN_PEPPER));
+
+    /** 华夏肉桂 */
+    public static final RegistryObject<Item> HUAXIA_CINNAMON = ITEMS.register("huaxia_cinnamon",
+            () -> new HuaxiaTradeItem(new Item.Properties(), HuaxiaTradeItem.HuaxiaTradeType.CINNAMON));
+
+    /** 华夏沉香 */
+    public static final RegistryObject<Item> HUAXIA_AGARWOOD = ITEMS.register("huaxia_agarwood",
+            () -> new HuaxiaTradeItem(new Item.Properties(), HuaxiaTradeItem.HuaxiaTradeType.AGARWOOD));
+
+    // ========== 华夏特殊物品 ==========
+
+    // === 卷轴类特殊物品 ===
+    
+    /** 华夏建筑图纸卷轴 */
+    public static final RegistryObject<Item> HUAXIA_BLUEPRINT_SCROLL = ITEMS.register("huaxia_blueprint_scroll",
+            () -> new HuaxiaSpecialItem(new Item.Properties(), HuaxiaSpecialItem.HuaxiaSpecialType.BLUEPRINT_SCROLL));
+
+    /** 华夏贸易记录卷轴 */
+    public static final RegistryObject<Item> HUAXIA_TRADE_RECORD_SCROLL = ITEMS.register("huaxia_trade_record_scroll",
+            () -> new HuaxiaSpecialItem(new Item.Properties(), HuaxiaSpecialItem.HuaxiaSpecialType.TRADE_RECORD_SCROLL));
+
+    /** 华夏村庄地图卷轴 */
+    public static final RegistryObject<Item> HUAXIA_VILLAGE_MAP_SCROLL = ITEMS.register("huaxia_village_map_scroll",
+            () -> new HuaxiaSpecialItem(new Item.Properties(), HuaxiaSpecialItem.HuaxiaSpecialType.VILLAGE_MAP_SCROLL));
+
+    /** 华夏法术卷轴 */
+    public static final RegistryObject<Item> HUAXIA_SPELL_SCROLL = ITEMS.register("huaxia_spell_scroll",
+            () -> new HuaxiaSpecialItem(new Item.Properties(), HuaxiaSpecialItem.HuaxiaSpecialType.SPELL_SCROLL));
+
+    // === 印章类特殊物品 ===
+    
+    /** 华夏村长印章 */
+    public static final RegistryObject<Item> HUAXIA_VILLAGE_CHIEF_SEAL = ITEMS.register("huaxia_village_chief_seal",
+            () -> new HuaxiaSpecialItem(new Item.Properties(), HuaxiaSpecialItem.HuaxiaSpecialType.VILLAGE_CHIEF_SEAL));
+
+    /** 华夏贸易印章 */
+    public static final RegistryObject<Item> HUAXIA_TRADE_SEAL = ITEMS.register("huaxia_trade_seal",
+            () -> new HuaxiaSpecialItem(new Item.Properties(), HuaxiaSpecialItem.HuaxiaSpecialType.TRADE_SEAL));
+
+    /** 华夏工匠印章 */
+    public static final RegistryObject<Item> HUAXIA_ARTISAN_SEAL = ITEMS.register("huaxia_artisan_seal",
+            () -> new HuaxiaSpecialItem(new Item.Properties(), HuaxiaSpecialItem.HuaxiaSpecialType.ARTISAN_SEAL));
+
+    /** 华夏皇室印章 */
+    public static final RegistryObject<Item> HUAXIA_IMPERIAL_SEAL = ITEMS.register("huaxia_imperial_seal",
+            () -> new HuaxiaSpecialItem(new Item.Properties(), HuaxiaSpecialItem.HuaxiaSpecialType.IMPERIAL_SEAL));
+
+    // === 风水罗盘类特殊物品 ===
+    
+    /** 华夏基础风水罗盘 */
+    public static final RegistryObject<Item> HUAXIA_BASIC_FENGSHUI_COMPASS = ITEMS.register("huaxia_basic_fengshui_compass",
+            () -> new HuaxiaSpecialItem(new Item.Properties(), HuaxiaSpecialItem.HuaxiaSpecialType.BASIC_FENGSHUI_COMPASS));
+
+    /** 华夏精制风水罗盘 */
+    public static final RegistryObject<Item> HUAXIA_ADVANCED_FENGSHUI_COMPASS = ITEMS.register("huaxia_advanced_fengshui_compass",
+            () -> new HuaxiaSpecialItem(new Item.Properties(), HuaxiaSpecialItem.HuaxiaSpecialType.ADVANCED_FENGSHUI_COMPASS));
+
+    /** 华夏大师风水罗盘 */
+    public static final RegistryObject<Item> HUAXIA_MASTER_FENGSHUI_COMPASS = ITEMS.register("huaxia_master_fengshui_compass",
+            () -> new HuaxiaSpecialItem(new Item.Properties(), HuaxiaSpecialItem.HuaxiaSpecialType.MASTER_FENGSHUI_COMPASS));
 
     // TODO: 注册其他文化的货币物品
     // public static final RegistryObject<Item> DENIER = ITEMS.register("denier",

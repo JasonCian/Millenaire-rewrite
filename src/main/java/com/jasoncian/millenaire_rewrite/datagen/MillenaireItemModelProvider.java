@@ -55,6 +55,12 @@ public class MillenaireItemModelProvider extends ItemModelProvider {
         // 为装饰物品预留的扩展点
         generateDecorativeItems();
 
+        // 为贸易商品预留的扩展点
+        generateTradeItems();
+
+        // 为特殊物品预留的扩展点
+        generateSpecialItems();
+
         MillenaireLogger.info(LogCategory.DATAGEN, "物品模型数据生成完成");
     }
 
@@ -178,6 +184,76 @@ public class MillenaireItemModelProvider extends ItemModelProvider {
         // TODO: 添加其他装饰性物品
         // simpleItem(ModItems.VILLAGE_BANNER);
         // simpleItem(ModItems.CULTURE_AMULET);
+    }
+
+    /**
+     * 生成贸易商品物品的模型
+     * 
+     * 包括各种文化的贸易商品：
+     * - 华夏贸易商品（茶叶、瓷器、丝绸、香料）
+     * - 其他文化的贸易商品
+     */
+    private void generateTradeItems() {
+        // ===== 华夏茶叶类贸易商品 =====
+        simpleItem(ModItems.HUAXIA_GREEN_TEA_LEAVES);
+        simpleItem(ModItems.HUAXIA_OOLONG_TEA_LEAVES);
+        simpleItem(ModItems.HUAXIA_LONGJING_TEA_LEAVES);
+        simpleItem(ModItems.HUAXIA_DAHONGPAO_TEA_LEAVES);
+        
+        // ===== 华夏瓷器类贸易商品 =====
+        simpleItem(ModItems.HUAXIA_CELADON);
+        simpleItem(ModItems.HUAXIA_WHITE_PORCELAIN);
+        simpleItem(ModItems.HUAXIA_BLUE_WHITE_PORCELAIN);
+        simpleItem(ModItems.HUAXIA_DOUCAI_PORCELAIN);
+        
+        // ===== 华夏丝绸类贸易商品 =====
+        simpleItem(ModItems.HUAXIA_RAW_SILK);
+        simpleItem(ModItems.HUAXIA_SILK_FABRIC);
+        simpleItem(ModItems.HUAXIA_BROCADE);
+        simpleItem(ModItems.HUAXIA_CLOUD_BROCADE);
+        
+        // ===== 华夏香料类贸易商品 =====
+        simpleItem(ModItems.HUAXIA_STAR_ANISE);
+        simpleItem(ModItems.HUAXIA_SICHUAN_PEPPER);
+        simpleItem(ModItems.HUAXIA_CINNAMON);
+        simpleItem(ModItems.HUAXIA_AGARWOOD);
+        
+        // TODO: 添加其他文化的贸易商品
+        // simpleItem(ModItems.NORMAN_WOOL);
+        // simpleItem(ModItems.JAPANESE_SAKE);
+        // simpleItem(ModItems.BYZANTINE_PURPLE_DYE);
+    }
+
+    /**
+     * 生成特殊物品的模型
+     * 
+     * 包括各种文化的特殊物品：
+     * - 华夏特殊物品（卷轴、印章、风水罗盘）
+     * - 其他文化的特殊物品
+     */
+    private void generateSpecialItems() {
+        // ===== 华夏卷轴类特殊物品 =====
+        simpleItem(ModItems.HUAXIA_BLUEPRINT_SCROLL);
+        simpleItem(ModItems.HUAXIA_TRADE_RECORD_SCROLL);
+        simpleItem(ModItems.HUAXIA_VILLAGE_MAP_SCROLL);
+        simpleItem(ModItems.HUAXIA_SPELL_SCROLL);
+        
+        // ===== 华夏印章类特殊物品 =====
+        simpleItem(ModItems.HUAXIA_VILLAGE_CHIEF_SEAL);
+        simpleItem(ModItems.HUAXIA_TRADE_SEAL);
+        simpleItem(ModItems.HUAXIA_ARTISAN_SEAL);
+        simpleItem(ModItems.HUAXIA_IMPERIAL_SEAL);
+        
+        // ===== 华夏风水罗盘类特殊物品 =====
+        simpleItem(ModItems.HUAXIA_BASIC_FENGSHUI_COMPASS);
+        simpleItem(ModItems.HUAXIA_ADVANCED_FENGSHUI_COMPASS);
+        simpleItem(ModItems.HUAXIA_MASTER_FENGSHUI_COMPASS);
+        
+        // TODO: 添加其他文化的特殊物品
+        // simpleItem(ModItems.VILLAGE_WAND);
+        // simpleItem(ModItems.NORMAN_SEAL);
+        // simpleItem(ModItems.JAPANESE_SCROLL);
+        // simpleItem(ModItems.BYZANTINE_COMPASS);
     }
 
     /**

@@ -96,6 +96,49 @@ public final class ModCreativeTabs {
                         output.accept(ModItems.HUAXIA_BIRD_NEST.get());
                         output.accept(ModItems.HUAXIA_GOJI_TEA.get());
 
+                        // ===== 华夏贸易商品 =====
+                        // 茶叶类
+                        output.accept(ModItems.HUAXIA_GREEN_TEA_LEAVES.get());
+                        output.accept(ModItems.HUAXIA_OOLONG_TEA_LEAVES.get());
+                        output.accept(ModItems.HUAXIA_LONGJING_TEA_LEAVES.get());
+                        output.accept(ModItems.HUAXIA_DAHONGPAO_TEA_LEAVES.get());
+                        
+                        // 瓷器类
+                        output.accept(ModItems.HUAXIA_CELADON.get());
+                        output.accept(ModItems.HUAXIA_WHITE_PORCELAIN.get());
+                        output.accept(ModItems.HUAXIA_BLUE_WHITE_PORCELAIN.get());
+                        output.accept(ModItems.HUAXIA_DOUCAI_PORCELAIN.get());
+                        
+                        // 丝绸类
+                        output.accept(ModItems.HUAXIA_RAW_SILK.get());
+                        output.accept(ModItems.HUAXIA_SILK_FABRIC.get());
+                        output.accept(ModItems.HUAXIA_BROCADE.get());
+                        output.accept(ModItems.HUAXIA_CLOUD_BROCADE.get());
+                        
+                        // 香料类
+                        output.accept(ModItems.HUAXIA_STAR_ANISE.get());
+                        output.accept(ModItems.HUAXIA_SICHUAN_PEPPER.get());
+                        output.accept(ModItems.HUAXIA_CINNAMON.get());
+                        output.accept(ModItems.HUAXIA_AGARWOOD.get());
+
+                        // ===== 华夏特殊物品 =====
+                        // 卷轴类
+                        output.accept(ModItems.HUAXIA_BLUEPRINT_SCROLL.get());
+                        output.accept(ModItems.HUAXIA_TRADE_RECORD_SCROLL.get());
+                        output.accept(ModItems.HUAXIA_VILLAGE_MAP_SCROLL.get());
+                        output.accept(ModItems.HUAXIA_SPELL_SCROLL.get());
+                        
+                        // 印章类
+                        output.accept(ModItems.HUAXIA_VILLAGE_CHIEF_SEAL.get());
+                        output.accept(ModItems.HUAXIA_TRADE_SEAL.get());
+                        output.accept(ModItems.HUAXIA_ARTISAN_SEAL.get());
+                        output.accept(ModItems.HUAXIA_IMPERIAL_SEAL.get());
+                        
+                        // 风水罗盘类
+                        output.accept(ModItems.HUAXIA_BASIC_FENGSHUI_COMPASS.get());
+                        output.accept(ModItems.HUAXIA_ADVANCED_FENGSHUI_COMPASS.get());
+                        output.accept(ModItems.HUAXIA_MASTER_FENGSHUI_COMPASS.get());
+
                         // ===== 特殊物品 =====
                         output.accept(ModItems.UNIVERSAL_WALLET.get());
 

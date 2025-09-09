@@ -156,6 +156,49 @@ public class MillenaireTexturePlaceholderProvider implements DataProvider {
         generateTexturePlaceholder(cache, "item/huaxia_bird_nest", "燕窝", new Color(255, 245, 238));
         generateTexturePlaceholder(cache, "item/huaxia_goji_tea", "枸杞茶", new Color(220, 20, 60));
 
+        // ===== 华夏贸易商品 =====
+        // 茶叶类
+        generateTexturePlaceholder(cache, "item/huaxia_green_tea_leaves", "绿茶叶", new Color(34, 139, 34));
+        generateTexturePlaceholder(cache, "item/huaxia_oolong_tea_leaves", "乌龙茶叶", new Color(107, 142, 35));
+        generateTexturePlaceholder(cache, "item/huaxia_longjing_tea_leaves", "龙井茶叶", new Color(50, 205, 50));
+        generateTexturePlaceholder(cache, "item/huaxia_dahongpao_tea_leaves", "大红袍", new Color(178, 34, 34));
+        
+        // 瓷器类
+        generateTexturePlaceholder(cache, "item/huaxia_celadon", "青瓷", new Color(143, 188, 143));
+        generateTexturePlaceholder(cache, "item/huaxia_white_porcelain", "白瓷", new Color(255, 255, 255));
+        generateTexturePlaceholder(cache, "item/huaxia_blue_white_porcelain", "青花瓷", new Color(100, 149, 237));
+        generateTexturePlaceholder(cache, "item/huaxia_doucai_porcelain", "斗彩瓷", new Color(138, 43, 226));
+        
+        // 丝绸类
+        generateTexturePlaceholder(cache, "item/huaxia_raw_silk", "生丝", new Color(255, 228, 181));
+        generateTexturePlaceholder(cache, "item/huaxia_silk_fabric", "绢布", new Color(255, 218, 185));
+        generateTexturePlaceholder(cache, "item/huaxia_brocade", "锦缎", new Color(255, 215, 0));
+        generateTexturePlaceholder(cache, "item/huaxia_cloud_brocade", "云锦", new Color(255, 20, 147));
+        
+        // 香料类
+        generateTexturePlaceholder(cache, "item/huaxia_star_anise", "八角", new Color(139, 69, 19));
+        generateTexturePlaceholder(cache, "item/huaxia_sichuan_pepper", "花椒", new Color(165, 42, 42));
+        generateTexturePlaceholder(cache, "item/huaxia_cinnamon", "肉桂", new Color(210, 180, 140));
+        generateTexturePlaceholder(cache, "item/huaxia_agarwood", "沉香", new Color(72, 61, 139));
+
+        // ===== 华夏特殊物品 =====
+        // 卷轴类
+        generateTexturePlaceholder(cache, "item/huaxia_blueprint_scroll", "图纸", new Color(245, 245, 220));
+        generateTexturePlaceholder(cache, "item/huaxia_trade_record_scroll", "贸易记录", new Color(255, 228, 196));
+        generateTexturePlaceholder(cache, "item/huaxia_village_map_scroll", "村庄地图", new Color(255, 248, 220));
+        generateTexturePlaceholder(cache, "item/huaxia_spell_scroll", "法术卷轴", new Color(138, 43, 226));
+        
+        // 印章类
+        generateTexturePlaceholder(cache, "item/huaxia_village_chief_seal", "村长印", new Color(255, 215, 0));
+        generateTexturePlaceholder(cache, "item/huaxia_trade_seal", "贸易印", new Color(192, 192, 192));
+        generateTexturePlaceholder(cache, "item/huaxia_artisan_seal", "工匠印", new Color(205, 127, 50));
+        generateTexturePlaceholder(cache, "item/huaxia_imperial_seal", "皇印", new Color(255, 215, 0));
+        
+        // 风水罗盘类
+        generateTexturePlaceholder(cache, "item/huaxia_basic_fengshui_compass", "罗盘", new Color(205, 127, 50));
+        generateTexturePlaceholder(cache, "item/huaxia_advanced_fengshui_compass", "精制罗盘", new Color(169, 169, 169));
+        generateTexturePlaceholder(cache, "item/huaxia_master_fengshui_compass", "大师罗盘", new Color(255, 215, 0));
+
         // TODO: 其他文化的物品纹理占位将在对应文化实现时添加
         // Norman（诺曼）文化物品
         // Japanese（日本）文化物品

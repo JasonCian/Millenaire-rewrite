@@ -55,10 +55,12 @@ public class DataGenerators {
             // MillenaireLogger.info(LogCategory.DATAGEN, "纹理占位生成器已注册");
 
             // 方块状态和模型数据生成器
-            generator.addProvider(true, new MillenaireBlockStateProvider(packOutput, existingFileHelper));
+            generator.addProvider(true, new MillenaireBlockStateProvider(packOutput,
+                    existingFileHelper));
 
             // 物品模型数据生成器
-            generator.addProvider(true, new MillenaireItemModelProvider(packOutput, existingFileHelper));
+            generator.addProvider(true, new MillenaireItemModelProvider(packOutput,
+                    existingFileHelper));
 
             // 语言文件数据生成器 - 支持中文和英文（包含文化系统翻译）
             generator.addProvider(true, new MillenaireLanguageProvider(packOutput, "en_us"));

@@ -76,10 +76,8 @@ public class MillenaireTexturePlaceholderProvider implements DataProvider {
     private void generateTestPlaceholders(CachedOutput cache) {
         try {
             // 生成一个简单的测试占位图
-            // generateTexturePlaceholder(cache, "item/test_item", "测试物品", Color.BLUE, 16,
-            // 16);
-            // generateTexturePlaceholder(cache, "block/test_block", "测试方块", Color.GREEN,
-            // 16, 16);
+            // generateTexturePlaceholder(cache, "item/test_item", "测试物品", Color.BLUE, 16, 16);
+            // generateTexturePlaceholder(cache, "block/test_block", "测试方块", Color.GREEN, 16, 16);
 
             MillenaireLogger.info(LogCategory.DATAGEN, "测试占位文件生成完成");
         } catch (Exception e) {
@@ -222,6 +220,7 @@ public class MillenaireTexturePlaceholderProvider implements DataProvider {
         generateTexturePlaceholder(cache, "block/huaxia_stone_lion", "石狮", new Color(169, 169, 169));
         
         // 华夏功能方块
+        generateTexturePlaceholder(cache, "block/huaxia_chest", "华夏箱子", new Color(139, 69, 19));
         generateTexturePlaceholder(cache, "block/huaxia_tea_table", "茶桌", new Color(160, 82, 45));
         generateTexturePlaceholder(cache, "block/huaxia_alchemy_cauldron", "药鼎", new Color(105, 105, 105));
         generateTexturePlaceholder(cache, "block/huaxia_loom", "织机", new Color(139, 69, 19));
@@ -237,7 +236,6 @@ public class MillenaireTexturePlaceholderProvider implements DataProvider {
      */
     private void generateCultureSpecificTextures(CachedOutput cache) throws IOException {
         // 各文化旗帜
-
         // 各文化雕像
     }
 
@@ -246,7 +244,172 @@ public class MillenaireTexturePlaceholderProvider implements DataProvider {
      */
     private void generateGUITexturePlaceholders(CachedOutput cache) throws IOException {
         // GUI背景和组件（生成到gui文件夹）
-        // 文化特色GUI
+        
+        // 华夏文化GUI纹理
+        generateHuaxiaGUITextures(cache);
+        
+        // TODO: 其他文化GUI纹理
+    }
+    
+    /**
+     * 生成华夏文化特色的GUI纹理占位符
+     */
+    private void generateHuaxiaGUITextures(CachedOutput cache) throws IOException {
+        // 华夏箱子GUI - 标准27槽位容器界面 (176x166像素)
+        generateContainerGUI(cache, "gui/huaxia_chest", "华夏箱子", 
+                176, 166, new Color(139, 69, 19), 3, 9); // 3行9列
+        
+        // 华夏茶桌GUI - 9槽位容器界面 (176x133像素)  
+        generateTeaTableGUI(cache, "gui/huaxia_tea_table", "华夏茶桌",
+                176, 133, new Color(101, 67, 33)); // 茶桌专用布局
+    }
+    
+    /**
+     * 生成标准容器GUI纹理占位符
+     */
+    private void generateContainerGUI(CachedOutput cache, String texturePath, String title,
+            int width, int height, Color bgColor, int rows, int cols) throws IOException {
+        
+        BufferedImage image = new BufferedImage(width, height, BufferedImage.TYPE_INT_ARGB);
+        Graphics2D g2d = image.createGraphics();
+        
+        // 设置抗锯齿
+        g2d.setRenderingHint(RenderingHints.KEY_ANTIALIASING, RenderingHints.VALUE_ANTIALIAS_ON);
+        
+        // 绘制主背景
+        g2d.setColor(bgColor);
+        g2d.fillRect(0, 0, width, height);
+        
+        // 绘制容器区域背景 (稍深一些)
+        g2d.setColor(bgColor.darker());
+        g2d.fillRect(7, 17, 162, 54); // 容器背景区域
+        
+        // 绘制槽位格子
+        g2d.setColor(Color.DARK_GRAY);
+        for (int row = 0; row < rows; row++) {
+            for (int col = 0; col < cols; col++) {
+                int x = 8 + col * 18;
+                int y = 18 + row * 18;
+                g2d.drawRect(x, y, 16, 16); // 18x18间距，16x16槽位
+                
+                // 在槽位中标记不同类型
+                g2d.setColor(Color.LIGHT_GRAY);
+                g2d.fillRect(x + 1, y + 1, 15, 15);
+                g2d.setColor(Color.DARK_GRAY);
+            }
+        }
+        
+        // 绘制玩家背包区域
+        g2d.setColor(bgColor.darker());
+        g2d.fillRect(7, height - 82, 162, 76); // 玩家背包背景
+        
+        // 绘制玩家背包槽位 (4行9列)
+        for (int row = 0; row < 4; row++) {
+            for (int col = 0; col < 9; col++) {
+                int x = 8 + col * 18;
+                int y = height - 82 + 1 + row * 18;
+                g2d.drawRect(x, y, 16, 16);
+                
+                // 标记背包槽位
+                g2d.setColor(new Color(200, 200, 255, 100));
+                g2d.fillRect(x + 1, y + 1, 15, 15);
+                g2d.setColor(Color.DARK_GRAY);
+            }
+        }
+        
+        // 绘制标题
+        g2d.setColor(Color.WHITE);
+        g2d.setFont(new Font("Arial", Font.BOLD, 8));
+        g2d.drawString(title, 8, 8);
+        
+        g2d.dispose();
+        
+        // 保存图像
+        saveTexture(cache, texturePath, image);
+    }
+    
+    /**
+     * 生成茶桌专用GUI纹理占位符
+     */
+    private void generateTeaTableGUI(CachedOutput cache, String texturePath, String title,
+            int width, int height, Color bgColor) throws IOException {
+        
+        BufferedImage image = new BufferedImage(width, height, BufferedImage.TYPE_INT_ARGB);
+        Graphics2D g2d = image.createGraphics();
+        
+        // 设置抗锯齿
+        g2d.setRenderingHint(RenderingHints.KEY_ANTIALIASING, RenderingHints.VALUE_ANTIALIAS_ON);
+        
+        // 绘制主背景
+        g2d.setColor(bgColor);
+        g2d.fillRect(0, 0, width, height);
+        
+        // 绘制茶桌容器区域 - 3x3布局
+        g2d.setColor(bgColor.darker());
+        g2d.fillRect(61, 17, 54, 54); // 3x3区域背景
+        
+        // 绘制茶桌槽位 - 分为三个区域
+        String[] areaLabels = {"茶叶", "茶具", "调料"};
+        Color[] areaColors = {
+            new Color(34, 139, 34, 150),   // 绿色 - 茶叶区域
+            new Color(139, 69, 19, 150),   // 棕色 - 茶具区域  
+            new Color(255, 215, 0, 150)    // 金色 - 调料区域
+        };
+        
+        for (int i = 0; i < 3; i++) {
+            for (int j = 0; j < 3; j++) {
+                int slotIndex = i * 3 + j;
+                int x = 62 + j * 18;
+                int y = 18 + i * 18;
+                
+                // 绘制槽位
+                g2d.setColor(Color.DARK_GRAY);
+                g2d.drawRect(x, y, 16, 16);
+                
+                // 根据槽位类型着色
+                Color slotColor;
+                if (slotIndex < 3) slotColor = areaColors[0]; // 茶叶
+                else if (slotIndex < 6) slotColor = areaColors[1]; // 茶具
+                else slotColor = areaColors[2]; // 调料
+                
+                g2d.setColor(slotColor);
+                g2d.fillRect(x + 1, y + 1, 15, 15);
+            }
+        }
+        
+        // 绘制区域标签
+        g2d.setColor(Color.WHITE);
+        g2d.setFont(new Font("Arial", Font.BOLD, 6));
+        g2d.drawString("茶叶", 125, 30);
+        g2d.drawString("茶具", 125, 48); 
+        g2d.drawString("调料", 125, 66);
+        
+        // 绘制玩家背包区域
+        g2d.setColor(bgColor.darker());
+        g2d.fillRect(7, height - 76, 162, 76);
+        
+        // 绘制玩家背包槽位
+        for (int row = 0; row < 4; row++) {
+            for (int col = 0; col < 9; col++) {
+                int x = 8 + col * 18;
+                int y = height - 76 + 1 + row * 18;
+                g2d.setColor(Color.DARK_GRAY);
+                g2d.drawRect(x, y, 16, 16);
+                
+                g2d.setColor(new Color(200, 200, 255, 100));
+                g2d.fillRect(x + 1, y + 1, 15, 15);
+            }
+        }
+        
+        // 绘制标题
+        g2d.setColor(Color.WHITE);
+        g2d.setFont(new Font("Arial", Font.BOLD, 8));
+        g2d.drawString(title, 8, 8);
+        
+        g2d.dispose();
+        
+        // 保存图像
+        saveTexture(cache, texturePath, image);
     }
 
     /**
@@ -297,6 +460,14 @@ public class MillenaireTexturePlaceholderProvider implements DataProvider {
         g2d.dispose();
 
         // 保存文件
+        saveTexture(cache, texturePath, image);
+    }
+
+    /**
+     * 保存纹理到文件
+     */
+    private void saveTexture(CachedOutput cache, String texturePath, BufferedImage image) throws IOException {
+        // 确定输出路径
         Path textureFolderPath = output.getOutputFolder().resolve("assets").resolve(modId).resolve("textures");
         Path textureFilePath = textureFolderPath.resolve(texturePath + ".png");
 

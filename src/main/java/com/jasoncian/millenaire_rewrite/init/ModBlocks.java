@@ -4,6 +4,7 @@ import com.jasoncian.millenaire_rewrite.block.huaxia.decorative.HuaxiaLanternBlo
 import com.jasoncian.millenaire_rewrite.block.huaxia.decorative.HuaxiaScreenBlock;
 import com.jasoncian.millenaire_rewrite.block.huaxia.decorative.HuaxiaStoneLionBlock;
 import com.jasoncian.millenaire_rewrite.block.huaxia.functional.HuaxiaAlchemyCauldronBlock;
+import com.jasoncian.millenaire_rewrite.block.huaxia.functional.HuaxiaChestBlock;
 import com.jasoncian.millenaire_rewrite.block.huaxia.functional.HuaxiaLoomBlock;
 import com.jasoncian.millenaire_rewrite.block.huaxia.functional.HuaxiaTeaTableBlock;
 import com.jasoncian.millenaire_rewrite.block.huaxia.materials.HuaxiaGlazedTileBlock;
@@ -77,6 +78,10 @@ public final class ModBlocks {
         registerBlock("huaxia_stone_lion", HuaxiaStoneLionBlock::new);
     
     // === 华夏功能方块 ===
+    /** 华夏箱子 - 存储容器 */
+    public static final RegistryObject<Block> HUAXIA_CHEST = 
+        registerBlock("huaxia_chest", HuaxiaChestBlock::new);
+    
     /** 华夏茶桌 - 品茶社交功能 */
     public static final RegistryObject<Block> HUAXIA_TEA_TABLE = 
         registerBlock("huaxia_tea_table", HuaxiaTeaTableBlock::new);

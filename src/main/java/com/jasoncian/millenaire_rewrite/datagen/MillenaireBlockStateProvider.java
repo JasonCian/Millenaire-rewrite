@@ -78,6 +78,7 @@ public class MillenaireBlockStateProvider extends BlockStateProvider {
         generateHuaxiaStoneLion();
         
         // 华夏功能方块 - 需要自定义模型的复杂方块
+        generateHuaxiaChest();
         generateHuaxiaTeaTable();
         generateHuaxiaAlchemyCauldron();
         generateHuaxiaLoom();
@@ -187,6 +188,19 @@ public class MillenaireBlockStateProvider extends BlockStateProvider {
         // 物品模型单独生成
         itemModels().getBuilder("huaxia_stone_lion")
                 .parent(models().getExistingFile(modLoc("block/huaxia_stone_lion")));
+    }
+    
+    /**
+     * 生成华夏箱子的方块状态和模型
+     */
+    private void generateHuaxiaChest() {
+        // 华夏箱子作为BlockEntity，使用简单的方块状态
+        // 实际的箱子模型由BlockEntityRenderer处理
+        simpleBlock(ModBlocks.HUAXIA_CHEST.get(), 
+            models().cubeAll("huaxia_chest", blockTexture(ModBlocks.HUAXIA_CHEST.get())));
+        
+        // 物品模型使用方块纹理
+        itemModels().withExistingParent("huaxia_chest", modLoc("block/huaxia_chest"));
     }
     
     /**

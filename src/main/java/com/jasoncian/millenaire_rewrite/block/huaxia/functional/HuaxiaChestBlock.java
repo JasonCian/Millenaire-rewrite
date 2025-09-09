@@ -1,10 +1,12 @@
 package com.jasoncian.millenaire_rewrite.block.huaxia.functional;
 
-import com.jasoncian.millenaire_rewrite.block.entity.HuaxiaTeaTableBlockEntity;
+import com.jasoncian.millenaire_rewrite.block.entity.HuaxiaChestBlockEntity;
+import com.jasoncian.millenaire_rewrite.init.ModBlockEntities;
 import net.minecraft.core.BlockPos;
 import net.minecraft.core.Direction;
-import net.minecraft.network.chat.Component;
+import net.minecraft.server.level.ServerLevel;
 import net.minecraft.stats.Stats;
+import net.minecraft.util.RandomSource;
 import net.minecraft.world.Containers;
 import net.minecraft.world.InteractionHand;
 import net.minecraft.world.InteractionResult;
@@ -19,6 +21,8 @@ import net.minecraft.world.level.block.HorizontalDirectionalBlock;
 import net.minecraft.world.level.block.RenderShape;
 import net.minecraft.world.level.block.SoundType;
 import net.minecraft.world.level.block.entity.BlockEntity;
+import net.minecraft.world.level.block.entity.BlockEntityTicker;
+import net.minecraft.world.level.block.entity.BlockEntityType;
 import net.minecraft.world.level.block.state.BlockBehaviour;
 import net.minecraft.world.level.block.state.BlockState;
 import net.minecraft.world.level.block.state.StateDefinition;
@@ -26,49 +30,44 @@ import net.minecraft.world.level.block.state.properties.DirectionProperty;
 import net.minecraft.world.level.material.MapColor;
 import net.minecraft.world.phys.BlockHitResult;
 import net.minecraft.world.phys.shapes.CollisionContext;
-import net.minecraft.world.phys.shapes.Shapes;
 import net.minecraft.world.phys.shapes.VoxelShape;
 
+import javax.annotation.Nullable;
+
 /**
- * 华夏茶桌方块
+ * 华夏箱子方块
  * 
- * 华夏文化的传统功能家具，用于品茶和社交活动。
- * 茶桌是华夏文化中重要的社交场所，体现了华夏的茶文化传统。
- * 
- * 特性：
- * - 较低的桌面高度（不是完整方块）
+ * 华夏文化特色的存储容器方块，具有以下特性：
+ * - 27槽位的存储空间
  * - 支持方向性放置
- * - 右键交互显示茶文化信息并打开茶具存储
- * - 木质材料和音效
- * - 9个槽位用于茶具和茶叶存储
+ * - 华夏风格的外观和音效
+ * - 完整的容器功能（开关动画、红石信号等）
+ * - 支持管道等自动化设备交互
+ * 
+ * 设计特点：
+ * - 继承BaseEntityBlock以支持方块实体
+ * - 使用现代的BlockEntity系统
+ * - 支持方向属性（可朝向不同方向放置）
  * 
  * @author JasonCian
  * @version 0.1.4-alpha
  * @since 2025-09-09
  */
-public class HuaxiaTeaTableBlock extends BaseEntityBlock {
+public class HuaxiaChestBlock extends BaseEntityBlock {
     
     /** 方向属性 */
     public static final DirectionProperty FACING = HorizontalDirectionalBlock.FACING;
     
-    /** 茶桌的形状 - 桌面和桌腿 */
-    private static final VoxelShape SHAPE = Shapes.or(
-            // 桌面
-            Block.box(1.0D, 8.0D, 1.0D, 15.0D, 10.0D, 15.0D),
-            // 四个桌腿
-            Block.box(2.0D, 0.0D, 2.0D, 4.0D, 8.0D, 4.0D),      // 左前腿
-            Block.box(12.0D, 0.0D, 2.0D, 14.0D, 8.0D, 4.0D),    // 右前腿
-            Block.box(2.0D, 0.0D, 12.0D, 4.0D, 8.0D, 14.0D),    // 左后腿
-            Block.box(12.0D, 0.0D, 12.0D, 14.0D, 8.0D, 14.0D)   // 右后腿
-    );
+    /** 箱子的形状（略小于完整方块） */
+    private static final VoxelShape SHAPE = Block.box(1.0D, 0.0D, 1.0D, 15.0D, 14.0D, 15.0D);
     
     /**
-     * 构造华夏茶桌方块
+     * 构造华夏箱子方块
      */
-    public HuaxiaTeaTableBlock() {
+    public HuaxiaChestBlock() {
         super(BlockBehaviour.Properties.of()
                 .mapColor(MapColor.WOOD)                // 木质色调
-                .strength(2.0F, 3.0F)                   // 中等硬度
+                .strength(2.5F)                         // 中等硬度
                 .sound(SoundType.WOOD)                  // 木质音效
                 .noOcclusion()                          // 不完全阻挡光线
         );
@@ -95,19 +94,8 @@ public class HuaxiaTeaTableBlock extends BaseEntityBlock {
     // 方块形状
     // =============================================================================
     
-    /**
-     * 获取茶桌的形状
-     */
     @Override
     public VoxelShape getShape(BlockState state, BlockGetter level, BlockPos pos, CollisionContext context) {
-        return SHAPE;
-    }
-    
-    /**
-     * 碰撞形状与视觉形状相同
-     */
-    @Override
-    public VoxelShape getCollisionShape(BlockState state, BlockGetter level, BlockPos pos, CollisionContext context) {
         return SHAPE;
     }
     
@@ -122,16 +110,22 @@ public class HuaxiaTeaTableBlock extends BaseEntityBlock {
     
     @Override
     public BlockEntity newBlockEntity(BlockPos pos, BlockState state) {
-        return new HuaxiaTeaTableBlockEntity(pos, state);
+        return new HuaxiaChestBlockEntity(pos, state);
+    }
+    
+    @Nullable
+    @Override
+    public <T extends BlockEntity> BlockEntityTicker<T> getTicker(Level level, BlockState state, BlockEntityType<T> blockEntityType) {
+        // 只在客户端提供ticker用于动画
+        return level.isClientSide ? 
+                createTickerHelper(blockEntityType, ModBlockEntities.HUAXIA_CHEST.get(), HuaxiaChestBlockEntity::lidAnimationTick) : 
+                null;
     }
     
     // =============================================================================
     // 玩家交互
     // =============================================================================
     
-    /**
-     * 处理玩家右键交互
-     */
     @Override
     public InteractionResult use(BlockState state, Level level, BlockPos pos, Player player, 
                                 InteractionHand hand, BlockHitResult hit) {
@@ -140,13 +134,9 @@ public class HuaxiaTeaTableBlock extends BaseEntityBlock {
         }
         
         BlockEntity blockEntity = level.getBlockEntity(pos);
-        if (blockEntity instanceof HuaxiaTeaTableBlockEntity teaTableBlockEntity) {
-            // 打开茶桌界面
-            player.openMenu(teaTableBlockEntity);
-            player.awardStat(Stats.INTERACT_WITH_CRAFTING_TABLE); // 使用合适的统计
-            
-            // 显示茶文化相关信息
-            player.sendSystemMessage(Component.translatable("block.millenaire_rewrite.huaxia_tea_table.message"));
+        if (blockEntity instanceof HuaxiaChestBlockEntity chestBlockEntity) {
+            player.openMenu(chestBlockEntity);
+            player.awardStat(Stats.OPEN_CHEST);
         }
         
         return InteractionResult.CONSUME;
@@ -161,11 +151,13 @@ public class HuaxiaTeaTableBlock extends BaseEntityBlock {
     public void onRemove(BlockState state, Level level, BlockPos pos, BlockState newState, boolean isMoving) {
         if (!state.is(newState.getBlock())) {
             BlockEntity blockEntity = level.getBlockEntity(pos);
-            if (blockEntity instanceof HuaxiaTeaTableBlockEntity teaTableBlockEntity) {
-                // 掉落茶桌中的所有物品
-                Containers.dropContents(level, pos, teaTableBlockEntity);
-                // 更新比较器信号
-                level.updateNeighbourForOutputSignal(pos, this);
+            if (blockEntity instanceof HuaxiaChestBlockEntity chestBlockEntity) {
+                if (level instanceof ServerLevel) {
+                    // 掉落箱子中的所有物品
+                    Containers.dropContents(level, pos, chestBlockEntity);
+                    // 更新比较器信号
+                    level.updateNeighbourForOutputSignal(pos, this);
+                }
             }
         }
         
@@ -184,5 +176,18 @@ public class HuaxiaTeaTableBlock extends BaseEntityBlock {
     @Override
     public int getAnalogOutputSignal(BlockState state, Level level, BlockPos pos) {
         return AbstractContainerMenu.getRedstoneSignalFromBlockEntity(level.getBlockEntity(pos));
+    }
+    
+    // =============================================================================
+    // 随机刻处理（用于一些特殊效果）
+    // =============================================================================
+    
+    @Override
+    public void tick(BlockState state, ServerLevel level, BlockPos pos, RandomSource random) {
+        BlockEntity blockEntity = level.getBlockEntity(pos);
+        if (blockEntity instanceof HuaxiaChestBlockEntity) {
+            // 这里可以添加一些华夏箱子的特殊效果
+            // 比如定期检查箱子状态、触发文化相关事件等
+        }
     }
 }

@@ -163,6 +163,7 @@ public class MillenaireLanguageProvider extends LanguageProvider {
         addBlock(ModBlocks.HUAXIA_STONE_LION, "Stone Lion");
 
         // 华夏功能方块
+        addBlock(ModBlocks.HUAXIA_CHEST, "Huaxia Chest");
         addBlock(ModBlocks.HUAXIA_TEA_TABLE, "Tea Table");
         addBlock(ModBlocks.HUAXIA_ALCHEMY_CAULDRON, "Alchemy Cauldron");
         addBlock(ModBlocks.HUAXIA_LOOM, "Loom");
@@ -287,19 +288,19 @@ public class MillenaireLanguageProvider extends LanguageProvider {
         // ===== 华夏方块翻译 =====
 
         // 华夏建筑材料
-        addBlock(ModBlocks.HUAXIA_GREEN_BRICK, "华夏青砖");
-        addBlock(ModBlocks.HUAXIA_RED_WALL, "华夏红墙");
-        addBlock(ModBlocks.HUAXIA_GLAZED_TILE, "华夏琉璃瓦");
+        addBlock(ModBlocks.HUAXIA_GREEN_BRICK, "青砖");
+        addBlock(ModBlocks.HUAXIA_RED_WALL, "红墙");
+        addBlock(ModBlocks.HUAXIA_GLAZED_TILE, "琉璃瓦");
 
         // 华夏装饰方块
-        addBlock(ModBlocks.HUAXIA_LANTERN, "华夏灯笼");
-        addBlock(ModBlocks.HUAXIA_SCREEN, "华夏屏风");
-        addBlock(ModBlocks.HUAXIA_STONE_LION, "华夏石狮");
+        addBlock(ModBlocks.HUAXIA_LANTERN, "灯笼");
+        addBlock(ModBlocks.HUAXIA_SCREEN, "屏风");
+        addBlock(ModBlocks.HUAXIA_STONE_LION, "石狮");
 
         // 华夏功能方块
-        addBlock(ModBlocks.HUAXIA_TEA_TABLE, "华夏茶桌");
-        addBlock(ModBlocks.HUAXIA_ALCHEMY_CAULDRON, "华夏药鼎");
-        addBlock(ModBlocks.HUAXIA_LOOM, "华夏织机");
+        addBlock(ModBlocks.HUAXIA_TEA_TABLE, "茶桌");
+        addBlock(ModBlocks.HUAXIA_ALCHEMY_CAULDRON, "药鼎");
+        addBlock(ModBlocks.HUAXIA_LOOM, "织机");
 
         // TODO: 添加其他文化方块翻译
         // addBlock(ModBlocks.VILLAGE_STONE, "村庄石材");
@@ -326,6 +327,10 @@ public class MillenaireLanguageProvider extends LanguageProvider {
         add("creativetab.millenaire_rewrite.millenaire_blocks_tab", "Millenaire Blocks");
         add("creativetab.millenaire_rewrite.millenaire_culture_tab", "Millenaire Cultures");
 
+        // 容器界面翻译
+        add("container.millenaire_rewrite.huaxia_chest", "Huaxia Chest");
+        add("container.millenaire_rewrite.huaxia_tea_table", "Tea Table");
+
         // GUI界面翻译
         add("gui.millenaire_rewrite.village_info.title", "Village Information");
         add("gui.millenaire_rewrite.culture_selection.title", "Choose Culture");
@@ -342,6 +347,10 @@ public class MillenaireLanguageProvider extends LanguageProvider {
         add("creativetab.millenaire_rewrite.millenaire_tab", "千年村庄");
         add("creativetab.millenaire_rewrite.millenaire_blocks_tab", "千年村庄方块");
         add("creativetab.millenaire_rewrite.millenaire_culture_tab", "千年村庄文化");
+
+        // 容器界面翻译
+        add("container.millenaire_rewrite.huaxia_chest", "华夏箱子");
+        add("container.millenaire_rewrite.huaxia_tea_table", "茶桌");
 
         // GUI界面翻译
         add("gui.millenaire_rewrite.village_info.title", "村庄信息");

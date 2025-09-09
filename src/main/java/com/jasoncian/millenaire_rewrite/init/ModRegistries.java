@@ -51,7 +51,7 @@ public final class ModRegistries {
         ModBlocks.init(modEventBus);
 
         // 3. 方块实体注册表（依赖方块）
-        // TODO: ModBlockEntities.init(modEventBus);
+        ModBlockEntities.init(modEventBus);
 
         // 4. 实体类型注册表
         // TODO: ModEntityTypes.init(modEventBus);

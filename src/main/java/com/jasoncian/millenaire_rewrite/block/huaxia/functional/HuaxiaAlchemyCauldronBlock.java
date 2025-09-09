@@ -1,0 +1,93 @@
+package com.jasoncian.millenaire_rewrite.block.huaxia.functional;
+
+import com.jasoncian.millenaire_rewrite.block.huaxia.HuaxiaBuildingBlock;
+import net.minecraft.core.BlockPos;
+import net.minecraft.network.chat.Component;
+import net.minecraft.world.InteractionHand;
+import net.minecraft.world.InteractionResult;
+import net.minecraft.world.entity.player.Player;
+import net.minecraft.world.level.BlockGetter;
+import net.minecraft.world.level.Level;
+import net.minecraft.world.level.block.SoundType;
+import net.minecraft.world.level.block.state.BlockBehaviour;
+import net.minecraft.world.level.block.state.BlockState;
+import net.minecraft.world.level.material.MapColor;
+import net.minecraft.world.phys.BlockHitResult;
+import net.minecraft.world.phys.shapes.CollisionContext;
+import net.minecraft.world.phys.shapes.Shapes;
+import net.minecraft.world.phys.shapes.VoxelShape;
+
+/**
+ * 华夏药鼎方块
+ * 
+ * 华夏文化的传统炼药设备，用于制作各种药物和丹药。
+ * 药鼎是华夏传统医学和炼丹术的重要工具，体现了华夏的医药文化。
+ * 
+ * 特性：
+ * - 圆形鼎状外观
+ * - 支持方向性放置
+ * - 右键交互显示炼药信息
+ * - 金属材料音效
+ * - 可能在未来版本中添加实际炼药功能
+ * 
+ * @author JasonCian
+ * @version 0.1.4-alpha
+ * @since 2025-09-09
+ */
+public class HuaxiaAlchemyCauldronBlock extends HuaxiaBuildingBlock {
+    
+    /** 药鼎的形状 - 圆形鼎身和三足 */
+    private static final VoxelShape SHAPE = Shapes.or(
+            // 鼎身主体（较大的圆柱形）
+            box(3.0D, 4.0D, 3.0D, 13.0D, 12.0D, 13.0D),
+            // 三个鼎足
+            box(2.0D, 0.0D, 2.0D, 5.0D, 4.0D, 5.0D),      // 左前足
+            box(11.0D, 0.0D, 2.0D, 14.0D, 4.0D, 5.0D),    // 右前足
+            box(6.5D, 0.0D, 11.0D, 9.5D, 4.0D, 14.0D),    // 后足
+            // 鼎耳（两侧的把手）
+            box(1.0D, 8.0D, 7.0D, 3.0D, 10.0D, 9.0D),     // 左耳
+            box(13.0D, 8.0D, 7.0D, 15.0D, 10.0D, 9.0D)    // 右耳
+    );
+    
+    /**
+     * 构造华夏药鼎方块
+     */
+    public HuaxiaAlchemyCauldronBlock() {
+        super(BlockBehaviour.Properties.of()
+                .mapColor(MapColor.METAL)               // 金属色调
+                .strength(3.5F, 6.0F)                   // 较高硬度
+                .sound(SoundType.METAL)                 // 金属音效
+                .requiresCorrectToolForDrops()          // 需要正确工具才能掉落
+                .noOcclusion()                          // 不完全阻挡光线
+        );
+    }
+    
+    /**
+     * 获取药鼎的形状
+     */
+    @Override
+    public VoxelShape getShape(BlockState state, BlockGetter level, BlockPos pos, CollisionContext context) {
+        return SHAPE;
+    }
+    
+    /**
+     * 碰撞形状与视觉形状相同
+     */
+    @Override
+    public VoxelShape getCollisionShape(BlockState state, BlockGetter level, BlockPos pos, CollisionContext context) {
+        return SHAPE;
+    }
+    
+    /**
+     * 处理玩家右键交互
+     */
+    @Override
+    public InteractionResult use(BlockState state, Level level, BlockPos pos, Player player, 
+                                InteractionHand hand, BlockHitResult hit) {
+        if (!level.isClientSide) {
+            // 显示炼药相关信息
+            player.sendSystemMessage(Component.translatable("block.millenaire_rewrite.huaxia_alchemy_cauldron.message"));
+        }
+        return InteractionResult.SUCCESS;
+    }
+}

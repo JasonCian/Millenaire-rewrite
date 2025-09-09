@@ -61,6 +61,9 @@ public class MillenaireItemModelProvider extends ItemModelProvider {
         // 为特殊物品预留的扩展点
         generateSpecialItems();
 
+        // 为方块物品预留的扩展点
+        generateBlockItems();
+
         MillenaireLogger.info(LogCategory.DATAGEN, "物品模型数据生成完成");
     }
 
@@ -292,5 +295,25 @@ public class MillenaireItemModelProvider extends ItemModelProvider {
         return getBuilder(item.getId().getPath())
                 .parent(getExistingFile(mcLoc("item/handheld")))
                 .texture("layer0", modLoc("item/" + item.getId().getPath()));
+    }
+
+    /**
+     * 生成方块物品的模型
+     * 
+     * 为所有方块物品生成模型。方块物品的模型通常继承自对应的方块模型。
+     * 注意：simpleBlockWithItem() 在 BlockStateProvider 中已经处理了大部分情况，
+     * 但对于一些特殊的方块物品，我们需要手动处理。
+     */
+    private void generateBlockItems() {
+        // 注意：简单的立方体方块物品已在 ModBlocks 注册时通过 simpleBlockWithItem() 自动生成
+        // 这里处理需要特殊物品模型的复杂方块
+        
+        // 华夏装饰方块物品 - 这些在 BlockStateProvider 中已经单独生成了物品模型
+        // 不需要在这里重复生成
+        
+        // 华夏功能方块物品 - 这些在 BlockStateProvider 中已经单独生成了物品模型
+        // 不需要在这里重复生成
+        
+        // TODO: 如果有其他需要特殊处理的方块物品，在这里添加
     }
 }

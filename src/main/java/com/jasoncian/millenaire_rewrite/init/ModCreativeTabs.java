@@ -159,13 +159,25 @@ public final class ModCreativeTabs {
     public static final RegistryObject<CreativeModeTab> MILLENAIRE_BLOCKS_TAB = CREATIVE_MODE_TABS.register(
             "millenaire_blocks_tab",
             () -> CreativeModeTab.builder()
-                    .icon(() -> new ItemStack(Items.COBBLESTONE)) // 临时使用圆石作为图标
+                    .icon(() -> new ItemStack(ModBlocks.HUAXIA_GREEN_BRICK.get())) // 使用华夏青砖作为图标
                     .title(Component.translatable("creativetab.millenaire_rewrite.millenaire_blocks_tab"))
                     .displayItems((parameters, output) -> {
-                        // 在这里添加方块到创造模式物品栏
-                        // 目前为空，后续添加方块时会填充
+                        // ===== 华夏建筑材料 =====
+                        output.accept(ModBlocks.HUAXIA_GREEN_BRICK.get());
+                        output.accept(ModBlocks.HUAXIA_RED_WALL.get());
+                        output.accept(ModBlocks.HUAXIA_GLAZED_TILE.get());
+                        
+                        // ===== 华夏装饰方块 =====
+                        output.accept(ModBlocks.HUAXIA_LANTERN.get());
+                        output.accept(ModBlocks.HUAXIA_SCREEN.get());
+                        output.accept(ModBlocks.HUAXIA_STONE_LION.get());
+                        
+                        // ===== 华夏功能方块 =====
+                        output.accept(ModBlocks.HUAXIA_TEA_TABLE.get());
+                        output.accept(ModBlocks.HUAXIA_ALCHEMY_CAULDRON.get());
+                        output.accept(ModBlocks.HUAXIA_LOOM.get());
 
-                        // TODO: 添加文化方块
+                        // TODO: 添加其他文化方块
                         // output.accept(ModBlocks.NORMAN_STONE.get());
                         // output.accept(ModBlocks.JAPANESE_WOOD.get());
                         // output.accept(ModBlocks.BYZANTINE_MARBLE.get());

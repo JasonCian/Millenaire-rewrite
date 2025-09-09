@@ -3,6 +3,7 @@ package com.jasoncian.millenaire_rewrite.datagen;
 import com.jasoncian.millenaire_rewrite.common.logging.MillenaireLogger;
 import com.jasoncian.millenaire_rewrite.common.logging.LogCategory;
 import com.jasoncian.millenaire_rewrite.culture.data.CultureType;
+import com.jasoncian.millenaire_rewrite.init.ModBlocks;
 import com.jasoncian.millenaire_rewrite.init.ModItems;
 import com.jasoncian.millenaire_rewrite.util.ModConstants;
 import net.minecraft.data.PackOutput;
@@ -57,50 +58,50 @@ public class MillenaireLanguageProvider extends LanguageProvider {
                 "A complete rewrite of the Millenaire mod for 1.20.1");
 
         // 华夏货币物品翻译
-        addItem(ModItems.HUAXIA_COPPER_COIN, "Huaxia Copper Coin");
-        addItem(ModItems.HUAXIA_SILVER_TAEL, "Huaxia Silver Tael");
-        addItem(ModItems.HUAXIA_GOLD_INGOT, "Huaxia Gold Ingot");
+        addItem(ModItems.HUAXIA_COPPER_COIN, "Copper Coin");
+        addItem(ModItems.HUAXIA_SILVER_TAEL, "Silver Tael");
+        addItem(ModItems.HUAXIA_GOLD_INGOT, "Gold Ingot");
 
         // 通用钱包翻译
         addItem(ModItems.UNIVERSAL_WALLET, "Universal Wallet");
 
         // 华夏工具物品翻译
-        addItem(ModItems.HUAXIA_BAMBOO_HOE, "Huaxia Bamboo Hoe");
-        addItem(ModItems.HUAXIA_BRONZE_SICKLE, "Huaxia Bronze Sickle");
-        addItem(ModItems.HUAXIA_IRON_FLAIL, "Huaxia Iron Flail");
-        addItem(ModItems.HUAXIA_BAMBOO_CHISEL, "Huaxia Bamboo Chisel");
-        addItem(ModItems.HUAXIA_IRON_SAW, "Huaxia Iron Saw");
-        addItem(ModItems.HUAXIA_BRONZE_HAMMER, "Huaxia Bronze Hammer");
-        addItem(ModItems.HUAXIA_ABACUS, "Huaxia Abacus");
-        addItem(ModItems.HUAXIA_BAMBOO_SCROLL, "Huaxia Bamboo Scroll");
-        addItem(ModItems.HUAXIA_COMPASS, "Huaxia Compass");
+        addItem(ModItems.HUAXIA_BAMBOO_HOE, "Bamboo Hoe");
+        addItem(ModItems.HUAXIA_BRONZE_SICKLE, "Bronze Sickle");
+        addItem(ModItems.HUAXIA_IRON_FLAIL, "Iron Flail");
+        addItem(ModItems.HUAXIA_BAMBOO_CHISEL, "Bamboo Chisel");
+        addItem(ModItems.HUAXIA_IRON_SAW, "Iron Saw");
+        addItem(ModItems.HUAXIA_BRONZE_HAMMER, "Bronze Hammer");
+        addItem(ModItems.HUAXIA_ABACUS, "Abacus");
+        addItem(ModItems.HUAXIA_BAMBOO_SCROLL, "Bamboo Scroll");
+        addItem(ModItems.HUAXIA_COMPASS, "Compass");
 
         // 华夏武器物品翻译
-        addItem(ModItems.HUAXIA_BRONZE_JIAN, "Huaxia Bronze Jian");
-        addItem(ModItems.HUAXIA_IRON_DAO, "Huaxia Iron Dao");
-        addItem(ModItems.HUAXIA_STEEL_JIAN_MASTERWORK, "Huaxia Steel Jian (Masterwork)");
-        addItem(ModItems.HUAXIA_IRON_QIANG, "Huaxia Iron Qiang");
-        addItem(ModItems.HUAXIA_STEEL_JI, "Huaxia Steel Ji");
-        addItem(ModItems.HUAXIA_SHUANG_DAO, "Huaxia Shuang Dao");
-        addItem(ModItems.HUAXIA_BIAN_FINE, "Huaxia Bian (Fine)");
+        addItem(ModItems.HUAXIA_BRONZE_JIAN, "Bronze Jian");
+        addItem(ModItems.HUAXIA_IRON_DAO, "Iron Dao");
+        addItem(ModItems.HUAXIA_STEEL_JIAN_MASTERWORK, "Steel Jian (Masterwork)");
+        addItem(ModItems.HUAXIA_IRON_QIANG, "Iron Qiang");
+        addItem(ModItems.HUAXIA_STEEL_JI, "Steel Ji");
+        addItem(ModItems.HUAXIA_SHUANG_DAO, "Shuang Dao");
+        addItem(ModItems.HUAXIA_BIAN_FINE, "Bian (Fine)");
 
         // 华夏食物物品翻译
-        addItem(ModItems.HUAXIA_RICE, "Huaxia Rice");
-        addItem(ModItems.HUAXIA_NOODLES, "Huaxia Noodles");
-        addItem(ModItems.HUAXIA_BAOZI, "Huaxia Baozi");
-        addItem(ModItems.HUAXIA_JIAOZI, "Huaxia Jiaozi");
-        addItem(ModItems.HUAXIA_MAPO_TOFU, "Huaxia Mapo Tofu");
-        addItem(ModItems.HUAXIA_KUNG_PAO_CHICKEN, "Huaxia Kung Pao Chicken");
-        addItem(ModItems.HUAXIA_BRAISED_PORK, "Huaxia Braised Pork");
-        addItem(ModItems.HUAXIA_MOONCAKE, "Huaxia Mooncake");
-        addItem(ModItems.HUAXIA_TANGYUAN, "Huaxia Tangyuan");
-        addItem(ModItems.HUAXIA_ZONGZI, "Huaxia Zongzi");
-        addItem(ModItems.HUAXIA_GREEN_TEA, "Huaxia Green Tea");
-        addItem(ModItems.HUAXIA_OOLONG_TEA, "Huaxia Oolong Tea");
-        addItem(ModItems.HUAXIA_HUANGJIU, "Huaxia Huangjiu");
-        addItem(ModItems.HUAXIA_GINSENG_SOUP, "Huaxia Ginseng Soup");
-        addItem(ModItems.HUAXIA_BIRD_NEST, "Huaxia Bird Nest");
-        addItem(ModItems.HUAXIA_GOJI_TEA, "Huaxia Goji Tea");
+        addItem(ModItems.HUAXIA_RICE, "Rice");
+        addItem(ModItems.HUAXIA_NOODLES, "Noodles");
+        addItem(ModItems.HUAXIA_BAOZI, "Baozi");
+        addItem(ModItems.HUAXIA_JIAOZI, "Jiaozi");
+        addItem(ModItems.HUAXIA_MAPO_TOFU, "Mapo Tofu");
+        addItem(ModItems.HUAXIA_KUNG_PAO_CHICKEN, "Kung Pao Chicken");
+        addItem(ModItems.HUAXIA_BRAISED_PORK, "Braised Pork");
+        addItem(ModItems.HUAXIA_MOONCAKE, "Mooncake");
+        addItem(ModItems.HUAXIA_TANGYUAN, "Tangyuan");
+        addItem(ModItems.HUAXIA_ZONGZI, "Zongzi");
+        addItem(ModItems.HUAXIA_GREEN_TEA, "Green Tea");
+        addItem(ModItems.HUAXIA_OOLONG_TEA, "Oolong Tea");
+        addItem(ModItems.HUAXIA_HUANGJIU, "Huangjiu");
+        addItem(ModItems.HUAXIA_GINSENG_SOUP, "Ginseng Soup");
+        addItem(ModItems.HUAXIA_BIRD_NEST, "Bird Nest");
+        addItem(ModItems.HUAXIA_GOJI_TEA, "Goji Tea");
 
         // 华夏贸易商品翻译
         // 茶叶类
@@ -108,19 +109,19 @@ public class MillenaireLanguageProvider extends LanguageProvider {
         addItem(ModItems.HUAXIA_OOLONG_TEA_LEAVES, "Oolong Tea Leaves");
         addItem(ModItems.HUAXIA_LONGJING_TEA_LEAVES, "Longjing Tea Leaves");
         addItem(ModItems.HUAXIA_DAHONGPAO_TEA_LEAVES, "Dahongpao Tea Leaves");
-        
+
         // 瓷器类
         addItem(ModItems.HUAXIA_CELADON, "Celadon");
         addItem(ModItems.HUAXIA_WHITE_PORCELAIN, "White Porcelain");
         addItem(ModItems.HUAXIA_BLUE_WHITE_PORCELAIN, "Blue and White Porcelain");
         addItem(ModItems.HUAXIA_DOUCAI_PORCELAIN, "Doucai Porcelain");
-        
+
         // 丝绸类
         addItem(ModItems.HUAXIA_RAW_SILK, "Raw Silk");
         addItem(ModItems.HUAXIA_SILK_FABRIC, "Silk Fabric");
         addItem(ModItems.HUAXIA_BROCADE, "Brocade");
         addItem(ModItems.HUAXIA_CLOUD_BROCADE, "Cloud Brocade");
-        
+
         // 香料类
         addItem(ModItems.HUAXIA_STAR_ANISE, "Star Anise");
         addItem(ModItems.HUAXIA_SICHUAN_PEPPER, "Sichuan Pepper");
@@ -133,13 +134,13 @@ public class MillenaireLanguageProvider extends LanguageProvider {
         addItem(ModItems.HUAXIA_TRADE_RECORD_SCROLL, "Trade Record Scroll");
         addItem(ModItems.HUAXIA_VILLAGE_MAP_SCROLL, "Village Map Scroll");
         addItem(ModItems.HUAXIA_SPELL_SCROLL, "Spell Scroll");
-        
+
         // 印章类
         addItem(ModItems.HUAXIA_VILLAGE_CHIEF_SEAL, "Village Chief Seal");
         addItem(ModItems.HUAXIA_TRADE_SEAL, "Trade Seal");
         addItem(ModItems.HUAXIA_ARTISAN_SEAL, "Artisan Seal");
         addItem(ModItems.HUAXIA_IMPERIAL_SEAL, "Imperial Seal");
-        
+
         // 风水罗盘类
         addItem(ModItems.HUAXIA_BASIC_FENGSHUI_COMPASS, "Basic Fengshui Compass");
         addItem(ModItems.HUAXIA_ADVANCED_FENGSHUI_COMPASS, "Advanced Fengshui Compass");
@@ -149,7 +150,24 @@ public class MillenaireLanguageProvider extends LanguageProvider {
         // addItem(ModItems.CULTURE_SCROLL, "Culture Scroll");
         // addItem(ModItems.DENIER, "Denier");
 
-        // TODO: 添加方块翻译
+        // ===== 华夏方块翻译 =====
+
+        // 华夏建筑材料
+        addBlock(ModBlocks.HUAXIA_GREEN_BRICK, "Green Brick");
+        addBlock(ModBlocks.HUAXIA_RED_WALL, "Red Wall");
+        addBlock(ModBlocks.HUAXIA_GLAZED_TILE, "Glazed Tile");
+
+        // 华夏装饰方块
+        addBlock(ModBlocks.HUAXIA_LANTERN, "Lantern");
+        addBlock(ModBlocks.HUAXIA_SCREEN, "Screen");
+        addBlock(ModBlocks.HUAXIA_STONE_LION, "Stone Lion");
+
+        // 华夏功能方块
+        addBlock(ModBlocks.HUAXIA_TEA_TABLE, "Tea Table");
+        addBlock(ModBlocks.HUAXIA_ALCHEMY_CAULDRON, "Alchemy Cauldron");
+        addBlock(ModBlocks.HUAXIA_LOOM, "Loom");
+
+        // TODO: 添加其他文化方块翻译
         // addBlock(ModBlocks.VILLAGE_STONE, "Village Stone");
 
         // GUI翻译
@@ -225,19 +243,19 @@ public class MillenaireLanguageProvider extends LanguageProvider {
         addItem(ModItems.HUAXIA_OOLONG_TEA_LEAVES, "乌龙茶叶");
         addItem(ModItems.HUAXIA_LONGJING_TEA_LEAVES, "龙井茶叶");
         addItem(ModItems.HUAXIA_DAHONGPAO_TEA_LEAVES, "大红袍茶叶");
-        
+
         // 瓷器类
         addItem(ModItems.HUAXIA_CELADON, "青瓷");
         addItem(ModItems.HUAXIA_WHITE_PORCELAIN, "白瓷");
         addItem(ModItems.HUAXIA_BLUE_WHITE_PORCELAIN, "青花瓷");
         addItem(ModItems.HUAXIA_DOUCAI_PORCELAIN, "斗彩瓷");
-        
+
         // 丝绸类
         addItem(ModItems.HUAXIA_RAW_SILK, "生丝");
         addItem(ModItems.HUAXIA_SILK_FABRIC, "绢布");
         addItem(ModItems.HUAXIA_BROCADE, "锦缎");
         addItem(ModItems.HUAXIA_CLOUD_BROCADE, "云锦");
-        
+
         // 香料类
         addItem(ModItems.HUAXIA_STAR_ANISE, "八角");
         addItem(ModItems.HUAXIA_SICHUAN_PEPPER, "花椒");
@@ -250,13 +268,13 @@ public class MillenaireLanguageProvider extends LanguageProvider {
         addItem(ModItems.HUAXIA_TRADE_RECORD_SCROLL, "贸易记录");
         addItem(ModItems.HUAXIA_VILLAGE_MAP_SCROLL, "村庄地图");
         addItem(ModItems.HUAXIA_SPELL_SCROLL, "法术卷轴");
-        
+
         // 印章类
         addItem(ModItems.HUAXIA_VILLAGE_CHIEF_SEAL, "村长印章");
         addItem(ModItems.HUAXIA_TRADE_SEAL, "贸易印章");
         addItem(ModItems.HUAXIA_ARTISAN_SEAL, "工匠印章");
         addItem(ModItems.HUAXIA_IMPERIAL_SEAL, "皇室印章");
-        
+
         // 风水罗盘类
         addItem(ModItems.HUAXIA_BASIC_FENGSHUI_COMPASS, "基础风水罗盘");
         addItem(ModItems.HUAXIA_ADVANCED_FENGSHUI_COMPASS, "精制风水罗盘");
@@ -266,7 +284,24 @@ public class MillenaireLanguageProvider extends LanguageProvider {
         // addItem(ModItems.CULTURE_SCROLL, "文化卷轴");
         // addItem(ModItems.DENIER, "德尼尔币");
 
-        // TODO: 添加方块翻译
+        // ===== 华夏方块翻译 =====
+
+        // 华夏建筑材料
+        addBlock(ModBlocks.HUAXIA_GREEN_BRICK, "华夏青砖");
+        addBlock(ModBlocks.HUAXIA_RED_WALL, "华夏红墙");
+        addBlock(ModBlocks.HUAXIA_GLAZED_TILE, "华夏琉璃瓦");
+
+        // 华夏装饰方块
+        addBlock(ModBlocks.HUAXIA_LANTERN, "华夏灯笼");
+        addBlock(ModBlocks.HUAXIA_SCREEN, "华夏屏风");
+        addBlock(ModBlocks.HUAXIA_STONE_LION, "华夏石狮");
+
+        // 华夏功能方块
+        addBlock(ModBlocks.HUAXIA_TEA_TABLE, "华夏茶桌");
+        addBlock(ModBlocks.HUAXIA_ALCHEMY_CAULDRON, "华夏药鼎");
+        addBlock(ModBlocks.HUAXIA_LOOM, "华夏织机");
+
+        // TODO: 添加其他文化方块翻译
         // addBlock(ModBlocks.VILLAGE_STONE, "村庄石材");
 
         // GUI翻译
@@ -325,6 +360,14 @@ public class MillenaireLanguageProvider extends LanguageProvider {
         add("message.millenaire_rewrite.not_enough_space", "Not enough space for village");
         add("message.millenaire_rewrite.reputation_gained", "Reputation gained with %s");
         add("message.millenaire_rewrite.reputation_lost", "Reputation lost with %s");
+
+        // 华夏功能方块交互消息
+        add("block.millenaire_rewrite.huaxia_tea_table.message",
+                "A place for tea ceremony and social gatherings. The essence of Huaxia tea culture.");
+        add("block.millenaire_rewrite.huaxia_alchemy_cauldron.message",
+                "An ancient cauldron for alchemy and medicine. Embodies the wisdom of traditional Chinese medicine.");
+        add("block.millenaire_rewrite.huaxia_loom.message",
+                "A traditional loom for weaving silk and fabrics. Represents the exquisite textile craftsmanship of Huaxia.");
     }
 
     /**
@@ -336,6 +379,11 @@ public class MillenaireLanguageProvider extends LanguageProvider {
         add("message.millenaire_rewrite.not_enough_space", "村庄空间不足");
         add("message.millenaire_rewrite.reputation_gained", "在%s获得了声望");
         add("message.millenaire_rewrite.reputation_lost", "在%s失去了声望");
+
+        // 华夏功能方块交互消息
+        add("block.millenaire_rewrite.huaxia_tea_table.message", "茶道与社交聚会之所，体现华夏茶文化的精髓。");
+        add("block.millenaire_rewrite.huaxia_alchemy_cauldron.message", "古老的炼药鼎炉，承载着中华传统医学的智慧。");
+        add("block.millenaire_rewrite.huaxia_loom.message", "传统的织机，用于编织丝绸与布料，展现华夏精湛的纺织工艺。");
     }
 
     /**

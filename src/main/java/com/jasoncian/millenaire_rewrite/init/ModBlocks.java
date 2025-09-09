@@ -1,5 +1,14 @@
 package com.jasoncian.millenaire_rewrite.init;
 
+import com.jasoncian.millenaire_rewrite.block.huaxia.decorative.HuaxiaLanternBlock;
+import com.jasoncian.millenaire_rewrite.block.huaxia.decorative.HuaxiaScreenBlock;
+import com.jasoncian.millenaire_rewrite.block.huaxia.decorative.HuaxiaStoneLionBlock;
+import com.jasoncian.millenaire_rewrite.block.huaxia.functional.HuaxiaAlchemyCauldronBlock;
+import com.jasoncian.millenaire_rewrite.block.huaxia.functional.HuaxiaLoomBlock;
+import com.jasoncian.millenaire_rewrite.block.huaxia.functional.HuaxiaTeaTableBlock;
+import com.jasoncian.millenaire_rewrite.block.huaxia.materials.HuaxiaGlazedTileBlock;
+import com.jasoncian.millenaire_rewrite.block.huaxia.materials.HuaxiaGreenBrickBlock;
+import com.jasoncian.millenaire_rewrite.block.huaxia.materials.HuaxiaRedWallBlock;
 import com.jasoncian.millenaire_rewrite.common.logging.MillenaireLogger;
 import com.jasoncian.millenaire_rewrite.common.logging.LogCategory;
 import com.jasoncian.millenaire_rewrite.util.ModConstants;
@@ -39,7 +48,48 @@ public final class ModBlocks {
     public static final DeferredRegister<Block> BLOCKS = DeferredRegister.create(ForgeRegistries.BLOCKS,
             ModConstants.MOD_ID);
 
-    // ========== 文化特色方块 ==========
+    // ========== 华夏文化方块 ==========
+    
+    // === 华夏建筑材料 ===
+    /** 华夏青砖 - 传统建筑的主要墙体材料 */
+    public static final RegistryObject<Block> HUAXIA_GREEN_BRICK = 
+        registerBlock("huaxia_green_brick", HuaxiaGreenBrickBlock::new);
+    
+    /** 华夏红墙 - 宫殿和重要建筑的专用墙体 */
+    public static final RegistryObject<Block> HUAXIA_RED_WALL = 
+        registerBlock("huaxia_red_wall", HuaxiaRedWallBlock::new);
+    
+    /** 华夏琉璃瓦 - 高级屋顶建材 */
+    public static final RegistryObject<Block> HUAXIA_GLAZED_TILE = 
+        registerBlock("huaxia_glazed_tile", HuaxiaGlazedTileBlock::new);
+    
+    // === 华夏装饰方块 ===
+    /** 华夏灯笼 - 传统照明装饰 */
+    public static final RegistryObject<Block> HUAXIA_LANTERN = 
+        registerBlock("huaxia_lantern", HuaxiaLanternBlock::new);
+    
+    /** 华夏屏风 - 室内隔断装饰 */
+    public static final RegistryObject<Block> HUAXIA_SCREEN = 
+        registerBlock("huaxia_screen", HuaxiaScreenBlock::new);
+    
+    /** 华夏石狮 - 镇宅神兽装饰 */
+    public static final RegistryObject<Block> HUAXIA_STONE_LION = 
+        registerBlock("huaxia_stone_lion", HuaxiaStoneLionBlock::new);
+    
+    // === 华夏功能方块 ===
+    /** 华夏茶桌 - 品茶社交功能 */
+    public static final RegistryObject<Block> HUAXIA_TEA_TABLE = 
+        registerBlock("huaxia_tea_table", HuaxiaTeaTableBlock::new);
+    
+    /** 华夏药鼎 - 炼药设备 */
+    public static final RegistryObject<Block> HUAXIA_ALCHEMY_CAULDRON = 
+        registerBlock("huaxia_alchemy_cauldron", HuaxiaAlchemyCauldronBlock::new);
+    
+    /** 华夏织机 - 纺织设备 */
+    public static final RegistryObject<Block> HUAXIA_LOOM = 
+        registerBlock("huaxia_loom", HuaxiaLoomBlock::new);
+
+    // ========== 其他文化方块（待实现） ==========
 
     // TODO: 注册诺曼文化方块
     // public static final RegistryObject<Block> NORMAN_STONE =
@@ -85,7 +135,6 @@ public final class ModBlocks {
      * @param block 方块提供器
      * @return 注册的方块对象
      */
-    @SuppressWarnings("unused") // 暂时未使用，但为将来的方块注册做准备
     private static <T extends Block> RegistryObject<T> registerBlock(String name, Supplier<T> block) {
         RegistryObject<T> toReturn = BLOCKS.register(name, block);
         registerBlockItem(name, toReturn);
@@ -99,7 +148,6 @@ public final class ModBlocks {
      * @param block 方块注册对象
      * @return 注册的方块物品对象
      */
-    @SuppressWarnings("unused") // 暂时未使用，但为将来的方块注册做准备
     private static <T extends Block> RegistryObject<Item> registerBlockItem(String name, RegistryObject<T> block) {
         return ModItems.ITEMS.register(name, () -> new BlockItem(block.get(), new Item.Properties()));
     }

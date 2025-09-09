@@ -209,15 +209,27 @@ public class MillenaireTexturePlaceholderProvider implements DataProvider {
      * 生成方块纹理占位文件
      */
     private void generateBlockTexturePlaceholders(CachedOutput cache) throws IOException {
-        // 基础建筑方块
+        // ===== 华夏文化方块 =====
+        
+        // 华夏建筑材料
+        generateTexturePlaceholder(cache, "block/huaxia_green_brick", "青砖", new Color(119, 136, 153));
+        generateTexturePlaceholder(cache, "block/huaxia_red_wall", "红墙", new Color(220, 20, 60));
+        generateTexturePlaceholder(cache, "block/huaxia_glazed_tile", "琉璃瓦", new Color(255, 215, 0));
+        
+        // 华夏装饰方块
+        generateTexturePlaceholder(cache, "block/huaxia_lantern", "灯笼", new Color(255, 69, 0));
+        generateTexturePlaceholder(cache, "block/huaxia_screen", "屏风", new Color(139, 69, 19));
+        generateTexturePlaceholder(cache, "block/huaxia_stone_lion", "石狮", new Color(169, 169, 169));
+        
+        // 华夏功能方块
+        generateTexturePlaceholder(cache, "block/huaxia_tea_table", "茶桌", new Color(160, 82, 45));
+        generateTexturePlaceholder(cache, "block/huaxia_alchemy_cauldron", "药鼎", new Color(105, 105, 105));
+        generateTexturePlaceholder(cache, "block/huaxia_loom", "织机", new Color(139, 69, 19));
 
+        // TODO: 其他文化的方块纹理占位将在对应文化实现时添加
         // Norman（诺曼）文化方块
-
         // Japanese（日本）文化方块
-
         // Byzantine（拜占庭）文化方块
-
-        // Huaxia（华夏）文化方块
     }
 
     /**

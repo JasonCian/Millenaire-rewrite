@@ -1,0 +1,14 @@
+minreputation:0
+chanceperhour:1
+maxsimultaneous:1
+
+step:new
+definevillager:key=startvillager,type=mayan/mayan_crafter,forbiddentag=feathercrafter_done
+villager:startvillager
+duration:5
+requiredgood:feather,20
+rewardreputation:92
+rewardmoney:48
+penaltyreputation:0
+settagsuccess:startvillager,feathercrafter_done
+settagfailure:startvillager,feathercrafter_done

@@ -1,0 +1,25 @@
+//Parameters for the building as a whole
+building.length=17
+building.width=13
+building.buildingorientation=0
+building.max=3
+building.mindistance=0.5
+building.icon=tachisword
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Heisha
+initial.priority=900
+initial.male=japanese_samurai
+initial.female=japanese_bravewoman
+
+//Parameters for specific upgrades
+upgrade1.priority=90
+
+upgrade2.priority=85
+
+upgrade3.priority=80
+
+upgrade4.priority=75
+upgrade4.pathlevel=1
+

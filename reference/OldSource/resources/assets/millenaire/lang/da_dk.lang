@@ -1,0 +1,34 @@
+#From 1.12 onward, block and item names must be in lang files
+#packaged within the jar.
+#A copy is provided in millenaire/languages for the translators' convenience,
+#but will not be used by Minecraft. It will however be copied within the jar
+#when a new Millénaire version is packaged.
+
+#The Translation Gaps calculator however does use the versions in the
+#millenaire/language folder, so you can check your progress without
+#copying it in the jar
+
+
+#Item names
+tile.millenaire.locked_chest.name=Bygning
+item.millenaire.normanpickaxe.name=Normansk Hakke
+item.millenaire.normanaxe.name=Normansk økse
+item.millenaire.normanshovel.name=Normansk Skolv.
+item.millenaire.normanhoe.name=Normansk Le.
+item.millenaire.normanbroadsword.name=Normansk sværd
+item.millenaire.normanhelmet.name=Normansk hjelm
+item.millenaire.normanplate.name=Normansk brystpanser
+item.millenaire.normanlegs.name=Normansk Bukser
+item.millenaire.normanboots.name=Normansk sko
+item.millenaire.rice.name=Ris
+item.millenaire.turmeric.name=Gurkemeje
+item.millenaire.vegcurry.name=Vegetar karry
+item.millenaire.chickenmeat.name=Rå kylling
+item.millenaire.chickencurry.name=Murgh Karry
+item.millenaire.brickmould.name=Murstensform
+item.millenaire.rasgulla.name=Rasgulla
+tile.millenaire.timberframeplain.name=Simpel træramme
+tile.millenaire.timberframecross.name=krydset træramme
+tile.millenaire.wetbrick0.name=Våd mursten
+tile.millenaire.cookedbrick.name=Bagt mursten
+tile.millenaire.mudbrick.name=Mudder mursten

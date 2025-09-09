@@ -1,0 +1,17 @@
+//Parameters for the building as a whole
+building.length=51
+building.width=53
+building.buildingorientation=3
+building.startinggood=iron,1.0,8,0
+building.icon=tachisword
+
+//Parameters for initial construction
+initial.startlevel=-4
+initial.nativename=Zenshou
+initial.male=japanese_samurai
+initial.male=japanese_peasant
+initial.male=japanese_armysmith
+initial.female=japanese_womanservant
+initial.tag=paddy
+initial.shop=japaneseoutpost
+

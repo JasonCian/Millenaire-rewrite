@@ -1,0 +1,13 @@
+building.length=30
+building.width=40
+building.issubbuilding=true
+building.parentbuildingplan=fort_A9
+building.max=0
+building.icon=steelsword
+building.version=2
+
+initial.startlevel=-4
+initial.nativename=Sena-nivaas
+initial.priority=900
+initial.male=indian_soldier
+initial.female=indian_peasantwife

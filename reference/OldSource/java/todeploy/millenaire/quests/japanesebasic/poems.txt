@@ -1,0 +1,16 @@
+minreputation:0
+chanceperhour:0.1
+maxsimultaneous:1
+
+step:new
+definevillager:key=startvillager,type=japanese/japanese_richwoman,forbiddentag=poems_done
+villager:startvillager
+duration:5
+requiredgood:dye_black,2
+requiredgood:dye_red,2
+requiredgood:dye_yellow,2
+requiredgood:paper,10
+rewardmoney:8*64
+rewardreputation:256
+settagsuccess:startvillager,poems_done
+settagfailure:startvillager,poems_done

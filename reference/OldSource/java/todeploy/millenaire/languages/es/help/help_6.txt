@@ -1,0 +1,9 @@
+
+version:3.4
+<darkblue>Creando aldeas
+Puedes crear un tipo de aldea de tu elección en la ubicación que quieras con una Varita de Invocación, un objeto que puedes comprar en cualquier aldea cuando tengas una reputación lo suficientemente alta. Para usar la varita, pon un bloque de oro donde desees generar una aldea y haz Click-Derecho en el bloque con la varita. La siguiente pantalla te permite elegir el tipo deseado de aldea.
+<darkblue>Destrucción de una aldea o edificio aislado
+Los habitantes de una aldea o edificio aislado reaparecen cada noche, incluso si se destruyen todos los edificios en la aldea. Para evitar esto (si quieres ocupar los edificios, por ejemplo), debes usar la <darkblue>Varita de Negación<black>: la encontrarás en los cofres del edificio principal una vez que todos los habitantes están muertos. Ten en cuenta que la destrucción de una aldea es irreversible.
+<darkblue>Aldeas controladas por el jugador
+Es posible crear una aldea siendo el líder, en la cual puedes elegir la ubicación de los edificios. Para ello, necesitas o bien ser reconocido como líder en la cultura de la aldea o haber completado la búsqueda de creación (ver sección "Misiones"), o que haya aumentado tu reputación a "Líder natural" en una aldea y hablar con su líder. Entonces verás una opción de crear aldeas controladas por el jugador en la interfaz de la Varita de Invocación.
+En las aldeas controladas por el jugador, puedes ordenar la construcción de un nuevo edificio usando la varita en el lugar deseado. Una interfaz se abrirá para que puedas elegir el edificio deseado. También puedes permitir o parar mejoras en los edificios existentes a través de los carteles de "Proyectos". Intercambiar recursos con los aldeanos es innecesario en estas aldeas - simplemente coloca los objetos en los cofres.

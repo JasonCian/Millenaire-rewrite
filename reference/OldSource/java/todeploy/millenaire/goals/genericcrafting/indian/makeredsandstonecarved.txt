@@ -1,0 +1,12 @@
+priority=25
+
+duration=5000
+
+heldItems=redsandstone,red_sandstone_carved
+
+input=redsandstone,4
+output=red_sandstone_carved,4
+
+townhalllimit=red_sandstone_carved,256
+
+sound=stone

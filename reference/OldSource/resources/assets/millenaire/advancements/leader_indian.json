@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:iron_helmet"
+        },
+        "title": {
+            "translate": "advancements.leader_indian.name"
+        },
+        "description": {
+            "translate": "advancements.leader_indian.desc"
+        }
+    },
+    "parent": "millenaire:rep_indian",
+    "criteria": {
+        "leader_indian": {
+            "trigger": "leader_indian"
+        }
+    }
+}

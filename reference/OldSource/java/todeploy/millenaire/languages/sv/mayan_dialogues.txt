@@ -1,0 +1,339 @@
+
+
+//Anglais par Teethdude
+//English by Teethdude
+//Maya by TheyCallMePoncho
+//Maya par TheyCallMePoncho
+
+newchat;key:stone,weigth:10;
+v1;0;Nojoch tuunich antal ts’íib ku bin táanil ti’ junp’éel k’aaba’ tia’al u ye’esik xiib yéetel chéen juntúul wáa junp’éel ma’alobkin wíiklal ka kuxtal. / Sten är det bästa matrialet att finnas
+v2;30;¡Kux yaan ma'alobtal bi'bi'ki! ¡Ts'íic tuunich! /  Det är även bättre när det är tillagat! Hurra för sten!
+v1;60;¡Haah k'ana'an hóok's! Ich meyah! / Vi behöver mer! Till arbete!
+
+newchat;key:pyramid,building:mayanpyramid,weigth:7;
+v1;0;Tin nah k'uh haah ma'alobkin hats'uts yéetel ma'alobkin beet. / Våra pyramider är de mest fina och bäst byggda.
+v2;30;Haah u t'aan. Xíimbal uláak' chan kaah. Utia'al letio'ob antal ki'ichpam, ¡Ba'ale' ma' ki'ichkelem he'ebix in tia'al! / Det är sant. Jag har besökt andra byar. Deras är fina men inte lika eleganta som våra!
+v1;60;In tia'al xook utia'al nahil haah hun yéetel ha'as óol.  / Våran arkitektur är unik och orginell.
+v2;90;Ma' u'uyba nohchil hach. Ma' k'áat kex antal he'ebix Byzantines. / Skryt inte för mycket. Jag vill inte att vi ska bli som de där falska Byzantinerna.
+v1;120;Ah, kux. In ch'a' k'uux. ¿¡Bixi' páahtal yaan hach  u'uyba noh ba'al!? / Åh ja, uhhh... Jag hatar dom. Hur kan någon vara så pretentiösa!
+
+newchat;key:player,weigth:10;
+v1;0;To'on ma' hach wíiniko'ob ka taal ich xíimbal lelo' kúuch. / Vi har inte så många besökare här.
+v2;30;Kux, chéen lela' $name yéetel uláak' wíiniko'ob saat... / Ja, det är bara $name och andra vilsena människor...
+v1;60;T'aan utia'al $name, ¿ma' teech tuukul ka $name il ka'anal yéetel hela'an? / När vi ändå pratar om $name, finner inte du honom att vara mer och mer märklig, och trött?
+v2;90;Kux. Leti' p'aax wa'atal. / Sant. Han borde ta och vila.
+
+newchat;key:miner,weigth:9;
+v1;0;To'on p'aax antal máas áaktun máako'ob. / Vi borde rekrytera mer gruvarbetare.
+v2;30;¡Ah kux! Nohoch tuunich yéetel yaan ma'alokin bi'bi'ki ti' kúuch. / Åh ja! Stenen och mineralerna är de bästa matrialen som finns.
+v1;60;Kux, haah u t'aan. Kurx yaan k'aana'an máas utia'al to'on, P'aax ya'abtal xook. / Jag håller med... men vi är inte tillräckligt många i byn, vi måste växa i antal.
+v2;90;Yéetel ma' ts'aa ich meyah ich mix may paal. / Och vi kan inte sätta barnen i arbete. De är för unga.
+
+newchat;key:woman,weigth:6,v1:adult,v2:adult,v1:female;
+v1;0;Haah k'iin utia'al nah. / Dags att städa huset.
+v2;30;¡Kurx teech hun k'iin! / Men det gjorde du ju igår!
+v1;60;Ma', yaan mix ba'al ka beet te'ela'. / Hur som helst, jag får inte göra något annat här.
+v2;90;¡Teech huntiich' tak ho'ol! / Du klagar alltid!
+v1;120;Yaáxil tak pool, ¡óot na'at! / Istället för att klaga på att jag klagar, försök förstå varför jag klagar!
+
+newchat;key:friend,v1:vtype:mayan_miner,v2:adult,weigth:10;
+v1;0;Ah, tin uts amikoo, ¡$targetfirstname! ¿Bixi' antal? / Åh min goda vän $targetfirstname! Hur mår du?
+v2;30;¡Toh oolal, $targetfirstname! Meen ka in páahtal, meyahil bin k'aas. / Hejsan $targetfirstname! Gör det jag kan, Min verksamhet går dåligt.
+v1;60;¿Teech p'aat koonol tuunich ich Hindis? / Har du slutat sälja sten till Indierna?
+v2;90;Kux. Behla'e' leo'ob Japanese sahkab máako'ob k'a'ay meyah, leito'ob ma' k'abeet. / Ja. Nu när självständiga Japanska gruvarbetare erbjöd sina tjänster, behöver de mig inte längre.
+v1;120;Teech ts'a'ah wa ba'ax hach. / Du måste bara erbjuda dom något annat.
+v2;150;¿Teech yaan hun tuukul? / Har du några förslag?
+
+newchat;key:monster,weigth:5;
+v1;0;Yaan hach k'aak'as ba'al táankab. / Det finns en massa monster där ute nu.
+v2;30;In antal máako'ob ba'ate'il páahtal kíimsah. / Jag är säker på att vakterna kan slåss mot dem.
+v1;60;In antal sahkil beey hun múuch' lelo'ob paal wáak'al ya'ax taah ich chan kaah. / Vad som oroar mig är om de där gröna exploderande kreaturen attackerar i en flock.
+v2;90;Ma' sahakil. To'on yaan léech tia'al ts'aa yiknal letio'ob. / Oroa dig inte. Vi har lockbeten att använda mot dom.
+v1;120;Lela' uts, to'on yaan ich $name. Leti' ma' ba'ate'el k'aw. Leti' páahtal áantah to'on.  / Okej, i värsta fall så har vi ju $name. Han slåss väl och kan försvara oss.
+v2;150;Kin ma' péek óol. Leti' ma' k'aw. / Det tvivlar jag inte på. Han är inte så dålig.
+
+newchat;key:normands,weigth:6;
+v1;0;¿Teech yaan paakat boon oot'il utia'al Normans? ¡Letio'ob hach saas! / Har du sett hudfärgen på de där Normanderna? De är så bleka!
+v2;30;¡Kux! In mix bik'in yaan paakat saas máako'ob. Hela'n.  / Åh ja! jag har aldrig sett en sån färg förut. Det är märkligt.
+v1;60;In tuukul letio'ob xota'an u k'iin... / Jag tror de kan ha en förbannelse...
+v2;90;Ma' yaan ma' na'at. Letio'ob yaan wíinik he'ebix tuláakal to'on. / Var inte fånig. De är människor precis som alla andra.
+v1;120;Ma' péek óol yaan káaltalil k'eex beey. In antal chich leio'ob ma' yaan beey. / Det är utan tvivel alkoholen som har gjort dem sådana.
+v2;150;Wale' teech antal k'aw. / Du har antagligen fel.
+
+newchat;key:alchimist,weigth:4;
+v1;0;Ch'óoch' káax, in il báaxal t'aan wáay. / När jag utforskade skogen så såg jag en roligt alkemist.
+v2;30;¿Teech' he'ebix leti' léeyli'e'? Leti' yaan su'utsil hela'an. / Har du sett honom med? Han är märkligt konstig. 
+v1;60;"¡Yéetel bixi'! Leti' yaan hun ts'íib hela'an xa'ak'. ¿Teech oohel "tseek' baakel muuts'" wa "sa'am utia'al píixan" p'aax a'al? / Och hur. Det var en lista med märkliga ingridienser. Vet du vad "krossade kranium?" eller "själ sand" är?
+v2;90;Ma'. Kurx ma' yaan hach hets' tuukul. / Nej. Men det är inte särskilt betryggande.
+v1;120;¡Kurx! To'on tuukul leti' óot beet ich tuunich yum k'iin. / Ja! Vi tror han försöker göra Filosofernas sten.
+v2;150;Tohol $targetfirstname, beey teech tuukul huum u tsikbalil wáa ba’ax, teech antal hach k'as tuukul kab yaan táax. / Modiga  $targetfirstname, om du tror på rykten, så riskerar du att tro att jorden är rund.
+v1;180;Teech antal wáa ma'alob. / Du har antagligen rätt.
+
+newchat;key:dragonegg,v1:adult,v2:adult,weigth:5;
+v1;0;Kin il ich hela'an he' boox ich bilim. / Jag såg ett märkligt svart ägg i öknen.
+v2;30;Ah, ¿ich wa maax? ¿Bixi' haah il? / Verkligen? Hur såg det ut?
+v1;60;Yaan noh, yaan wóolis chak puk’e’en. Yaan hach noh. ¡Nohoch! / Det var stort med violblå prickar. Väldigt stort.
+v2;90;¿Teech uk' Norman máak sen ya'ab wa teech antal p'a'as? / Har du druckit Normansk alkohol igen eller skämtar du? 
+v1;120;Ba'ale'... ¡Haah haahil! / Men... det är sant! jag svär!
+v2;150;¡Jaja! Teech tuukul teech tuus beey, ¡teech k'aw! / Haha! om du tror du kan lura mig bara så där, då tror du fel! 
+
+newchat;key:wither,weigth:3;
+v1;0;Ich k'aáx in il ich hela'an boox paal. / I skogen såg jag ett märkligt svart kreatur.
+v2;30;¿Haah haahil? Tsool, ¡in k'áat oohel máas! / Verkligen? Beskriv det för mig, jag är nyfiken!
+v1;60;Leti' yaan boox he'ebix baakel paal, yiknal ho'ol ich ts'ook utia'al k'ab, yéetel ich kaal, yéetel yaan ta' hach ke'el he'ebix ha' chichkunta'an tumen ke'el wáa síis... / Nåja, det var ett svart skelett liknande varelse, med två huvuden i slutet på sina armar och ett huvud på sin nacke, och dess blick var kall som is... 
+v2;90;Xi'ix mukuy pu'uch. / Det ger mig kalla kårar.
+v1;120;Enderwíinik antal k'óoch leti'. / Endermans attackerade den.
+v2;150;¿Ederwíinik? Letio'ob ma' kuxtal, teech antal wayak'. / Endermans? De existerar inte, du måste ha drömt.
+
+newchat;key:bakery,notbuilding:mayanbakery,weigth:7;
+v1;0;To'on p'aax wa'akum nah hun tu'ux ku meenta'al yéetel ku ko'onol waah. Too'n antal ich meyahil. / Vi borde bygga ett bageri. Det skulle vara lönande för oss.
+v2;30;Haah u t'aan. To'on ma' kukin otoch waah. / Det är sant. Vi kan inte nöja oss med hemmagjort bröd.
+v1;60;Bin ich t'aan ich halach wíinik. / Låt oss gå och prata med hövdingen.
+
+newchat;key:bestdad,v1:child,v2:child,weigth:8;
+v1;0;Tin taatáa yaan toop tumen leti' haah hun ma'ako'ob mol che'. / Min far är den bästa för att han är en skogshuggare!
+v2;30;¡Jah! ¡Che' haah ma' k'abéet! Tin taatáa yaan toop tumen antal sahkab máako'ob. / Pff! Trä är värdelöst! Min är bättre för att han är en gruvarbetare!
+v1;60;Mina'an che', a taatáa ma' meyah. / Utan trä, så har ding pappa inget syfte.
+v2;90;¿¡Ba'ax!? ¿Teech kaxan hun? / Jaså!? Du letar efter ett?
+v1;120;Ka'anal, tuunich ma' yaan meyah. ¡Ta'! / Sluta, sten är värdelös, Erkänn.
+v2;150;¡Mina'an tuunich, a taatáa weneh yáanal eek'! / Utan sten, så skulle din pappa sova under stjärnorna!
+
+newchat;key:becomeadult,v1:child,v2:child,weigth:9;
+v1;0;Kin yaan sahakil utia'al suut nohoch máak. / Jag är rädd för att bli vuxen.
+v2;30;¿Ba'ax ten? / Varför?
+v1;60;Tumen... Yaan hach hach meyahil yéetel ma' báaxah... / Meh, för att... Det är för mycket arbete och vi kan inte leka mer...
+v2;90;Teech il, ¡toop! / Du ska få se, det är toppen!
+v1;120;Ma'... Kin ma' k'áat! Kin ma' k'áat! Kin ma' k'áat! / Nej... Jag vill inte! Jag vill inte! Jag vill inte!
+
+newchat;key:rebellion,v1:child,v2:child,rel:sibling,weigth:6;
+v1;0;¡Taatáa yéetel na' yaan k'aw! ¡To'on yaan léeyli'e' cho' tin otoch! / Mamma och pappa är så orättvisa! Vi måste alltid städa våra rum!
+v2;30;¡Kurx! ¡To'on p'aax e'es yéetel k'áat hun kuxtal hach tsikbe’en! / Ja! Vi borde göra motstånd och kräva bättre behandling!
+v1;60;¡To'on il! ¡Teech na'! / Nu ska vi slåss! Fokusera på Mamma!
+
+newchat;key:japanese,v1:adult,weigth:8;
+v1;0;Eh, $taargetfirstname, il. / Hej, $targetfirstname, titta på detta.
+v2;30;¡Báaxal t'aan ts'oons! ¿Tu'ux teech antal? / Roligt svärd! Och rolig Pilbåge! Vart fick du tag på detta?
+v1;60;Haah yumi yéetel tachi. Utia'al Japanese máaskab. / Det är ett Yumi pilbåge och en Tachi. Från den Japanska smeden.
+v2;90;Haah hats'uts yéetel k'abéet. ¿Haah ko'ok? / Det är vackert och effektiv. ar den dyr?
+v1;120;¡Kurx! ¡In ch'iin 2 sak taak'in yiknal yumi! / JA! Jag slösade två silver mynt på bara pilbågen!
+v2;150;¡Oohh! Teech líik'es hach táanil maan. / Wow! Du måste ha sparat mycket innan du kunde köpa dom.
+
+newchat;key:exchange,v1:adult,v2:adult,v1:male,v2:male,weigth:9;
+v1;0;Heh, $targetfirstname. ¿To'on k'íiwik toohol koonol? / Hejsan $targetlastname, sir. Håller våran marknad fortfarande?
+v2;30;Kurx, kurx. He'ebix in a'al, in yaan túulis. / Ja, ja. Som sagt så har jag allt.
+v1;60;¡Huntiich ich k'iin! Haah ma'aldo beet meyahil yiknal teech. / Alltid punktlig! Trevligt att göra affärer med er.
+v2;90;Ki’imak óolal haah tin. Le túun... 32 chuun che' tumen 8 máaskab. ¡Péeka'an! q/ Nöjet är på min sida. Så... 32 stockar mot 8 järntackor. 
+v1;120;Hach dyos bo’otik, yuum. Teech yaan ich ma'aldo k'iin. / Tack så mycket. Ha en bra dag.
+v2;150;Teech, yuum $targetlastname! / Till dig med, Herr. $targetlastname !
+
+newchat;key:embauchement,v1:adult,v2:vtype:mayan_warrior,weigth:7;
+v1;0;Kin meyah máak teech tia'al kalan in, tumen 48 Deniers tumen k'iin. / Jag vill hyra dig till att skydda mig, i utbyte för 48 mynt per dag.
+v2;30;Amm... koonol bahux k'iin teech meyah máak, $targetfirstname. / Hmm... Beror på hur länge du hyr mig för, $targetfirstname
+v1;60;6 K'iin. Tin xiibil peek' ma' ka'ans tia'al kalan in kin. / Sex dagar. Mina hundar räcker inte för att skydda mig.
+v2;90;Hun Argentum. Ma' óotsil. / Okej, Ett silver mynt. Inte mindre.
+v1;120;¡Lelo' haah ookol! / Det är ett rån!
+v2;150;Ma', $targetfirstname. Kin péek óol tin kuxtal waye' meyahil. / Inte alls, $targetfirstname. Jag riskerar ju mitt liv.
+
+newchat;key:cereal,v2:vtype:mayan_farmer,weigth:9;
+v1;0;Kin k'áat pak'al arroz. / Jag ska försöka att plantera ris.
+v2;30;¿Arroz? ¿Ba'ax yaan? / Ris? Vad är det?
+v1;60;Hun aban in maan utia'al Hindu. ¡Letio'ob t'aan yaan ki'! / En planta som jag har köpt från Hinduerna. De säger att det är utsökt!
+v2;90;¿Kin páahtal túum? / Kan jag få prov smaka?
+v1;120;Yah tu yool, ma'. Kin pak' neek'. / Tyvärr inte. Jag behöver plantera allt ris.
+v2;150;Lelo' ma' antal k'abéet. / Det kommer inte att fungera.
+
+newchat;key:zombiepigmen,weigth:6;
+v1;0;¿Teech il chak iik' hach túumben? / Såg du förra stormen?
+v2;30;¡Yéetel he'ebix! Tin koolki' óolt ha', kurx kin yaan sahkil. / Och hur! Våra grödor njöt av vattnet men det var hemskt.
+v1;60;Kin antal pak'al, yéetel antal k'éek'en tséel kin. / Nåja, Jag var ute på slätten, och det var en gris brevid mig.
+v2;90;¿Yéetel? / Och? 
+v1;120;Hun haats' cháak yéetel leti'... Leti' níikil paachil mo'ol... / Blixten slog ner och... Han stog upp på sina bak ben...
+v2;150;¿Haah u t'aan? ¿Bixi' il? / Verkligen?! Hur såg den ut?
+v1;180;Lei' yaan kuuxum ya'ax óok'ol... wa wa ba'axhe'ebix leto'. Lei' yaan xtol k'uun. / Den hade grönt mögel på sig.. eller något liknande. Och så hade den ett svärd av guld.
+v2;210;¿Teech kóoch wa hóok'ol? / Attackerade du eller flydde du?
+v1;240;In antal ma' xtol. Kurx leti' ma' k'áat kóoch kin. Leti' il kin, suut, yéetel xíimbal ma' ohéelal t'aan máan. / Jag var obeväpnad. men den attackerade mig inte. den tittade på mig, vände sitt huvud och gick iväg utan att veta vad som hände.
+v2;270;Teech p'aax ts'aa k'áak'. ¿Yéetel k'óoch chan kaah? / Du borde ha använt eld. Tänk om den attackerar byn?
+v1;300;Kurx haats' cháak, yéetel leti' uúy mix ba'al. / Den skadas inte av eld, Blixten träffade den igen och den kände inget.
+
+newchat;key:recolt,weigth:10;
+v1;0;T'ook yaan pik'taan tun. / Det är en stor skörd i år.
+v2;30;Kurx, yéetel tak ho'ol yaan chich pool. / Ja, och at klaga vore dumt.
+v1;60;¡Wáa! / Instämmer!
+
+newchat;key:village,weigth:8;
+v1;0;Kin tuukul chan kaah il ma'aldo. / Jag tycker våran by är fin.
+v2;30;Wáa. Yaan hach hats' uts. / Det gör jag med. Den är väldigt konstnärlig.
+v1;60;Yaan dyos bo'otik tuunich yéetel na'at meent. / Det är tack vare stenarna och våran mästare på arkitektur.
+
+newchat;key:peasantdialog,v1:vtype:mayan_peasant,v2:vtype:mayan_peasant,weigth:10;
+v1;0;Hach hach nal tia'al hooch, hach kóom k'iin... / Så mycket majs att skörda, så lite tid...
+v2;30;Kurx, in k'áat to'on yaan xet' utia'al hooch. / Ja, Jag önskar vi fick en del av skörden.
+
+newchat;key:playerorigins,weigth:10;
+v1;0;$name haah ich hela'an máako'ob. / $name Är en ganska märklig person.
+v2;30;Haah hach hela'an ka normans. / Även märkligare än Normanerna.
+v1;60;¿Kurx utia'al tu'ux taal leti'? / Men vart kommer han ifrån?
+v2;90;Kin ma' antal, leti' ma' haah il he'ebix uláak' chan kaah. / Inte säker, han verkar inte vara från någon kultur.
+
+newchat;key:byzantins,weigth:9;
+v1;0;Kin ma' muk'yah ich leio'ob Byzantines, ¡letio'ob tuukul letio'ob yaan yuumil lu'um! / Jag står inte ut med Byzantinerna, de tror de äger detta landet!
+v2;30;¿Yéetel teech il lelo'ob nahils? / Och har du sett deras byggnader?
+v1;60;Kurx kin il lelo'ob, hach hela'am. / Ja det har jag gjort, Väldigt märkliga.
+v2;90;¿Pak'lu'um? ¿Ka haah xuul? / Tegelstenar? vad är poängen!?
+v1;120;Letio'ob ts'aa ba'al utia'al xukul, he'ebix Normans. / De använder även det där glass sakerna, precis som Normanerna gör.
+v2;150;Túun, kurx leio'ob il hach máan táanil ka indians. Letio'ob chéen yaan hool. / Sant, men de verkar mer advancerade än Hinduerna. De har inget i deras fönster.
+
+newchat;key:dialogchildmother,v1:child,v2:adult,v2:female,rel:parent,weigth:10;
+v1;0;¡Na'! ¿Kin páathal bin báaxal táanakb chan kaah? / Mamma! kan jag leka längre från byn?
+v2;30;Ma' tin paal, kin ma' k'áat ka teech k'ool. / Nej, mitt barn, Jag vil inte att du kommer till skada.
+v1;60;K'ool utia'al ka? Ma' haah hach k'as táanak. / Skadad från vad? det är inte farligt där ute...
+v2;90;U'uy, yaan hach k'as paal táankab... / Lyssna, det är farliga varelser där ute...
+v1;120;¿K-ka xook utia'al paal, na'? / V-vad för sorts varelser mamma?
+v2;150;K'aas ba'al he'ebix... creepers. / Hemska saker som...Creepers.
+v1;180;C-c-creepers? / C-c-creepers? 
+v2;210;Kurx tin paal, letio'ob áalkab paach teech chan kaah yéetel waak' teech. / Ja mitt barn, de följer dig hem och spränger dig när du minst anar det.
+
+newchat;key:tobewarrior,v1:vtype:mayan_warrior,v2:notvtype:mayan_warrior,weigth:9;
+v1;0;Antal máako'ob ba'ate'el yaan ma'aldo ka in beet. / Att bli en krigare är det bästa beslutet jag tagit. 
+v2;30;¿He'ebix bin?? / Hurså?
+v1;60;Tumen kin páahtal bin aantah ich toop ch’a’ k’uxta’an, hach  náays óol ka hooch ixi'im. / För att jag går ut och slåss mot monster, mycket roligare än att skörda majs.
+v2;90;Kux kuxtal yaan máas hets'. / Men mitt liv är mycket mer säkrare.
+v1;120;Túun, kux huntiich' antal óot hach k'as. / Sant, men jag har alltid sökt spänning.
+
+newchat;key:likemydad,v1:male,v2:child,v1:child,weigth:8;
+v1;0;¡Kin k'áat yaan he'ebix taat utia'al noch. / Jag vill bli som min pappa när jag blir stor!
+v2;30;¿Hun sahak? / En fegis?
+v1;60;¿Ba'ax? Ma', Leti' ma' yaan hun sahak. / Va? nej, han är inte en fegis.
+
+newchat;key:palace,v1:vtype:mayan_king-mayan_leader-mayan_chieftain,v2:adult,weigth:9;
+v1;0;Leti' kuxtal kuxtah tin ha'ak'óol nukuch nah. / Det är livet att leva i mitt underbara palats.
+v2;30;¡Yéetel yaan hun ha'ak'óol nukuch nah, tin chanan! / Och ett väldigt fint palats det är min ledare!
+
+newchat;key:become,v1:adult,v2:child,v2:male,rel:child,weigth:9;
+v1;0;¿Kex teech k'áat yaan utia'al noch? / Vad vill du bli när du blir stor?
+v2;30;Kin ma' oohel, wale' kanan, wa pan... we'matz wale'.. / Jag vet inte, kanske en krigare, eller en gruvarbetare...Bonde kanske...
+v1;60;Teech yaan yéey hayp'éel k'iin. / Du måste bestämma dig någon dag.
+
+newchat;key:wah,weigth:9;
+v1;0;Kin yaakun hanal wah. / Jag gillar att äta wah.
+v2;30;¡Kin léeyli'e'! Yaan alobkin tuukul. / Jag med! Bästa tanken någonsin.
+
+newchat;key:rain,v1:female,v2:female,v1:hasspouse,v2:hasspouse,weigth:9;
+v1;0;To'on k'abeet cháak tia'al ixi'im. / Vi behöver regn till majsen.
+v2;30;Kin óot cháak. / Hur jag önskar det skulle regna.
+v1;60;Wale' beey payal chi', píixan ts'a'ah to'on hun hooch nohoch lelo' tun. / Kanske om vi ber, så kanske andarna ger oss regn som kommer ge oss en bra skörd i år.
+v2;90;Ma'aldo, bin behla'e' túumen to'on ma' antal tusbel. / Okej, låt oss be så snart vi inte är upptagena.
+
+newchat;key:zombie,v2:vtype:warrior,v2:vtype:mayan_warrior,weigth:8;
+v1;0;¿Yéetel beey hun túuk utia'al kimen k'óoch? / Vad ska vi göra om en stor flock med zombier invaderar?
+v2;30;Teech ma' tuukul, kin yaan ba'ate'el máako'ob ti' lu'um. / Oroa dig inte, Jag är den bäst tränade krigaren i landet. 
+
+newchat;key:rich,v1:female,v2:vtype:mayan_peasantwife,v1:vtype:mayan_peasantwife,weigth:8;
+v1;0;Ix yaan túulis, ma' beet mix ba'al. / Rika kvinnor har det bra, de behöver inte arbeta.
+v2;30;Kux, kin tuukul kuxtal beey. / Ja jag önskar jag hade det så.
+v1;60;Kin tuukul kin ts’o’okol beel yiknal wa maax yiknal máas taak'in. / Jag visste att jag skulle ha gift mig med någon med mycket pengar.
+
+newchat;key:rule,v1:male,v2:male,v1:notvtype:mayan_king-mayan_leader-mayan_chieftain,v2:notvtype:mayan_king-mayan_leader-mayan_chieftain,weigth:9;
+v1;0;Kin pa'at hayp'éel k'iin kin ahau lela' chan kaah. / Jag hoppas att jag en dag kommer att styra byn.
+v2;30;Teech toohol náay, tumen kin antal ka'an ba'a teech. / Fortsätt drömma, för att jag kommer att styra innan dig.
+v1;60;To'on paakat... to'on paakat. / Vi får väll se... Vi får väll se.
+
+newchat;key:indians,weigth:8;
+v1;0;Indians il máas hets' óol kex normans, ¿ma'? / Hinduerna verkar mer fredliga än Normanerna är inte sant?
+v2;30;Kux, wale' to'on páathal óot nuuch yiknal letio'ob. / Ja, kanske vi borde försöka att alliera oss med dom.
+v1;60;Hmm... Kux, le túun wale' to'on páathal k'óoch normans, wa Byzantines. / Hmm..Ja, då kanske vi tillsammans kan plundra Normanerna, eller till och med bysantinerna. 
+
+newchat;key:gravity,weigth:7;
+v1;0;K'iin yaan kóom waye' lu'um. / Dagarna är mycket kortare i detta landet.
+v2;30;Ka, yéetel lu'um chíikpahal báab ichmáal. / Ja, och marken verkar flyta ibland.
+v1;60;Chichan yaah... yéetel sa'am. / Förrutom grus och sand.
+v2;90;Kin k'áat ba'ax ten. / Jag undrar varför.
+
+newchat;key:obsidian,v1:vtype:mayan_obsidiancrafter,weigth:8;
+v1;0;Nu'ukul yéetel ts'oon utia'al obsidiana yaan máas hats'uts. / Obsidian Verktyg och vapen är de finaste.
+v2;30;Hats'uts ba'ale kex mix máak páahtal yaan wa hayp'éel. / Så lyxiga men alla kan ha dem.
+v1;60;Bahab yaan ma'alob tia'al peech' ich a ch’a’ k’uxta’an. / Spikklubban är bra till att omtumla dina fiender.
+v2;90;¿Haahil? Kin yaakun il hun ts'aa ich péek. / Verkligen? jag skulle älska att se en användas.
+
+newchat;key:mayanarchitecture,weigth:7;
+v1;0;Nahil maya antal tsíib máas chichha'an ti' lu'um.  / Maya Arkitektur är den starkaste i hela landet.
+v2;30;Yaan yiknal túulis áaktum utia'al tuunich ka to'on beet lelo' hats'utsil. / Det är med all sten som vi bygger dessa skönheter.
+v1;60;Kin k'áat bahux nah utai'al tuunich to'on yaan ka beet. / Jag undrar hur många sten hem som vi ska göra?
+v2;90;Chéen k'iin a'al, amikoo./ Endast tiden vet svaret, min vän.
+
+newchat;key:cacaoyer,weigth:7;
+v1;0;There are few cocoa trees here, this place is unhealthy. Det är för få kakao träd här, Detta stället är ohälsosam.
+v2;40;Let's plant some. Ska vi plantera några.
+v1;80;Says you! Cocoa beans are extremely expensive! Säger du! Kakao bönor är extremt dyra!
+v2;120;Ek Chuah will help us. Ek Chuah kommer att hjälpa oss.
+
+newchat;key:chickenegg,weigth:5;
+v1;0;We don't have enough chickens to sacrifice. Vi har inte tillräckligt med kycklingar att offra.
+v2;40;I think we passed by $name. Let's buy eggs from him. Jag tror vi passerade $name. Ska vi köpa ägg fron honom.
+v1;90;You are right, let's do that. Du har rätt, det gör vi.
+
+newchat;key:ahmunghanan,weigth:6;
+v1;0;Thanks to Ah Mun and Ghanan, our harvests are good. Praise be to them! Tacka Ah Mun och Ghanan, att våran skörd är bra.
+v2;30;Let's thank them during prayer. Låt oss tacka dom när vi ber.
+v1;80;What can we offer them? Vad kan vi erbjuda dom?
+v2;120;Don't be stupid! Our blood, of course! Va inte dum! Vårat blod, självklart!
+
+newchat;key:badweather,weigth:8;
+v1;0;Chac is angry. The weather is bad. Chac är arg. Vädret är dåligt.
+v2;40;We're not praying enough. Vi ber inte tillräckligt.
+
+newchat;key:monotheisme,weigth:4;
+v1;0;Really? $name is monotheistic? Verkligen är $name  monoteism?
+V2;35;He doesn't seem to take our religion seriously... Han verkar inte vara seriös med våran religion...
+v1;75;Come on, He's not stupid enough to not believe in our Gods. Kom igen, Han är inte dum nog för att tro på våra gudar.
+
+newchat;key:mayangods,v1:adult,v2:adult,weigth:8;
+v1;0;Faith is our only weapon in these strange lands. Tro är vårat ända vapen i detta märkliga land.
+v2;40;Given our situation, we need to punish those who offend our gods. Beroende på våran situation, så behöver vi bestraffa de som förolämpar våra gudar.
+v1;80;We can certainly not get them offended. Vi kan inte tillåta att de blir förolämpade.
+
+newchat;key:poktapok,weigth:7;
+v1;0;I love Pok-ta-Pok! / Jag älskar pok-ta-pok!
+v2;40;Me too! I must say that it is one of our few fun activities here. / Jag med! jag måste säga att det är en av de få roliga aktiviteter vi har.
+v1;80;It's true. It's boring...and I lost my last ball! / Det är sant. Det är tråkigt...och jag har förlorat min sista boll!
+
+newchat;key:year,weigth:5;
+v1;0;We knew before anyone else that one year was precisely 365.2420 days. / Vi visste innan någon annan att det är 365.2420 dagar på ett år.
+v2;40;We are good in all areas: mathematics, art, geography... / Vi är bra i alla områden: matematik, konst, geografi...
+
+newchat;key:puja,weigth:6;
+v1;0;Did you go to pray? / Gick du iväg för att be?
+v2;35;Of Course! A real Maya must! / Javisst! en redig Maya måste!
+v1;80;Haha! Of course! What a stupid question I asked. / Haha! javisst! vilken dum fråga jag frågade.
+
+newchat;key:endofworld,weigth:3;
+v1;0;Our shamans and our astrologers see something. / Vår schaman och våra astrologer ser något.
+v2;40;Oh really? What? Verkligen? vad?
+v1;80;They see an important event in the year 2012. / De ser något viktig händelse som kommer att inträffa 2012.
+v2;120;You do not think they are planning a little too far ahead? / Du tycker inte att de planerar lite för långt fram?
+
+newchat;key:xaire,weigth:3;
+v1;0;Xaire, $targetfirstname!
+v2;30;"Xaire? What's ""xaire""?" Xaire? / vad betyder ""xaire""?
+v1;70;A Byzantine greeted me this way. / En bysantin hälsade mig på detta sättet.
+v2;110;Come on. You are Maya. Let's greet ourselves in our language. / kom igen. du är en maya. Du kan åtminstonde hälsa på oss i vårt eget språk.
+v1;150;A real Maya must have knowledge in all areas. / En redig Maya måste ha kunskaper inom alla områden.
+v2;200;I grant you that it is good to be able to speak several languages, but you will not talk that way in the village! / Jag håller med dig att det är bra att kunna prata flera olika språk, men du ska inte prata så i byn! 
+
+newchat;key:bloodbis,v1:adult,v2:adult,weigth:2;
+v1;0;Let's mutilate ourselves during the next prayer. / Ska vi mutilera oss när vi ber nästa gång?
+v2;40;I have already done so. Not you? / Det har jag redan gjort. Har inte du?
+v1;80;I-I-I prefer to keep my blood / Jag föredrat att behålla mitt blod
+v2;120;And now, you're doing it again! Every time you look decided, you change your mind! / Och nu, gör du ju det igen! varje gång så verkar du bestämd, men så ändrar du dig!
+v1;160;I don't want to! / Jag vill inte!
+v2;200;You refuse to honour our gods?! / Vägrar du att hedra gudarna?!
+ 
+newchat;key:cacao,weigth:6;
+v1;0;Cocoa is healthy and delicious... / Kakao är hälsosamt och gott...
+v2;40;Healthy, no doubt! But delicious, surely not! Wah is so much better. / Hälsosamt, inga tvivel! men god? håller inte med. Wah är så mycket godare.
+v1;80;Cocoa is the favourite food of the gods. Eat what they offer you. / Kakao är gudarnas favorit mat. Ät det de erbjuder dig.
+
+newchat;key:reborn,weigth:7;
+v1;0;What a wonderful butterfly over there. Maybe this is our friend, sacrificed four years earlier? / Vilken vacker fjäril som är där. Kanske detta är våran vän, Som blev offrad för fyra år sedan?
+v2;40;I think he would be a hummingbird instead! / Jag tror han är en kolibri istället!
+v1;80;We won't be the ones to know. / Det kommer vi aldrig att få reda på.

@@ -1,0 +1,232 @@
+//Name of the villager types
+//Left empty when no translation is needed
+//Norman:
+villager.carpenter=Snedker
+villager.cattleFarmerMale=Kvæg Landmand
+villager.cattleFarmerFemale=Kvæg Landmand
+villager.boy=Dreng
+villager.girl=Pige
+villager.teenagerMale=Teenager
+villager.teenagerFemale=Teenager
+villager.farmer=Landmand
+villager.viking_merchant=Viking handelsmand
+villager.weapon_merchant=Våben Handelsmand
+villager.plant_merchant=Plante Handelsmand
+villager.oriental_merchant=Asatisk Handelsmand
+villager.art_merchant=Kunst Handelsmand
+villager.wool_merchant=Uld Handelsmand
+villager.food_merchant=Mad Handelsmand
+villager.guard=Vagt
+villager.guildmaster=Klan Leder
+villager.knight=Ridder
+villager.lady= Dame
+villager.lumberman=Skovhugger
+villager.merchant=Handelsmand
+villager.miner=Mine arbejder
+villager.monk=Munk
+villager.priest=Præst
+villager.seneschal=Hovmester
+villager.smith=Smed
+villager.wife=Landsby kvinde
+
+//Indian villagers
+villager.indian_boy=Dreng
+villager.indian_girl=Pige
+villager.indian_teenagerMale=Teenager
+villager.indian_teenagerFemale=Teenager
+villager.indian_lumberman=Skovhugger
+villager.indian_miner=Minearbejder
+villager.indian_pandit=Præst
+villager.indian_peasant=Bonde
+villager.indian_peasantwife=kvindelig bonde
+villager.indian_rajputgeneral=Rajput General
+villager.indian_richwoman=Rig kvinde
+villager.indian_soldier=Rajput Soldat
+villager.indian_villagechief=Landsby høvding
+
+//Cultures
+culture.norman=Normandiet
+culture.indian=Hindi
+
+startup.loadproblem=Det var en fejl under indlæsningen <0>.
+startup.checkload=Se om kultur mapperne er i Millenaire mappen i minecraft mappen.
+startup.millenaireloaded=<0> Er indlæst. Udforsk og pres "v" for at lokalisere landsbyer.
+startup.radiuswarning=ADVARSEL: At sætte landsby radius så høj burde ikke være nødvendigt og vil give mere lag. Tal over <0> er ikke anbefalet.
+
+command.nogenerate=<0> Vil ikke længere generer landsbyer i nye chunks i denne verden.
+command.willgenerate=<0> Vil nu generer landsbyer i nye chunks i denne verden.
+command.astarpathing=Using A* pathing
+command.binarypathing=Using binary pathing
+command.inactive=Inaktive
+command.active=Aktive
+command.frozen=Frosset
+command.villagelist=<0> (<1>) er <2> meter til <3>.
+command.noknowvillage=Ingen kendt landsby tættere på end 2 km. Forsæt søgning!
+command.newvillagefound=Ny landsby fundet: <0> Af typen <1> Og kultur <2> er <3> meter til <4>.
+
+//Text used in various UI parts, in no specific order:
+ui.lockedchest=Låst kiste
+ui.largelockedchest=Stor låst kiste
+ui.outofstock=ingen på lager!
+ui.missingdeniers=Du mangler <0> deniers.
+ui.missingequipment=Manglende udstyr
+ui.noneininventory=Du har ingen i din taske
+ui.selling=Sælger
+ui.buying=Køber
+ui.sellercoming=Nu skal jeg være der, Hr!
+ui.tradecomplete=Jeg håber du kan lide at handle med os! Hav en god dag.
+ui.wesell=Vi sælger
+ui.webuy=Vi sælger
+ui.isell=Jeg sælger 
+ui.inventory=Taske
+ui.villagechief=Høvdingen af landsbyen <0>
+ui.yourstatus=din status
+ui.possiblehousing=Ledige værelser
+ui.alreadybuilt=Allerede bygget
+ui.alreadyrequested=Allerede bedt om
+ui.notavailableyet=Ikke tilgængelig endnu
+ui.available=Tilgængelig
+ui.youaremissing=Du mangler: <0>
+ui.scrollsnoreputation=Din status er ikke god nok til at købe landsby skøde.
+ui.scrollsok=Du kan købe landsby skøde.
+ui.buyscroll=Køb landsby skøde.
+ui.cost=Koster
+ui.scrollbought=Du er nu stolt på af vores landsbys pergament behandler!
+ui.housebought=Konstruktionen af din <0> Vil starte snart!
+ui.inconstruction=Under opbygning
+ui.nospace=Ikke nok plads
+ui.reservedforvillager1=Reseverede
+ui.reservedforvillager2=for landsby medlemmer
+ui.currentlyempty1=Nuværende
+ui.currentlyempty2=tom
+ui.visitorslist1=Besøgende
+ui.visitorslist2=Liste
+ui.goodstraded=Vare handlede
+ui.imports=Importerede
+ui.exports=Exporterede
+ui.merchants=Handelsmænd
+ui.goalscompleted1=Alle bygninger
+ui.goalscompleted2=Mål klaret
+ui.project=Projekt
+ui.noconstruction1=Ingen konstruktion
+ui.noconstruction2=i process
+ui.upgrading=opgraderende
+ui.construction=konstruktion
+ui.population=Befolkning
+ui.adults=voksne
+ui.teens=Teenageres
+ui.children=Børn
+ui.villagemap=Kort over landsbyen
+ui.wandwrongblock=Denne tryllestav virker kun på en obsidian blok for en tilfældig landsby eller på følgende bloks:
+ui.wandblocklist=<0> for en <1>
+ui.brickinstructions=1 dirt og 1 sand skal bruges for disse Mursten.
+ui.buildingscentre=Centre
+ui.buildingsstarting=starter bygninger
+ui.buildingsplayer=Spillers bygninger
+ui.buildingskey=Nøgle bygninger
+ui.buildingssecondary=sekundær bygninger
+ui.buildingsextra=Ekstra bygninger
+ui.worldnotgenerated=Området omkring dig er ikke helt genreret. Gå væk og kom igen.
+
+
+
+//Errors
+ui.updateEntity=Error in TileEntityBuilding.updateEntity(). Check millenaire.log.
+
+//Panels & parchments
+panels.notextfound=Ingen tekst fundet til denne bog
+panels.invalidid=Forkert landsby ID
+panels.toofar=Landsbyen er for langt væk til at hente oplysninger
+panels.recordsnotloaded=Landsby oplysningerne kunne ikke hentes.
+panels.villagescroll=Landsby skøde
+panels.mother=Mor
+panels.father=Far
+panels.spouse=Ægtefælle
+panels.missing=MANGLER!
+panels.multiple=TILSTEDE <0> GANGE!
+panels.currentoccupation=Nuværende beboelse
+panels.visitors=Besøgende
+panels.constructions=Konstuktioner
+panels.upgrade=Opgrader
+panels.buildingprojects=Bygning projekter
+panels.notyetbuilt=ikke bygget endnu
+panels.nbupgradesleft=<0> Opgraderinger tilbage at bygge.
+panels.finished=Færdig
+panels.houseunoccupied=DEtte hus er ikke beboet. Børn der vokser til teenager vil til sidst flytte ind og blive voksne.
+panels.man=Mand
+panels.woman=Kvinde
+panels.nofemaleresident=Dette hus vil aldrig have en kvindelig beboer.
+panels.bachelor=Mands der bor her er sy´tadigvæk en bachelor. En pige der vokser til teenager vil til sidst flytte ind.
+panels.nomaleresident=Dette hus vil aldrig have en mandlig beboer.
+panels.spinster=Kvinden der bor bor her er stadigvæk ikke gift. En dreng der vokser til teenager vil til sidst flytte ind.
+panels.resources=Resourcer
+panels.goodstraded=Vare handlet i denne landsby
+panels.goodsimported=Importerede fra andre landsbyer
+panels.goodsexported=Exporterede fra andre landsbyer
+panels.innvisitors=Besøgende til denne <0>
+panels.mappurple=Lilla: Konstruktion i gang.
+panels.mapblue=Blå: Andre bygninger.
+panels.mapgreen=Grøn: Brugbar områder for bygning.
+panels.mapred=Rød: Farlige områder (lava, kaktus, osv.).
+panels.mapyellow=Gul: Konstruktion forbudt (Is, Artefakter).
+panels.maporange=Orange: Konstruktion forbundt (for tæt på en anden bygning).
+panels.maplightblue=Lyse blå: Vand.
+panels.mapbrown=Brun: Andre områder (Uden for højdemåler, osv.).
+panels.merchantlist=Handels liste
+panels.capacity=Kapacitet
+panels.nbnightsin=I landsbyen siden <0> nat (natte).
+
+//Goals (text displayed above the villager when he is doing it)
+goal.gorest=Slapper af
+goal.godrink=Går efter noget at drikke
+goal.gopray=Går for at bede
+goal.GatherGoods=Samler vare
+goal.BringBackResourcesHome=Bringer resourcer tilbage
+goal.GetTool=Henter et værktøj
+goal.huntMonster=Kæmper mod en skabning
+goal.GetGoodsHousehold=Henter vare for husholdningen. 
+goal.DeliverGoodsHousehold=Aflevere Vare for husholdningen
+goal.GetHouseTHResources=Tager resources fra hjemmet
+goal.DeliverResourcesShop=Afleverer resources
+goal.CollectCrop=Samler afgrøder
+goal.PlantSeeds=Planter afgrøder
+goal.ChopTrees=Hugger træ
+goal.PlantSaplings=Planter små træer
+goal.GetResourcesForBuild=Henter resourcer for en konstruktion
+goal.MakeBread=Laver brød
+goal.BeSeller=Sælger til spillerne
+goal.MakeCider=Laver cider eller calva 
+goal.Construction=Bygning
+goal.GoPlay=Leger
+goal.BecomeAdult=Flytter ind
+goal.MakeTools=Laver værktøjer
+goal.Patrol=Går vagt
+goal.Butcher=Slagter
+goal.MakeBoudin=Laver boudin
+goal.Mining=Minedrift
+goal.Cooking=Koge resourcer
+goal.MakeBooks=Laver pargament
+goal.MakeTapestry=Laver Making gobeliner
+goal.VisitInn=Går til kroen
+goal.VisitBuilding=Går til butikken
+goal.MakeAmulet=Laver en amulet
+goal.KeepStall=Holder hans stall
+goal.MakeTimberFrame=laver trærammer
+goal.DryBrick=Sætter mursten til at tørre
+goal.GatherBrick=Samler tørrede mursten
+goal.CookBrick=koger mursten
+goal.PlantRice=Planter ris
+goal.HarvestRice=Høster ris
+goal.PlantTurmeric=Planter gurkemeje
+goal.HarvestTurmeric=Høster gurkemeje
+goal.SlaughterChicken=Slagter kylling
+goal.PlantSugarCane=Planter sukker
+goal.HarvestSugarCane=Høster sukker
+goal.MakeRasgulla=Laver rasgullas
+
+//other
+other.west=Vest
+other.east=Øst
+other.north=Nord
+other.south=Syd
+

@@ -1,0 +1,14 @@
+
+version:3.4
+<darkblue>Commerce
+Your most common exchanges with the villagers will be trading - you can sell many goods to them, and in return buy products, including blocks and objects specific to Millénaire. To trade with a village, go to the main building (or another store) and wait for a villager to come and see you with "Selling to the player" showing above his head. Then <darkblue>right-click<black>  him to open the trade screen.
+Millénaire villagers can only sell you items that they have in stock, and you can only sell them items that the village needs (variable depending on the village).
+All trade with the village is in "denier", a medieval French currency. There are three types of deniers: standard deniers, silver deniers (deniers d'argent) that worth 64 deniers and gold deniers (deniers en or) that worth 64 silver deniers.
+<darkgreen>Tip: On the village map (obtained by right-clicking the corresponding  panel in the village’s central building), stores are listed when you hover your cursor over the buildings.
+basic deniers (cooper deniers)
+"deniers argent" (silver deniers)
+worth 64 deniers,
+"deniers or" (gold deniers)
+worth's 64 deniers argent
+<darkgreen> Tip:
+On the village map (obtained by right-clicking on the corresponding panel in the central building of the village), the stores are listed when you hover over the buildings.

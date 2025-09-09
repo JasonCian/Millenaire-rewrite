@@ -1,0 +1,108 @@
+
+//refresh
+kastron_a0=Kastron
+kastron_a_archives_a0=Village Archives
+kastron_a_inn_a0=Inn
+kastron_a_leftmarket_a0=Market
+kastron_a_leftmarket_a1=Left Market
+kastron_a_rightmarket_a0=Market
+kastron_a_rightmarket_a1=Right Market
+
+acaciagrove_a0=Acacia Grove
+acaciagrovesmall_A0=Small Acacia Grove
+architect_a0=Architect’s Studio
+dressmaker_a0=Dressmaker
+fishfarm_a0=Fisherman’s Hut
+fishfarm_a3=Fishfarm
+mason_a0=Mason
+mine_a0=Mine
+pinegrove_a0=Spruce Grove
+pinegrovesmall_a0=Small Spruce Grove
+sandpit_a0=Sandpit
+sheepfarm_a0=Sheep Run
+silkfarm_a0=Silkfarm
+smelter_a0=Smeltery
+toolsmith_a0=Smithy
+woodcutter_a0=Woodcutter’s Hut
+presbytery_a0=Presbytery
+presbytery_a_classroom_A0=School
+chapel_a0=Chapel
+workerhouse_a0=Worker’s Hut
+workshop_a0=Workshop
+watchtower_a0=Watchtower
+taverna_a0=Tavern
+vineyard_a0=Vineyard
+pergola_a0=Pergola
+garden_a0=Garden
+shrine_a0=Shrine
+cross_a0=Cross
+olivetree_a0=Olive Tree
+olivepress_a0=Oil Press
+inn_a0=Inn
+archives_a0=Archives
+market_a0=Market
+market_a4=Market Hall
+fortress_a0=Fortress
+fortress_a_barracks_a0=Barracks
+fortress_a_armyforge_a0=Armyforge
+church_a0=Church
+church_a_warehouse_a0=Warehouse
+church_a_school_a0=School
+church_a_sanctuary_a0=Sanctuary
+church_a_chamber1_a0=Chamber
+church_a_chamber2_a0=Chamber
+carrotfield_a0=Carrot Field
+wheatfield_a0=Wheat Field
+windmill_a0=Windmill
+windmill_b0=Windmill
+farm_a0=Farm
+
+
+playerhut_a0=Small House
+playerhouse_a0=Large House
+villaurbana_a0=Villa Urbana
+playersmallplot_a0=Small Plot
+playerlargeplot_a0=Large Plot
+playerhugeplot_a0=Huge Plot
+gifthut_a0=Gift House
+
+borderpost_a0=Border Post
+borderpost_corner_a0=Border Post (Corner)
+borderpost_gate_a0=Border Post (Entrance)
+
+playerfortress_a0=Fortress
+playerfortress_a_barracks_a0=Barracks
+playerfortress_a_armyforge_a0=Armyforge
+
+oldsheepfarm_a0=Lone Sheep Ranch
+oldsheepfarm_A_special_A0=Lone Sheep Ranch's Surprise
+lonesheepfarm_a0=Lone Sheep Ranch
+lonesheepfarm_b0=Lone Sheep Ranch
+
+lonemonastery_a0=Lone Monastery
+lonemonastery_b0=Lone Monastery
+lonemonastery_side_A0=Lone Monastery Side
+lonemonastery_apse_A0=Lone Monastery Apse
+lonemonastery_dorms_A0=Lone Monastery Dorms
+lonemonastery_dome_A0=Lone Monastery Dome
+lonemonastery_field_A0=Lone Monastery Field
+lonemonastery_side_B0=Lone Monastery Side
+lonemonastery_apse_B0=Lone Monastery Apse
+lonemonastery_dorms_B0=Lone Monastery Dorms
+lonemonastery_dome_B0=Lone Monastery Dome
+lonemonastery_field_B0=Lone Monastery Field
+
+ancienttheatrebyzantine_A0=Ancient Theatre
+ancienttemplebyzantine_a0=Ancient Temple
+
+temple_a0=Ancient Temple
+theatre_a0=Ancient Theatre
+sheepranch_a0=Lone Sheep Ranch
+pharos_a0=Lighthouse
+lonepinegrove_a0=Tiny Spruce Grove
+
+oaktower_A0=Watchtower
+birchtower_A0=Watchtower
+pinetower_A0=Watchtower
+jungletower_A0=Watchtower
+lighthouse_a0=Lighthouse

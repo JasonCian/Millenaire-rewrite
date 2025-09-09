@@ -1,0 +1,28 @@
+//Parameters for the building as a whole
+building.length=8
+building.width=13
+building.buildingorientation=3
+building.version=2
+building.icon=egg
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Elevage de volailles
+initial.priority=1000
+initial.male=shepherd
+initial.female=shepherdf
+initial.tag=chicken
+initial.shop=sheepchickenfarm
+
+//Parameters for specific upgrades
+upgrade1.priority=100
+
+upgrade2.priority=95
+
+upgrade3.priority=90
+
+upgrade4.priority=85
+upgrade4.pathlevel=1
+
+upgrade5.priority=80

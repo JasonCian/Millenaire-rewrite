@@ -1,0 +1,342 @@
+
+travelbook.culture.desc=Os normandos parecem um povo resistente, com uma culinária saudável e um gosto pelo álcool forte. Quando bêbados, eles falam de sua terra natal perdida na costa francesa, onde quer que seja, e se orgulham de suas conquistas generalizadas em lugares misteriosos como "Inglaterra" ou "Sicília".
+travelbook.villager.abbot.desc=O Abade é um homem de Deus, encarregado de manter os normandos que ele lidera no "Caminho Certo"
+travelbook.villager.alchemist.desc=O famoso Vif-Argent é um homem sábio, que é conhecido por usar poções e alquimia na tentativa de descobrir os segredos desta terra.
+travelbook.villager.alchemistapprentice.desc=O aprendiz deste Alquimista treina diligentemente nos caminhos da Alquimia, para que ele possa retomar o ofício de seu mestre algum dia.
+travelbook.villager.alchemistassistant.desc=O Alquimista é um homem ocupado e precisa da ajuda de seu assistente de confiança para revelar os mistérios da vida.
+travelbook.villager.architect.desc=Nicolas de Weilbourg é um arquiteto mestre da Alemanha que jurou lealdade ao trono Normando pela chance de ver seu nome imortalizado nesta nova terra através da criação da Maravilha normanda!
+travelbook.villager.armoredbandit.desc=Um cavaleiro veterano que Virou um Bandido e, esse bandido é muito mais difícil de derrotar do que seus irmãos desarmados.
+travelbook.villager.bandit.desc=Esse bandido é um homem simples que vive uma vida simples de assalto, assassinato, rebelião e passeata, tudo isso tanto para a emoção quanto para alguns negadores.
+
+travelbook.villager.bishop.desc=Este bispo normando é um defensor único da Marvel, pois ele só pode se mover na diagonal, geralmente cortando pedaços de oponentes inocentes.
+
+travelbook.villager.boy.desc=Esse Menino Pequeno passa seus dias Brincando, Lendo é Aprendendo, para que um dia Vire um Aldeão-Produtivo Normando.
+travelbook.villager.carpenter.desc=Carpinteiros são importantes para as aldeias Normandas, pois são os únicos qualificados o suficiente para trabalhar com Estruturas de Madeira.
+travelbook.villager.cattlefarmerfemale.desc=Esposa de um criador de Rebanho, ela é igualmente importante para cuidar dos animais.
+travelbook.villager.cattlefarmermale.desc=Este Fazendeiro vigia seu Rebanho, Constituído por Gados,Porcos e Galinhas. Uma parte Essencial de qualquer vila Normanda.
+travelbook.villager.farmer.desc=Este Fazendeiro cultiva trigo e cenoura, fornecendo alimento para á Cidade.
+travelbook.villager.felonbaron.desc=o Barão Normando virou um Traidor, ele se mantem no Seu Castelo com seus Soldados mais Confiantes.
+travelbook.villager.felonsoldier.desc=A lealdade ao barão e um bom salário convenceram esse soldado de que uma vida de crime é realmente a melhor.
+travelbook.villager.girl.desc=Essa jovem gosta de passar seus dias brincando, aprendendo e ansiosa para crescer e se tornar uma produtora normanda.
+travelbook.villager.glassblower.desc=Os "Sopradores de Vidro" criam todas as formas de esplêndido vitral usando vidro e corantes.
+travelbook.villager.guard.desc=Guardas são soldados que passam seu tempo Protegendo seus companheiros Normandos, mesmo que isso signifique tomar a ofensiva de vez em quando.
+travelbook.villager.guildmaster.desc=Um homem de comércio e negócios encarregado da liderança de uma vila. Se alguém aqui entende as complexidades dos mercados e finanças, é ele.
+travelbook.villager.herbalist.desc=O Herbalist cultiva flores e as transforma em corantes, e trabalha para fornecer ao mundo um pouco mais de cor.
+
+travelbook.villager.host.desc=Enquanto o vigário atende às necessidades espirituais dos trabalhadores, o anfitrião atende às suas necessidades emocionais através de barris de sidra.
+
+travelbook.villager.hostess.desc=A anfitriã entretém trabalhadores, soldados, comerciantes e peregrinos da melhor maneira que sabe, através do poder da sidra, é claro!
+
+travelbook.villager.innkeeperfemale.desc=A esposa do Estalajadeiro cozinha comida e prepara sidra para os viajantes cansados ​​que entram na pousada, dando-lhes força para outra aventura.
+
+travelbook.villager.innkeepermale.desc=O Estalajadeiro desta pousada solitária passa seu tempo fazendo cidra e contando histórias chatas sobre seu tempo no exército para viajantes dispostos a ouvir.
+
+travelbook.villager.knight.desc=Governando com punho de ferro, o Cavaleiro faz tudo o que pode para manter seus súditos alinhados e bem defendidos.
+
+travelbook.villager.lady.desc=Essa senhora bonita e graciosa passa o tempo conversando entre os camponeses, tecendo tapeçarias e reclamando do marido que não é bom.
+
+travelbook.villager.loneabbot.desc=O chefe de uma abadia localizada longe das aldeias normandas, ele mantém sua comunidade segura e justa.
+
+travelbook.villager.lonelumberman.desc=Sozinho em sua cabana de madeira, ele incansavelmente corta madeira, sonhando com uma boa garrafa de Calva e com viagens quentes.
+
+travelbook.villager.lonelumbermantaiga.desc=Este lenhador resistente é especializado em pinheiros de florestas mais frias.
+
+travelbook.villager.lonemiller.desc=Este moleiro localizou seu moinho próximo a um riacho, mas infelizmente longe de outros moradores.
+
+travelbook.villager.loneminer.desc=Solitária é a vida de um mineiro cuja mina está na montanha ... Mas um dia, ele encontrará ouro, ele apenas sabe disso!
+
+travelbook.villager.lonemonk.desc=Sob a orientação estrita de seu abade, este monge vive uma vida de silêncio e oração. Por enquanto, pelo menos.
+
+travelbook.villager.lonewife.desc=Ela cozinha, constrói, oferece companheirismo ao marido em sua casa solitária.
+
+travelbook.villager.lumberman.desc=Este descendente de invasores normandos usa seu machado impressionante para derrubar árvores - na maioria das vezes.
+
+travelbook.villager.marvelbuilder.desc=Um trabalhador de pedra qualificado cujas habilidades de construção tornam possível a Marvel normanda.
+
+travelbook.villager.marvelpriest.desc=Este sacerdote tem a tarefa de manter os trabalhadores da Marvel de bom humor e próximos de Deus.
+
+travelbook.villager.merchant.desc=Este comerciante troca seus produtos entre as aldeias, na esperança de ajudar seus compatriotas normandos a obter tudo o que precisam através de pechinchas inteligentes.
+
+travelbook.villager.merchant_art.desc=Este comerciante vende arte e corantes normandos, caso você precise de um pouco mais de decorações normandas em sua casa.
+
+travelbook.villager.merchant_food.desc=Esse comerciante vende alimentos normandos, como viagens e boudin noir, os alimentos perfeitos para qualquer comunidade normanda em crescimento.
+
+travelbook.villager.merchant_plant.desc=Este comerciante vende uma variedade de flores e mudas para aqueles que querem um pouco mais de natureza em suas vidas.
+
+travelbook.villager.merchant_viking.desc=Um comerciante de uma terra distante. Ele deixou sua casa na Dinamarca para passear pela selva e seguir uma carreira em negociar artefatos mágicos para aqueles com negadores suficientes.
+
+travelbook.villager.merchant_weapons.desc=Este comerciante vende uma coleção de armas e armaduras normandas para aqueles que poderiam usar um pouco de habilidade normanda para mantê-las seguras.
+
+travelbook.villager.merchant_wool.desc=Este comerciante vende lã de todas as cores e tem como objetivo alegrar a vida de seus clientes.
+
+travelbook.villager.miner.desc=A mineração de pedras não é exatamente um trabalho bonito ou de prestígio, mas crucial para o desenvolvimento de qualquer vila normanda.
+
+travelbook.villager.monk.desc=Esse monge ajuda a manter a abadia junto ao abade, geralmente ajudando a administrar os livros, negociando com viajantes e mantendo a fé forte entre os moradores.
+
+travelbook.villager.orderguard.desc=Membro da Grande Ordem dos Cavaleiros, esse soldado da fortuna treinou toda a sua vida na arte da guerra e NÃO deve ser mexido, pois exerce todo o poder do poder normando.
+
+travelbook.villager.ordervicar.desc=Este homem de fé possui o prestigioso título de "Capelão da Grande Ordem dos Cavaleiros" e funciona como a espinha dorsal moral da Ordem.
+
+travelbook.villager.pigherd.desc=Este humilde Norman administra uma manada de porcos com sua esposa, criando e matando por sua deliciosa carne.
+
+travelbook.villager.pigherdf.desc=Esposa do criador de porcos, ela auxilia no gerenciamento da fazenda e seu gado.
+
+travelbook.villager.pilgrim.desc=Um dos muitos fiéis que andam pelos corredores da nova Notre Dame na esperança de encontrar uma conexão mais próxima com Deus.
+
+travelbook.villager.pilgrimfemale.desc=Um dos muitos fiéis que andam pelos corredores da nova Notre Dame na esperança de encontrar uma conexão mais próxima com Deus.
+
+travelbook.villager.priest.desc=A fé cristã é um componente essencial da vida de qualquer normando, e esse sacerdote cumpre seu dever divulgando a palavra de Deus entre a população.
+
+travelbook.villager.seneschal.desc=O administrador confiou a liderança desta comunidade agrícola. Ele mora com a esposa em sua mansão luxuosa.
+
+travelbook.villager.shepherd.desc=Um pastor que dedicou sua vida a vigiar um rebanho de ovelhas, fornecendo lã e carne de carneiro à aldeia.
+
+travelbook.villager.shepherdf.desc=A esposa de um pastor que sabe que uma ovelha feliz é uma ovelha produtiva. Ela ajuda o marido a cuidar do rebanho.
+
+travelbook.villager.smith.desc=O ferreiro normando cria uma grande variedade de ferramentas, armas e outros objetos de metal que mantêm uma aldeia funcionando corretamente.
+
+travelbook.villager.vicar.desc=O clérigo chefe da Notre Dame. Não sinta vergonha se você pensou que ele era o bispo.
+
+travelbook.villager.weaver.desc=O tecelão é um artesão que dedicou sua vida a trabalhar com lã e corantes para criar belos tapetes para decorar edifícios normandos.
+
+travelbook.villager.wife.desc=Espinha dorsal de qualquer comunidade, as humildes esposas normandas têm a tarefa de alimentar os aldeões, erguer estruturas, transportar mercadorias e garantir que o modo de vida normando seja possível neste novo mundo.
+
+travelbook.villager.ciderproducer.desc=Esse alegre aldeão é responsável por produzir sidra e calva a partir das maçãs amargas em seu pomar. Nenhum festival normando seria o mesmo sem ele!
+
+travelbook.village.agricole.desc=Uma vila onde comida saborosa é produzida sob os olhos vigilantes do Seneschal para estocagem em sua mansão chique.
+
+travelbook.village.artisans.desc=Centralizada em um poderoso Guild Hall, esta vila é especializada em edifícios elegantes e artesanato adequado.
+
+travelbook.village.bourg_autonome.desc=Uma vila artificialmente auto-suficiente, nunca encontrada na natureza.
+
+travelbook.village.controlled.desc=Uma vila de propriedade de um jogador que ganhou a confiança do povo normando.
+
+travelbook.village.customcontrolled.desc=Uma vila de propriedade de um jogador que ganhou a confiança do povo normando, mas pediu espaço para um pouco mais de criatividade.
+
+travelbook.village.ecclesiastique.desc=Estendendo-se ao redor de uma abadia, esta vila existe para atender às necessidades materiais dos monges em troca de salvação, no próximo mundo, se não neste.
+
+travelbook.village.grosbourg.desc=O centro de uma próspera rede de aldeias, esta vila abriga os edifícios mais avançados.
+
+travelbook.village.hameau_abbatiale.desc=Um pequeno vilarejo abatido na periferia de um Gros Bourg.
+
+travelbook.village.hameau_agricole.desc=Uma pequena aldeia focada no cultivo de alimentos para o vizinho Gros Bourg.
+
+travelbook.village.hameau_artisans.desc=Uma pequena aldeia onde os moradores cavam pedras e produzem bens de construção para apoiar Gros Bourg nas proximidades.
+
+travelbook.village.militaire.desc=Uma vila que circunda um forte militar e fornece à guarnição alimentos e armas.
+
+travelbook.village.notredame.desc=Centralizada na maciça Catedral Normanda, esta vila apoia a construção da Marvel e hospeda peregrinos visitantes.
+
+travelbook.building.abandonedmill.desc=Antes um moinho próspero, isso agora é pouco mais que uma casca.
+
+travelbook.building.abandonedmine.desc=Essa pequena mina foi abandonada há muito tempo, depois que suas veias secaram.
+
+travelbook.building.abandonedtower.desc=Mirante estabelecido por um senhor local, há muito que foi abandonado e esquecido.
+
+travelbook.building.abbaye.desc=Uma magnífica catedral normanda para o novo mundo, projetada por um famoso arquiteto com base no Abbaye aux Hommes em Caen.
+
+travelbook.building.abbaye_a_altar.desc=O altar da catedral.
+
+travelbook.building.abbaye_a_apse_bottom.desc=A parte sul da abside da catedral.
+
+travelbook.building.abbaye_a_apse_top.desc=A parte norte da abside da catedral.
+
+travelbook.building.abbaye_a_choir_bottom.desc=A parte sul do coro da catedral.
+
+travelbook.building.abbaye_a_choir_top.desc=A parte norte do coro da catedral.
+
+travelbook.building.abbaye_a_confessional.desc=Um confessionário, no qual os padres ouvirão confissões de peregrinos.
+
+travelbook.building.abbaye_a_council.desc=A sede da Ordem do Novo Mundo.
+
+travelbook.building.abbaye_a_dome.desc=A cúpula da catedral, erguendo-se acima da nave.
+
+travelbook.building.abbaye_a_library.desc=A rica biblioteca da Catedral, cheia de textos sagrados e profanos.
+
+travelbook.building.abbaye_a_nave_left_bottom.desc=A parte sudoeste da nave da catedral.
+
+travelbook.building.abbaye_a_nave_left_top.desc=A parte noroeste da nave da catedral.
+
+travelbook.building.abbaye_a_nave_right_bottom.desc=A parte sudeste da nave da catedral.
+
+travelbook.building.abbaye_a_nave_right_top.desc=A parte nordeste da nave da catedral.
+
+travelbook.building.abbaye_a_organ.desc=O poderoso órgão do qual a música da igreja nasce durante as missas.
+
+travelbook.building.abbaye_a_pews.desc=Um conjunto de bancos suficientes para toda a congregação se sentar.
+
+travelbook.building.abbaye_a_portal.desc=O grande portal da catedral.
+
+travelbook.building.abbaye_a_pulpit.desc=O púlpito do qual o bispo pode dirigir-se ao seu rebanho.
+
+travelbook.building.abbaye_a_tower_bottom.desc=A torre sul da catedral, erguendo-se acima dos campos.
+
+travelbook.building.abbaye_a_tower_top.desc=A torre norte da catedral.
+
+travelbook.building.abbaye_a_transept_bottom.desc=O transepto sul da catedral.
+
+travelbook.building.abbaye_a_transept_top.desc=O transepto norte da catedral.
+
+travelbook.building.abbaye_a_treasury.desc=O tesouro, onde as riquezas da catedral são mantidas.
+
+travelbook.building.abbey.desc=O centro de uma vila religiosa normanda, fornecendo um lar para o abade e seu assistente.
+
+travelbook.building.alchemisttower.desc=Casa do Alquimista, onde ele dorme quando não está tentando quebrar o universo com seus experimentos.
+
+travelbook.building.alchemyworkshop.desc=A oficina de um alquimista aprendiz, onde ele realiza seus experimentos que fazem fronteira com a heresia.
+
+travelbook.building.anomalyone.desc=Uma anomalia misteriosa, definitivamente não de origem normanda.
+
+travelbook.building.anomalythree.desc=Uma anomalia misteriosa, definitivamente não de origem normanda.
+
+travelbook.building.anomalytwo.desc=Uma anomalia misteriosa, definitivamente não de origem normanda.
+
+travelbook.building.archives.desc=Os arquivos da vila controlam os moradores e suas tarefas atuais.
+
+travelbook.building.armoury.desc=A oficina do ferreiro da vila, dedicada à criação de armas e armaduras.
+
+travelbook.building.bakery.desc=A padaria é onde o lendário pão normando é assado.
+
+travelbook.building.banditlair.desc=Um covil de atividade bandida nefasta.
+
+travelbook.building.bandittower.desc=Uma torre solitária que abriga ladrões de estrada.
+
+travelbook.building.carpenterhouse.desc=A casa do carpinteiro e local de nascimento dos icônicos quadros de madeira normandos.
+
+travelbook.building.cattlefarm.desc=Uma casa para a coleção de gado da vila e para o fazendeiro, é claro.
+
+travelbook.building.chickenfarmnorm.desc=A casa de um criador de galinhas e suas abundantes aves de capoeira.
+
+travelbook.building.church.desc=Um lugar para os fiéis da vila se reunirem e ouvirem o próximo sermão do padre.
+
+travelbook.building.farm.desc=A fazenda local da vila normanda.
+
+travelbook.building.feloncastle.desc=O bandido Barão e seus lacaios moram aqui.
+
+travelbook.building.forge.desc=A oficina do ferreiro da vila.
+
+travelbook.building.fort.desc=O centro de uma vila militar normanda, um forte perfeito para manter exércitos franceses e ingleses. Também trabalha com camponeses bravos.
+
+travelbook.building.fort_a_lefttower.desc=Uma pequena sala de guarda instalada em uma das torres do forte.
+
+travelbook.building.fort_a_righttower.desc=Uma pequena sala de guarda instalada em uma das torres do forte.
+
+travelbook.building.fountain.desc=Esta fonte fornece uma visão bonita para os moradores e visitantes da vila.
+
+travelbook.building.gifthouse.desc=Completa com um bolo, esta casinha premia os jogadores que contribuíram para o Millénaire.
+
+travelbook.building.glassblower.desc=Esta é a casa do soprador de vidro, onde passa o tempo criando vitrais.
+
+travelbook.building.grove.desc=Este bosque é trabalhado por um lenhador e é a principal fonte de madeira para a vila.
+
+travelbook.building.guardhouse.desc=Uma casa para soldados. Isso funciona como um local de descanso e como um centro de comando.
+
+travelbook.building.guardroom.desc=Uma pequena sala ocupada pelos guardas da fortaleza.
+
+travelbook.building.guesthouse.desc=Um lugar para o comerciante errante se sentar e fazer uma pausa.
+
+travelbook.building.guildhouse.desc=O centro de uma vila industrial normanda e o centro de comércio para o povo normando.
+
+travelbook.building.inn.desc=Um ponto de descanso para os comerciantes locais e estrangeiros.
+
+travelbook.building.largefort.desc=Um grande forte, com extensos aposentos habitáveis ​​e paredes grossas para manter os invasores inimigos à distância.
+
+travelbook.building.largefort_a_armoury.desc=Um pequeno arsenal protegido pelas grossas paredes do forte
+
+travelbook.building.largefort_a_barrack.desc=Um quartel que hospeda a guarnição do forte.
+
+travelbook.building.largefountain.desc=O melhor lugar para lazer e relaxamento quando você decide fazer uma pausa no trabalho.
+
+travelbook.building.largeguardhouse.desc=Uma casa grande para soldados. apenas alguns soldados privilegiados podem dormir entre essas paredes.
+
+travelbook.building.largeinn.desc=Um lugar para o peregrino, trabalhador ou outro viajante comum permanecer enquanto contempla a majestade da nova Notre Dame.
+
+travelbook.building.largeinn_a_dormitorymen.desc=Um dormitório para peregrinos do sexo masculino, estritamente fora dos limites para as mulheres.
+
+travelbook.building.largeinn_a_dormitorywomen.desc=Um dormitório para mulheres peregrinas, estritamente proibido aos homens.
+
+travelbook.building.largeinn_a_tavern.desc=A estalagem da taberna, onde viajantes famintos podem se sustentar com viagens e cidra.
+
+travelbook.building.loneabbey.desc=Esta abadia isolada acolhe monges comprometidos com uma vida de oração longe das tentações.
+
+travelbook.building.loneabbey_a_altar.desc=Os monges da abadia solitária se unem sobre este altar para celebrar a missa.
+
+travelbook.building.loneroadhouse.desc=Esta pequena casa de rua tem um quarto para viajantes cansados.
+
+travelbook.building.lonegrove.desc=Uma seção da floresta onde um lenhador trabalha.
+
+travelbook.building.lonegrovetaiga.desc=Uma seção da taiga onde um lenhador trabalha.
+
+travelbook.building.loneinn.desc=Esta pousada acolhedora fornece comida e abrigo aos viajantes.
+
+travelbook.building.lonelumbermanhut.desc=Uma simples cabana na floresta ocupada por um lenhador e sua esposa.
+
+travelbook.building.lonelumbermantaigahut.desc=Uma pequena cabana de lenhador perdida na taiga.
+
+travelbook.building.lonemill.desc=Um moinho de água instalado longe dos principais assentamentos, mas visitado pelos agricultores vizinhos.
+
+travelbook.building.lonemine.desc=Uma pequena mina nas montanhas, ao lado de veios específicos de minério.
+
+travelbook.building.loneorchard.desc=Um pequeno pomar onde o lenhador cultiva macieiras e sua esposa produz cidra.
+
+travelbook.building.lumbermanhut.desc=Casa do lenhador da vila e sua família.
+
+travelbook.building.manor.desc=O centro da vila agrícola normanda e o lugar perfeito para o Senechal e sua esposa viverem.
+
+travelbook.building.manor_a_inn.desc=Este quarto de hóspedes na mansão pode ser ocupado visitando comerciantes.
+
+travelbook.building.market.desc=Um local animado para os comerciantes e seus clientes em potencial se misturarem.
+
+travelbook.building.pantheon.desc=O misterioso Panthéon, um enorme edifício de origem desconhecida que lista todos os colaboradores do Millénaire.
+
+travelbook.building.pigfarm.desc=Casa do criador de porcos, sua esposa e sua multidão de porcos.
+
+travelbook.building.pilgrimhall.desc=Um grande salão capaz de receber muitos peregrinos.
+
+travelbook.building.playerestate.desc=Uma propriedade chique projetada para jogadores muito ricos, com todo o conforto de uma grande mansão.
+
+travelbook.building.playerfort.desc=Um forte militar antiquado para aldeias controladas, que não é mais usado.
+
+travelbook.building.playerhugefield.desc=Um enorme campo que pode ser comprado para construir um palácio.
+
+travelbook.building.playerlargefield.desc=Um grande campo que pode ser comprado para construir uma mansão.
+
+travelbook.building.playerlargefort.desc=Um forte grande e um forte impressionante, do qual um jogador pode jogar como o senhor da vila.
+
+travelbook.building.playerlargehouse.desc=Uma grande casa de vila pronta para compra, adequada para um jogador abastado.
+
+travelbook.building.playersmallfield.desc=Um pequeno campo que pode ser comprado para construir um pouco de terra.
+
+travelbook.building.playersmallhouse.desc=Uma pequena casa de vila, perfeita para um jogador iniciante.
+
+travelbook.building.presbytery.desc=Casa do padre da vila, onde ele descansa entre sermões.
+
+travelbook.building.quarry.desc=Quantos blocos saem desse buraco no chão é um mistério que é melhor deixar para os deuses do Minecraft.
+
+travelbook.building.residence.desc=A residência imponente do bispo da catedral. Tal luxo honra a Deus, de maneiras muito complicadas para explicar a meros camponeses.
+
+travelbook.building.residence_a_orderoutpost.desc=Alojamento para os membros locais da Ordem do Novo Mundo.
+
+travelbook.building.residence_a_priest.desc=Uma pequena sala adequada para um padre, da qual ele pode sonhar em se tornar vigário.
+
+travelbook.building.residence_a_vicar.desc=Uma bela sala adequada para um vigário, da qual ele pode sonhar em se tornar bispo.
+
+travelbook.building.ruinedfarm.desc=Quem sabe o que aconteceu aqui? Restam apenas ruínas e um pouco de pilhagem.
+
+travelbook.building.sheepchickenfarm.desc=Uma fazenda para criação e abate de galinhas e ovelhas.
+
+travelbook.building.tavern.desc=Um lugar para o normando médio relaxar e descontrair com uma sidra dura e a companhia de amigos.
+
+travelbook.building.warehouse.desc=O armazém a partir do qual a construção da maravilha está planejada. O arquiteto construiu para si uma pequena sala adjacente, para garantir que ele esteja sempre perto de seus trabalhadores.
+
+travelbook.building.watchtower.desc=Um lugar para os guardas ficarem de olho no horizonte em busca de inimigos e ameaças à vila.
+
+travelbook.building.weaverhouse.desc=A casa do tecelão da cidade, onde transformam lã em belos tapetes.
+
+travelbook.building.well.desc=O poço ajuda os agricultores normandos a manter suas colheitas regularmente irrigadas, proporcionando-lhes um impulso à fertilidade da terra e, portanto, maiores rendimentos das culturas.
+
+travelbook.building.workerhall.desc=Alojamento para os trabalhadores qualificados envolvidos na construção da catedral. Não é luxuoso, mas eles são muito dedicados.
+
+travelbook.building.smallorchard.desc=Um pequeno pomar onde os madeireiros da vila colhem maçãs e produzem cidra. Usado pelas aldeias sem acesso a uma sidra adequada.
+
+travelbook.building.largeorchard.desc=Uma sidra com um pomar anexo, na qual um produtor de sidra reúne maçã para fazer sidra. Uma vez atualizado com uma destilaria, também produz calva.

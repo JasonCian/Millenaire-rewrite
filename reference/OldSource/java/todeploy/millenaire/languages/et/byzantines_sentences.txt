@@ -1,0 +1,57 @@
+﻿villager.greeting=Xaire, $name! / Tervitust, $name!
+villager.greeting=Omorfi mera, etsi den einai? / Ilus päev kas pole mitte?
+villager.greeting=Tha brochi. Syntoma.  / Hakkab sadama.Varsti.
+villager.greeting=Kamia poli ston kosmo boroun na synkrithoun me tin Konstantinoupoli/ ükski linn pole võrreldagi konstanitnoopoliga.
+villager.greeting=Den eimaste Ellines , eimaste Romaioi. / Me ei ole kreeklased.Me oleme roomnlased.
+villager.greeting=Eimaste Byzantinoi einai to teleutaio alaethino Romaious. Bask stae doxa tou politismou mas. / Me bütsantlased oleme viimased roomlased. Austage meie sivilatsiooni.
+villager.GoPlay=Nomizo oti tha pao na paixoun exo. / Ma arvane,et lähen välja mängima.
+villager.gorest=Eimai kourasmenos. Tha pao spiti na koimitho. / Ma olen väsinud. Ma lähen koju magama.
+villager.makeBread=To psomi einai aedae myrodia kalo. / Sai juba lähnab hästi...
+villager.gorest=Nomizo oti tha pao gia Hypno. / Ma arvan,et lähen magama.
+villager.BecomeAdult=Telos tha ginei mia romaiki politi! / Lõpuks olen ma Rooma kodanik!
+villager.calltoarms=Ae Romaikae Autokratoria dexetai epithesi ! Gia ta opla ! / Rooma impeerium ründab! Relvadele!
+villager.GoPlay=Nomizo oti tha pao na paixoun exo. / Ma arvan,et lähen mängin õues.
+
+artisan_byzantine.construction= Staen pragmatikotita eimai enas kallitechnis otan ylopoisi ton en logo epexergasia domes. / Ma ehitan nii ilusaid struktuure.Ma olen tõesti kunstnik.
+artisan_byzantine.construction=Ae architektonikae aemas den borei na synkrithei me kamia alli. / Meie arhitektuuri ei saa võrrelda millegi teisega.
+artisan_byzantine.greeting=Ae zoae mou einai poly kalyteri apo tae zoae ton allon anthropon edo. / Mu elu on palju parem kui teiste elu siin.
+artisan_byzantine.makePainting=Romanikaes technaes aemas einai ae kalyterae ston kosmo. / Rooma kunst on kõige arenenum maailmas.
+
+
+wife_byzantine.greeting=To kathikon mas einai na elenchei tous andreous aemas. / Meie eesmärk on kontrollida mehi.
+wife_byzantine.greeting=Os gynaika sas , den yparchoun polla pou sas epitrepete na edo... / Naisena ei ole sul lubatud palju teha siin...
+wife_byzantine.getGoodsHousehold=Ora na noiazontai gia to noikokyrio. / Aeg hoolitseda pere eest.
+wife_byzantine.DeliverGoodsHousehold=Tetoia pragmata opos afto einai ta mona pragmata pou boro na kano edo. / Asjad nagu need on ainukesed asjad mida ma saan teha siin .
+wife_byzantine.GetHouseTHResources=Telos o syzygos mou echei paradothei porous tou, opos tou eipa. / Mu abikaasa on lõppuks toonud resursid mis ma tal käskisin tuua.
+wife_byzantine.cooking=Ae kouzina tou einai pragmatika diaskedastiko. / Küpsetamine on väga lõbus.
+
+miner_byzantine.Mining=Se afti tin dynami kai tin antochi douleia einai aparaititi. Omos, kaneis edo den echei syneiditopoiaesei pote... / Sellel tööl tugevust ja julgust on vaja. Kuid keegi siin ei pane tähele...
+miner_byzantine.Mining=Eimai perifanos pou Romaiki kai ergazontai gia afto to Empire doxa , akoma kai se afto to dyskolo ergo. / Ma olen uhke olla Rooma kodanik kes töötab uhke impeeriumi nimel.Isegi sellel raskel tööl.
+
+patriarch_byzantine.makebooks=Ta biblia mou einai merika apo ta kalytera cheirografa ekei exo. / Mu raamatud on ühed parimad käsikirjad ültse.
+
+lumberman_byzantine.BringBackResourcesHome=Ae gynaikos mou prepei na einai perifanoi giati ola ta xyla pou echo pira . / Mu naine on vist uhke kõige selle pudiuga mille ma tõin.
+lumberman_byzantine.ChopTrees=Kathe domi tou xylou mas anankes , kai na parei afti einai ae douleia mou! / Iga struktuur siin vajab puitu ja minu tööks on selle saamine!
+lumberman_byzantine.GatherGoods=Nikaia dendryllio ekei. / Nice sapling over there.
+lumberman_byzantine.PlantSaplings=Syntoma auto tha einai ana megalo, epivlitiko dentro ! Kai tha to meiosoun.  / Varsti see on suur majesteetlik puu  ja siis ma lõikan selle maha.
+
+keeperBirch_byzantine.greeting=Pos tha borouse na irthe me tin idea tis ergasias edo... / Kuidas võib keegi arvate,et siia peaks kellegi postitama...
+keeperBirch_byzantine.greeting=Einai toso vareti edo, tipota den symvainei pote... / Siin on nii igav.Siin ei juhtu kunagi midagi...
+keeperBirch_byzantine.greeting=Geia sou, anarotiemai pos tha vrethei afto to mikro meros makrino. / Tervitust reisija! Ma mõtlen,et kuidas sa sattusid siia kaugele maale?
+
+
+keeperOak_byzantine.greeting=Pos tha borouse na irthe me tin idea tis ergasias edo... / Kuidas võib keegi arvate,et siia peaks kellegi postitama...
+keeperOak_byzantine.greeting=Einai toso vareti edo, tipota den symvainei pote... / Siin on nii igav.Siin ei juhtu kunagi midagi...
+keeperOak_byzantine.greeting=Geia sou, anarotiemai pos tha vrethei afto to mikro meros makrino. / Tervitust reisija! Ma mõtlen,et kuidas sa sattusid siia kaugele maale?
+keeperOak_byzantine.greeting=Aftoi oi anthropoi edo, lene eafto tou 'Normans', mou thymizoun ti doxa tis aftokratorias mas. / Need inimesed siin kes kutsuvad end normaanlasteks tuletavad mulle meelde uhket impeeriumi.
+
+keeperPine_byzantine.greeting=Pos tha borouse na irthe me tin idea tis ergasias edo... / Kuidas võib keegi arvate,et siia peaks kellegi postitama...
+keeperPine_byzantine.greeting=Einai toso vareti edo, tipota den symvainei pote... / Siin on nii igav.Siin ei juhtu kunagi midagi...
+keeperPine_byzantine.greeting=Geia sou, anarotiemai pos tha vrethei afto to mikro meros makrino. / Tervitust reisija! Ma mõtlen,et kuidas sa sattusid siia kaugele maale?
+keeperPine_byzantine.greeting=Afto to kryo einai fovero. Den yparchei amfivolia den boro na vro tous anthropous edo... / See külmus on õudne. Ei imestaks,et siin pole kedagi.
+
+keeperTropical_byzantine.greeting=Pos tha borouse na irthe me tin idea tis ergasias edo... / Kuidas võib keegi arvate,et siia peaks kellegi postitama...
+keeperTropical_byzantine.greeting=Einai toso vareti edo, tipota den symvainei pote... / Siin on nii igav.Siin ei juhtu kunagi midagi...
+keeperTropical_byzantine.greeting=Geia sou, anarotiemai pos tha vrethei afto to mikro meros makrino. / Tervitust reisija! Ma mõtlen,et kuidas sa sattusid siia kaugele maale?
+keeperTropical_byzantine.greeting=Einai toso zesta edo. Den boro na katalavo giati aftoi 'Hindi' zoun se afti ti gi. / Siin on nii kuum. Ma ei saa aru miks hindud elavad siin maal?
+keeperTropical_byzantine.greeting=Echete dei pote aftes tis perierges 'Maya' ? Ktirion tous moiazoun san na borouse na katarrefsei kathe defterolepto. / Kas sa oled kunagi näinud imelike maiasid? Nende ehitised tunduvad,nagu need puruneksid iga sekund.

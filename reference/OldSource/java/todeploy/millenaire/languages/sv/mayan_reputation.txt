@@ -1,0 +1,15 @@
+
+0;Främling;Vi har inte sett din hudfärg, vi måste vara försiktiga.
+4*64;Känt ansikte;Ta varningen, våra krigare håller ett öga på dig.
+8*64;Känt Ansikte;Våra byggarbetare säger att du har sålt oss sten med hög kvalitet. Vi kanske inte behöver hålla koll på dig ändå.
+16*64;Vanlig besökare;$name! Har tiden medfört förändring?
+32*64;Vänlig Stenhuggare;Liksom oss verkar du förstå hur man hugger sten, vi kan vara vänner ändå.
+64*64;Favorit handlare;Hejsan, $name. Som vanligt är dina varor välkommena.
+2*64*64;Vän till byn;$name, Du har verkligen hjälpt oss mot en ljusare framtid.
+4*64*64;Fyndig Allierad;$name, du har blivit en viktig allierad till denna by tack vare all de resurser och tjänster du har gett oss.
+8*64*64;En av oss;$name Våra shamaner har nu invigt dig som en av oss.
+32*64*64;Naturlig ledare;Du har förtjänat tillit och respekt av alla mayas. De följer dej vart som helst.
+4*32*64*64;Stor Sten Gud;Vi vet att du inte är från denna värld, men du har gett oss hela berg med sten. Du måste vara en gud.
+-64;Olägenhet;Lämna vårat land. Din sort ska inte vanhelga våran kultur.
+-4*64;Otrevlig utomstående;Du har fört stank och kaos till våran by.
+-16*64;Samhällsfiende;Du har förstört vårat sätt att leva, Detta kommer inte tolereras.

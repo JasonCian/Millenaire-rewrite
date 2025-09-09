@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+  		"down": "millenaire:blocks/painted_brick_green",
+        "up": "millenaire:blocks/empty",
+        "north": "millenaire:blocks/painted_brick_decoration_green_bottom",
+        "east": "millenaire:blocks/painted_brick_decoration_green_bottom",
+        "south": "millenaire:blocks/painted_brick_decoration_green_bottom",
+        "west": "millenaire:blocks/painted_brick_decoration_green_bottom",
+    	"particle" : "millenaire:blocks/painted_brick_decoration_green_bottom"
+  }
+}

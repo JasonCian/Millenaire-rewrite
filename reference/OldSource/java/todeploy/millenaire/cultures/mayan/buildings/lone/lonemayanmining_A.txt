@@ -1,0 +1,22 @@
+//Parameters for the building as a whole
+building.length=16
+building.width=12
+building.buildingorientation=3
+building.showtownhallsigns=false
+building.startinggood=maize,1.0,1,40
+building.startinggood=denier,1.0,20,44
+building.startinggood=denierargent,0.3,1,2
+building.startinggood=stone,1.0,10,55
+building.startinggood=gold,0.4,4,11
+building.startinggood=iron,0.6,3,17
+building.startinggood=cobblestone,1.0,10,30
+building.startinggood=cobblestone,1.0,40,64
+building.startinggood=stonepickaxe,0.8,1,3
+
+building.icon=mayanpickaxe
+
+//Parameters for initial construction
+initial.startlevel=-8
+initial.nativename=Sa'at Tunich In-ti'a'al
+initial.priority=100
+

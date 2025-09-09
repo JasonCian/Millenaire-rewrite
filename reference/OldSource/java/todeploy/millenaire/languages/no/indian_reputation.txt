@@ -1,0 +1,10 @@
+0;Fremmed;Vi er ikke vant til utlendinger i vår avsidesliggende landsby.
+4*64;Kjent ansikt;Du har ikke gjort noen alvorlige brudd på skikker, så langt.
+16*64;Stamgjest;Vær hilset, $name! Hvilke nyheter bringer du med deg?
+64*64;Favorittforhandler;Velkommen tilbake, $name. Hva har du tatt med deg for å handle med oss?
+2*64*64;Venn av landsbyen;$name-ji, vi anser deg alle som en sann venn, her.
+8*64*64;En av oss;Jeg ville aldri ha trodd at jeg skulle leve lenge nok til å se en utlending bli akseptert i landsbyen, men $name-ji, du er nå en av oss!
+32*64*64;Naturlig leder;$name-ji, du har opparbeidet tilliten og respekten til mitt folk. De vil følge deg hvor enn du går.
+-64;Plage;Vi liker ikke utlendinger her, spesielt ikke av din sort.
+-4*64;Utrivelig utenforstående;Hvem enn som oppdrog deg gjorde en veldig dårlig jobb. Vi håper at du vil bli borte snart.
+-16*64;Samfunnsfiende;Hver morgen ber jeg til Gudinnen om at jeg aldri vil se ansiktet ditt igjen.

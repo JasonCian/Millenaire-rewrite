@@ -1,0 +1,12 @@
+{
+   "parent": "block/cube_all",
+   "textures": {
+     "particle": "millenaire:blocks/honey_block",
+     "down": "millenaire:blocks/thatch_topbottom",
+     "up": "millenaire:blocks/thatch_topbottom",
+     "north": "millenaire:blocks/honey_block",
+     "east": "millenaire:blocks/honey_block",
+     "south": "millenaire:blocks/honey_block",
+     "west": "millenaire:blocks/honey_block"
+   }
+}

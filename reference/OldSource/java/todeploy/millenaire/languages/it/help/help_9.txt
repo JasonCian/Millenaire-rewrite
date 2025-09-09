@@ -1,0 +1,16 @@
+version:3.4
+<darkblue>Gli Indiani
+
+Provenienti dall'India del nord vivono in tre tipi di villaggi: gli insediamenti militari si sviluppano attorno ad un forte, quelli agricoli intorno al centro cittadino, e quelli reali sono dominati da un un palazzo con due sobborghi. Parlano indi, ma i dialoghi sono tradotti quando il giocatore "impara" la lingua interagendo con loro.
+
+<darkblue>Blocchi e oggetti unici
+
+-Gli indiani coltivano riso e curcuma. Il giocatore può chiedere al capo villaggio come coltivare queste piante.
+-Mattoni di fango e cotti, prodotti lasciando i mattoni umidi ad asciugare al sole. I mattoni umidi sono creati con lo stampo per mattoni (acquistabile nel villaggio).
+-Bassorilievi indiani, rappresentano deità e sono creati dagli scultori.
+-Rasgulla, dolci fatti a partire dalla canna da zucchero.
+
+<darkblue>Ricette specifiche (senza ordine)
+
+-Riso e curcuma producono curry vegetariano.
+-Riso, curcuma e pollo crudo producono curry di carne.

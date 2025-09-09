@@ -1,0 +1,23 @@
+//Parameters for the building as a whole
+building.length=11
+building.width=13
+building.areatoclear=3
+building.buildingorientation=3
+building.icon=sign
+
+
+//Parameters for initial construction
+initial.startlevel=-8
+initial.nativename=Tuniglaktubvik
+initial.priority=400
+initial.female=inuit_oldlady
+initial.pathlevel=1
+initial.tag=archives
+initial.signs=6,7,8,9,0,1,2,5,4,3,13,12,11,10,20,21,22,23,14,15,16,19,18,17,27,26,25,24,28,29,30,31,39,32,38,33,37,36,35,34,40,41,42,43,51,44,50,45,49,48,47,46,52,53,54,55,56,57,58,59,60
+
+
+//Parameters for specific upgrades
+upgrade1.startlevel=-7
+upgrade1.priority=40
+upgrade1.pathlevel=2
+

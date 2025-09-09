@@ -1,0 +1,111 @@
+travelbook.culture.desc=The Seljuks, a Turkish dynasty with strong and disciplined soldiers ruling the near east. This culture has stunning architecture and delicious cuisine. It lives according to the rules of Islam.
+
+travelbook.villager.turk_armourysmith.desc=	This man spends his days crafting Turkish armor and weapons in a way that only a Turk could.
+travelbook.villager.turk_bandit.desc=	This bandit is a man who lives a simple life of robbery, murder, rebellion, and jaywalking, all for both the thrill and a few deniers.
+travelbook.villager.turk_banditleader.desc=	The leader of a bandit group that is well skilled in robbery and combat.
+travelbook.villager.turk_boy.desc=	When this boy grows up he might become a soldier, a blacksmith, a farmer or even a man of God, but that will take a while.
+travelbook.villager.turk_cook.desc=	A creator of fantastic culinary delights, you can expect to find him making Pide, Ayran, and Lokum.
+travelbook.villager.turk_cookwife.desc=	Wife of the village cook, this woman helps out by acquiring the ingredients and selling the results.
+travelbook.villager.turk_cottonfarmer.desc=	A commoner with a very important job. Cotton can be used almost anywhere.
+travelbook.villager.turk_cowfarmer.desc=	Beef is a staple of Turkish cuisine. That makes the cattle farmer an important job in Turkish society.
+travelbook.villager.turk_cowfarmerwife.desc=	Cattle farming is a tough job, and the farmer wouldn't be able to do all the work without his wife!
+travelbook.villager.turk_fisherman.desc=	Is it luck, skill, or perhaps a blessing from above? Whatever it is, this man is able to pull baskets full of fish from a tiny pond.
+travelbook.villager.turk_girl.desc=	She might be small now, but she'll become a crucial part of her community after she grows up.
+travelbook.villager.turk_hamletvali.desc=	The emir, proud and strong, defends his village and his people with honor.
+travelbook.villager.turk_headfarmer.desc=	This clever farmer,with knowledge acquired over the years, keeps his village feed.
+travelbook.villager.turk_hoca.desc=	This man of God has dedicated his life to spreading the Prophet Muhammad's teachings and strengthening the faith of the villagers.
+travelbook.villager.turk_hocaswife.desc=	The Hoca's wife serves as a role model for the village's female community.
+travelbook.villager.turk_imam.desc=	This man of God has dedicated his life to spreading the Prophet Muhammad's teachings and strengthening the faith of the villagers.
+travelbook.villager.turk_imamswife.desc=	The Imam's wife serves as a role model for the village's female community.
+travelbook.villager.turk_localmerchant.desc=	Trade is the lifeblood of any village. This merchant trades with nearby villages in order to improve his home village.
+travelbook.villager.turk_lonecowfarmer.desc=	Sometimes the best place for cattle is far away from his village. This man has decided to put his cows over his need for social interaction.
+travelbook.villager.turk_lonefarmer.desc=	Sometimes the best place for farms is far away from his village. This man and his family decided to put thier farm over thier need for social interaction.
+travelbook.villager.turk_lonemerchant.desc=	A very proud man with honor, without him the trade could not be maintained.
+travelbook.villager.turk_loneminer.desc=	This is man looking for that special ore vein that can only be found in the wilderness.
+travelbook.villager.turk_lonesoldier.desc=	An honorable companion of the trader, his job is to keep the trader safe.
+travelbook.villager.turk_lumberman.desc=	Wood is useful as both a versatile building material and a source of fuel, and it's this guy's job to keep his village's stores full with wood.
+
+
+travelbook.villager.turk_merchant_art.desc=	An artist in his free time, this merchant sells a wide array of paintings and beautiful carpets.
+travelbook.villager.turk_merchant_food.desc=	This merchant has traveled from his home to share his culinary masterpieces with the world - for a price.
+travelbook.villager.turk_merchant_mine.desc=	A stonemason in his free time, this merchant sells a wide array of bricks and stone for other hobbyists and decorators.
+travelbook.villager.turk_merchant_plant.desc=	This merchant can be found selling his botanical wares at a market. He hopes to make a profit off of flowers and saplings he grew himself.
+travelbook.villager.turk_merchant_weapon.desc=	Formerly a blacksmith for the army, today he sells his goods in markets.
+travelbook.villager.turk_merchant_wool.desc=	Coming from a line of shepherds, this merchant regularly has far more wool than he knows what to do with.
+
+
+travelbook.villager.turk_miller.desc=	Millers turn wheat into freshly baked bread.
+travelbook.villager.turk_miner.desc=	His job is to mine the stone and provide the mudbricks that the village requires to grow.
+travelbook.villager.turk_peasant.desc=	The village rests on the shoulders of the humble peasant. Who else performs the menial jobs that need doing.
+travelbook.villager.turk_peasantwife.desc=	The village rests on the shoulders of the humble peasant. Who else performs the menial jobs that need doing.
+travelbook.villager.turk_richpeasantwife.desc=	While wealthier than her peers, she is still a peasant deep down, and really isn't much more special.
+travelbook.villager.turk_richtrader.desc=	A successful man who has devoted his life to trade and good relationships, he is not missing anything.
+travelbook.villager.turk_richwoman.desc=	The richest woman in town, she looks down on others, despite them being much more useful.
+travelbook.villager.turk_shepherd.desc=	This shepherd does as you would expect - herding sheep and slaughtering them helal for their delicious mutton.
+travelbook.villager.turk_shepherdwife.desc=	The wife of a shepherd is just as important as the shepherd is, as she helps feed and care for them.
+travelbook.villager.turk_soldier.desc=	Armed with a sword and a bow, this soldier is the first line of defense for the village.
+travelbook.villager.turk_stonecrafter.desc=	This villager can turn unassuming stone and mudbricks into beautiful masterpieces fit for sultans.
+travelbook.villager.turk_toolsmith.desc=	A blacksmith who specializes in the tools necessary for civilized life, such as hoes and axes.
+travelbook.villager.turk_vali.desc=	A man of wealth and prestige, he leads his village with equal amounts grace and iron resolve.
+travelbook.villager.turk_weaver.desc=	After the shepherd shears the sheep and the farmer gathers the plants, wool and cotton comes to this man to be turned into carpets and other goods.
+travelbook.villager.turk_weaverwife.desc=	The weaver's wife, he wouldn't be able to do without her.
+	
+	
+travelbook.village.agriculture_small_seljuks.desc=	A small Seljuk  village concentrating on agriculture.
+travelbook.village.agriculture_village_seljuks.desc=	A Seljuk  village concentrating on agriculture.
+travelbook.village.artisans_small_seljuks.desc=	A small village where villagers mine stone and produce decorational goods to sell them to other villages.
+travelbook.village.controlled_fort_seljuks.desc=	Player Controlled Fort.
+travelbook.village.controlled_small_village_seljuks.desc=	Player Controlled Village.
+travelbook.village.military_village_seljuks.desc=	A Seljuk village that focuses on security, therefore also on weapons and armor.
+travelbook.village.religious_village_seljuks.desc=	A Seljuk village that has a mosque in the center of the village.
+travelbook.village.trading_village_seljuks.desc=	A Seljuk village concentrating on trading and producing.
+	
+	
+travelbook.building.abdesthane.desc=	A water source where villagers can refresh and clean themselves.
+travelbook.building.banditcamp.desc=	A bandits' camp where they store their captured goods and continue to equip themselves.
+travelbook.building.bandittower.desc=	A tower built by traitors of the Seljuks, from here they plan their raids and store their loot.
+travelbook.building.barrackssmall.desc=	A small barrack where the great Seljuk soldiers are trained.
+travelbook.building.bath_abandoned.desc=	A completely ruined hamam in the middle of the desert.
+
+
+travelbook.building.cesme.desc=	The well helps Seljuk farmers keep their crops regularly irrigated, providing them with a boost to land fertility, and thusly, larger crop yields.
+travelbook.building.cottonfarm.desc=	A Home for the Cottonfarmer he also stores and plants cotton here.
+travelbook.building.cottonfield.desc=	A small field where the Seljuks plant the miraculous cotton.
+travelbook.building.flowerplant.desc=	Decorative Building were flowers are planted.
+travelbook.building.flowerplantsmall.desc=	Decorative Building were flowers are planted.
+
+
+travelbook.building.gfarm_a_inn.desc=	A room built for the traders in the town hall.
+travelbook.building.gmarket_a_inn.desc=	A room built for the traders in the town hall.
+travelbook.building.gmarket_a_market.desc=	The heart of this village, tents for traders from near and far
+travelbook.building.gölgealti.desc=	A place where the villagers can withdraw from the hot sun
+travelbook.building.hamlettownhall.desc=	A place where the village is administered and projects can be examined.
+travelbook.building.hamlettownhall_A_inn.desc=	A room built for the traders in the town hall.
+travelbook.building.hamlettownhallplayer.desc=	A place where the village is administered and projects can be examined.
+travelbook.building.hamlettownhallplayer_A_inn.desc=	A room built for the traders in the town hall.
+travelbook.building.lonemarket_a_market.desc=	An independent trading post, players can buy goods here.
+travelbook.building.mosque_a_archive.desc=	An archive under this mosque that stores the history and information of the village.
+travelbook.building.node.desc=	
+travelbook.building.olivefarm.desc=	A plantation for olives, after they have been harvested, they are further processed into olive oil.
+travelbook.building.passnode.desc=	A crossroad where traders and villagers meet and excange news and gossip
+travelbook.building.pistachiotrees.desc=	A plantation for pistachios, the lumberjack occasionally comes to collect them.
+travelbook.building.playerhousegift.desc=	A gift house for the player to live and store his items in.
+travelbook.building.playerhousemed2.desc=	A house that the player can buy to live and store his items in.
+travelbook.building.playersmall1.desc=	A house that the player can buy to live and store his items in.
+travelbook.building.ruin.desc=	A devastated ruin.
+travelbook.building.ruinlonemine.desc=	An abandoned mine
+travelbook.building.ruinwall.desc=	A ruined ancient wall.
+travelbook.building.ruinwell.desc=	A ruined ancient well.
+travelbook.building.sarayfort.desc=	The breathtaking Seljuk Castle built for its mighty emir. Traders settle here to do business with the villagers. The imam of the village also lives here.
+travelbook.building.sarayfort_a_imams.desc=	This house is home to the family of the imam.
+travelbook.building.sarayfort_a_market.desc=	Tents for traders from near and far.
+travelbook.building.sarayfortplayer.desc=	The breathtaking Seljuk Castle built for its mighty emir. Traders settle here to do business with the villagers. The imam of the village also lives here.
+travelbook.building.smallmosque.desc=	A small mosque for the villagers to do their prayers. It is prayed 5 times a day.
+travelbook.building.sugarcanefarm.desc=	A small sugar cane farm. The resulting sugar is used to make delicious sweets.
+travelbook.building.thmosque.desc=	A great mosque. Built to keep the faith and to manage the village.
+travelbook.building.thmosque_a_archive.desc= An archive under this mosque that stores the history and information of the village.
+travelbook.building.thmosque_a_femaleside.desc=	The area where women perform their prayers.
+travelbook.building.thmosque_a_inn.desc= A stay built for the traders in the town hall.
+travelbook.building.watchtower_a_soldier0.desc=	A mighty Seljuk soldier lives here.
+travelbook.building.weaver.desc= Carpets, clothes, everything that has to do with cotton and wool is made here.
+	

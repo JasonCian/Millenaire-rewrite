@@ -1,0 +1,15 @@
+building.length=39
+building.width=39
+building.parentbuildingplan=sarayfort_A0
+
+building.buildingorientation=2
+building.issubbuilding=true
+building.max=0
+
+building.icon=bed_red
+
+initial.startlevel=-1
+initial.nativename=Imamin Evi
+initial.priority=1000
+initial.male=turk_imam
+initial.female=turk_imamswife

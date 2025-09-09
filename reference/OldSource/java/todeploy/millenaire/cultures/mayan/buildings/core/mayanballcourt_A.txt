@@ -1,0 +1,14 @@
+//Parameters for the building as a whole
+building.length=17
+building.width=22
+building.buildingorientation=3
+building.farfromtag=leasure,30
+building.icon=stonebrick
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Jalab
+initial.priority=400
+initial.pathlevel=1
+initial.tag=leasure
+

@@ -1,0 +1,41 @@
+//Parameters for the building as a whole
+building.length=9
+building.width=12
+building.buildingorientation=3
+building.max=0
+building.icon=woodsword
+
+building.showtownhallsigns=false
+building.startinggood=denier,1.0,10,42
+building.startinggood=denierargent,0.5,1,3
+building.startinggood=inuitbow,0.67,1,0
+building.startinggood=furhelmet,0.5,1,0
+building.startinggood=furplate,0.67,1,1
+building.startinggood=furlegs,0.67,1,1
+building.startinggood=furboots,0.5,1,0
+building.startinggood=leatherhelmet,0.75,1,3
+building.startinggood=leatherchest,0.75,1,4
+building.startinggood=leatherlegs,0.75,1,3
+building.startinggood=leatherboots,0.75,1,2
+building.startinggood=inuittrident,0.75,1,0
+building.startinggood=inuitbow,0.67,1,0
+building.startinggood=arrow,0.5,10,42
+building.startinggood=ulu,0.25,1,4
+building.startinggood=inuitbearstew,2.0,1,2
+building.startinggood=bearmeat_cooked,0.5,1,1
+building.startinggood=woodsword,1.0,1,1
+building.startinggood=woodshovel,0.5,1,2
+building.startinggood=woodaxe,0.5,1,2
+building.startinggood=bone,1.0,10,42
+building.startinggood=dye_white,1.0,10,42
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Unatannik Tupiq
+initial.translatedname=name_en,murderer shack
+initial.priority=7
+initial.male=inuit_madman
+initial.male=inuit_madman
+initial.male=inuit_madman
+initial.male=inuit_madman2
+initial.male=inuit_madman2

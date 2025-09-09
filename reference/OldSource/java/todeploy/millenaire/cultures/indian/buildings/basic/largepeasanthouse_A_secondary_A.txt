@@ -1,0 +1,26 @@
+//Parameters for the building as a whole
+building.length=15
+building.width=15
+building.buildingorientation=3
+building.issubbuilding=true
+building.parentbuildingplan=largepeasanthouse_A2
+building.max=0
+building.icon=steelshovel
+building.version=2
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Dusra Ghar
+initial.priority=400
+initial.male=indian_peasant
+initial.female=indian_peasantwife
+
+//Parameters for specific upgrades
+upgrade1.priority=40
+
+upgrade2.priority=35
+upgrade2.rebuildpath=true
+
+upgrade3.priority=30
+upgrade3.rebuildpath=false
+

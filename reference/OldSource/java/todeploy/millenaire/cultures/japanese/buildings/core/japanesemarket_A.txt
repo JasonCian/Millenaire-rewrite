@@ -1,0 +1,24 @@
+//Parameters for the building as a whole
+building.length=25
+building.width=22
+building.buildingorientation=3
+building.farfromtag=leasure,30
+building.icon=purse
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Ichiba
+initial.priority=600
+initial.pathlevel=1
+initial.tag=market
+initial.tag=leasure
+
+//Parameters for specific upgrades
+upgrade1.priority=60
+
+upgrade2.priority=55
+
+upgrade3.startlevel=-2
+upgrade3.priority=50
+upgrade3.pathlevel=2
+

@@ -1,0 +1,192 @@
+{
+  "displayName": "Byzantine Culture", 
+  "description": "Eastern Roman Empire culture blending Greek, Roman, and Christian traditions. Known for elaborate architecture, trade networks, and scholarly pursuits.",
+  "version": "1.0.0",
+  "enabled": true,
+  
+  "social": {
+    "professions": [
+      "merchant",
+      "craftsman", 
+      "scholar",
+      "soldier",
+      "priest",
+      "diplomat",
+      "architect",
+      "silk_weaver",
+      "scribe",
+      "sailor"
+    ],
+    "hierarchy": [
+      "emperor",
+      "noble",
+      "official",
+      "citizen", 
+      "peasant"
+    ],
+    "values": {
+      "faith": 0.9,
+      "learning": 0.85,
+      "trade": 0.8,
+      "diplomacy": 0.8,
+      "luxury": 0.75,
+      "tradition": 0.85
+    }
+  },
+  
+  "architecture": {
+    "style": "byzantine",
+    "building_types": [
+      "palace",
+      "cathedral", 
+      "monastery",
+      "basilica",
+      "house",
+      "workshop",
+      "bazaar",
+      "harbor",
+      "bathhouse",
+      "library",
+      "aqueduct"
+    ],
+    "material_preferences": {
+      "stone": 0.85,
+      "marble": 0.8,
+      "brick": 0.9,
+      "mosaic": 0.7,
+      "gold": 0.6,
+      "silk": 0.7
+    },
+    "decorative_styles": {
+      "domes": true,
+      "mosaics": true,
+      "icons": true,
+      "golden_ornaments": true,
+      "marble_columns": true,
+      "byzantine_crosses": true
+    }
+  },
+  
+  "economy": {
+    "currencies": [
+      "solidus",
+      "denier",
+      "nomisma"
+    ],
+    "trade_preferences": {
+      "silk": 0.9,
+      "spices": 0.85,
+      "precious_metals": 0.8,
+      "gems": 0.75,
+      "perfumes": 0.7,
+      "books": 0.8,
+      "wine": 0.7,
+      "incense": 0.75
+    },
+    "production_specialties": [
+      "silk",
+      "luxury_goods",
+      "manuscripts",
+      "jewelry",
+      "perfumes",
+      "mosaics",
+      "religious_artifacts"
+    ],
+    "economic_model": {
+      "type": "imperial_mercantile",
+      "focus": "trade_and_luxury",
+      "trade_orientation": "mediterranean",
+      "tax_system": "imperial_taxation"
+    }
+  },
+  
+  "culture_features": {
+    "cultural_items": [
+      "byzantine_armor",
+      "byzantine_cross",
+      "silk_robe",
+      "golden_chalice",
+      "illuminated_manuscript",
+      "mosaic_tile",
+      "incense_burner",
+      "precious_gem",
+      "imperial_seal"
+    ],
+    "traditions": {
+      "religious_ceremonies": {
+        "frequency": "weekly",
+        "importance": "very_high"
+      },
+      "scholarly_debates": {
+        "frequency": "regular",
+        "importance": "high"
+      },
+      "trade_expeditions": {
+        "frequency": "seasonal",
+        "importance": "high"
+      },
+      "imperial_audiences": {
+        "frequency": "monthly",
+        "importance": "high"
+      }
+    },
+    "religious_beliefs": {
+      "primary_faith": "orthodox_christianity",
+      "religious_importance": 0.9,
+      "church_state_unity": 0.85,
+      "icon_veneration": 0.8,
+      "monasticism": 0.75
+    },
+    "festivals": [
+      {
+        "name": "epiphany",
+        "season": "winter",
+        "duration": 3,
+        "importance": "very_high"
+      },
+      {
+        "name": "easter_celebration",
+        "season": "spring",
+        "duration": 7,
+        "importance": "very_high"
+      },
+      {
+        "name": "harvest_blessing",
+        "season": "autumn",
+        "duration": 2,
+        "importance": "medium"
+      }
+    ]
+  },
+  
+  "technology": {
+    "levels": {
+      "agriculture": 4,
+      "construction": 6,
+      "craftsmanship": 5,
+      "metallurgy": 4,
+      "military": 5,
+      "navigation": 6,
+      "scholarship": 7,
+      "trade": 7
+    },
+    "research_aptitudes": {
+      "agriculture": 0.6,
+      "construction": 0.8,
+      "craftsmanship": 0.7,
+      "metallurgy": 0.6,
+      "military": 0.7,
+      "navigation": 0.8,
+      "scholarship": 0.85,
+      "trade": 0.9
+    },
+    "knowledge_transmission": {
+      "libraries": true,
+      "written_records": "extensive",
+      "monasteries": true,
+      "universities": true,
+      "trade_guilds": true,
+      "diplomatic_exchanges": true
+    }
+  }
+}

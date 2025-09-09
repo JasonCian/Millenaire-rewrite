@@ -1,0 +1,37 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "millenaire:snowbricks",
+      "millenaire:snowwalls"
+    ]
+  },
+  "criteria": {
+    "snow": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:snow"
+          }
+        ]
+	  }
+    },
+    "snowbrick": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "millenaire:snowbrick"
+          }
+        ]
+	  }
+    }
+  },
+  "requirements": [
+    [
+      "snow",
+      "snowbrick"
+    ]
+  ]
+}

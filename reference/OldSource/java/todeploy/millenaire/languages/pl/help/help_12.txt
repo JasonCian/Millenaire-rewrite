@@ -1,0 +1,10 @@
+
+wersja:4.3.0
+<darkblue>Bizantyjczycy
+Dumni i bogaci następcy Rzymian,Bizantyjczycy produkują wino i wytworne ikony religijne .Mówią po grecku,ale ich dialog będzie tłumaczony jak gracz będzie się "uczył" ich języka poprzez rozmowę z nimi.
+<darkblue>Unikalne bloki i objekty
+-Sadzą winogrona i produkują z nich wino.Gracz może spytać się przywódcy aby go nauczył jak się obchodzić z tą rośliną.
+-Używają gliny do produkcji Bizantyńskich płytek które pokrywają ich budynki
+-Ich mistrzostwem jest hodowla jedwabników(jedwabniki rolnicze) pozwalająca im na produkowanie jedwabiu na którym malują ich Bizantyńskie ikony
+<darkblue>Specyficzny przepis
+-dwie linie po 3 winogrona w każdym tworzy wino

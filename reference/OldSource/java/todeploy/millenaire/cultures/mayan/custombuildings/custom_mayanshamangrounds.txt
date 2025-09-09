@@ -1,0 +1,1 @@
+native:Ah Waay Su'uk;gameNameKey:mayanshamangrounds_A0;male:mayan_Shaman;female:mayan_Shamanwife;chest:1-2;sign:1;moveinpriority:10

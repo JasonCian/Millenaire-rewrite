@@ -1,0 +1,15 @@
+//Parameters for the building as a whole
+building.length=24
+building.width=23
+building.buildingorientation=2
+building.max=0
+building.reputation=32768
+building.price=16384
+building.icon=denieror
+
+
+//Parameters for initial construction
+initial.nativename=Noh Muul
+initial.priority=1000000
+initial.pathlevel=1
+

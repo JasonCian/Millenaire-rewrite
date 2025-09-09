@@ -1,0 +1,18 @@
+//Parameters for the building as a whole
+building.length=20
+building.width=20
+building.buildingorientation=0
+building.showtownhallsigns=false
+
+building.icon=maize
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Maya Makan
+initial.priority=3000
+initial.male=lonemayanfarmer
+initial.female=lonemayanpeasantwife
+initial.tag=maizefarm
+initial.tag=chicken
+initial.shop=lonemayanfarm
+

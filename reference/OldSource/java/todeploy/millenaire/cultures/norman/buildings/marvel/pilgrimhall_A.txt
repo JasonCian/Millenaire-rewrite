@@ -1,0 +1,20 @@
+//Parameters for the building as a whole
+building.length=9
+building.width=13
+building.max=0
+building.icon=bed_straw
+//currently unused
+building.travelbook_display=false
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Dortoir des pélerins
+initial.priority=10000
+initial.visitor=pilgrim
+initial.visitor=pilgrim
+initial.visitor=pilgrim
+initial.visitor=pilgrim
+initial.visitor=pilgrimfemale
+initial.visitor=pilgrimfemale
+
+//Parameters for specific upgrades

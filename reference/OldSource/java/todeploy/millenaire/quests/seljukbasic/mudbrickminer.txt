@@ -1,0 +1,12 @@
+minreputation:50
+chanceperhour:0.1
+maxsimultaneous:2
+step:new
+duration:48
+definevillager:key=startvillager,type=seljuk/turk_miner,forbiddentag=mudbrickminer_done
+villager:startvillager
+requiredgood:mudbrick,24
+rewardmoney:128
+rewardreputation:256
+settagsuccess:startvillager,mudbrickminer_done
+settagfailure:startvillager,mudbrickminer_done

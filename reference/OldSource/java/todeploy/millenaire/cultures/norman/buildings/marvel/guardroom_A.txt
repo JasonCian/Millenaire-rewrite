@@ -1,0 +1,21 @@
+//Parameters for the building as a whole
+building.length=9
+building.width=13
+building.max=0
+building.icon=steelsword
+//currently unused
+building.travelbook_display=false
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Salle de guarde
+initial.priority=10000
+initial.male=guard
+initial.male=guard
+initial.male=guard
+initial.male=guard
+initial.male=guard
+initial.male=guard
+
+//Parameters for specific upgrades

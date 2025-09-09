@@ -1,0 +1,42 @@
+modLoader="javafml"
+loaderVersion="${loader_version_range}"
+license="${mod_license}"
+
+[[mods]]
+modId="${mod_id}"
+version="${mod_version}"
+displayName="${mod_name}"
+logoFile="logo.png"
+credits="${mod_authors}"
+authors="${mod_authors}"
+description='''
+${mod_description}
+
+千年村庄重写版 - 为Minecraft 1.20.1重新构建的村庄文明模组
+Millenaire Rewrite - A village civilization mod rebuilt for Minecraft 1.20.1
+
+功能特性 Features:
+- 多文化村庄系统 Multi-cultural village system
+- 动态建筑生成 Dynamic building generation  
+- 经济贸易系统 Economic trading system
+- 村民AI交互 Advanced villager AI
+- 自定义建筑模板 Custom building templates
+
+版权声明 Copyright:
+基于原版Millenaire模组重新开发，遵循开源协议
+Based on original Millenaire mod, redeveloped under open source license
+'''
+
+[[dependencies.${mod_id}]]
+modId="forge"
+mandatory=true
+versionRange="${forge_version_range}"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.${mod_id}]]
+modId="minecraft"
+mandatory=true
+versionRange="${minecraft_version_range}"
+ordering="NONE"
+side="BOTH"

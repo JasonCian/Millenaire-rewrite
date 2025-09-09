@@ -1,0 +1,10 @@
+0;Võõras;Me ei ole harjunud võõrmaalistega siin külas.
+4*64;Tuntud nägu;Nii kaua, kui sa ei tee ühtegi halba asja oled sa teretulnud.
+16*64;Tavaline külastaja;Namaste, $name! Mis uudiseid sa tood?
+64*64;Lemmik kaupleja;Teretulemast tagasi, $name. Mida oled sa toonud, et meiega vaheteda?
+2*64*64;Küla sõber;$name-ji, me kõik võttame sind kui sõpra.
+8*64*64;Üks meist;Ma ei mõelnud, et elan nii kaua, nähes võõramaalast meie külas vastu võetud, aga $name-ji, sina oled üks neist!
+32*64*64;Naturaalne juht;$name-ji, sa oled saanud truuduse ja usalduse minu inimestelt. Nad järgnevad sulle kõikjale. 
+-64;Nuhtlus;Meile ei meeldi võõramaalased, eriti sinusugused.
+-4*64;Ebameeldiv autsider;Kesiganes kasvatas sinu tegi ta väga halba tööd. Me loodame, et sa oled siit kadunud varsti.
+-16*64;Avalik vaenlane;Iga hommik ma palvetan Jumalale, et ma ei näeks su nägu siin enam kunagi.

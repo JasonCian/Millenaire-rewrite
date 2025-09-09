@@ -1,0 +1,37 @@
+//Note pour les utilisateurs de Windows: si vous voyez le fichier entier sur une seule ligne, ouvrez-le avec PSPAd ou UltraEdit plutôt que Notepad
+
+//Note to Windows users: if you see the entire file in one line, open it using PSPad or UltraEdit instead of Notepad
+
+priority=50
+
+//en/in millisecondes
+duration=5000
+
+//spécifier si l'étiquette ou les phrases pour ce but n'ont pas le code du but lui-même
+//specify if the label and sentences for this goal is not the name of the goal itself
+sentencekey=makemosaic
+labelkey=makemosaic
+
+//objets tenus par le villageois
+heldItemsDestination=smooth_diorite,byzantine_tiles,byzantine_mosaic
+
+//chaque action consome tous les objets "input" et produit tous les "output"
+//each action will require and use all the inputs and produce all the outputs
+input=smooth_diorite,1
+input=byzantine_tiles,1
+output=byzantine_mosaic,2
+
+//s'il y a plus d'objets dans le centre du village que ça, arrêter le but
+//if more than that number of item is present in townhall, stop goal
+villagelimit=byzantine_mosaic,128
+
+itemsbalance=smooth_diorite,byzantine_mosaic
+itemsbalance=byzantine_tiles,byzantine_mosaic
+
+requiredtag=tiles
+
+//son à jouer quand un objet est fabriqué
+//sound to play once an object is done
+sound=stone
+
+tag=tag_construction

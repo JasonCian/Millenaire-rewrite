@@ -1,0 +1,21 @@
+//Parameters for the building as a whole
+building.length=30
+building.width=31
+building.buildingorientation=3
+building.issubbuilding=true
+building.parentbuildingplan=mayancamp_A0
+building.max=0
+building.startinggood=denier,1.0,4,4
+building.startinggood=masa,1.0,3,5
+building.startinggood=bow,1.0,1,4
+building.startinggood=arrow,1.0,16,32
+
+building.travelbook_display=false
+building.icon=mayanmace
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Ajaw Cah
+initial.male=questkingwarrior
+initial.male=questkingwarrior
+

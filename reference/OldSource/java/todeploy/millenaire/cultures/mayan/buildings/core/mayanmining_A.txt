@@ -1,0 +1,25 @@
+//Parameters for the building as a whole
+building.length=16
+building.width=12
+building.buildingorientation=3
+building.mindistance=0.6
+building.icon=mayanpickaxe
+
+
+//Parameters for initial construction
+initial.startlevel=-8
+initial.nativename=Tunich In-ti'a'al
+initial.priority=1000
+initial.male=mayan_miner
+initial.female=mayan_peasantwife
+
+//Parameters for specific upgrades
+upgrade1.priority=100
+
+upgrade2.priority=95
+
+upgrade3.priority=90
+
+upgrade4.priority=85
+upgrade4.pathlevel=1
+

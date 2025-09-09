@@ -1,0 +1,9 @@
+{
+    "parent": "block/half_slab",
+    "textures": {
+        "bottom": "millenaire:blocks/cookedbrick",
+        "top": "millenaire:blocks/cookedbrick",
+        "side": "millenaire:blocks/cookedbrick",
+        "particle" : "millenaire:blocks/cookedbrick"
+    }
+}

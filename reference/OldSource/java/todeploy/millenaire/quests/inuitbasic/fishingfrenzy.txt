@@ -1,0 +1,14 @@
+minreputation:0
+chanceperhour:0.6
+maxsimultaneous:3
+step:new
+definevillager:key=startvillager,type=inuits/inuit_fisherman
+definevillager:key=wife,type=inuits/inuit_wife,relatedto=startvillager,relation=samehouse
+villager:startvillager
+duration:5
+step:new
+villager:wife
+duration:5
+requiredgood:fishraw,4
+rewardreputation:128
+penaltyreputation:192

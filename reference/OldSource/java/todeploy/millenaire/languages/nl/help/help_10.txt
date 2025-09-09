@@ -1,0 +1,14 @@
+
+version:4.8.0
+<darkblue>De Maya's
+Van de Yucutan, de Maya's staan bekend om hun steen architectuur met gouden decoratie en leven in boer-, religieuze en militaire dorpen. Ze spreken Mayaans, maar hun dialoog wordt vertaalt als de speler hun taal "leert".
+<darkblue>Unieke objecten en blokken
+-Ze verbouwen mais. De speler kan de leider vragen hem te leren dit gewas te verbouwen.
+-Ze maken mah en masas van mais en kip - vullende tortillas.
+-Ze verbouwen cacao en maken cacauhaa daarvan, een opwekkende chocoladedrank.
+-De obsidiaan handwerker maakt obsidiaan werktuigen. Ze zijn breekbaar maar kunnen gemakkelijk magisch bewerkt worden.
+-Hun handwerker maakt prachtige gouden blokken uit de goudstaven die de speler levert.
+-Ze maken ook Mayaanse beelden die goden voorstellen.
+<darkblue>Specifieke recepten
+-Drie mais in een rij geven wah (een soort tortilla)
+-Twee mais in een rij met kip in het midden geven masa (tortilla met kip).

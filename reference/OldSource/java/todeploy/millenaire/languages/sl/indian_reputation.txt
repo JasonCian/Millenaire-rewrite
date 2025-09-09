@@ -1,0 +1,10 @@
+0;Tujec;Nismo navajeni tujcev v naših odmaknjenih vaseh.
+4*64;Znan obraz;Do sedaj nisi naredil še nič hujšega.
+16*64;Reden obiskovalec;Pozdravljen, $name! Kakšne novice nam prinašaš?
+64*64;Priljubljen trgovec;Dobrodošel nazaj, $name. Kaj si nam prinesel danes?
+2*64*64;Prijatelj vasi;$name-ji, vsi te imamo za pravega prijatelja tukaj.
+8*64*64;Eden naših;Nisem si mislil, da bom doživel, da bomo sprejeli tujca v vas, ampak $name-ji, sedaj si eden naših!
+32*64*64;Rojen vladar;$name-ji, pridobil si zaupnaje in ugled mojih ljudi. Sedaj ti bodo sledili povsod. 
+-64;Nadloga;Nemaramo tujcev tukaj, še posebno pa ne tvoje vrste.
+-4*64;Neprijeten obiskovalec;Kdorkoli te je vzgojil, je to slabo naredil. Upamo, da boš kmalu odšel.
+-16*64;Sovražnik;Vsako jutro molim božanstvu, da nikoli več ne vidimo tvoj obraz.

@@ -1,0 +1,217 @@
+﻿//normanbasic:
+
+guardwife_0_label=غداء الزوج
+guardwife_0_description=زوجي $guard_villagername$ وهو حارس للأسف لقد نسيت أن اعطيه طعامه! رجاء هل تستطيع إيصال هذا البودين له؟
+guardwife_0_description_success=شكراًلك أنك لرجل طيب!
+guardwife_0_description_refuse=حقاًّ أنك من النوع الغير نافع.
+guardwife_1_label=كم أنا جائع!
+guardwife_1_description=زوجتي نسيت طعامي مرة أخرى! أه, يالها من زوجة!
+guardwife_1_description_success=شكراً لك جزيلاً.
+guardwife_1_description_refuse=حقاً لاتثق بالغرباء.
+guardwife_1_description_timeup=أنت لم توصل الوجبة في الوقت المناسب. $guard_villagename$ لن ينسى هذا.
+guardwife_1_listing=أعطي طعامه  $guard_villagername$ في قرية $guard_villagename$.
+
+lumbermancider_0_label=عطشان!
+lumbermancider_0_description=قطع الأخشاب عمل مرهق جداً... لو فقط شخص ما يجلب لي عصير!
+lumbermancider_0_description_success=أه, أحتاج هذا حقاً! ألف شكر, ياصديقي الطيب!
+lumbermancider_0_description_refuse=لاتفكر بالأعتماد علي مرة اخرى لو أردت بعض الأخشاب!
+
+lonelumbermancalva_0_label=الحاجة للكحول!
+lonelumbermancalva_0_description=الجو بارد وفظيع في هذه الغابة وأنا لا أستطيع إيجاد تفاحة خضراء لأصنع بها كالفا! كم أتمنى الحصول على بضع زجاجات كالفا!
+lonelumbermancalva_0_description_success=عمل خارق! شاركني بضع زجاجات ياصاح!
+lonelumbermancalva_0_description_refuse=زائر نادر كل سنة, ولاتملك بضع زجاجات لتشاركني فيها .
+
+loneminerfood_0_label=أحتاج وجبة حقيقية
+loneminerfood_0_description=لقد مرّ شهر منذ تذوقت طعم , وجبة مقبولة. أكره ان اكون عالق هنا وأنقب طول الوقت وكل ما اتناوله مجرد خبز يابس!
+loneminerfood_0_description_success=الأن هذا ما أسميه وجبة نورمان حقيقية!
+loneminerfood_0_description_refuse=حسناً, الخبز ينتظرني.
+
+knightstonedelivery_0_label=الحاجة للحجارة
+knightstonedelivery_0_description=$name, أحتاج للمزيد من الحجارة أو الحصيان لتطوير دفاعات $startvillager_villagename$! $miner_villagername$, الذي يعمل في التلال حول $miner_distance$ جهة $miner_direction$, قد وعدني بحزمة كبيرة لاكني لم أحصل على شيء منه. هل بالإمكان ان تذهب وتتفقد مالذي حصل؟
+knightstonedelivery_0_description_success=أتمنى لك رحلة سعيدة!
+knightstonedelivery_0_description_refuse=حسناً, سوف أرسل رجل كفوء ليقوم بالمهمة.
+knightstonedelivery_1_label=إستلام الحجارة
+knightstonedelivery_1_description=أه نعم, حجارة $startvillager_villagename$! لقد كنت على وشك تسليمها. تأكد أن لديك مكان فارغ, عددهاأربعة حزم كاملة كل حزمة  64 حبية.
+knightstonedelivery_1_description_success=إلى اللقاء إذاً, سوف أعود لعملي.
+knightstonedelivery_1_description_refuse=هل أتيت كل هذه المسافة لترفض...
+knightstonedelivery_1_description_timeup=أنت لم تجد $miner_villagername$ بالوقت المناسب.
+knightstonedelivery_1_listing=إذهب لرؤية المنقب $miner_villagername$, الذي يعيش في $startvillager_miner_distanceshort$ جهة $startvillager_miner_direction$ of $startvillager_villagename$, للإستفسار عن حجارة $startvillager_villagername$ .
+knightstonedelivery_2_label=تسليم الحجارة
+knightstonedelivery_2_description=هل جلبت الحجارة؟ ممتاز! خدمتك لنا لن تنسى.
+knightstonedelivery_2_description_success=شكراً جزيلاً.
+knightstonedelivery_2_description_refuse=يالك من شخص غير كفوء! كن سعيداً لأنك عائش لهذا الوقت.
+knightstonedelivery_2_description_timeup=لم تقم بإعادة الحجارة ل  $startvillager_villagername$ في الوقت المناسب.
+knightstonedelivery_2_listing=قم بالعودة ل $startvillager_villagename$ مع حجارة $startvillager_villagername$.
+
+abbotbooksdelivery_0_label=توصيل رسالة
+abbotbooksdelivery_0_description=يابني $name, أنه لمن الجيد رؤيتك. لدي إحتياج عظيم للكتب الثمينة في بحوثي, الموجودة بدير $loneabbot_villagename$ النائي. هل تكون كريما لرجل عجوز مثلي وتطلب الكتب من صديقي رئيس الدير $loneabbot_villagername$? سأكت لك رسالة تقديمية. سوف تجد ديره حول $loneabbot_distance$ نحو $loneabbot_direction$.
+abbotbooksdelivery_0_description_success=ليكون الرب معك برحلتك.
+abbotbooksdelivery_0_description_refuse=حقّا الشبان غير نافعين.
+abbotbooksdelivery_1_label=إيصال الرسالة
+abbotbooksdelivery_1_description=رسالة من صديقي القديم الأب $startvillager_villagername$? ممتاز! بالطبع, أستطيع إقراضه هذه الكتب. أنقل له أطيب تمنياتي, يابني.
+abbotbooksdelivery_1_description_success=حفظتك السلامة, يابني.
+abbotbooksdelivery_1_description_refuse=سوف يجد الرب طريقة أخرى إذاً.
+abbotbooksdelivery_1_description_timeup=لم تتمكن من إيصال الرسالة إلى $loneabbot_villagername$ بالوقت المناسب.
+abbotbooksdelivery_1_listing=إيصال الرسالة من $startvillager_villagername$ إلى رئيس الدير $loneabbot_villagername$. ديره $startvillager_loneabbot_distanceshort$ إلى $startvillager_loneabbot_direction$ في $startvillager_villagename$.
+abbotbooksdelivery_2_label=إيصال الكتب
+abbotbooksdelivery_2_description=كتبي! لقد كنت سريعاً, يابني! سوف تحصل على جائزتك الحقيقية بالعالم الأخر, أرجوك أقبل هذا مني.
+abbotbooksdelivery_2_description_success=ليكون الرب معك.
+abbotbooksdelivery_2_description_refuse=هل أتيت كل هذا الطريق لإجل لاشيء, يابني؟
+abbotbooksdelivery_2_description_timeup=أنت لم توصل هذه الكتب إلى $startvillager_villagername$ بالوقت المناسب.
+abbotbooksdelivery_2_listing=أوصل الكتب من $loneabbot_villagename$ إلى رئيس الدير $startvillager_villagername$ في $startvillager_villagername$.
+
+//hindibasic:
+
+rajadiamondsword_0_label=مهمة سرية
+rajadiamondsword_0_description=ناماتسا, $name. لقد أظهرت ثقتك إلى $startvillager_villagename$, وأنا أحتاج لشخص موثوف لمهمة خاصة. الجنرال $general_villagername$ قد أثبت أنه جندي مخلص ومثاير, وحان الوقت لمكافئته. هل توصل هذه السيف الألماسي الثمين له, إلى قلعته في $general_villagename$, $general_distance$ إلى $general_direction$ من هنا؟
+rajadiamondsword_0_description_success=أحمي هذا السيف بحياتك!
+rajadiamondsword_0_description_refuse=لن ننسى هذا.
+rajadiamondsword_1_label=إيصال السيف
+rajadiamondsword_1_description=لماذا أتيت هنا, أيها الغريب؟
+rajadiamondsword_1_description_success=جلالته $startvillager_villagername$ كافأني! أنه حاكم عظيم. لك شكري, وله أيضاً.
+rajadiamondsword_1_description_refuse=يالك من وضيع!
+rajadiamondsword_1_description_timeup=لم توصل السيف إلى $general_villagername$ بالوقت المناسب. رجا وهو غير سعيدين بهذا.
+rajadiamondsword_1_listing=قم بإيصال السيف الألماسي إلى $general_villagername$ في قلعته في $general_villagename$.
+
+adivasifarmdelivery_0_label=توصيل مهم
+adivasifarmdelivery_0_description=لدينا فقط الرز والكركم هنا, أنها حياة صعبة... هل تساعدنا نحن الناس الفقراء؟ مزارع في قرية $peasant_villagername$ مستعد لمقايضت منتجاتنا باللحم والرايجولاس. لو أمكنك أخذ هذه البضائع لقريته $peasant_villagename$, سوف نكون ممتنين جداً لك. القرية حول $peasant_distance$ نحو $peasant_direction$ من هنا.
+adivasifarmdelivery_0_description_success=شوكريا, ياصديقي
+adivasifarmdelivery_0_description_refuse=لا أحد يساعد الفقراء...
+adivasifarmdelivery_1_label=تسليم المحاصيل
+adivasifarmdelivery_1_description=أه, لقد أتيت من $startvillager_villagername$? بالتأكيد, لدي بعض البضائع له. سوف أذهب لجلبها.
+adivasifarmdelivery_1_description_success=تذكر:المزرعة $startvillager_distanceshort$ إلى $startvillager_direction$.
+adivasifarmdelivery_1_description_refuse=حسناً, حظ سيء له.
+adivasifarmdelivery_1_description_timeup=أنت لم توصل البضائع إلى $peasant_villagername$ بالوقت المناسب.
+adivasifarmdelivery_1_listing=إذهب إلى $peasant_villagename$ سلم البضائع من مزرعة الأدفايزي إلى $peasant_villagername$.
+adivasifarmdelivery_2_label=تسليم البضائع
+adivasifarmdelivery_2_description=شوكريا,يا $name! هذا ماكنا نحتاجه! أتمنى أن $peasant_villagername$ أستقبلك جيداً؟
+adivasifarmdelivery_2_description_success=ليباركك الرب.
+adivasifarmdelivery_2_description_refuse=السرقة من الفقراء ليس عمل يفتخر به اقذر الناس حتى.
+adivasifarmdelivery_2_description_timeup=لم توصل البضائع ألى $startvillager_villagername بالوقت المناسب.
+adivasifarmdelivery_2_listing=أوصل البضائع من $peasant_villagename$ إلى مزرعة $startvillager_villagername$, $peasant_startvillager_direction$ جهة $peasant_startvillager_distance$ في $peasant_villagename$.
+
+traderdiamonds_0_label=تسليم المجوهرات
+traderdiamonds_0_description=ناماتسا,يا $name. لقد سمعت أنك محل ثقة وصديق لنا نحن الهندوس, لدي طلبية مهمة لإيصالها.المحبوب راني $rani_villagername$ في $rani_villagename$ طلب مني بعض الأحجار الكريمة لعمل بعض المجوهرات. هل توصلها إليه؟ الموقع هو $rani_distance$ إلى $rani_direction$ من هنا. تستطيع الأحتفاظ باثنين من الأحجار كهدية لك.
+traderdiamonds_0_description_success=لاتظهر ما أعطيتك لأي شخص أخر! لا أريد أن يتم سرقته.
+traderdiamonds_0_description_refuse=كما هو متوقع لست بقادر على مثل هذا النوع من المهام؟
+traderdiamonds_1_label=توصيل الألماس
+traderdiamonds_1_description=أخيراً. لقد كان صبري على وشك النفاذ. $startvillager_villagername$ لن تكون سعيدا برؤيته غاضباً.
+traderdiamonds_1_description_success=يفضل أن اذهب واجربها!
+traderdiamonds_1_description_refuse=أتمنى لك السؤ!
+traderdiamonds_1_description_timeup=أنت لم توصل الألماس لراني $rani_villagername$ بالوقت المناسب. لقد قللت من نفسك.
+traderdiamonds_1_listing=سلم الألماس من التاجر $startvillager_villagername$ إلى راني $rani_villagername$ في $rani_villagename$.
+
+//mystery basic:
+
+normanrasgullas_0_label=الطفل المريض
+normanrasgullas_0_description=إبني $child_villagername$ أصبح شاحب. لايستطيع تناول طعام من فمه كالبودين والأمعاء! هل لديك إقتراح أو شيئ خفيف كمشروب وغيره؟ تبدو خبيراً أيها المسافر.
+normanrasgullas_0_description_success=هذا لذيذ جداً! سوف أتناوله بنفسي.
+normanrasgullas_0_description_refuse=سوف أجرب الكالفا. وكل شيئ سيعمل على مايرام.
+
+mayanlumbermanaxe_0_label=الحطاب المحبط
+mayanlumbermanaxe_0_description=هذا الفأس هرم. لماذا لايوجد خبير مايا يستطيع عمل فأس قوي؟ سوف أكون منتج جداً لو وجد لدي أدوات مناسبة!
+mayanlumbermanaxe_0_description_success=هذا الفأس يشعرني بالقوة وكأنه مسحور! هل تم صنعه بواسطة آلهة؟
+mayanlumbermanaxe_0_description_refuse=عدد للعمل إذاً.
+
+
+
+losttapestry_0_label=القماش المفقود
+losttapestry_0_description=مرحباً يا $name! لقد وجدت قماش ملقى بالحقول. هل تستطيع معرفة صاحبه؟
+losttapestry_0_description_success=شكراً $name!
+losttapestry_0_description_refuse=أنت فظيع! سوف أخبر أمي عنك!
+losttapestry_1_label=القماس المفقود
+losttapestry_1_description=لقد فقدت قماش لي! هل رأه احد ما؟
+losttapestry_1_description_success=شكراً لقيامك بإيجاده.
+losttapestry_1_description_refuse=أنت تخفي شيئاً, اشعر بهذا.
+losttapestry_1_listing=إبحث عن صاحب القماش.
+
+spiders_0_label=الصديق المفقود
+spiders_0_description=صديق لي أسمه $miner_villagername$ عادة مايزورني بوقت معين كل يوم. الشيء الغير معتاد أنه لم يأتي لزيارتي هذا اليوم -- لقد تأخر عن غير المعتاد, حقيقتاً. أعترف, أنا قلق بعض الشيء, $name. $miner_villagername$ وهو صديقي يقوم بإمضاء الكثير من وقته حول المنجم, وأنت تعلم كم هو خطر هناك. لو قد ذهابك إلى ذلك المكان, أرجوك, هل تبحث عنه؟
+spiders_0_description_success=شكراً ياصديقي!
+spiders_0_description_refuse=اتمنى أن يعود قريباً.
+spiders_1_label=أنا ممتن بأنك وجدتني.
+spiders_1_description=أوووه... عنكبوت هاجمني عندما كنت أستكشف كهف قريب من هنا. أنا متأكد أني تسممت; يجب أن تساعدني. أرجوك أخبر زوجتي $wife_villagername$. هي قادرة على مساعدتي.
+spiders_1_description_success=أسرع... أنا أشعر بالدوااااار... 
+spiders_1_description_refuse=لايمكنك تركي هنا أموت بسهولة لن أنساك ماحييت.
+spiders_1_listing=إيجاد $miner_villagername$ حول المنجم.
+spiders_2_label=صنع ترياق مضاد.
+spiders_2_description=ليس لدينا المزيد من الوقت لنفقده يجب إنقاذ زوجي! أعرف ترياق مضاد قد يوقف السم. وهو يتطلب بعض المكونات, لكن قبل  أن أتمكن من صنعه. سوف أحتاج إلى اثنين من المشروم البني, وإثنين من المشروم الأحمر, وبعض من حبر الأخطبوط او الحبار.
+spiders_2_description_success=لتكن السرعة معك,يا $name.
+spiders_2_description_refuse=حسنا, سوف أقوم بهذا بنفسي!
+spiders_2_listing=أسأل $wife_villagername$ عن الترياق المضاد.
+spiders_3_label=ترياق مضاد لمساعدة $miner_villagername$
+spiders_3_description=اجلب ترياق $miner_villagername$ إلى $miner_villagername$ قبل أن ينتهي الوقت.
+spiders_3_description_success=أوه, كنت أعلم أن $wife_villagername$ قادرة على مساعدتي! <$miner_villagername$ يشرب الترياق.> دائما ماأقع بالمتاعب و $wife_villagername$, قادرة على مساعدتي للخروج من المتاعب. 
+spiders_3_description_refuse=هل حقاً تريدني أن أموت؟
+spiders_3_description_timeup=لم تجلب ترياق $miner_villagername$ إلى $miner_villagername$ بالوقت المناسب.
+spiders_3_listing=خذ ترياق $miner_villagername$ إلى $miner_villagername$.
+
+findtheegg_0_label=أبحث عن البيض
+findtheegg_0_description=يوجد الكثير من الدجاج هنا!. لنمنعهم من التكاثر نحن بحاجة لجمع بيضهم... هل تساعدني؟
+findtheegg_0_description_success=شكراً جزيلاً, $name. سوف أرسل هذا البيض للمنزل! أرجو ان تقبل هذا كرمز عن تقديري لك.
+findtheegg_0_description_refuse=عد عندما يكون لديك الكثير من البيض لي!
+
+feathercrafter_0_label=المزيد من الريش
+feathercrafter_0_description=زوجتي تصنع الوسادات للفقراء أمثالنا. لتتمكن من صنعها نحتاج للمزيد من الريش. هل لديك بعض الريش تشاركنا فيه؟
+feathercrafter_0_description_success=جيد جداً, $name. سوف أعطي هذه لزوجتي. لك جزيل الشكر مني.
+feathercrafter_0_description_refuse=عد للوسادات الخشبية إذاً.
+
+watersample_0_label=تقرير غريب
+watersample_0_description=لقد تلقت زوجتي من القرويين بلاغ عن أن الماء المستخرج من اليئر يجعل الأطفال مريضين. خذ الدلو وعد لي بعينة من البئر.
+watersample_0_description_success=أسرع... قبل أن يمرض المزيد من الأطفال.
+watersample_0_description_refuse=يجب أن أحذرك, الذي يرفض عمل كهذا شخص سيئ.
+watersample_1_label=عينات الماء
+watersample_1_description=هل جلبت عينة الماء ؟
+watersample_1_description_success=شكراً! هذا سوف يساعدني بإيجاد حل للمشكلة.
+watersample_1_description_refuse=يجب أن أحذرك, المرة الأخرى التي لن تساعد فيها سوف تكلفك, يا $name!
+watersample_1_description_timeup=لم تقم بجلب عينات الماء إلى $startvillager_villagername$ بالوقت المناسب.
+watersample_1_listing=$startvillager_villagername$ في $startvillager_villagename$ يريد منك جلب عينات الماء إليه.
+
+lordssword_0_label=السيف المحطم
+lordssword_0_description=زوجي $knight_villagername$ قد حطم سيفه مرة أخرى! هل بلأمكان ان توصل إليه هذا السيف الجديد؟
+lordssword_0_description_success=شكراً يالك من رجل جيد!
+lordssword_0_description_refuse=كنت متوقعة رفضك أيها الكسول.
+lordssword_1_label=السيف الضائع
+lordssword_1_description=زوجتي $startvillager_villagename$ لديها سيف يخصني. هل جلبته؟
+lordssword_1_description_success=شكراً, لقد أنقذت اليوم مرة أخرى.
+lordssword_1_description_refuse=كيف تتوقع مني المقاتلة والدفاع عن القرية وليس لدي سلاح؟
+lordssword_1_description_timeup=لم تقم بتوصيل السيف بالوقت المناسب إلى $knight_villagername$. القرويين سيلاحظون هذا.
+lordssword_1_listing=$startvillager_villagername$ في $startvillager_villagename$ يرد منك جلب سيفه الجديد إليه.
+
+sweettrader_0_label=عيد ميلاد قريب
+sweettrader_0_description=قريبتي الشابة $girl_villagername$ اليوم يوم ميلادها. هل تأخذ هذه الكعكة لها؟
+sweettrader_0_description_success=شكراً لمساعتدك.
+sweettrader_0_description_refuse=يالك من فظَ ياهذا!
+sweettrader_1_label=[توصيل الكعكة]
+sweettrader_1_description=لا أحد يحتقل بعيد ميلادي...
+sweettrader_1_description_success=شكراً! شكراً! شكراً!
+sweettrader_1_description_refuse=لا أحد يحبني.
+sweettrader_1_listing=أوصل الكعكة إلى $girl_villagername$ في $startvillager_villagename$ بمناسبة عيد ميلادها.
+
+fishingfrenzy_0_label=جنون الصيد
+fishingfrenzy_0_description=مرحبا ياهذا, اسمي $startvillager_villagername$. الصيد عمل طويل حقاً, ولا أعلم إذا كان بإمكاني تلبة الحصص الخاصة بي لليوم.هل بالإمكان طلب المساعدة منك؟
+fishingfrenzy_0_description_success=شكراً, أجلب لي أربعة أسماك طازجة او نيئة. وأوصلهم إلى زوجتي, وسوف تقوم بمكافئتك.
+fishingfrenzy_0_description_refuse=أنا اتفهم, هكذا الحال جميعنا مشغول اليوم.
+fishingfrenzy_1_label=جنون الصيد
+fishingfrenzy_1_description=أه يجب أن تكون المسافر الذي $startvillager_villagername$ قد أخبرني عنه. هل جمعت مايكفي من السمك؟
+fishingfrenzy_1_description_success=رائع, هذه سمكات طازجة. بقية القرية يجب ان يكونو شاكرين لك.
+fishingfrenzy_1_description_refuse=ولا أي سمكة؟ حسناً, لاشكر على واجب.
+fishingfrenzy_1_description_timeup=لم تقم بجلب السمك بالوقت المناسب. قرويين $startvillager_villagename$ لاحظوا تقصيرك.
+fishingfrenzy_1_listing=أجلب اربعة أسماك إلى $wife_villagername$
+
+
+architectwife_0_label=غداء الزوج
+architectwife_0_description=زوجي $architect_villagername$ المهندس المعماري جائع لقد نسيت أن اعطيه غداءه! هل تستطيع إيصال هذه السمكة له?
+architectwife_0_description_success=شكراً لك!
+architectwife_0_description_refuse=حقاً أنت لست من النوع المساعد.
+architectwife_1_label=جائع!
+architectwife_1_description=زوجتي نست وجبتي مرة أخرة! أه, النساء!
+architectwife_1_description_success=هذا حقاً حقاً كرم كبير.
+architectwife_1_description_refuse=حقاً لاتثق بالغرباء.
+architectwife_1_description_timeup=لم تقم بإيصال الوجبة في الوقت المناسب. قرويين $architect_villagename$ لن ينسوا هذا.
+architectwife_1_listing=أعطي $architect_villagername$ في قرية $architect_villagename$ غداءه.
+
+lumbermanwine_0_label=عطشان!
+lumbermanwine_0_description=قطع الأخشاب حقاً عمل متعب... لو أحد ما يجلب لي زجاجة نبيذ!
+lumbermanwine_0_description_success=أه, كنت بحاجة ماسة لهذا شكراً جزيلاً, يالك من رجل طيب!
+lumbermanwine_0_description_refuse=لاتعتمد علي في المرة القادمة التي تحتاج فيها إلى الخشب!

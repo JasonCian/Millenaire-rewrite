@@ -1,0 +1,10 @@
+
+verze:4.3.0
+<darkblue>Byzanci
+Hrdi naslednici Rimanu, Byzanci produkuji vino a rafinovane nabozenske umeni. Mluvi recky ale jejich dialogy budou prelozene jakmile se hrac "naucí" jejich jazyk tim ze s nimi bude mluvit.
+<darkblue>Unikatni objekty a blocky
+Pestují hrozny a pripravuji z nich vino. Hrac muze pozadat kuchare aby ho naucil jak pestovat tuto rostlinu.
+Pouzívaji jil k vyrobě elegantnich Byzantskych dlazdic ktere pokryvaji jejich budovy.
+Jejich mistrovsky chov (Bource morusoveho) jim dovoluje pestovat hedvábi na ktere nasledne maluji sve Byzantske umeni.
+<darkblue>Specificky recept.
+Dve rady trech hroznu vytvori jedno vino.

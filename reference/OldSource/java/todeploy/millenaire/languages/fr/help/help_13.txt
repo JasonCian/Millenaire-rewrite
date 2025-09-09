@@ -1,0 +1,34 @@
+version:3.4
+<darkblue>Questions fréquentes
+
+<darkblue>Les villageois parlent dans une autre langue que la mienne. Est-ce normal ?
+
+Les villageois de Millénaire parlent tous dans « leur » langue, comme l’hindi pour les indiens ou le français pour les normands. Si vous jouez dans une langue différente, vous devrez « apprendre » leur langue en interagissant avec eux (commerce, quêtes…). Au fur et à mesure que vous l’apprenez, Millénaire vous fournira des traductions, d’abord des noms de bâtiments, puis des types de villageois, et enfin des dialogues.
+
+<darkblue>Mon village normand a besoin de colombages et je ne peux pas en fabriquer, que faire ?
+
+Les colombages sont fabriqués par un charpentier à partir de bois. Pour ça il faut que votre village construise une « maison du charpentier » et qu’un couple s’y installe. Patience !
+  
+<darkblue>Mon village japonais a besoin de chaume et je ne peux pas en fabriquer, que faire ?
+
+Les japonais produisent de la chaume à partir de blé. S’ils n’en récoltent pas assez, vendez leur du blé pour accélérer leur production.
+
+<darkblue>J’ai construit ma maison près du village et les villageois l’ont détruite en construisant autre chose, c’est normal ?
+
+Oui. Le territoire du village leur appartient ; regardez la carte pour voir ses limites. Si vous voulez construire dans le village, achetez un terrain au chef.
+
+<darkblue>Certains villageois sont morts, vont-ils renaître un jour ?
+
+Oui, les villageois renaissent chaque nuit, peut après le coucher du soleil. Evitez simplement de dormir tout de suite à la nuit tombée.
+
+<darkblue>Mes villageois n’ont pas d’enfants ou leurs enfants ne grandissent pas, que se passe-t-il ?
+
+Les enfants peuvent naître quand un couple est chez lui pendant la nuit. De même, ils grandissent la nuit chez eux. Certains aliments (boissons, sucreries) augmentent les chances de naissance et d’autre (pain, céréales) la vitesse de croissance des enfants.
+
+<darkblue>Un bâtiment du village a été abîmé, vont-ils le réparer ?
+
+Non, les villageois ne réparent pas les bâtiments (mais parfois une amélioration ultérieure peut remplacer les blocs manquants), essentiellement pour des raisons de performance. Vous devrez faire la réparation vous-même. 
+
+<darkblue>Mon village manque de place, puis-je les aider ?
+
+Oui, en regardant la carte du village pour voir les zones où ils ne peuvent pas construire. Recouvrir un lac, rivière ou canyon d’une couche de terre suffit à rendre le terrain exploitable par les villageois.

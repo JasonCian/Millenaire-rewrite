@@ -1,0 +1,15 @@
+//Parameters for the building as a whole
+building.length=6
+building.width=6
+building.buildingorientation=3
+
+building.travelbook_display=false
+building.icon=mayanmace
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Cha'an Ka'nal
+initial.male=questkingscout
+initial.male=questkingscout
+initial.tag=nopaths
+

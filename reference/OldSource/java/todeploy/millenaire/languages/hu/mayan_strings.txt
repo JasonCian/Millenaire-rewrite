@@ -1,0 +1,41 @@
+culture.mayan=maja
+
+villager.mayan_boy=Fiú
+villager.mayan_girl=Lány
+villager.mayan_teenagerMale=Legény
+villager.mayan_teenagerFemale=Hajadon
+villager.mayan_lumberman=Favágó
+villager.mayan_miner=Bányász
+villager.mayan_shaman=Sámán
+villager.mayan_peasant=Paraszt
+villager.mayan_peasantwife=Parasztasszony
+villager.mayan_leader=Vezér
+villager.mayan_richwoman=Vezérné
+villager.mayan_warrior=Harcos
+villager.mayan_chieftain=Törzsfőnök
+villager.mayan_crafter=Kézműves
+villager.mayan_armysmith=Fegyver-, és páncélkovács
+villager.mayan_sculptor=Kőfaragó, szobrász
+villager.mayan_shamanwife=A sámán felesége
+villager.mayan_king=Király
+villager.mayan_merchant=Kereskedő
+villager.mayan_chickenfarmer=Csirketenyésztő
+villager.mayan_farmer=Kukoricatermesztő
+
+villager.lonemayanfarmer=Magányos földműves
+villager.lonemayanpeasantwife=Földműves felesége
+villager.lonemayanshaman=Sámán
+villager.lonemayanshamanwife=Sámán felesége
+villager.mayanbanditboy=Banditafiú
+villager.mayanbanditwarrior=Bandita harcos
+villager.mayanfemalebandit=Banditalány
+
+villager.merchant_mayanfarmer=Földműves-kereskedő
+villager.merchant_mayanhunter=Vadász-kereskedő
+villager.merchant_mayanshaman=Sámán-kereskedő
+
+shop.mayantownhall=Központi üzlet
+shop.mayancrafter=Szerszámok
+shop.mayanarmyforge=Páncélok és fegyverek
+shop.mayansheepchickenfarm=Csirke termékek
+shop.mayanobsidiancrafter=Obszidián tárgyak

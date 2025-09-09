@@ -1,0 +1,22 @@
+//Parameters for the building as a whole
+building.length=11
+building.width=9
+building.buildingorientation=3
+building.icon=sod_birch
+
+
+//Parameters for initial construction
+initial.startlevel=-3
+initial.nativename=Ivruq Tupiq
+initial.translatedname=name_en,sod gatherer's house
+initial.priority=500
+initial.male=inuit_sodder
+initial.female=inuit_wife
+
+//Parameters for specific upgrades
+upgrade1.priority=400
+
+upgrade2.priority=300
+
+upgrade3.priority=200
+

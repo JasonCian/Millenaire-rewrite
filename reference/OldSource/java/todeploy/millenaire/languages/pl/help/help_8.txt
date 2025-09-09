@@ -1,0 +1,11 @@
+
+Wersja: 3.4
+<darkblue> Normanowie
+Pierwsza kultura w Milenaire, Normanie posiadają największą ilość rodzajów wiosek - rolnicze, wojskowe, religijne, przemysłowe, a także Gros Bourg (większe miasta) otoczone przez 3 przylegające wioski. Normanie mówią po Francusku, jednak ich języka można się "nauczyć" poprzez handel. 
+<darkblue> Unikalne przedmioty i bloki.
+Normanie produkują wiele rozmaitych przedmiotów:
+- Normańskie narzędzia, które są odpowiednikiem diamentowych ( tworzone w kuźni przez kowala)
+- Normański miecz i zbroję, tworzoną w zbrojowni. Porównywalna do diamentowej.
+- Kaszankę, Flaki, Calvados i Cydr: Jedzenie które natychmiastowo regeneruje zdrowie.
+- Drewniane ramy, budulec w dwóch wariantach często używany przez Norman w późniejszych etapach rozwoju, tworzone przez Charpentier (cieśla)
+- Normańskie Gobeliny, tworzone przez panią zamku z wełny (białej, szarej, brązowej i czarnej) przedstawiające wycinki z Tkaniny z Bayeux.

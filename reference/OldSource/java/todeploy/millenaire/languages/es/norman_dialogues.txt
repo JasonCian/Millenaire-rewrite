@@ -1,0 +1,367 @@
+//*     Las líneas de diálogo comienzan con un código como "v2; 30;" que especifican quién está hablando y cuándo aparece la línea. Por favor cópialo exactamente en tus traducciones.
+//*     La primera mitad de la línea (hasta el /) está en el idioma de los aldeanos y debe mantenerse tal y como está, la segunda parte debe traducirse
+//* 
+//* 
+//* 
+//* 
+
+
+
+newchat;key:rain,tag:notraining,weigth:10
+v1;0;Je sens qu'il va pleuvoir. / Puedo sentir que va a llover.
+v2;30;Il pleut toujours en Normandie. / Siempre llovía en Normandía...
+
+newchat;key:beautifulvillage,weigth:10
+v1;0;Il est beau notre village, tu ne trouve pas? / Nuestro pueblo es hermoso, ¿no crees?
+v2;30;Magnifique! Et on y travaille dur! / ¡Espléndido! ¡Y hemos trabajado duro en él!
+
+newchat;key:sunset,weigth:10
+v1;0;Le soleil se lève où, déjà? J'oublie toujours. / ¿Por dónde decías que sale el sol? Siempre me olvido.
+v2;30;Au nord, bien sûr! / Por el norte, ¡por supuesto!
+
+newchat;key:harvest,weigth:10
+v1;0;Tu penses que la récolte sera bonne cette année? / ¿Crees que la cosecha será buena este año?
+v2;30;Qui sait, avec le temps qu'il a fait. / Quién sabe, con el clima que hemos tenido.
+v1;60;Il n'y a plus de saisons. / Las estaciones aquí no tienen sentido.
+
+newchat;key:indianfood,weigth:5
+v1;0;Tu as entendu parler des Indiens? / ¿Has oído hablar de esos indios?
+v2;30;Il paraît qu'ils sont très bizarres. / La gente dice que son muy extraños.
+v1;60;J'ai même entendu dire que leur nourriture brûle! / ¡Aparentemente su comida arde!
+v2;100;Comme du calva? / ¿Como el calvados?
+v1;120;Non, pire! / ¡No, peor!
+
+newchat;key:byzantines,v1:adult,v2:adult,weigth:5
+v1;0;Ces byzantins m'énervent! / ¡Esos bizantinos me ponen de los nervios!
+v2;30;Oui, tu as vu comme ils nous prennent de haut? / ¿Has visto lo grandes y poderosos que se creen?
+v1;60;Tout ça parce qu'ils prétendent être romains. / Todo porque dicen ser romanos.
+v2;100;Quelle blague. Des romains dégénérés, alors. / Menuda broma. Romanos degenerados, en todo caso.
+v1;130;On devrait organiser un raid chez eux. / ¡Deberíamos organizar un ataque contra ellos!
+v2;160;On est vikings après tout! / ¡Después de todo somos vikingos!
+
+newchat;key:storm,weigth:10
+v1;0;Il y a eu un orage terrible hier. / Ayer hubo una tormenta terrible.
+v2;30;Oui, j'ai cru que le toit allait s'envoler. / De hecho, pensé que el techo saldría volando.
+v1;60;Il faudrait les renforcer tous. / Deberíamos reforzarlos todos.
+
+newchat;key:visitors,weigth:10
+v1;0;Ce qui manque ici, c'est des visiteurs. / Lo que nos falta por aquí son visitantes.
+v2;30;Il y a bien $name... / Bueno, está $name...
+v1;60;Oui, mais il est un peu bizarre, non? / Pero él es un poco extraño, ¿no?
+v2;100;C'est vrai qu'on ne sait jamais trop ce qu'il va faire. / Es cierto, nunca sabemos lo que hace.
+
+newchat;key:christmas,weigth:10
+v1;0;C'est quand Noël, déjà? / ¿Cuándo llega la Navidad?
+v2;30;Je ne sais pas trop... Les saisons ne changent pas ici. / Realmente no lo sé... Las estaciones aquí no cambian.
+v1;80;Quel monde bizarre quand même. / Que mundo tan extraño.
+v2;110;Parfois on dirait presque la Normandie... / A veces parece Normandía...
+v2;140;et puis on se rappele que tout est différent. / Y luego vemos que todo es diferente.
+
+newchat;key:william,v2:adult,weigth:10
+v1;0;Tu as déjà vu le Duc Guillaume, toi? / ¿Alguna vez has visto al Duque William?
+v2;30;Non, jamais. Et qui sait où il est maintenant? / No, nunca. ¿Y quién sabe dónde estará ahora?
+v1;60;S'il était là, nous aurions déjà conquis ce nouveau monde! / Si estuviera aquí, ¡ya hubiéramos conquistado este nuevo mundo!
+v2;100;Vive le Duc Guillaume! / ¡Larga vida al Duque William!
+
+newchat;key:floatingearth,v2:adult,weigth:10
+v1;0;Tu as remarqué, ici la terre flotte si on creuse en-dessous. / ¿Has notado que aquí la tierra flota si excavamos debajo?
+v2;40;Oui, et alors? / Sí, ¿y qué?
+v1;60;En Normandie, elle tombait... / En Normandía, solía caer...
+v2;90;En Normandie, Dieu voulait qu'elle tombe. Ici, il veut qu'elle flotte. / En Normandía, Dios quería que cayera. Aquí, Él quiere que flote.
+v2;150;Pourquoi critiques-tu Dieu? / ¿Por qué estás criticando a Dios?
+
+newchat;key:likingrain,tag:raining,weigth:10
+v1;0;J'aime bien la pluie. / Me gusta la lluvia.
+v2;30;C'est une bonne chose pour un normand! / ¡Qué bueno para un normando!
+
+newchat;key:boudintripes,weigth:10
+v1;0;Tu préfères quoi toi, le boudin ou les tripes? / ¿Qué prefieres, morcillas o callos?
+v2;40;Le boudin, les tripes c'est trop lourd. / La morcilla. ¡Los callos son muy pesados!
+v1;80;Trop lourd? Et tu te dis normand? / ¿Muy pesados? ¿Y te haces llamar normando?
+
+newchat;key:horses,v1:child,v2:adult,weigth:10
+v1;0;Ca manque d'animaux, ce pays. / A este país le faltan animales.
+v2;30;Il y a des vaches, des moutons et des cochons. / Hay vacas, ovejas y cerdos.
+v2;60;Que faudrait-il de plus? / ¿Qué más se necesita?
+v1;60;Des chevaux? Et des poneys! / ¿Caballos? ¡Y ponis!
+v2;90;Parce que tu veux un poney, maintenant? / Porque quieres un poni, ¿ahora?
+
+newchat;key:tripes,v1:adult,v2:adult,v1:male,v2:female
+v1;0;Les tripes, ça c'est un plat d'homme. / Callos, ese sí que es un plato de hombres.
+v2;30;Préparé par les femmes... / Preparado por mujeres...
+v1;60;Mais avec des vaches abattues par des hommes! / ¡Con vacas sacrificadas por hombres!
+v2;100;Et nourries par des femmes... / Y alimentadas por mujeres...
+
+newchat;key:countingcows,weigth:10
+v1;0;Ca manque de distraction par ici. / No hay mucho que hacer por aquí.
+v2;30;C'est bien, c'est calme. / Se está bien, es tranquilo.
+v1;60;Et ennuyeux... / Y aburrido...
+v2;75;Tu n'as qu'à compter les vaches pour te distraire. / ¿Por qué no cuentas vacas?
+v1;110;Déjà fait hier. Et les poulets aussi. / Ya hice eso ayer. Y pollos, también.
+
+newchat;key:paris,v1:adult,v2:adult,weigth:2
+v1;0;Quel coin paumé ici, quand même. J'aimerai voir autre chose un jour... / Qué lugar tan aislado. Algún día me gustaría ver algo más...
+v2;30;Les autres villages sont tous pareils. / Los otros pueblos son todos iguales.
+v1;60;Pas un village! Un bourg. Ou même une ville! / ¡No un pueblo! Una urbe. ¡O incluso una ciudad!
+v2;90;Quoi, comme Rouen? Tu es fou, c'est à des jours d'ici. / ¿Cómo qué, Ruan? Estás loco, está a muchos días de aquí.
+v1;120;Rouen... ou même... Pourquoi pas Paris? / Ruan... o tal vez... ¿Por qué no París?
+v1;150;Tu te rend compte, on dit qu'il y aurait 25 000 personnes là-bas! / ¿Te imaginas? La gente dice que hay 25 000 personas viviendo allí.
+v2;180;Tu divague, mon pauvre. 25 000 personnes au même endroit? Et où on les mettrait? / Te estás volviendo loco. ¿25 000 personas en un mismo lugar? ¿A dónde irían?
+
+newchat;key:calva,v1:adult,v2:adult,v1:male,v2:male,weigth:10
+v1;0;Par ce temps, un petit calva s'impose! / En ese tipo de clima, el calvados es imprescindible.
+v2;30;Par tous les temps! / ¡En todos los climas!
+v1;50;A la Normandie et son climat à calva! / ¡Salud por Normandía y su clima tranquilo!
+v2;70;Santé! / ¡Salud!
+
+newchat;key:boyvillagechief,v1:child,v1:male,v2:adult,weigth:5
+v1;0;Quand je serais grand, je serais le chef du village! / Cuando crezca, seré el jefe de la aldea.
+v2;30;Il va falloir que tu mange beaucoup de soupe avant d'en arriver là. / Vas a necesitar mucha sopa antes de llegar allí.
+v1;60;Et je te ferais punir! / ¡Y te castigaré!
+v2;70;C'est ça. En attendant, va travailler ou tu vas prendre une claque. / Está bien. Pero por ahora, ve al trabajo o te dare una bofetada.
+
+newchat;key:kids1,v1:child,v2:child,weigth:10
+v1;0;Mon papa est bien plus fort que le tien. / Mi papá es mucho más fuerte que el tuyo.
+v2;30;N'importe quoi. Mon papa est le plus fort du village. / Lo que tú digas. Mi papá es el más fuerte del pueblo.
+v1;60;Tu rêves. Mon père met le tien par terre en deux minutes. / Sigue soñando. Mi padre puede vencer al tuyo en dos minutos.
+v2;70;Et la Terre est ronde! / Aja ¡Y la Tierra es redonda!
+
+newchat;key:kids2,v1:child,v1:male,v2:child,v2:female,weigth:10
+v1;0;Les filles, ça ne sert à rien. / Las chicas son inútiles.
+
+newchat;key:kids3,v2:child,v2:male,v1:child,v1:female,weigth:10
+v1;0;T'es peut être un garçon, mais je te fait pleurer quand je veux. / Podrás ser un niño, pero puedo hacerte llorar cuando quiera.
+v2;30;Même pas vrai! Même pas vrai! / ¡No es verdad! ¡No es verdad!
+
+newchat;key:enderman,v1:adult,v2:child,weigth:10
+v1;0;Sois sage, ou l'homme des limbes t'emportera cette nuit! / ¡Sé bueno, o el Enderman te atrapará esta noche!
+v2;40;Pfff, j'ai passé l'âge de croire à ces bêtises. / Pfff, soy demasiado mayor para creer en esas tonterías.
+
+newchat;key:badflirt,v1:adult,v2:adult,v1:nospouse,v2:nospouse,v1:male,v2:female,notrel:sibling,v1:notvtype:monk-priest-abbot,weigth:20
+v1;0;Alors beauté, qu'est ce que tu fais ce soir? / Entonces, belleza, ¿qué haces esta noche?
+v2;40;$targetfirstname, je t'ai déjà dit non! / $targetfirstname, ¡ya te he dicho que no!
+v1;60;Quel caractère! / ¡Qué carácter!
+v2;80;Quel nigaud! / ¡Qué idiotez!
+
+newchat;key:badflirt2,v1:vtype:guard-lumberman,v2:adult,v1:hasspouse,v2:female,notrel:sibling,notrel:parent,notrel:child,weigth:20
+v2;0;$targetfirstname, quels beaux muscles! / $targetfirstname, ¡qué músculos tan grandes!
+v1;30;Tais-toi, malheureuse! Si ma femme t'endend... / ¡Cállate, tonta! Si mi esposa nos escucha...
+v2;60;Et bien quoi, bel homme? / ¿Entonces qué, guapo?
+v1;90;Tu sais bien comme elle est jalouse! / ¡Sabes lo celosa que se pone!
+v2;120;Et? Elle te fait peur? / ¿Y? ¿Tienes miedo de ella?
+v1;140;Peur? Elle? Quelle blague! / ¿Asustado? ¿De ella? ¡Estás bromeando!
+v2;160;¡Ja!
+
+newchat;key:frerejacques,v1:child,v2:child,weigth:10
+v1;0;*Canta* Frère Jacques, frère Jacques
+v2;30;*Canta* Dormez-vous? Dormez-vous?
+v1;60;*Canta* Sonnez les matines! Sonnez les matines!
+v2;100;*Canta* Ding, daing, dong. Ding, daing, dong!
+
+newchat;key:alouette,v1:child,v2:child,weigth:10
+v1;0;*Canta* Alouette, gentille alouette,
+v2;0;*Canta* Alouette, gentille alouette,
+v1;30;*Canta* Alouette, je te plumerai.
+v2;30;*Canta* Alouette, je te plumerai.
+v1;60;*Canta* Je te plumerai la tête.
+v2;60;*Canta* Je te plumerai la tête.
+v1;90;*Canta* Et la tête! Et la tête!
+v2;90;*Canta* Et la tête! Et la tête!
+v1;120;Pauvre alouette quand même... / Pobre alondra aun así...
+v2;160;Pourquoi? C'est drôle! / ¿Por qué? ¡Es divertido!
+
+newchat;key:loupyesttu,v1:child,v2:child,weigth:10
+v1;0;Promenons-nous dans les bois, / *Canta* Déjanos caminar por el bosque,
+v2;0;Promenons-nous dans les bois, / *Canta* Déjanos caminar por el bosque,
+v1;30;Tant que le loup n'y est pas. / *Canta* Mientras el lobo está fuera.
+v2;30;Tant que le loup n'y est pas. / *Canta* Mientras el lobo está fuera.
+v1;60;Si le loup y était / *Canta* Si el lobo estuviera allí
+v2;60;Si le loup y était / *Canta* Si el lobo estaba allí
+v1;90;Il nous mangerait, / *Canta* Él nos comería,
+v2;90;Il nous mangerait, / *Canta* Él nos comería,
+v1;120;Mais comme il n'y est pas, / *Canta* Pero como él no está allí,
+v2;120;Mais comme il n'y est pas, / *Canta* Pero como él no está allí,
+v1;150;Il nous mangera pas. / *Canta* No nos comerá.
+v2;150;Il nous mangera pas... / Canta* No nos comerá.
+v2;180;Euh, tu es sûr? / Eeh, ¿estás seguro?
+v1;200;Lâche! / ¡Cobarde!
+
+newchat;key:dagobert,v1:child,v2:child,weigth:10
+v1;0;Le bon roi Dagobert / *Canta* El buen rey Dagoberto
+v1;30;A mis sa culotte à l'envers / *Canta* Se puso sus calzones del revés.
+v1;60;Le grand saint Éloi / *Canta* El gran San Eloy
+v1;90;Lui dit : Ô mon roi ! / *Canta* Le dijo: ¡Oh mi rey!
+v1;120;Votre Majesté / *Canta* Su Majestad
+v1;150;Est mal culottée. / *Canta* Lleva sus calzas mal.
+v2;180;Mal culottée? Ca veut dire quoi? / ¿Llevarlas mal? ¿Qué significa eso?
+v1;220;Qu'il a pas de culotte! / ¡Que él no tiene calzones!
+v2;250;N'importe quoi, c'est le roi! / Tonterías, ¡es el Rey!
+v1;280;Ben il a pas de culotte le roi! / ¡Bueno, el Rey no tiene calzones!
+v2;310;Même toi t'as une culotte, idiot! / ¡Incluso tú tienes calzones, idiota!
+
+newchat;key:confession,v1:vtype:abbot-priest,v2:male,v2:notvtype:abbot-priest,weigth:10
+v1;0;Mon fils, il y a longtemps que tu ne t'es pas confessé. / Hijo mío, la última vez que te confesaste fue hace mucho tiempo.
+v2;40;Mais mon Père, je n'ai pas péché! / ¡Pero padre, no he pecado!
+v1;70;Tout le monde pèche dans ce bas monde. / Todos pecan en este mundo caído.
+v2;110;Même vous, mon père? / ¿Incluso usted, padre?
+v1;130;Ne sois pas insolent! Tu feras dix Pater Noster en pénitence! / ¡Suficiente insolencia! ¡Harás diez Padre Nuestros como penitencia!
+
+newchat;key:confession2,v1:vtype:abbot-monk-priest,v2:female,v2:adult,weigth:10
+v1;0;Ma fille, il y a longtemps que tu ne t'es pas confessée. / Hija mía, la última vez que te confesaste fue hace mucho tiempo.
+v2;30;C'est vrai mon père, et j'ai péché! / ¡Es verdad, Padre, y he pecado!
+v1;60;Si c'est un péché de chair, nous en parlerons ailleurs. / Si fue un pecado de la carne, lo discutiremos en otra parte.
+v2;100;Merci, mon père. / Gracias Padre.
+v1;120;En attendant, dix Pater Noster. Ca servira toujours! / Mientras tanto, diez Padre Nuestros. ¡Siempre es útil!
+
+newchat;key:carpenter,v1:vtype:carpenter,weigth:10
+v1;0;J'ai encore amélioré ma technique. / He mejorado mis habilidades de nuevo.
+v1;30;Avant d'assembler les colombages, je commence par... / Ahora antes de ensamblar los marcos, empiezo por...
+v2;70;C'est fascinant. / Fascinante.
+v1;90;Tu trouves? / ¿De verdad lo crees?
+v2;110;Non. / No.
+
+newchat;key:cattlefarmer,v1:vtype:cattlefarmermale-cattlefarmerfemale,v2:notvtype:cattlefarmermale-cattlefarmerfemale,weigth:10
+v1;0;J'adore préparer des tripes. D'abord, saigner la vache... / Me encanta preparar callos. Primero, desangrar a la vaca...
+v1;40;Puis extraire les boyaux... / Luego reúnes los intestinos...
+v2;60;Arrête, tu me dégoutes! / ¡Para, me disgustas!
+v1;80;Mais tu adores les tripes! / ¡Pero si te encantan los callos!
+v2;110;Et je ne veux pas savoir comment elles sont faites. / Pero no quiero saber cómo se hacen.
+
+newchat;key:farmer,v1:vtype:farmer,v2:notvtype:farmer,weigth:10
+v1;0;Aucun doute, fermier c'est le métier le plus important. / Sin duda, la agricultura es el trabajo más importante.
+v1;40;Sans moi, pas de pain! / ¡Sin mí no hay pan!
+v2;60;Je préfère les tripes, de toute façon. / Me gustan más los callos de todos modos.
+
+newchat;key:guildmaster,v1:vtype:guildmaster,weigth:10
+v1;0;Quand j'étais jeune, j'étais un apprenti très prometteur. / Cuando era joven, era un aprendiz muy prometedor.
+v1;40;Guillaume Vif-Argent lui-même s'intéressait à moi! / ¡El propio William Vif-Argent estaba interesado en mí!
+v1;80;Et maintenant je suis coincé ici. / Y ahora estoy atrapado aquí.
+v1;110;A m'occuper d'abrutis. / Cuidando de los idiotas.
+v2;130;Hein, quoi? / Eh, ¿que?
+v1;150;*soupir* / *mirada*
+
+newchat;key:knight,v1:vtype:knight,weigth:10
+v1;0;Regarde mon château! Une vraie forteresse! / ¡Mira mi castillo! ¡Una verdadera fortaleza!
+v2;30;Vous êtes si puissant, seigneur! / ¡Eres poderoso, mi Señor!
+v1;60;Quand le Duc Guillaume reviendra, il me fera sûrement Comte! / ¡Cuando el Duque William regrese, seguramente me hará Conde!
+v2;100;Vive le Compte $targetfirstname! / ¡Hurra por el Conde $targetfirstname!
+v1;130;Vive moi! / ¡Hurra por mí!
+
+newchat;key:lady,v1:vtype:lady,v2:notvtype:knight,weigth:10
+v1;0;Ma beauté est célèbre dans ces contrés. / Mi belleza es legendaria en estas tierras.
+v2;30;Vous êtes superbe, ma Dame! / ¡Uested es espléndida, ma Dame!
+v1;60;Et pourtant j'ai épousé un petit chevalier de rien du tout... / Y sin embargo, me casé con un caballero mezquino e inútil...
+v2;100;Mais sa Seigneurie deviendra certainement comte un jour! / ¡Pero su señoría seguramente se convertirá en Conde algún día!
+v1;130;Ce nigaud? Ah! Et pourquoi pas Pape, tant qu'à faire? / ¿Este idiota? ¿Y por qué no Papa, mientras tú estás en ello?
+v2;160;Pourquoi pas, ma Dame! Euh... Je voulais dire... / ¿Por qué no, mi Señora? Eeh... quería decir...
+
+newchat;key:lumberman,v1:vtype:lumberman,weigth:10
+v1;0;Pommes pommes pommes! / ¡Manzanas, manzanas, manzanas!
+v1;30;Pommes, pommes... pommes! / ¡Manzanas, manzanas, manzanas!
+v2;60;Plutôt cidre cidre cidre dans ton cas, non? / ¿Estás seguro de que no era sidra, sidra, sidra?
+
+newchat;key:merchant,v1:vtype:merchant,weigth:10
+v1;0;Quel village minable. / Qué pequeño pueblo.
+v2;30;Eh étranger, attention à ce que tu dis! / Hola extraño, ¡cuida esa lengua!
+v1;70;Et quels habitants charmants! / ¡Y qué gente tan encantadora!
+
+newchat;key:miner,v1:vtype:merchant,weigth:10
+v1;0;J'ai composé une petite chanson, tu veux l'écouter? / He venido con una pequeña canción, ¿quieres escucharla?
+v2;40;Vas-y! / ¡Vamos a oírla!
+v1;50;Hai-ho, hai-ho, hai-ho, hai-ho...
+v2;70;Ca commence bien... / Prometedor comienzo...
+v1;90;Je rentre du boulot! / ¡A casa a trabajar!
+v2;110;Et moi j'ai beaucoup à faire. / Tengo mucho trabajo que hacer.
+
+newchat;key:monk,v1:vtype:monk,v2:child,weigth:10
+v2;0;Frère Jacques, frère Jacques!
+v1;30;Très drôle, mon enfant. / Muy gracioso, hijo mío.
+v2;60;Dormez-vous? Dormez-vous?
+v1;90;Ca va, ça va, je connais la chanson. / Suficiente, suficiente, me sé la canción.
+
+newchat;key:pigherd,v1:vtype:pigherd-pigherdf,v2:notvtype:pigherd-pigherdf,weigth:10
+v1;0;Tout est bon dans le cochon! / ¡Todo lo del cerdo está bueno!
+v2;30;Ils font beaucoup de bruit quand tu les égorges, quand même. / Sin embargo hacen mucho ruido cuando los matas.
+v1;70;Plus le cochon braille, meilleure est la viande! / ¡Cuánto más grita el cerdo, mejor es la carne!
+
+newchat;key:priest,v1:vtype:priest,weigth:10
+v1;0;Je veille sur la santé spirituelle des villageois. / Cuido la salud espiritual de los aldeanos.
+v2;30;Et il y a du travail! / ¡Y hay trabajo que hacer!
+
+newchat;key:priest2,v1:vtype:priest,weigth:10
+v1;0;Notre village craint Dieu. / Nuestro pueblo teme a Dios.
+v2;30;Et son représentant, Père $targetlastname. / Y a su vicario, padre $targetlastname.
+
+newchat;key:seneschal,v1:vtype:seneschal,weigth:10
+v1;0;Je suis très estimé à la cour du Roi le Duc Guillaume. / Me tienen en alta estima en la corte del rey el Duque William.
+v2;40;Le Roi le Duc? / ¿El rey es Duque?
+v1;60;Sa Majesté Guillaume le Conquérant, Duc de Normandie et Roi d'Angleterre, ignare! / Su Majestad William el Conquistador, Duque de Normandía y Rey de Inglaterra, ¡tonto!
+v2;100;C'est où l'Angleterre? / ¿Dónde está Inglaterra?
+v1;120;De l'autre côté de la mer. Quelle ignorance! / Al  otro lado del mar. ¡Cuánta ignorancia!
+v2;140;De quelle mer, Seigneur? / ¿De qué mar, mi señor?
+v1;160;Quelle insolence! Il suffit! / ¡Menuda insolencia! ¡Ya es suficiente!
+
+newchat;key:shepherd,v1:vtype:shepherd-shepherdf,v2:notvtype:shepherd-shepherdf,weigth:10
+v1;0;Etre berger est un métier très noble. / Ser un pastor es un noble trabajo.
+v2;30;Noble? Berger? / ¿Noble? ¿Pastor?
+v1;50;N'avons nous pas été choisis par Dieu pour recevoir la Bonne Nouvelle? / ¿No hemos sido elegidos por Dios para escuchar las Buenas Nuevas?
+v2;90;Ah, oui. Pendant que vous vous occupiez des agneaux nouveau-nés - en Décembre. / Ah, sí. Mientras estabas cuidando a los lechales en diciembre.
+v1;130;Et alors? Peut être qu'à Bethléem il n'y a pas de saisons. Comme ici! / ¿Y entonces? Quizás en Belén no haya estaciones. ¡Como aquí!
+
+newchat;key:smith,v1:vtype:smith,weigth:10
+v1;0;La vrai force des normands, c'est leurs outils et leurs armes. / La verdadera fuerza de los normandos reside en sus armas y herramientas.
+v2;40;Et donc leurs forgerons? / ¿Y por lo tanto en sus herreros?
+v1;60;Voilà! / ¡En efecto!
+
+newchat;key:wife,v1:vtype:wife,v2:male,v2:adult,weigth:10
+v1;0;Pourquoi est-ce toujours les femmes qui construisent? / ¿Por qué las mujeres siempre son las que estamos decorando?
+v2;40;Si ça te gène, je m'occupe du prochain bâtiment. / Si te molesta, me ocuparé la próxima vez.
+v1;80;Vraiment? Tu es adorable! Alors, pour les rideaux, n'oublie pas de... / ¿De Verdad? ¡Eso es tan dulce! Entonces, con respecto a las cortinas, no te olvides de...
+v2;120;En fait non, je vais te laisser faire. / En realidad no, creo que te dejaré hacerlo.
+
+newchat;key:alchemyworkshop,villager:alchemistapprentice,v1:notvtype:alchemistapprentice-guildmaster,v2:notvtype:alchemistapprentice-guildmaster,v1:adult,v2:adult,weigth:10
+v1;0;Je suis passé devant l'atelier de l'alchimiste hier. / Ayer pasé frente al taller del alquimista.
+v1;40;Il y avait une odeur d'œuf pourris horrible! / ¡Olía a huevos podridos!
+v2;80;Il paraît qu'il essaye de fabriquer la pierre philosophale! / ¡Dicen que está tratando de crear la Piedra Filosofal!
+v1;120;Moi j'ai entendu qu'il veut résusciter les morts. / Yo he oído que quiere resucitar a los muertos.
+v2;160;Et moi qu'il va fabriquer un monstre avec des cadavres! / ¡Y yo que  creará un monstruo a partir de partes del cuerpo!
+v1;200;Quelle horreur! / ¡Qué horrible!
+v2;220;C'était un garçon si charmant pourtant... / Solía ser un chico tan dulce...
+
+newchat;key:archives,building:archives,weigth:10
+v1;0;Tu as visité les nouvelles archives? / ¿Has visitado los nuevos archivos?
+v1;30;On y voit ce que tout le monde fait! / ¡Puedes ver lo que todos están haciendo!
+v2;60;Ah, vraiment... et euh... / Oh, en serio... y, eh...
+v1;90;Oui, j'ai vu ton panneau. / Sí, vi tu panel.
+v1;120;Tu devrais avoir honte. / Deberías estar avergonzado de tí mismo.
+
+newchat;key:bakery,building:bakery,weigth:10
+v1;0;J'adore l'odeur de pain qui sort de la boulangerie. / Me encanta el olor a pan recién horneado que sale de la panadería.
+v2;40;Il ne nous manque plus que quelqu'un sachant faire des croissants. / Ahora solo necesitamos a alguien que sepa hacer croissants.
+
+newchat;key:church,building:church,weigth:10
+v1;0;Notre église est vraiment superbe. / ¡Nuestra iglesia es realmente magnífica!
+v2;30;Elle montre que nous sommes un village pieux. / Muestra que somos un pueblo piadoso.
+v1;60;Et elle est plus grande que celle du village voisin! / ¡Y es más grande que el del pueblo de al lado!
+
+newchat;key:inn,building:inn,v1:notvtype:merchant,v2:notvtype:merchant,weigth:10
+v1;0;Maintenant que nous avons une auberge, nous allons pouvoir commercer! / ¡Ahora que tenemos una posada, podemos comerciar!
+v2;40;Autrement dit, les marchands de passage vont se servir dans nos resources. / En otras palabras, los comerciantes que estén de paso se aprovecharán de nuestros recursos.
+v1;80;Tu as toujours été cynique. / Siempre has sido un cínico.
+
+newchat;key:market,building:market,v1:notvtype:merchant,v2:notvtype:merchant,weigth:10
+v1;0;J'adore le marché! Tellement de marchandises superbes! / ¡Amo el mercado! ¡Tantos productos excelentes!
+v2;40;On se sent moins isolé maintenant. / Nos sentimos menos solos ahora que está allí.
+v2;80;Mais pas plus riches... / Pero no más ricos...
+
+newchat;key:tavern,building:tavern,v1:adult,v2:adult,weigth:10
+v1;0;La taverne est certainement la meilleure chose qu'on ait construite. / La taberna es seguramente lo mejor que hemos construido en la aldea.
+v2;40;Personne ici ne dira le contraire! / ¡Nadie aquí puede rebatir eso!
+
+newchat;key:fort,building:tavern,v1:adult,v2:adult,weigth:10
+v1;0;Hahaha! Nous sommes imparables. Nos navires impressionnants et honorables chevaliers sont le fléau du monde!. / ¡Jajaja! Somos imparables. ¡Nuestros barcos impresionantes y honorables caballeros azotan el mundo!
+v2;40;Et quels sont nos ennemis? Un groupe de tricksters romains et amoureux de la pierre Maya / ¿Y cuáles son nuestros enemigos? ¿Un grupo de romanos embusteros y unos mayas amantes de las piedras?
+v1;80;Ne pas oublier les fous des neiges qui n'ont même pas le concept de l'argent! / ¡No olvides a los necios de las nieves que ni siquiera conocen el concepto de dinero!
+v2;120;Hahaha! La vie normande est la meilleure du monde! Merveilleux cidre, meilleurs outils. Ah, c'est notre âge d'or! / ¡Jajaja! ¡La vida normanda es la mejor del mundo! Maravillosa sidra y las mejores herramientas. Ah, esta es nuestra edad de oro.
+v1;160;Et nous arrivons à le partager! / ¡Y podemos compartirlo!
+v2;200;Hahaha! / ¡Jajaja!

@@ -1,0 +1,2 @@
+sells=stoneaxe,stonepickaxe,stonehoe,stoneshovel
+buys=wood,wood_birch,wood_pine,wood_jungle,wood_acacia,wood_darkoak,stone,cobblestone,gold

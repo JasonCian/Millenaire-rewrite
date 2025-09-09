@@ -1,0 +1,8 @@
+{
+    "parent": "block/outer_stairs",
+    "textures": {
+        "bottom": "millenaire:blocks/painted_brick_green",
+        "top": "millenaire:blocks/painted_brick_green",
+        "side": "millenaire:blocks/painted_brick_green"
+    }
+}

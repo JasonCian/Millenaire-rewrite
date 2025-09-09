@@ -1,0 +1,1 @@
+native:Oikía Architékton;gameNameKey:architect_A0;male:architect_byzantine;female:lady_byzantine;craft:1;chest:1-5;sign:1;moveinpriority:15

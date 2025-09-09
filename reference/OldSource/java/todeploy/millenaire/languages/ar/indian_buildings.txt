@@ -1,0 +1,48 @@
+﻿playerestate_A0=قصر
+forge_A0=حداد
+armyforge_A0=حداد الجيش
+scultorhouse_A0=منزل نحات الحجر
+archives_A0=معبد المحفوظات
+chiefhouse_A0=بيت الرئيس
+chiefhouse_B0=بيت الرئيس
+fort_A0=حصن
+fort_A_forge_A0=حداد القلعة
+fort_A_soldierhouse_A0=ثكنة
+peasanthouse_A0=منزل فلاحين
+peasanthouse_B0=منزل فلاحين
+peasanthouse_C0=منزل فلاحين
+lumbermanhouse_A0=منزل حطاب
+quarry_A0=محجرة
+quarry_B0=محجرة
+soldierhouse_A0=منزل جندي
+brickkiln_A0=فرن الطوب
+grove_A0=بستان
+paddy_A0=حقول ارز
+spicegarden_A0=حديقة التوابل
+sugarplantation_A0=مزرع قصب سكر
+villagetemple_A0=معبد القرية
+palace_A0=قصر
+guesthouse_A0=منزل ضيوف
+inn_A0=فندق
+largepeasanthouse_A0=منزل كبير
+largepeasanthouse_A_secondary_A0=منزل ثانوي
+playerpalace_A0=قصر لاعب
+playerhugefield_A0=قطعة ارض كبيرة جدا
+playerlargefield_A0=قطعة ارض كبيرة
+playersmallfield_A0=قطعة ارض صغيرة
+playersmallhouse_A0=قطعة ارض صغيرة
+bazaar_A0=دكان
+tank_A0=خزان
+
+//extra buildings:
+well_A0=بئر
+
+//lone buildings:
+adivasifarm_A0=مزرعة ادفايزي
+adivasifarm_B0=مزرعة ادفايزي
+deserttradeoutpost_A0=منطفة تجارة صحراوية
+ruinedfort_A0=حصن مهجور
+sandblasted_A0=منطفة تجارة صحراوية
+indiandesertedfarm_A0=مزرعة هندية مدمرة
+loneshrine_A0=ضريح هندو منفرد
+sadhutree_A0=شجرة سادهوز

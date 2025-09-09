@@ -1,0 +1,18 @@
+version:4.8.0
+<darkblue>Mayaene
+
+Mayaene fra Yucatán kjennetegnes av stein-arkitekturen deres med gulldekorasjoner, og bor i landbruks-, religion- og militærbaserte landsbyer. De snakker mayisk, men dialogen deres vil bli oversatt ettersom spilleren "lærer seg" språket deres ved å snakke med dem.
+
+<darkblue>Unike objekter og blokker
+
+-De dyrker mais. Spilleren kan spørre kokken om å lære dem hvordan en dyrker denne kornsorten.
+-De lager mah og masa fra mais og kylling - fylte tortillaer.
+-De dyrker kakao og tilbereder cacahuá, en vitaliserende sjokoladedrikk.
+-Obsidian-håndverkeren produserer våpen og verktøy fra obsidian som er skjøre men enkle å fortrylle.
+-Deres håndverkere lager dekorative blokker fra gullbarrer gitt av spilleren.
+-De rister også basrelieffer som representerer mayiske guddommer.
+
+<darkblue>Spesifikke oppskrifter
+
+-Tre mais på en linje gir en wah (en slags tortilla).
+-To mais på en rad med en rå kylling i midten gir en masa (tortilla med kylling).

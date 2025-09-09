@@ -1,0 +1,34 @@
+﻿version:3.4
+<darkblue>Respekt & Byns hövding
+
+Varje by från Millénaire har en åsikt om dig, neutral från början och ändras beroende på dina handlingar. Respekt är viktigt: Många belöningar kan du bara få om du har bra respek, och om din respekt blir dålig så kan bybor inte vilja handla med dig. Du kan kolla din respekt genom att (<darkblue>Höger-Musknapp<black>) på byns ledare
+
+Huvud sättet att förbättra din respekt med byn är genom handel med byn. genom att både köpa och sälja, Ökningen beror på priset på det du köper och säljer. Du kan ochså utföra uppdrag för dom för att få upp din respekt. Om du attackerar eller misslyckas med vissa uppdrag så kommer din respekt att förvärras.
+
+Du har också <darkblue>respekt med varje kultur<black>. Denna respekten påverkas av hur du behandlar alla typer av byar av samma kultur, och påverkar din byteshandel med alla byar av samma kultur, Tillexempel, Om du har bra rykte från en Normansk by, så kommer andra Normanska byar att gilla dig lite mer. Du kan se ditt rykte med varje kultur genom informations skärmen ("M" som standard).
+
+<darkblue>Handlingar som kräver en viss respekt
+
+<darkblue>Köpa en by rulle
+
+Med tillräckligt rykte så kan du köpa byns rulle från byns ledare. Den här rullen har info från de olika skyltarna från huvud byggnaden.
+
+<darkblue>Köpa ett hem
+
+När du har tillräckligt respekt, så kan du köpa ett hus (eller en tomt att bygga på) genom att prata med byns ledare. Dit hem kommer att börja byggas när en pågående byggnation har slutförts. Denna byggnaden tillhör dig och du kan ändra den som du vill.
+
+<darkblue>Lära dig att plantera speciela växter
+
+Du kan lära dig att plantera speciela plantor från vissa kulturer. Prata med byns ledare när du har tillräckligt med respekt.
+
+<darkblue>Köpa speciella föremål
+
+En del värdefulla saker kräver att du har en bra respekt med byn. Om du inte har tillräckligt med respekt för att köpa ett föremål så kommer det att indikeras på bytes skärmen.
+
+<darkblue>Vissa uppdrag
+
+En del uppdrag, inkluderat skapelse uppdraget, kan bara startas med enn tillräckligt bra respekt (se <darkblue>“Uppdrag” <black>). 
+
+<darkblue>Bli ledare av en kultur
+
+När du har max respekt (<darkblue>"Naturlig ledare" <black>) Så kan du bygga din egena by(se <darkblue> "Skapa en by"<black>) 

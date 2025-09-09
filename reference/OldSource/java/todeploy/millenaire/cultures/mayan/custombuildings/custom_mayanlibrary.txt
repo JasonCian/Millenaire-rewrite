@@ -1,0 +1,1 @@
+native:Hu'um-Noh;gameNameKey:mayanlibrary_A0;sign:10-50;tag:archives;radius:10

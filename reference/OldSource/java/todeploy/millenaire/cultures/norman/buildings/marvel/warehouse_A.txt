@@ -1,0 +1,18 @@
+//Parameters for the building as a whole
+building.length=15
+building.width=24
+building.buildingorientation=3
+building.max=0
+building.icon=chest
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Entrepôt
+initial.priority=1000
+initial.male=architect
+initial.shop=notredame
+initial.signs=10,3,1,2,5,9,8,7,6,4,0
+initial.tag=marvelth
+
+//Parameters for specific upgrades

@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:crafting_table"
+        },
+        "title": {
+            "translate": "advancements.amateurarchitect.name"
+        },
+        "description": {
+            "translate": "advancements.amateurarchitect.desc"
+        }
+    },
+    "parent": "millenaire:summoningwand",
+    "criteria": {
+        "amateurarchitect": {
+            "trigger": "amateurarchitect"
+        }
+    }
+}

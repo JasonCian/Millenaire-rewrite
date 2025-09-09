@@ -1,0 +1,5 @@
+sells=sapling_olivetree,olives,oliveoil
+
+buys=olives
+
+deliverto=olives,oliveoil

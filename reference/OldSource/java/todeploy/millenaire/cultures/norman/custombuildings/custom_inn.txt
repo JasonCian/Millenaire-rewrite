@@ -1,0 +1,1 @@
+native:Auberge;gameNameKey:inn_A0;tag:inn;tag:leasure;male:Merchant;chest:4-8;sign:2

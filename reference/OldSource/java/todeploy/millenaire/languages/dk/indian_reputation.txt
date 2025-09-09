@@ -1,0 +1,9 @@
+0;Fremmede;Vi er ikke vant til fremmede i vores afsides landsby.
+4*64;Kendt ansigt;Indtil videre har du ikke nogen større brud på etikette.
+16*64;Regulaer Besøgende;Davs, $name! hvilke nyheder bringer du?
+64*64;Favorit Handlende;Velkommen tilbage, $name. Hvad har du medbragt til at handle med os? 
+2*64*64;Ven af landsbyen;$name-ji, Vi betragter dig alle sammen som en sand ven.
+8*64*64;En af os;Jeg ville ikke tro jeg ville leve så længe at jeg så en fremmede accepteret i landsbyen, men $name-ji, du er en af os nu!
+-64;Pestilens;Vi kan ikke lide fremmede her, specielt ikke din slags.
+-4*64;Usympatisk outsider;Hvem end der opdragede dig gjorde det meget dårligt. Vi håber du vil forsvinde snart.
+-16*64;Folke Fjende;Hver morgen jeg beder til gudinden at jeg aldrig vil se dit ansigt igen.

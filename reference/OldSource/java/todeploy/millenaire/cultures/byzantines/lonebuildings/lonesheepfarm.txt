@@ -1,0 +1,21 @@
+name=Monachikó próvato
+weight=10
+radius=10
+
+//Vanilla biomes
+biome=Plains
+biome=Sunflower Plains
+biome=Savanna
+biome=Savanna M
+
+//biomes o'plenty
+biome=chaparral
+biome=heathland
+biome=meadow
+biome=orchard
+biome=scrubland
+biome=shrubland
+biome=steppe
+
+//starting buildings=
+centre=sheepranch

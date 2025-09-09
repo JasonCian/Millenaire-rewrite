@@ -1,0 +1,16 @@
+//Parameters for the building as a whole
+building.length=32
+building.width=32
+building.buildingorientation=2
+building.issubbuilding=true
+building.parentbuildingplan=fort_A7
+building.max=0
+building.icon=normanbroadsword
+
+
+//Parameters for initial construction
+initial.startlevel=-5
+initial.nativename=Tour de garde
+initial.priority=900
+initial.male=guard
+

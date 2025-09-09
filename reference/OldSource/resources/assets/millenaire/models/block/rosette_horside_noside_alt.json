@@ -1,0 +1,6 @@
+{
+    "parent": "block/pane_noside_alt",
+    "textures": {
+        "pane": "millenaire:blocks/rosette_horside"
+    }
+}

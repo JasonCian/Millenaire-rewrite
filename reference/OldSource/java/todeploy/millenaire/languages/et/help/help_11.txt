@@ -1,0 +1,14 @@
+﻿version:4.8.0
+<darkblue>Jaapanlased
+
+Nad elavad religiooses,sõjalises,kaubanduses ja keisrikus külades, ja on väljapaistvamad nende elgantse arhitektuuri poolt. Nad räägivad jaapani keeles,aga nende dialoogid on tõlkitud kui mängija "õppib" nende keelt rääkima nendega.
+
+<darkblue>Erilised objektid ja plokkid
+
+-Nad kasvatavad riisi.Mängija võib küsida küla juhilt,et too teda õpetaks kasvatama seda teravilja.
+-Nad küpsetavad maitsvaid udoni nuudleid nisust ja kanast.
+-Kaubandus külades, pluurijad toodavad saki riisist
+-Nagu normannid, ka nemad toodavad toestatud ehitisi.
+-Nad kasutavad väga palju õlg-plokke valmistatud nisust.
+-Nad toodavad elegantseid riisi paber seinu nende arenenud ehitistele.
+-Nende metalli seppad sepistavad raskeid tachi mõõku ja yumi pikkvibusid, samas ka veel kolme erinevat tüüpi väga effektiivset rüüd.

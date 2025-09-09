@@ -1,0 +1,123 @@
+//Gallery
+;hof.byzicon;
+;hof.byzicon;
+;hof.byzicon;
+;hof.byzicon;
+;hof.normtap;
+;hof.hindustatues;
+;hof.inuithide1;hof.inuithide2
+;hof.mayanstatue;
+//Apse
+hof.dedication1;hof.dedication2;hof.dedication3;hof.dedication4
+Kinniken;;hof.modcreator
+Millénaire;;hof.hof
+//More gallery
+12;hof.inuithide1;hof.inuithide2
+13;hof.mayanstatue;
+//South chapel
+MinerMiah;;hof.creatorofmayan1;hof.creatorofmayan2
+Kinniken;;hof.creatorofindian1;hof.creatorofindian2
+//North chapen
+Minepower;;hof.creatorofjapanese1;hof.creatorofjapanese2
+Kinniken;;hof.creatorofnorman1;hof.creatorofnorman2
+//Choir
+Rasseru;;hof.improvementsjapanese1;hof.improvementsjapanese2
+SMP;;hof.creatorofindianskins1;hof.creatorofindianskins2
+kacpi55501;;hof.obsidiantools1;hof.obsidiantools2
+minami26;;hof.normanarmour1;hof.normanarmour2
+Nandonalt;;hof.buildingmaker
+johnlmonkey;;hof.skinmaker
+karahan;;hof.buildingmaker
+Razulra;;hof.skinmaker
+CreeperLava;;hof.buildingmaker
+cubex3;;hof.skinmaker
+Xeredek;;hof.buildingmaker
+TheDoctorMouse;;hof.skinmaker
+HeimrArnadalr;;hof.development;hof.buildingmaker
+joeyjam;;hof.wikiadmin;hof.armouricons
+Baldur_ru;;hof.lonebuildings
+Ghost1972;;hof.wikiadmin
+//South transept
+Peyko;hof.hofidea1;hof.hofidea2;hof.donor
+MauveCloud;;hof.development;hof.donor
+Goshen;;hof.112testing;hof.donor
+MoonCutter2B;;hof.112testing
+BugraEskici;;hof.securityadvice
+Samboy;;hof.gradlebuild1;hof.gradlebuild2
+FlowerChild;hof.btw;hof.forgehelp1;hof.forgehelp2
+Eloraam;;hof.forgecode1;hof.forgecode2
+//North transept
+Trancid;;hof.wikicontributions
+Rytho;;hof.support1;hof.support2
+NeilZar;;hof.support1;hof.support2
+Firespread;;hof.support1;hof.support2
+Zoythrus;;hof.communitywork
+Orange1861;;hof.communitywork
+Nikoleis;;hof.frenchversion1;hof.frenchversion2
+hof.contribute1;hof.contribute2;hof.contribute3;hof.contribute4
+//More south transept
+leftler;;hof.donor
+Dick Dolby;;hof.donor
+//More north transept
+BowerPowers;;hof.donor
+Cyrilshark;;hof.donor
+//Alternating south, north, south, north, etc.
+Supleted;;hof.donor
+Anagor;;hof.donor
+darkbalde2040;;hof.donor
+Jompa1989;;hof.donor
+Ticlon;;hof.creatorofbyzantine1;hof.creatorofbyzantine2
+;hof.reserved1;hof.reserved2
+;hof.reserved1;hof.reserved2
+felinoel;;hof.creatorofinuits1;hof.creatorofinuits2
+s_sizzle;;hof.donor
+Louis8k8;;hof.donor
+elvin;;hof.donor
+Kokolihapihvi;;hof.donor
+//More south transept
+rsdwiorker;;hof.donor
+Delta_02_Cat;;hof.donor
+//More north transept
+durza400;;hof.donor
+TheRPGBomb;;hof.donor
+//Spire
+;hof.inscription4;hof.inscription5
+HeimrArnadalr;;hof.redesigner;
+;hof.inscription1;hof.inscription2;hof.inscription3
+//More south transept
+Wurok;;hof.donor
+bastiandantilus;;hof.donor
+Mr. Minecraft 1882;;hof.donor
+Freon41;;hof.donor
+yegorsosin;;hof.donor
+Autoskip;;hof.donor
+Lord_Santa;;hof.donor
+Raelion;;hof.donor
+//More north transept
+sandyrossw;;hof.donor
+ryanheaon15;;hof.donor
+Jo1es;;hof.donor
+Tymm403;;hof.donor
+Stefanbjerkell;;hof.donor
+Sn0wCrack;;hof.donor
+Bard_of_Hibbing;;hof.donor
+bk3000;;hof.donor
+//Nave
+jmaasing;;hof.donor
+MKat10Ƶ;;hof.donor
+Danny;Giacolona;hof.donor
+Daerqueside;;hof.donor
+Patrick;Brönn;hof.donor
+Poiar;;hof.donor
+e294;;hof.donor
+math51350;;hof.donor
+mugen2099;;hof.donor
+Andrej;Masaryk;hof.donor
+Fulminon;;hof.donor
+DreaksMan;;hof.donor
+Xx_Dimicraft_xX;;hof.donor
+King_Krimson;;hof.donor
+VizeweIIe;;hof.donor
+flipwondertoon;;hof.donor
+;hof.donate1;hof.donate2;hof.donate3
+;hof.donate1;hof.donate2;hof.donate3

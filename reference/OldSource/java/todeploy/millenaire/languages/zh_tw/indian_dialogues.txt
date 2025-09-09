@@ -1,0 +1,255 @@
+//Note to translators: the version in devanagari (Hindi script) is for reference purpose. It will not show in game.                                             
+
+
+
+
+
+newchat;key:sun,tag:notraining,weigth:10
+v1;0;Kitni Garmi Hai! / 好熱啊！
+v2;30;Main is garmi se pagal ho gaya hoon. / 熱到讓我都火大了。
+v1;70;Baarish kab hogi? / 甚麼時候才會下雨啊？
+
+//鄐?鄐戈尹鄍 鄐什鄍亢鄍 鄐嫩?!
+//鄐桌?鄐?鄐元 鄐什鄍亢鄍 鄐詮? 鄐芹冗鄐仆 鄐嫩? 鄐仁鄐?鄐嫩?鄐?|
+//鄐眇冗鄐啤?鄐?鄐互 鄐嫩?鄐? ?
+
+
+newchat;key:monsoon,tag:notraining,weigth:10
+v1;0;Barish nahi ho rahi hai. / 看啊？又不下雨了。
+v2;30;Barish hogi. Chinta mat karo. / 別擔心，早晚會下的。
+v1;60;Tum har sal yahi bolte ho... / 你每年都說這句話...
+
+//鄐眇冗鄐啤凶鄐?鄐兒允鄍 鄐嫩? 鄐啤允鄍 鄐嫩? |
+//鄐眇冗鄐啤凶鄐?鄐嫩?鄐?| 鄐凶鄐兒?鄐戈冗 鄐桌中 鄐什鄍
+//鄐戈?鄐?鄐嫩什 鄐詮冗鄐?鄐能允鄍 鄐允鄐戈? 鄐嫩? ...
+
+newchat;key:rain,tag:raining,weigth:10
+v1;0;Arre! Baarish ho rahi hai! / 太棒啦！在下雨啦！
+v2;40;Itni si baarish se kya hoga... / 就下這麼點雨是能幹甚麼...
+v1;80;Sukhe se toh behtar hai. / 總比沒下雨好吧。
+v1;120;Lekin fasal kaise hogi? / 但現在這樣要我們的作物怎麼生長啊？
+
+
+//鄐什鄍? 鄐眇冗鄐啤凶鄐?鄐嫩? 鄐啤允鄍 鄐嫩?!
+//鄐中鄐兒? 鄐詮? 鄐眇冗鄐啤凶鄐?鄐詮? 鄐?鄐能冗 鄐嫩?鄐冗 ...        
+//鄐詮?鄐? 鄐詮? 鄐戈? 鄐眇?鄐嫩?鄐戈什 鄐嫩?鄍?
+//鄐耜?鄐凶鄐?鄐徇元鄐?鄐?鄐詮? 鄐嫩?鄐??        
+
+newchat;key:sandstone,weigth:10
+v1;0;Hamara gaon pragati kar raha hai, hai na? / 我們的村莊正不斷的進步發展著，不是嗎？
+v2;40;Par abhi bahut kaam baki hai. / 但還有好多事情還沒做完。
+v1;80;Sach me? / 真的嗎？
+v2;100;Bilkul! / 當然！
+
+//鄐嫩亢鄐擒什鄐?鄐冗鄐今 鄐芹?鄐啤?鄐戈凶 鄐什 鄐啤允鄐?鄐嫩?, 鄐嫩? 鄐兒冗?
+//鄐嫩冗鄐? 鄐耜?鄐凶鄐?鄐五鄍 鄐眇允鄍中 鄐冗鄐?鄐眇冗鄐? 鄐嫩? |
+//鄐詮? 鄐桌?鄐?
+//鄐眇凶鄐耜?鄐?鄐?
+
+newchat;key:lakshmi,v1:adult,v2:adult,weigth:10
+v1;0;Jao, puja ke liye ek thali le aao. / 快去吧，為法會找個祭品吧。
+v2;40;Turant le aata hoon. / 我會盡快找到的。
+v1;80;Bhagwaan ko prabhavit karna jaroori hai. /我們必須得取悅神明。
+v1;130;Tab hi baarish samay par aayegi. / 只有這樣才能讓雨準時的來臨。
+
+
+//鄐冗鄐? 鄐芹?鄐冗 鄐? 鄐耜凶鄐?鄐?鄍?鄐丞冗鄐耜? 鄐耜? 鄐?|
+//鄐戈?鄐啤?鄐?鄐耜? 鄐中鄐?鄐嫩?鄐?|        
+//鄐冢?鄐菽冗鄐?鄐? 鄐芹?鄐啤五鄐擒今鄐賴中 鄐什鄐兒冗 鄐今鄐嗣?鄐能? 鄐嫩? |
+//鄐戈互 鄐嫩? 鄐眇冗鄐啤凶鄐?鄐詮亢鄐?鄐芹什 鄐?鄐? |        
+
+
+
+newchat;key:beef,v2:adult,weigth:10
+v1;0;Kabhi socha hai, guy ka maas ka swad kya ho sakta hai? / 你有沒有想過牛肉的滋味嘗起來如何啊？
+v2;60;Guy ka maas? Lekin ye toh dharm ke khilaaf hai! / 牛肉嗎？但吃牛肉可是違背我們的佛法！
+v1;120;Lekin shayad woh swadisht hai...? / 但如果它的滋味很棒的話呢...?
+v2;180;Kya tum normandi ke jungli ho? / 你是諾曼蠻人嗎？
+
+//鄐五鄍 鄐詮?鄐冗 鄐嫩?, 鄐冗鄐?鄐冗 鄐桌冗鄐元 鄐冗 鄐?鄐能冗 鄐詮?鄐菽冗鄐?鄐嫩? 鄐詮?鄐戈冗 鄐嫩??
+//鄐冗鄐?鄐冗 鄐桌冗鄐元? 鄐耜?鄐凶鄐?鄐能允 鄐抉什鄍亢 鄐? 鄐凶鄐耜冗鄐?鄐嫩?!
+//鄐耜?鄐凶鄐?鄐嗣冗鄐能丹 鄐菽允 鄐詮?鄐菽冗鄐舟凶鄐獅?鄐?鄐嫩?...?        
+//鄐?鄐能冗 鄐戈?鄐?鄐兒?鄐啤亢鄐丑鄍 鄐? 鄐?鄐仆鄍 鄐嫩?
+
+newchat;key:rice,v1:child,v2:adult,weigth:10
+v1;0;Mai rasgulla chahta hoon. Mujhe bohot bhukh lagi hai! / 我想吃個奶豆腐湯元，我真的餓昏了！
+v2;60;Nahi. Tumhe sirf chawal khaana chahiye. / 不，你只能吃飯。
+v1;120;Lekin maine subhah hi ye khaya hai! / 但我早上已經吃過飯了！
+v1;180;Aur kal bhi, parson bhi... / 昨天也是，前天也是...
+v2;220;Toh tum yahi aaj raat ko, kal, aur jeevan bhar khao! / 而你今晚也得吃飯，明天和這輩子都得吃飯！
+
+//鄐桌?鄐?鄐啤元鄐?鄐耜?鄐耜冗 鄐冗鄐嫩中鄐?鄐嫩?鄍?鄐桌?鄐? 鄐冢?鄐? 鄐耜? 鄐啤允鄐?鄐嫩? 鄍?
+//鄐兒允鄍鄐?| 鄐戈?鄐桌?鄐嫩? 鄐詮凶鄐啤?鄐?鄐冗鄐菽仆 鄐冗鄐兒冗 鄐冗鄐嫩凶鄐?|
+//鄐耜?鄐凶鄐?鄐桌?鄐尹鄍? 鄐詮?鄐眇允 鄐嫩?  鄐能允 鄐冗鄐能冗 鄐嫩?!
+//鄐什 鄐仆 鄐冢?, 鄐芹什鄐詮?鄐?鄐冢凶??       
+//鄐戈? 鄐戈?鄐?鄐能允鄍 鄐? 鄐啤冗鄐?鄐?, 鄐仆, 鄐什 鄐?鄐菽尹 鄐冢什 鄐冗鄐兒冗!
+
+newchat;key:indian_lumberman,v1:vtype:indian_lumberman,weigth:10
+v1;0;Aaj maine bahut jyada lakdi kaat li! / 我今天砍了超多的木材。
+v2;60;Tum hamare jungle ko reghistaan bana doge!        / 你這樣會把我們的森林弄成一片沙漠！
+v1;120;Pareshan mat ho, yahaan bina kuch kiye hi pedh badhte hai. / 別擔心，這裡的樹木會自行生長的。
+
+//鄐? 鄐桌?鄐兒? 鄐眇允鄍中 鄍?鄐能冗鄐舟冗  鄐耜?鄍? 鄐冗鄐?鄐? !
+//鄐戈?鄐?鄐嫩亢鄐擒什鄍?鄐冗鄐今 鄐? 鄐啤?鄐凶鄐詮?鄐戈冗鄐?鄐桌?鄐?鄐眇丹鄐?鄐舟?鄐? !
+//鄐芹什鄍介鄐擒尹  鄐桌中 鄐嫩?, 鄐能允鄐擒? 鄐眇凶鄐兒冗 鄐?鄐?鄐凶鄐能? 鄐嫩? 鄐芹?鄍?鄐眇丐鄐戈? 鄐嫩?鄐奶 
+
+
+
+newchat;key:indian_raja,v1:vtype:indian_raja,v2:adult,notrel:spouse,weigth:10
+v1;0;Mera mahal bahut chota ho gaya hai. / 我的宮殿變得好小啊。
+v2;60;Lekin maharaj, ye is kshetra me sabse bada hai! / 但是瑪哈拉吉，這已經是這裡最大的土地了！
+v1;120;Lekin ye mujhe chota lagne laga hai. / 但對我而言還是很小。
+
+
+//鄐桌?鄐啤冗 鄐桌允鄐?鄐眇允鄍中 鄐?鄐冗 鄐嫩? 鄐仁鄐?鄐嫩? |        
+//鄐耜?鄐凶鄐?鄐桌允鄐擒什鄐擒?, 鄐能允 鄐元 鄐?鄐獅?鄐戈?鄐?鄐桌?鄐?鄐詮互鄐詮? 鄐眇丑鄐潼冗 鄐嫩?!
+//鄐耜?鄐凶鄐?鄐桌?鄐? 鄐能允 鄐?鄐冗 鄐耜?鄐兒? 鄐耜?鄐?鄐嫩? |
+
+newchat;key:indian_rajputgeneral,v1:vtype:indian_rajputgeneral,weigth:10
+v1;0;Ek shaktishali qila hamare dushmanon ke khilaaf sabse accha bachaav hai. / 一座堅固的城堡是對付我們的敵人的最佳防禦手段。
+v2;60;Kaun se dushman, senapati? / 將軍，是甚麼樣的敵人呢？
+v1;100;Ye Norman aur anya jungli log. / 諾曼人和其他蠻族。
+
+//鄐? 鄐嗣?鄍中鄐賴介鄐擒仆鄍 鄐凶鄐耜? 鄐嫩亢鄐擒什鄍?鄐舟?鄐嗣?鄐桌尹鄍? 鄐? 鄐凶鄐耜冗鄐?鄐詮互鄐詮? 鄐?鄍?鄐?鄐眇?鄐擒今 鄐嫩? |
+//鄐?鄐?鄐詮? 鄐舟?鄐嗣?鄐桌尹, 鄐詮?鄐兒冗鄐芹中鄐?        
+//鄐能? 鄐兒?鄐啤?鄐桌尹 鄐什 鄐尹鄍仁 鄐?鄐仆鄍 鄐耜?鄐?|        
+
+newchat;key:indian_rani,v1:vtype:indian_rani,notrel:spouse,weigth:10
+v1;0;Mere pati amir aur prasidh hai. / 我丈夫既富裕又有聲望。
+v2;50;Ji han! Yeh sach hai. / 噢，是啊！那的確是。
+v1;110;Par ve mere liye kabhi kuch laatey nahi hai. / 但他卻從未給過我甚麼東西。
+v2;160;Kyon nahi? Kal hi unhone tumhare liye teen sariyaan laayi thi. / 哪有？他昨天不是才給妳三件紗麗服嗎？
+
+//鄐桌?鄐啤冗 鄐芹中鄐?鄐亢鄍鄐?鄐什 鄐芹?鄐啤元鄐賴丹鄍之 鄐嫩? |        
+//鄐? 鄐嫩冗鄐? 鄐能? 鄐詮? 鄐嫩? |
+//鄐芹什 鄐菽? 鄐桌?鄐啤? 鄐耜凶鄐能? 鄐五鄍 鄐?鄐?鄐耜冗鄐戈? 鄐兒允鄍 鄐嫩? |
+//鄐?鄐能?鄐?鄐兒允鄍鄐? 鄐仆 鄐嫩? 鄐尹鄍允鄍?鄐兒? 鄐戈?鄐桌?鄐嫩冗鄐啤? 鄐耜凶鄐能? 鄐戈?鄐?鄐詮冗鄐﹤兮鄐賴仁鄐擒? 鄐什鄍鄐舟冗 鄐丞?|
+newchat;key:indian_richwoman,v1:vtype:indian_richwoman,v2:female,v2:adult,v2:notvtype:indian_richwoman-indian-rani,weigth:10
+v1;0;Aaj mere pati ne mere liye 50 tola sona kharida. / 我丈夫今天買了50 tolas的黃金。
+v2;60;50 tola sona! Mere paas sirf 10 tola sona hai... / 50 tolas的黃金！我只有10 tolas...
+v1;120;Aasha hai ki sitaare tumhare paksh mein honge. /那又怎麼樣？希望那些星星能對你有甚麼用處。  
+
+
+//鄐? 鄐桌?鄐啤? 鄐芹中鄐?鄐兒? 鄐桌?鄐啤? 鄐耜凶鄐能? 50 鄐戈?鄐耜冗 鄐詮?鄐兒冗 鄐什鄍鄐舟冗 |        
+//50 鄐戈?鄐耜冗 鄐詮?鄐兒冗! 鄐桌?鄐啤? 鄐芹冗鄐?鄐詮凶鄐啤?鄐?10 鄐戈?鄐耜冗 鄐詮?鄐兒冗 鄐嫩? ...        
+//鄐介鄐?鄐嫩? 鄐凶 鄐詮凶鄐戈冗鄐啤?鄐?鄐戈?鄐桌?鄐嫩冗鄐啤? 鄐芹?鄍仄 鄐桌?鄐?鄐嫩?鄐?鄍                                
+
+newchat;key:indian_sculptor,v1:vtype:indian_sculptor,weigth:10
+v1;0;Mujhe pratimaon banane ka achha mauka mila hai. / 我拿到了個製作雕像的絕佳機會。
+v2;50;Tum bahut achhe murtiyan banate ho.        / 那是因為你做的雕像都很好.
+v1;100;Main pandhara saal se murtiyan bana raha hoon. / 我已經做雕像做了15年了。
+
+//鄐桌?鄐? 鄐芹?鄐啤中鄐賴亢鄐擒?鄐?鄐眇尹鄐擒尹鄍?鄐冗 鄐?鄍?鄐?鄐桌?鄐冗 鄐桌凶鄐耜冗 鄐嫩?|        
+//鄐戈?鄐?鄐眇允鄍中 鄐?鄍?鄍?鄐桌?鄐啤?鄐戈凶鄐能?鄐?鄐眇尹鄐?鄐戈? 鄐嫩?|        
+//鄐桌?鄐?15 鄐詮冗鄐?鄐詮? 鄐桌?鄐啤?鄐戈凶 鄐眇尹鄐?鄐啤允鄐?鄐嫩?鄐?|        
+
+newchat;key:indian_smith,v1:vtype:indian_smith,v2:adult,weigth:10
+v1;0;Hame aur phavadon ki zarurat hai. / 我們需要多一點個鎬。
+v2;50;Main kaam mein vyasth hoon. / 我現在很忙。
+v1;100;Phavdiyon ki bhi zarurat hai. / 我們也需要鏟子。
+v2;150;Uff! Mujhe kitna kaam karna padta hai! / 呃啊！我得做這麼多工作！
+
+//鄐嫩亢鄍? 鄐什 鄐徇冗鄐菽丑鄍? 鄐? 鄐什鄍什鄐?鄐嫩? |
+//鄐桌?鄐?鄐冗鄐?鄐桌?鄐?鄐菽?鄐能元鄍中 鄐嫩?鄐        
+//鄐徇冗鄐菽丑鄐潼凶鄐能?鄐?鄐? 鄐冢? 鄐什鄍什鄐?鄐嫩? |        
+//鄐井鄐潼井鄐? 鄐桌?鄐? 鄐凶鄐戈尹鄐?鄐冗鄐?鄐什鄐兒冗 鄐芹丑鄐戈冗 鄐嫩? !        
+
+newchat;key:indian_soldier,v1:vtype:indian_soldier,v2:adult,v2:female,notrel:spouse,notrel:sibling,notrel:child,notrel:parent,weigth:10
+v1;0;<targetname>, shayad gaon ke nikat daaku hai! / <targetname>，我覺得我們村莊附近有盜匪！
+v2;50;Chinta mat karo, main gaon ki raksha karonga. / 別擔心，我會守護這座村莊的。
+v1;100;Tum bahut shaktishaali ho! / 你這麼的強壯！
+v1;130;Aur sundar bhi. / 又英俊。
+v1;150;Agar aap ke paas moonch na hoti... / 但如果你的鬍子不要那麼...
+v2;200;Meri moonch ke baare main kuch bhi na kaho! / 別再談我的鬍子了！
+
+
+//<targetname>, 鄐嗣冗鄐能丹 鄐冗鄐今 鄐? 鄐兒凶鄐? 鄐﹤冗鄐? 鄐嫩?!
+//鄐凶鄐中鄐?鄐桌中 鄐什鄍? 鄐桌?鄐?鄐冗鄐今 鄐? 鄐啤?鄍仄鄐?鄐什鄍?鄐冗|        
+//鄐戈?鄐?鄐眇允鄍中 鄐嗣?鄍中鄐賴介鄐擒仆鄍 鄐嫩?!        
+//鄐什 鄐詮?鄐丹鄐?鄐冢? |        
+//鄐?鄐?鄐云 鄐? 鄐芹冗鄐?鄐桌?鄐?鄍? 鄐?鄐嫩?鄐戈? ...        
+//鄐桌?鄐啤? 鄐桌?鄐? 鄐? 鄐眇冗鄐啤? 鄐桌?鄐?鄐?鄐?鄐冢? 鄐?鄐允鄍?
+
+newchat;key:indian_villagechief,v1:vtype:indian_villagechief,v2:vtype:indian_peasant-indian_peasantwife,weigth:10
+v1;0;Senapati, iss saal fasal achhi nahi hai./ 主公，今年的收穫不怎麼好啊。
+v2;40;Tu aalsi hai! Jyada kaam kar! / 那是因為你太懶惰了！多做點工作啊！
+v1;80;Lekin baarish hi nahi hui... / 但是上天不肯下雨...
+v2;120;Meri galti nahi hai. Mujhe apna paisa chahiye. / 那不是我的問題。我只要收到我的租稅就行了。
+v1;170;Lekin mere paas paise nahi hai. / 但是我沒錢了。
+v2;210;Fir mujhe meri zameen do. / 那就給我把土地環來。
+v1;260;Mere paas kuch bhi nahi rehe jayega! / 但這樣一來我甚麼都不剩了！
+
+//鄐詮?鄐兒冗鄐芹中鄐? 鄐元 鄐詮冗鄐?鄐徇元鄐?鄐?鄍?鄍 鄐兒允鄍鄐?鄐嫩? |
+//鄐戈? 鄐仆鄐詮? 鄐嫩?! 鄐?鄐能冗鄐舟冗 鄐冗鄐?鄐什!        
+//鄐耜?鄐凶鄐?鄐眇冗鄐啤凶鄐?鄐嫩? 鄐兒允鄍 鄐嫩?鄐?...        
+//鄐桌?鄐啤? 鄐仆鄐戈? 鄐兒允鄍鄐?鄐嫩?| 鄐桌?鄐? 鄐云鄐兒冗 鄐芹?鄐詮冗 鄐冗鄐嫩凶鄐?|        
+//鄐耜?鄐凶鄐?鄐桌?鄐啤? 鄐芹冗鄐?鄐芹?鄐詮? 鄐兒允鄍 鄐嫩? |        
+//鄐徇凶鄐?鄐桌?鄐? 鄐桌?鄐啤? 鄐亢鄍鄐?鄐舟?|        
+//鄐桌?鄐啤? 鄐芹冗鄐?鄐?鄐?鄐冢? 鄐兒允鄍 鄐啤允 鄐冗鄐?鄐?        
+
+newchat;key:newhouse,villager:indian_merchant,v1:notvtype:indian_merchant,v2:notvtype:indian_merchant,weigth:10
+v1;0;Vaha Vyapaari apne ghar ke bagal mein ek naya ghar ban rahe hai. / 那名商人正在他的房子旁邊建一座新屋子。
+v2;60;Ek aur ghar? Par kyun? / 另一座房屋？為甚麼他需要另一座新房子？
+v1;90;Vaha naya ghar unke betey ke liye hai. /他的新房子是要給他兒子的。
+v1;140;Jab unke betey ki shaadi hogi, tab dono paas me honge. / 當他兒子結婚後，他們父子就可以住在隔壁了。
+
+
+//鄐菽允 鄐菽?鄐能冗鄐芹冗鄐啤? 鄐云鄐兒? 鄐什 鄐? 鄐眇?鄐?鄐桌?鄐?鄐? 鄐兒仁鄐?鄐什 鄐眇尹鄐?鄐啤允鄍?鄐嫩?|
+//鄐? 鄐什 鄐什? 鄐芹什 鄐?鄐能?鄐?        
+//鄐菽允 鄐兒仁鄐?鄐什 鄐云鄐兒? 鄐眇?鄐? 鄐? 鄐耜凶鄐?鄐嫩? |        
+//鄐互 鄐尹鄐? 鄐眇?鄐? 鄐? 鄐嗣冗鄐舟? 鄐嫩?鄐?, 鄐戈互 鄐舟?鄐兒?鄐?鄐芹冗鄐?鄐桌?鄐?鄐嫩?鄐?鄍?|
+
+
+
+newchat;key:gold,v1:vtype:indian_peasantwife,rel:spouse,villager:indian_villagechief,weigth:10
+v1;0;Gaon ke mukhiye ne apni patni ke liye sone ke kangan laaye. / 村長送給他妻子一個金手鐲。
+v1;60;Par aap mere liye kuch nahi laatey... /但你從來沒送過我任何的珠寶飾品...
+v2;110;Tumhe ek amir aadmi se shaadi karni chahiye thi. / 妳應該嫁給一個有錢人的。
+v1;160;Lekin mujhe aur dahej dena padta. /但那樣的話我得付更多的嫁妝。
+v2;200;Fir tumhe bhagyawaan lagna chahiye ki main tumhara pati hoon. / 那麼你應該感到幸運能有我這麼一個丈夫。
+
+//鄐冗鄐今 鄐? 鄐桌?鄐凶鄐能? 鄐兒? 鄐云鄐兒? 鄐芹中鄍尹鄍 鄐? 鄐耜凶鄐能? 鄐詮?鄐兒? 鄐? 鄐?鄐尹 鄐耜冗鄐能?|        
+//鄐菽冗鄐? 鄐芹什 鄐云 鄐桌?鄐啤? 鄐耜凶鄐能? 鄐?鄐?鄐兒允鄍 鄐耜冗鄐戈?...        
+//鄐戈?鄐桌?鄐嫩? 鄐? 鄐亢鄍鄐?鄐丹鄐桌? 鄐詮? 鄐嗣冗鄐舟? 鄐什鄐兒? 鄐冗鄐嫩? 鄐丞? |        
+//鄐耜?鄐凶鄐?鄐桌?鄐? 鄐什 鄐舟允鄍? 鄐舟?鄐兒冗 鄐芹丑鄐戈冗|                
+//鄐徇凶鄐?鄐戈?鄐桌?鄐嫩? 鄐冢冗鄐?鄐能冗鄐菽冗鄐?鄐耜?鄐兒冗 鄐冗鄐嫩凶鄐?鄐? 鄐桌?鄐?鄐戈?鄐桌?鄐嫩冗鄐啤冗 鄐芹中鄐?鄐嫩?鄐
+
+newchat;key:alcohol,v1:vtype:indian_peasant-indian_lumberman,v2:vtype:indian_peasant-indian_lumberman,weigth:10
+v1;0;Maine bahit dinon se sharaab nahi piya hai. / 我好久沒喝酒了。
+v2;50;Gaon ke bahar ek aadmi sharaab aur moongfali bechta hai. / 在村莊外的榕樹下坐著一個人，他在那裡賣酒和花生。
+v1;110;Sach? Maine socha tha ki gaon mein sharaab par pratibandh laga diya gaya hai. / 真的嗎？我記得村裡是禁止賣酒的！
+v2;160;Yeh kisi aur ko mat batana. / 千萬別告訴其他人這件事啊。
+v1;200;Chalo, hum aaj shaam ko vahan jaatey hai. / 好吧，那麼我們今晚就去那裡吧？
+
+
+
+
+//鄐桌?鄐兒? 鄐? 鄐舟凶鄐兒?鄐?鄐詮? 鄐嗣什鄐擒互 鄐兒允鄍 鄐芹凶鄐能冗 鄐嫩?|
+//鄐冗鄐今 鄐? 鄐眇允鄐擒什 鄐? 鄐丹鄐桌? 鄐嗣什鄐擒互 鄐什 鄐桌?鄐?鄐徇仆鄍 鄐眇?鄐中鄐?鄐嫩? |
+//鄐詮?? 鄐桌?鄐尹鄍?鄐詮?鄐冗 鄐丞冗 鄐? 鄐冗鄐今 鄐桌?鄐?鄐嗣什鄐擒互 鄐芹什 鄐芹?鄐啤中鄐賴互鄐之 鄐耜?鄐?鄐舟凶鄐能冗 鄐嫩?|        
+//鄐能允 鄐凶鄐詮? 鄐什 鄐? 鄐桌中 鄐眇中鄐擒尹鄐魯         
+//鄐仆鄍?鄐嫩亢 鄐? 鄐嗣冗鄐?鄐? 鄐菽允鄐擒?
+//鄐仆鄍? 鄐嫩亢 鄐? 鄐嗣冗鄐?鄐? 鄐菽允鄐擒?
+
+
+newchat;key:childoneliner1,v1:child,v2:child,weigth:10
+v1;0;Kya aap ne mere liye khiloune laaye? / 你能給我一些玩具嗎？
+
+
+//鄐?鄐能冗 鄐云 鄐兒? 鄐桌?鄐啤? 鄐耜凶鄐能? 鄐凶鄐耜?鄐兒? 鄐耜?鄐?
+
+
+newchat;key:childoneliner2,v1:child,v2:child,weigth:10
+v1;0;Mere paas bahut saare dost hai.         / 我有很多朋友哦。
+
+
+//鄐桌?鄐啤? 鄐芹冗鄐?鄐眇允鄍中 鄐詮冗鄐啤? 鄐舟?鄐詮?鄐?鄐嫩?鄐?|
+
+
+
+
+newchat;key:childoneliner3,v1:child,v2:child,weigth:10
+v1;0;Meri maa shaam ko mujhe khelne nahi deti hai. /我媽媽不讓我在晚上出去玩。
+
+
+//鄐桌?鄐啤? 鄐桌冗鄐?鄐嗣冗鄐?鄐? 鄐?鄐耜尹鄍?鄐兒允鄍 鄐舟?鄐戈? 鄐嫩? |

@@ -1,0 +1,17 @@
+{
+	"forge_marker": 1,
+    "variants": {
+        "normal": {"model": "millenaire:markerBlock"},
+        "treetype=oak": { "model": "millenaire:treespawn_oak" },
+        "treetype=pine": { "model": "millenaire:treespawn_pine" },
+        "treetype=birch": { "model": "millenaire:treespawn_birch" },
+        "treetype=jungle": { "model": "millenaire:treespawn_jungle" },
+        "treetype=acacia": { "model": "millenaire:treespawn_acacia" },
+        "treetype=darkoak": { "model": "millenaire:treespawn_darkoak" },
+        "treetype=appletree": { "model": "millenaire:treespawn_appletree" },
+        "treetype=olivetree": { "model": "millenaire:treespawn_olivetree" },
+        "treetype=pistachiotree": { "model": "millenaire:treespawn_pistachio" },
+        "treetype=cherrytree": { "model": "millenaire:treespawn_cherry" },
+        "treetype=sakuratree": { "model": "millenaire:treespawn_sakura" }
+    }
+}

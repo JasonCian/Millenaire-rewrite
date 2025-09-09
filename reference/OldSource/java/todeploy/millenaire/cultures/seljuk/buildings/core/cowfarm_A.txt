@@ -1,0 +1,24 @@
+building.length=17
+building.width=21
+building.buildingorientation=1
+building.mindistance=0.2
+building.areatoclear=3
+
+building.icon=beefraw
+
+initial.startlevel=-1
+initial.nativename=Inek Çiftliği
+initial.priority=600
+initial.male=turk_cowfarmer
+initial.female=turk_cowfarmerwife
+initial.tag=slaughtercowseljuk
+initial.tag=cattle
+initial.shop=cowfarm
+
+upgrade1.priority=200
+upgrade1.pathlevel=0
+
+upgrade2.priority=190
+upgrade2.pathlevel=1
+
+upgrade3.priority=180

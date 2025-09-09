@@ -1,0 +1,24 @@
+name=Ch'en
+weight=0
+radius=15
+
+//Vanilla biomes
+biome=Swampland
+biome=Swampland M
+biome=JungleEdge
+biome=JungleEdge M
+biome=Jungle
+biome=Jungle M
+biome=Birch Forest
+biome=Birch Forest Hills
+biome=Birch Forest M
+biome=Birch Forest Hills M
+
+//biomes o'plenty
+biome=bayou
+biome=lush swamp
+biome=rainforest
+biome=tropical rainforest
+
+//starting buildings=
+centre=lonemayancave

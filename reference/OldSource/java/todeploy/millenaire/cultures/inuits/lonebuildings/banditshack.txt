@@ -1,0 +1,25 @@
+name=Unatannik tupiq
+weight=21
+radius=10
+carriesraid=true
+
+mindistancefromspawn=600
+
+//Vanilla biomes
+biome=TaigaHills
+biome=tundra
+biome=taiga
+biome=ice plains
+biome=cold taiga hills
+biome=frozen river
+
+//biomes o'plenty
+biome=ice mountains
+biome=autumn woods
+biome=dead forest
+biome=ominous woods
+biome=snowy coniferous forest
+biome=snowy forest
+
+//starting buildings=
+centre=banditshack

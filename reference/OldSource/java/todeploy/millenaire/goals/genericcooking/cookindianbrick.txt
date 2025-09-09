@@ -1,0 +1,24 @@
+priority=150
+
+buildingTag=brickkiln
+
+//spécifier si l'étiquette ou les phrases pour ce but n'ont pas le code du but lui-même
+//specify if the label and sentences for this goal is not the name of the goal itself
+sentencekey=cookbrick
+labelkey=cookbrick
+
+//L'objet à cuire
+//The item to be cooked
+itemtocook=mudbrick
+
+//Nombre minimum d'objets disponibles à ajouter à une cuisson
+//Minimum number of items that can be added to a cooking
+minimumtocook=8
+
+//Pair d'objets dont les quantités doivent être équilibrées dans le bâtiment central. S'il y a plus du second que du premier, le but est arrêté
+//Pair of items whose quantity to balance in the TH. If there are more of the second than the first, the goal won't trigger
+itemsbalance=mudbrick,paintedbrickwhite
+
+helditems=mudbrick
+
+maxsimultaneousinbuilding=1

@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "millenaire:wolfmeat_raw"
+        },
+        "title": {
+            "translate": "advancements.greathunter.name"
+        },
+        "description": {
+            "translate": "advancements.greathunter.desc"
+        }
+    },
+    "parent": "millenaire:masterfarmer",
+    "criteria": {
+        "greathunter": {
+            "trigger": "greathunter"
+        }
+    }
+}

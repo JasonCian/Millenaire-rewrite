@@ -1,0 +1,12 @@
+buildingTag=lumbermanorchard
+//objets tenus par le villageois
+heldItems=sapling_pistachio
+
+maxsimultaneousinbuilding=1
+
+range=5
+
+priority=2000
+
+sentencekey=plantpistachio
+labelkey=plantpistachio

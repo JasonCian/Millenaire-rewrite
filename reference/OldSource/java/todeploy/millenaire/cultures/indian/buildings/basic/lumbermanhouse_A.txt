@@ -1,0 +1,21 @@
+//Parameters for the building as a whole
+building.length=10
+building.width=11
+building.buildingorientation=3
+building.icon=steelaxe
+building.closetotag=grove,50      
+building.version=2
+building.areatoclear=4
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Lakarhara Ka Ghar
+initial.priority=1000
+initial.male=indian_lumberman
+initial.female=indian_peasantwife
+
+//Parameters for specific upgrades
+upgrade1.priority=100
+
+upgrade2.priority=95
+

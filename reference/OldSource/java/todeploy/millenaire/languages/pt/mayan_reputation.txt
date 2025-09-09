@@ -1,0 +1,15 @@
+
+0;Estranho;Nunca vimos ninguém dessa cor de pele, é melhor termos cuidado.
+4*64;Conhecido;Fique avisado, os nossos guerreiros estão a vigiá-lo.
+8*64;Rosto conhecida; Nossos construtores dizem que você nos trocou pedra de alta qualidade. Nós podemos não precisar assistir a você depois de tudo.
+16*64;Visitante Regular;$name! Os tempos trouxeram-lhe mudanças?
+32*64;Companheiro Mineiro de Pedra; Como nós, parece que você entende como minerar pedras, afinal poderíamos ser amigos.
+64*64;Comerciante Favorito;Olá, $name. Como sempre, os seus bens são bem-vindos.
+2*64*64;Amigo da Aldeia;$name, ajudou-nos verdadeiramente a criar um futuro melhor para todos nós.
+4*64*64;Aliado cheio de recursos; $name, você se tornou um aliado valioso para esta vila por todos os recursos e serviços que nos deu.
+8*64*64;Um de Nós;$name, os nossos xamãs consagraram-no um de nós!
+32*64*64;Líder Natural;Conquistou a confiança e o respeito de todos os Maias. Eles segui-lo-ão para qualquer lado.
+4*32*64*64;Grande Deus de Pedra; Sabemos que você não é deste mundo, mas nos deu montanhas inteiras de pedra. Você deve ser um deus.
+-64;Incómodo;Abandone as nossas terras. Não conseguirá profanar a nossa cultura!
+-4*64;Forasteiro Indesejável;Você trouxe consigo a desordem e a pestilência e sujou a nossa aldeia.
+-16*64;Inimigo Público;Você destruiu a nossa cultura, não o vamos tolerar!

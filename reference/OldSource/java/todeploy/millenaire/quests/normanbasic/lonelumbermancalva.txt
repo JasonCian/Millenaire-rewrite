@@ -1,0 +1,12 @@
+minreputation:0
+chanceperhour:0.2
+maxsimultaneous:2
+step:new
+duration:48
+definevillager:key=startvillager,type=norman/lonelumbermantaiga,forbiddentag=lonelumbermancalva_done
+villager:startvillager
+requiredgood:calva,2
+rewardmoney:12*64
+rewardreputation:256
+settagsuccess:startvillager,lonelumbermancalva_done
+settagfailure:startvillager,lonelumbermancalva_done

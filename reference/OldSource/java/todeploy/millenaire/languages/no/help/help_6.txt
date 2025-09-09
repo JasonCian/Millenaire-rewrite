@@ -1,0 +1,14 @@
+version:3.4
+<darkblue>Skape landsbyer
+
+Du kan skape en landsby du selv velger typen av hvor enn du ønsker med en Tilkallingsstav, en gjenstand du kan få kjøpt i en hvilken som helst by når enn du måtte ha et godt nok omdømme. For å bruke staven så setter du en gullblokk der hvor du vil skape landsbyen, og deretter høyreklikke på blokken med staven. Den følgende skjermen vil la deg velge ønsket type landsby.
+
+<darkblue>Ødeleggelse av en landsby eller enslig bygning
+
+Beboerne av en landsby eller bygning kommer tilbake hver kveld, selv om du måtte ødelegge alle bygningene i landsbyen. For å forhindre dette (hvis du ønsker å bebo bygningene selv, for eksempel) så må du bruke <darkblue>Negasjonsstaven<black>: du vil finne den i kistene i hovedbygningen så snart alle beboerne er døde. Vær obs på at ødeleggelsen av en landsby ikke kan reverseres.
+
+<darkblue>Landsbyer kontrollert av spilleren
+
+Det er mulig å skape en landsby med deg som leder, som du selv kan velge plassering av bygninger. For å gjøre dette så må du enten være erkjent som en leder i landsbyens kultur eller ha fullført skapelsesoppdraget (se del om oppdrag), eller ha økt omdømmet ditt til "naturlig leder" i en landsby og snakke til lederen der. Du vil da få et valg om å skape landsbyer som er kontrollert av spilleren i vinduet til bruk av tilkallingsstaven.
+
+I landsbyer som kontrolleres av spiller så kan du beordre bygging av en ny bygning ved å bruke staven på ønsket plass. Et grensesnitt vil åpne og gi deg valg av hvilken bygning du ønsker. Du kan også tillate eller stoppe forbedringer av allerede eksisterende bygninger gjennom "prosjekter"-panelene. Det er unødvendig å gjøre handel om ressurser med innbyggerne i disse landsbyene - du behøver bare å plassere gjenstandene i kistene.

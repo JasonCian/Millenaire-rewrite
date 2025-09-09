@@ -1,0 +1,14 @@
+0;Étranger;Nous n'avons jamais vu de gens de votre couleur, nous sommes méfiants.
+4*64;Personne connue;Soyez averti, nos guerriers vous tiennent à l'œil.
+8*64;Visage Connu;Nos constructeurs disent que vous nous avez échangé de la roche de grande qualité. Nous n'aurons peut-être pas besoin de vous surveiller après tout.
+16*64;Visiteur fréquent;$name! Les temps apportent-ils le changement ?
+32*64;Ami Mineur de Roche;Comme nous, vous semblez comprendre comment ramasser de la roche, nous pourrions être amis après tout.
+64*64;Marchand préféré;Bonjour, $name. Comme toujours vos marchandises sont les bienvenues.
+2*64*64;Ami du village;$name, vous nous avez vraiment aidés à amener des temps meilleurs.
+4*64*64;Allié plein de ressources;$name, Vous êtes devenu un allié de valeur aux yeux de ce village pour toutes les ressources et les services que vous nous avez rendu.
+8*64*64;Un des nôtres;$name, nos chamanes vous ont déclaré un des nôtres !
+32*64*64;Chef reconnu;$name, mon peuple vous respecte et vous admire. Ils vous suivraient n'importe où.
+4*32*64*64;Grand Dieu de la Roche;Nous savons que vous n'êtes pas de ce monde, mais vous nous avez donné des montagnes entières de roche. Vous devez être un dieu.
+-64;Nuisance;Quittez nos terres. Vous ne profanerez pas notre culture !
+-4*64;Peste;Vous avez amené le désordre et la pestilence sur notre village.
+-16*64;Ennemi public;Vous détruisez notre culture, nous ne le tolèrerons pas !

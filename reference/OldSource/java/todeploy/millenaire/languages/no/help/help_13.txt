@@ -1,0 +1,34 @@
+version:3.4
+<darkblue>Ofte stilte spørsmål
+
+<darkblue>Landsbyboerne snakker på et annet språk enn mitt eget. Er dette normalt?
+
+Dersom du spiller på et annet språk, så vil du "lære" språket ved å samhandle med dem (handel, oppdrag...). Mens du "lærer" språket deres så vil Millénaire gi oversettelser, først for navn på bygninger, deretter typer landsbyboere, og endelig alle landsbyboernes dialoger.
+
+<darkblue>Min normanniske landsby trenger bindingsverk og jeg kan ikke lage dem, hva kan jeg gjøre?
+
+Bindingsverk lages av en snekker ved hjelp av tre. Vent til landsbyen din bygger en "snekkerbolig" og et par flytter inn. Tålmodighet!
+  
+<darkblue>Min japanske landsby trenger takhalm og jeg kan ikke lage det, hva kan jeg gjøre?
+
+Japanerne produserer takhalm fra hvete. Dersom de ikke høster inn nok selv, selg litt til dem for å påskynde produksjonen.
+
+<darkblue>Jeg bygget huset mitt nærme landsbyen og landsbyboerne ødela det mens de bygde noe annet, er dette normalt?
+
+Ja. Landsbyterritoriet tilhører dem, så sjekk kartet for å sjekke grensene. Dersom du ønsker å bygge i landsbyen så kan du kjøpe en tomt fra lederen.
+
+<darkblue>Noen av landsbyboerne har gått bort, vil de komme tilbake?
+
+Ja, landsbyboerne kommer tilbake hver natt, like etter solnedgang. Bare unngå å sove med en gang.
+
+<darkblue>Landsbyboerne mine har ikke barn sammen, eller så vokser ikke barna deres opp. Hva skjer?
+
+Nye barn kan dukke opp når et par er hjemme om natten. På samme vis så vokser barna opp om natten når de er hjemme. Noen typer mat (drikke, søtsaker) øker sjansene for at babyer blir født og andre (brød, korn) veksttakten til barna.
+
+<darkblue>En bygning i landsbyen har blitt skadd, vil de reparere det?
+
+Nei, landsbyboerne vil ikke reparere bygninger (ytterligere oppgradering av skadde bygninger kan imidlertid dekke over de manglende blokkene), mest med tanke på ytelse. Du vil måtte reparere det på egen hånd.
+
+<darkblue>Landsbyen min mangler plass, kan jeg hjelpe til?
+
+Ja, ved å se på landsbykartet kan du se hvilke områder de ikke kan bygge på. Ved å dekke en sjø, elv eller juv med et lag av jord så er det nok til å gjøre området brukbart for landsbyboerne.

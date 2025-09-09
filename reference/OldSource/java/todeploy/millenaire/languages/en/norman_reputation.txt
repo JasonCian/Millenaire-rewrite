@@ -1,0 +1,16 @@
+//* The part before the ";" is the title, after it the description
+
+0;Stranger;We are wary of strangers around here, newcomer. But deal fairly with us and you will find people here hospitable.
+4*64;Familiarity;We have seen you around before, and no chickens seem to have gone missing. Continue this and we will get along.
+8*64;Known Face;You seem to have made a good impression on many of us.
+16*64;Regular Visitor;Welcome, $name! It's good to see you again.
+32*64;Fellow Explorer;Huh, you seem to also be stranded in this world. Well, we can explore this new place together and make a profit!
+64*64;Favourite Trader;Ah, $name! All the village was waiting for your return.
+2*64*64;Friend of the Village;We are not known for trusting people easily, but my good friend $name, you have really shown we can trust you!
+4*64*64;Ally;In this strange world, everyone needs allies. Consider us one, for all of the help you have given us.
+8*64*64;One of Us;It's always a pleasure to see you $name. You may come from distant lands, but you are really one of us now.
+32*64*64;Natural Leader;$name, you have gained the trust and respect of the Normans. They will follow you anywhere.
+16*32*64*64;The Next of Kinniken;
+-64;Nuisance;We are watching you, $name. Be on your guard.
+-4*64;Unpleasant Outsider;You have shown to be a real nuisance around here. Be happy we haven't kicked you out yet.
+-16*64;Public Enemy;Your presence here is barely tolerated. One wrong move and you've had it.

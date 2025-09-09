@@ -1,0 +1,35 @@
+culture.indian=Hindu
+
+villager.indian_boy=Gutt
+villager.indian_girl=Jente
+villager.indian_teenagerMale=Ungdom
+villager.indian_teenagerFemale=Ungdom
+villager.indian_lumberman=Tømmermann
+villager.indian_miner=Gruvearbeider
+villager.indian_pandit=Prest
+villager.indian_peasant=Bonde
+villager.indian_peasantwife=Kvinnelig bonde
+villager.indian_rajputgeneral=Rajputergeneral
+villager.indian_richwoman=Rikere kvinne
+villager.indian_soldier=Rajputersoldat
+villager.indian_villagechief=Landsbyleder
+villager.indian_smith=Smed
+villager.indian_armysmith=Armésmed
+villager.indian_sculptor=Steinskulptør
+villager.indian_panditayin=Prestekone
+villager.indian_raja=
+villager.indian_rani=
+villager.indian_merchant=Kjøpmann
+villager.indian_lonetrader=Enslig handelsmann
+villager.indian_adivasipeasant=Adivasi bonde
+villager.indian_adivasipeasantwife=Adivasi bonde
+villager.indian_sadhu=
+villager.merchant_oriental=Persisk kjøpmann
+villager.merchant_adivasi=Adivasi kjøpmann
+villager.merchant_villagewoman=Landsbyforhandler
+
+shop.townhall=Sentrallager
+shop.forge=Verktøy
+shop.armyforge=Rustninger og våpen
+shop.adivasifarm=Adivasi produkter
+shop.deserttradeoutpost=Dyrebare varer

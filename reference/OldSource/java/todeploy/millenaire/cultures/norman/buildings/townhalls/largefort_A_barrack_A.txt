@@ -1,0 +1,18 @@
+//Parameters for the building as a whole
+building.length=31
+building.width=35
+building.buildingorientation=3
+building.issubbuilding=true
+building.parentbuildingplan=largefort_A6
+building.max=0
+building.icon=normanbroadsword
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Salle des gardes
+initial.priority=900
+initial.male=guard
+initial.male=guard
+initial.prioritymovein=15
+

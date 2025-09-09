@@ -1,0 +1,48 @@
+#From 1.12 onward, block and item names must be in lang files
+#packaged within the jar.
+#A copy is provided in millenaire/languages for the translators' convenience,
+#but will not be used by Minecraft. It will however be copied within the jar
+#when a new Millénaire version is packaged.
+
+#The Translation Gaps calculator however does use the versions in the
+#millenaire/language folder, so you can check your progress without
+#copying it in the jar
+
+
+#Item names
+tile.millenaire.locked_chest.name=Zgradba
+item.millenaire.normanpickaxe.name=Norveški kramp
+item.millenaire.normanaxe.name=Norveška sekira
+item.millenaire.normanshovel.name=Norveška lopata
+item.millenaire.normanhoe.name=Norveška motika
+item.millenaire.normanbroadsword.name=Norveški meč
+item.millenaire.normanhelmet.name=Norveška čelada
+item.millenaire.normanplate.name=Norveška zaščita za trebuh
+item.millenaire.normanlegs.name=Norveške hlače
+item.millenaire.normanboots.name=Norveški škornji
+item.millenaire.rice.name=Riž
+item.millenaire.turmeric.name=Kurkuma
+item.millenaire.vegcurry.name=Vegetarijanski kari
+item.millenaire.chickenmeat.name=Surov piščanec
+item.millenaire.chickencurry.name=Murgh kari
+item.millenaire.brickmould.name=Oblikovana opeka
+item.millenaire.rasgulla.name=Rasgulla
+tile.millenaire.timberframeplain.name=Navaden okvirni tram
+tile.millenaire.timberframecross.name=Navaden prekrižan tram
+tile.millenaire.wetbrick0.name=Vlažna opeka
+tile.millenaire.cookedbrick.name=Pečena opeka
+tile.millenaire.mudbrick.name=Blatna opeka
+item.millenaire.indianstatue.name=Hindijski kip
+item.millenaire.ciderapple.name=Jabolko
+item.millenaire.cider.name=Jabolčnik
+item.millenaire.summoningwand.name=Čarobna palica
+item.millenaire.parchment_normanvillagers.name=Norveški vaščani
+item.millenaire.parchment_normanitems.name=Norveški objekti
+item.millenaire.parchment_normanbuildings.name=Norveške stavbe
+item.millenaire.parchment_normanfull.name=Celoten Norveški Zvitek
+item.millenaire.tapestry.name=Norveška tapiserija
+item.millenaire.raven_amulet.name=Amulet of the Raven
+item.millenaire.dwarves_amulet.name=Amulet of the Dwarves
+item.millenaire.yggdrasil_amulet.name=Amulet of Yddrasil
+item.millenaire.skoll_hati_amulet.name=Amulet of Sköll and Hati
+item.millenaire.parchment_villagescroll.name=Vaški pergament

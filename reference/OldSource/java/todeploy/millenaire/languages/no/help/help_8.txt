@@ -1,0 +1,13 @@
+version:3.4
+<darkblue>Normannerne
+
+Den aller første kulturen som ble introdusert i Millénaire. Normannerne har det største antall typer på landsbyer - landbruks-, militær-, religion- og industriorienterte besetninger, samt gros bourgs (store byer) som har tre grender rundt hver. Normannerne snakker fransk i spillet, men dialogen deres oversettes etterhvert som spilleren "lærer seg" å snakke språket deres med dem.
+
+<darkblue>Unike objekter og blokker
+
+Normannerne produserer mange unike gjenstander:
+-Normanniske verktøy, som er mer effektive enn de laget av diamant (lagd i en smie av en smed).
+-Normannisk sverd og rustning, lagd i et arsenal og som også er bedre enn tilsvarende av diamant.
+-Boudin (pølse), tripes (kalun) og cider (sider), mat som gjenoppretter spillerens helse.
+-Blokker av bindingsverk, en bygningsblokk med to varianter som brukes mye for bygging av avanserte normanniske bygninger, kun produsert av en charpentier (snekker).
+-Normanniske gobeliner, skapt av kvinnen i et slott fra ull (to hvite, en grå, en lysegrå, en svart, en brun) som viser uttak fra Bayeux-teppet.

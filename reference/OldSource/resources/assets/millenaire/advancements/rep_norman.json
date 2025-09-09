@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "millenaire:cider"
+        },
+        "title": {
+            "translate": "advancements.rep_norman.name"
+        },
+        "description": {
+            "translate": "advancements.rep_norman.desc"
+        }
+    },
+    "parent": "millenaire:friendindeed",
+    "criteria": {
+        "rep_norman": {
+            "trigger": "rep_norman"
+        }
+    }
+}

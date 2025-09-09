@@ -1,0 +1,11 @@
+{
+	"forge_marker": 1,
+	"variants": {	
+		"half=bottom": {
+			"model": "millenaire:slab_sandstone_red_carved_bottom"
+		},
+		"half=top": {
+			"model": "millenaire:slab_sandstone_red_carved_top"
+		}
+	}
+}

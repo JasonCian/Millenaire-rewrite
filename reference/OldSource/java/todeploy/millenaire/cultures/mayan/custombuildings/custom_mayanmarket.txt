@@ -1,0 +1,1 @@
+native:Ciwic;gameNameKey:mayanmarket_A0;tag:market;tag:leasure;chest:4-8;sign:1;stall:1-3;radius:10

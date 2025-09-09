@@ -1,0 +1,12 @@
+minreputation:500
+chanceperhour:0.1
+maxsimultaneous:2
+step:new
+duration:100
+definevillager:key=startvillager,type=seljuk/turk_weaver,forbiddentag=lightbluedyeweaver_done
+villager:startvillager
+requiredgood:dye_lightblue,16
+rewardmoney:160
+rewardreputation:320
+settagsuccess:startvillager,lightbluedyeweaver_done
+settagfailure:startvillager,lightbluedyeweaver_done

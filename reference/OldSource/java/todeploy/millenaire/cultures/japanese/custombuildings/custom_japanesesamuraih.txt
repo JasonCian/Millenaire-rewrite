@@ -1,0 +1,1 @@
+native:Heisha;gameNameKey:japanesesamuraih_A0;male:japanese_samurai;female:japanese_bravewoman;chest:1-5;sign:1;moveinpriority:10

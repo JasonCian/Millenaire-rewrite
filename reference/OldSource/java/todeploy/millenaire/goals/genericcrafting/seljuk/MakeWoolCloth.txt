@@ -1,0 +1,15 @@
+buildingTag=woolcrafter
+
+priority=25
+
+duration=25000
+
+heldItems=wool_white,clothes_seljuk_wool
+
+input=wool_white,4
+
+output=clothes_seljuk_wool,1
+
+buildinglimit=clothes_seljuk_wool,4
+
+sound=wool

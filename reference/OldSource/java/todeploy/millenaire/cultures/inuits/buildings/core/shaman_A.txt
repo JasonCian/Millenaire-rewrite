@@ -1,0 +1,22 @@
+//Parameters for the building as a whole
+building.length=9
+building.width=12
+building.areatoclear=3
+building.buildingorientation=3
+building.icon=boneblock
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Angakok Tupiq
+initial.translatedname=name_en,shaman's house
+initial.priority=500
+initial.male=inuit_shaman0
+initial.pathlevel=1
+
+//Parameters for specific upgrades
+upgrade1.priority=50
+
+upgrade2.priority=45
+upgrade2.pathlevel=2
+

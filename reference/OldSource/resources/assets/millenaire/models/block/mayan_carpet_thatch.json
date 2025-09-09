@@ -1,0 +1,7 @@
+{
+    "parent": "block/carpet",
+    "textures": {
+        "particle": "millenaire:blocks/thatch_topbottom",
+        "wool": "millenaire:blocks/thatch_topbottom"
+    }
+}

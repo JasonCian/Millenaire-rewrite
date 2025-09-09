@@ -1,0 +1,16 @@
+version:4.3.0
+<darkblue>Os Bizantinos
+
+Sucessores orgulhosos e merecedores dos Romanos, os Bizantinos produzem vinho e ícones religiosos de requinte. Falam em Grego, mas o seu idioma será traduzido à medida que o jogador o for "aprendendo" comunicando e interagindo com os aldeões.
+
+<darkblue>Objectos e Blocos Nativos
+
+- Os Bizantinos cultivam as uvas e produzem o vinho a partir das mesmas. O jogador poderá solicitar ao chefe da aldeia o conhecimento necessário para cultivar esta planta;
+
+- Utilizam a argila para fabricar os elegantes ladrilhos Bizantinos com os quais preenchem as suas construções;
+
+- O seu domínio da sericicultura (cultivo do bicho-da-seda) permite-lhes produzir a seda sobre a qual pintam os seus Ícones Bizantinos.
+
+<darkblue>Receitas Nativas
+
+- Duas linhas rectas com três unidades de uvas cada uma produzem o vinho.

@@ -1,0 +1,34 @@
+version:3.4
+<darkblue>Frequently Asked Questions
+
+<darkblue>Gli abitanti dei villaggi parlano una lingua diversa dalla mia, Ë normale?
+
+In MillÈnaire tutti gli abitanti dei villaggi parlano la "propria" lingua, come l'Hindi nel caso degli Indiani o del Francese nel caso dei Normanni. Se giocherai con una lingua diversa, "apprenderai" quella lingua interagendo con loro (commercio, missioni...). Man mano che "imparerai" la loro lingua, MillÈnaire fornir‡ traduzioni, prima dei nomi degli edifici, poi dei tipi di abitanti ed, infine, dei dialoghi degli abitanti.
+
+<darkblue>Il mio villaggio Normanno ha bisogno di pannelli di legno e non posso crearli, cosa posso fare?
+
+Queste strutture di legno sono create da un carpentiere, lavorando sul legname raccolto. Aspetta che il tuo villaggio costruisca un casa del carpentierùe e che una coppia inizi ad abitarci. Abbi pazienza!
+  
+<darkblue>Il mio villaggio Giapponese ha bisogno di paglia e non posso produrla, cosa posso fare?
+
+I Giapponesi producono la paglia dal grano. Se non ne raccolgono abbastanza da soli, devi vendere loro un po' di grano per accelerare la produzione.
+
+<darkblue>Ho costruito la mia casa vicino al villaggio e gli abitanti l'hanno distrutta, mentre costruivano un altro edificio, Ë normale?
+
+SÏ, il territorio del villaggio appartiene ai suoi abitanti, controlla la mappa per vedere dove sono i suoi confini. Se vuoi costruire all'interno del villaggio, devi comprare un appezzamento di terra dal capo.
+
+<darkblue>Alcuni abitanti del villaggio sono morti, possono ricomparire?
+
+SÏ, gli abitanti ricompaiono ogni notte, poco dopo il tramonto. Evita solo di dormire subito.
+
+<darkblue>Gli abitanti del mio villaggio non hanno figli oppure i loro figli non crescono, cosa sta succedendo?
+
+I nuovi bambini possono comparire quando una coppia Ë a casa di notte. In maniera simile, crescono di notte quando sono a casa. Alcuni alimenti (bevande, dolci) aumentano la probabilit‡ di nascita dei bambini, mentre altri (pane, cereali) il tasso di crescita dei bambini.
+
+<darkblue>Un edificio nel villaggio Ë stato danneggiato, verr‡ riparato?
+
+No, gli abitanti di un villaggio non riparano le costruzioni (sebbene, a volte, ulteriori aggiornamenti possono sostituire i blocchi mancanti), soprattutto per questioni di performance. Dovrai ripararlo da solo.
+
+<darkblue>Al mio villaggio serve pi˘ spazio, posso dare una mano?
+
+SÏ, cercando nella mappa del villaggio le aree in cui non si puÚ costruire. Ricoprendo di strati di terra un lago, un fiume o un canyon, queste aree potranno essere sfruttate dagli abitanti del villaggio per costruire nuovi edifici.

@@ -1,0 +1,13 @@
+building.length=10
+building.width=7
+building.mindistance=0.6
+building.icon=sugarcane
+building.areatoclear=3
+building.max=2
+
+initial.startlevel=-1
+initial.nativename=Şeker Kamışı
+initial.priority=1000
+initial.pathwidth=1
+initial.tag=sugarplantation
+initial.tag=nopaths

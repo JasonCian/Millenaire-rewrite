@@ -1,0 +1,56 @@
+
+culture.norman=normann
+
+//Norman:
+villager.abbot=
+villager.carpenter=
+villager.cattleFarmerMale=Marhapásztor
+villager.cattleFarmerFemale=Marhapásztor
+villager.boy=Fiú
+villager.girl=Lány
+villager.teenagerMale=Ifjú
+villager.teenagerFemale=Hajadon
+villager.farmer=
+villager.merchant_viking=
+villager.merchant_weapon=
+villager.merchant_plant=
+villager.merchant_art=
+villager.merchant_wool=
+villager.merchant_food=Ételkereskedő
+villager.guard=
+villager.guildmaster=
+villager.knight=Lovag
+villager.lady=
+villager.lumberman=Favágó
+villager.merchant=
+villager.miner=
+villager.monk=Monk
+villager.priest=
+villager.seneschal=
+villager.smith=Kovács
+villager.wife=Falusi asszony
+
+villager.lonelumberman=Favágó
+villager.lonelumbermantaiga=Favágó
+villager.loneminer=
+villager.lonemonk=Szerzetes
+villager.loneabbot=
+villager.alchemist=
+villager.alchemistassistant=
+villager.alchemistapprentice=
+villager.bandit=
+villager.armoredbandit=
+villager.felonbaron=
+villager.felonsoldier=
+
+
+
+shop.townhall=Központi üzlet
+shop.forge=Szerszámok
+shop.armoury=Páncélok és fegyverek
+shop.bakery=Kenyér
+shop.cattlefarm=Juhtermékek
+shop.pigfarm=Sertéstermékek
+shop.sheepchickenfarm=Baromfitermékek
+shop.tavern=Szesz
+shop.lumberman=Almák almabornak

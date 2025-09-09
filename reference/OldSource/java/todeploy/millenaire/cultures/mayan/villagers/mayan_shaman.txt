@@ -1,0 +1,18 @@
+native_name=Aj K'in 
+gender=male
+familyNameList=high_caste_family_names
+firstNameList=men_names
+tag=religious
+tag=performssacrifices
+icon=mushroomred
+
+
+texture=textures/entity/mayan/mayan_shaman0.png
+texture=textures/entity/mayan/mayan_shaman1.png
+
+goal=gorest
+goal=gotendsacrifices
+goal=gosocialise
+goal=chat
+goal=performpujas
+goal=bepujaperformer

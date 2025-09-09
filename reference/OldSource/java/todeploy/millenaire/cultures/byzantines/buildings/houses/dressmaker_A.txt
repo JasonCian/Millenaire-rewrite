@@ -1,0 +1,27 @@
+building.length=22
+building.width=15
+building.icon=shears
+building.max=1
+building.areatoclear=3
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Módisros
+initial.priority=100
+initial.male=seamster_byzantine
+initial.female=seamstress_byzantine
+initial.prioritymovein=20
+//requires either sheep farm or silk farm
+//initial.requiredvillagetag=clothes
+initial.shop=dressmaker
+
+upgrade1.priority=200
+
+upgrade2.priority=200
+upgrade2.pathlevel=1
+//enables silk clothes, medium + large icons
+upgrade2.tag=loom
+
+upgrade3.priority=100
+
+upgrade4.priority=100

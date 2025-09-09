@@ -1,0 +1,1 @@
+native:Elevage Bovin;gameNameKey:cattlefarm_A0;male:cattleFarmerMale;female:cattleFarmerFemale;moveinpriority:10;shop:cattlefarm;tag:cattle;tag:Oven;chest:1-5;sign:1;spawn:2-4;craft:1;spawnType:Cow;radius:10

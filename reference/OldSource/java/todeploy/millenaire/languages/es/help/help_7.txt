@@ -1,0 +1,10 @@
+
+version:3.4
+<darkblue>Misiones
+Las misiones son tareas adicionales que puedes realizar para los aldeanos. Cuando haya una misión disponible, se mostrará encima de la cabeza del aldeano entre corchetes, por ejemplo: "<darkblue>[¡Sediento!]<black>." Haz click derecho sobre él para ver una descripción de la tarea y poder aceptarla o rechazarla. Al completar una misión se te recompensará con dinero, reputación u objetos. Algunas misiones requieren que tengas un buen nivel de reputación con la aldea para estar disponibles.
+Para saber qué misiones has aceptado y lo que tienes que hacer, pulsa la tecla "M".
+<darkblue>Misión de creación
+Esta colección especial incluye varias misiones y tiene dos capítulos independientes, centrándose en las culturas normanda e india. La primera misión de cada capítulo te será asignada por un aldeano indio o normando una vez que hayas alcanzado el nivel de reputación "Amigo de la aldea" (la misión empieza de forma aleatoria, así que puede pasar un tiempo hasta que la misión esté disponible).
+Ambas misiones requieren que encuentres un edificio aislado. Debes explorar hasta que lo encuentres; ten cuidado porque son muy raros. A diferencia de otros edificios aislados, estos edificios aparecen cuando pulsas la tecla "V".
+Esta misión especial es, en esencia, un set de numerosas misiones divididas en dos capítulos independientes centrados en las culturas normanda e india. La misión inicial de cada capítulo te será asignada por un aldeano indio o normando una vez que hayas alcanzado el nivel de reputación "Amigo de la aldea" (la misión empieza de forma aleatoria, así que puede pasar un tiempo hasta que la misión esté disponible).
+Ambas misiones requieren que encuentres un edificio aislado. Debes explorar hasta que lo encuentres; ten cuidado porque son muy raros. A diferencia de otros edificios aislados, estos edificios aparecen cuando pulsas la tecla "V".

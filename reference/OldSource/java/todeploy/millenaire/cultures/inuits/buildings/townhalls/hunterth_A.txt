@@ -1,0 +1,28 @@
+//Parameters for the building as a whole
+building.length=18
+building.width=17
+building.areatoclear=4
+building.buildingorientation=3
+building.max=0
+building.icon=bone
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Afuniaqti Tupiq
+initial.translatedname=name_en,hunter's house
+initial.priority=1000
+initial.male=inuit_hunterth
+initial.female=inuit_wife
+initial.shop=inuittownhall
+initial.tag=patrol
+initial.signs=0,2,1,3,5,7,8,6,4
+
+
+//Parameters for specific upgrades
+upgrade1.priority=700
+
+upgrade2.priority=600
+upgrade2.rebuildpath=true
+
+upgrade3.priority=500
+upgrade3.rebuildpath=true

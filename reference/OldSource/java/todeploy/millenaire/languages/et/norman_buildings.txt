@@ -1,0 +1,71 @@
+﻿
+abbey_A0=Klooster
+archives_A0=Arhiivid
+armoury_A0=Sepikoda  (Relvastus)
+bakery_A0=Pagaritöökoda
+carpenterhouse_A0=Puusepa maja
+cattlefarm_A0=Veise farm
+church_A0=Kirik
+church_A2=Kirik
+farm_A0=Farm
+farm_B0=Farm
+forge_A0=Sepikoda (Tööriistad)
+fort_A0=Kindlus
+fort_A_lefttower_A0=Vahitorn
+fort_A_righttower_A0=Vahitorn
+grove_A0= Puistik
+grove_B0= Puistik
+grove_C0= Puistik
+guardhouse_A0=Valvuri maja
+guesthouse_A0=Väike vahetus maja
+guildhouse_A0=Gildi maja
+inn_A0=Külaliste maja
+lumbermanhut_A0=Puuraiduri hütt
+lumbermanhut_B0=Puuraiduri hütt
+manor_A0=Mõis
+market_A0=Turg
+pigfarm_A0=Sea farm
+playerestate_A0=Väga suur maja
+playerhugefield_A0=Väga suur ala
+playerlargefield_A0=Suur ala
+playerlargehouse_A0=Suur maja
+playersmallfield_A0=Väike ala
+playersmallhouse_A0=Väike maja
+presbytery_A0=Presbyteerio
+quarry_A0=Kaevandus
+sheepchickenfarm_A0=Lamba ja kana farm
+tavern_A0=Kõrts
+watchtower_A0=Vahitorn
+fountain_A0=Purskkaev
+largefountain_A0=Suur purskkaev
+well_A0=Kaev
+alchemyworkshop_A0=Akleemiku töökoda
+townhall_A0=Linna hall
+townhallagricole_A0=Linna halli agricole
+
+playerfort_A0=Loss
+anomalyone_A0=Anomiaalia 1
+anomalytwo_A0=Anomaalia 2
+anomalythree_A0=Anomaalia 3
+
+
+lonelumbermanhut_A0=Üksik puuraiduri hütt
+lonelumbermantaigahut_A0=Üksik puuraiduri taiga hütt
+lonemine_A0=Üksik kaevandus
+loneabbey_A0=Üksik klooster
+ruinedfarm_A0=Hävitatud farm
+ruinedfarm_B0=Hävitatud farm
+ruinedfarm_C0=Hävitatud farm
+banditlair_A0=Bandiidi koobas
+alchemisttower_A0=Alkeemiku torn
+bandittower_A0=Bandiidi torn
+abandonedmill_A0=Mahajäetud saeveski
+abandonedmine_A0=Mahajäetud kaevandus
+abandonedtower_A0=Lammutatud torn
+loneinn_A0=Üksik  kõrts
+lonemill_A0=Üksik vesiveski
+feloncastle_A0=Kurjiategija kndlus
+pantheon_A0=Pantheon
+
+gifthouse_a0=Kingitud maja
+

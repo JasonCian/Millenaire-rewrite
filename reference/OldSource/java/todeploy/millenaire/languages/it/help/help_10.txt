@@ -1,0 +1,14 @@
+
+versione: 4.8.0
+<darkblue>I Maya
+Dallo Yucatan, I Maya si distinguono per la loro architettura in pietra con decorazioni in oro e vivono in centri agricoli, religiosi o militari. Parlano la lingua Maya, ma i dialoghi sono tradotti quando il giocatore "impara" la lingua interagendo con loro.
+<darkblue>Blocchi e oggetti unici
+-Coltivano mais. Il giocatore può chiedere al capovillaggio come coltivare questo cereale.
+-Gli artigiani dell'ossidiana producono armi e utensili in ossidiana, che sono fragili ma facilmente incantabili.
+-I loro scultori creano blocchi decorativi dorati, usando l'oro fornito dal giocatore.
+-Scolpiscono anche bassorilievi rappresentanti divinità Maya.
+<darkblue>Ricette specifiche
+-Tre mais in linea producono un wah (una specie di tortilla).
+-Due mais in linea con uno pollo crudo nel mezzo producono un masa (tortilla con pollo).
+-Tre granoturco in fila fa un wah(una specie di tortilla).
+-Due granoturco in una linea con nel mezzo un pollo crudo fa un masa(tortilla con pollo).

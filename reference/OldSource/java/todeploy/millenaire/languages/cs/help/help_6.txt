@@ -1,0 +1,9 @@
+
+verze:3.4
+<darkblue>Spawnovani vesnicanu
+S Hulkou vyvolani muzete vytvorit vesnici vasi volby, kterou muzete koupit ve vesnici pokud mate dostatecne velkou reputaci. Hulku pouzijete tim ze polozite zlaty block kde budete chtit vytvorit vesnici a kliknete na nej pravym tlacitkem s hulkou v ruce. Nasledne budete moct na obrazovce vybrat typ vasi vesnice.
+<darkblue>Zniceni vesnice nebo izolovane budovy.
+Obyvatele vesnice nebo budovy se kazdy vecer respavnuji ikdyz jim znicite vsechny budovy ve vesnici. Pokud tomu chcete zabranit (aby jste mohli bydlet ve vlastni budove) musite pouzit <darkblue>Hulku Vyjednavani<black>: lze ji nalezt v truhle ve vesnici jakmile jsou vsichni obyvatele mrtvy. Berte na vedomi ze zniceni vesnice je nezvratna vec.
+<darkblue>Vesnice vedene hracem
+Je mozne vytvorit vesnici s tim ze budete jejim vudcem, v tomto pripade si muzete vybirat lokaci budov. Aby jste toto mohli udelat tak musite byt zvolen vudcem ve vesnici nebo musite splnit Quest Stvoreni (podivejte se do sekce ukolu) nebo vase reputace musi byt "prirozeny vudce" ve vesnici a nasledne si promluvte s vudcem. Uvidite moznost vytvorit vesnici vedene hracem v Hulce vyvolani.
+Ve vlastni vesnici si muzete vybrat ktere nove budovy se budou stavet a kde, pouzitim hulky na vybrane lokaci. Otevre se vam rozhrani ve kterem si budete moct zvolit typ budovy, take muzete povolit nebo zastavit vylepseni na jiz existujich budovach v panelu "projekty". Nemusite s vesnicanama obchodovat, staci predmety vlozit do truhly.

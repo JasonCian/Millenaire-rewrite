@@ -1,0 +1,20 @@
+{
+    "display": {
+        "icon": {
+            "item": "millenaire:byzantine_stone_tiles"
+        },
+        "title": {
+            "translate": "advancements.complete_byzantines.name"
+        },
+        "description": {
+            "translate": "advancements.complete_byzantines.desc"
+        },
+        "frame": "goal"
+    },
+    "parent": "millenaire:leader_byzantines",
+    "criteria": {
+        "complete_byzantines": {
+            "trigger": "complete_byzantines"
+        }
+    }
+}

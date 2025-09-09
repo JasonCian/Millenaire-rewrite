@@ -1,0 +1,9 @@
+building.length=10
+building.width=12
+building.max=0
+building.icon=sapling
+
+initial.startlevel=-1
+initial.nativename=Bosquet Isolé
+initial.pathwidth=1
+initial.tag=grove

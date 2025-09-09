@@ -1,0 +1,6 @@
+{
+	"multipart": [
+        {   "apply": { "model": "millenaire:painted_brick_magenta" }
+        }        
+    ]
+}

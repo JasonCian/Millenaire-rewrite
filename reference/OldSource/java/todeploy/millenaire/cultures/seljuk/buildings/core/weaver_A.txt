@@ -1,0 +1,21 @@
+building.length=20
+building.width=11
+building.buildingorientation=0
+building.areatoclear=4
+building.icon=wallcarpetsmall
+
+initial.startlevel=-1
+initial.nativename=Yün Ustalığı
+initial.priority=400
+initial.male=turk_weaver
+initial.female=turk_weaverwife
+initial.tag=woolcrafter
+initial.shop=weaver
+
+upgrade1.priority=120
+upgrade1.pathlevel=1
+
+upgrade2.priority=95
+
+upgrade3.priority=90
+upgrade3.pathlevel=2

@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:concrete"
+        },
+        "title": {
+            "translate": "advancements.medievalmetropolis.name"
+        },
+        "description": {
+            "translate": "advancements.medievalmetropolis.desc"
+        }
+    },
+    "parent": "millenaire:amateurarchitect",
+    "criteria": {
+        "medievalmetropolis": {
+            "trigger": "medievalmetropolis"
+        }
+    }
+}

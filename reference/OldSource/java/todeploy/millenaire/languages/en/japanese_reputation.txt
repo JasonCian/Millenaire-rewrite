@@ -1,0 +1,12 @@
+//* The part before the ";" is the title, after it the description
+
+0;Stranger;We don't trust strangers easily. Stay on your best behaviour.
+4*64;Known Face;We have seen you around before but that does not mean we trust you.
+16*64;Regular visitor;How have your travels been $name?
+64*64;Favourite Trader;Ah, $name, you have come a long way in the eyes of the villagers.
+2*64*64;Friend of the village;Hello friend, What can we do for you today?
+8*64*64;One of us;Hello, $name, we have been awaiting your return with great anticipation.
+32*64*64;Natural leader;$name, you have gained the trust and respect of my people. They will follow you anywhere. 
+-64;Nuisance;Oh it is you, what do you want?
+-4*64;Unpleasant outsider;Leave our village now swine!
+-16*64;Public enemy;How dare you show yourself here. Face your punishment!

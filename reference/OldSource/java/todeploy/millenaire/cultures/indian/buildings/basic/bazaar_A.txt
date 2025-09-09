@@ -1,0 +1,32 @@
+//Parameters for the building as a whole
+building.length=19
+building.width=10
+building.areatoclear=6
+building.buildingorientation=3
+building.farfromtag=leasure,30
+building.icon=purse
+building.version=2
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Bazaar
+initial.priority=600
+initial.tag=market
+initial.tag=leasure
+
+//Parameters for specific upgrades
+upgrade1.priority=60
+
+upgrade2.priority=55
+upgrade2.rebuildpath=true
+
+upgrade3.priority=50
+upgrade3.pathlevel=1
+upgrade3.rebuildpath=false
+
+upgrade4.priority=45
+
+upgrade5.startlevel=-2
+upgrade5.priority=40
+upgrade5.rebuildpath=true
+

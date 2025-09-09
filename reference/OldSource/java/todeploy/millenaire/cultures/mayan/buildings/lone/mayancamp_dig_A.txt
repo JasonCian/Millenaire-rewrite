@@ -1,0 +1,17 @@
+//Parameters for the building as a whole
+building.length=30
+building.width=31
+building.buildingorientation=3
+building.issubbuilding=true
+building.parentbuildingplan=mayancamp_A0
+building.max=0
+building.startinggood=ghasttear,1.0,1,0
+
+building.travelbook_display=false
+building.icon=mayanmace
+
+//Parameters for initial construction
+initial.startlevel=-9
+initial.nativename=Ajaw Cah
+initial.exploretag=explored_mayandigsite
+

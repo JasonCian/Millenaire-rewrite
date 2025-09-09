@@ -1,0 +1,18 @@
+﻿version:4.8.0
+<darkblue>Maya
+
+Från Yucutan, Maya kan identifieras av deras sten byggnader med guld dekorationer och jordbruk, religös och militär baserad. De pratar Maya, men deras dialog blir översatt ju mer spelaren "lär" sig deras språk.
+
+<darkblue>Unika objekt och block
+
+-De gror majs. Spelaren kan fråga ledaren om de kan lära spelaren att skörda majs.
+-De tillagar mah och masas från majs och kyckling - som de fyller tortillas med.
+-De gror kakao och gör cacauhaa från kakao, en god choklad dryck.
+-Obsidian hantverkarna gör vapen och verktyg från obsidian som är ömtåliga men lätta att förtrolla. 
+-Deras hantverkare gör dekorativa block från guld tackor som de får från spelaren.
+-De gör även guda statyer som representerar Maya gudarna.
+
+<darkblue>Specifika recept
+
+-Tre majs i en rad gör en wah (en slags tortilla).
+-Två majs i en rad med rå kyckling ger en masa (tortilla med kyckling).

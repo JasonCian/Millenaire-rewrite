@@ -1,0 +1,1 @@
+native:Presbytère;gameNameKey:presbytery_A0;male:Priest;chest:1-2;sign:1;moveinpriority:10

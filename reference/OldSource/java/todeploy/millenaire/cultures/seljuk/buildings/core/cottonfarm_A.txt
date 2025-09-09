@@ -1,0 +1,24 @@
+building.length=18
+building.width=12
+building.buildingorientation=2
+building.max=1
+building.areatoclear=3
+
+building.icon=cotton
+
+initial.startlevel=-1
+initial.nativename=Pamuk Üretimi
+initial.priority=500
+initial.male=turk_cottonfarmer
+initial.female=turk_peasantwife
+initial.tag=cotton
+initial.villagetag=cotton_built
+
+upgrade1.priority=100
+upgrade1.rebuildpath=true
+
+upgrade2.priority=75
+upgrade2.pathlevel=1
+
+upgrade3.priority=70
+

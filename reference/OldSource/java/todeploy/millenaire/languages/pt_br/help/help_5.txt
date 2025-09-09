@@ -1,0 +1,29 @@
+version:3.4
+<darkblue>Combate e Invasões
+
+O Millénaire não é sempre um mod pacífico: é possível combater com os aldeões, e as próprias aldeias invadem-se umas às outras; os monstros atacam as aldeias e certas construções isoladas encontram-se ocupadas por bandidos. Em qualquer circunstância, os princípios são os mesmos: <darkblue>os aldeões não são invulneráveis a ataques directos (corpo-a-corpo, flechas e poções)<black>. Não são, no entanto, afectados pelo fogo, por quedas ou pelos cactos. Esta excepção existe para evitar que o jogador os ataque sem que eles se apercebam da origem dos ataques.
+
+Os diferentes tipos de aldeões poderão ser mais fortes ou mais fracos, mas sobretudo o equipamento que possuírem poderá torná-los muito mais perigosos.
+
+<darkblue>Ressurreição dos Aldeões
+
+Qualquer aldeão que morra, quer nas mãos do jogador ou de um monstro, apenas morre temporariamente. Assim que cai a noite, todos os aldeões renascem na sua habitação (embora percam o seu equipamento). Afinal de contas, o jogador também ressuscita...
+
+<darkblue>Atacar um Aldeão
+
+Poderá a qualquer momento atacar um aldeão. Os restantes homens da aldeia virão em auxílio do aldeão e atacarão o jogador. Se conseguir matar todos os aldeões de uma aldeia ou construção isolada, os seus cofres abrir-se-ão e poderá retirar o seu conteúdo.
+
+
+
+<darkblue>Bandidos
+
+Estes aldeões que habitam certas construções isoladas atacá-lo-ão sem aviso se se aproximar. A sua reputação com a cultura dos bandidos não baixará se os matar. Tal como os aldeões normais, eles ressuscitarão ao cair da noite - verifique a secção "<darkblue>Criar e Destruir Aldeias<black>" para saber como evitá-lo.
+
+<darkblue>Invasões entre Aldeias
+
+As aldeias do Millénaire detêm relações positivas ou negativas com as outras aldeias próximas. Estas relações modificam-se aleatoriamente e podem ser influenciadas pelo jogador através do chefe de cada uma destas aldeias. Se as relações forem demasiado más e uma das aldeias tiver soldados suficientes, esta poderá lançar uma invasão contra a outra aldeia. O jogador será avisado com uma mensagem. Durante uma invasão, os soldados da aldeia invasora tentarão matar os homens da aldeia atacada. Se o conseguirem, saquearão uma parte dos recursos da aldeia. O jogador pode ajudar qualquer um dos lados durante uma invasão.
+Pode ser útil encorajar uma aldeia da qual esteja a tomar conta a atacar os seus vizinhos, de forma a aumentar o seu stock de materiais. Da mesma forma, o jogador poderá manipular as invasões para que possa pilhar as aldeias atacadas (beneficiando da morte dos seus defensores), ou das aldeias invasoras, aproveitando a ausência e morte dos seus soldados.
+
+<darkblue>Contratar um Aldeão
+
+Para o auxiliar em combate, poderá contratar certos aldeões, tais como os soldados ou os lenhadores. Eles segui-lo-ão e combaterão os seus inimigos ao seu lado.

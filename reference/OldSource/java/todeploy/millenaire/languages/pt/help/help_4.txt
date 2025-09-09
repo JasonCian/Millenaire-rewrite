@@ -1,0 +1,10 @@
+version:3.4
+<darkblue>Expansão das Aldeias
+
+As aldeias começam pequenas, em torno de um edifício central (de tipo variável: forte, palácio, mosteiro, etc., também conhecidos como "prefeituras" ou "centros de aldeia") e com algumas casas ou outras construções. O objectivo fulcral dos aldeões é expandir a sua aldeia, escolhendo novas construções para edificar e actualizando as existentes. Para isso irão necessitar de materiais - alguns poderão ser produzidos nas próprias aldeias (os lenhadores obtêm madeira, os pedreiros a pedra, etc.), mas outros necessitarão de ser comprados ao jogador. Os materiais necessários para cada projecto em curso são listados na prefeitura; poderá ajudar começando por vender-lhes esses mesmos recursos.
+
+A população da aldeia também se expande - de noite, os casais de aldeões poderão ter novos filhos. Uma vez crescidos, estes tomarão conta das casas e locais de trabalho livres, se existentes, e tornar-se-ão adultos.
+
+O desenvolvimento das aldeias termina, regra geral, de duas maneiras: ou quando a aldeia completa todos os seus projectos de construção, ou quando não têm mais espaço suficiente para os restantes novos projectos. O último caso poderá ser remediado de duas maneiras: ou verificando no mapa se existe terreno na área da aldeia onde não se pode construir (e tapando ou nivelando este terreno), ou aumentando a área das aldeias no ficheiro de configuração do Millénaire.
+
+Por vezes, as aldeias necessitarão de um determinado material que não lhe é possível obter, como por exemplo as armações de madeira dos Normandos ou Japoneses. Nestas situações, deverá aguardar até que a aldeia construa a oficina necessária para a produção do material em questão e que a mesma seja populada por um jovem.

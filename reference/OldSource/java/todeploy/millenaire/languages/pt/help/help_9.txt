@@ -1,0 +1,21 @@
+version:3.4
+<darkblue>Os Hindus
+
+São oriundos do norte da Índia e vivem em três tipos de aldeias: militares em redor de uma fortaleza, agrícolas centradas na residência do chefe, e reais em redor de um palácio, estas últimas com aldeolas secundárias adicionais, ligadas a si. Falam na língua hindu, mas o seu idioma será traduzido à medida que o jogador o for "aprendendo" comunicando e interagindo com os aldeões.
+
+
+
+<darkblue>Objectos e Blocos Nativos
+
+- Os Hindus cultivam o arroz e o açafrão-da-Índia. O jogador poderá solicitar ao chefe da aldeia o conhecimento necessário para cultivar estas plantas;
+
+- Fabricam também tijolos em terra, simples ou cozidos, que se conseguem deixando secar ao sol os tijolos húmidos feitos a partir dos moldes adquiridos nas aldeias;
+
+- O escultor cria os baixos-relevos hindus, representativos das divindades da cultura;
+- Produzem as deliciosas rasgullās, doçaria feita a partir da cana de açúcar.
+
+<darkblue>Receitas Nativas
+
+- Uma unidade de arroz e uma de açafrão-da-Índia produzem o caril vegetariano;
+
+- Uma unidade de arroz, outra de açafrão-da-Índia e outra de frango cru produzem o caril de frango.

@@ -1,0 +1,17 @@
+{
+	"forge_marker": 1,
+	"variants": {
+		"half=bottom,stable=false": {
+			"model": "millenaire:pathsnow_bottom"
+		},
+		"half=top,stable=false": {
+			"model": "millenaire:pathsnow_top"
+		},
+		"half=bottom,stable=true": {
+			"model": "millenaire:pathsnow_bottom"
+		},
+		"half=top,stable=true": {
+			"model": "millenaire:pathsnow_top"
+		}
+	}
+}

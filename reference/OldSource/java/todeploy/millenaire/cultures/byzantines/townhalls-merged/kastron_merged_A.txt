@@ -1,0 +1,47 @@
+//empty shell for tweaks & changes, as building and subbuildings depend on each others progress
+
+building.length=34
+building.width=38
+building.areatoclear=5
+building.max=0
+building.icon=purse
+
+initial.startlevel=-1
+initial.nativename=Kastron
+
+travelbook_display=False
+
+//Sequence of the plans
+//building plan - equivalent of the TH
+
+//a0 - kastron_a0
+//a1 - kastron_a1
+//a2 - kastron_a_inn_a0
+//a3 - kastron_a_inn_a1
+//a4 - kastron_a_leftmarket_a0
+//a5 - kastron_a_leftmarket_a1
+//a6 - kastron_a_rightmarket_a0
+//a7 - kastron_a_rightmarket_a1
+//a8 - kastron_a2
+//a9 - kastron_a3
+//a10 - kastron_a_inn_a2
+//a11 - kastron_a_inn_a3
+//a12 - kastron_a4
+//a13 - kastron_a5
+//a14 - kastron_a6
+//a15 - kastron_a7
+//a16 - kastron_a8
+//a17 - kastron_a_leftmarket_a2
+//a18 - kastron_a_leftmarket_a3
+//a19 - kastron_a_leftmarket_a4
+//a20 - kastron_a_rightmarket_a2
+//a21 - kastron_a_rightmarket_a3
+//a22 - kastron_a_rightmarket_a4
+//a23 - kastron_a8
+//a24 - kastron_a9
+//a25 - kastron_a_inn_a4
+//a26 - kastron_a_leftmarket_a5
+//a27 - kastron_a_leftmarket_a6
+//a28 - kastron_a_rightmarket_a5
+//a29 - kastron_a_rightmarket_a6
+//a30 - kastron_a_archives_a0

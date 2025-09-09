@@ -1,0 +1,1 @@
+native:Módisros;gameNameKey:dressmaker_A0;male:seamster_byzantine;female:seamstress_byzantine;craft:1;chest:1-5;sign:1;shop:dressmaker;tag:loom;moveinpriority:20

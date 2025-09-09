@@ -1,0 +1,29 @@
+//Note pour les utilisateurs de Windows: si vous voyez le fichier entier sur une seule ligne, ouvrez-le avec PSPAd ou UltraEdit plutôt que Notepad
+
+//Note to Windows users: if you see the entire file in one line, open it using PSPad or UltraEdit instead of Notepad
+
+priority=1
+
+//en/in millisecondes
+duration=5000
+
+//spécifier si l'étiquette ou les phrases pour ce but n'ont pas le code du but lui-même
+//specify if the label and sentences for this goal is not the name of the goal itself
+sentencekey=makepath
+labelkey=makepath
+
+//objets tenus par le villageois
+heldItems=dirt,gravel,pathgravel
+
+//chaque action consome tous les objets "input" et produit tous les "output"
+//each action will require and use all the inputs and produce all the outputs
+output=pathgravel,8
+
+//s'il y a plus d'objets dans le batiment que ça, arrêter le but
+//if more than that number of item is present in building, stop goal
+townhalllimit=pathgravel,128
+buildinglimit=dirtwall,64
+
+//son à jouer quand un objet est fabriqué
+//sound to play once an object is done
+sound=earth

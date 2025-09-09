@@ -1,0 +1,15 @@
+priority=50
+
+requiredTag=slaughtersheepseljuk
+
+sentencekey=slaughteranimal
+labelkey=slaughtersheep
+
+animalkey=sheep
+
+bonusitem=leather,50
+bonusitem=bone,100
+bonusitem=mutton,100
+
+
+maxsimultaneoustotal=1

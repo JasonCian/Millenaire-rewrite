@@ -1,0 +1,1 @@
+native:Kalyva Xylokópou;gameNameKey:woodcutter_A0;male:lumberman_byzantine;female:wife_byzantine;chest:1-5;sign:1;moveinpriority:10

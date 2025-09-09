@@ -1,0 +1,14 @@
+//Parameters for the building as a whole
+building.length=9
+building.width=12
+building.buildingorientation=3
+building.mindistance=0.6
+building.icon=sapling_pine
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Kodachi
+initial.priority=1000
+initial.pathwidth=1
+initial.tag=grove
+

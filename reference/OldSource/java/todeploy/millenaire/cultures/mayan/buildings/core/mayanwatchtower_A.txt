@@ -1,0 +1,19 @@
+//Parameters for the building as a whole
+building.length=9
+building.width=9
+building.buildingorientation=0
+building.max=2
+building.mindistance=0.8
+building.farfromtag=patrol,50
+building.icon=torch
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Cha'an Ka'nal
+initial.priority=900
+initial.tag=patrol
+
+//Parameters for specific upgrades
+upgrade1.priority=90
+upgrade1.pathlevel=1
+

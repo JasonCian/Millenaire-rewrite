@@ -1,0 +1,17 @@
+chanceperhour:1               
+maxsimultaneous:1
+definevillager:key=localshaman,requiredtag=fallenking_villageshaman
+forbiddenplayertag:fallenking_4_newomens
+requiredplayertag:fallenking_3_thecamp
+
+step:new
+villager:localshaman
+duration:1048
+
+step:new
+villager:localshaman
+duration:1048
+requiredgood:ghasttear,4
+setplayertagsuccess:fallenking_4_newomens
+rewardreputation:2*64
+setactiondatasuccess:fallenkingqueststatus,4

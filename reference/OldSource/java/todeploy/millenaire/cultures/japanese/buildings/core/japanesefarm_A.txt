@@ -1,0 +1,24 @@
+//Parameters for the building as a whole
+building.length=20
+building.width=14
+building.max=2
+building.mindistance=0.5
+building.icon=wheat
+
+//Parameters for initial construction
+initial.startlevel=-2
+initial.nativename=Noujou Nojo
+initial.priority=1000
+initial.male=japanese_farmer
+initial.female=japanese_farmwife
+
+//Parameters for specific upgrades
+upgrade1.priority=100
+
+upgrade2.priority=95
+
+upgrade3.priority=90
+upgrade3.pathlevel=1
+
+upgrade4.priority=85
+

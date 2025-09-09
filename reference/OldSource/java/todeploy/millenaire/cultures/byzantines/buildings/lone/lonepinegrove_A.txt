@@ -1,0 +1,9 @@
+building.length=7
+building.width=7
+building.icon=sapling_pine
+
+initial.startlevel=-1
+initial.nativename=Álsos Peukon
+initial.pathwidth=1
+initial.tag=grove
+initial.pathlevel=1

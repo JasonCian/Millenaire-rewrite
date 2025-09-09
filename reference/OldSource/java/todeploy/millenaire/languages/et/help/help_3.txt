@@ -1,0 +1,34 @@
+﻿version:3.4
+<darkblue>Reputatsioon ja küla juht
+
+Iga küla Millenairis on erineval arvamusel sinust. Sa oled neutraalne alguses ja see muutub sinu käitumistega. See reputatsioon on väga tähtis: paljud auhinnad ja tegevused on ainult võimalikud hea reputatsiooniga.aga kui sinu reputatsioon läheb liiga halvaks, siis külaelanikud ei kauple enam sinuga.Sa saad vaatada oma reputatsiooni kui räägid (vajuta tema peale) (<darkblue>parema hiireklõpsuga<black>) küla juhiga.
+
+Põhiline viis enda reputatsiooni muuta on külaga kauplemine. Nii ostine kui ka müümine annavad sulle reputatsiooni hindade järgi. Sa saad ka enda reputatsiooni juurde kui teed ülesandeid mida nad sulle annavad teha. Kui koguaeg rünnata küla või kui ebaõnnestub sul misioon (ülesanne) ,siis see viib sul reputatsiooni halvemaks.
+
+Sul on samuti ka <darkblue>reputatsioon kultuuride (külade) vahel<black>. See reputatsioon mõjub kõigile sinu tegevustele kõigile külatele mis on selle kultuuriga ja see mõjutab ka sinu kauplemist kõigi küladega selle kultuuriga. Näiteks kui sul on hea reputatsioon normaanlaste külaga,siis teistele normaalaste küladele meeldid sa natukene rohkem.Sa saad vaatada ome reputatsiooni kultuuritega informatsiooni ekraanil (“M” tähte vajutades).
+
+<darkblue>Teatud tegevused vajavad teatud reputatsiooni
+
+<darkblue>Osta küla pärgament
+
+Kui sul on küllaga hea reputatsioon,siis osta küla pärgament küla juhilt. Sellel kirjarullil on kõik informatsioon antud erinevatel paneelidel külast.
+
+<darkblue>Kodu ostmine
+
+Kui sul on küllaga reputatsiooni,siis sa saad osta maja (või ala kus saad ehitada) kui räägid küla juhiga. Sinu kodu ehitatakse küla poolt kui sellel ajal olev ehitus on lõpetatud. Mitte nagu teised alad külas,see ehitis kuulub sulle ja sa saad seda muuta nimodi nagu tahad.
+
+<darkblue>Õppida istutama vilja
+
+Sa saad õppida istutada  Millénairi erilisi vilju erinevatelt kultuuridelt . Räägi küla juhiga kui sul on küllaga reputatsiooni.
+
+<darkblue>Osta erilisi asju
+
+Mõned väärtuslikud asjad saab ainult hea reputatsiooniga küladest. Kui sul ei ole vajalik reputatsioon asja ostmiseks,siis see on öeldud (näitatud) kaupleis ekraanil.
+
+<darkblue>Ülesanded
+
+Mõned ülesanded,samas ka ''Creation Quest'' , saab ainult alustatud hea reputatsiooniga (vaata <darkblue>“quests” <black>).
+
+<darkblue>Saamine kultuuri juhiks
+
+Kui sa oled saanud maksimum reputatsiooni (<darkblue>"naturaalne juht" <black>),siis sa saad ehitada enda küla kus sa oled selle juht (vaata <darkblue> "küla tegemine"<black>)

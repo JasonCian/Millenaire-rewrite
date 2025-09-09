@@ -1,0 +1,6 @@
+{
+  "parent": "millenaire:block/source",
+  "textures": {
+    "sourceblock": "minecraft:blocks/stone_andesite"
+  }
+}

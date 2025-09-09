@@ -1,0 +1,15 @@
+building.length=39
+building.width=39
+
+building.issubbuilding=true
+building.max=0
+building.parentbuildingplan=sarayfort_A3
+
+building.icon=purse
+
+initial.startlevel=-1
+initial.nativename=Saray Çarşısı
+initial.priority=1000
+initial.tag=market
+initial.tag=leisure
+

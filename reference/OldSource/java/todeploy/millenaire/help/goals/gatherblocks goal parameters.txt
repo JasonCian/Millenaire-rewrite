@@ -1,0 +1,20 @@
+List of parameters usable in gatherblocks goals:
+
+harvestitem (item, chance and (optional) required tag ('leather,50' or 'boudin,50,oven')):
+Item to be harvested, with chance.
+
+gatherblockstate (a Minecraft blockstate ('red_flower;type=blue_orchid')):
+Blockstate to gather.
+
+resultingblockstate (a Minecraft blockstate ('red_flower;type=blue_orchid')):
+Blockstate to place instead of the 'gathered' block. If null, the block will be left as-is.
+
+minimumavailableblocks (integer value):
+Minimum number of available blocks in a building for the goal to start.
+Default value: 4
+
+collectinbuilding (boolean):
+Whether to store the collected goods in the destination building (if false, they go in the villager's inventory).
+Default value: false
+
+

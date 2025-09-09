@@ -1,0 +1,10 @@
+0;Fremmed;Vi stoler ikke lett på fremmede. Opptre med din beste oppførsel.
+4*64;Kjent ansikt;Vi har sett deg rundt disse parter før, men det betyr ikke at vi stoler på deg.
+16*64;Stamgjest;Hvordan har reisene dine vært, $name?
+64*64;Favorittforhandler;Å, $name, du har kommet en lang vei i landsbybeboernes øyne.
+2*64*64;Venn av landsbyen;Hallo, venn, hva kan vi gjøre for deg i dag?
+8*64*64;En av oss;Hallo, $name. Vi har ventet din gjenkomst med stor forventning.
+32*64*64;Naturlig leder;$name, du har opparbeidet tilliten og respekten til mitt folk. De vil følge deg hvor enn du går.
+-64;Plage;Å, det er deg. Hva vil du?
+-4*64;Utrivelig utenforstående;Forlat landsbyen vår omgående, svin!
+-16*64;Samfunnsfiende;Hvordan våger du å vise deg her. Møt din straff!

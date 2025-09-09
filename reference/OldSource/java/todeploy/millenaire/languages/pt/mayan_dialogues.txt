@@ -1,0 +1,262 @@
+//Français par xIflot
+//French by xIflot
+//Anglais par Teethdude
+//English by Teethdude
+//Maya by TheyCallMePoncho
+//Maya par TheyCallMePoncho
+
+newchat;key:stone,weigth:10;
+v1;0;Nojoch tuunich antal ts’íib ku bin táanil ti’ junp’éel k’aaba’ tia’al u ye’esik xiib yéetel chéen juntúul wáa junp’éel ma’alobkin wíiklal ka kuxtal. / A pedra é o melhor material que existe.
+v2;30;¡Kux yaan ma'alobtal bi'bi'ki! ¡Ts'íic tuunich! / E é ainda melhor depois de cozinhada! Viva a pedra!
+v1;60;¡Haah k'ana'an hóok's! Ich meyah! / Precisamos de obter mais! Vamos lá!
+
+newchat;key:pyramid,building:mayanpyramid,weigth:7;
+v1;0;Tin nah k'uh haah ma'alobkin hats'uts yéetel ma'alobkin beet. / A nossa pirâmide é a mais bela e a mais bem construída.
+v2;30;Haah u t'aan. Xíimbal uláak' chan kaah. Utia'al letio'ob antal ki'ichpam, ¡Ba'ale' ma' ki'ichkelem he'ebix in tia'al! / É verdade. Já visitei outras aldeias. As delas são muito bonitas mas não tão elegantes quanto a nossa!
+v1;60;In tia'al xook utia'al nahil haah hun yéetel ha'as óol.  / A nossa arquitectura é única e original.
+v2;90;Ma' u'uyba nohchil hach. Ma' k'áat kex antal he'ebix Byzantines. / Não nos gabemos muito. Não quero ser como aqueles Bizantinos vaidosos.
+v1;120;Ah, kux. In ch'a' k'uux. ¿¡Bixi' páahtal yaan hach  u'uyba noh ba'al!? / Ah sim, uhhh... Odeio-os. Como é que alguém pode ser tão pretencioso!
+
+newchat;key:player,weigth:10;
+v1;0;To'on ma' hach wíiniko'ob ka taal ich xíimbal lelo' kúuch. / Não é hábito recebermos muitos visitantes por cá.
+v2;30;Kux, chéen lela' $name yéetel uláak' wíiniko'ob saat... / É verdade, temos aquele $name e umas quantas pessoas perdidas...
+v1;60;T'aan utia'al $name, ¿ma' teech tuukul ka $name il ka'anal yéetel hela'an? / Por falar no $name, ele não te parece um bocadinho estranho e cansado ultimamente?
+v2;90;Kux. Leti' p'aax wa'atal. / É verdade. Acho que ele devia descansar um pouco.
+
+newchat;key:miner,weigth:9;
+v1;0;To'on p'aax antal máas áaktun máako'ob. / Devíamos recrutar mais mineiros.
+v2;30;¡Ah kux! Nohoch tuunich yéetel yaan ma'alokin bi'bi'ki ti' kúuch. / Ah sim! As rochas e os minérios são os melhores materiais que existem.
+v1;60;Kux, haah u t'aan. Kurx yaan k'aana'an máas utia'al to'on, P'aax ya'abtal xook. / Concordo... mas somos poucos na nossa aldeia, temos de aumentar os nossos números.
+v2;90;Yéetel ma' ts'aa ich meyah ich mix may paal. / E não vamos pôr as crianças a trabalhar. Elas são muito novas.
+
+newchat;key:woman,weigth:6,v1:adult,v2:adult,v1:female;
+v1;0;Haah k'iin utia'al nah. / Está na hora de limpar a casa.
+v2;30;¡Kurx teech hun k'iin! / Mas já fizeste isso ontem!
+v1;60;Ma', yaan mix ba'al ka beet te'ela'. / Olha que remédio, não me deixam fazer mais nada por aqui.
+v2;90;¡Teech huntiich' tak ho'ol! / Estás sempre a queixar-te!
+v1;120;Yaáxil tak pool, ¡óot na'at! / E que tal em vez de mandares vir por eu me estar a queixar, tentares perceber por que é que me estou a queixar!
+
+newchat;key:friend,v1:vtype:mayan_miner,v2:adult,weigth:10;
+v1;0;Ah, tin uts amikoo, ¡$targetfirstname! ¿Bixi' antal? / Ah, meu amigo $targetfirstname! Como vai isso?
+v2;30;¡Toh oolal, $targetfirstname! Meen ka in páahtal, meyahil bin k'aas. / Ora viva, $targetfirstname! Faz-se o que se pode, para ser franco. O negócio está mau.
+v1;60;¿Teech p'aat koonol tuunich ich Hindis? / Deixaste de vender pedra aos Hindus?
+v2;90;Kux. Behla'e' leo'ob Japanese sahkab máako'ob k'a'ay meyah, leito'ob ma' k'abeet. / Sim. Agora que os mineiros Japoneses independentes lhes ofereceram os seus serviços, já não precisam de mim para nada.
+v1;120;Teech ts'a'ah wa ba'ax hach. / Tens de lhes oferecer outro serviço qualquer.
+v2;150;¿Teech yaan hun tuukul? / O que é que sugeres?
+
+newchat;key:monster,weigth:5;
+v1;0;Yaan hach k'aak'as ba'al táankab. / Há muitos monstros por aqui agora.
+v2;30;In antal máako'ob ba'ate'il páahtal kíimsah. / Decerto que os guardas são capazes de nos proteger.
+v1;60;In antal sahkil beey hun múuch' lelo'ob paal wáak'al ya'ax taah ich chan kaah. / O meu medo é se alguma horda daquelas criaturas verdes explosivas se lembra de nos atacar.
+v2;90;Ma' sahakil. To'on yaan léech tia'al ts'aa yiknal letio'ob. / Não te preocupes. Temos engodos que podemos usar contra eles.
+v1;120;Lela' uts, to'on yaan ich $name. Leti' ma' ba'ate'el k'aw. Leti' páahtal áantah to'on.  / Tudo bem, em último caso temos o $name. Ele luta bem e podia defender-nos.
+v2;150;Kin ma' péek óol. Leti' ma' k'aw. / Acredito. Ele até nem é assim tão mau.
+
+newchat;key:normands,weigth:6;
+v1;0;¿Teech yaan paakat boon oot'il utia'al Normans? ¡Letio'ob hach saas! / Já viste a cor da pele daqueles Normandos? Eles são tão pálidos!
+v2;30;¡Kux! In mix bik'in yaan paakat saas máako'ob. Hela'n.  / Oh, sim! Nunca tinha visto tal cor. É estranha.
+v1;60;In tuukul letio'ob xota'an u k'iin... / Cá para mim foram amaldiçoados...
+v2;90;Ma' yaan ma' na'at. Letio'ob yaan wíinik he'ebix tuláakal to'on. / Não sejas tolo. Eles são pessoas tal como todos nós.
+v1;120;Ma' péek óol yaan káaltalil k'eex beey. In antal chich leio'ob ma' yaan beey. / Aposto que a culpa é do álcool, foi isso que os mudou. De certeza que nem sempre foram assim.
+v2;150;Wale' teech antal k'aw. / Algo me diz que estás errado.
+
+newchat;key:alchimist,weigth:4;
+v1;0;Ch'óoch' káax, in il báaxal t'aan wáay. / Enquanto explorava a floresta, encontrei um alquimista curioso.
+v2;30;¿Teech' he'ebix leti' léeyli'e'? Leti' yaan su'utsil hela'an. / Também o viste? Ele é muito estranho, realmente.
+v1;60;"¡Yéetel bixi'! Leti' yaan hun ts'íib hela'an xa'ak'. ¿Teech oohel "tseek' baakel muuts'" wa "sa'am utia'al píixan" p'aax a'al? / Muito. Ele tinha uma lista de ingredientes esquisitos. Fazes ideia do que sejam "crânios de esqueleto atrofiado" ou "areia das almas"?"
+v2;90;Ma'. Kurx ma' yaan hach hets' tuukul. / Não, mas esses nomes não me tranquilizam muito.
+v1;120;¡Kurx! To'on tuukul leti' óot beet ich tuunich yum k'iin. / Exacto! Acho que ele está a tentar fazer a Pedra Filosofal.
+v2;150;Tohol $targetfirstname, beey teech tuukul huum u tsikbalil wáa ba’ax, teech antal hach k'as tuukul kab yaan táax. / Bravo $targetfirstname, se acreditas em boatos, arriscas-te a acreditar que a Terra é redonda.
+v1;180;Teech antal wáa ma'alob. / És capaz de ter razão.
+
+newchat;key:dragonegg,v1:adult,v2:adult,weigth:5;
+v1;0;Kin il ich hela'an he' boox ich bilim. / Vi um estranho ovo negro no deserto.
+v2;30;Ah, ¿ich wa maax? ¿Bixi' haah il? / A sério? E como é que era?
+v1;60;Yaan noh, yaan wóolis chak puk’e’en. Yaan hach noh. ¡Nohoch! / Era grande e tinha manchas violetas. Muito grande.
+v2;90;¿Teech uk' Norman máak sen ya'ab wa teech antal p'a'as? / Andaste a beber álcool Normando outra vez ou estás a brincar comigo?
+v1;120;Ba'ale'... ¡Haah haahil! / Mas... É verdade! Eu juro!
+v2;150;¡Jaja! Teech tuukul teech tuus beey, ¡teech k'aw! / Haha! Achas mesmo que me consegues enganar assim?
+
+newchat;key:wither,weigth:3;
+v1;0;Ich k'aáx in il ich hela'an boox paal. / Vi uma estranha criatura negra na floresta.
+v2;30;¿Haah haahil? Tsool, ¡in k'áat oohel máas! / A sério? Diz-me como era, estou curioso!
+v1;60;Leti' yaan boox he'ebix baakel paal, yiknal ho'ol ich ts'ook utia'al k'ab, yéetel ich kaal, yéetel yaan ta' hach ke'el he'ebix ha' chichkunta'an tumen ke'el wáa síis... / Bem, era uma espécie de esqueleto negro, com duas cabeças em vez de mãos e uma no pescoço, e tinha um olhar frio como o gelo...
+v2;90;Xi'ix mukuy pu'uch. / Estás-me a dar arrepios.
+v1;120;Enderwíinik antal k'óoch leti'. / Os Endermen estavam a atacá-la.
+v2;150;¿Ederwíinik? Letio'ob ma' kuxtal, teech antal wayak'. / Endermen? Essas coisas não existem, cá para mim estiveste foi a sonhar.
+
+newchat;key:bakery,notbuilding:mayanbakery,weigth:7;
+v1;0;To'on p'aax wa'akum nah hun tu'ux ku meenta'al yéetel ku ko'onol waah. Too'n antal ich meyahil. / Devíamos construir uma padaria. Assim abríamos um negócio.
+v2;30;Haah u t'aan. To'on ma' kukin otoch waah. / É verdade. Não nos podemos ficar só pelo pão caseiro.
+v1;60;Bin ich t'aan ich halach wíinik. / Vamos falar com o chefe.
+
+newchat;key:bestdad,v1:child,v2:child,weigth:8;
+v1;0;Tin taatáa yaan toop tumen leti' haah hun ma'ako'ob mol che'. / O meu pai é o melhor porque ele é um lenhador!
+v2;30;¡Jah! ¡Che' haah ma' k'abéet! Tin taatáa yaan toop tumen antal sahkab máako'ob. / Pfft! A madeira é inútil! O meu é melhor porque é um mineiro!
+v1;60;Mina'an che', a taatáa ma' meyah. / Sem madeira, o teu pai não serve para nada.
+v2;90;¿¡Ba'ax!? ¿Teech kaxan hun? / Ai sim!? Queres apanhar?!
+v1;120;Ka'anal, tuunich ma' yaan meyah. ¡Ta'! / Para, a pedra é inútil, admite-o.
+v2;150;¡Mina'an tuunich, a taatáa weneh yáanal eek'! / Sem pedra, o teu pai estaria a dormir ao relento!
+
+newchat;key:becomeadult,v1:child,v2:child,weigth:9;
+v1;0;Kin yaan sahakil utia'al suut nohoch máak. / Tenho medo de me tornar um adulto.
+v2;30;¿Ba'ax ten? / Então porquê?
+v1;60;Tumen... Yaan hach hach meyahil yéetel ma' báaxah... / Bah, porque... Há tanto trabalho a fazer e não podemos brincar...
+v2;90;Teech il, ¡toop! / Vai ser giro, logo vês!
+v1;120;Ma'... Kin ma' k'áat! Kin ma' k'áat! Kin ma' k'áat! / Não... Não quero, não quero, não quero!
+
+newchat;key:rebellion,v1:child,v2:child,rel:sibling,weigth:6;
+v1;0;¡Taatáa yéetel na' yaan k'aw! ¡To'on yaan léeyli'e' cho' tin otoch! / A Mãe e o Pai são tão injustos! Obrigam-nos sempre a limpar o nosso quarto!
+v2;30;¡Kurx! ¡To'on p'aax e'es yéetel k'áat hun kuxtal hach tsikbe’en! / Mesmo! Devíamos nos revoltar e exigir melhor tratamento!
+v1;60;¡To'on il! ¡Teech na'! / Vamos à luta! Começamos pela Mãe!
+
+newchat;key:japanese,v1:adult,weigth:8;
+v1;0;Eh, $taargetfirstname, il. / Ei, $targetfirstname, olha aqui.
+v2;30;¡Báaxal t'aan ts'oons! ¿Tu'ux teech antal? / Que espada engraçada! E que arco engraçado! Onde é que arranjaste isso?
+v1;60;Haah yumi yéetel tachi. Utia'al Japanese máaskab. / É um Arco Yumi e uma espada Tachi. Vieram da Forja Japonesa.
+v2;90;Haah hats'uts yéetel k'abéet. ¿Haah ko'ok? / São tão bonitos e eficientes. Foram caros?
+v1;120;¡Kurx! ¡In ch'iin 2 sak taak'in yiknal yumi! / Bastante! Gastei duas moedas de prata só para o arco!
+v2;150;¡Oohh! Teech líik'es hach táanil maan. / Uau! É preciso poupar imenso para comprar essas coisas.
+
+newchat;key:exchange,v1:adult,v2:adult,v1:male,v2:male,weigth:9;
+v1;0;Heh, $targetfirstname. ¿To'on k'íiwik toohol koonol? / Boas, $targetlastname. O nosso mercado está-se a aguentar?
+v2;30;Kurx, kurx. He'ebix in a'al, in yaan túulis. / Sim, sim. Como disse, tenho tudo.
+v1;60;¡Huntiich ich k'iin! Haah ma'aldo beet meyahil yiknal teech. / Sempre pontual! Gosto de fazer negócio consigo.
+v2;90;Ki’imak óolal haah tin. Le túun... 32 chuun che' tumen 8 máaskab. ¡Péeka'an! q/ O prazer é meu. Ora... 32 troncos para 8 barras de ferro. Voilà!
+v1;120;Hach dyos bo’otik, yuum. Teech yaan ich ma'aldo k'iin. / Muito obrigado, meu caro. Tenha um óptimo dia.
+v2;150;Teech, yuum $targetlastname! / Para si também, caro $targetlastname!
+
+newchat;key:embauchement,v1:adult,v2:vtype:mayan_warrior,weigth:7;
+v1;0;Kin meyah máak teech tia'al kalan in, tumen 48 Deniers tumen k'iin. / Contratá-lo-ei para me proteger em troca de 48 moedas por dia.
+v2;30;Amm... koonol bahux k'iin teech meyah máak, $targetfirstname. / Hmmm. Depende da duração do contrato, $targetfirstname.
+v1;60;6 K'iin. Tin xiibil peek' ma' ka'ans tia'al kalan in kin. / Seis dias. Os meus cães não me protegem o suficiente.
+v2;90;Hun Argentum. Ma' óotsil. / Nesse caso, uma moeda de prata. Não menos.
+v1;120;¡Lelo' haah ookol! / Isso é um roubo!
+v2;150;Ma', $targetfirstname. Kin péek óol tin kuxtal waye' meyahil. / Nada disso, $targetfirstname. Estou a colocar a minha vida em risco para o proteger.
+
+newchat;key:cereal,v2:vtype:mayan_farmer,weigth:9;
+v1;0;Kin k'áat pak'al arroz. / Vou tentar cultivar algum arroz.
+v2;30;¿Arroz? ¿Ba'ax yaan? / Arroz? O que é isso?
+v1;60;Hun aban in maan utia'al Hindu. ¡Letio'ob t'aan yaan ki'! / Uma planta que comprei aos Hindus. Eles dizem que é delicioso!
+v2;90;¿Kin páahtal túum? / Posso provar?
+v1;120;Yah tu yool, ma'. Kin pak' neek'. / Infelizmente, não. Tenho de plantar todos os grãos.
+v2;150;Lelo' ma' antal k'abéet. / Isso não vai funcionar.
+
+newchat;key:zombiepigmen,weigth:6;
+v1;0;¿Teech il chak iik' hach túumben? / Deste conta da última tempestade?
+v2;30;¡Yéetel he'ebix! Tin koolki' óolt ha', kurx kin yaan sahkil. / Claro! As nossas colheitas adoraram a água, mas foi medonho.
+v1;60;Kin antal pak'al, yéetel antal k'éek'en tséel kin. / Bem, eu estava na planície, e estava um porco ao pé de mim.
+v2;90;¿Yéetel? / E?
+v1;120;Hun haats' cháak yéetel leti'... Leti' níikil paachil mo'ol... / Um raio acertou-lhe e... Ele levantou-se e começou a andar...
+v2;150;¿Haah u t'aan? ¿Bixi' il? / A sério?! E como é que ele era?
+v1;180;Lei' yaan kuuxum ya'ax óok'ol... wa wa ba'axhe'ebix leto'. Lei' yaan xtol k'uun. / Tinha um bolor verde... ou algo do género. E uma espada de ouro também.
+v2;210;¿Teech kóoch wa hóok'ol? / Atacaste-o ou fugiste?
+v1;240;In antal ma' xtol. Kurx leti' ma' k'áat kóoch kin. Leti' il kin, suut, yéetel xíimbal ma' ohéelal t'aan máan. / Estava desarmado. Mas ele não pareceu querer fazer-me mal. Olhou para mim, virou a cara e foi-se embora sem se aperceber do que estava a acontecer.
+v2;270;Teech p'aax ts'aa k'áak'. ¿Yéetel k'óoch chan kaah? / Devias ter usado fogo. E se ele atacar a aldeia?
+v1;300;Kurx haats' cháak, yéetel leti' uúy mix ba'al. / O fogo não lhe fez nada, o raio queimou-o e ele não sentiu nada.
+
+newchat;key:recolt,weigth:10;
+v1;0;T'ook yaan pik'taan tun. / A colheita deste ano vai ser enorme.
+v2;30;Kurx, yéetel tak ho'ol yaan chich pool. / Sim, e queixarmo-nos seria ridículo.
+v1;60;¡Wáa! / Deveras!
+
+newchat;key:village,weigth:8;
+v1;0;Kin tuukul chan kaah il ma'aldo. / Acho que a nossa aldeia está bonita.
+v2;30;Wáa. Yaan hach hats' uts. / Também eu. Está muito artística.
+v1;60;Yaan dyos bo'otik tuunich yéetel na'at meent. / Tudo graças à pedra e a nossa mestria na arquitectura.
+
+newchat;key:peasantdialog,v1:vtype:mayan_peasant,v2:vtype:mayan_peasant,weigth:10;
+v1;0;Hach hach nal tia'al hooch, hach kóom k'iin... / Tanto milho para cultivar, e tão pouco tempo...
+v2;30;Kurx, in k'áat to'on yaan xet' utia'al hooch. / Pois é, quem me dera que uma parte da colheita fosse para nós.
+
+newchat;key:playerorigins,weigth:10;
+v1;0;$name haah ich hela'an máako'ob. / $name é uma pessoa muito estranha.
+v2;30;Haah hach hela'an ka normans. / Mais estranha que os Normandos, até.
+v1;60;¿Kurx utia'al tu'ux taal leti'? / Mas de onde é que ele veio?
+v2;90;Kin ma' antal, leti' ma' haah il he'ebix uláak' chan kaah. / Não tenho a certeza, ele não parece ter vindo de nenhuma cultura.
+
+newchat;key:byzantins,weigth:9;
+v1;0;Kin ma' muk'yah ich leio'ob Byzantines, ¡letio'ob tuukul letio'ob yaan yuumil lu'um! / Não suporto nada aqueles Bizantinos, eles acham-se donos do mundo!
+v2;30;¿Yéetel teech il lelo'ob nahils? / E já viu os edifícios deles?
+v1;60;Kurx kin il lelo'ob, hach hela'am. / Sim, já. Muito estranhos.
+v2;90;¿Pak'lu'um? ¿Ka haah xuul? / Tijolos? Para quê!?
+v1;120;Letio'ob ts'aa ba'al utia'al xukul, he'ebix Normans. / Eles até usam aquela coisa, o vidro, tal como os Normandos.
+v2;150;Túun, kurx leio'ob il hach máan táanil ka indians. Letio'ob chéen yaan hool. / É verdade, mas eles parecem ser mais avançados do que os Hindus. Esses nem usam nada para as janelas.
+
+newchat;key:dialogchildmother,v1:child,v2:adult,v2:female,rel:parent,weigth:10;
+v1;0;¡Na'! ¿Kin páathal bin báaxal táanakb chan kaah? / Mamã! Posso ir brincar para longe da aldeia?
+v2;30;Ma' tin paal, kin ma' k'áat ka teech k'ool. / Não, não quero que te magoes.
+v1;60;K'ool utia'al ka? Ma' haah hach k'as táanak. / Magoar-me como? Não é nada perigoso lá fora.
+v2;90;U'uy, yaan hach k'as paal táankab... / Ouve, há criaturas perigosas lá fora...
+v1;120;¿K-ka xook utia'al paal, na'? / Q-que tipo de criaturas, mamã?
+v2;150;K'aas ba'al he'ebix... creepers. / Criaturas horríveis, como os... Creepers.
+v1;180;C-c-creepers? / C-c-creepers?
+v2;210;Kurx tin paal, letio'ob áalkab paach teech chan kaah yéetel waak' teech. / Sim, eles seguem-te até casa e explodem quando menos esperas.
+
+newchat;key:tobewarrior,v1:vtype:mayan_warrior,v2:notvtype:mayan_warrior,weigth:9;
+v1;0;Antal máako'ob ba'ate'el yaan ma'aldo ka in beet. / Tornar-me um Guerreiro foi a melhor decisão da minha vida.
+v2;30;¿He'ebix bin?? / Então porquê?
+v1;60;Tumen kin páahtal bin aantah ich toop ch’a’ k’uxta’an, hach  náays óol ka hooch ixi'im. / Porque posso sair e ajudar a combater os nossos inimigos, muito mais divertido do que cultivar milho.
+v2;90;Kux kuxtal yaan máas hets'. / Mas a minha vida é muito mais segura.
+v1;120;Túun, kux huntiich' antal óot hach k'as. / É verdade, mas eu gosto da aventura.
+
+newchat;key:likemydad,v1:male,v2:child,v1:child,weigth:8;
+v1;0;¡Kin k'áat yaan he'ebix taat utia'al noch. / Quero ser como o papá quando for grande!
+v2;30;¿Hun sahak? / Um fracalhote?
+v1;60;¿Ba'ax? Ma', Leti' ma' yaan hun sahak. / O quê? Não, ele não é um fracalhote.
+
+newchat;key:palace,v1:vtype:mayan_king-mayan_leader-mayan_chieftain,v2:adult,weigth:9;
+v1;0;Leti' kuxtal kuxtah tin ha'ak'óol nukuch nah. / A vida no meu maravilhoso palácio é um sossego.
+v2;30;¡Yéetel yaan hun ha'ak'óol nukuch nah, tin chanan! / E o seu palácio é realmente maravilhoso, nosso líder!
+
+newchat;key:become,v1:adult,v2:child,v2:male,rel:child,weigth:9;
+v1;0;¿Kex teech k'áat yaan utia'al noch? / O que queres ser quando fores grande?
+v2;30;Kin ma' oohel, wale' kanan, wa pan... we'matz wale'.. / Não sei, talvez um guerreiro, ou um mineiro... ou um agricultor...
+v1;60;Teech yaan yéey hayp'éel k'iin. / Bem, vais ter de decidir em breve.
+
+newchat;key:wah,weigth:9;
+v1;0;Kin yaakun hanal wah. / Adoro comer wah.
+v2;30;¡Kin léeyli'e'! Yaan alobkin tuukul. / Eu também! É a melhor coisa do mundo.
+
+newchat;key:rain,v1:female,v2:female,v1:hasspouse,v2:hasspouse,weigth:9;
+v1;0;To'on k'abeet cháak tia'al ixi'im. / Precisamos de chuva para o milho.
+v2;30;Kin óot cháak. / Quem me dera que chovesse.
+v1;60;Wale' beey payal chi', píixan ts'a'ah to'on hun hooch nohoch lelo' tun. / Talvez se formos rezar, os Espíritos conceder-nos-ão chuva que chegue para fazer da colheita deste ano a melhor colheita de sempre.
+v2;90;Ma'aldo, bin behla'e' túumen to'on ma' antal tusbel. / Tudo bem, vamos assim que estivermos desocupadas.
+
+newchat;key:zombie,v2:vtype:warrior,v2:vtype:mayan_warrior,weigth:8;
+v1;0;¿Yéetel beey hun túuk utia'al kimen k'óoch? / O que é que fazemos se uma horda de mortos-vivos nos invadir?
+v2;30;Teech ma' tuukul, kin yaan ba'ate'el máako'ob ti' lu'um. / Não te preocupes, eu sou o melhor guerreiro destas terras.
+
+newchat;key:rich,v1:female,v2:vtype:mayan_peasantwife,v1:vtype:mayan_peasantwife,weigth:8;
+v1;0;Ix yaan túulis, ma' beet mix ba'al. / As Mulheres Ricas têm cá uma sorte, não têm de fazer nada.
+v2;30;Kux, kin tuukul kuxtal beey. / Quem me dera ser tratada assim.
+v1;60;Kin tuukul kin ts’o’okol beel yiknal wa maax yiknal máas taak'in. / Sabia que me devia ter casado com alguém com mais dinheiro.
+
+newchat;key:rule,v1:male,v2:male,v1:notvtype:mayan_king-mayan_leader-mayan_chieftain,v2:notvtype:mayan_king-mayan_leader-mayan_chieftain,weigth:9;
+v1;0;Kin pa'at hayp'éel k'iin kin ahau lela' chan kaah. / Um dia hei-de ser o líder desta aldeia.
+v2;30;Teech toohol náay, tumen kin antal ka'an ba'a teech. / Vai sonhando, porque eu vou ser primeiro do que tu.
+v1;60;To'on paakat... to'on paakat. / Veremos... veremos.
+
+newchat;key:indians,weigth:8;
+v1;0;Indians il máas hets' óol kex normans, ¿ma'? / Os Hindus parecem ser muito mais pacíficos do que os Normandos, não é?
+v2;30;Kux, wale' to'on páathal óot nuuch yiknal letio'ob. / Sim, talvez nos devêssemos tentar aliar a eles.
+v1;60;Hmm... Kux, le túun wale' to'on páathal k'óoch normans, wa Byzantines. / Hmm... Sim, e depois juntos talvez conseguíssemos invadir os Normandos, ou até os Bizantinos.
+
+newchat;key:gravity,weigth:7;
+v1;0;K'iin yaan kóom waye' lu'um. / Os dias são muito mais curtos nestas terras.
+v2;30;Ka, yéetel lu'um chíikpahal báab ichmáal. / Sim, e o chão parece flutuar às vezes.
+v1;60;Chichan yaah... yéetel sa'am. / Excepto a gravilha... e a areia.
+v2;90;Kin k'áat ba'ax ten. / Por que será?
+
+newchat;key:obsidian,v1:vtype:mayan_obsidiancrafter,weigth:8;
+v1;0;Nu'ukul yéetel ts'oon utia'al obsidiana yaan máas hats'uts. / As ferramentas e as armas de obsidiana são as mais lustrosas.
+v2;30;Hats'uts ba'ale kex mix máak páahtal yaan wa hayp'éel. / Tão luxuosas, e ainda assim, qualquer um pode tê-las.
+v1;60;Bahab yaan ma'alob tia'al peech' ich a ch’a’ k’uxta’an. / A maça é óptima para esmagar o inimigo.
+v2;90;¿Haahil? Kin yaakun il hun ts'aa ich péek. / A sério? Adoraria ver uma em acção.
+
+newchat;key:mayanarchitecture,weigth:7;
+v1;0;Nahil maya antal tsíib máas chichha'an ti' lu'um.  / A arquitectura Maia é a mais forte deste mundo.
+v2;30;Yaan yiknal túulis áaktum utia'al tuunich ka to'on beet lelo' hats'utsil. / É graças à pedra que recolhemos que estas beldades existem.
+v1;60;Kin k'áat bahux nah utai'al tuunich to'on yaan ka beet. / Pergunto-me quantas mais casas de pedra construiremos?
+v2;90;Chéen k'iin a'al, amikoo./ Só o tempo o dirá, amigo.

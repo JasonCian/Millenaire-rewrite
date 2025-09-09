@@ -1,0 +1,16 @@
+version:3.4
+<darkblue>Los Indios
+
+Provienen del norte de la India y viven en tres tipos de aldeas: asentamientos militares establecidos alrededor de un fuerte, asentamientos agrícolas en torno a la casa del jefe, y los palacios dominados por un palacio real con dos villas. Hablan hindi, pero el diálogo se traducirá mientras el jugador "aprende" a hablar su idioma con ellos.
+
+<darkblue>Objetos únicos y bloques
+
+-Los indios cultivan arroz y cúrcuma. El jugador puede pedirle al jefe que le enseñe como hacer crecer estas plantas.
+-Ladrillos de barro y ladrillos cocidos, producidos al dejar los ladrillos húmedos al sol para secar. Los ladrillos húmedos se crean con los moldes de ladrillos (comprado en una aldea).
+-Estatuas hindúes que representan deidades y creadas por un escultor.
+-Delicioso rasgulla, dulces hechos con caña de azúcar.
+
+<darkblue>Recetas específicas (sin forma)
+
+-Uno de arroz y uno de cúrcuma producen curry vegetariano.
+-Uno de arroz, uno de cúrcuma y un pollo crudo producen pollo al curry.

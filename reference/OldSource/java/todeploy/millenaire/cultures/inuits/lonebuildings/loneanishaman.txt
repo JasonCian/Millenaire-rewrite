@@ -1,0 +1,24 @@
+name=Kashim
+weight=28
+radius=5
+carriesraid=false
+
+mindistancefromspawn=420
+
+//Vanilla biomes
+biome=tundra
+biome=Taiga
+biome=Ice Plains
+biome=Cold Taiga Hills
+biome=Frozen River
+
+//biomes o'plenty
+biome=ice mountains
+biome=autumn woods
+biome=dead forest
+biome=ominous woods
+biome=snowy coniferous forest
+biome=snowy forest
+
+//starting buildings=
+centre=loneanishaman

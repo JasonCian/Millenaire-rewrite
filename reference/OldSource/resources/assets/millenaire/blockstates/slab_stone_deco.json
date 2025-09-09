@@ -1,0 +1,48 @@
+{
+	"forge_marker": 1,
+	"variants": {	
+		"half=bottom,variant=mudbrick": {
+			"model": "millenaire:mudbrick_bottom"
+		},
+		"half=top,variant=mudbrick": {
+			"model": "millenaire:mudbrick_top"
+		},
+		"half=bottom,variant=cookedbrick": {
+			"model": "millenaire:cookedbrick_bottom"
+		},
+		"half=top,variant=cookedbrick": {
+			"model": "millenaire:cookedbrick_top"
+		},
+		"half=bottom,variant=mayangoldblock": {
+			"model": "millenaire:mudbrick_bottom"
+		},
+		"half=top,variant=mayangoldblock": {
+			"model": "millenaire:mudbrick_top"
+		},
+		"half=bottom,variant=byzantine_mosaic_red": {
+			"model": "millenaire:byzantine_mosaic_red"
+		},
+		"half=top,variant=byzantine_mosaic_red": {
+			"model": "millenaire:byzantine_mosaic_red"
+		},
+		"half=bottom,variant=byzantine_mosaic_blue": {
+			"model": "millenaire:byzantine_mosaic_blue"
+		},
+		"half=top,variant=byzantine_mosaic_blue": {
+			"model": "millenaire:byzantine_mosaic_blue"
+		},
+		"half=top,variant=lightbluechiseled_block": {
+			"model": "millenaire:lightbluechiseled_block"
+		},
+		"half=bottom,variant=lightbluechiseled_block": {
+			"model": "millenaire:lightbluechiseled_block"
+		},
+		"half=top,variant=lightbluebrick_block": {
+			"model": "millenaire:lightbluebrick_block"
+		},
+		"half=bottom,variant=lightbluebrick_block": {
+			"model": "millenaire:lightbluebrick_block"
+		}
+
+	}
+}

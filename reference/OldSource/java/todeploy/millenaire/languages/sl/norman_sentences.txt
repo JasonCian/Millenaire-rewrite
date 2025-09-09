@@ -1,0 +1,100 @@
+﻿villager.greeting=Bonjour, $name! / Pozdravljen, $name!
+villager.greeting=Belle journée, n'est ce pas? / Lep dan, kajne?
+villager.greeting=Il va pleuvoir, je le sens / Mislim, da bo dezevalo.
+villager.greeting=Je ne me souvenais pas de la Normandie comme ça. / Ne pomnim Normanije tako.
+guard.greeting=Vous avez l'air un peu faible, $name. Je vous protègerais si vous avez des ennuis. / Jaz te bom ščitil če boš zaidel v težave.
+priest.greeting=Soyez béni, mon fils. / Bog te blagoslovi.
+monk.greeting=Dieu soit avec toi, mon frère. / Naj bo bog s teboj, brat.
+boy.greeting=Quand je serai grand, je veux être comme papa. / Ko bom velik bom tak kot moj oče!
+knight.greeting=Je n'obéi qu'au Roi Guillaume, Duc de Normandie, et à Dieu. Dans cet ordre. / Jaz ubogam samo Kralja Williama, Vojvodo Normanije, in Boga. V tem vrstem redu.
+knight.greeting=$name, saviez-vous que j'ai combattu à Hastings? / $name, si vedel da sem se boril v Hastingsu?
+knight.greeting=Je prend possession de cette terre au nom du Duc de Normandie! / Proslavljam to čudno zemljo za Vojvodo Normanije!
+lady.greeting=Ma sœur a épousé un duc. Je vis ici. / Jaz živim tukaj, moja sestra pa v Duku.
+lady.greeting=Vous auriez dû voir le château de mon père. Ca c'était une vrai forteresse. / Moral bi videti grad mojega očeta.
+viking_merchant.greeting=Cette terre appartient aux vikings. L'Angleterre aussi. La Sicile aussi. Vive nous! / To je dežela Vikingov. Anglija je dežela Vikingov. Sicilija je dežela Vikingov. Mi zmagamo!
+viking_merchant.greeting=Aujourd'hui je vient commercer. Demain... / Danes sem prišel trgovati. Jutri...
+weapon_merchant.greeting=Vous voulez vraiment savoir comment j'ai survécu toutes ces années voyageant seul avec des marchandises précieuses? / Želis vedeti kako sem preživel vsa ta leta potovanj?
+plant_merchant.greeting= / Nekateri ljudje pravijo da sem sanjač, ampak nisem edini...
+oriental_merchant.greeting=Ce pays est riche, mais fallait il vraiment qu'il soit si froid? / Ta dežela je bogata, ampak ali mora biti tako mrzla?
+oriental_merchant.greeting=Etes vous allez à Cordoue? Ca, c'est une ville civilisée. / Si že bil v Cordobi? Tam je zdaj civilizcija.
+art_merchant.greeting=Les gens ici sont des barbares. / Tukajšnji ljudje so barbari.
+art_merchant.greeting=Aucune ville dans le monde n'est comparable à Constantinople. / Nobeno mesto na svetu se ne more primerjati z Bizancem.
+art_merchant.greeting=Nous les byzantins sont les derniers vrais romans. Admirez notre civilisation! / Bizantini smo zadnji resnični Rimljani. Poglej v enciklopedijo za naš narod.
+wool_merchant.greeting=Les textiles hollandais sont les meilleurs à l'ouest de Cathay. / Nizozemska tekstilna industrija je najboljša.
+seneschal.greeting=Je gère ces terres pour mon roi. / Jaz sem uredil te dežele za mojega kralja.
+seneschal.greeting=J'ai hâte de retourner à la cours du roi. / Komaj čakam da stopim v kraljevi dvor.
+guildmaster.greeting=Les artisans ne valent rien sans quelqu'un pour les superviser. / Umetniki morajo imeti nekoga, ki jih bo varoval.
+
+knight.patrol=Je reigne sur ces terres. / Jaz ukazujem tem deželam.
+knight.patrol=La force fait le droit, et je suis fort. / Oblast je resnična in jaz sem mogočen.
+
+lady.MakeTapestry=Personne ici n'apprécie l'art. / Tukaj nihče ne ceni umetnosti.
+lady.MakeTapestry=Peut-être que ces pièces seront moins glauques avec ces tapisseries. Peut-être. / Mogoče bo to izgledalo bolje s tapiserijami na stenah, mogoče.
+
+villager.gorest=Un peu de repos me ferait du bien... / Mogoče bi se šel malo spočiti...
+villager.gorest=La vie ici est un peu morne. / Tukajšnje življenje je malo dolgočasno.
+villager.gorest=Rien d'intéressant n'arrive jamais ici. / Tukaj se nikoli nič ne dogaja.
+villager.gorest=Je suis fatigué. / Utrujen sem.
+villager.godrink=C'est à boire qu'il nous faut! / Potrebujem pijačo!
+villager.godrink=Un cidre n'a jamais fait de mal à personne. / Jabolčnik še nikoli ni nobenega ubil.
+villager.gopray=Je parle à Dieu, pas vous, $name. / Govorim z Bogom, ne s tabo, $name.
+
+farmer.BringBackResourcesHome=Récoltons ce blé doré. / Prinesimo nazaj to zlato žito.
+farmer.CollectCrop=On dirait que le blé est mûr. / Videti je da je žito zrelo.
+farmer.PlantSeeds=Je plante, et je récolterai. / Zdaj sadim, da bom potem obiral.
+
+lumberman.BringBackResourcesHome=Même ma femme devra admettre que c’est beaucoup de bois. / Celo žena bo rekla da je to veliko lesa.
+lumberman.ChopTrees=Regardez-moi couper cet arbre ! / Glej me, kako bom podrl to drevo!
+lumberman.GatherGoods=Bel arbrisseau là-bas. / Lepa sadika za drevo.
+lumberman.PlantSaplings=Bientôt ce sera un arbre magnifique ! Et je le couperai. / Kmalu bo to veliko, mogočno drevo! Jaz pa go bom podrl.
+
+wife.GetHouseTHResources=On dirai que mon mari a travaillé pour une fois. / Izgleda, kot da je moj leni mož končno nekaj nabral.
+wife.GetResourcesForBuild=Je part chercher une tonne ou deux de matérieaux. Je suis plus forte que j’en ai l’air ! / Grem nabrati tono ali dve materiala. Močnejši sem kot si misliš.
+//villager.DeliverResourcesShop=
+wife.MakeBread=Mon pain est le meilleure du village. / Moj kruh je najboljši.
+//villager.BeSeller=Coming, coming! / Prihajam, prihajam!
+wife.MakeCider=Préparer le cidre n’est pas le pire travail par ici. / Pripravljanje jabolčnika ni najslabše tukaj.
+wife.Construction=Je construit, je construit, comme seule une femme le peu ! / Gradim tako kot bi to gradila ženska!
+wife.Construction=Les hommes n’ont pas la finesse nécessaire au travail de précision. / Moški niso dovolj urejeni za natančno delo.
+wife.Construction=Ca va être un bâtiment superbe. / To bo ena lepa zgradba.
+wife.GetGoodsHousehold=Pourquoi est ce toujours moi qui doit tout aller chercher ? / Zakaj jaz?
+wife.getGoodsHousehold=Pourquoi est ce toujours moi qui doit tout aller chercher ? / Zakaj sem vedno tisti, ki mora iti po stvari?
+wife.DeliverGoodsHousehold="Vas chercher ça, vas chercher ça", ils me disent. Un jour je refuserais ! /  "Vzemo to, vzemi ono", pravijo. Nekega dne ne bom! Ne bom!
+
+villager.GoPlay=Je vais aller jouer dehors. / Igral se bom zunaj.
+villager.BecomeAdult=Il est l’heure de devenir quelqu’un ! / Čas je, da nekaj postanem!
+
+villager.MakeBoudin=Vous ne le mangeriez pas si vous saviez comment c’est fait. / Ne bi jedel če ne bi vedel iz česa je narejeno.
+
+smith.MakeTools=Les outils normands sont les meilleurs du monde. / Norveška orožja so najboljša.
+smith.MakeNormanWeapons=N'essayez pas d'affronter un homme armé par mes soins. / Ne poskušaj se tepsti z  človekom, ki ima mojo opremo.
+
+
+miner.Mining=Miner est un art, vous savez. / Rudarjenje je umetnost... Saj veš...
+miner.Mining=Personne d’autre dans le village n’a la force et l’endurance nécessaire à ce travail. Et vous pensez qu’ils sont reconnaissants ? / Nihče v tej vasi nima dovolj moči za to delo. In kaj jaz dobim v zahvalo? Nič!
+miner.Cooking=Ca c’est de la vrai cuisson. / Zdaj pa resno kuhajmo.
+
+villager.gopray.chosen=Ca fait longtemps que je n’ai pas prié… / Spet grem po dolgem času molit…
+priest.gopray.chosen=Prier est plus dur qu’il n’y paraît. / Molitev je težja naloga kot izgleda.
+
+villager.calltoarms=Aux armes ! Aux armes ! / Pridite sem! Pridite sem!
+villager.calltoarms=Montjoi Saint-Denis! /Veliki Sveti Denis!
+villager.calltoarms=Tous pour un ! / Vse za enega!
+villager.calltoarms=Aux armes, citoyens! /Pridite sem, ljudje!
+
+monk.makebooks=Si la vanité n’était pas un péché, je dirai que mes manuscrits sont les plus beaux du pays. / Če nečimrnost ne bi bil greh, bi jaz rekel, da so moji rokopisi najboljši.
+
+priest.makeamulets=Ceci ne devrait pas être vu par un étranger… / Tujci naj tega ne bi videli...
+
+viking_merchant.KeepStall=La magie viking est puissance. / Vikingška magija je zelo močna.
+viking_merchant.KeepStall=Venez et achetez. Je ne vous parlerai pas des sacrifices nécessaires pour rendre ces amulettes puissantes. / Pridi in kupi. Ne bom povedal koliko žrtvovanja je bilo potrebnega za te amulete.
+weapon_merchant.KeepStall=Vous ne voulez pas savoir ce qui est arrivé à l’homme qui m’a fait cette cicatrice. Mais vous pouvez acheter la lame que j’ai utilisée. / Verjemi, nočeš vedeti kaj se je zgodilo mojemu možu na katerem sem uporabila ta nož.
+plant_merchant.KeepStall=Je vend toutes les herbes dont vous aurez jamais besoin. / Prodajam vsa zelišča ki jih potrebuješ.
+oriental_merchant.KeepStall=Venez voir des produits de luxes tels que les gens d’ici ne voient jamais ! / Pridi in poglej luksuz o katerem drugi le sanjanjo!
+art_merchant.KeepStall=Des perles pour des cochons, comme ils disent ici. / Tukaj imam bisere.
+wool_merchant.KeepStall=Toute la laine rose qu’il vous faut ! / Volna vseh barv!
+
+villager.makeglassbottles=Une fiole de qualité, c'est une potion réussie! / Dobro narejene steklenice naredijo napoj dober.
+villager.harvestwarts=Heuresement que je porte des gants. / Hvala bogu, da imam na sebi rokavice!
+villager.plantwarts=Seul Maître Vif-argent aurait pu comprendre comment cultiver ces horreurs. / Samo mojster ostrih kovin razume kako gojiti te ambicije.
+villager.brewpotions=Un jour je serais un maître alchimiste! / Neki dam bom tudi jaz mojster alkimistike!

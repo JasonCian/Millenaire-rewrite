@@ -1,0 +1,99 @@
+fallenking_1_firstomens_0_label=Sombres présages
+fallenking_1_firstomens_0_description=$name... Avez-vous étudié les cycles récemment ? Le peuple mystérieux dont vous venez doit bien avoir quelques connaissances en astronomie ! J'ai scruté les astres, fais quelques sacrifices, et rien ne s'éclaircie. Mais je sens que l'avenir est sombre. Et ce n'est pas que les présages: j'ai eu connaissance d'informations très inquiétantes par mes contacts avec d'autres chamanes. Aidez-moi à en savoir plus, je suis très inquiet !
+fallenking_1_firstomens_0_description_refuse=Les Dieux puissent nous épargner !
+fallenking_1_firstomens_0_description_success=Je vais préparer un nouveau sacrifice pour que les Dieux m'accordent davantage d'informations. Il va falloir que vous me rameniez des offrandes acceptables. Puisque nous ne faisons plus de prisonniers humains, les restes de ces démons qui hantent les nuits d'ici suffiront.
+
+fallenking_1_firstomens_1_label=Ramener de quoi offrir un sacrifice
+fallenking_1_firstomens_1_description=Que me ramenez-vous, $name ?
+fallenking_1_firstomens_1_description_success=Vous êtes un chasseur redoutable. Les Dieux seront contents et nous aiderons. Laissez-moi faire le sacrifice et revenez me voir.
+fallenking_1_firstomens_1_listing=Je dois ramener de la chair putréfiée, des os et des yeux d'araignées au chamane.
+
+
+fallenking_2_warpreparations_0_label=Préparatifs guerriers
+fallenking_2_warpreparations_0_description=Les Dieux ont accepté mon sacrifice et m'ont envoyé des signes. J'ai également eu des nouvelles d'un puissant chamane d'un village lointain, et elles ne sont pas bonnes. J'imagine que vous avez entendu parler du puissant roi Ixtab K'u Ix? Non? Vous n'êtes donc pas omniscient !<ret><ret>Je vous expliquerai. Mais d'abord, je dois penser au village. Je sais que vous connaissez le secret de la fabrication d'armes bien plus tranchantes que nos lames d'obsidiennes. Notre chef $localleader_villagername$ saura en faire bon usage pour nous protéger dans ce cycle néfaste. Je vous en pris, aidez-nous !
+fallenking_2_warpreparations_0_description_refuse=Les Dieux puissent nous épargner !
+fallenking_2_warpreparations_0_description_success=Je pense que quatre lames et deux armures seront suffisantes. Mais je ne suis pas un homme de guerre, il vous renseignera plus précisément sur nos besoins.
+
+fallenking_2_warpreparations_1_label=Ramener l'armement
+fallenking_2_warpreparations_1_description=Notre chamane m'inquiète. Il a toujours su nous guider dans ces cycles de malheur, et s'il dit que nous risquons la guerre, je le crois. Qu'avez vous amené pour nous aider ?
+fallenking_2_warpreparations_1_description_success=Ces armes sont magnifiques ! Vraiment, nos armuriers sont des enfants face à ceux des autres peuples.
+fallenking_2_warpreparations_1_listing=Je dois ramener des armes et des armures de fer au chef du village.
+
+
+fallenking_3_thecamp_0_label=Sur les traces du Roi
+fallenking_3_thecamp_0_description=Maintenant que notre village a de quoi se défendre, je dois vous parler du roi Ixtab K'u Ix. C'est un puissant souverain, qui régnait sur une grande partie du Yucutan dans l'ancien monde et a réussit à réunifier de nombreux villages mayas depuis que nous sommes ici. On le dit autoritaire et arrogant, mais les Dieux lui sont favorables et il a beaucoup fait pour notre peuple. J'ai reçu récemment un message étrange de son chamane personnel, Tohil Uchben, un homme brillant et ambitieux. Il parle d'une découverte fascinante faite avec son suzerain. Il ne donne pas de détail, sauf qu'elle aurait un rapport avec Xibalba, le monde des morts! Je suis inquiet, $name. Je crains qu'il y ai un rapport avec ces présages qui me troublent. Le roi Ixtab K'u Ix et son chamane ont peut être trouver quelque chose de dangereux dans ce monde étrange. Pourriez-vous enquêter ?
+fallenking_3_thecamp_0_description_refuse=Les Dieux puissent nous épargner !
+fallenking_3_thecamp_0_description_success=Je n'ai pas beaucoup d'informations, mais Tohil Uchben m'écrivait d'un campement dans la forêt ou jungle qui semblait en lien avec leur découverte, quelle qu'elle soit. Cherchez, et je continuerai mes sacrifices pour que les Dieux consentent à vous guider.
+
+fallenking_3_thecamp_1_label=Parler au chamane
+fallenking_3_thecamp_1_description=Vous avez voyagé longtemps, et les mauvais présages se sont succédés en votre absence. Quelles sont les nouvelles ? Avez vous trouvé le roi Ixtab ou Tohil Uchben ?
+fallenking_3_thecamp_1_description_success=Une espèce de porte violette s'ouvrant vers un monde de flammes ! Je n'avais jamais pensais qu'ils aient pu trouver quelque chose d'aussi incroyable ! Et d'aussi dangereux. Je ne sais pas si c'est la porte de Xibalba ou une plaisanterie sinistre d'un Dieu malveillant mais cette nouvelle me terrifie. Et pourquoi les troupes du roi vous ont elles attaquées sans provocation? Les mayas ne sont pas un peuple très pacifique, mais une telle agressivité n'est pas normale. Et pourquoi cette prison vide dans ce camp ? Je ne sais que penser. Je suis perdu, $name. Je vais consulter les Dieux de nouveau.
+fallenking_3_thecamp_1_listing=Je dois explorer jusqu'à trouver le camp du roi Ixtab dans la jungle ou la forêt, puis le visiter et retourner voir le chamane.
+
+
+fallenking_4_newomens_0_label=Nouveau sacrifice
+fallenking_4_newomens_0_description=$name, j'ai fais plusieurs sacrifices sans que les Dieux me répondent. Ils n'acceptent plus mes offrandes ! Leur avidité est sans fin, et ils réclament toujours davantage avant d'accorder leur aide. Nous avons besoin de quelque chose de fort à leur offrir - un sacrifice rare, qui demande force et courage à réunir. M'aiderez-vous encore une fois?
+fallenking_4_newomens_0_description_refuse=Les Dieux puissent nous épargner !
+fallenking_4_newomens_0_description_success=Je pense savoir ce qui pourrait les satisfaire: cet objet que vous avez trouvé près du portail maléfique, je sens qu'il vient d'un être redoutable. Ils feront des sacrifices auxquels même les Dieux devront répondre! Pouvez-vous me ramener quelques unes de ces larmes de cristal?
+
+fallenking_4_newomens_1_label=Ramener les larmes
+fallenking_4_newomens_1_description=Avez-vous trouvé les créatures produisant ces larmes ? Avez-vous pu en sacrifier un nombre suffisant ?
+fallenking_4_newomens_1_description_success=Alors elles viennent de créatures flottantes crachant des flammes ? Et vous êtes capable de les vaincre ? $name, vous aussi n'êtes peut être pas ce que vous semblez... Etes-vous donc également natif de Xibalba ? Je le demanderai aux Dieux en sacrifiant ces larmes. Venez me voir après.
+fallenking_4_newomens_1_listing=Je dois ramener quatre larmes de ghast au chamane.
+
+
+fallenking_5_thepyramid_0_label=La Pyramide d'Obsidienne
+fallenking_5_thepyramid_0_description=Les Dieux m'ont envoyé une image forte, $name: celle d'une pyramide maya de grande taille, avec un temple d'obsidienne au sommet. Il ne peut s'agir que d'un seul site... Keban Muul, un édifice construit il y a longtemps pour honorer Ah Puch et où des sacrifices innombrables ont eu lieu avant qu'il soit abandonné. Je crois que le roi Ixtab y est retranché. Les Dieux seuls savent pourquoi. Il faut que vous le trouviez et mettiez fin à ce commerce avec Xibalba !
+fallenking_5_thepyramid_0_description_refuse=Les Dieux puissent nous épargner !
+fallenking_5_thepyramid_0_description_success=Je ne connais pas l'emplacement de cette pyramide, mais elle était au cœur d'une forêt. Voyagez pendant que je sacrifie aux Dieux pour qu'ils assurent votre succès.
+
+
+fallenking_6_thesiege_0_label=Le Chamane du Roi
+fallenking_6_thesiege_0_description=Par Ach Puch, qui êtes vous ? Vous avez tué le Roi Ixtab et massacré son armée à vous tout seul ! On aurait dit le Dieu Buluc Chabtan en personne !<ret><ret>Enfin, qui que vous soyez, vous ne pouvez pas être pire que le démon qui hante ce lieu... depuis que nous avons déterré ce portail maléfique là bas dans la jungle et visité Xibalba, le Roi semblait comme possédé. Il nous a emmené dans ce temple maudit depuis longtemps... Il ne rêvait plus que d'or et de conquêtes, et jurait de sacrifier tous les villages des environs à Ach Puch en personne. Il avait toujours été ambitieux, mais jamais sanguinaire. Je ne le reconnaissait plus, moi qui l'ai instruit depuis son enfance. Et quand je me suis opposé à ces projets, il m'a fait prisonnier, moi, son plus fidèle compagnon! Mais je ne crois pas que c'était encore lui qui parlait. J'espère que c'est fini maintenant qu'il est mort. Pouvez-vous m'aider à rentrer chez moi ?
+fallenking_6_thesiege_0_description_refuse=Je resterais ici alors, là où mon roi est mort.
+fallenking_6_thesiege_0_description_success=Attendez... Je sens quelque chose. Je crois que nous sommes menacés ! Je ne suis pas un homme de guerre, laissez-moi rester ici et allez voir ce qu'il se passe. Je crains le pire.
+
+fallenking_6_thesiege_1_label=Sauvés !
+fallenking_6_thesiege_1_description=Votre démonstration de combat était impressionnante... Savez-vous qu'il a fallut dix des gardes d'élite du Roi Ixtab pour vaincre une seule de ces grandes créatures blanches dans l'autre monde ? Vous les abattiez comme de vulgaires mouches ! Mais restons sur nos gardes. Il semble bien que le démon ou Dieu qui manipulait mon suzerain ne veut pas nous voir survivre. Peut être est-ce de la vengeance, peut être de la peur... Laissez-moi reprendre mes esprits et nous aviserons du reste. Reposez-vous également, je ne doute pas que nous ayons besoin à nouveau de vos talents guerrier.
+fallenking_6_thesiege_1_description_success=Nous reparlerons bientôt.
+fallenking_6_thesiege_1_listing=Je dois défendre la pyramide et le chamane contre les hordes de démons.
+
+
+fallenking_7_thepit_0_label=La chambre de lave
+fallenking_7_thepit_0_description=Quand nous sommes arrivés ici, le roi m'a emmené dans une chambre au plus bas niveau de cette pyramide... Il y avait un bassin d'obsidienne rempli de lave. Il était déjà à moitié fou à ce moment, et m'a fait une grande tirade sur comment c'est ici qu'il ferait ses sacrifices les plus puissants, en y jetant les chefs de tous les villages qui s'opposeraient à lui. Je ne pense pas que ses discours fiévreux soient importants, mais je m'interroge sur cet étrange bassin. À quoi sert-il ? D'où vient la lave ? Vous devriez regarder.
+fallenking_7_thepit_0_description_refuse=Je resterais ici alors, là où mon roi est mort.
+fallenking_7_thepit_0_description_success=L'escalier à côté de ma prison y mène. Vous aurez peut être à suivre cette lave... Tenez, prenez ces aliments brûlants que j'ai obtenu d'un village indien. Ils vous rendront resistant à la lave. Et buvez cette cacauhaa. S'il fait sombre là où vous arriverez, elle vous aidera à y voir plus clair.
+
+fallenking_7_thepit_1_label=Le traquenard
+fallenking_7_thepit_1_description=Avez-vous pu trouver la source de cette lave ?
+fallenking_7_thepit_1_description_success=Vous avez l’air secoué, $name. Et vous dites qu’il n’y avait rien... Juste ces monstres apparaissant de toute part dans ces chambres vides... Je m’attendais à tout sauf à ça.<ret><ret>$name, je ne vois qu’une seule explication: ce puit était un piège, destiné à éliminer les visiteurs trop entreprenants. C’est une maigre consolation après tant d’efforts en vain, mais vous êtes visiblement plus fort que le démon qui a conçut ce piège ne le pensait.
+fallenking_7_thepit_1_listing=Je dois trouver la source de la lave dans la pièce derrière la prison. 
+
+
+fallenking_8_sacrifice_0_label=Sacrifices guerriers
+fallenking_8_sacrifice_0_description=J’hésitais à vous en parler, $name, mais après votre combat dans cette chambre souterraine vous avez plus que gagné le droit de partager mes connaissances. Si le Roi Ixtab m’a épargné quand je me suis opposé à lui, c’est qu’il avait besoin de mes liens privilégiés avec les Dieux. Depuis que je suis dans ce nouveau monde, j’ai fait de nombreux sacrifices et consommé souvent la boisson sacrée Cacauhaa, et j’ai pu obtenir des Dieux qu’ils aident les guerriers du roi en enchantant leurs armes et armures. Les Dieux demandent beaucoup de sang pour les enchantements puissants, mais les armes obtenues sont redoutables. Le Roi voulait garder ces rituels pour le seul usage de ses guerriers – mais je ne veux plus risquer qu’un seul homme puisse utiliser ces armes. Allez voir un chamane de ma part et transmettez-lui ces rituels. 
+fallenking_8_sacrifice_0_description_refuse=Je resterais ici alors, là où mon roi est mort.
+fallenking_8_sacrifice_0_description_success=Bonne route, $name. Revenez me voir après. Je resterai ici et parlerai aux Dieux. Je ne pense pas que nous ayons fini avec cette pyramide.
+
+fallenking_8_sacrifice_1_label=Retour au chamane
+fallenking_8_sacrifice_1_description=J’interroge les Dieux. Il leur faut toujours plus de sacrifices !
+fallenking_8_sacrifice_1_description_success=C’est donc fait. Je ne suis plus le seul chamane à pouvoir enchanter des armes. J’espère que j’ai bien fait. 
+fallenking_8_sacrifice_1_listing=Je dois transmettre à un chamane de village les rituels de Tohil Uchben.
+
+
+fallenking_9_backtothevillage_0_label=Nouveaux rituels
+fallenking_9_backtothevillage_0_description=Vous souhaitez me parler, $name ? 
+fallenking_9_backtothevillage_0_description_refuse=Je retourne à mes rituels, dans ce cas.
+fallenking_9_backtothevillage_0_description_success=Ces rituels sont sombres ! Terrifiants même. Tohil Uchben a de grands pouvoirs et il a dû sacrifier beaucoup pour obtenir ces connaissances. Mais je peux les faire, si vous amenez le sang que les Dieux réclameront. Allez me voir à l’autel des sacrifices.
+
+
+fallenking_10_thebrokendoor_0_label=La source du mal
+fallenking_10_thebrokendoor_0_description=En votre absence, j’ai redoublé mes sacrifices et Yum Kaax, Dieu du maïs, m’a envoyé un message. Je le crois jaloux des succès du démon responsable de ce lieu... En tout cas, il m’a aidé à localiser la source du mal qui hante cet endroit. Elle est bien sous terre, mais plus profond et mieux caché que la chambre que vous aviez trouvée. Etes-vous prêt à affronter ces forces encore une fois ?
+fallenking_10_thebrokendoor_0_description_refuse=Je resterais ici alors, là où mon roi est mort.
+fallenking_10_thebrokendoor_0_description_success=Ah Puch vous protège, $name. Si ce n’est pas lui en personne qui a conçu cet endroit !
+
+fallenking_10_thebrokendoor_1_label=La porte brisée
+fallenking_10_thebrokendoor_1_description=Est-ce enfin fini, brave $name ?
+fallenking_10_thebrokendoor_1_description_success=Une porte, comme celle que nous avions trouvée, mais faite d’une matière indestructible et... brisée.  Elle doit ouvrir sur la dimension d’où vient celui qui est derrière tout ça ! Mais comment le suivre ? Un océan de sacrifices ne nous permettrait pas d’obtenir une telle faveur des Dieux. $name, je crains que vos efforts s’arrêtent ici. Pour le moment, en tout cas.<ret><ret>Mais ne pensez pas que c’était en vain ! L’argent humain et les armes que vous avez trouvé en bas montre bien que le démon s’apprêtait à utiliser le Roi Ixtab pour lancer une guerre dans ces contrées. Et qu’il les ai laissé derrière lui en partant montre qu’il s’est enfuit précipitamment à votre arrivée ! Vous ne l’avez pas achevé, mais vous l’avez fait fuir. Peu d’hommes peuvent se vanter d’avoir vaincu un démon. Je vous salue, $name.<ret><ret>Et je pense qu’il est juste que je vous remette ceci, que j’ai retrouvé dans la pyramide en votre absence: la couronne que j’avais faite pour le Roi Ixtab. Nul autre que vous n’en est digne désormais. Portez-là, elle vous protégera et vous permettra de nager sous l'eau comme un caïman. Faites-en bon usage. Et sachez également que l’homme qui la possède sera reconnu comme roi partout en terres mayas. Souhaiteriez-vous fonder votre propre cité, les mayas vous suivrons. Adieu, $name.
+fallenking_10_thebrokendoor_1_listing=Je dois explorer la source du mal sous la pyramide révélée au chamane.
+

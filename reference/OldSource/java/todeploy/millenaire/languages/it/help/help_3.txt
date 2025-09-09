@@ -1,0 +1,35 @@
+version:3.4
+<darkblue>Reputazione e capi villaggio
+
+Ogni villaggio in Millénaire ha una opinione di te, neutrale all'inizio, che cambierà in base alle tue azioni. Questa reputazione è molto importante: molti riconoscimenti sono possibili solo con una buona reputazione, e se la tua reputazione è troppo negativa i cittadini si rifiuteranno di commerciare. Puoi verificare la tua reputazione parlando (<darkblue>click-destro<black>) col capo villaggio.
+
+Il modo principale per migliorare la reputazione è commerciare. Sia l'acquisto che la vendita migliorano la reputazione in proporzione al prezzo. Puoi incrementare la tua reputazione anche svolgendo missioni. Per contro, attaccare un abitante o fallire una missione peggiorerà la tua reputazione.
+
+
+Esiste anche una <darkblue>reputazione per cultura<black>. Questa dipende dalla reputazione dei singoli villaggi di una stessa cultura, e influenza il commercio con altri villaggi della stessa cultura. Per esempio, se hai un'ottima reputazione con un villaggio normanno, piacerai (un po') di più anche gli altri villaggi normanni. Puoi verificare la reputazione con una cultura nella schermata informazioni (di default tasto “M”).
+
+<darkblue>Azioni che richiedono un certo livello di reputazione
+
+<darkblue>Acquistare le pergamene del villaggio
+
+Con una buona reputazione è possibile acquistare le pergamane del villaggio. Queste contengono tutte le informazioni mostrate dai pannelli del villaggio.
+
+<darkblue>Acquistare una casa
+
+Con una reputazione adeguata puoi acquistare una casa (o il terreno dove costruire) parlando con il capo villaggio. La casa sarà costruita al termine della costruzione in corso. A differenza del resto del villaggio, questo edificio ti appartiene e puoi modificarlo come preferisci.
+
+<darkblue>Imparare la coltivazione di una pianta
+
+E' possibile imparare a coltivare le piante specifiche di alcune culture di Millénaire. Chiedi al capo villaggio qunado la tua reputazione sarà sufficiente.
+
+<darkblue>Acquistare oggetti aggiuntivi
+
+Alcuni oggetti di valore richiedono una certa reputazione per essere acquistati. La schermata del commercio mostra con che reputazione sarà possibile acquistare l'oggetto.
+
+<darkblue>Missioni aggiuntive
+
+Alcune missioni, inclusa la missione della Creazione, possono essere cominciate solo un con reputazione positiva (vedi <darkblue>“missioni” <black>).
+
+<darkblue>Diventa leader di una cultura
+
+Una volta raggiunta la reputazione massima (<darkblue>"leader naturale" <black>) potrai creare un villaggio e diventarne il leader (vedi <darkblue> "creare un villaggio"<black>)

@@ -1,0 +1,13 @@
+//Parameters for the building as a whole
+building.length=9
+building.width=9
+building.buildingorientation=3
+building.icon=stone
+
+building.travelbook_display=false
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Archaio Theatro
+

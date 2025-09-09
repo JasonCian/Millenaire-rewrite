@@ -1,0 +1,12 @@
+building.length=17
+building.width=21
+building.buildingorientation=0
+
+building.icon=beefraw
+
+initial.startlevel=-1
+initial.nativename=Inek Çiftliği
+initial.male=turk_lonecowfarmer
+initial.tag=slaughtercowseljuk
+initial.tag=cattle
+initial.shop=lonecowfarm

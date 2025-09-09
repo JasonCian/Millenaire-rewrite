@@ -1,0 +1,1 @@
+native:Ika Sakuba;gameNameKey:squidfarm_A0;tag:squids;squid:2-4;sign:1;radius:10

@@ -1,0 +1,80 @@
+name=Nouji Mura
+icon=udon
+weight=10
+carriesraid=true
+
+pathmaterial=pathdirt
+pathmaterial=pathgravel
+pathmaterial=pathgravelslabs
+
+//Vanilla biomes
+biome=Taiga
+biome=Taiga Hills
+biome=Taiga M
+biome=Extreme Hills
+biome=Extreme Hills+
+
+//biomes o'plenty
+biome=boreal forest
+biome=maple woods
+biome=shield
+
+//Traverse biomes
+biome=Autumnal Woods
+biome=Woodlands
+biome=Coniferous Forest
+biome=Forested Hills
+biome=Autumnal Wooded Hills
+biome= Birch Forested Hills
+
+outerwallType=borderposts
+
+//starting buildings=
+centre=japanesefarmbig
+start=japaneselmh
+start=japanesefarm
+start=japanesegrove
+start=japanesepaddy
+start=japanesepeasanth
+start=japanesepeasanth
+start=japaneseinn
+
+player=japaneseplot1
+player=japaneseplot2
+player=japaneseplot3
+player=japanesehut
+player=japanesehouse
+player=japanesehousemedium
+player=japanesehouselarge
+player=japanesearcheryrange
+player=gifthouse
+
+//to be built in priority
+core=squidfarm
+core=japanesefishery
+core=japanesecrafter
+core=japanesequarry
+core=japanesekitchen
+core=japanesemarket
+core=chickenfarm
+core=well
+
+//to be built after the core ones
+secondary=japanesearchive
+secondary=japaneseshintoshrine
+secondary=japaneselookout
+secondary=japaneseforge
+secondary=japanesesamuraih
+
+//not to be built
+never=japanesepalace
+never=japanesefort
+never=japanesepagoda
+never=japanesearmyforge
+never=bath
+
+banner_json={BlockEntityTag:{Base:0,Patterns:[{Pattern:jaa,Color:15}]}}
+banner_json={BlockEntityTag:{Base:4,Patterns:[{Pattern:jaa,Color:15}]}}
+banner_json={BlockEntityTag:{Base:2,Patterns:[{Pattern:jaa,Color:15}]}}
+banner_json={BlockEntityTag:{Base:5,Patterns:[{Pattern:jaa,Color:15}]}}
+banner_json={BlockEntityTag:{Base:1,Patterns:[{Pattern:jaa,Color:15}]}}

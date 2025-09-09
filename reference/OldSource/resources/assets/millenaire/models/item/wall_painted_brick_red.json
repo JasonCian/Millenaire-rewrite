@@ -1,0 +1,6 @@
+{
+    "parent": "block/wall_inventory",
+    "textures": {
+        "wall": "millenaire:blocks/painted_brick_red"
+    }
+}

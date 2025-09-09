@@ -1,0 +1,11 @@
+
+farmp_a0=Kartoffelfeld
+farmp_b0=Kartoffelfeld
+farmw_a0=Weizenfeld
+hunter_a0=Haus des Jägers
+hunterex_a0=Haus des Jägers
+lumberman_a0=Haus des Holzfällers
+market_a0=Markt
+playermedhouse_a0=Haus
+playersmallhouse_a0=kleines Haus
+flower_a0=Blumenwiese

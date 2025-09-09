@@ -1,0 +1,19 @@
+//Japanese config that makes them prefer Japanese weapons and armours to "better" options
+
+//priority for use
+weaponHandToHandPriority=tachisword,120
+
+//priority for pickup
+toolSwordPriority=tachisword,120
+
+armourHelmetPriority=japanesebluehelmet,120
+armourHelmetPriority=japaneseredhelmet,120
+
+armourChestplatePriority=japaneseblueplate,120
+armourChestplatePriority=japaneseredplate,120
+
+armourLeggingsPriority=japanesebluelegs,120
+armourLeggingsPriority=japaneseredlegs,120
+
+armourBootsPriority=japaneseblueboots,120
+armourBootsPriority=japaneseredboots,120

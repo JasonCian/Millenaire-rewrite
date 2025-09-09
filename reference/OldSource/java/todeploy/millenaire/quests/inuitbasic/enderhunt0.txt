@@ -1,0 +1,13 @@
+minreputation:2*64*64
+chanceperhour:0.6
+maxsimultaneous:3
+step:new
+definevillager:key=startvillager,type=inuits/inuit_shaman0
+villager:startvillager
+duration:168
+step:new
+villager:startvillager
+duration:168
+requiredgood:enderpearl,6
+rewardreputation:1024
+penaltyreputation:1200

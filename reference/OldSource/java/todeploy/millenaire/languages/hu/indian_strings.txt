@@ -1,0 +1,32 @@
+culture.indian=indian
+
+villager.indian_boy=Fiú
+villager.indian_girl=Lány
+villager.indian_teenagerMale=Legény
+villager.indian_teenagerFemale=Hajadon
+villager.indian_lumberman=Favágó
+villager.indian_miner=Bányász
+villager.indian_pandit=Pap
+villager.indian_peasant=Paraszt
+villager.indian_peasantwife=Parasztaszony
+villager.indian_rajputgeneral=Rajput tábornok
+villager.indian_richwoman=Gazdag nő
+villager.indian_soldier=Rajput katona
+villager.indian_villagechief=A falu vezetője
+villager.indian_smith=Kovács
+villager.indian_armysmith=Fegyverkovács
+villager.indian_sculptor=Kőfaragó, szobrász
+villager.indian_panditayin=Papné
+villager.indian_raja=
+villager.indian_rani=
+villager.indian_merchant=Kereskedő
+villager.indian_lonetrader=Magányos kereskedő
+villager.indian_adivasipeasant=Adivasi paraszt
+villager.indian_sadhu=
+villager.merchant_oriental=Perzsa kereskedő
+villager.merchant_adivasi=Adivasi kereskedő
+villager.merchant_villagewoman=Falusi kereskedő
+
+shop.townhall=Központi üzlet
+shop.forge=Szerszámok
+shop.armyforge=Páncélok és fegyverek

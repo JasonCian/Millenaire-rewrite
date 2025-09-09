@@ -1,0 +1,1 @@
+native:Buttou;gameNameKey:japanesepagoda_A0;tag:Praying;male:japanese_monk;tag:leasure;chest:1-5;sign:1

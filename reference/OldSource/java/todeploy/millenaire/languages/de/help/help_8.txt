@@ -1,0 +1,23 @@
+version:3.4
+<darkred>Die Normannen
+
+Die erste Kultur, die in Millenaire eingeführt wurde, die Normannen haben die größte Anzahl an Dorftypen: Landwirtschaftliche, Militärische, Religiöse, Industrie Orientierte Dörfer und sogar Großstädte, welche je drei Stadteile um sich haben. Die Normannen sprechen französisch, aber wenn der Spieler (im Laufe der Zeit) die Sprache lernt wird es für den Spieler übersetzt.
+
+Die Normannen produzieren viele einzigartige Gegenstände.
+
+<darkred>Einzigartige Objekte und Blöcke:
+
+<darkblue>Normannische Werkzeuge
+Sie sind effektiver, als Diamant Werkzeuge (von einem Schmied in der Schmiede hergestellt).
+
+<darkblue>Normannische Schwerter und Rüstungen 
+Sie werden in der Waffenkammer hergestellt und ebenfalls besser als Diamantwaffen und Rüstungen.
+
+<darkblue>Boudin, Tripes, Calvados und Apfelwein
+Lebensmittel, welche die Lebensenergie des Spielers unmittelbar wieder herstellen.
+
+<darkblue>Fachwerk
+2 unterschiedliche Blöcke - weit verbreitet für den Bau verwendet z.B. um weiterentwickelte normannische Gebäude zu errichten. Sie werden nur bei einem Schreiner hergestellt.
+
+<darkblue>Normannische Wandteppiche
+Werden hergestellt von der Lady eines Schlosses aus Wolle (2 Weiße, je ein grauer, hellgrauer, schwarzer und brauner) und stellen Auszüge der Bayeux'schen Wandteppichkunst dar.

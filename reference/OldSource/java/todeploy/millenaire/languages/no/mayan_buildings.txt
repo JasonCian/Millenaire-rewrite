@@ -1,0 +1,78 @@
+
+mayanplayerestate_A0=Stor pyramide
+mayancrafter_A0=Håndverkerbolig
+mayanarmyforge_A0=Jegerens smie
+mayansculptorhouse_A0=Skulptørbolig
+mayanlibrary_A0=Bibliotek
+mayanacropolis_A0=Kongelig ballbane
+mayanalter_A0=Oppofrelsesalter
+mayanhouse_A0=Mayahjem
+mayanhouse_B0=Mayahjem
+mayanhouse_C0=Mayahjem
+mayanhouse_D0=Mayahjem
+mayanlumber_A0=Øksemannbolig
+mayanmining_A0=Steingruve
+mayanguard_A0=Beskytterbolig
+mayangrove_A0=Lund
+mayanpyramid_A0=Pyramide
+mayaninn_A0=Kro
+mayanlargepeasanthouse_A0=Veldig stort hjem
+mayanlargepeasanthouse_A_secondary_A0=Veldig stort hus
+mayanlargepeasanthouse2_A0=Lavere hjem
+mayanlargepeasanthouse2_A_secondary_A0=Øvre hus
+mayanbakery_A0=Bakeri
+mayanballcourt_A0=Ballbane
+mayanplayerlargehouse_A0=Storslagen pyramide
+mayancalendar_A0=Solkalender
+mayancave_A0=Hule
+mayancistern_A0=Sisterne
+mayancornfarm_A0=Kornfarm
+mayancornfarm_B0=Kornfarm
+mayancornfarm_C0=Kornfarm
+mayanobservatory_A0=Observatorium
+mayansheepchickenfarm_B0=Kyllingfarm
+mayanplayerhugefield_A0=Stor tomt
+mayanplayerlargefield_A0=Medium tomt
+mayanplayersmallfield_A0=Liten tomt
+mayanplayersmallhouse_A0=Gammelt hus
+mayanshamangrounds_A0=Sjamanens eiendom
+mayansheepchickenfarm_A0=Kyllingfarm
+mayantemple_A0=Tempel
+mayanwatchtower_A0=Utkikkstårn
+mayanmarket_A0=Marked
+mayancacaofarm_A0=Kakaoplantasje
+mayancacaofarm_B0=Kakaoplantasje
+
+mayanplayerpyramid_A0=Spillerens pyramide
+
+lonemayancave_A0=Mayahule
+lonemayanfarm_A0=Enslig mayafarm
+lonemayanshaman_A0=Sjamanens eiendom
+mayanbandits_A0=Utkikkspost til banditter
+mayanruinedpyramid_A0=Tapt pyramide
+mayanbandithome_A0=Bandittbolig
+lonemayanruin_A0=Tapt mayahjem
+lonemayancornfarm_A0=Tapt mayakornfarm
+lonemayanmining_A0=Tapt steingruve
+mayanpyramid_A0=Pyramide
+
+gifthouse_a0=Gavehus
+
+questpyramid_A0=Forbannet pyramide
+questpyramid_pit_A0=Forbannet pyramide
+questpyramid_guards_A0=Forbannet pyramide
+questpyramid_jail_A0=Forbannet pyramide
+
+questguardtower_A0=Vakttårn
+questcamphouse_A0=Brakke
+questbarrack_A0=Brakke
+
+mayancamp_A0=Mayaleir
+mayancamp_outerguard_A0=Mayaleir
+mayancamp_dig_A0=Mayaleir
+mayancamp_wall_A0=Mayaleir
+mayancamp_jail_A0=Mayaleir
+mayancamp_innerguard_A0=Mayaleir
+
+questcave_door_A0=Mayahule
+questcave_A0=Mayahule

@@ -1,0 +1,46 @@
+//Parameters for the building as a whole
+building.length=22
+building.width=42
+building.buildingorientation=3
+building.max=0
+building.icon=mayanstatue
+
+
+//Parameters for initial construction
+initial.nativename=Kan Cha'an
+initial.priority=600
+initial.male=mayan_king
+initial.female=mayan_richwoman
+initial.tag=leasure
+initial.shop=mayantownhall
+initial.signs=2,1,3,5,7,8,6,4,0
+
+//Parameters for specific upgrades
+upgrade2.priority=580
+
+upgrade3.priority=560
+
+upgrade4.priority=540
+
+upgrade5.priority=520
+
+upgrade6.priority=500
+
+upgrade7.priority=480
+
+upgrade8.priority=460
+
+upgrade9.priority=440
+
+upgrade10.priority=420
+
+upgrade11.priority=400
+
+upgrade12.priority=380
+
+upgrade13.priority=360
+
+upgrade14.priority=340
+
+upgrade15.priority=320
+

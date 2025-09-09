@@ -1,0 +1,24 @@
+//Parameters for the building as a whole
+building.length=10
+building.width=11
+building.buildingorientation=3
+building.icon=book
+building.version=2
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Pandit Ka Ghar
+initial.priority=500
+initial.male=indian_pandit
+initial.female=indian_panditayin
+
+//Parameters for specific upgrades
+upgrade1.priority=50
+
+upgrade2.priority=45
+
+upgrade3.priority=40
+
+upgrade4.priority=35
+upgrade4.pathlevel=1
+

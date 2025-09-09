@@ -1,0 +1,21 @@
+{
+    "display": {
+        "icon": {
+            "item": "millenaire:stone_deco",
+            "data": 2
+        },
+        "title": {
+            "translate": "advancements.complete_mayan.name"
+        },
+        "description": {
+            "translate": "advancements.complete_mayan.desc"
+        },
+        "frame": "goal"
+    },
+    "parent": "millenaire:leader_mayan",
+    "criteria": {
+        "complete_mayan": {
+            "trigger": "complete_mayan"
+        }
+    }
+}

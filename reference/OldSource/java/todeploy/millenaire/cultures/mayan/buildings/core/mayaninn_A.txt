@@ -1,0 +1,21 @@
+//Parameters for the building as a whole
+building.length=10
+building.width=10
+building.buildingorientation=3
+building.farfromtag=leasure,30
+building.icon=bed_red
+
+//Parameters for initial construction
+initial.nativename=Laak'noh Nah
+initial.priority=600
+initial.male=mayan_merchant
+initial.tag=inn
+initial.tag=leasure
+initial.signs=1,0
+
+//Parameters for specific upgrades
+upgrade1.priority=60
+
+upgrade2.priority=55
+upgrade2.pathlevel=1
+

@@ -1,0 +1,78 @@
+//villager.CookBrick=A'-la yam k'a'am tunich. / Es ist starker Stein.
+//villager.DryBrick=To'on k'ab'eet tunich ti b'et ki- otoch. / Wir brauchen Ziegel um unsere Häuser zu bauen.
+//villager.GatherBrick=Ichil kuch ti yaab tunich. / Ich trage zu viel Stein. 
+
+female.BecomeAdult=Ichil k'a't ha ichki. / Ich will einen Mann.
+male.BecomeAdult=Ichil k'a't ti tz'ak-b' ha ah tz'on. / Ich werde ein Jäger.
+
+mayan_shaman.gopray.chosen=U- orasion tal teech / Mein Gebet beschütze dich.
+mayan_shaman.greeting=Ts'aakik tal teech. / Die Geister beschützen dich.
+
+villager.BecomeAdult=La la la la.
+
+villager.BringBackResourcesHome=Ichil chuy ti yaab se'es ti kuch. / Ich habe zu viel Holz zu tragen.
+
+villager.ChopTrees=Ya'ul pak. / Zeit, Bäume zu fällen.
+
+villager.ConstructionStepByStep=Meyah meyah meyah. / Arbeit, Arbeit, Arbeit.
+villager.ConstructionStepByStep=Ichil k'ab'eet ichil k'a'am et-meyah. / Ich brauche einen starken Mitarbeiter. 
+
+villager.DeliverGoodsHousold=Ti yaab han-ha ti kuch. / Zu viele Speisen zu tragen.
+
+villager.GatherGoods=Ichil chuk u- se'es sut otoch. / Ich bringe das Holz heim.
+
+villager.GetGoodsHousold=Ichil k'ab'eet he'-la a-d'a'ax-tak k'am- otoch / Ich muss diese Sachen mit nach Hause nehmen.
+
+villager.GetHouseResources=Ichil chik nah yam ichil utz nah. / Ein sauberes Haus ist ein gutes Haus.
+
+villager.GetResourcesForBuild=Yaab' ti- yaab' tunich. / Viel zu viel Stein.
+
+villager.GoPlay=Ichil kolom uk chun su'uk. / Ich spiele im Gras.
+
+villager.childobserveagriculture=Ich frage mich was passiert wenn man Maiskörner ganz schnell erhitzt?
+villager.childobserveconstruction=Warum können wir nicht mal mit etwas anderem als Stein bauen?
+villager.childobservesmithing=Jeder hier benutzt Obsidian für Werkzeuge aber es muss doch noch etwas stärkeres geben!
+villager.childobserveproducefood=Warum bekommen die Erwachsenen den ganzen Cacauhaa? Das ist nicht gerecht!
+
+villager.childeatcacaobeans=Die Bohnen selbst sind etwas bitter. Ich frage mich ob sie besser wären wenn man sie in Milch taucht?
+
+
+villager.HarvestMaize=Ki' k'aaxal ki' hoch. / Guter Regen, gute Ernte.
+
+villager.HarvestTurmeric=A'-la yooch hoch si muk' ti han-ha. / Diese Gewürzernte gibt unserem Essen Geschmack.
+
+villager.MakeTools=Man in-wah a'-b'a'ax. / Kaufe meine Waren.
+
+villager.MakeWeapons=U- k'ab wa'yeh nik k'a'am. / Diese Waffen hier sind stark.
+
+villager.PlantMaize=K'aaxal tuuxtik gnat ichil k'a'am hoch. / Der Regen gewährt uns eine starke Ernte.
+
+villager.PlantSaplings=Ichil tz'ap tulakal he'-la -che'. / Ich pflanze alle diese Bäume.
+
+villager.PlantTurmeric=Yooch men u- han-ha. / Gewürz bestimmt das Essen.
+
+villager.ScultMayan=P'e k'in ichil k'am ti b'om. / Eines Tages will ich malen.
+
+villager.SlaughterChicken=Ah kax si gnat b'ak'. / Hühner geben uns Fleisch.
+
+villager.calltoarms=Kin-s-ab u- k'as hun. / Töte das Böse!
+villager.calltoarms=Ti k'ab! / Zu den Waffen!
+villager.calltoarms=U- k'in yam in-ti'a'al! / Der Tag gehört mir!
+
+villager.gopray.chosen=Ichil t'an u- orasion. / Ich spreche das Gebet.
+villager.gopray=Pixan an gnat. / Die Geister helfen uns.
+villager.gopray=Pixan taka gnat ichil k'a'am hoch. / Die Geister gewähren uns eine reiche Ernte.
+
+villager.gorest=He'lel bisik na. / Ich werde müde.
+villager.gorest=Ichil chuy ti wenel beora. / Ich muss jetzt schlafen.
+villager.gorest=Yaaawn. / *Gähn*
+
+villager.greeting=Ba'ax tumben? / Gibt es Neuigkeiten?
+villager.greeting=Biix men u- pixan ts'aakik teech? / Wie behandeln dich die Geister?
+villager.greeting=Biix yam teech pamilya? / Wie geht es deiner Familie?
+villager.greeting=Ola, $name-ji! / Hallo, $name-ji!
+villager.greeting=Pixan tuuxtik gnat k'aaxal. / Die Geister senden uns Regen.
+villager.greeting=Tu'ux yam teech lu'um? / Wo ist dein Land?
+villager.greeting=U- ka'an yam k'iinal behla'e'. / Der Himmel ist heiß heute.
+
+villager.makeRasgulla=In-wah mo'nol pall yam k'oh. / Mein kleines Kind ist krank.

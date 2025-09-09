@@ -1,0 +1,14 @@
+
+version:3.4
+<darkblue>Commercio
+Il modo più comune di fare scambi con gli abitanti dei villaggi è il commercio - si possono vendere loro molti materiali e comprarne i prodotti, compresi blocchi e oggetti specifici di Millénaire. Per commerciare con un villaggio, vai all'edificio centrale (o un altro negozio) e aspetta che arrivi un abitante con la scritta "Vendendo al giocatore" sopra la testa. Fai quindi <darkblue>click-destro<black> per aprire la schermata del commercio.
+Gli abitanti di Millénaire possono vendere solo gli oggetti che hanno in magazzino e acquistano solo ciò di cui hanno necessità (che cambia a seconda del villaggio).
+Gli scambi coi villaggio sono in "Denier", una moneta medioevale francese. Ce ne sono di tre tipi: deniers normali, “deniers argent” (denier d'argento) che valgono 64 deniers, e “deniers or” (denier d'oro) che valgono 64 deniers argent.
+<darkgreen>Suggerimento: Sulla mappa del villaggio (visualizzabile con click-destro sul relativo pannello nell'edificio centrale) è mostrata la presenza dei negozi, al passaggio del mouse sugli edifici.
+deniers standard,
+"deniers argentei" (deniers d'argento)
+valgono 64 deniers,
+e "deniers o" (deniers d'oro)
+valgono 64 deniers argentei
+<darkgreen>Suggerimento:
+Sulla mappa del villaggio(ottenuta cliccando il tasto destro del corrispondente pannello dell'edificio centarle del villaggio),  i negozi sono elencati quando passi il cursore sopra le costruzioni.

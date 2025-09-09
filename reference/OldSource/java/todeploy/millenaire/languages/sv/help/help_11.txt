@@ -1,0 +1,14 @@
+﻿version:4.8.0
+<darkblue>Japanerna
+
+De bor i religösa, militära, bytes eller imperiska byar, och är urskiljs genom deras eleganta arkitektur. De pratar japanska, men deras dialog översätts ju mer spelaren "lär" sig deras språk.
+
+<darkblue>Unika objekt och block
+
+-De odlar ris. Spelaren kan fråga ledaren om hur man skördar denne växt.
+-De tillagar utsökta udon nudlar från vete och kyckling.
+-I bytes byar, så gör bryggarna ris brännvin
+-Precis som Normanerna gör de trä byggnader.
+-De använder en massa halm block som görs av vete.
+-De gör eleganta ris pappers väggar för deras advancerade byggnader.
+-Deras metalsmeder gör formidabla tachi svärd och yumi långbågar, och även tre typer av väldigt effektiv rustning.

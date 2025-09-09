@@ -1,0 +1,20 @@
+{
+    "display": {
+        "icon": {
+            "item": "millenaire:mayanquestcrown"
+        },
+        "title": {
+            "translate": "advancements.wq_mayan.name"
+        },
+        "description": {
+            "translate": "advancements.wq_mayan.desc"
+        },
+        "frame": "goal"
+    },
+    "parent": "millenaire:thequest",
+    "criteria": {
+        "wq_mayan": {
+            "trigger": "wq_mayan"
+        }
+    }
+}

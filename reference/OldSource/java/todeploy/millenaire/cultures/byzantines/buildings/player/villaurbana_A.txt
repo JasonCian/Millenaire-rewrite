@@ -1,0 +1,13 @@
+building.length=18
+building.width=32
+building.max=0
+building.reputation=32768
+building.price=20480
+building.icon=denieror
+building.buildingorientation=3
+
+//Parameters for initial construction
+initial.startlevel=-2
+initial.nativename=Vila Astika
+initial.priority=1000000
+initial.pathlevel=1

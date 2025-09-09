@@ -1,0 +1,13 @@
+priority=35
+priorityrandom=10
+
+
+townhalllimit=sandstone,1024
+
+sourceblockstate=minecraft:sandstone
+
+loot=sandstone,1
+
+sentencekey=mining
+
+range=4

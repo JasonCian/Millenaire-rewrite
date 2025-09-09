@@ -1,0 +1,16 @@
+
+0;Straniero;Come mercanti dobbiamo accettare chiunque. Ma non siamo costretti a fidarci.
+4*64;Familiarità;Ultimamente ti si vede spesso in queste terre romane.
+8*64;Faccia conosciuta; Gli altri Romani sembrano averti notato e parlano molto bene di te! Non sembri un barbaro dopo tutto.
+16*64;Visitatore regolare;Xaire, $name! Felice di rivederti. Come va?
+32*64;Individuo civilizzato; Ah, è bello vedere che altri al di fuori dell'Impero Romano possono essere civilizzati come noi ogni tanto.
+64*64;Mercante preferito;Sono tutti felici di rivederti. Hai qualche mercanzia da proporci? La nostra relazione commerciale ha aiutato entrambi.
+2*64*64;Amico del villaggio;Sei parte del villaggio $name, adesso ci fidiamo di te!
+4*64*64;Rispettabile alleato; Congratulazioni $name! Ti sei guadagnato il nostro rispetto. E' difficile per gli stranieri diventare amici dell'Impero Romano, figuriamoci rispettati. Ma TU, ti sei dimostrato degno!
+8*64*64;Uno di noi;Per noi sei un cittadino romano $name. Anche se non sei nato qui, siamo fieri di chiamarti un vero Romano.
+32*64*64;Leader naturale;$name, ti sei guadagnato la fiducia e il rispetto dei Bizantini. Ti seguiranno ovunque.
+4*32*64*64;Il prossimo Cesare; Tu sarai il prossimo Cesare! L'enorme quantità di lavoro che hai fatto per questo villaggio è inimmaginabile e ti seguiremo per rendere il mondo un posto migliore. Salute $name!
+-64;Fastidio;Non sei molto simpatico, $name. Ti teniamo d'occhio.
+-4*64;Straniero sgradevole;Accettiamo mercanti, non gente della tua risma. Stai attento.
+-16*64;Nemico pubblico;Lasciarti in vita sarebbe disdicevole per l'Impero Romano. Se ci tieni a vivere, vattene da qui e non tornare.
+-64*64;Evidente barbaro; Non ci capisci vero? Bene, proviamo qualcos'altro: BAR BAR BAR, BAR BAR, BAR BARRRR!

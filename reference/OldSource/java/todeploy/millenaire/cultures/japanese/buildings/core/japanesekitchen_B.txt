@@ -1,0 +1,23 @@
+//Parameters for the building as a whole
+building.length=12
+building.width=9
+building.icon=udon
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Daidokoro
+initial.priority=800
+initial.pathlevel=1
+initial.tag=oven
+initial.shop=kitchen
+
+//Parameters for specific upgrades
+upgrade1.priority=80
+
+upgrade2.priority=75
+
+upgrade3.priority=70
+upgrade3.pathlevel=2
+
+upgrade4.priority=65
+

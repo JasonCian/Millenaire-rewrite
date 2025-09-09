@@ -1,0 +1,1 @@
+native:Ka'kau' Makan;gameNameKey:mayancacaofarm_A0;male:mayan_cocoafarmer;female:mayan_PeasantWife;moveinpriority:10;shop:mayancocoa;chest:1-5;sign:1;cacao:4-10;radius:10

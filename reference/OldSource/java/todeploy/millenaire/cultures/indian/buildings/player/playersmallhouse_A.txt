@@ -1,0 +1,15 @@
+//Parameters for the building as a whole
+building.length=8
+building.width=10
+building.buildingorientation=3
+building.max=0
+building.reputation=4096
+building.price=960
+building.icon=denier
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Chota Ghar
+initial.priority=1000000
+

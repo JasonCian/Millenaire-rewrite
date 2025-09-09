@@ -1,0 +1,18 @@
+//Parameters for the building as a whole
+building.length=9
+building.width=12
+building.buildingorientation=3
+building.max=0
+building.icon=leather
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Ieeiaqsiruq
+initial.priority=1000
+initial.tag=playerth
+initial.shop=inuittownhall
+initial.signs=1,2,0,3,4,5,7,6,8
+
+
+//Parameters for specific upgrades

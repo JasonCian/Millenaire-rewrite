@@ -1,0 +1,378 @@
+//*  Dialogue lines start with a code like "v2;30;" which specify who is speaking and when the line shows up. Please copy it exactly in your translations.
+//*  First half of the line (till the /) is in the villagers' language and must be kept as-is, second part should be translated
+//* 
+
+
+
+newchat;key:rain,tag:notraining,weigth:10
+v1;0;Je sens qu'il va pleuvoir. / 我感觉到要下雨了。
+v2;30;Il pleut toujours en Normandie. / 诺曼底总是下雨……
+
+
+newchat;key:beautifulvillage,weigth:10
+v1;0;Il est beau notre village, tu ne trouve pas? / 我们的村庄很漂亮，你不觉得吗？
+v2;30;Magnifique! Et on y travaille dur! / 当然了！这可是我们辛勤工作的结果！
+
+newchat;key:sunset,weigth:10
+v1;0;Le soleil se lève où, déjà? J'oublie toujours. / 太阳又从哪里升起？我总是忘记。
+v2;30;Au nord, bien sûr! / 北边，还有哪？
+
+newchat;key:harvest,weigth:10
+v1;0;Tu penses que la récolte sera bonne cette année? / 你认为今年的收成会好吗？
+v2;30;Qui sait, avec le temps qu'il a fait. / 谁知道，这天气。
+v1;60;Il n'y a plus de saisons. / 季节在这里没有意义。
+
+newchat;key:indianfood,weigth:5
+v1;0;Tu as entendu parler des Indiens? / 你听说过那些印度人吗？
+v2;30;Il paraît qu'ils sont très bizarres. / 人们说他们很奇怪。
+v1;60;J'ai même entendu dire que leur nourriture brûle! /据说他们的食物着火了！
+v2;100;Comme du calva? / 就像苹果白兰地一样？
+v1;120;Non, pire! /不，更糟！
+
+
+
+newchat;key:byzantines,v1:adult,v2:adult,weigth:5
+v1;0;Ces byzantins m'énervent! / 那些拜占庭人让我心烦！
+v2;30;Oui, tu as vu comme ils nous prennent de haut? / 你看到他们有多强大了吗？
+v1;60;Tout ça parce qu'ils prétendent être romains. / 所有这一切，因为他们声称是罗马人。
+v2;100;Quelle blague. Des romains dégénérés, alors. / 真是个笑话，堕落罗马人。
+v1;130;On devrait organiser un raid chez eux. / 我们应该组织对他们的袭击！
+v2;160;On est vikings après tout! / 我们毕竟是海盗！
+
+newchat;key:storm,weigth:10
+v1;0;Il y a eu un orage terrible hier. / 昨天发生了一场可怕的暴风雨。
+v2;30;Oui, j'ai cru que le toit allait s'envoler. / 事实上，我认为屋顶会被风吹走。
+v1;60;Il faudrait les renforcer tous. / 我们应该加强一切。
+
+newchat;key:visitors,weigth:10
+v1;0;Ce qui manque ici, c'est des visiteurs. / 我们这里缺少的是游客。
+v2;30;Il y a bien $name... / $name 不就在这里站着么？
+v1;60;Oui, mais il est un peu bizarre, non? / 但他有点奇怪，不是吗？
+v2;100;C'est vrai qu'on ne sait jamais trop ce qu'il va faire. / 我们永远不知道他在干什么。
+
+newchat;key:christmas,weigth:10
+v1;0;C'est quand Noël, déjà? / 圣诞节什么时候来呢？
+v2;30;Je ne sais pas trop... Les saisons ne changent pas ici. / 我不太确定……季节在这里不会改变。
+v1;80;Quel monde bizarre quand même. / 多大的世界啊
+v2;110;Parfois on dirait presque la Normandie... / 有时它看起来像诺曼底……
+v2;140;et puis on se rappele que tout est différent. / 然后我们发现一切都不同了。
+
+newchat;key:william,v2:adult,weigth:10
+v1;0;Tu as déjà vu le Duc Guillaume, toi? / 你见过威廉公爵吗？
+v2;30;Non, jamais. Et qui sait où il est maintenant? / 不，永远不会。谁知道他现在在哪里？
+v1;60;S'il était là, nous aurions déjà conquis ce nouveau monde! / 如果他在这里，我们早就可以征服这个新世界了！
+v2;100;Vive le Duc Guillaume! / 生活了好长时间的威廉公爵！
+
+newchat;key:floatingearth,v2:adult,weigth:10
+v1;0;Tu as remarqué, ici la terre flotte si on creuse en-dessous. / 你有没有注意到，我们在地下挖东西的时候土会浮空？
+v2;40;Oui, et alors? / 是的，所以呢？
+v1;60;En Normandie, elle tombait... / 在诺曼底，它会掉下来……
+v2;90;En Normandie, Dieu voulait qu'elle tombe. Ici, il veut qu'elle flotte. / 在诺曼底，上帝希望它掉下来。在这里，他希望它漂浮。
+v2;150;Pourquoi critiques-tu Dieu? / 你为什么批评上帝？
+
+newchat;key:likingrain,tag:raining,weigth:10
+v1;0;J'aime bien la pluie. / 我喜欢下雨
+v2;30;C'est une bonne chose pour un normand! / 这对诺曼来说是个好事！
+
+newchat;key:boudintripes,weigth:10
+v1;0;Tu préfères quoi toi, le boudin ou les tripes? / 黑香肠和牛肚，你更喜欢什么？
+v2;40;Le boudin, les tripes c'est trop lourd. / 黑香肠、牛肚太多了。
+v1;80;Trop lourd? Et tu te dis normand? / 太多了？你还叫自己是诺曼人？
+
+newchat;key:horses,v1:child,v2:adult,weigth:10
+v1;0;Ca manque d'animaux, ce pays. / 这个国家缺乏动物。
+v2;30;Il y a des vaches, des moutons et des cochons. / 这有牛、羊和猪。
+v2;60;Que faudrait-il de plus? / 还有什么？
+v1;60;Des chevaux? Et des poneys! / 马？还有小马！
+v2;90;Parce que tu veux un poney, maintenant? / 因为你现在想要一匹小马？
+
+
+newchat;key:tripes,v1:adult,v2:adult,v1:male,v2:female
+v1;0;Les tripes, ça c'est un plat d'homme. / 牛肚，那是男人的菜。
+v2;30;Préparé par les femmes... / 是女人准备的……
+v1;60;Mais avec des vaches abattues par des hommes! / 是男人宰杀的牛！
+v2;100;Et nourries par des femmes... / 但被女人喂养大……
+
+newchat;key:countingcows,weigth:10
+v1;0;Ca manque de distraction par ici. / 这里没有什么可做的。
+v2;30;C'est bien, c'est calme. / 这很好，很安静。
+v1;60;Et ennuyeux... / 以及无聊……
+v2;75;Tu n'as qu'à compter les vaches pour te distraire. / 你为什么不数数牛呢？
+v1;110;Déjà fait hier. Et les poulets aussi. / 数完了，昨天还顺便数完了鸡。
+
+newchat;key:paris,v1:adult,v2:adult,weigth:2
+v1;0;Quel coin paumé ici, quand même. J'aimerai voir autre chose un jour... / 多么孤立的地方啊！有一天我想看看其他的东西……
+v2;30;Les autres villages sont tous pareils. / 其他村庄都是一样的。
+v1;60;Pas un village! Un bourg. Ou même une ville! / 不是一个村庄！一个小镇，甚至是一座城市！
+v2;90;Quoi, comme Rouen? Tu es fou, c'est à des jours d'ici. / 像什么，鲁昂？你疯了，现在是从这里开始的日子。
+v1;120;Rouen... ou même... Pourquoi pas Paris? / 鲁昂……或者也许……为什么不是巴黎？
+v1;150;Tu te rend compte, on dit qu'il y aurait 25 000 personnes là-bas! / 你能想象，人们说那里有 25000 人！
+v2;180;Tu divague, mon pauvre. 25 000 personnes au même endroit? Et où on les mettrait? / 你快疯了，25000 人在同一个地方？他们会去哪？
+
+newchat;key:calva,v1:adult,v2:adult,v1:male,v2:male,weigth:10
+v1;0;Par ce temps, un petit calva s'impose! / 在那样的天气里，一瓶苹果白兰地是必须的！
+v2;30;Par tous les temps! / 在任何天气！
+v1;50;A la Normandie et son climat à calva! / 为诺曼底欢呼，以及白兰地天气！
+v2;70;Santé! / 干杯！
+
+newchat;key:boyvillagechief,v1:child,v1:male,v2:adult,weigth:5
+v1;0;Quand je serais grand, je serais le chef du village! / 当我长大后，我将成为村里的头儿！
+v2;30;Il va falloir que tu mange beaucoup de soupe avant d'en arriver là. / 在你到达那里之前，你需要大量的汤。
+v1;60;Et je te ferais punir! / 我会惩罚你的！
+v2;70;C'est ça. En attendant, va travailler ou tu vas prendre une claque. / 对，现在，去工作，或者是给你一个耳光。
+
+newchat;key:kids1,v1:child,v2:child,weigth:10
+v1;0;Mon papa est bien plus fort que le tien. / 我爸爸比你爸爸强壮多了。
+v2;30;N'importe quoi. Mon papa est le plus fort du village. / 胡说，我爸爸是这个村庄里最强壮的。
+v1;60;Tu rêves. Mon père met le tien par terre en deux minutes. / 做梦吧，我爸爸能在两分钟内打败你爸爸。
+v2;70;Et la Terre est ronde! / 地球是圆的！
+
+newchat;key:kids2,v1:child,v1:male,v2:child,v2:female,weigth:10
+v1;0;Les filles, ça ne sert à rien. / 女孩是无用的。
+
+newchat;key:kids3,v2:child,v2:male,v1:child,v1:female,weigth:10
+v1;0;T'es peut être un garçon, mais je te fait pleurer quand je veux. / 你可能是个男孩，但我可以让你哭，当我想要的时候。
+v2;30;Même pas vrai! Même pas vrai! / 不对！不对！
+
+newchat;key:enderman,v1:adult,v2:child,weigth:10
+v1;0;Sois sage, ou l'homme des limbes t'emportera cette nuit! / 要乖乖，不然末影人今晚就要抓你了！
+v2;40;Pfff, j'ai passé l'âge de croire à ces bêtises. / 噗，我太老以至于不相信你那些废话了。
+
+newchat;key:badflirt,v1:adult,v2:adult,v1:nospouse,v2:nospouse,v1:male,v2:female,notrel:sibling,v1:notvtype:monk-priest-abbot,weigth:20
+v1;0;Alors beauté, qu'est ce que tu fais ce soir? / 所以，美女，今晚你打算做什么？
+v2;40;$targetfirstname, je t'ai déjà dit non! / $targetfirstname，我一直告诉你，不！
+v1;60;Quel caractère! / 这样的性格！
+v2;80;Quel nigaud! / 如此的蠢！
+
+newchat;key:badflirt2,v1:vtype:guard-lumberman,v2:adult,v1:hasspouse,v2:female,notrel:sibling,notrel:parent,notrel:child,weigth:20
+v2;0;$targetfirstname, quels beaux muscles! / $targetfirstname，多好的肌肉啊！
+v1;30;Tais-toi, malheureuse! Si ma femme t'endend... / 安静点，你这个笨蛋！如果我的妻子听到我们……
+v2;60;Et bien quoi, bel homme? / 那么，帅哥呢？
+v1;90;Tu sais bien comme elle est jalouse! / 你知道她有多嫉妒！
+v2;120;Et? Elle te fait peur? / 还有？你害怕她？
+v1;140;Peur? Elle? Quelle blague! / 害怕？她？你逗我！
+v2;160;Ha! / 哈！
+
+newchat;key:frerejacques,v1:child,v2:child,weigth:10
+v1;0;Frère Jacques, frère Jacques / 约翰兄弟，约翰兄弟。
+v2;30;Dormez-vous? Dormez-vous? / 你睡了吗？你睡了吗？
+v1;60;Sonnez les matines! Sonnez les matines! / 敲响早晨的钟声！敲响早晨的钟声！
+v2;100;Ding, daing, dong. Ding, daing, dong! / 叮当咚，叮当咚！
+
+
+newchat;key:alouette,v1:child,v2:child,weigth:10
+v1;0;Alouette, gentille alouette, / 小云雀，可爱的小云雀，
+v2;0;Alouette, gentille alouette, / 小云雀，可爱的小云雀，
+v1;30;Alouette, je te plumerai. / 小云雀，我要把你的羽毛摘下来。
+v2;30;Alouette, je te plumerai. / 小云雀，我要把你的羽毛摘下来。
+v1;60;Je te plumerai la tête. / 我要把羽毛从你头上拔下来。
+v2;60;Je te plumerai la tête. / 我要把羽毛从你头上拔下来。
+v1;90;Et la tête! Et la tête! / 从你头上！
+v2;90;Et la tête! Et la tête! / 从你头上！
+v1;120;Pauvre alouette quand même... / 可怜的云雀……
+v2;160;Pourquoi? C'est drôle! / 为什么？这很有趣！
+
+
+newchat;key:loupyesttu,v1:child,v2:child,weigth:10
+v1;0;Promenons-nous dans les bois, / 让我们在树林里散步，
+v2;0;Promenons-nous dans les bois, / 让我们在树林里散步，
+v1;30;Tant que le loup n'y est pas. / 而狼却不在。
+v2;30;Tant que le loup n'y est pas. / 而狼却不在。
+v1;60;Si le loup y était / 如果狼在那里
+v2;60;Si le loup y était / 如果狼在那里
+v1;90;Il nous mangerait, / 他会吃了我们，
+v2;90;Il nous mangerait, / 他会吃了我们，
+v1;120;Mais comme il n'y est pas, / 但他不在这里，
+v2;120;Mais comme il n'y est pas, / 但他不在这里，
+v1;150;Il nous mangera pas. / 他不会吃了我们。
+v2;150;Il nous mangera pas... / 他不会吃了我们……
+v2;180;Euh, tu es sûr? / 呃，你确定？
+v1;200;Lâche! / 胆小鬼！
+
+
+newchat;key:dagobert,v1:child,v2:child,weigth:10
+v1;0;Le bon roi Dagobert / 好国王达戈贝尔特
+v1;30;A mis sa culotte à l'envers / 他的裤腿翻了出来
+v1;60;Le grand saint Éloi / 伟大的圣埃洛伊
+v1;90;Lui dit : Ô mon roi ! / 告诉他：哦，我的国王！
+v1;120;Votre Majesté / 陛下
+v1;150;Est mal culottée. / 喘不过气来。
+v2;180;Mal culottée? Ca veut dire quoi? / 喘不过气？这是什么意思？
+v1;220;Qu'il a pas de culotte! / 他没有裤子！
+v2;250;N'importe quoi, c'est le roi! / 胡说，他是国王！
+v1;280;Ben il a pas de culotte le roi! / 嗯，国王没有裤子！
+v2;310;Même toi t'as une culotte, idiot! / 即使你有，笨蛋！
+
+newchat;key:confession,v1:vtype:abbot-priest,v2:male,v2:notvtype:abbot-priest,weigth:10
+v1;0;Mon fils, il y a longtemps que tu ne t'es pas confessé. / 我的儿子，你上次忏悔了很久。
+v2;40;Mais mon Père, je n'ai pas péché! / 但是父亲，我没有犯罪！
+v1;70;Tout le monde pèche dans ce bas monde. / 每个人都在这个堕落的世界中犯罪。
+v2;110;Même vous, mon père? / 你也是，爸爸？
+v1;130;Ne sois pas insolent! Tu feras dix Pater Noster en pénitence! / 够傲慢！忏悔时，你应该念十遍主祷文！
+
+
+newchat;key:confession2,v1:vtype:abbot-monk-priest,v2:female,v2:adult,weigth:10
+v1;0;Ma fille, il y a longtemps que tu ne t'es pas confessée. / 我的女儿，你上次忏悔了很久。
+v2;30;C'est vrai mon père, et j'ai péché! / 这是真理，父亲，我犯了罪！
+v1;60;Si c'est un péché de chair, nous en parlerons ailleurs. / 如果它是肉体的罪，我们将在别处讨论它。
+v2;100;Merci, mon père. / 谢谢你，爸爸。
+v1;120;En attendant, dix Pater Noster. Ca servira toujours! / 与此同时，十遍主祷文，总是有用的！
+
+newchat;key:carpenter,v1:vtype:carpenter,weigth:10
+v1;0;J'ai encore amélioré ma technique. / 我又提高了我的技能。
+v1;30;Avant d'assembler les colombages, je commence par... / 在组装框架之前，我从……开始。
+v2;70;C'est fascinant. / 迷人的。
+v1;90;Tu trouves? / 你真的这么想？
+v2;110;Non. / 不。
+
+newchat;key:cattlefarmer,v1:vtype:cattlefarmermale-cattlefarmerfemale,v2:notvtype:cattlefarmermale-cattlefarmerfemale,weigth:10
+v1;0;J'adore préparer des tripes. D'abord, saigner la vache... / 我喜欢做牛肚。首先，让牛流血……
+v1;40;Puis extraire les boyaux... / 然后收集肠道……
+v2;60;Arrête, tu me dégoutes! / 住手，你让我恶心！
+v1;80;Mais tu adores les tripes! / 但是你喜欢牛肚！
+v2;110;Et je ne veux pas savoir comment elles sont faites. / 我不想知道它们是怎么制成的。
+
+newchat;key:farmer,v1:vtype:farmer,v2:notvtype:farmer,weigth:10
+v1;0;Aucun doute, fermier c'est le métier le plus important. / 毫无疑问，农业是最重要的工作。
+v1;40;Sans moi, pas de pain! / 没有我，就没有面包！
+v2;60;Je préfère les tripes, de toute façon. / 我喜欢牛肚，胜过其他。
+
+newchat;key:guildmaster,v1:vtype:guildmaster,weigth:10
+v1;0;Quand j'étais jeune, j'étais un apprenti très prometteur. / 当我年轻的时候，我是一个很有前途的学徒。
+v1;40;Guillaume Vif-Argent lui-même s'intéressait à moi! / Guillaume Vif Argent 本人对我很感兴趣！
+v1;80;Et maintenant je suis coincé ici. / 现在我被困在这里了。
+v1;110;A m'occuper d'abrutis. / 照顾白痴。
+v2;130;Hein, quoi? / 呃，什么？
+v1;150;*soupir* / *瞄准*
+
+
+newchat;key:knight,v1:vtype:knight,weigth:10
+v1;0;Regarde mon château! Une vraie forteresse! / 看看我的城堡！一个真正的堡垒！
+v2;30;Vous êtes si puissant, seigneur! / 大人，你真了不起！
+v1;60;Quand le Duc Guillaume reviendra, il me fera sûrement Comte! / 当威廉公爵回来时，他一定会让我数数！
+v2;100;Vive le Compte $targetfirstname! / 向 $targetfirstname 伯爵欢呼！
+v1;130;Vive moi! / 向我欢呼！
+
+newchat;key:lady,v1:vtype:lady,v2:notvtype:knight,weigth:10
+v1;0;Ma beauté est célèbre dans ces contrés. / 我的美丽在这些土地上是传奇性的。
+v2;30;Vous êtes superbe, ma Dame! / 我的夫人，你真了不起！
+v1;60;Et pourtant j'ai épousé un petit chevalier de rien du tout... / 但我嫁给了一个卑贱的，毫无价值的骑士……
+v2;100;Mais sa Seigneurie deviendra certainement comte un jour! / 但他的爵位有一天一定会成为重要的！
+v1;130;Ce nigaud? Ah! Et pourquoi pas Pape, tant qu'à faire? / 这个白痴？为什么教皇不在你面前呢？
+v2;160;Pourquoi pas, ma Dame! Euh... Je voulais dire... / 为什么不呢？我的夫人！呃……我的意思是……
+
+newchat;key:lumberman,v1:vtype:lumberman,weigth:10
+v1;0;Pommes pommes pommes! / 苹果，苹果，苹果！
+v1;30;Pommes, pommes... pommes! / 苹果，苹果……苹果！
+v2;60;Plutôt cidre cidre cidre dans ton cas, non? / 你确定这不是白兰地，白兰地，白兰地？
+
+newchat;key:merchant,v1:vtype:merchant,weigth:10
+v1;0;Quel village minable. / 多么小的村庄啊！
+v2;30;Eh étranger, attention à ce que tu dis! / 嘿，陌生人，说话注意点！
+v1;70;Et quels habitants charmants! / 还有多么迷人的人啊！
+
+newchat;key:miner,v1:vtype:merchant,weigth:10
+v1;0;J'ai composé une petite chanson, tu veux l'écouter? / 我想出了一首小歌，你想听吗？
+v2;40;Vas-y! / 让我们听吧！
+v1;50;Heigh-ho, heigh-ho, heigh-ho, heigh-ho... / 嘿吼，嘿吼，嘿吼……
+v2;70;Ca commence bien... / 有前途的开始……
+v1;90;Je rentre du boulot! / 我下班回家了！
+v2;110;Et moi j'ai beaucoup à faire. / 我还有很多工作要做。
+
+newchat;key:monk,v1:vtype:monk,v2:child,weigth:10
+v2;0;Frère Jacques, frère Jacques! / 约翰兄弟，约翰兄弟！
+v1;30;Très drôle, mon enfant. / 非常好像，我的孩子。
+v2;60;Dormez-vous? Dormez-vous? / 你睡了吗？你睡了吗？
+v1;90;Ca va, ça va, je connais la chanson. / 够了够了，我知道这首歌。
+
+newchat;key:pigherd,v1:vtype:pigherd-pigherdf,v2:notvtype:pigherd-pigherdf,weigth:10
+v1;0;Tout est bon dans le cochon! / 所有好的东西都在猪里面。
+v2;30;Ils font beaucoup de bruit quand tu les égorges, quand même. / 不过，当你屠杀它们时，它们仍然会发出很大的噪音。
+v1;70;Plus le cochon braille, meilleure est la viande! / 猪叫的越大，肉就越好！
+
+newchat;key:priest,v1:vtype:priest,weigth:10
+v1;0;Je veille sur la santé spirituelle des villageois. / 我为村民的精神健康服务。
+v2;30;Et il y a du travail! / 有责任要做！
+
+newchat;key:priest2,v1:vtype:priest,weigth:10
+v1;0;Notre village craint Dieu. / 我们的村庄害怕上帝。
+v2;30;Et son représentant, Père $targetlastname. / 他的牧师，父亲 $targetlastname。
+
+newchat;key:seneschal,v1:vtype:seneschal,weigth:10
+v1;0;Je suis très estimé à la cour du Roi le Duc Guillaume. / 在威廉公爵的宫廷里，我受到了高度的尊敬。
+v2;40;Le Roi le Duc? /国王还是公爵？
+v1;60;Sa Majesté Guillaume le Conquérant, Duc de Normandie et Roi d'Angleterre, ignare! / 征服者威廉陛下，诺曼底公爵和英国国王，你这个笨蛋！
+v2;100;C'est où l'Angleterre? / 英国在哪里？
+v1;120;De l'autre côté de la mer. Quelle ignorance! / 在海的另一边，你这个无知！
+v2;140;De quelle mer, Seigneur? / 哪个大海，尊敬的阁下？
+v1;160;Quelle insolence! Il suffit! / 如此傲慢！够了！
+
+newchat;key:shepherd,v1:vtype:shepherd-shepherdf,v2:notvtype:shepherd-shepherdf,weigth:10
+v1;0;Etre berger est un métier très noble. / 做牧羊人是高贵的手艺。
+v2;30;Noble? Berger? / 高尚的？牧羊人？
+v1;50;N'avons nous pas été choisis par Dieu pour recevoir la Bonne Nouvelle? / 难道上帝没有拣选我们去听福音吗？
+v2;90;Ah, oui. Pendant que vous vous occupiez des agneaux nouveau-nés - en Décembre. / 啊，是的。当你在十二月照顾新生羔羊的时候。
+v1;130;Et alors? Peut être qu'à Bethléem il n'y a pas de saisons. Comme ici! / 那么？也许在伯利恒没有季节，喜欢这里！
+
+newchat;key:smith,v1:vtype:smith,weigth:10
+v1;0;La vrai force des normands, c'est leurs outils et leurs armes. / 诺曼人的真正力量在于他们的武器和工具。
+v2;40;Et donc leurs forgerons? / 因为他们的铁匠？
+v1;60;Voilà! / 的确！
+
+
+newchat;key:wife,v1:vtype:wife,v2:male,v2:adult,weigth:10
+v1;0;Pourquoi est-ce toujours les femmes qui construisent? / 为什么女人总在一个房子里？
+v2;40;Si ça te gène, je m'occupe du prochain bâtiment. / 如果打扰你，我会照顾下一个。
+v1;80;Vraiment? Tu es adorable! Alors, pour les rideaux, n'oublie pas de... / 真的？太甜了！所以，关于窗帘，别忘了……
+v2;120;En fait non, je vais te laisser faire. / 事实上不，我想让你去做。
+
+
+newchat;key:alchemyworkshop,villager:alchemistapprentice,v1:notvtype:alchemistapprentice-guildmaster,v2:notvtype:alchemistapprentice-guildmaster,v1:adult,v2:adult,weigth:10
+v1;0;Je suis passé devant l'atelier de l'alchimiste hier. / 昨天我在炼金术士车间前走过。
+v1;40;Il y avait une odeur d'œuf pourris horrible! / 有臭鸡蛋的味道！
+v2;80;Il paraît qu'il essaye de fabriquer la pierre philosophale! / 他们说他在努力创造魔法石！
+v1;120;Moi j'ai entendu qu'il veut résusciter les morts. / 我听说他想救死扶伤。
+v2;160;Et moi qu'il va fabriquer un monstre avec des cadavres! / 而我，他将从身体部位创造一个怪物！
+v1;200;Quelle horreur! / 多么糟糕！
+v2;220;C'était un garçon si charmant pourtant... / 还有他就是个甜心男孩……
+
+newchat;key:archives,building:archives,weigth:10
+v1;0;Tu as visité les nouvelles archives? / 你参观过新档案馆吗？
+v1;30;On y voit ce que tout le monde fait! / 你可以看到每个人都在做什么！
+v2;60;Ah, vraiment... et euh... / 哦，真的吗……呃……
+v1;90;Oui, j'ai vu ton panneau. / 是的，我看到你们的脸了。
+v1;120;Tu devrais avoir honte. / 你应该为自己感到羞耻。
+
+newchat;key:bakery,building:bakery,weigth:10
+v1;0;J'adore l'odeur de pain qui sort de la boulangerie. / 我喜欢面包店散发出新鲜面包的味道。
+v2;40;Il ne nous manque plus que quelqu'un sachant faire des croissants. / 现在我们只需要知道做羊角面包的人是谁。
+
+newchat;key:church,building:church,weigth:10
+v1;0;Notre église est vraiment superbe. / 我们的教堂真壮观！
+v2;30;Elle montre que nous sommes un village pieux. / 这表明我们是一个虔诚的村庄。
+v1;60;Et elle est plus grande que celle du village voisin! / 而且比隔壁的村庄还要大！
+
+
+newchat;key:inn,building:inn,v1:notvtype:merchant,v2:notvtype:merchant,weigth:10
+v1;0;Maintenant que nous avons une auberge, nous allons pouvoir commercer! / 既然我们有了旅馆，我们就可以交易了！
+v2;40;Autrement dit, les marchands de passage vont se servir dans nos resources. / 换句话说，路过的商人将帮助我们自己的资源。
+v1;80;Tu as toujours été cynique. / 你总是愤世嫉俗。
+
+
+newchat;key:market,building:market,v1:notvtype:merchant,v2:notvtype:merchant,weigth:10
+v1;0;J'adore le marché! Tellement de marchandises superbes! / 我喜欢商店，太多好东西了！
+v2;40;On se sent moins isolé maintenant. / 我们村现在不那么与世隔绝了。
+v2;80;Mais pas plus riches... / 但也没钱……
+
+
+newchat;key:tavern,building:tavern,v1:adult,v2:adult,weigth:10
+v1;0;La taverne est certainement la meilleure chose qu'on ait construite. / 酒馆无疑是我们在这个村庄里建造的最好的东西。
+v2;40;Personne ici ne dira le contraire! / 这里没有人会反驳！
+
+newchat;key:fort,building:tavern,v1:adult,v2:adult,weigth:10
+v1;0;Hahaha! Nous sommes imparables. Nos navires impressionnants et honorables chevaliers sont le fléau du monde!. / 哈哈哈！我们是不可阻挡的。我们令人印象深刻的船只和尊贵的骑士是世界的灾难！
+v2;40;Et quels sont nos ennemis? Un groupe de tricksters romains et amoureux de la pierre Maya / 我们的敌人是什么？一群罗马骗子和玛雅石头爱好者？
+v1;80;Ne pas oublier les fous des neiges qui n'ont même pas le concept de l'argent! / 别忘了那些连金钱概念都没有的雪人！
+v2;120;Hahaha! La vie normande est la meilleure du monde! Merveilleux cidre, meilleurs outils. Ah, c'est notre âge d'or! / 哈哈哈！诺曼的生活是世界上最好的！美妙的苹果酒，最好的工具。啊，这是我们的黄金时代。
+v1;160;Et nous arrivons à le partager! / 然后我们要分享它！
+v2;200;Hahaha! / 哈哈哈！

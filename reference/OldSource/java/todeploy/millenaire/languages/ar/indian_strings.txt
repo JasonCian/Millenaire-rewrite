@@ -1,0 +1,35 @@
+﻿﻿culture.indian=الهنود
+
+villager.indian_boy=فتى
+villager.indian_girl=فتاة
+villager.indian_teenagerMale=شاب
+villager.indian_teenagerFemale=شابة
+villager.indian_lumberman=حطاب
+villager.indian_miner=منقب
+villager.indian_pandit=كاهن
+villager.indian_peasant=فلاح
+villager.indian_peasantwife=فلاحة
+villager.indian_rajputgeneral=جنرال راجبوت
+villager.indian_richwoman=امرأة غنية
+villager.indian_soldier=جندي راجبوت
+villager.indian_villagechief=زعيم القرية
+villager.indian_smith=حداد
+villager.indian_armysmith=حداد الجيش
+villager.indian_sculptor=نحات احجار
+villager.indian_panditayin=زوجة كاهن
+villager.indian_raja=راجا
+villager.indian_rani=راني
+villager.indian_merchant=تاجر
+villager.indian_lonetrader=تاجر منفرد
+villager.indian_adivasipeasant=فلاح اديفازي
+villager.indian_sadhu=سادهو
+villager.merchant_oriental=تاجر فارسي
+villager.merchant_adivasi=تاجر اديفازي
+villager.merchant_villagewoman=تاجرة
+villager.merchant_villagewoman = تاجر القرية
+
+shop.townhall=المتجر المركزي
+shop.forge=أدوات
+shop.armyforge=دروع وأسلحة
+shop.adivasifarm=منتجات أديفازي
+shop.deserttradeoutpost=بضائع ثمينة

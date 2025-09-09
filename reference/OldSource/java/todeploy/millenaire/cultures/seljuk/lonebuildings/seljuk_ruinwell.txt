@@ -1,0 +1,10 @@
+name=Yıkık Çeşme
+weight=10
+radius=5
+
+biome=Desert
+biome=Desert M
+
+
+//starting buildings=
+centre=ruinwell

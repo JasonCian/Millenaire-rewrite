@@ -1,0 +1,16 @@
+
+travelbook.culture.desc=비잔티움 사람들은 자신들을 진정한 로마인이라 주장하며 그들만의 독특한 건축, 훈련된 군대, 그리고 성인들을 숭배하기 위해 만들어진 이콘들을 매우 자랑스러워합니다. 어떤 이들은 자신의 업적에 대해 조금은 자부심을 느낀다고 말하기도 하죠.
+travelbook.villager.architect_byzantine.desc=야만인들이 지은 황량한 판잣집과 달리, 이 숙련된 마을사람은 마을을 위해 아름답고 수준높은 건물을 짓습니다.
+travelbook.villager.armysmith_byzantine.desc=군대의 대장장이는 마을을 위해 강력한 무기를 만듭니다.
+travelbook.villager.artisanwife_byzantine.desc=혹자는 장인보다 그의 부인이 더 능력있다고 말하곤 합니다.
+travelbook.villager.baron_byzantine.desc=남작은 백성들의 돈으로 부를 축적합니다. 그러나 이러한 일은 마을의 관리와 발전에 있어서 매우 중요한 일이기도 합니다.
+travelbook.villager.baroness_byzantine.desc=남작 부인이 말했습니다. 자신의 목표는 바로 여기에 등재되는 것이라고 말이죠.
+travelbook.villager.boy_byzantine.desc=이 아이는 자라서 장차 문명국의 시민이 될 겁니다.
+travelbook.villager.centurio_byzantine.desc=한때 많은 사람들의 지도자였던 그는 자신의 좌천 사유를 말하길 꺼려하는 것 같아보입니다.
+travelbook.villager.farmiller_byzantine.desc=농부는 시민들의 먹거리를 위해 당근 농사를 담당합니다.
+travelbook.villager.farmiller_wife_byzantine.desc=농부의 아내는 빵을 만들고 판매합니다.
+travelbook.villager.fisherman_byzantine.desc=너무 당연한 이야기지만, 낚시꾼은 낚시를 한답니다.
+travelbook.villager.girl_byzantine.desc=이 아이는 자라서 문명국의 시민이 될 겁니다.
+travelbook.villager.guard_byzantine.desc=경비병은 때때로 병사가 되기위한 훈련을 포기하고 결혼을 한 것에 대해 후회하기도 합니다.
+travelbook.villager.host_byzantine.desc=주인장은 와인 양조의 대가입니다. 그의 와인은 이 근방에서 최고라고 불린답니다.
+travelbook.villager.hostesse_byzantine.desc=주인장의 부인은 기가막힌 요리사입니다. 그녀의 특기인 수블라키가 아주 유명합니다.

@@ -1,0 +1,18 @@
+building.length=20
+building.width=13
+building.mindistance=0.5
+building.icon=carrot
+building.buildingorientation=3
+building.max=1
+building.areatoclear=3
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Oporokalliérgia
+initial.priority=100
+initial.tag=carrot
+initial.pathlevel=1
+
+//Parameters for specific upgrades
+upgrade1.priority=200
+upgrade1.pathlevel=2

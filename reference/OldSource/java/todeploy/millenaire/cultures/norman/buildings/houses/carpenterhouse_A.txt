@@ -1,0 +1,28 @@
+//Parameters for the building as a whole
+building.length=15
+building.width=15
+building.buildingorientation=3
+building.max=2
+building.version=2
+building.icon=timberframecross
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Maison du charpentier
+initial.priority=800
+initial.male=carpenter
+initial.female=wife
+initial.prioritymovein=20
+
+//Parameters for specific upgrades
+upgrade1.priority=80
+
+upgrade2.priority=75
+upgrade2.pathlevel=1
+
+upgrade3.priority=60
+upgrade3.pathlevel=2
+
+upgrade4.priority=55
+

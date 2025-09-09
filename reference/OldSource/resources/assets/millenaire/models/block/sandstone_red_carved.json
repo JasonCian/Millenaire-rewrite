@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+  		"down": "millenaire:blocks/sandstone_red_clean",
+        "up": "millenaire:blocks/sandstone_red_clean",
+        "north": "millenaire:blocks/sandstone_red_carved",
+        "east": "millenaire:blocks/sandstone_red_carved",
+        "south": "millenaire:blocks/sandstone_red_carved",
+        "west": "millenaire:blocks/sandstone_red_carved",
+    	"particle" : "millenaire:blocks/sandstone_red_carved"
+  }
+}

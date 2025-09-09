@@ -1,0 +1,41 @@
+//Parameters for the building as a whole
+building.length=48
+building.width=112
+building.buildingorientation=3
+building.issubbuilding=true
+building.parentbuildingplan=abbaye_A0
+building.max=0
+building.icon=chiseledstonebrick
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Nef (sud-est)
+initial.priority=675
+initial.tag=scaffoldings
+
+//Parameters for specific upgrades
+upgrade1.priority=625
+upgrade1.parenttag=7
+
+upgrade2.priority=575
+
+upgrade3.priority=525
+upgrade3.tag=patrol
+upgrade3.parenttag=27
+upgrade3.requiredparenttags=level_2
+
+upgrade4.priority=475
+
+upgrade5.priority=425
+upgrade5.parenttag=47
+upgrade5.requiredparenttags=level_3
+
+upgrade6.priority=275
+upgrade6.tag=pilgrimsite
+upgrade6.requiredparenttags=level_5
+
+upgrade7.priority=1000
+upgrade7.parenttag=107
+upgrade7.requiredparenttags=94
+

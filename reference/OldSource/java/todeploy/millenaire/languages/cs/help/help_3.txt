@@ -1,0 +1,19 @@
+
+version:3.4
+<darkblue>Reputace a nacelnik vesnice
+Kazda vesnice v Millenaire modu vlastni nazor na tebe, zezacatku neutralni a zacne se menit na zaklade tvich akci. Reputace je velice dulezite: mnoho odmen je mozno dostat jen za dobrou reputaci a pokud vase reputace bude spatna tak vesnicane muzou s vami odmitnout obchodovat. Muzete zkontrolovat vasi reputaci tim ze se zeptate (<darkblue>right-click<black>) nacelnika vesnice.
+Hlavnim zpusobem jak zlepsit vasi reputaci u vesnice je obchodovani s vesnicanama. Nakupovani stejne take jako obchodovani zlepsuje vasi reputaci k pomeru k cene. Take muzete zlepsit reputaci dokoncovanim questu. Ale v pripade napadeni vesnice nebo neuspechu v nekterych misi vase reputace klesne.
+Take mate <darkblue>reputaci s kazdou kulturou<black> Tato reputace je ovlivnena tim jak jednate s vesnicany teto kultury a ovlivnuje obchodovani s vsemy ostatnimy vesnicemi teto kultury. Napriklad, pokud mate velmi dobrou reputaci s Normanskou vesnici tak vas i ostatni Normanske vesnice budou mit rady (o trochu vice). Muzete zkontrolovat vasi reputaci s kazdou kulturou na informacnim panelu (klavesou "M")
+<darkblue>Akce vyzaduji urcitou reputaci
+<darkblue>Kup pergamen vesnice
+S dostatkem dobre reputace si muzete koupit pergamen vesnice od nacelnika vesnice. Tento pergamen obsahuje vsechny informace o vesnici.
+<darkblue>Kupovani domu
+Jakmile budete mit dostatek dobre reputace muzete si u nacelnika vesnice koupit dum (nebo pozemek na kterem muzete stavet). Tvuj dom bude postaven vesnicanama jakmile skonci aktualni konstrukce. Narozdil od zbytku oblasti kolem vesnice tato budova patri jenom tobe a muzes si ji zmenit dle sve predstavy.
+<darkblue>Ucis se jak zasazovat plodiny
+Muzete se naucit sazet specificke plodiny Millenaire modu pro tuto kulturu. Kontaktuj nacelnika vesnice jakmile budes mit dostatek reputace.
+<darkblue>Nakup dalsich predmetu
+Nektere cenne predmety vyzaduji vyssi reputaci ve vesnici. Pokud nemas dostatecnou reputaci aby jsi si tento predmet mohl koupit uvidis pri obchodovani varovani.
+<darkblue>Dalsi ukoly
+Nektere ukoly, vcetne Ukolu Stvoreni muzou byt zapnuty jen s dobrou reputaci (zobrazit <darkblue>“ukoly” <black>)
+<darkblue>Stat se vudcem kultury
+Jakmile dosahnete maximum reputace (<darkblue>"prirozeny vudce" <black>) muzete si postavit vlastni vesnici ve ktere budete vudcem (zobrazit <darkblue> "vytvoreni vesnice"<black>)

@@ -1,0 +1,963 @@
+
+startup.loadproblem=Ocorreu um erro ao carregar <0>.
+startup.checkload=Verifique se a pasta "cultures" se encontra dentro da pasta "millenaire", no directório do Minecraft.
+startup.millenaireloaded=<0> foi carregado. Explore e prima '<1>' para localizar aldeias.
+startup.radiuswarning=AVISO: Um valor tão elevado para o raio de alcance das aldeias não é aconselhado e poderá diminuir o desempenho do Minecraft. Recomendam-se valores não superiores a <0>.
+startup.bonus=Conteúdos bónus activados.
+
+command.nogenerate=<0> não criará mais aldeias no mundo actual.
+command.willgenerate=<0> criará novas aldeias (em novas chunks) no mundo actual.
+command.astarpathing=A utilizar o algoritmo de troço A*
+command.binarypathing=A utilizar o algoritmo de troço binário
+command.minecraftpathing=A utilizar o algoritmo de troço do Minecraft
+command.inactive=Inactiva
+command.active=Activa
+command.frozen=Congelada
+command.villagelist=<4>: <0> (<1>) encontra-se a <2> metro(s) <3>.
+command.villagelistkeylonebuilding=<0> encontra-se a <1> metro(s) <2>.
+command.noknowvillage=Nenhuma aldeia encontrada num raio de 2 Km. Continue à procura!
+command.newvillagefound=Nova aldeia localizada: <0> do tipo <1> e cultura <2> encontra-se a <3> metro(s) <4>.
+command.newlonebuildingfound=Nova construção isolada localizada: <0> encontra-se a <1> metro(s) <2>.
+command.pathrebuild=O mapa e o algoritmo de troço de <0> foram reconstruídos.
+
+//Texto utilizado em diversas partes da Interface do Utilizador, em nenhuma ordem em particular:
+ui.lockedchest=Cofre trancado
+ui.largelockedchest=Grande cofre trancado
+ui.unlockedchest=Cofre aberto
+ui.largeunlockedchest=Grande cofre aberto
+ui.allchestsunlocked=Todos os cofres de <0> encontram-se agora abertos.
+ui.outofstock=Ruptura de stock!
+ui.reputationneeded=Reputação necessária: <0>
+ui.missingdeniers=Denier(s) em falta: <0>
+ui.missingequipment=Equipamento em falta
+ui.noneininventory=Nenhum item disponível para venda
+ui.selling=A vender
+ui.buying=A comprar
+ui.buybuilding=Comprar <0> (<1>)
+ui.buybonusbuilding=Solicitar bónus: <0>
+ui.sellercoming=<0>: É só um momento, $name!
+ui.tradecomplete=<0>: Espero que tenha gostado de negociar connosco. Tenha um bom dia!
+ui.sellerboycott=<0>: Nunca mais negociaremos consigo, bandido!
+ui.sellernotcurrently possible=<0>: Como pode pensar em negociar, estando a nossa aldeia devastada?
+ui.wesell=Vendemos
+ui.webuy=Compramos
+ui.isell=Vendo
+ui.inventory=Inventário
+ui.villagechief=Chefe da aldeia de <0>
+ui.yourstatus=O seu estatuto
+ui.possiblehousing=Residências possíveis
+ui.alreadybuilt=já construído
+ui.alreadyrequested=já solicitado
+ui.notavailableyet=ainda não disponível
+ui.available=disponível
+ui.bonusavailable=disponível (bónus)
+ui.youaremissing=faltam-lhe <0>
+ui.scrollsnoreputation=A sua reputação não é suficiente para adquirir o pergaminho da aldeia.
+ui.scrollsnotenoughmoney=Necessita de mais <0> denier(s) para adquirir o pergaminho da aldeia.
+ui.scrollsok=Pode adquirir o pergaminho da aldeia.
+ui.buyscroll=Comprar o pergaminho da aldeia
+ui.cost=Custo
+ui.clicktorequest=Solicitar
+ui.scrollbought=<0>: Foi-lhe confiado o pergaminho da aldeia!
+ui.housebought=<0>: A construção de <1> começará em breve!
+ui.inhabitantof=Habitante de <0>
+ui.inconstruction=Em construção
+ui.nospace=Não existe espaço
+ui.reservedforvillager1=Reservado
+ui.reservedforvillager2=para o aldeão
+ui.currentlyempty1=Vazio
+ui.currentlyempty2=de momento
+ui.visitorslist1=Lista de
+ui.visitorslist2=visitantes
+ui.goodstraded=Bens negociados
+ui.imports=Importações
+ui.exports=Exportações
+ui.import_total=Import. totais: <0>
+ui.export_total=Export. totais: <0>
+ui.merchants=Comerciantes:
+ui.goalscompleted1=Todos os projectos
+ui.goalscompleted2=concluídos
+ui.project=Projecto
+ui.noconstruction1=Nenhum projecto
+ui.noconstruction2=em curso
+ui.upgrading=A actualizar (<0>)
+ui.construction=Construção <0>:
+ui.population=População:
+ui.populationnumber=População: <0>
+ui.adults=Adultos: <0> (<1>/<2>)
+ui.teens=Jovens: <0> (<1>/<2>)
+ui.children=Crianças: <0> (<1>/<2>)
+ui.villagemap=Mapa da Aldeia
+ui.nbbuildings=<0> construções
+ui.wandwrongblock=Esta varinha apenas funciona num bloco de obsidiana para uma aldeia aleatória ou nos seguintes blocos:
+ui.wandblocklist=<0> para uma <1>
+ui.wandblocklistcontrolled=<0> para uma <1> (necessita de liderança nesta cultura)
+ui.brickinstructions=São necessários um bloco de terra e um de areia para criar um tijolo húmido.
+ui.buildingscentre=Centro
+ui.buildingsstarting=Construções iniciais
+ui.buildingsplayer=Construções do jogador
+ui.buildingskey=Construções-chave
+ui.buildingssecondary=Construções secundárias
+ui.buildingsextra=Construções adicionais
+ui.worldnotgenerated=A área circundante ainda não gerou por completo. Explore um pouco e volte mais tarde.
+ui.tooclosetospawn=Não lhe é permitido criar uma aldeia tão próxima da spawn.
+ui.generatenotenoughspace=Não existe espaço suficiente para posicionar o centro da aldeia.
+ui.generatenotenoughspacevillage=Não existe espaço suficiente para criar a aldeia.
+ui.lackingresources=Faltam materiais
+ui.lockedchestwarning=AVISO: destruir os cofres trancados impedirá as aldeias de funcionarem correctamente. Faça-o apenas se desejar destruir a aldeia.
+ui.xoutofy=<0> de <1>
+ui.extraresneeded1=<0> outros materiais
+ui.extraresneeded2=necessários
+ui.woodforplanks=Madeira (qualquer)
+ui.woodoak=Madeira (carvalho)
+ui.woodpine=Madeira (abeto)
+ui.woodbirch=Madeira (bétula)
+ui.woodjungle=Madeira (tropical)
+ui.anyenchanted=Objecto encantado
+ui.enchantedsword=Espada encantada
+ui.selectabuildingproject=Seleccione um projecto
+ui.projectadded=O projecto foi adicionado à lista
+ui.problemat=Problema em <0>: <1>
+ui.constructionforbidden=construção proibida
+ui.locationclash=conflito com outra construção
+ui.outsideradius=fora do raio de alcance da aldeia
+ui.wrongelevation=fora da altitude permitida
+ui.danger=bloco perigoso
+ui.notreachable=área inalcançável
+ui.unknownerror=problema desconhecido
+ui.controlbuildingprojects=Gerir projectos
+ui.forbidupgrades=Parar actualizações
+ui.allowupgrades=Permitir actualizações
+ui.cancelbuilding=Remover construção
+ui.level=nível
+ui.notyetbuilt=Não construído
+ui.nbinhabitants=Número de habitantes: <0>
+ui.wandnocontrol=Não é possível criar este tipo de aldeia pois ainda não foi reconhecido como líder da cultura <0>.
+ui.control_ok=Devido aos vários serviços que prestou à aldeia, a cultura <0> encontra-se agora pronta para reconhecê-lo como líder! Eu torná-lo-ei oficial e permiti-lo-ei fundar a sua própria aldeia.
+ui.control_noreputation=A sua reputação ainda não é suficiente para ser reconhecido como líder da cultura <0>. Melhore a sua reputação connosco ou complete tarefas extraordinárias para atingir esse estatuto.
+ui.control_alreadydone=Já foi reconhecido como líder da cultura <0>.
+ui.control_get=Solicitar reconhecimento como líder
+ui.control_gotten=<0>: $name, eu reconheço-o oficialmente como digno de liderar o povo da cultura <1>! Poderá a partir de agora fundar a sua própria aldeia.
+ui.selectavillage=Seleccione o tipo de aldeia que pretende criar
+ui.leadershipstatus=Estatuto de liderança
+ui.leaderin=Foi reconhecido como líder da cultura <0>. Poderá criar aldeias controláveis desta cultura.
+ui.notleaderin=Ainda não foi reconhecido como líder da cultura <0>.
+ui.leaderinstruction=Para poder tornar-se líder de uma cultura, necessita de atingir o nível de "Líder Natural" numa aldeia e solicitar o estatuto ao chefe da mesma, ou completar o capítulo da Jornada da Criação referente a essa mesma cultura (se disponível).
+ui.wandinstruction=Utilize a varinha num bloco de obsidiana para criar uma aldeia aleatória, ou num bloco de ouro para escolher o tipo de aldeia a criar.
+ui.controlled=controlada
+ui.villagerelations=<0> (<1>, <2>): <3>
+ui.relationlist=Relações Diplomáticas
+ui.relationpraise=Elogiar
+ui.relationslander=Difamar
+ui.relationpoints=Pontos diplomáticos disponíveis: <0>
+ui.villagerelationsnobutton=Necessita de pontos diplomáticos suficientes e uma reputação positiva com a aldeia para poder influenciá-la.
+ui.relationhelp=Ajuda sobre relações<ret><ret>As relações diplomáticas entre aldeias determinam se as mesmas podem cooperar entre si ou não.<ret><ret>O comércio local (comerciantes que transportam materiais entre aldeias) dar-se-á apenas entre aldeias da mesma cultura com um bom nível diplomático, ou entre aldeias de culturas diferentes com um excelente nível diplomático.<ret><ret>As aldeias de culturas diferentes que tenham um nível diplomático muito bom e que tenham ambas um mercado aceitarão comerciantes umas das outras.<ret><ret>As aldeias da mesma cultura que tenham um excelente nível diplomático aceitarão adolescentes entre si, desde que haja vagas disponíveis.<ret><ret>As relações diplomáticas iniciam-se num nível excelente para as grandes vilas com aldeolas secundárias, num nível bom para aldeias da mesma cultura e num nível mau para aldeias de culturas diferentes.<ret><ret>Todos os dias, o jogador recebe cinco pontos diplomáticos que poderá utilizar para influenciar as relações diplomáticas. A reputação do jogador nos locais em questão afectará a eficácia dos seus elogios ou das suas difamações.
+ui.relationfriendly=Acontecimentos recentes entre as aldeias de <0> e <1> melhoraram a sua relação diplomática para <2>.
+ui.relationunfriendly=Conflitos recentes entre as aldeias de <0> e <1> pioraram a sua relação diplomática para <2>.
+ui.cropplantingknowledge=Não tem conhecimento sobre a arte do cultivo de <0>. Necessita de solicitá-lo a um chefe de aldeia.
+ui.cropsknown=Plantas nativas a esta cultura
+ui.cropknown=Aprendeu a cultivar <0>.
+ui.cropinsufficientreputation=A sua reputação é insuficiente para que a aldeia o ensine a cultivar <0>.
+ui.cropnotenoughmoney=Necessita de mais <1> para poder pagar a aprendizagem do cultivo de <0>.
+ui.cropoktolearn=A aldeia pode ensiná-lo a cultivar <0>.
+ui.croplearn=Aprender (<0>)
+ui.croplearned=<0>: Os mistérios do cultivo de <1> foram-lhe revelados!
+ui.raider=Invasor
+
+ui.communicationexplanations=Para comunicar com os aldeões, utilize o botão direito do seu rato. Caso seja possível algum tipo de interacção com o aldeão em questão (negociar, conversar com o chefe da aldeia, contratar um aldeão, iniciar uma missão), surgirá uma janela descritiva com as diversas opções.
+ui.helpbutton=Ajuda do Millénaire
+ui.chunkbutton=Mapa de Chunks
+ui.configbutton=Definições
+ui.serverimportforbidden=A importação de construções num servidor só pode ser executada por administradores.
+
+ui.controldiplomacy=Diplomacia
+ui.raidinprogress=Invasão em curso!
+ui.otherraidinprogress=Outra invasão em curso.
+ui.otherraidplanned=Outra invasão planeada.
+ui.raidcancel=Cancelar a invasão.
+ui.raidplanned=Invasão planeada.
+ui.relgood=Excelente
+ui.relneutral=Neutra
+ui.relbad=Conflito
+ui.raid=Planear invasão
+
+
+help.tab_1=Informações Gerais
+help.tab_2=Comércio
+help.tab_3=Reputação e o Chefe da Aldeia
+help.tab_4=Expansão das Aldeias
+help.tab_5=Combate e Invasões
+help.tab_6=Criar e Destruir Aldeias
+help.tab_7=Missões
+help.tab_8=Os Normandos
+help.tab_9=Os Hindus
+help.tab_10=Os Maias
+help.tab_11=Os Japoneses
+help.tab_12=Os Bizantinos
+help.tab_13=Perguntas Frequentes
+
+
+quest.obtained=Recebeu
+quest.lackingcondition=Em falta:
+quest.lackinghiddengoods=Não possui os itens necessários para esta missão.
+quest.close=Fechar
+quest.accept=Aceitar Missão
+quest.refuse=Recusar Missão
+quest.continue=Continuar Missão
+quest.conditionsnotmet=Ainda não atingiu todos os requisitos necessários.
+quest.lessthananhourleft=Tem menos de uma hora!
+quest.timeremaining=Tempo remanescente
+quest.hours=hora(s)
+quest.noquestsvisible=Nenhuma missão em progresso
+quest.questlist=Missões em progresso
+quest.reputationlost=reputação perdida
+
+quest.creationqueststatus=Estado da Jornada da Criação
+quest.creationqueststatusshort=Jornada da Criação:
+
+quest.cqchaptersadhu=O Sadhu
+quest.cqsadhustartexplanation=Encontre um aldeão capaz de o guiar numa aldeia Hindu onde tenha pelo menos a reputação de "Amigo da Aldeia".
+
+quest.cqchapteralchemist=O Alquimista
+quest.cqalchemiststartexplanation=Encontre um aldeão capaz de o guiar numa aldeia Normanda onde tenha pelo menos a reputação de "Amigo da Aldeia".
+
+quest.cqchapterfallenking=O Rei Caído
+quest.cqfallenkingstartexplanation=Encontre um xamã capaz de o guiar numa aldeia Maia onde tenha pelo menos a reputação de "Amigo da Aldeia".
+
+
+quest.cqallcompleted=Parabéns, completou todas as missões disponíveis de momento na Jornada da Criação!
+quest.cqcheckforupdates=Visite www.millenaire.org para futuras actualizações com mais missões.
+quest.cqchapternotstarted=Ainda não iniciou o capítulo "<0>".
+quest.cqchapterinprogress=Completou <1> das <2> missões do capítulo "<0>" da Jornada da Criação.
+quest.cqchaptercompleted=Concluiu o capítulo "<0>".
+quest.cqchapternotstartedshort=Capítulo "<0>": não iniciado.
+quest.cqchapterinprogressshort=Capítulo "<0>": <1>/<2>.
+quest.cqchaptercompletedshort=Capítulo "<0>": concluído.
+quest.cqcheckquestlistandhelp=Prima '<0>' para obter mais informações ou para aceder à ajuda do Millénaire.
+
+
+
+
+
+error.unknownitem=Nome Desconhecido
+
+
+
+//Erros
+ui.updateEntity=Erro em TileEntityBuilding.updateEntity(). Verifique o ficheiro "millenaire.log".
+
+//Painéis e pergaminhos
+panels.notextfound=Nenhum texto encontrado para este livro: <0>
+panels.invalidid=ID da aldeia inválido.
+panels.toofar=A aldeia está demasiado longe para carregar o seu registo.
+panels.recordsnotloaded=O registo da aldeia não pôde ser carregado com sucesso.
+panels.villagescroll=Pergaminho da aldeia
+panels.mother=Mãe
+panels.father=Pai
+panels.spouse=Cônjuge
+panels.dead=Temporariamente morto
+panels.awayraiding=Ausente em invasão
+panels.awayhired=Recrutado por um jogador
+panels.invaderincoming=A chegar
+panels.missing=EM FALTA!
+panels.multiple=PRESENTE <0> VEZES!
+panels.currentoccupation=Profissão actual
+panels.visitors=Visitantes
+panels.constructions=Construções
+panels.upgrade=actualização
+panels.buildingprojects=Projectos
+panels.notyetbuilt=ainda não construído
+panels.nbupgradesleft=<0> actualizações por construir.
+panels.finished=completo
+panels.houseunoccupied=Esta casa encontra-se vazia. Os novos adolescentes instalar-se-ão aqui e tornar-se-ão adultos.
+panels.man=Homem
+panels.woman=Mulher
+panels.children=Criança
+panels.nofemaleresident=Esta casa nunca terá um residente feminino.
+panels.bachelor=O homem que aqui vive ainda é solteiro. Uma nova adolescente juntar-se-á a ele e tornar-se-á adulta.
+panels.nomaleresident=Esta casa nunca terá um residente masculino.
+panels.spinster=A mulher que aqui vive ainda é solteira. Um novo adolescente juntar-se-á a ela e tornar-se-á adulto.
+panels.resources=Materiais
+panels.goodstraded=Mercadorias negociadas na aldeia
+panels.goodsimported=Importadas doutras aldeias
+panels.goodsexported=Exportadas para outras aldeias
+panels.innvisitors=Visitantes nesta <0>
+panels.mappurple=Violeta: construção em progresso.
+panels.mapblue=Azul: outras construções.
+panels.mapgreen=Verde: áreas adequadas para construção.
+panels.maplightgreen=Verde Claro: áreas adequadas para construção, mas onde não é possível inserir o centro de uma construção.
+panels.mapred=Vermelho: áreas perigosas (lava, cactos, etc).
+panels.mapyellow=Amarelo: construção proibida (gelo, blocos artificiais).
+panels.maporange=Laranja: construção proibida (demasiado próximo de outra construção) ou áreas inalcançáveis (devido a um rio ou elevação abrupta, por exemplo)
+panels.maplightblue=Azul-claro: água.
+panels.mapbrown=Castanho: outras áreas (fora da altitude permitida, etc).
+panels.unreachablebuilding=inalcançável!
+panels.merchantlist=Lista de comerciantes
+panels.capacity=Capacidade
+panels.nbnightsin=Na aldeia desde há <0> noite(s).
+panels.storedexports=<0> armazenou o seguinte para exportação: <1>
+panels.broughtimport=<0> trouxe o seguinte para a aldeia: <1>
+panels.startedtrading=<0> (<1>) seguiu a carreira do comércio.
+panels.merchantmovedout=<0> (<1>) partiu para <2> após <3> dias na aldeia.
+panels.merchantarrived=<0> (<1>) chegou de <2>.
+panels.childarrived=<0> chegou de <1> à procura de trabalho.
+panels.resourcesneeded=Materiais necessários
+panels.resourcesavailable=Materiais disponíveis
+panels.villageculture=Aldeias da cultura <0>
+panels.military=Forças Armadas
+panels.planningraid=A planear invasão
+panels.raidinprogress=Invasão em percurso
+panels.underattack=Sob ataque!
+panels.offense=Ofensiva: <0>
+panels.defense=Defensiva: <0>
+panels.offenselong=Poder ofensivo: <0>
+panels.defenselong=Poder defensivo: <0>
+panels.raidinprogresslong=A invadir <0>. A invasão iniciou-se há <1> hora(s) atrás.
+panels.planningraidlong=A planear invasão a <0>. O planeamento iniciou-se há <1> hora(s) atrás.
+panels.underattacklong=Sob ataque de <0> inimigos de força <1> provenientes de <2>!
+panels.villagefighters=Guerreiros da Aldeia
+panels.attackers=Atacantes
+panels.defender=Defensor
+panels.raider=Invasor
+panels.health=Vitalidade
+panels.weapons=Arma(s)
+panels.armour=Armadura
+panels.militarystrength=Poder
+panels.unknownattacker=uma região desconhecida
+panels.raidsperformed=Invasões executadas
+panels.raidssuffered=Invasões sofridas
+panels.nameand=<0> e
+panels.buildingproject=Projecto actual:
+panels.currentconstruction=Construção actual:
+panels.villagesummary=Informação principal
+
+//Objectivos (texto visualizado acima do aldeão quando está a executá-lo)
+goal.gorest=A descansar
+goal.godrink=A beber um copo
+goal.gopray=A rezar
+goal.GatherGoods=A recolher materiais
+goal.BringBackResourcesHome=A trazer materiais para casa
+goal.GetTool=A recolher ferramentas
+goal.huntMonster=A combater uma criatura
+goal.GetGoodsHousehold=A adquirir materiais para a sua casa
+goal.DeliverGoodsHousehold=A entregar materiais a sua casa
+goal.GetHouseTHResources=A retirar materiais da sua casa
+goal.DeliverResourcesShop=A entregar materiais
+goal.raidvillage=A invadir uma aldeia
+goal.defendvillage=A defender a aldeia
+goal.hide=A abrigar-se
+
+goal.CollectCrop=A recolher colheitas
+goal.PlantSeeds=A plantar sementes
+goal.ChopTrees=A serrar árvores
+goal.PlantSaplings=A plantar rebentos
+goal.GetResourcesForBuild=A recolher materiais para uma construção
+goal.MakeBread=A cozer pão
+goal.BeSeller=A vender ao jogador
+goal.MakeCider=A produzir sidra
+goal.MakeCalva=A produzir calva
+goal.Construction=A construir
+goal.GoPlay=A brincar
+goal.BecomeAdult=A instalar-se
+goal.MakeNormanTools=A produzir ferramentas
+goal.MakeNormanWeapons=A forjar armas
+goal.Patrol=A patrulhar
+goal.Butcher=A abater animais
+goal.MakeBoudin=A fazer boudin noir
+goal.MakeTripes=A fazer tripes
+goal.Mining=A escavar
+goal.Cooking=A cozinhar
+goal.MakeBooks=A fazer pergaminhos
+goal.MakeTapestry=A fazer tapeçarias
+goal.VisitInn=A visitar uma albergaria
+goal.VisitBuilding=A visitar uma loja
+goal.MakeAmulet=A fabricar amuletos
+goal.KeepStall=A guardar a sua bancada
+goal.MakeTimberFrame=A fabricar armações de madeira
+
+goal.DryBrick=A secar tijolos
+goal.GatherBrick=A recolher tijolos secos
+goal.CookBrick=A cozinhar tijolos
+goal.PlantRice=A plantar arroz
+goal.HarvestRice=A recolher arroz
+goal.PlantTurmeric=A plantar açafrão
+goal.HarvestTurmeric=A recolher açafrão
+goal.SlaughterChicken=A abater frangos
+goal.PlantSugarCane=A plantar cana
+goal.HarvestSugarCane=A recolher cana
+goal.MakeRasgulla=A fazer rasgullās
+goal.Makesteelaxe=A produzir machados de aço
+goal.Makesteelpickaxe=A produzir picaretas de aço
+goal.Makesteelshovel=A produzir pás de aço
+goal.Makesteelhoe=A produzir enxadas de aço
+goal.Makesteelsword=A forjar espadas de aço
+
+goal.makesteelchest=A forjar peitos de aço
+goal.makesteelhelmet=A forjar elmos de aço
+goal.makesteellegs=A forjar perneiras de aço
+goal.makesteelboots=A forjar botas de aço
+
+goal.makeindianstatue=A esculpir estátuas
+goal.performpujas=A realizar um ritual
+goal.bepujaperformer=Disponível para rituais
+goal.performsacrifices=A realizar um sacrifício
+goal.besacrificeperformer=Disponível para sacrifícios
+
+goal.PlantMaize=A plantar milho
+goal.HarvestMaize=A recolher milho
+goal.makemayanGoldBlock=A produzir ornamentos dourados
+goal.makemayanstatue=A esculpir estátuas
+goal.Makestoneaxe=A produzir machados de pedra
+goal.Makestonepickaxe=A produzir picaretas de pedra
+goal.Makestoneshovel=A produzir pás de pedra
+goal.Makestonehoe=A produzir enxadas de pedra
+goal.Makestonesword=A produzir espadas de pedra
+goal.makeleatherboots=A produzir botas de couro
+goal.makeleatherchest=A produzir peitos de couro
+goal.makeleatherhelmet=A produzir elmos de couro
+goal.makeleatherlegs=A produzir perneiras de couro
+goal.makemayanaxe=A produzir machados de obsidiana
+goal.makemayanpickaxe=A produzir picaretas de obsidiana
+goal.makemayanshovel=A produzir pás de obsidiana
+goal.makemayanhoe=A produzir enxadas de obsidiana
+goal.makemayanmace=A produzir maças de obsidiana
+goal.makeobsidianflake=A quebrar obsidiana em flocos
+goal.harvestcocoa=A recolher cacau
+goal.plantcocoa=A plantar cacau
+goal.makecacauhaa=A preparar cacahuá
+
+goal.fish=A pescar
+goal.makethatch=A fazer colmo
+goal.makepaper=A fazer papel
+goal.makepaperrice=A fazer papel
+goal.makepaperwoodpulp=A fazer papel
+goal.makepaperwall=A fazer papel de arroz
+goal.cookfish=A cozinhar peixe
+goal.cooksteak=A cozinhar bifes
+goal.cooklamb=A cozinhar cordeiro
+goal.cookpork=A cozinhar costeletas de porco
+goal.cookchicken=A cozinhar frango
+goal.makeudon=A fazer udon
+goal.maketachi=A forjar espadas Tachi
+goal.makejapaneseweapons=A forjar armamentos Japoneses
+goal.makesake=A fermentar saqué
+goal.slaughtersquid=A pescar lulas
+
+goal.brewpotions=A fazer poções
+goal.harvestwarts=A recolher fungos
+goal.makeglassbottles=A produzir frascos
+goal.plantwarts=A plantar fungos
+
+goal.plantvines=A plantar vinhas
+goal.harvestvines=A recolher uvas
+goal.gathersilk=A recolher seda
+goal.makeicon=A pintar ícones
+goal.makewine=A produzir vinho
+goal.makebookshelves=A fabricar estantes
+goal.makebyzantinetiles=A produzir ladrilhos
+goal.makebrick=A produzir tijolos
+goal.training=A treinar
+goal.paintpainting=A pintar molduras
+goal.makebook=A escrever livros
+goal.makebyzantinemace=A forjar maças Bizantina
+goal.makebyzantinechest=A forjar peitos Bizantino
+goal.makebyzantinelegs=A forjar perneiras Bizantinas
+goal.makebyzantinehelmet=A forjar elmos Bizantino
+goal.makebyzantineboots=A forjar botas Bizantinas
+
+goal.makebow=A produzir arcos
+goal.makerottenflesh=A fazer carne podre
+goal.makearrow=A produzir flechas
+
+goal.sleep=A dormir
+goal.sleep_travelling=A ir dormir
+
+
+goal.makeclothes_byz_wool=A tecer roupas
+goal.makemasa=A preparar masa
+goal.slaughterpig=A abater porcos
+goal.makesouvlaki=A preparar souvlaki
+goal.makewah=A preparar wah
+goal.makecurry=A preparar caril vegetariano
+goal.makeclothes_byz_silk=A tecer roupas de seda
+goal.slaughtersheep=A abater ovelhas
+goal.slaughtercow=A abater vacas
+goal.breed=A reproduzir animais
+goal.shearsheep=A tosquiar ovelhas
+goal.makemurgh=A preparar caril de frango
+goal.getitemtokeep=A recolher um objecto
+
+goal.buildpath=A marcar caminhos
+goal.clearoldpath=A remover caminhos antigos
+
+goal.gosocialise=A ir conversar
+goal.chat=A conversar
+
+goal.makedirtwall=A fabricar blocos de muro de terra
+goal.makepath=A fabricar blocos de caminhos
+
+//other
+other.west=Oeste
+other.east=Este
+other.north=Norte
+other.north-east=Nordeste
+other.north-west=Noroeste
+other.south=Sul
+other.south-east=Sudeste
+other.south-west=Sudoeste
+
+other.tothewest=em direcção a Oeste
+other.totheeast=em direcção a Este
+other.tothenorth=em direcção a Norte
+other.tothenorth-east=em direcção a Nordeste
+other.tothenorth-west=em direcção a Noroeste
+other.tothesouth=em direcção a Sul
+other.tothesouth-east=em direcção a Sudeste
+other.tothesouth-west=em direcção a Sudoeste
+
+other.west_short=O
+other.east_short=E
+other.north_short=N
+other.south_short=S
+other.shortdistancedirection=<0>m <1>
+
+other.metre=metro(s)
+other.kilometre=quilómetro(s)
+other.andhalf=e meio
+
+other.directionshort=<1> <0>
+other.exploredbuilding=Explorou uma construção: <0>.
+
+other.malevillager=Aldeão do Millénaire
+other.femalevillager=Aldeã do Millénaire
+
+other.buildinghealing=Está a ser regenerado por: <0>.
+
+
+other.localmerchantinteract=Este comerciante é um comerciante local. Ele transporta bens entre aldeias. Não é possível interagir directamente com ele.
+
+other.chattosomeone=<0> com <1>
+
+hire.health=Vitalidade
+hire.strength=Força
+hire.cost=Custo (por dia)
+hire.aggressive=Atitude Agressiva
+hire.passive=Atitude Passiva
+hire.timeleft=Contratado por <0> hora(s)
+hire.hiredvillager=Este aldeão foi recrutado. Ele permanecerá ao seu serviço durante mais <0> horas ou até morrer e aparecer de novo na sua aldeia.<ret><ret>Prima '<1>' para colocá-lo em atitude agressiva ou Shift esquerdo-'<1>' para colocá-lo em atitude passiva.
+hire.hireablevillager=Pode recrutar este aldeão. Ele segui-lo-á até o contrato terminar ou até morrer. Ele atacará criaturas que ataquem o jogador ou atacará por iniciativa própria criaturas próximas e aldeões hostis se estiver em atitude agressiva.
+hire.hireablevillagernoreputation=Necessita de um nível de reputação de pelo menos "Comerciante Favorito" nesta aldeia para poder recrutar este aldeão.
+hire.extend=Prolongar
+hire.release=Cessar
+hire.close=Fechar
+hire.hire=Recrutar
+hire.hireover=A recruta de <0> terminou. Ele regressará agora para a sua aldeia.
+hire.hiredied=<0> morreu. Ele reaparecerá na sua aldeia, com o seu contrato terminado.
+hire.hiredbyotherplayer=<0> já foi recrutado por <1>.
+hire.hiredby=Recrutado por <0>
+
+actions.forest_success=Explorou com sucesso a floresta.
+actions.forest_continue=Completou <0>% da exploração da floresta.
+
+actions.desert_success=Explorou com sucesso o deserto.
+actions.desert_continue=Completou <0>% da exploração do deserto.
+
+actions.mountain_success=Explorou com sucesso as montanhas.
+actions.mountain_continue=Completou <0>% da exploração das montanhas
+
+actions.underwaterglass_success=Construiu com sucesso uma janela de observação no fundo do mar.
+actions.underwaterglass_notdeepenough=O mar não é profundo o suficiente a esta altitude.
+
+actions.underwaterdive_success=Mergulhou com sucesso nas profundezas do oceano.
+
+actions.bottomoftheworld_success=Parece que não é possível cavar mais fundo. Estas devem ser as raízes do mundo!
+
+actions.topoftheworld_success=Parece que não é possível escalar mais alto. Certamente este é o topo dos céus.
+
+actions.borehole_nblineok=<0> bloco(s) de rocha-matriz exposto(s) com sucesso. Necessita de expor 25 blocos ao céu, num quadrado de 5 por 5.
+actions.borehole_success=Cavou o poço com sucesso!
+
+actions.boreholetnt_success=Foram colocados explosivos suficientes. Pode agora detoná-los.
+actions.boreholetnt_nbtnt=<0> bloco(s) de explosivos colocado(s) e coberto(s) com obsidiana. Necessita de um total de 20 explosivos.
+
+actions.boreholetntlit_success=Activou os explosivos. Observe o resultado e reporte-o ao Alquimista.
+
+actions.thevoid_success=Olhou para dentro do Vazio!
+
+actions.enchantmenttable_success=Construiu uma mesa de encantamentos próxima do Sadhu.
+
+actions.mayan_siege_start=A pirâmide está a ser atacada! <0> ghasts, <1> blazes e <2> esqueletos estão a atacá-la. Destrua-os.
+actions.mayan_siege_success=Conseguiu derrotar as forças que atacavam a pirâmide!
+actions.mayan_siege_update=Restam <0> ghast(s), <1> blaze(s) e <2> esqueleto(s).
+
+info.culturetitle=Culturas
+info.culture=Cultura <0>
+info.culturereputation=Reputação: <0>
+info.culturelanguage=Nível de linguagem: <0>
+
+culturereputation.scourgeofgod=Praga de Deus
+culturereputation.dreadful=Terrível
+culturereputation.bad=Má
+culturereputation.stellar=Excepcional
+culturereputation.excellent=Excelente
+culturereputation.good=Boa
+culturereputation.decent=Decente
+culturereputation.neutral=Neutra
+
+culturelanguage.fluent=Fluente
+culturelanguage.moderate=Moderado
+culturelanguage.beginner=Principiante
+culturelanguage.minimal=Mínimo
+
+
+weapon.criticalstrike=Ataque crítico! <0>x o dano!
+
+negationwand.villagelocked=A aldeia <0> ainda se encontra bloqueada. Necessita de matar todos os homens adultos para poder destruí-la.
+negationwand.confirmmessage=Tem a certeza de que deseja destruir a aldeia <0>? Se o fizer, as construções permanecerão, mas todos os aldeões desaparecerão permanentemente.
+negationwand.confirm=Confirmar
+negationwand.cancel=Cancelar
+negationwand.destroyed=A aldeia <0> foi destruída! As suas construções são agora conchas vazias e nenhum aldeão as ocupará novamente.
+
+relation.excellent=Excelente
+relation.verygood=Muito Boa
+relation.good=Boa
+relation.decent=Decente
+relation.fair=Razoável
+
+relation.openconflict=Conflito Aberto
+relation.atrocious=Atroz
+relation.verybad=Muito Má
+relation.bad=Má
+relation.chilly=Fria
+
+relation.neutral=Neutra
+
+raid.planningstarted=<0> poderá estar a planear uma invasão contra <1>.
+raid.started=<0> iniciou a sua invasão contra <1>! <2> guerreiro(s) a caminho.
+raid.raidsuccesfull=<0> completou com sucesso a sua invasão contra <1> e obteve <2> recurso(s)!
+raid.raidfailed=<1> derrotou com sucesso a invasão de <0>.
+raid.nothing=Nada
+raid.historysuccess=Invasão a <0> terminada com sucesso. Pilhagem: <1>
+raid.historyraided=Invadida por <0>. Pilhagem: <1>
+raid.historyfailure=A invasão contra <0> falhou.
+raid.historydefended=Derrotou com sucesso a invasão de <0>.
+
+hof.hof=Corredor da Fama
+hof.modcreator=Criador do Mod
+hof.creatorofmayan1=Criador da
+hof.creatorofmayan2=cultura Maia
+hof.creatorofjapanese1=Criador da
+hof.creatorofjapanese2=cultura Japonesa
+hof.creatorofbyzantine1=Criador da
+hof.creatorofbyzantine2=cultura Bizantina
+hof.creatorofindianskins1=Criador das
+hof.creatorofindianskins2=skins Hindus
+
+hof.skinmaker=Criador de skins
+hof.buildingmaker=Arquitecto
+hof.wikiadmin=Admin. da Wiki
+hof.armouricons=Ícones das armaduras
+hof.normanarmour1=Gráficos das
+hof.normanarmour2=armaduras Normandas
+hof.support1=Suporte no
+hof.support2=fórum
+hof.frenchversion1=Ajuda com a
+hof.frenchversion2=versão Francesa
+hof.wikicontributions=Contribuições para a Wiki
+hof.improvementsjapanese1=Melhoramentos nas
+hof.improvementsjapanese2=aldeias Japonesas
+hof.lonebuildings=Construções isoladas
+hof.obsidiantools1=Ícones das
+hof.obsidiantools2=ferramentas de obsidiana
+hof.forgecode1=Código original para
+hof.forgecode2=o Forge Sprite API
+hof.btw=(criador do BTW)
+hof.forgehelp1=Ajuda com o
+hof.forgehelp2=Forge Sprite API
+hof.hofidea1=Ideia para o
+hof.hofidea2=Corredor da Fama
+hof.donor=Doador
+hof.variousimprovements1=Melhorias
+hof.variousimprovements2=Diversas
+
+pujas.invanme=Rituais
+pujas.panditfee=Taxa do Sacerdote
+pujas.offering=Oferenda
+pujas.god0=A Hanuman - para velocidade
+pujas.god1=A Shiva - para força
+pujas.god2=A Lakshmi - para sorte
+pujas.god3=A Ganesh - para habilidade
+pujas.priestcoming=<0>: Necessita que lhe realize um ritual? A sua devoção é admirável!
+pujas.offeringslot=Coloque uma oferenda aos Deuses.
+pujas.offeringslot2=Eles não aceitarão qualquer coisa. Vá experimentando.
+pujas.moneyslot=Coloque dinheiro para o sacerdote.
+pujas.toolslot=Coloque a ferramenta a ser encantada.
+
+sacrifices.priestcoming=<0>: Necessita que lhe realize um sacrifício? É importante agradar aos Deuses.
+sacrifices.panditfee=Para o xamã
+sacrifices.offering=Sacrifício
+
+mayan.god0=A Ah Puch - para sobrevivência
+mayan.god1=A K'inich Ajaw - para chamas
+mayan.god2=A Cabrakan - para impacto
+mayan.god3=A Ah Tabai - para flechas
+mayan.god4=A Cum Hau - para vingança
+
+mayan.god5=A Uqux Cho - para o fôlego do caimão
+mayan.god6=A Uqux Palo - para trabalhar debaixo das ondas
+
+mayan.god7=A Alom - para leveza
+
+mayan.god8=A Buluc Chabtan - para violência
+mayan.god9=A Ah Puch - para lutar contra os mortos
+mayan.god10=A Cum Hau - para derrotar criaturas
+
+mayan.god11=A Huracan - para o fôlego forte
+mayan.god12=A K'inich Ajaw - para chamas
+mayan.god13=A Ek Chuah - para sorte
+
+mayan.god14=A Buluc Chabtan - para violência
+mayan.god15=A Huracan - para o fôlego forte
+mayan.god16=A K'inich Ajaw - para chamas
+mayan.god17=A Ek Chuah - para sorte
+
+mayan.god18=A Witz - para resistência
+
+culture.norman=Normanda
+culture.indian=Hindu
+culture.japanese=Japonesa
+culture.mayan=Maia
+culture.byzantines=Bizantina
+
+export.errornoname=Necessita de fornecer um nome para o plano de construção na primeira linha.
+export.errornoendsigneast=Não foi possível localizar o sinal de fecho do Leste. Necessita de ser colocado em linha recta a partir do sinal de início, num raio de 256 blocos.
+export.errornoendsignsouth=Não foi possível localizar o sinal de fecho do Sul. Necessita de ser colocado em linha recta a partir do sinal de início, num raio de 256 blocos.
+export.errorlength=O comprimento detectado é de <0> mas existe um plano de construção na pasta de exportação de comprimento <1>.
+export.errorwidth=A largura detectada é de <0> mas existe um plano de construção na pasta de exportação de largura <1>.
+export.errorstartinglevel=Nível inicial inválido na terceira linha do sinal.
+export.defaultstartinglevel=Nenhum nível inicial especificado, a configurar o nível -1 por predefinição.
+export.errorunknownblockid=Tipo de bloco desconhecido: <0>
+export.buildingexported=Construção exportada como <0>.
+
+import.notonserver=Não é possível importar construções num servidor.
+import.errornoname=Necessita de fornecer um nome para o plano de construção na primeira linha.
+import.errornotfound=A construção solicitada não se encontra presente em "millenaire-custom/exports".
+import.buildingupto=A construir até ao nível <0>
+import.errorinvalidupgradelevel=Nível de actualização inválido na segunda linha do sinal.
+import.buildinginitialphase=Nenhum nível de actualização especificado, a construir apenas o nível inicial.
+import.errorupgradeleveltoohigh=O nível de actualização solicitado é mais alto do que o disponível.
+import.doublevertical=Altura vertical duplicada
+import.buildinglevel=Nível da construção: <0>
+
+effect.towncentre=Centro da Aldeia
+effect.shop=Loja: <0>
+effect.irrigation=Irrigação: <0>% colheitas adicionais
+effect.pujalocation=Realiza rituais
+effect.sacrificeslocation=Realiza sacrifícios
+effect.healing=Regenera o Jogador
+
+chunk.chunkmap=Mapa de Chunks
+chunk.caption=Legenda
+chunk.captiongeneral=Cada chunk é representada por um quadrado de 2x2 píxeis.
+chunk.captiongreen=Os pontos verdes indicam as chunks carregadas em memória.
+chunk.captionblue=Os pontos azuis indicam as chunks que contêm a área de uma aldeia.
+chunk.captionpurple=Os pontos roxos indicam as chunks que contêm a área de uma construção isolada.
+chunk.captionwhite=Os pontos brancos indicam as chunks carregadas em memória por um mod (o Millénaire ou outro mod da Forge).
+chunk.playerposition=Coordenadas do jogador: <0>
+chunk.settings=Raio de carregamento de aldeias: <0> metros. Valor máximo de preservação de chunks permitido pela Forge: <1>.
+chunk.explanations=As aldeias do Millénaire só se encontram activas se todas as suas chunks forem carregadas em memória. Os habitantes das aldeias inactivas mantêm-se "congelados". O Millénaire tenta forçar o Minecraft a manter carregadas as chunks de todas as aldeias até 200 metros de distância do jogador (esse valor pode ser configurado). O mecanismo da Forge que é utilizado para este fim está limitado, inicialmente, a 200 chunks; este valor pode ser configurado em "minecraft/config/forgeChunkLoading.cfg", mas atenção: quantas mais chunks forem mantidas em memória de forma forçada, pior será o desempenho do jogo.
+chunk.chunkcoords=Chunk: <0>
+chunk.village=<0>
+chunk.chunkforced=Carregamento forçado
+
+
+
+
+config.pagetitle=Definições do Millénaire
+config.page.uisettings=Definições de Interface
+config.page.worldgeneration=Geração de Mundos
+config.page.worldgeneration.desc=Estas definições aplicam-se à geração de mundos locais apenas (não aos mundos dos servidores).
+config.page.villagebehaviour=Comportamento das Aldeias
+config.page.villagebehaviour.desc=Estas definições aplicam-se às aldeias em mundos locais apenas (não às dos servidores).
+config.page.devtools=Ferramentas de Desenvolvimento
+
+config.village_list_key.label=Tecla da Lista de Aldeias
+config.village_list_key.desc=Tecla para mostrar a lista das aldeias mais próximas. Predefinição: <0>.
+
+config.quest_list_key.label=Tecla do Painel Informativo
+config.quest_list_key.desc=Tecla para mostrar o painel informativo do Millénaire. Predefinição: <0>.
+
+config.escort_key.label=Tecla do Estado dos Mercenários
+config.escort_key.desc=Tecla para alternar o estado dos aldeões contratados entre agressivo e defensivo. Predefinição: <0>.
+
+
+config.fallback_language.label=Idioma de Recurso
+config.fallback_language.desc=Idioma secundário do jogo, utilizado quando o principal não se encontra disponível.
+
+config.dynamic_textures.label=Texturas Dinâmicas
+config.dynamic_textures.desc=Utiliza automaticamente as texturas oficiais 64x do Millénaire quando estiver a utilizar um pacote de texturas de pelo menos 64x.
+
+config.language_learning.label=Aprendizagem de Idiomas
+config.language_learning.desc=Activa a mecânica de aprendizagem dos idiomas nativos dos aldeões (as traduções do texto só surgirão à medida que o jogador for interagindo com uma determinada cultura).
+
+config.load_all_languages.label=Carregar Todos os Idiomas
+config.load_all_languages.desc=Carrega todos os idiomas disponíveis, de forma a poder disponibilizar traduções para outros clientes, caso necessitem.
+
+config.display_start.label=Visualizar Texto Inicial
+config.display_start.desc=Mostra a versão do Millénaire e o estado da Jornada da Criação quando entra num mundo.
+
+config.display_names.label=Visualizar Nomes dos Aldeões
+config.display_names.desc=Mostra os nomes, as profissões e as tarefas actuais por cima da cabeça dos aldeões.
+
+config.villagers_names_distance.label=Distância de Visualização dos Nomes
+config.villagers_names_distance.desc=Distância mínima para visualizar os nomes dos aldeões. Predefinição: <0>.
+
+config.villagers_sentence_in_chat_distance_client.label=Diálogos no Chat (MJ)
+config.villagers_sentence_in_chat_distance_client.desc=O quão longe os aldeões necessitam de estar para que os seus diálogos apareçam na caixa de chat do modo multi-jogador. Predefinição: <0>.
+
+config.villagers_sentence_in_chat_distance_sp.label=Diálogos no Chat (JU)
+config.villagers_sentence_in_chat_distance_sp.desc=O quão longe os aldeões necessitam de estar para que os seus diálogos apareçam na caixa de chat do modo de jogador único. Predefinição: <0>.
+
+config.generate_villages.label=Gerar Aldeias
+config.generate_villages.desc=Activa a geração de aldeias do Millénaire em novas chunks.
+
+config.generate_lone_buildings.label=Gerar Construções Isoladas
+config.generate_lone_buildings.desc=Activa a geração de construções isoladas do Millénaire em novas chunks.
+
+config.keep_active_radius.label=Raio de Carregamento de Chunks
+config.keep_active_radius.desc=Raio em redor do jogador dentro do qual o Millénaire tentará manter as chunks das aldeias carregadas em memória. Predefinição: <0>.
+
+config.min_village_distance.label=Distância Mínima entre Aldeias
+config.min_village_distance.desc=Distância mínima entre duas aldeias geradas. Predefinição: <0>.
+
+config.min_village_lonebuilding_distance.label=Distância Mínima entre Aldeias e Construções Isoladas
+config.min_village_lonebuilding_distance.desc=Distância mínima entre uma aldeia e uma construção isolada geradas. Predefinição: <0>.
+
+config.min_lonebuilding_distance.label=Distância Mínima entre Construções Isoladas
+config.min_lonebuilding_distance.desc=Distância mínima entre duas construções isoladas geradas. Predefinição: <0>.
+
+config.spawn_protection_radius.label=Raio de Protecção da Spawn
+config.spawn_protection_radius.desc=Área em redor da Spawn dentro da qual o Millénaire não gerará construções ou aldeias. Predefinição: <0>.
+
+config.village_radius.label=Raio das Aldeias
+config.village_radius.desc=Raio das aldeias normais (não aldeolas secundárias). Predefinição: <0>.
+
+config.min_distance_between_buildings.label=Distância Mínima entre Construções
+config.min_distance_between_buildings.desc=Distância mínima entre duas construções numa aldeia. Predefinição: <0>.
+
+config.village_paths.label=Construir Caminhos
+config.village_paths.desc=Gerar caminhos em novas aldeias e encarregar os aldeões da sua actualização.
+
+config.max_children_number.label=Número Máximo de Crianças
+config.max_children_number.desc=Número máximo de crianças que uma aldeia pode ter. Predefinição: <0>.
+
+config.background_radius.label=Raio de Relações de Aldeias
+config.background_radius.desc=Raio dentro do qual as aldeias terão relações entre si (diplomacia, comércio, invasões). Predefinição: <0>.
+
+config.bandit_raid_radius.label=Raio de Invasões de Bandidos
+config.bandit_raid_radius.desc=Raio dentro do qual os bandidos invadirão aldeias. Predefinição: <0>.
+
+config.raiding_rate.label=Percentagem de Chance de Invasão
+config.raiding_rate.desc=Percentagem de chance de uma aldeia ou edifício de bandidos tentar invadir outra zona a cada noite. Predefinição: <0>.
+
+
+
+config.generate_colour_chart.label=Criar Tabela de Cores
+config.generate_colour_chart.desc=Criar a tabela das cores que podem ser utilizadas em ficheiros de construções.
+
+config.generate_building_res.label=Criar Lista de Recursos
+config.generate_building_res.desc=Criar a lista de recursos necessários para cada construção.
+
+config.generate_translation_gap.label=Criar Lista de Lacunas
+config.generate_translation_gap.desc=Criar uma lista comparativa de texto em falta para cada idioma carregado, para auxiliar em traduções.
+
+config.generate_goods_list.label=Criar Lista de Bens Materiais
+config.generate_goods_list.desc=Criar uma lista de todos os objectos utilizados pelo Millénaire.
+
+config.valuetrue=Sim
+config.valuefalse=Não
+
+config.page.bonus=Bónus para Contribuidores
+config.page.bonus.desc=Bónus para todos aqueles que contribuíram para o Millénaire (traduções, projectos de construções, diálogos, texturas, contributos para a wiki, etc.) ou enviaram donativos: uma pequena habitação disponível a partir do Chefe de Aldeia.
+
+config.bonus_code.label=Código de Activação do Bónus
+config.bonus_code.desc=Código para activar o bónus. Obtido automaticamente através da Internet se uma ligação for possível.
+
+config.validbonuscode=Código válido! Bónus activado.
+config.invalidbonuscode=Código inválido. Por favor verifique.
+
+
+tradehelp.title=<0> - A negociar
+tradehelp.goodssold=Mercadorias Vendidas
+tradehelp.goodsbought=Mercadorias Adquiridas
+tradehelp.buyingprice=Compra:
+tradehelp.sellingprice=Venda:
+tradehelp.helptitle=Informações Gerais sobre Comércio
+tradehelp.helptext=Em cada loja pode adquirir mercadorias que a aldeia tenha disponível. À excepção de alguns blocos "gratuitos" (tais como os caminhos) ou objectos especiais (as varinhas), os bens disponíveis são produzidos pela aldeia e a mesma "perde" esses bens se os adquirir, ao contrário do que acontece quando negocia com aldeias nativas do Minecraft.<ret><ret>Os aldeões produzem a maior parte dos bens de que necessitam, mas se lhes vender alguns, irá acelerar o desenvolvimento da aldeia.
+
+tradehelp.freeblock=Estes blocos são "gratuitos" para a aldeia e, portanto, encontram-se disponíveis de forma ilimitada.
+tradehelp.wood=Os aldeões produzem madeira nos bosques. É utilizada na construção.
+tradehelp.stone=Os aldeões produzem a pedra e o vidro nas pedreiras. Se a aldeia não tiver uma pedreira, só poderá adquirir estes bens a partir do jogador.
+tradehelp.whitewool=A lã branca é utilizada em alguns edifícios. Os aldeões coloram-na automaticamente caso necessário.
+tradehelp.clay=Os aldeões produzem tijolos a partir da argila vinda das pedreiras.
+tradehelp.genericfood=O acesso a diferentes tipos de alimentos acelera o crescimento das crianças.
+tradehelp.genericfoodraw=Os aldeões cozinham a carne antes de a consumirem.
+tradehelp.genericfoodsweet=O álcool e os doces aumentam a probabilidade de um casal ter filhos.
+tradehelp.seeds=Os aldeões utilizam as sementes para plantar o trigo e alimentar as galinhas.
+tradehelp.carrot=Os aldeões utilizam as cenouras para alimentar os seus porcos.
+tradehelp.feathers=As penas são utilizadas para fabricar flechas.
+tradehelp.generictools=As ferramentas de diversos níveis de qualidade tornam os aldeões mais eficientes.
+tradehelp.genericweapon=As armas e armaduras de diversos níveis de qualidade tornam os aldeões mais poderosos.
+tradehelp.purse=As bolsas de deniers armazenam deniers e mantêm-no informado sobre os seus fundos. Encontram-se sempre disponíveis.
+tradehelp.wand=A varinha de convocação permite-lhe criar aldeias. Encontram-se sempre disponíveis.
+tradehelp.parchments=Os pergaminhos contêm informação sobre o Millénaire. Encontram-se sempre disponíveis.
+
+tradehelp.normanwhitewool=A lã branca é utilizada em alguns edifícios e é necessária para produzir tapeçarias nos fortes Normandos.
+tradehelp.normantapestrywool=As lãs cinzenta, cinzenta clara, preta e castanha são utilizadas pela dama para produzir tapeçarias.
+tradehelp.normanleather=Os monges Normandos utilizam o couro para fabricar livros.
+tradehelp.normantools=Os ferreiros Normandos utilizam o ferro para forjar armas e ferramentas Normandas de qualidade excepcional.
+tradehelp.normanbooks=Os monges Normandos produzem as estantes a partir do papel e de livros. São utilizadas em alguns edifícios.
+tradehelp.normanalchemy=O alquimista produz poções básicas.
+tradehelp.normancider=Os Normandos produzem a sidra e a calva nas tabernas a partir das maçãs de sidra recolhidas pelos lenhadores. Estas bebidas regeneram e curam o jogador e ajudam os aldeões a terem filhos. A calva confere também um bónus de força temporário.
+tradehelp.normantripesboudin=Os Normandos produzem as tripes e os boudins a partir das vacas e dos porcos. Estes alimentos saciam o jogador e ajudam as crianças a crescer. As tripes conferem também um bónus de regeneração temporário.
+tradehelp.normantapestry=As damas produzem estas tapeçarias decorativas a partir da lã branca, cinzenta, cinzenta clara, castanha e preta.
+tradehelp.normantimberframes=Os carpinteiros Normandos produzem as armações a partir da madeira.
+tradehelp.normanwheat=Os aldeões Normandos produzem o pão e alimentam o seu gado com o trigo.
+
+tradehelp.byzantinetools=Os ferreiros Bizantinos utilizam o ferro e o couro para produzir ferramentas de ferro e armaduras Bizantinas.
+tradehelp.byzantinefeta=Os Bizantinos produzem o queijo feta a partir do leite de ovelha. Este queijo regenera e cura o jogador e ajudam os aldeões a terem filhos.
+tradehelp.byzantinebooks=Os Bizantinos produzem livros a partir da madeira e do couro.
+tradehelp.byzantinewine=Os Bizantinos produzem vinho a partir das uvas numa taberna. O vinho cura o jogador e ajuda os aldeões a terem filhos. Confere também um bónus de resistência temporário.
+tradehelp.byzantinesilk=Os Bizantinos produzem a seda e utilizam-na para pinturas, ícones e roupas de luxo para os seus aldeões mais ricos.
+tradehelp.byzantineclothes=Os Bizantinos produzem roupas a partir da lã e da seda. Elas melhoram a aparência dos aldeões que as utilizam.
+tradehelp.byzantinetiles=Os Bizantinos produzem ladrilhos a partir da pedra e da argila.
+tradehelp.byzantinefood=Os Bizantinos cozinham as costeletas de cordeiro e misturam-nas com o seu queijo feta para produzir o delicioso souvlaki. Estes alimentos saciam o jogador e ajudam as crianças a crescer. O souvlaki regenera também o jogador.
+tradehelp.byzantineweapons=Os ferreiros Bizantinos produzem armaduras sólidas e formidáveis a partir do ferro e do couro.
+tradehelp.byzantinewheat=Os Bizantinos produzem o pão e alimentam o seu gado com o trigo.
+
+tradehelp.indiantools=Os ferreiros Hindus utilizam o ferro para fabricar ferramentas e armaduras.
+tradehelp.indiangenericfood=O acesso a diferentes tipos de alimentos ajuda as crianças a crescer. Aviso: os Hindus não consomem carne de vaca ou de porco.
+tradehelp.indiangenericfoodsweet=Os doces ajudam os aldeões a terem filhos. Aviso: os Hindus não consomem álcool.
+tradehelp.indianrasgulla=Os Hindus produzem deliciosas rasgullās a partir do açúcar. Elas regeneram e curam o jogador e ajudam os aldeões a terem filhos. Conferem também um bónus de velocidade temporário.
+tradehelp.indiancurry=Os Hindus cozinham o caril vegetariano a partir do arroz e do açafrão, bem como caril de frango com carne de frango. Estes alimentos saciam o jogador e ajudam as crianças a crescer. O caril de frango confere também um bónus temporário de resistência ao fogo.
+tradehelp.indianbricks=Os Hindus deixam os tijolos húmidos a secar ao sol para produzirem tijolos secos. Pode fabricá-los você mesmo adquirindo um molde.
+tradehelp.indianstatue=Os escultores Hindus produzem estes baixos-relevos de divindades Hindus para ornamentar os seus templos.
+
+tradehelp.japanesegold=Os Japoneses utilizam o ouro para decorar algumas construções.
+tradehelp.japaneseudon=Os Japoneses cozinham o udon a partir do trigo e do frango. Este alimento sacia o jogador e ajuda as crianças a crescerem.
+tradehelp.japanesetools=Os ferreiros Japoneses utilizam o ferro e o couro para fabricar ferramentas de ferro e armaduras Japonesas.
+tradehelp.japaneseweapons=Os ferreiros Japoneses fabricam belas armaduras e espadas formidáveis a partir do ferro, do couro e da lã.
+tradehelp.japanesepaper=Os artesãos Japoneses produzem o papel a partir do arroz e utilizam-no para fabricar paredes translúcidas.
+tradehelp.japaneseframes=Os artesãos Japoneses produzem armações de madeira para construir edifícios elegantes.
+tradehelp.japaneserice=Os Japoneses utilizam o arroz para saciar e fazer crescer as suas crianças, para produzir papel e para fermentar o saqué.
+tradehelp.japanesewheat=Os Japoneses cozinham o trigo para fabricar o udon.
+tradehelp.japanesethatch=Os Japoneses produzem blocos a partir do trigo.
+tradehelp.japanesesake=As cervejeiras Japonesas utilizam o arroz para fabricar o saqué. Esta bebida cura e regenera o jogador e ajuda os aldeões a terem filhos. Confere também um bónus temporário de melhoria de salto.
+tradehelp.japaneseikayaki=Os Japoneses desenvolvem lulas e grelham-nas para fazer os ikayakis. Este alimento sacia o jogador e ajuda as crianças a crescer. Confere também um bónus temporário de respiração aquática.
+
+tradehelp.mayangold=Os artesãos Maias necessitam do ouro para fabricar os seus ornamentos decorativos. É necessário que o jogador lhes disponibilize o ouro.
+tradehelp.mayanfood=Os Maias cultivam o milho e produzem masa (tortilhas de milho) e wah (acrescentando frango) a partir do mesmo. Estes alimentos saciam o jogador e ajudam as crianças a crescer. Conferem também um bónus temporário de rapidez.
+tradehelp.mayanobsidian=Os artesãos Maias fabricam ferramentas com obsidiana comprada ao jogador. Estas ferramentas não são muito eficazes, mas podem ser encantadas com facilidade.
+tradehelp.mayanstonetools=Os artesãos Maias produzem ferramentas e armas a partir da pedra como ferramentas básicas na falta de obsidiana.
+tradehelp.mayanweapons=Os artesãos Maias produzem espadas de pedra e armadura de couro. Os artesãos de obsidiana podem fabricar as maças de obsidiana, muito mais poderosas e fáceis de encantar.
+tradehelp.mayancocoa=Os agricultores de cacau Maias cultivam os grãos de cacau e utilizam-nos para preparar o cacahuá, uma bebida de chocolate. Esta bebida cura e regenera o jogador e ajuda os aldeões a terem filhos. Confere também um bónus temporário de visão nocturna.

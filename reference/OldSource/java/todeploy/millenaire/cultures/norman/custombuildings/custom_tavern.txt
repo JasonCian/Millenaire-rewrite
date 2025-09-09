@@ -1,0 +1,1 @@
+native:Taverne;gameNameKey:tavern_A0;shop:tavern;tag:drinking;tag:cider;tag:leasure;tag:Alembic;chest:2-5;craft:1;sign:1

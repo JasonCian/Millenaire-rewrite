@@ -1,0 +1,11 @@
+
+version:3.4
+<darkblue>Ayuda Millénaire
+Esta ayuda describe las características clave de Millénaire. Para más información, consulta la Wiki o pregunta en el foro minecraftforum.net
+Utiliza los iconos en ambos lados de esta pantalla para acceder a las diferentes secciones de ayuda.
+<darkblue>Cosas generales sobre aldeas y edificios aislados
+Millénaire añade <darkblue>aldeas<black> de diferentes culturas a Minecraft. Estas aldeas son generadas al azar en diferentes biomas. Son de diferentes estilos y ofrecen diferentes productos, pero todas tienen un jefe, construyen nuevos edificios, comercian contigo o no dependiendo de tus acciones (ver la sección de "Reputación").
+Cada aldea está construida alrededor de un edificio central (que puede ser una fortaleza, un monasterio, un palacio ...). En este edificio encontrarás varios carteles con información sobre la aldea. Hacer <darkblue>Click-Derecho<black> en los carteles para mostrar más información.
+<darkblue>Los edificios aislados<black> sin embargo no se expanden. Pueden estar vacíos (con objetos que encontraras en los cofres), ocupado por aldeanos pacíficos que pueden negociar contigo, o ser ocupada por los aldeanos hostiles que te atacarán.
+Al pulsar la tecla "V" (por defecto) muestra una lista de las aldeas cercanas. Los edificios aislados no están en la lista, debes recordar su ubicación.
+Por defecto, la distancia mínima entre dos aldeas es de dos kilómetros. Las villas creadas en torno a algunas aldeas son una excepción a esta regla.

@@ -1,0 +1,31 @@
+//Parameters for the building as a whole
+building.length=10
+building.width=14
+building.buildingorientation=3
+building.icon=carpet_red
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Atelier du tisseur
+initial.priority=800
+initial.male=weaver
+initial.female=herbalist
+initial.shop=weaver
+initial.abstractedproduction=carpet_white,8
+initial.abstractedproduction=carpet_yellow,8
+initial.abstractedproduction=carpet_red,8
+
+//Parameters for specific upgrades
+upgrade1.priority=80
+
+upgrade2.priority=75
+
+upgrade3.priority=70
+upgrade3.pathlevel=1
+
+upgrade4.priority=65
+
+upgrade5.priority=60
+upgrade5.pathlevel=2
+

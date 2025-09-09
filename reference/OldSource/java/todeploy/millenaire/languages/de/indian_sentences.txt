@@ -1,0 +1,90 @@
+
+female.BecomeAdult=Mainey socha tha kisi rajkumar sey shaadi hogi... / Ich hatte geträumt einen Prinzen zu heiraten...
+
+female.gorest=Main ab aaraam karane jaoonga. / Ich werde jetzt gehen und mich ausruhen.
+female.gorest=Main thak gayi hoon. / Ich bin müde.
+female.gorest=Subah sey kaam kar rahi hoon. / Ich arbeite schon seid dem Morgen.
+
+indian_armysmith.MakeWeapons=Hathiyaar bananey mein, upkaran bananey sey zyaada maan hai. / Waffen herzustellen ist viel angesehener als Werkzeug herzustellen!
+
+indian_lumberman.BringBackResourcesHome=Itna saara lakri ghar ley jaaney mein mushkil hooga. / Es wird schwer so viel Holz nach Hause zu tragen.
+indian_lumberman.ChopTrees=Yeh lakri kaat-tey kaat-tey meri zindagi beet jayegi. / Es scheint als werde ich mein ganzes Leben mit dem Fällen der Bäume verbringen.
+indian_lumberman.GatherGoods=Ab saari lakriyan ikaththa karta hoon. / Ich werde jetz das ganze Holz einsammeln.
+indian_lumberman.PlantSaplings=Jitna zyaada ped lagaoonga, utna hi aagey jaakey aaram raheyga. / Je mehr Setzlinge ich pflanze, desto mehr Holz habe ich später. 
+
+indian_pandit.gopray.chosen=Main mandir ki dekh bhaal nahin karoonga toh kaun karega? / Wenn ich mich nicht um den Tempel kümmere, wer tut es dann?
+indian_pandit.greeting=Jeetey raho. / Habe ein langes Leben.
+
+indian_peasant.CookBrick=Dekho, aag mein kaisi badhiyan pakti hai yeh intein. / Schaue wie gut diese Ziegel im Feuer kochen.
+
+indian_peasant.DryBrick=Ghar bananey key liye kitney inth chahiyey? / Wie viele Lehmziegel braucht man um ein Haus zu bauen? 
+
+indian_peasant.GatherBrick=Aaj suraj teez hai, inth jaldi sookh rahaien hain. / Die Sonne ist heute stark, da trocknen die Ziegel schnell. 
+
+indian_peasant.GetResourcesForBuild=Hmmm, ek tan ka inth  chahiye, dau tan paththar .. / Mal sehen, eine Tonne Lehmziegel, zwei Tonnen Steine...
+
+indian_peasant.SlaughterChicken=Bahut kha liya ghas-phoos. / Ich hatte genug vegetarisches Curry!
+indian_peasant.SlaughterChicken=Main murgiyon se napharat karata hoon ve zor se aur khae jaane ke alaava any kisee bhee any uddeshy kee seva nahin karate hain. / Ich hasse Hühner. Sie sind laut und zu nichts anderem zu gebrauchen als gegessen zu werden.
+
+indian_peasant.construction=Hindu vastu-kala desh videsh mein mashoor hai. / Hindu-Architektur ist in der gesamten Welt berühmt.
+indian_peasant.construction=Iskey baad, main lal kila banaoonga. / Wenn ich damit fertig bin, will ich eine rote Festung bauen. 
+
+indian_peasantwife.DeliverGoodsHousehold=Uffh, itna sara khana akeley kaisey leh jaoongi. / Wie soll ich die ganzen Speisen alleine nach hause tragen?
+indian_peasantwife.GetGoodsHousehold=Inkey liye chahey jitna bhi khana lao, kam padta hai. / Egal wie viel du dieser Familie bringst, es ist niemals genug!
+indian_peasantwife.GetHouseTHResources=Sab kuch toh thakur ko dey dena padta hai. / Alles endet stets im Haus des Landherren. 
+indian_peasantwife.makeRasgulla=Bacchon koh rasgulla bahut pasand hai. / Die Kinder lieben Rasgulla.
+
+indian_sculptor.Scult=Murtikala ched aur gaanth ki kala hai. / Die Bildhauerei ist die Kunst des Schlagens von Löchern.
+indian_smith.MakeTools=Sabhi merey banaye huye upkaran istamal kartey hain, phir bhi mujhey neecha samachtey hain. / Jeder benutzt mein Werkzeug, aber bis jetzt schaut jeder auf mich herab.
+
+male.BecomeAdult=Main badey hokar yodhdha ban-na chahta tha. / Als ich jünger war, wollte ich mal ein grosser Krieger werden...
+
+male.gorest=Ab jaakey aaram karta hoon. / Ich werde jetzt gehen und mich ausruhen.
+male.gorest=Main thak gaya hoon. / Ich bin müde.
+male.gorest=Subah sey kaam kar raha hoon. / Ich arbeite schon seid dem Morgen.
+
+merchant_adivasi.keepstall=Sab kuch mere parivar dwara kheti ki gayi hai. / Alles wird von meiner Familie angebaut, tief im Dschungel.
+merchant_adivasi.greeting=Main van se a raha hoon / Ich bin gerade vom Wald hergekommen.
+
+merchant_oriental.keepstall=Dekho yeh phaarsa ka gaurav! / Seht die Herrlichkeit Persiens!
+merchant_oriental.greeting=Salam alaikum, bhai! / Friede sei mit dir, Bruder!
+
+merchant_villagewoman.keepstall=Ghara ka bana khana, bhukhe yaatriyon ke lie! / Hausgemachtes Essen für hungrige Reisende!
+merchant_villagewoman.greeting=Ek akeelii mahila ke lie safar karna mushkil hai / Reisen ist anstrengend für eine einsame Frau.
+
+villager.BecomeAdult=Khel kud bahut ho gaya, ab kaam par chalo. / Genug gespielt, jetzt wird gearbeitet.
+
+villager.GoPlay=Mujjhey mitti sey khelna accha lagta hai. / Ich liebe es mit Erde zu spielen.
+
+villager.childobserveagriculture=Phasalon ko ropan karana har din bahut ubaoo lagata hai. Mujhe saahas ka jeevan chaahie! / Den ganzen Tag Gemüse pflanzen ist langweilig. Ich will ein Leben voll Abenteuer!
+villager.childobserveconstruction=Nirmaan mere lie bahut adhik kaam kee tarah dikhata hai. / Bauen ist für mich zu viel Arbeit.
+villager.childobservesmithing=Kitne mazbut hathiyaar! / So starke Arme!
+villager.childobserveproducefood=Meri Ma sabase achchhe rasagulle banaati hai. / Meine Mutter macht das beste Rasgulla.
+
+villager.childeatsugarcane=Ma kahati hain ki yah daanton ko nukasaan pahunchaata hai, lekin yah bahut achchha hai! / Mama sagt es macht die Zähne kaputt aber es ist so gut!
+
+villager.HarvestRice=Is baar barish acchi honey sey phasal bhi acchi hui hai. / Dank des vielen Regens ist die Ernte so gut dieses Jahr.
+
+villager.HarvestTurmeric=Haldi ki kheti kartey kartey merey haath peeley ho gayein hain. / Diese Gelbwurzernte färbt meine Hände gelb.
+
+villager.PlantRice=Is saal barish achchi hui toh phasal accha hoga. / Wenn es viel regnet, wird die Ernte dieses Jahr gut sein.
+
+villager.PlantTurmeric=Haldi toh sabhi ko chahiyein. / Ehrlich gesagt, jeder braucht Gelbwurz.
+
+villager.calltoarms=Jeet hamari hoogi. / Der Sieg wird unser sein.
+villager.calltoarms=Dushmano ki haar. / Besiegt die Feinde!
+villager.calltoarms=Sab apney apney hathiyar utha lo! / Jeder zu seinen Waffen!
+
+villager.gopray=Hey Bhagwan, is baar phasal achhi ho. / Lieber Gott, möge diese Ernte reich ausfallen.
+villager.gopray=Bhagwan, bas aap hi ka sahara hai. / Gott, du bist unsere einzige Hoffnung.
+villager.gopray.chosen=Mandir jaaney ka samay ho gaya. / Zeit, mal wieder den Tempel zu besuchen.
+
+villager.greeting=Aaj bahut garmi hai. / Es ist heute sehr heiss.
+villager.greeting=Ghar par sa theek hain? / Geht es zuhause allen gut?
+villager.greeting=Kya haal hai? / Wie stehen die Dinge?
+villager.greeting=Kya khabar hai? / Was gibt's Neues?
+villager.greeting=Kya tum se kale pani se pare ho? / Kommst du von jenseits des Meeres?
+villager.greeting=Namaste, $name-ji! / Sei gegrüsst, $name-ji!
+villager.greeting=Yeh barish kyun nahin ho rahi? / Warum regnet es nicht?
+
+villager.inspectconstruction=Mujhe lagata hai ki hamaare raajamistree aise achchhe kaam karate hain. / Ich genieße es zu sehen wie unsere Arbeiter so tolle Gebäude erschaffen.

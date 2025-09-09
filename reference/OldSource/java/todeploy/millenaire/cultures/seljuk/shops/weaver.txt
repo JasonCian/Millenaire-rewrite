@@ -1,0 +1,3 @@
+sells=wool_white,clothes_seljuk_wool,clothes_seljuk_cotton,seljukturban,wallcarpetsmall,wallcarpetmedium,wallcarpetlarge,wool_cyan,wool_blue,wool_red,wool_green,carpet_green,carpet_lightblue,carpet_blue,carpet_cyan,carpet_red,carpet_white
+buys=string,leather,wool_white,cotton
+buysoptional=dye_lightblue,dye_red,dye_green,dye_yellow

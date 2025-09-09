@@ -1,0 +1,255 @@
+//Note to translators: the version in devanagari (Hindi script) is for reference purpose. It will not show in game.                                             
+
+
+
+
+
+newchat;key:sun,tag:notraining,weigth:10
+v1;0;Kitni Garmi Hai! / Det er så varmt!
+v2;30;Main is garmi se pagal ho gaya hoon. / Heten gjør meg gal.
+v1;70;Baarish kab hogi? / Når vil det regne?
+
+//कीतनी गर्मी है!
+//मैं इस गर्मी से पागल हो गया हूं |
+//बारीश कब होगी ?
+
+
+newchat;key:monsoon,tag:notraining,weigth:10
+v1;0;Barish nahi ho rahi hai. / Det regner ikke.
+v2;30;Barish hogi. Chinta mat karo. / Slapp av. Det vil regne.
+v1;60;Tum har sal yahi bolte ho... / Du sier det samme hvert år...
+
+//बारिश नही हो रही है |
+//बारिश होगी| चिन्ता मत करो|
+//तुम हर साल यही कहते हो ...
+
+newchat;key:rain,tag:raining,weigth:10
+v1;0;Arre! Baarish ho rahi hai! / Ja! Det regner!
+v2;40;Itni si baarish se kya hoga... / Så lite regn vil ikke utrette stort...
+v1;80;Sukhe se toh behtar hai. / Det er bedre enn ikke noe regn i det hele tatt.
+v1;120;Lekin fasal kaise hogi? / Men hvordan skal avlingene våre vokse?
+
+
+//अरे! बारिश हो रही है!
+//इतनी सी बारिश से क्या होगा ...        
+//सूखे से तो बेह्तर है। 
+//लेकिन फसल कैसे होगी?        
+
+newchat;key:sandstone,weigth:10
+v1;0;Hamara gaon pragati kar raha hai, hai na? / Landsbyen vår gjør framsteg, gjør den ikke?
+v2;40;Par abhi bahut kaam baki hai. / Men det er fremdeles mye som må gjøres.
+v1;80;Sach me? / Virkelig?
+v2;100;Bilkul! / Definitivt!
+
+//हमारा गांव प्रगति कर रहा है, है ना?
+//हाँ, लेकिन अभी बहुत काम बाकी है |
+//सच में?
+//बिल्कुल!
+
+newchat;key:lakshmi,v1:adult,v2:adult,weigth:10
+v1;0;Jao, puja ke liye ek thali le aao. / Av sted, hent en plate med ofringer til pudjsa.
+v2;40;Turant le aata hoon. / Jeg skal hente det med en gang.
+v1;80;Bhagwaan ko prabhavit karna jaroori hai. / Vi må blidgjøre gudene.
+v1;130;Tab hi baarish samay par aayegi. / Bare da vil regnet komme tidsnok.
+
+
+//जाओ, पूजा के लिए एके थाली ले आओ|
+//तुरंत ले आता हूं |        
+//भगवान को प्रभावित करना आवश्यक है |
+//तब ही बारिश समय पर आएगी |        
+
+
+
+newchat;key:beef,v2:adult,weigth:10
+v1;0;Kabhi socha hai, guy ka maas ka swad kya ho sakta hai? / Har du noensinne lurt på hvordan kjøtt fra ku smaker?
+v2;60;Guy ka maas? Lekin ye toh dharm ke khilaaf hai! / Kjøtt fra ku? Men å spise det går mot vår dharma!
+v1;120;Lekin shayad woh swadisht hai...? / Men hva om det smaker godt..?
+v2;180;Kya tum normandi ke jungli ho? / Er du en normannisk barbar?
+
+//कभी सोचा है, गाय का मांस का क्या स्वाद हो सकता है?
+//गाय का मांस? लेकिन यह धर्म के खिलाफ है!
+//लेकिन शायद वह स्वादिष्ट है...?        
+//क्या तुम नोरमंडी के जंगली हो
+
+newchat;key:rice,v1:child,v2:adult,weigth:10
+v1;0;Mai rasgulla chahta hoon. Mujhe bohot bhukh lagi hai! / Jeg har lyst på rasgulla. Jeg er veldig sulten!
+v2;60;Nahi. Tumhe sirf chawal khaana chahiye. / Nei. Du burde bare spise ris.
+v1;120;Lekin maine subhah hi ye khaya hai! / Men jeg spiste det i dag morges!
+v1;180;Aur kal bhi, parson bhi... / Og i går, og dagen før der...
+v2;220;Toh tum yahi aaj raat ko, kal, aur jeevan bhar khao! / Og du vil spise det i kveld, i morgen, og i resten av livet ditt!
+
+//मैं रसगुल्ला चाहता हु। मुझे भूख  लग रहा है ।
+//नहीं | तुम्हे सिर्फ चावल खाना चाहिए |
+//लेकिन मैंने  सुबह ही  यह खाया है!
+//और कल भी, परसों भि…        
+//तो तुम यही आज रात को, कल, और जीवन भर खाना!
+
+newchat;key:indian_lumberman,v1:vtype:indian_lumberman,weigth:10
+v1;0;Aaj maine bahut jyada lakdi kaat li! / Jeg hogget ned en hel masse trær i dag.
+v2;60;Tum hamare jungle ko reghistaan bana doge! / Du kommer til å gjøre om skogen vår til en ørken!
+v1;120;Pareshan mat ho, yahaan bina kuch kiye hi pedh badhte hai. / Slapp av, trærne som er her vokser nesten av seg selv?
+
+//अज मैने बहुत ज़्यादा  लकड़ी काटीं  !
+//तुम हमारे गाँव को रेगिस्तान में बदल दोगे !
+//परेशान  मत हो, यहाँ बिना कुछ किये ही पेड़ बढते हैं। 
+
+
+
+newchat;key:indian_raja,v1:vtype:indian_raja,v2:adult,notrel:spouse,weigth:10
+v1;0;Mera mahal bahut chota ho gaya hai. / Palasset mitt har blitt veldig lite.
+v2;60;Lekin maharaj, ye is kshetra me sabse bada hai! / Men maharaja, det er det største i landet!
+v1;120;Lekin ye mujhe chota lagne laga hai. / Men for meg så føles det lite.
+
+
+//मेरा महल बहुत छोटा हो गया है |        
+//लेकिन महाराज, यह इस क्षेत्र में सबसे बड़ा है!
+//लेकिन मुझे यह छोटा लगने लगा है |
+
+newchat;key:indian_rajputgeneral,v1:vtype:indian_rajputgeneral,weigth:10
+v1;0;Ek shaktishali qila hamare dushmanon ke khilaaf sabse accha bachaav hai. / En sterk festning er det beste forsvaret mot våre fiender.
+v2;60;Kaun se dushman, senapati? / Hvilke fiender, general?
+v1;100;Ye Norman aur anya jungli log. / Normannerne og andre barbarer.
+
+//एक शक्तिशाली किले हमारे दुश्मनों के खिलाफ सबसे अच्छा बचाव है |
+//कौन से दुश्मन, सेनापति?        
+//ये नॉर्मन और अन्य जंगली लोग |        
+
+newchat;key:indian_rani,v1:vtype:indian_rani,notrel:spouse,weigth:10
+v1;0;Mere pati amir aur prasidh hai. / Mannen min er rik og respektabel.
+v2;50;Ji han! Yeh sach hai. / Å ja! Det er sant.
+v1;110;Par ve mere liye kabhi kuch laatey nahi hai. / Og allikevel så gir han meg aldri noe.
+v2;160;Kyon nahi? Kal hi unhone tumhare liye teen sariyaan laayi thi. / Hvordan det? Bare i går så skaffet han deg tre sarier.
+
+//मेरा पति अमीर और प्रसिद्ध है |        
+//जी हाँ! ये सच है |
+//पर वे मेरे लिये कभी कुछ लाते नही है |
+//क्यों नहीं? कल ही उन्होंने तुम्हारे लिये तीन साड़ियाँ खरीदा थी|
+newchat;key:indian_richwoman,v1:vtype:indian_richwoman,v2:female,v2:adult,v2:notvtype:indian_richwoman-indian-rani,weigth:10
+v1;0;Aaj mere pati ne mere liye 50 tola sona kharida. / Min mann kjøte femti gulltola i dag.
+v2;60;50 tola sona! Mere paas sirf 10 tola sona hai... / Femti gulltola! Jeg har bare ti tola...
+v1;120;Aasha hai ki sitaare tumhare paksh mein honge. / La oss håpe at stjernene stiller opp i din favør.
+
+
+//आज मेरे पति ने मेरे लिये 50 तोला सोना खरीदा |        
+//50 तोला सोना! मेरे पास सिर्फ 10 तोला सोना है ...        
+//आशा है कि सितारों तुम्हारे पक्ष में होंगे|                                
+
+newchat;key:indian_sculptor,v1:vtype:indian_sculptor,weigth:10
+v1;0;Mujhe pratimaon banane ka achha mauka mila hai. / Jeg fikk akkurat en god anledning til å lage statuer.
+v2;50;Tum bahut achhe murtiyan banate ho. / Det er fordi du lager veldig flotte statuer.
+v1;100;Main pandhara saal se murtiyan bana raha hoon. / Jeg har laget statuer i 15 år.
+
+//मुझे प्रतिमाओं बनाने का अच्छा मौका मिला है|        
+//तुम बहुत अच्छे मूर्तियों बना ते हो|        
+//मैं 15 साल से मूर्ति बना रहा हूं |        
+
+newchat;key:indian_smith,v1:vtype:indian_smith,v2:adult,weigth:10
+v1;0;Hame aur phavadon ki zarurat hai. / Vi trenger flere hakker.
+v2;50;Main kaam mein vyasth hoon. / Jeg er opptatt akkurat nå.
+v1;100;Phavdiyon ki bhi zarurat hai. / Vi trenger spader, også.
+v2;150;Uff! Mujhe kitna kaam karna padta hai! / Uff! Jeg har så mye arbeid jeg må gjøre!
+
+//हमें और फावडों की जरूरत है |
+//मैं काम मैं व्यस्त हूँ|        
+//फावड़ियों की भी जरूरत है |        
+//उफ़फ़! मुझे कितना काम करना पडता है !        
+
+newchat;key:indian_soldier,v1:vtype:indian_soldier,v2:adult,v2:female,notrel:spouse,notrel:sibling,notrel:child,notrel:parent,weigth:10
+v1;0;<targetname>, shayad gaon ke nikat daaku hai! / <targetname>, jeg tror at det finnes banditter som ligger på lur nær landsbyen vår!
+v2;50;Chinta mat karo, main gaon ki raksha karonga. / Slapp av, jeg vil beskytte landsbyen.
+v1;100;Tum bahut shaktishaali ho! / Du er så sterk!
+v1;130;Aur sundar bhi. / Og kjekk, også.
+v1;150;Agar aap ke paas moonch na hoti... / Hvis det ikke hadde vært for barten din...
+v2;200;Meri moonch ke baare main kuch bhi na kaho! / Ikke et ord om barten min!
+
+
+//<targetname>, शायद गांव के निकट डाकू है!
+//चिंता मत करो, मैं गाँव की रक्षा करूंगा|        
+//तुम बहुत शक्तिशाली हो!        
+//और सुंदर भी |        
+//अगर आप के पास मूंछें न होती ...        
+//मेरी मूंछ के बारे में कुछ भी न कहो!
+
+newchat;key:indian_villagechief,v1:vtype:indian_villagechief,v2:vtype:indian_peasant-indian_peasantwife,weigth:10
+v1;0;Senapati, iss saal fasal achhi nahi hai./ Min herre, avlingene er ikke gode i år.
+v2;40;Tu aalsi hai! Jyada kaam kar! / Det er fordi du er lat! Gjør mer arbeid!
+v1;80;Lekin baarish hi nahi hui... / Men det har ikke regnet i hele tatt...
+v2;120;Meri galti nahi hai. Mujhe apna paisa chahiye. / Det er ikke min feil. Jeg vil ha leiepengene mine.
+v1;170;Lekin mere paas paise nahi hai. / Men jeg har ikke penger.
+v2;210;Fir mujhe meri zameen do. / Så gi meg tilbake landområdet mitt.
+v1;260;Mere paas kuch bhi nahi rehe jayega! / Men da vil jeg ikke ha noe igjen!
+
+//सेनापति, इस साल फसल अच्छी नहीं है |
+//तू आलसी है! ज्यादा काम कर!        
+//लेकिन बारिश ही नही हुई ...        
+//मेरी गलती नहीं है| मुझे अपना पैसा चाहिए |        
+//लेकिन मेरे पास पैसे नही है |        
+//फिर मुझे मेरी जमीन दो|        
+//मेरी पास कुछ भी नही रह जाएगा!        
+
+newchat;key:newhouse,villager:indian_merchant,v1:notvtype:indian_merchant,v2:notvtype:indian_merchant,weigth:10
+v1;0;Vaha Vyapaari apne ghar ke bagal mein ek naya ghar ban rahe hai. / Den kjøpmannen bygger et nytt hus ved siden av hans eget.
+v2;60;Ek aur ghar? Par kyun? / Enda et hus? Men hvorfor trenger han et nytt et?
+v1;90;Vaha naya ghar unke betey ke liye hai. / Det nye huset er til sønnen hans.
+v1;140;Jab unke betey ki shaadi hogi, tab dono paas me honge. / Når sønnen hans gifter seg, vil både far og sønn være ved siden av hverandre.
+
+
+//वह व्यापारी अपने घर के बगल में एक नया घर बना रहे है|
+//एक और घर? पर क्यों?        
+//वह नया घर अपने बेटे के लिए है |        
+//जब उनके बेटे की शादी होगी, तब दोनों पास में होंगे |
+
+
+
+newchat;key:gold,v1:vtype:indian_peasantwife,rel:spouse,villager:indian_villagechief,weigth:10
+v1;0;Gaon ke mukhiye ne apni patni ke liye sone ke kangan laaye. / Landsbylederen gav kona hans gullarmbånd.
+v1;60;Par aap mere liye kuch nahi laatey... / Men du har aldri gitt meg noen smykker...
+v2;110;Tumhe ek amir aadmi se shaadi karni chahiye thi. / Du skulle ha giftet deg med en rik mann.
+v1;160;Lekin mujhe aur dahej dena padta. / Men da måtte jeg ha vært nødt til å betale mer medgift.
+v2;200;Fir tumhe bhagyawaan lagna chahiye ki main tumhara pati hoon. / Da burde du føle deg velsignet for å ha fått en mann som meg.
+
+//गांव के मुखिये ने अपनी पत्नी के लिये सोने के कंगन लाये|        
+//वाह! पर आप मेरे लिये कुछ नही लाते...        
+//तुम्हे एक अमीर आदमी से शादी करनी चाहए थी |        
+//लेकिन मुझे और दहेज देना पडता|                
+//फिर तुम्हे भाग्यावान लगना चाहिए की मैं तुम्हारा पति हूं|
+
+newchat;key:alcohol,v1:vtype:indian_peasant-indian_lumberman,v2:vtype:indian_peasant-indian_lumberman,weigth:10
+v1;0;Maine bahit dinon se sharaab nahi piya hai. / Jeg har ikke hatt alkohol på kjempelenge.
+v2;50;Gaon ke bahar ek aadmi sharaab aur moongfali bechta hai. / Det finnes en mann som sitter under banyantreet utenfor landsbyen og selger alkohol og peanøtter.
+v1;110;Sach? Maine socha tha ki gaon mein sharaab par pratibandh laga diya gaya hai. / Virkelig? Jeg trodde det var forbudt å selge alkohol i landsbyen!
+v2;160;Yeh kisi aur ko mat batana. / Ikke fortell det til noen.
+v1;200;Chalo, hum aaj shaam ko vahan jaatey hai. / Okay, la oss gå dit i kveldingen.
+
+
+
+
+//मैने कई दिनों से शराब नही पिया है|
+//गांव के बहार एक आदमी शराब और मूंगफली बेचता है |
+//सच? मैंने सोचा था की गांव में शराब पर प्रतिबंध लगा दिया है|        
+//यह किसी और को मत बताना|         
+//चलो हम आज शाम को वहाँ
+//चलो, हम आज शाम को वहाँ
+
+
+newchat;key:childoneliner1,v1:child,v2:child,weigth:10
+v1;0;Kya aap ne mere liye khiloune laaye? / Kjøpte du noen leker til meg?
+
+
+//क्या आप ने मेरे लिये खिलौने लेय?
+
+
+newchat;key:childoneliner2,v1:child,v2:child,weigth:10
+v1;0;Mere paas bahut saare dost hai. / Jeg har mange venner.
+
+
+//मेरे पास बहुत सारे दोस्त हैं |
+
+
+
+
+newchat;key:childoneliner3,v1:child,v2:child,weigth:10
+v1;0;Meri maa shaam ko mujhe khelne nahi deti hai. / Moren min lar meg ikke leke etter at det har blitt mørkt.
+
+
+//मेरी माँ शाम को खेलने नही देती है |

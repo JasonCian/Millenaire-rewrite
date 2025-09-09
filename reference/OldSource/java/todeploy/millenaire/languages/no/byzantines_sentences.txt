@@ -1,0 +1,64 @@
+villager.greeting=Xaire, $name! / Hallo, $name!
+villager.greeting=Omorfi mera, etsi den einai? / En skjønn dag, er det ikke?
+villager.greeting=Tha brexei. Syntoma. / Det kommer til å regne. Snart.
+villager.greeting=Kamia polh ston kosmo den sygrinete me thn Kwnstantinoupolh. / Ingen by i verden kan måle seg med Konstantinopel.
+villager.greeting=Den eimaste Ellines , eimaste Romaioi. / Vi er ikke grekere, vi er romere.
+villager.greeting=Eimaste oi Byzantinoi oi teleutaioi alhthinoi Romaioi. Ypoklitheite sthn doxa tou politismou mass. / Vi bysantinere er de siste sanne romere. Sol deg i vår sivilisasjons ære.
+villager.GoPlay=Mallon tha paixw exw. / Jeg tror jeg skal gå ut for å leke.
+villager.gorest=Eimai kourasmenos. Tha pao spiti na koimitho. / Jeg er sliten, på tide å dra hjem for å legge meg.
+villager.makeBread=To psomi myrizei idi wraia. / Brødet lukter godt allerede...
+villager.gorest=Mallon oti tha pao gia ypno. / Jeg tror jeg skal gå å legge meg for å sove.
+villager.BecomeAdult=Telika egina enas romaios poliths! / Endelig har jeg blitt en romersk statsborger!
+villager.calltoarms=H Romaikh Autokratoria dexete epithesh! Sta opla! / Romerriket er under angrep! Til våpen!
+villager.GoPlay=Nomizo oti tha pao na paixoun exo. / Jeg tror jeg skal gå ut for å leke.
+
+architect_byzantine.construction=Xtizw toso peritexna xtismata. Eimai enas alhthinos kallitexnhs. / Jeg bygger slike omfattende strukturer. Jeg er virkelig en artist.
+architect_byzantine.construction=O arxitektonas mas den sigrinetai me kanena allo. / Arkitekturen vår kan ikke sammenlignes med noen annen.
+artisan_byzantine.greeting=H zwh mou einai poly kalyterh apo kapion allwn anthrwpwn edw. / Livet mitt er mye bedre enn noen andres som bor her.
+artisan_byzantine.makePainting=H Romaikh texnh einai h pio exeligmenh ston kosmo. / Romerkunsten er den mest avanserte i verden.
+
+merchant_art.greeting=Kamia polh ston kosmo den sygrinetai me thn Kwnstantinoupolh. / Ingen by i verden kan måle seg med Konstantinopel.
+merchant_art.greeting=	Emeis oi Byzantinoi eimaste oi teleutaioi alh8inoi Romaioi. / Vi bysantinere er de siste sanne romere.
+
+smith_byzantine.MakeIndianTools=Ta Byzantina ergaleia einai ta kalytera ston kosmo. / Bysantinske verktøy er de beste i verden.
+armysmith_byzantine.MakeIndianTools=Ta Byzantina ergaleia einai ta kalytera ston kosmo. / Bysantinske verktøy er de beste i verden.
+armysmith_byzantine.MakeByzantineMace=Mhn prospatheis na katapolemhseis enan oplismeno andra. / Ikke forsøk å angripe noen som ble utrustet av meg.
+
+wife_byzantine.greeting=To kathikon mas einai na elegxoume tous andres. / Vår oppgave er å kontrollere mennene våre.
+wife_byzantine.greeting=An eisai gynaika dn mporeis na kaneis kai polla edw... / Når man er kvinne så er det ikke mye en har lov til å gjøre her...
+wife_byzantine.getGoodsHousehold=Nomizw einai wra na frontisw gia thn kathariothta tou spitiou. / På tide å ta vare på husholdningen.
+wife_byzantine.DeliverGoodsHousehold=Pragmata opws auto einai ta mona pou mporw na kanw. / Slike ting er de eneste tingene jeg kan gjøre her.
+wife_byzantine.GetHouseTHResources=Epitelous o syzygos mou metefere ta agatha opws tou eipa. / Mannen min har endelig levert ressursene sine slik jeg sa at han skulle gjøre.
+wife_byzantine.cooking=H mageirikh einai poly diaskedastikh. / Baking er skikkelig gøy.
+
+miner_byzantine.Mining=Gia na kaneis aythn thn douleia h dynamh kai h antoxh einai aparaithta. Kaneis omws den to katalabainei... / I denne jobben trengs styrke og utholdenhet. Men ingen legger merke til det...
+miner_byzantine.Mining=Eimai perifanos pou eimai Romaios katoikos kai pou douleyw gia thn aytokratoria , an kai einai dyskolh douleia. / Jeg er stolt av å være en romersk statsborger som jobber for det vidunderlige riket, selv innen dette vanskelige arbeidsfeltet.
+
+patriarch_byzantine.makebooks=Ta biblia mou einai merika apo ta kalytera xeirografa ekei exo. / Bøkene mine er noen av de beste manuskriptene som finnes der ute.
+pastor_byzantine.makebooks=Ta biblia mou einai merika apo ta kalytera xeirografa ekei exo. / Bøkene mine er noen av de beste manuskriptene som finnes der ute.
+
+lumberman_byzantine.BringBackResourcesHome=H gynaika mou prepei na einai perhfanh me olo to xilo pou efera. / Min kone må være stolt av alt treet jeg bringer med meg.
+lumberman_byzantine.ChopTrees=Kathe ktirio edw xreiazete xilo, h apokthsh tou einai douleia mou! / Alle bygninger her omkring trenger tre, og å skaffe det er min jobb!
+lumberman_byzantine.GatherGoods=Polu wraio dentryllio. / Fint ungtre der borte.
+lumberman_byzantine.PlantSaplings=Syntoma tha ginei ena megalo, panemorfo dentro! Kai tha to kopsw. / Snart vil dette være et stort, majestetisk tre! Og da vil jeg hogge det ned.
+
+keeperBirch_byzantine.greeting=Pws skeftike kapios oti mporei na brei ergasia edw... / Hvordan kunne noen tro at noen burde bli stasjonert her...
+keeperBirch_byzantine.greeting=Einai toso bareta edw, den symvainei sxedon tipota... / Det er så kjedelig her, det er aldri noe som skjer...
+keeperBirch_byzantine.greeting=Kalhspera taxideuth, anarwtiemai pws irthes ews edw. / Vær hilset, reisende. Jeg lurer på hvordan du endte opp på dette avsidesliggende stedet.
+
+
+keeperOak_byzantine.greeting=Pws skeftike kapios oti mporei na brei ergasia edw... / Hvordan kunne noen tro at noen burde bli stasjonert her...
+keeperOak_byzantine.greeting=Einai toso bareta edw, den symvainei sxedon tipota... / Det er så kjedelig her, det er aldri noe som skjer...
+keeperOak_byzantine.greeting=Kalhspera taxideuth, anarwtiemai pws irthes ews edw. / Vær hilset, reisende. Jeg lurer på hvordan du endte opp på dette avsidesliggende stedet.
+keeperOak_byzantine.greeting=Aftoi oi anthrwpoi, autoapokalountai "Normans", moy thimyzoun thn xakousth autokratotria mas. / Folket her som kaller seg normannere, de minner meg om vårt praktfulle rike.
+
+keeperPine_byzantine.greeting=Pws skeftike kapios oti mporei na brei ergasia edw... / Hvordan kunne noen tro at noen burde bli stasjonert her...
+keeperPine_byzantine.greeting=Einai toso bareta edw, den symvainei sxedon tipota... / Det er så kjedelig her, det er aldri noe som skjer...
+keeperPine_byzantine.greeting=Kalhspera taxideuth, anarwtiemai pws irthes ews edw. / Vær hilset, reisende. Jeg lurer på hvordan du endte opp på dette avsidesliggende stedet.
+keeperPine_byzantine.greeting=Afto to kryo einai tsouxtero. Den anarwtiemai pou den yparxei kaneis edw... / Denne kulden er forferdelig. Ikke rart at det ikke er noen her.
+
+keeperTropical_byzantine.greeting=Pws skeftike kapios oti mporei na brei ergasia edw... / Hvordan kunne noen tro at noen burde bli stasjonert her...
+keeperTropical_byzantine.greeting=Einai toso bareta edw, den symvainei sxedon tipota... / Det er så kjedelig her, det er aldri noe som skjer...
+keeperTropical_byzantine.greeting=Kalhspera taxideuth, anarwtiemai pws irthes ews edw. / Vær hilset, reisende. Jeg lurer på hvordan du endte opp på dette avsidesliggende stedet.
+keeperTropical_byzantine.greeting=Einai toso zesta edo. Den borw na katalavo giati aftoi 'Hindi' zoun se afth th gh. / Det er så varmt her. Jeg kan ikke forstå hvordan disse hinduene kan bo i disse landområdene.
+keeperTropical_byzantine.greeting=Exeis dei pote aftous tous periergous tous 'Maya' ? Ta ktiria tous moiazoun san na einai etoima na katareusoun. / Har du sett det underlige mayafolket noen gang? Bygningene deres ser ut som om de kan falle sammen hvert øyeblikk.

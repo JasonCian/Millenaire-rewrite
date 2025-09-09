@@ -1,0 +1,7 @@
+priority=25
+duration=10000
+reoccurdelay=120000
+
+heldItems=yogurt
+
+output=yogurt,3

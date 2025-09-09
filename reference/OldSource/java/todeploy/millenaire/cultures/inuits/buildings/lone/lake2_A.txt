@@ -1,0 +1,13 @@
+//Parameters for the building as a whole
+building.length=10
+building.width=10
+building.buildingorientation=3
+building.max=0
+building.icon=ice
+
+//Parameters for initial construction
+initial.startlevel=-3
+initial.nativename=Sikuliaq
+initial.translatedname=name_en,lake
+initial.priority=13
+initial.tag=lake

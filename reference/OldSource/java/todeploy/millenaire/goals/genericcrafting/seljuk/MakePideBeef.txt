@@ -1,0 +1,16 @@
+buildingTag=kitchen
+priority=50
+
+duration=2500
+
+heldItems=beefcooked,bread,pide
+
+input=beefcooked,1
+input=bread,1
+output=pide,2
+
+buildinglimit=pide,16
+
+maxsimultaneousinbuilding=1
+
+tag=tag_producefood

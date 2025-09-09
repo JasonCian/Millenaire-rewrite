@@ -1,0 +1,34 @@
+﻿version:3.4
+<darkblue>Ugled in poglavar vasi
+
+Vsaka vas v Millénaire ti da možnost, da začneš od nevtralnega in si pridobivaš ugled z svojimi dejanji. To je zelo pomembno: veliko nagrad je možno dobiti le z dobrim ugledom in če je tvoj ugled slab, lahko vaščani zavrnjeo trgovanje s teboj. Lahko preveriš svoj ugled s tem, ko se pogovoriš  (z <darkblue>desnim-klikom<black>) z poglavarjem.
+
+Glvni način, da izboljšaš ugled je trgovanje z vaščani. Nakupi ti pravtako zvišujejo ugled v sorazmerju z ceno. Pravtako lahko zvišate ugled z delanjem nalog za njih. Nasprotno je z napadanjem na vas, z nenarejenimi nalogami. To ti kvari ugled.
+
+Imaš prav tako <darkblue>ugled z vsako kulturo<black>. Na ta ugled vpliva vse kar si delal z vasmi ene kulture in učinkuje pri trgovanju z vsem vasem enake kulture. Primer: imaš zelo dober ugled v Normanski vasi, torej vas bodo tudi v drugi Normanski vasi pravtako marali (malo manj). Lahko preverite ugled pri vsaki kulturi na informacijskem zaslonu ("M" tipka po začetnih nastavitvah).
+
+<darkblue>Dejanja potrebujejo določen ugled
+
+<darkblue>Kupite vaški pergament
+
+Z dovolj dobrim ugledom lahko kupite vaški pergament pri vaškem poglavarju. Ta zvitek vsebuje vse informacije, ki so ti dane z plošč v središču vasi.
+
+<darkblue>Kupovanje doma
+
+Ko imate dovolj dober ugled lahko kupite hišo (ali ozemlje, da gradiš na njem) s tem ko govoriš z poglavarjem. Vaš dom bodo zgradili vaščani po trenutni zgradbi, ki je bila v teku ali bila načrtovana. Za razliko od ostalih območij okrog vasi, ta stavba pripada vam in jo lahko urejate po lastni želji.
+
+<darkblue>Učenje sajenja pridelkov 
+
+Lahko se naučite kako posaditi pridelke značilne samo za Millénaire, ki jih uporabljajo določene kulture. Kontaktiraj poglavarja vasi ko imaš dovolj ugleda.
+
+<darkblue>Kupovanje dodatnih predmetov 
+
+Za nekaj vrednih predmetov je potrebno imeti dober ugled v vasi. Če nimate potrebnega ugleda za nakup predmeta, bo navedeno na trgovskem zaslonu.
+
+<darkblue>Dodatne naloge 
+
+Nekaj nalog, vključno z stvarno nalogo, je lahko začetih le z dobrim ugledom. (glej <darkblue>“naloge” <black>).
+
+<darkblue>Postajanje vodja v kulturi
+
+Ko ste dosegli največji  ugled (<darkblue>"rojen vodja" <black>), lahko zgradite svojo vas kjerkoli (glej <darkblue> "ustvarjanje vasi"<black>).

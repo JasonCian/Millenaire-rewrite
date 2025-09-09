@@ -1,0 +1,18 @@
+version:3.4
+<darkblue>Millénaire Help
+
+This help describes  the key features of Millénaire. For more information, check the wiki or ask questions on the forum minecraftforum.net.
+
+Use the icons on either side of this screen to access the different chapters help.
+
+<darkblue>Generality on villages and lone buildings
+
+Millénaire adds <darkblue>villages<black> from different cultures to  Minecraft. Those villages are randomly generated in different biomes. They are of different styles and offer different products, but they all have a chief, construct new buildings, trade with you and like you or not depending on your actions (see the "reputation" section).
+
+Each village is built around a central building (which can be a fort, a monastery, a palace ...). In this building you will find several panels informing you about the village. <darkblue>Right-click<black> on a panel to display more information.
+
+<darkblue>Lone buildings<black> however do not extend. They may be empty (with just objects to find in chests), occupied by peaceful villagers which can trade with you, or be occupied by hostile villagers who will attack you.
+
+Pressing the "V" key (by default) displays a list of nearby villages. Isolated buildings are not listed, you must remember their positions.
+
+By default, the minimum distance between two villages is two kilometres. Hamlets created around certain villages are an exception to this rule.

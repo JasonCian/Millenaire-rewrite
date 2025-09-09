@@ -1,0 +1,12 @@
+{
+	"forge_marker": 1,
+    "variants": {
+        "variant=mudbrick": { "model": "millenaire:mudbrick" },
+        "variant=cookedbrick": { "model": "millenaire:cookedbrick" },
+        "variant=mayangoldblock": { "model": "millenaire:mayangoldblock" },
+        "variant=byzantine_mosaic_red": { "model": "millenaire:byzantine_mosaic_red" },
+        "variant=byzantine_mosaic_blue": { "model": "millenaire:byzantine_mosaic_blue" },
+        "variant=lightbluebrick_block": { "model": "millenaire:lightbluebrick_block" },
+        "variant=lightbluechiseled_block": { "model": "millenaire:lightbluechiseled_block" }
+    }
+}

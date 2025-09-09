@@ -1,0 +1,6 @@
+{
+    "parent": "millenaire:block/mil_pane_noside",
+    "textures": {
+        "pane": "millenaire:blocks/wooden_bars_rosette_topleft"
+    }
+}

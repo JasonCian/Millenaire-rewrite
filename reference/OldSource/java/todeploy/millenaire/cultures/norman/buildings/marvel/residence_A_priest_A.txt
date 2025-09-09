@@ -1,0 +1,18 @@
+//Parameters for the building as a whole
+building.length=26
+building.width=30
+building.buildingorientation=3
+building.issubbuilding=true
+building.parentbuildingplan=residence_A0
+building.max=0
+building.icon=book
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Chambre du prêtre
+initial.priority=100
+initial.male=marvelpriest
+initial.tag=autospawnvillagers
+initial.requiredvillagetag=level_7
+

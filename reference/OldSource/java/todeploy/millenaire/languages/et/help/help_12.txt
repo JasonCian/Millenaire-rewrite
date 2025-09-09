@@ -1,0 +1,14 @@
+﻿version:4.3.0
+<darkblue>Bütsantlased
+
+Uhked ja väärt järeltulijad roomlastele,bütsantlased toodavad veini ja peene religiooseid ikoone. Nad räägivad kreeka keeles,aga nende dialoogid on tõlkitud kui mängija "õppib" nende keelt rääkima nendega.
+
+<darkblue>Erilised objektid ja plokkid
+
+-Nad kasvatavad viinamarju ja toodavad veini nendest. Mängija saab küsida juhilt,et too õpetaks talle kasvatada neid taimi.
+-Nad kasutavad savi,et toota elegantseid bütsantsi plaate millega nad kattavad ära oma ehitised
+-Nende meistrilikkus  seri-kultuuriga (siidiusside kasvatamine) võimaldab neil toota siidi millega nad värvivad nende bütsantsi ikoone
+
+<darkblue>Teatud retseptid
+
+-kaks rida kolme viinamarja teeb veini

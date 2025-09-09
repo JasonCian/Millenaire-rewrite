@@ -1,0 +1,17 @@
+//Parameters for the building as a whole
+building.length=28
+building.width=32
+building.buildingorientation=3
+building.issubbuilding=true
+building.parentbuildingplan=largeinn_A0
+building.max=0
+building.icon=cider
+
+
+//Parameters for initial construction
+initial.startlevel=-3
+initial.nativename=Taverne
+initial.tag=drinking
+initial.tag=cider
+initial.shop=tavern
+

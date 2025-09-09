@@ -1,0 +1,13 @@
+building.length=5
+building.width=10
+building.max=2
+building.areatoclear=3
+
+building.icon=redflower
+
+initial.startlevel=-1
+initial.nativename=Kücük Çiçek bahçesi
+initial.priority=100
+initial.tag=garden
+initial.tag=leisure
+initial.tag=flowerfield

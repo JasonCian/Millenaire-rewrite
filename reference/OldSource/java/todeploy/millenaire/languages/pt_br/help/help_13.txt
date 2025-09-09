@@ -1,0 +1,38 @@
+version:3.4
+<darkblue>Perguntas Frequentes
+
+<darkblue>Os aldeões comunicam num idioma diferente do meu, isto é normal?
+
+Os aldeões do Millénaire comunicam no seu idioma nativo (Hindu para os Hindus, Francês para os Normandos, etc.). Caso tenha seleccionado um idioma diferente para o Minecraft, será necessário "aprender" o idioma dos aldeões interagindo com eles (via comércio ou missões, por exemplo). À medida que o for fazendo, o Millénaire irá disponibilizando traduções automáticas, começando pelos nomes das construções, depois pelos tipos de aldeões, e finalmente traduzindo o diálogo dos aldeões propriamente dito.
+
+<darkblue>A minha aldeia Normanda necessita de armações de madeira e eu não consigo produzi-las, o que posso fazer?
+
+As armações simples e cruzadas são fabricadas por um carpinteiro a partir da madeira. Aguarde até que a sua aldeia construa uma "carpintaria" e um casal se instale na mesma. Necessita de ser paciente!
+<darkblue>A minha aldeia Japonesa necessita de colmo e eu não consigo produzi-lo, o que posso fazer?
+
+Os Japoneses produzem colmo a partir do trigo. Caso as reservas de trigo dos aldeões estejam em baixo, poderá vender-lhes algum para acelerar a produção de colmo.
+
+<darkblue>Construí a minha casa próximo da aldeia e os aldeões destruíram-na enquanto construíam outra coisa, isto é normal?
+
+Sim. O território de uma aldeia pertence aos seus aldeões; aceda ao mapa da aldeia para verificar as fronteiras da mesma. Se deseja ter uma casa dentro da aldeia propriamente dita sem correr o risco de a ver destruída, adquira um terreno ou uma residência para o jogador falando com o chefe da aldeia.
+
+<darkblue>Alguns dos aldeões morreram, eles ressuscitarão?
+
+Sim, os aldeões ressuscitam todas as noites, pouco tempo depois do pôr-do-sol. Basta aguardar um pouco antes de ir dormir.
+
+<darkblue>Os meus aldeões não estão a ter filhos, ou os seus filhos não estão a crescer, o que é que se passa?
+
+Sempre que um casal passa a noite em casa, há uma chance de surgirem novas crianças. De igual modo, as crianças crescem e tornam-se adultos durante a noite, se estiverem em casa. Alguns alimentos (bebidas, doces) aumentam a probabilidade de nascerem novas crianças e outros (pão, cereais) aceleram o crescimento das mesmas.
+
+
+
+<darkblue>Uma construção na aldeia foi danificada, os aldeões irão repará-la?
+
+Não, os aldeões não reparam construções, maioritariamente por questões de desempenho. Terá de ser o jogador a reparar quaisquer danos que surjam nas construções ou, caso ainda existam actualizações das construções por realizar, rezar para que elas substituam alguns dos blocos em falta com as suas versões actualizadas.
+
+
+
+
+<darkblue>A minha aldeia está com falta de espaço, como posso ajudá-la?
+
+Pode verificar no mapa da aldeia as áreas onde não é possível os aldeões construírem (lagos, rios, vales, etc.) e tapá-las com uma camada de terra. Os aldeões poderão então utilizar esse terreno para construção.

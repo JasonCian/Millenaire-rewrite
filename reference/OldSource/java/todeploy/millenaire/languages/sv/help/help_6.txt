@@ -1,0 +1,14 @@
+﻿version:3.4
+<darkblue>Skapa byar
+
+Du kan skapa vilken typ och vart du vill att byn ska vara genom en summoning wand, en sak som du kan köpa i byar när du har tillräckligt med respekt. För att använda staven behöver du ett guld block som du placerar där du vill ha byn och höger klickar på blocket med staven. Sen på skärmen som kommer upp får du välja vilken typ av by du vill skapa.
+
+<darkblue>Förstöra en by eller ensamma byggnader
+
+Invånarna i en by återskapas varje natt, även om du förstör alla byggnader. För att förhindra detta (om du själv vill ha byggnaden tillexempel) så måste du använda <darkblue>Wand of Negation<black>: Som du hittar i huvud byggnaden (Central affär) när alla invånarna är död. Var vänlig att notera att förstörele av en by går INTE att ångra.
+
+<darkblue>Spelar kontrollerade byar
+
+Det är möjligt att skapa en by med dig som ledare, då kan du välja vart byggnaderna ska vara. För att göra detta så måste du vara ledare för en kultur eller ha klarat av skapelse uppdraget (Se uppdrags sektionen), eller vara "Naturlig ledare" och prata med byns ledare, Sedan kommer du att se ett val att skapa en spelar kontrollerad by i rutan där du skapar en by. 
+
+I spelar kontrollerade byar, så kan du välja vart en byggnad ska vara genom att använda Summoning wand på önskat ställe. så kommer en ruta att komma upp där du kan välja en byggnad. Du kan även tillåta eller förbjuda att en byggnad uppgraderas genom "projekt" rutan. Du behöver inte sälja resurser till byn - bara placera resurserna i kistorna.

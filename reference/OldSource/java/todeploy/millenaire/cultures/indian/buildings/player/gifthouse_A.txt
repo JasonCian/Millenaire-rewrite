@@ -1,0 +1,14 @@
+//Parameters for the building as a whole
+building.length=9
+building.width=10
+building.buildingorientation=0
+building.max=0
+building.isgift=true
+building.icon=cake
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Uphar Ghar
+initial.priority=1000000
+

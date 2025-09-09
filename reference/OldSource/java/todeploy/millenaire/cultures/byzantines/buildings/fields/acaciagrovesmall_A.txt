@@ -1,0 +1,16 @@
+building.length=11
+building.width=11
+building.max=0
+building.mindistance=0.6
+building.icon=sapling_acacia
+building.areatoclear=3
+//building.closetotag=woodcutter,45
+
+initial.startlevel=-1
+initial.nativename=Álsos Akakías
+initial.priority=100
+initial.pathwidth=2
+initial.tag=grove
+
+upgrade1.priority=200
+upgrade1.pathlevel=2

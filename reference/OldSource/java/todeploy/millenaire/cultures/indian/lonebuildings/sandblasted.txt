@@ -1,0 +1,16 @@
+name=Sunsan Saray
+weight=10
+radius=10
+
+//Vanilla biomes
+biome=Desert
+biome=DesertHills
+biome=Desert M
+
+//biomes o'plenty
+biome=lush desert
+biome=outback
+biome=xeric shrubland
+
+//starting buildings=
+centre=sandblasted

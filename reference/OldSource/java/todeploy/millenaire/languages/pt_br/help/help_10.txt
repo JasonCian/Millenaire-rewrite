@@ -1,0 +1,25 @@
+version:4.8.0
+<darkblue>Os Maias
+
+Oriundos do Iucatão, os Maias distinguem-se pela sua arquitetura à base da pedra e pelos seus ornamentos de ouro e habitam aldeias agrícolas, religiosas ou militares. Eles comunicam em maia, mas o seu idioma será traduzido à medida que o jogador o for "aprendendo" comunicando e interagindo com os aldeões.
+
+<darkblue>Objecto e Blocos Nativos
+
+- Os Maias cultivam o milho. O jogador poderá solicitar ao chefe da aldeia o conhecimento necessário para cultivar este cereal;
+
+- Fabricam mah e masas a partir do milho e do frango - tortilhas deliciosas;
+
+- Cultivam o cacau e produzem cacahuá a partir do mesmo, uma bebida de chocolate revigorante;
+
+- O artesão de obsidiana fabrica armas e utensílios em obsidiana que, apesar de mais frágeis, têm maior potencial para encantamentos;
+
+- Produzem ornamentos em ouro, fabricados pelo artesão, que podem ser vendidos ao jogador;
+
+- O escultor cria baixos-relevos maias que representam as divindades da cultura.
+
+
+<darkblue>Receitas Nativas
+
+- Três unidades de milho em linha recta produzem um wah, que é uma espécie de tortilha;
+
+- Duas unidades de milho em linha recta com uma peça de frango cru no meio produzem um masa, que é uma tortilha de frango.

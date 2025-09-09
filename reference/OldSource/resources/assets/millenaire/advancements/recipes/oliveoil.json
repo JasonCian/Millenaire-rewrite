@@ -1,0 +1,25 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "millenaire:oliveoil"
+    ]
+  },
+  "criteria": {
+    "has_grapes": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "millenaire:olives"
+          }
+        ]
+	  }
+    }
+  },
+  "requirements": [
+    [
+      "has_grapes"
+    ]
+  ]
+}

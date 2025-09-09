@@ -1,0 +1,1 @@
+native:Tsuribori;gameNameKey:japanesefishery_A0;male:japanese_fisherman;female:japanese_peasantwife;moveinpriority:10;tag:fishingspot;tag:Oven;shop:fishery;chest:1-5;sign:1;fishing:1-5;furnace:1;tag:Oven;radius:10

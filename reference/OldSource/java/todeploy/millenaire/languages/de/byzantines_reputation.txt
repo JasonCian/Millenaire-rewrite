@@ -1,0 +1,21 @@
+//*    Der Teil vor dem ";" ist der Titel, danach die Beschreibung
+//* 
+//* 
+//* 
+
+
+0;Fremder;Als ein Händlervolk akzeptieren wir jeden. Aber wir müssen nicht jedem vertrauen.
+4*64;Vertrauter;In letzter Zeit wurdest Du oft in diesen römischen Gegenden gesehen.
+8*64;Bekanntes Gesicht;Andere Römer scheinen dich bemerkt zu haben und sie sprechen gut von dir! Du scheinst nach allem doch kein Barbar zu sein.
+16*64;Regelmäßiger Besucher;Xaire, $name! Schön Dich zu sehen. Wie stehen die Dinge?
+32*64;Zivilisierter Mann;Ah, es ist schön zu sehen, dass andere außerhalb des Römischen Imperiums hin und wieder genauso zivilisiert sein können wie wir.
+64*64;Bevorzugter Händler;Jeder hier freut sich, Dich zu sehen. Hast Du etwas zum Handeln mitgebracht?
+2*64*64;Freund des Dorfes;Du bist Teil unseres Dorfes $name, wir vertrauen Dir jetzt!
+4*64*64;Respektabler Verbündeter;Meinen Glückwunsch, $name! Du hast dir deinen Respekt verdient. Es ist für Außenseiter schwierig Freunde des Römischen Imperiums zu werden oder auch nur respektiert zu werden. Aber DU, du hast bewiesen, dass du es wert bist
+8*64*64;Einer von uns;Wir sehen Dich jetzt als einen römischen Staatsbürger $name. Vielleicht wurdest Du nicht als einer von uns geboren, aber jetzt darfst Du Dich stolz als wahrer Römer betrachten.
+32*64*64;Geborener Anführer;$name, Du hast Dir den Respekt und das Vertrauen der Byzantiner verdient. Sie werden Dir überall hin folgen.
+4*32*64*64;Der nächste Cäsar;Du wirst der nächste Cäsar sein! Die ungeheure Menge an Arbeit, die Du für dieses Dorf getan hast, ist unvorstellbar und wir werden folgen diese Welt zu einem besseren Ort zu machen. Heil $name!
+-64;Ärgernis;Du bist nicht sehr nett, $name. Pass auf, was Du machst.
+-4*64;Unangenehmer Außenseiter;Wir akzeptieren Händler, aber nicht Menschen wie Dich. Sei auf der Hut.
+-16*64;Staatsfeind;Es ist eine Pein des Römischen Imperiums, Dich leben zu lassen. Während Du genießt, weiter leben zu dürfen, verlasse die Römischen Lande und komm niemals zurück.
+-64*64;Barbar;Verstehst du uns nicht? Schön, wir versuchen etwas anderes: BAR BAR BAR, BAR BAR, BAR BARRRR!

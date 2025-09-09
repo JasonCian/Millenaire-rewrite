@@ -1,0 +1,16 @@
+{
+"multipart": [
+        {   "when": { "age":"0" },
+            "apply": { "model": "millenaire:sakura_leaves_0" }
+        },
+         {   "when": { "age":"1" },
+            "apply": { "model": "millenaire:sakura_leaves_1" }
+        },
+         {   "when": { "age":"2" },
+            "apply": { "model": "millenaire:sakura_leaves_2" }
+        },
+         {   "when": { "age":"3" },
+            "apply": { "model": "millenaire:sakura_leaves_3" }
+        }
+    ]
+}

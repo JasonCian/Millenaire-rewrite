@@ -1,0 +1,12 @@
+building.length=25
+building.width=25
+building.issubbuilding=true
+building.max=0
+building.parentbuildingplan=lonemarket_A0
+
+building.icon=purse
+
+initial.startlevel=-1
+initial.nativename=Çarşı
+initial.priority=1000
+initial.tag=market

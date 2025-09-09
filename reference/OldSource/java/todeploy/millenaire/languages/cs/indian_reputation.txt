@@ -1,0 +1,15 @@
+
+0;Cizinec;V nasi odlehle vesnici nejsme zvykli na cizince.
+4*64;Znama tvar;Doposud jsi se nedopustil zadneho zavazneho poruseni nasich zvyku.
+8*64;Znama tvar; Udelal jsi na mnohe z nas dobry dojem, jen tak dal a vsichni z toho budeme profitovat.
+16*64;Pravidelny navstevnik;Namaste, $name! Jake novinky nam prinasis?
+32*64;Soused; Mozna nejsi dokonaly ale jste dobry soused $name-ji a toho si vazime.
+64*64;Oblibeny obchodnik;Vitej zpet, $name. S cim jsi prisel obchodovat dnes?
+2*64*64;Pritel vesnice;$name-ji, vsichni jsme se shodli, ze jsi opravdovy pritel.
+4*64*64;Pravy spojenec;Jsi pravy spojenec teto vesnice $name-ji! pokud by jsi potreboval utociste tak se kdykoliv zastav.
+8*64*64;Jeden z nas;Nikdy jsem si nemyslel, ze se doziji prijeti cizince do nasi vesnice, ale ty $name-ji, jsi jednim z nas!
+32*64*64;Prirozeny vudce;$name, ziskal si duveru a respekt meho lidu. Budou te nasledovat kamkoliv.
+4*32*64*64;Ambiciozni Rajput;Indiani jsou velice stastni ze s nima chces zustat a pomoct jim s jejich problemy. Pokud jsi si nevsiml tak jsme vytvorily dalsich 5 uzasnych kultur ktery ti pravdepodobne daji lepsi odmenu nez neuspokojive zpravy.
+-64;Protiva;Nemame tady radi cizince, obzvlast takove jako jsi ty.
+-4*64;Neprijemny outsider;Kazdy rika, ze delas jen problemy. Doufame ze uz brzy vypadnes.
+-16*64;Verejny nepritel;Kazdy den se modlim k bohum, ze uz nikdy neuvidim tvoji tvar.

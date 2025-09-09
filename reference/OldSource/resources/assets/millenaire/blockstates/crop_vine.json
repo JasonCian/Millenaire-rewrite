@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "age=0,half=upper": { "model": "millenaire:vine0upper" },
+        "age=1,half=upper": { "model": "millenaire:vine0upper" },
+        "age=2,half=upper": { "model": "millenaire:vine0upper" },
+        "age=3,half=upper": { "model": "millenaire:vine0upper" },
+        "age=4,half=upper": { "model": "millenaire:vine0upper" },
+        "age=5,half=upper": { "model": "millenaire:vine0upper" },
+        "age=6,half=upper": { "model": "millenaire:vine0upper" },
+        "age=7,half=upper": { "model": "millenaire:vine1upper" },
+        "age=0,half=lower": { "model": "millenaire:vine0lower" },
+        "age=1,half=lower": { "model": "millenaire:vine0lower" },
+        "age=2,half=lower": { "model": "millenaire:vine0lower" },
+        "age=3,half=lower": { "model": "millenaire:vine0lower" },
+        "age=4,half=lower": { "model": "millenaire:vine0lower" },
+        "age=5,half=lower": { "model": "millenaire:vine0lower" },
+        "age=6,half=lower": { "model": "millenaire:vine0lower" },
+        "age=7,half=lower": { "model": "millenaire:vine1lower" }
+    }
+}

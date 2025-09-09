@@ -1,0 +1,20 @@
+//Parameters for the building as a whole
+building.length=10
+building.width=10
+building.farfromtag=pathnode,30
+building.icon=bucketwater
+building.areatoclear=4
+
+//Parameters for initial construction
+initial.startlevel=-8
+initial.nativename=Tandurust
+initial.priority=1000
+initial.tag=pathnode
+initial.irrigation=5
+initial.tag=leasure
+
+//Parameters for specific upgrades
+upgrade1.priority=100
+upgrade1.pathlevel=1
+upgrade1.irrigation=10
+

@@ -1,0 +1,51 @@
+playerestate_A0=Особняк мандрівника
+forge_A0=Кузня
+armyforge_A0=Армійська кузня
+scultorhouse_A0=Будинок різьбяра по каменю
+archives_A0=Архіви храму
+chiefhouse_A0=Будинок вождя
+chiefhouse_B0=Будинок вождя
+fort_A0=Форт
+fort_A_forge_A0=Збройова
+fort_A_soldierhouse_A0=Казарма
+pandithouse_A0=Будинок священика
+peasanthouse_A0=Будинок селянина
+peasanthouse_B0=Будинок селянина
+peasanthouse_C0=Будинок селянина
+lumbermanhouse_A0=Будинок дроворуба
+quarry_A0=Каменоломня
+quarry_B0=Каменоломня
+soldierhouse_A0=Будинок солдата
+brickkiln_A0=Цегляні печі
+grove_A0=Гай
+paddy_A0=Рисововий гай
+spicegarden_A0=Садок прянностей
+sugarplantation_A0=Плантація тростини
+villagetemple_A0=Храм поселення
+palace_A0=Палац
+guesthouse_A0=Заїжджий двір
+inn_A0=Готель
+largepeasanthouse_A0=Великий будинок
+largepeasanthouse_A_secondary_A0=Розширення будинку
+playerpalace_A0=Палац мандрівника
+playerhugefield_A0=Величезне поле
+playerlargefield_A0=Велике поле
+playersmallfield_A0=Мале поле
+playersmallhouse_A0=Малий будинок
+bazaar_A0=Базар
+tank_A0=Колодязь
+
+//extra buildings:
+well_A0=Колодязь
+
+//lone buildings:
+adivasifarm_A0=Ферма аборигенів
+adivasifarm_B0=Ферма аборигенів
+deserttradeoutpost_A0=Пустельний торговий пост
+ruinedfort_A0=Зруйнований форт
+sandblasted_A0=Покинутий торговий пост
+indiandesertedfarm_A0=Розорена індійська ферма
+loneshrine_A0=Самотня індійська святиня
+sadhutree_A0=Древо мудреця
+
+gifthouse_a0=Будинок подарунок

@@ -1,0 +1,18 @@
+building.length=17
+building.width=12
+building.mindistance=0.6
+building.icon=sapling_appletree
+building.max=1
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Petit verger
+initial.priority=1000
+initial.pathwidth=1
+initial.tag=lumbermanorchard
+initial.tag=childrenorchard
+initial.tag=cider
+initial.tag=nopaths
+initial.abstractedproduction=ciderapple,64
+initial.abstractedproduction=cider,4
+initial.shop=orchard

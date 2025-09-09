@@ -1,0 +1,30 @@
+//Parameters for the building as a whole
+building.length=16
+building.width=22
+building.buildingorientation=3
+building.mindistance=0.6
+building.icon=fishing_rod
+
+//Parameters for initial construction
+initial.startlevel=-3
+initial.nativename=Tsuribori
+initial.priority=1000
+initial.male=japanese_fisherman
+initial.female=japanese_peasantwife
+initial.tag=fishingspot
+initial.shop=fishery
+
+//Parameters for specific upgrades
+upgrade1.nativename=Gyogyo
+upgrade1.priority=200
+upgrade1.tag=oven
+
+upgrade2.priority=95
+
+upgrade3.priority=90
+
+upgrade4.priority=85
+upgrade4.pathlevel=1
+
+upgrade5.priority=80
+

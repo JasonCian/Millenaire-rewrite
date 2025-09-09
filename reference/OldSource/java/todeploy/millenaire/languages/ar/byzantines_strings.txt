@@ -1,0 +1,60 @@
+culture.byzantines=البيزنطينين
+
+//Norman:
+villager.teenagerMale=شاب
+villager.teenagerFemale=شابة
+villager.boy_byzantine=فتى
+villager.girl_byzantine=فتاة
+villager.farmiller_byzantine=طحان
+villager.farmiller_wife_byzantine=زوجة الطحان
+villager.wife_byzantine=زوجة
+villager.miner_byzantine=عامل منجم
+villager.artisan_byzantine=حرفي
+villager.patriarch_byzantine=بطريك
+villager.lumberman_byzantine=حطاب
+villager.shepherd_byzantine=راعي
+villager.shepherd_female_byzantine=راعية
+villager.fisherman_byzantine=صياد
+villager.baron_byzantine=بارون
+villager.richwife_byzantine=امرأة غنية
+villager.تاجر_norman=تاجر نورماني
+villager.تاجر_hindi=تاجر هندي
+villager.تاجر_mayan=تاجر مايا
+villager.تاجر_japanese=تاجر ياباني
+villager.centurio_byzantine=كينتوريون
+villager.soldier_byzantine=جندي
+villager.playersoldier_byzantine=جندي
+villager.smith_byzantine=حداد
+villager.تاجر_byzantine=تاجر
+villager.pastor_byzantine=قس
+villager.artwife_byzantine=زوجة الحرفي
+villager.architect_byzantine=مهندس معماري
+villager.silkfarmer_byzantine=ناسج الحرير
+villager.silkfarmerwife_byzantine=ناسجة الحرير
+villager.armysmith_byzantine=صانع أسلحة
+villager.cowherd_byzantine=راعي بقر
+villager.cowherd_female_byzantine=راعية بقر
+
+villager.smuggler_silk=تاجر الحرير
+villager.merchant_art=تاجر الفن
+villager.merchant_food =تاجر الطعام
+villager.merchant_materials=تاجر الحجارة
+
+
+villager.keeperOak_byzantine=حارس
+villager.keeperBirch_byzantine=حارس
+villager.keeperTropical_byzantine=حارس
+villager.keeperPine_byzantine=حارس
+villager.loneshepherd_byzantine=راعي
+villager.loneshepherdf_byzantine=راعية
+villager.keeper_byzantine=حارس المنارة
+
+shop.townhall=المتجر المركزي
+shop.forge=أدوات
+shop.armyforge=أدوات,أسلحة ودروع
+shop.lonetower=طعام
+shop.tavernbyz=خمر
+shop.lonesheep=صوف
+shop.bakery=مخبز
+shop.fishery=سمك
+shop.cattlefarm=لحم بقر وجلد

@@ -1,0 +1,1 @@
+native:Youkeijou;male:japanese_chickenFarmer;gameNameKey:chickenfarm_A0;female:japanese_farmwife;moveinpriority:10;tag:chicken;chest:1-5;craft:1;sign:1;spawn:2-4;spawnType:Chicken

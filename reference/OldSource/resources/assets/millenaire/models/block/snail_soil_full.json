@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "millenaire:blocks/snail_soil_full",
+    "particle" : "millenaire:blocks/snail_soil_full"
+  }
+}

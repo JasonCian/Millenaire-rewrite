@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "millenaire:blocks/chestside",
+    "up": "millenaire:blocks/chesttoparrow",
+    "north": "millenaire:blocks/chestside",
+    "south": "millenaire:blocks/chestside",
+    "east": "millenaire:blocks/chestside",
+    "west": "millenaire:blocks/chestside",
+    "down": "millenaire:blocks/chesttop"
+  }
+}

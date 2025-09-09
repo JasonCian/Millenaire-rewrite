@@ -1,0 +1,27 @@
+//Parameters for the building as a whole
+building.length=21
+building.width=21
+building.farfromtag=leasure,30
+building.icon=goldblock
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Buttou
+initial.priority=500
+initial.male=japanese_monk
+initial.pathlevel=1
+initial.tag=praying
+initial.tag=leasure
+
+//Parameters for specific upgrades
+upgrade1.priority=50
+
+upgrade2.priority=45
+
+upgrade3.priority=40
+
+upgrade4.priority=35
+upgrade4.pathlevel=2
+
+upgrade5.priority=30
+

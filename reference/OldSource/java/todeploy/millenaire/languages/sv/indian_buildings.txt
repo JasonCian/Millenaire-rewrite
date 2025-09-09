@@ -1,0 +1,30 @@
+﻿brickkiln_A0=Tegelugn
+chiefhouse_A0=Chefs Hus
+fort_A0=Fort
+grove_A0=Skogsdunge
+lumbermanhouse_A0=Timmermanshus
+paddy_A0=Risodling
+pandithouse_A0=Prästhus
+peasanthouse_A0=Farmhus
+peasanthouse_B0=Farmhus
+peasanthouse_C0=Farmhus
+playerhugefield_A0=Mycket Stor Mark
+playerlargefield_A0=Stor Mark
+playersmallfield_A0=Liten Mark
+playersmallhouse_A0=Litet Hus
+quarry_A0=Stenbrott
+soldierhouse_A0=Soldathus 
+sugarplantation_A0=Sockerplantage
+villagetemple_A0=Tempel
+armyforge_A0=Armé smedja
+forge_A0=Smedja
+playerestate_A0=Villa
+quarry_B0=Stenbrott
+spicegarden_A0=Kryddodling
+scultorhouse_A0=Ateljé
+archives_A0=Arkiv
+guesthouse_A0=Gästhus
+inn_A0=Värdshus
+palace_A0=Palats
+
+

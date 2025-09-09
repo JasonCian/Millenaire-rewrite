@@ -1,0 +1,13 @@
+//Parameters for the building as a whole
+building.length=93
+building.width=128
+building.areatoclear=6
+building.buildingorientation=3
+
+building.icon=sign
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Panthéon
+initial.tag=hof
+initial.tag=despawnallmobs

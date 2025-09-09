@@ -1,0 +1,14 @@
+version:4.3.0
+<darkblue>Los Bizantinos
+
+Sucesores orgullosos y dignos de los romanos, los bizantinos producen vino e iconos religiosos refinados. Hablan griego, pero el diálogo se traducirá mientras el jugador "aprende" a hablar su idioma con ellos.
+
+<darkblue>Objetos únicos y bloques
+
+-Cultivan uvas y producen vino de ellas. El jugador puede pedir al jefe de la aldea que le enseñe cómo cultivar esta planta.
+-Usan la arcilla para producir elegantes baldosas bizantinas con los que cubren sus edificios.
+-Su dominio de la sericultura (cría de gusanos de seda) les permite producir la seda en la cual pintan sus iconos bizantinos.
+
+<darkblue>Recetas
+
+-Dos líneas con tres uvas en cada una hacen vino.

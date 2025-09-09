@@ -1,0 +1,11 @@
+building.length=3
+building.width=3
+building.max=0
+building.buildingorientation=3
+building.icon=banner_white
+building.isborderbuilding=true
+building.areatoclear=1
+
+initial.startlevel=-1
+initial.nativename=Ayak
+initial.nopathstobuilding=true

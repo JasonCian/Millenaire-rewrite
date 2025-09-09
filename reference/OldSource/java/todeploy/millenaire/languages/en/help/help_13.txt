@@ -1,0 +1,34 @@
+version:3.4
+<darkblue>Frequently Asked Questions
+
+<darkblue>The villagers speak in a language other than mine. Is this normal?
+
+Millénaire villagers all speak in "their" language, such as Hindi for the Indians or French for the Normans. If you play in a different language, you will "learn" the language by interacting with them (trade, quests ...). As you “learn” their language, Millénaire will provide translations, first of the names of buildings, then of the types of villagers, and finally of the villager dialogues.
+
+<darkblue>My Norman village needs timber frames and I cannot make them, what can I do?
+
+Timber frames are made by a carpenter from wood. Wait until your village builds a “carpenter’s house” and a couple settles in. Patience!
+  
+<darkblue>My Japonese village needs thatch and I cannot make it, what can I do?
+
+The Japanese produce thatch from wheat. If they are not harvesting enough themselves, sell some to them to accelerate the production.
+
+<darkblue>I built my house near the village and the villagers destroyed it while building something else, is this normal?
+
+Yes. The territory of the village belongs to them, check the map to see its limits. If you want to build in the village, buy a plot from the chief.
+
+<darkblue>Some villagers are dead, will they be respawned?
+
+Yes, the villagers are respawned every night, shortly after sunset. Just avoid sleeping right away.
+
+<darkblue>My villagers are not having children or their children are not growing up, what is happening?
+
+New children may appear when a couple is at home during the night. Similarly, they grow up at night when at home. Some foods (drinks, sweets) increase the chances of babies being born and other (bread, cereals) the growth rate of children.
+
+<darkblue>A building in the village has been damaged, will they fix it?
+
+No, the villagers do not repair buildings (though sometimes further upgrades can replace the missing blocks), mainly for performance reasons. You will need to repair it yourself.
+
+<darkblue>My village is lacking space, can I help?
+
+Yes, by looking at the village map to see the areas where they cannot build. Covering a lake, river or canyon with a layer of earth is enough to make the area usable by the villagers.

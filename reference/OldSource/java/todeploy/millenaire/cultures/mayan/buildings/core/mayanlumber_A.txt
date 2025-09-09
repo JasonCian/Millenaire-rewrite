@@ -1,0 +1,26 @@
+//Parameters for the building as a whole
+building.length=8
+building.width=11
+building.buildingorientation=3
+building.icon=mayanaxe
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=B'aat Winik Nah
+initial.priority=1000
+initial.male=mayan_lumberman
+initial.female=mayan_peasantwife
+
+//Parameters for specific upgrades
+upgrade1.priority=100
+
+upgrade2.priority=95
+
+upgrade3.priority=90
+
+upgrade4.priority=85
+
+upgrade5.priority=80
+upgrade5.pathlevel=1
+

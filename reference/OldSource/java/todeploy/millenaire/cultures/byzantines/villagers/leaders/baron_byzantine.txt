@@ -1,0 +1,34 @@
+native_name=Akrita
+gender=male
+familyNameList=greek_family_names
+firstNameList=greek_men_names
+tag=chief
+icon=byzantinehelmet
+
+texture=textures/entity/byzanz/noblemale/byz.military.A.png
+texture=textures/entity/byzanz/noblemale/byz.military.B.png
+texture=textures/entity/byzanz/noblemale/byz.military.C.png
+texture=textures/entity/byzanz/noblemale/byz.military.D.png
+texture=textures/entity/byzanz/noblemale/byz.military.E.png
+texture=textures/entity/byzanz/noblemale/byz.military.F.png
+texture=textures/entity/byzanz/noblemale/byz.military.G.png
+texture=textures/entity/byzanz/noblemale/byz.military.H.png
+texture=textures/entity/byzanz/noblemale/byz.military.I.png
+
+clothes=free,textures/entity/byzanz/noblemale/clothes/byz.baron.1.A.png
+clothes=free,textures/entity/byzanz/noblemale/clothes/byz.baron.1.B.png
+
+itemNeeded=clothes_byz_silk
+
+//leisure goals
+goal=gorest
+goal=gosocialise
+goal=chat
+goal=gopray
+goal=goDrinkWine
+
+//duty goals
+goal=inspectconstruction
+goal=givespeech
+
+baseAttackStrength=6

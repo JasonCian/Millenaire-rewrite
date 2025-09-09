@@ -1,0 +1,19 @@
+//Parameters for the building as a whole
+building.length=10
+building.width=10
+building.buildingorientation=3
+building.mindistance=0.5
+building.icon=steelsword
+building.version=2
+building.areatoclear=4
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Sainik Ka Ghar
+initial.priority=900
+initial.male=indian_soldier
+initial.female=indian_peasantwife
+
+upgrade1.priority=100
+
+upgrade2.priority=50

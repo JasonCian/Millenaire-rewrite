@@ -1,0 +1,300 @@
+//*  Essas cadeias de caracteres são usadas no livro de viagens para mercadorias usadas por várias culturas
+//* 
+
+
+travelbook.trade_good.akwardpotion.desc=Por que uma poção estranha é estranha? Ninguém nunca se atreveu a perguntar.
+travelbook.trade_good.arrow.desc=Um bastão pontiagudo que voa contra seus inimigos. Popular em todas as culturas.
+travelbook.trade_good.baked_potato.desc=Um fruto inuit. Um dia os normandos vão pôr as mãos nele e a história será feita.
+travelbook.trade_good.bearmeat_cooked.desc=Deliciosa carne de um urso, cozida com perfeição. É bastante valioso e fornece força extrema para quem come.
+travelbook.trade_good.bearmeat_raw.desc=Carne crua de urso polar. Cozinhe para uma refeição deliciosa.
+travelbook.trade_good.bed_straw.desc=Um simples tapete de palha, folhas ou qualquer outra vegetação disponível localmente não é muito pontudo.
+travelbook.trade_good.beefcooked.desc=Nada melhor do que um bife cozido em um forno. Disponível em "bem feito", "muito bem feito" e "carvão".
+travelbook.trade_good.beefraw.desc=Um pedaço suculento de carne direto dos quartos traseiros de uma vaca.
+travelbook.trade_good.bone.desc=Um osso não identificado, esperamos que de origem animal.
+travelbook.trade_good.boneblock.desc=Uma parte de um osso maciço de origem desconhecida. Baleias? Dragões? Um designer de jogos sueco louco? Algum dia saberemos?
+travelbook.trade_good.book.desc=Cuidadosamente feitos de papel e couro, com uma espinha impressionante. Perfeito para colocar em uma estante de livros para impressionar seus amigos.
+travelbook.trade_good.bookshelves.desc=Uma coleção de livros de aparência séria apenas para exibição. Uma maneira barata de parecer intelectual.
+travelbook.trade_good.bottle.desc=Uma garrafa vazia, ainda procurando um propósito na vida.
+travelbook.trade_good.boudin.desc=Como seu primo, salame preto inglês, tende a ser mais apreciado por pessoas que não sabem como é feito.
+travelbook.trade_good.bow.desc=Um graveto e uma corda, os arcos não ficam mais simples que isso. Funciona bem o suficiente, mas sem estilo.
+travelbook.trade_good.bread.desc=Um pão básico, totalmente indescritível. Recheio simples.
+travelbook.trade_good.brickmould.desc=Este pequeno dispositivo permitirá que você participe da parte mais divertida da vida de um camponês indiano: fazer centenas de tijolos de barro.
+travelbook.trade_good.bricks.desc=Tijolos produzidos a partir de argila, para aquele visual "industrial" moderno.
+travelbook.trade_good.byzantine_tiles.desc=Os bizantinos usam tijolos de barro para dar aos edifícios uma aparência imperial ainda mais moderna.
+travelbook.trade_good.byzantineboots.desc=Botas pesadas feitas de aço bizantino azul inoxidável. Não enferruja, mesmo em pântanos.
+travelbook.trade_good.byzantinehelmet.desc=Capacete pesado que combina os benefícios de placas e correntes de aço. Os ornamentos de ouro fazem seu inimigo tremer de medo.
+travelbook.trade_good.byzantineiconlarge.desc=Ter os maiores ícones garante um lugar especial no céu, dizem eles.
+travelbook.trade_good.byzantineiconmedium.desc=Aldeões bizantinos tendem a comprar ícones maiores depois de noites excessivas nas tabernas.
+travelbook.trade_good.byzantineiconsmall.desc=Perfeito para a sua dose diária de Deus.
+travelbook.trade_good.byzantinelegs.desc=Calças pesadas feitas de couro e aço bizantino. Permite ataques rápidos com proteção apropriada.
+travelbook.trade_good.byzantinemace.desc=Derruba os inimigos do Império Romano desde 1000 aC.
+travelbook.trade_good.byzantineplate.desc=Peitoral pesado em aço bizantino. Suas capacidades de movimento são aprimoradas pelo couro.
+travelbook.trade_good.cacauhaa.desc=A bebida dos deuses, produzida pelos maias do cacau. Apenas os adultos bebem e essa é uma fonte de grandes queixas das crianças maias.
+travelbook.trade_good.cactus.desc=Pontudo e não comestível, mas pode ser usado para produzir corantes verdes. Inventores inteligentes até falam em usá-lo para medir o tempo!
+travelbook.trade_good.cake.desc=A melhor comida no Minecraft. Encontrado de presentes nas casas dos colaboradores registrados do Millénaire.
+travelbook.trade_good.calva.desc=Mais conhecido como calvados, este conhaque de maçã da Normandia é feito de cidra. Fora do Millénaire, o consumo é recomendado em pequenas doses: varia de 40 a 45 °.
+travelbook.trade_good.carpet_blue.desc=Um tapete azul chique, ideal para uma sensação confortável em uma sala.
+travelbook.trade_good.carpet_red.desc=Um magnífico tapete vermelho, para salas imponentes.
+travelbook.trade_good.carpet_white.desc=Um elegante tapete branco.
+travelbook.trade_good.carpet_yellow.desc=A bright yellow carpet.
+travelbook.trade_good.carrot.desc=Uma humilde cenoura, amada por porcos em toda parte.
+travelbook.trade_good.cauldron.desc=Uma panela grande para cozinhar, ou simplesmente para decoração de interiores.
+travelbook.trade_good.chickencurry.desc=Picante e cremoso, este saboroso curry preparado por esposas indianas queimará sua língua e encherá seu estômago.
+travelbook.trade_good.chickenmeat.desc=O ingrediente cru de muitos alimentos interessantes. Também pode ser cozido sozinho, mas onde está a diversão nisso?
+travelbook.trade_good.chickenmeatcooked.desc=Seu frango assado básico. Não é a comida mais saborosa, mas manterá as crianças crescendo.
+travelbook.trade_good.cider.desc=Feita pelos moradores a partir de maçãs de sidra, esta bebida refrescante mal conta como álcool no que diz respeito aos normandos.
+travelbook.trade_good.ciderapple.desc=Pequeno, verde e comestível, este primo despretensioso das maçãs vermelhas mais conhecidas pode ser transformado em álcoois incríveis pelos normandos.
+travelbook.trade_good.clay.desc=Um recurso estranhamente raro em todo o mundo, o barro pode ser transformado em tijolos ou azulejos de aparência sofisticada.
+travelbook.trade_good.clothes_byz_silk.desc=Somente os mais nobres aldeões bizantinos estão dispostos a comprar este brilhante exemplo de artesanato bizantino.
+travelbook.trade_good.clothes_byz_wool.desc=O presente perfeito para as esposas bizantinas, mas os homens também amam secretamente as roupas coloridas.
+travelbook.trade_good.coarse_dirt.desc=Não é pura sujeira, mas ainda basicamente sujeira.
+travelbook.trade_good.cobblestone.desc=Pedras quebradas que milagrosamente grudam nas paredes e no teto. Uma maneira barata de construir edifícios fortes se a estética não for sua prioridade.
+travelbook.trade_good.cooked_mutton.desc=Diz a lenda que os bizantinos foram os primeiros a pensar em cozinhar carne de carneiro. Foi uma ótima idéia que todos tenham copiado.
+travelbook.trade_good.cooked_rabbit.desc=Nada cheira melhor depois de um dia de caminhada do que um coelho assado na fogueira.
+travelbook.trade_good.cookedbrick.desc=Os tijolos de barro cozidos em um forno tornam-se mais difíceis e mais duráveis, além de, de alguma forma, obter cobertura na cal.
+travelbook.trade_good.cookie.desc=Ninguém sabe qual cultura misteriosa surgiu com este saboroso deleite, mas é popular entre os moradores de todas as culturas.
+travelbook.trade_good.diamond.desc=Este material incrível pode ser usado para ferramentas, armas e armaduras! Algumas pessoas até a usam como joias, mas isso é um desperdício!
+travelbook.trade_good.diamondaxe.desc=O melhor amigo de um lenhador! Eficaz e, oh, tão chamativo.
+travelbook.trade_good.diamondboots.desc=O melhor em calçados de bling, com a desculpa de que é realmente durável.
+travelbook.trade_good.diamondchest.desc=Nada diz "rico e orgulhoso disso" como usar dez quilos de diamantes no peito.
+travelbook.trade_good.diamondhelmet.desc=A coisa mais próxima que Minecraft tem de uma coroa.
+travelbook.trade_good.diamondhoe.desc=Agricultura com uma enxada feita de diamante. Maria Antonieta coraria.
+travelbook.trade_good.diamondlegs.desc=Aparência legal, mas cuidado ao caminhar, o atrito pode ser um problema com essas calças.
+travelbook.trade_good.diamondpickaxe.desc=A melhor ferramenta de escavação do Minecraft - até encontrar os normandos.
+travelbook.trade_good.diamondshovel.desc=Como transformar uma pá humilde em um item de luxo.
+travelbook.trade_good.diamondsword.desc=Como a espada de Bilbo, ela brilha quando monstros estão por perto. Pena que está preso na posição "on".
+travelbook.trade_good.dirtwall.desc=A sujeira compacta cria um material de construção particularmente barato, do qual você ficará feliz em se livrar de quando puder comprar algo melhor.
+travelbook.trade_good.dye_black.desc=Tinta preta de lulas, ideal para tingir lã.
+travelbook.trade_good.dye_blue.desc=Lápis-lazúli precioso. Parece quase um desperdício usá-los para tingir lã.
+travelbook.trade_good.dye_brown.desc=Você vai usá-lo para fazer lã marrom ou ... biscoitos?
+travelbook.trade_good.dye_cyan.desc=Um corante precioso obtido pela mistura de corantes verdes e azuis.
+travelbook.trade_good.dye_gray.desc=Meio osso aterrado, meia tinta de lula - um corante muito macabro.
+travelbook.trade_good.dye_green.desc=Um corante verde produzido a partir de cactos moídos.
+travelbook.trade_good.dye_lightblue.desc=Um corante à base de flores com uma sombra suave.
+travelbook.trade_good.dye_lightgray.desc=Um corante vegetal muito chato.
+travelbook.trade_good.dye_magenta.desc=Um corante vegetal bastante berrante.
+travelbook.trade_good.dye_orange.desc=Um corante vegetal particularmente brilhante.
+travelbook.trade_good.dye_pink.desc=Uma tonalidade rosa vívida obtida de flores, associada a meninas em nenhuma cultura Millénaire.
+travelbook.trade_good.dye_purple.desc=Uma mistura real de corantes azuis e vermelhos.
+travelbook.trade_good.dye_red.desc=Um tom vermelho chamativo obtido de rosas.
+travelbook.trade_good.dye_white.desc=Uma cor assustadora normalmente só pode ser obtida dos ossos.
+travelbook.trade_good.dye_yellow.desc=Um tom ensolarado de amarelo obtido a partir de flores.
+travelbook.trade_good.egg.desc=Simples e nutritivos, ovos como esses alimentarão qualquer criança da aldeia.
+travelbook.trade_good.feather.desc=Útil para fazer flechas e fazer cócegas nas crianças.
+travelbook.trade_good.feta.desc=O famoso queijo grego, trazido a você pela verdadeira cultura bizantina.
+travelbook.trade_good.fire_pit.desc=A fogueira é um dispositivo bacana para cozinhar alimentos e manter-se aquecido. Funciona de maneira semelhante a um forno, mas apenas cozinha itens alimentares.
+travelbook.trade_good.fishcooked.desc=Uma pena que não haja limão por perto para acompanhar. Ainda gostoso, no entanto.
+travelbook.trade_good.fishraw.desc=Um peixe de aparência fresca, milagrosamente preservado após semanas passadas no fundo de um baú.
+travelbook.trade_good.flint.desc=Um subproduto da mineração, útil para acender fogueiras e fazer flechas.
+travelbook.trade_good.furboots.desc=Um par de jeans com fundo de maçã combinaria com essas botas com a pele.
+travelbook.trade_good.furhelmet.desc=Um capuz bonito e fofo para ficar quente e quentinho.
+travelbook.trade_good.furlegs.desc=Um conjunto leve e quente de perneiras de pele feitas de couro e couro.
+travelbook.trade_good.furplate.desc=Um casaco de pele e couro especialmente preparado, que é muito encantador.
+travelbook.trade_good.glass.desc=Simplesmente carregue areia em um forno, aguarde alguns minutos e pronto! Vidro transparente.
+travelbook.trade_good.gold.desc=Um metal bonito, mas inútil para a fabricação de ferramentas. Claramente inferior ao ferro.
+travelbook.trade_good.grapes.desc=Uma cultura cultivada pelos bizantinos em ambientes quentes, que ficou famosa pelos antigos romanos. Os normandos parecem estar interessados nisso.
+travelbook.trade_good.hidehanging.desc=Um couro decorativo pendurado que é inegavelmente inuit.
+travelbook.trade_good.ice.desc=Pedaços de gelo transparente cortados em pedaços móveis. um dia alguém criará um dispositivo para fazer zoom nele.
+travelbook.trade_good.icebrick.desc=Quando você passa seus dias vivendo em uma terra de neve e gelo, é bom embalá-los em materiais de construção utilizáveis.
+travelbook.trade_good.ikayaki.desc=lulas grelhadas é um fast food popular no Japão.
+travelbook.trade_good.indianstatue.desc=Uma impressionante estátua de um deus hindu, esculpida por um verdadeiro artista.
+travelbook.trade_good.inuitbearstew.desc=Um delicioso ensopado de carne de urso que dá força ao comedor.
+travelbook.trade_good.inuitbow.desc=Feito de osso e barbante, este arco tem força para causar sangramentos até a morte.
+travelbook.trade_good.inuitcarving.desc=Uma escultura feita de osso. Os Inuit eram bem conhecidos por suas intrincadas esculturas ósseas.
+travelbook.trade_good.inuitmeatystew.desc=Tudo o que você sabe sobre esse ensopado é que há alguma forma de carne nele e que fornece força ao comedor. Também apreciado como lanche noturno pelos casais inuit.
+travelbook.trade_good.inuitpotatostew.desc=Um ensopado feito principalmente de batatas que podem encher completamente o consumidor.
+travelbook.trade_good.inuittrident.desc=Esta lança, feita de osso e madeira, é a companhia perfeita para caçar vacas, ursos ou outros inimigos.
+travelbook.trade_good.iron.desc=O rei dos metais, base de ferramentas e armas em quase todas as culturas.
+travelbook.trade_good.japaneseblueplate.desc=Essa armadura é usada por nobres e guerreiros que estudaram bushido.
+travelbook.trade_good.japaneseguardplate.desc=Uma armadura leve comum usada pelos guardas da cidade.
+travelbook.trade_good.japaneseredplate.desc=Essa armadura é usada por nobres e guerreiros que estudaram bushido.
+travelbook.trade_good.leather.desc=Pele de animal bronzeada, um recurso muito útil, desde que você não precise cheirar o processo de bronzeamento.
+travelbook.trade_good.leatherboots.desc=Botas de couro leve, elegantes e levemente protetoras.
+travelbook.trade_good.leatherchest.desc=Um dia vestindo uma jaqueta de couro será legal. Por enquanto, isso significa apenas que você não pode pagar uma proteção melhor.
+travelbook.trade_good.leatherhelmet.desc=Se ao menos Minecraft tivesse motos para acompanhar isso!
+travelbook.trade_good.leatherlegs.desc=As calças de couro nunca saem de moda.
+travelbook.trade_good.maize.desc=Este cereal dourado é a base da culinária maia. Talvez eles lhe ensinem como cultivá-lo.
+travelbook.trade_good.masa.desc=Uma tortilla de enchimento feita de farinha de milho.
+travelbook.trade_good.mayanaxe.desc=Não é tão afiado quanto o ferro, mas este machado maia parece legal e pode ser encantado facilmente.
+travelbook.trade_good.mayangold.desc=Folha de ouro sobre pedra, tudo que um maia gosta de apimentar um templo.
+travelbook.trade_good.mayanhoe.desc=Uma enxada de aparência ameaçadora que torna o plantio de milho quase divertido.
+travelbook.trade_good.mayanmace.desc=Pode não ser tão eficaz quanto uma espada, mas é muito mais intimidante. Também é fácil encantar com feitiços desagradáveis para obter energia extra.
+travelbook.trade_good.mayanpickaxe.desc=Essa picareta de obsidiana vai minar qualquer coisa - lentamente.
+travelbook.trade_good.mayanshovel.desc=Os construtores do Maya trabalharão mais rápido com um deles e terão uma boa aparência.
+travelbook.trade_good.mudbrick.desc=O material de construção indiano mais básico, um simples tijolo de terra seca.
+travelbook.trade_good.mutton.desc=Carne de carneiro crua, perfeita para um bom assado. Ou vá até os bizantinos para uma visão mais interessante.
+travelbook.trade_good.netherwart.desc=Essa planta de aparência estranha parece vir de outro mundo.
+travelbook.trade_good.normanaxe.desc=Este machado temível cortará troncos e escudos.
+travelbook.trade_good.normanboots.desc=Botas blindadas Norman pesadas. Não é muito confortável, mas muito resistente.
+travelbook.trade_good.normanbroadsword.desc=Caro, muito caro, e vale cada negador quando enfrenta um inimigo difícil.
+travelbook.trade_good.normanhelmet.desc=Um capacete normando adequado para um cavaleiro. Tão bom quanto diamante e muito menos pateta.
+travelbook.trade_good.normanhoe.desc=Basicamente equivalente a um diamante, mas parece mais frio.
+travelbook.trade_good.normanlegs.desc=Armadura pesada para as pernas, ao estilo normando.
+travelbook.trade_good.normanpickaxe.desc=Esta picareta minas tão rápido quanto um ouro e é tão durável quanto um ferro. Perfeito para aquelas longas expedições de mineração! Cuidado, porém, não é minha obsidiana.
+travelbook.trade_good.normanplate.desc=O conjunto Norman Armor oferece 50% a mais de proteção que o Iron e é tão durável quanto o de diamante, e na verdade faz você parecer perigoso em vez de se vestir para uma festa a fantasia.
+travelbook.trade_good.normanshovel.desc=Esta pá Norman de alta qualidade é tão durável quanto uma de ferro, mas é tão rápida quanto uma de ouro. A ferramenta de escolha para escavadoras sérias, disponível em uma Forge perto de você.
+travelbook.trade_good.obsidian.desc=Essa rocha vulcânica pode ser usada pelos maias para criar ferramentas e armas afiadas.
+travelbook.trade_good.painting.desc=Lindas pinturas para animar os quartos.
+travelbook.trade_good.paper.desc=Feito de junco ou arroz, o papel pode ser usado para vários fins de artesanato.
+travelbook.trade_good.paper_wall.desc=Shōji ou Washi é um papel usado para paredes, janelas e outros produtos.
+travelbook.trade_good.pathdirt.desc=Um caminho pré-pisado da vila. É como comprar um jeans pré-lavado.
+travelbook.trade_good.pathgravel.desc=Um caminho simples de cascalho, que pelo menos manterá a lama quando chove.
+travelbook.trade_good.pathgravelslabs.desc=Com lajes adicionadas sobre os cascalhos, esses caminhos são mais práticos e muito mais estéticos.
+travelbook.trade_good.pathochretiles.desc=Os tijolos bizantinos favoritos, agora disponíveis como caminho!
+travelbook.trade_good.pathsandstone.desc=O amor indiano pelo arenito se estende àqueles caminhos elegantes de lajes de arenito lisas.
+travelbook.trade_good.pathslabs.desc=Lajes de pedra resistentes e de boa aparência para fazer caminhos.
+travelbook.trade_good.pathsnow.desc=É o que acontece quando você anda na neve repetidamente.
+travelbook.trade_good.porkchops.desc=Uma costeleta de porco, pronta para ser cozida.
+travelbook.trade_good.porkchopscooked.desc=Uma costeleta de porco ligeiramente cozida demais, um alimento valioso na maioria das culturas.
+travelbook.trade_good.potato.desc=Delicioso e nutritivo, mas talvez um pouco mal feito.
+travelbook.trade_good.pumpkin.desc=Ninguém ainda pensou em esculpê-los, mas, enquanto isso, eles fazem boas tortas.
+travelbook.trade_good.purse.desc=Esta bolsa prática pode armazenar um número infinito de negadores! Perfeito para o milionário Millénaire.
+travelbook.trade_good.rabbit.desc=As pessoas costumam dizer que tem gosto de frango, mas para os inuits, na verdade, é o contrário.
+travelbook.trade_good.rasgulla.desc=Quente e xaroposo, rasgullas lhe dará a melhor corrida de açúcar. Eles também fazem um lanche noturno agradável para casais indianos.
+travelbook.trade_good.redflower.desc=Lindas flores vermelhas ideais para fazer corante vermelho.
+travelbook.trade_good.rice.desc=Nutritivo e polivalente, esse grão é apreciado pelos japoneses e pelos índios.
+travelbook.trade_good.rosette.desc=O resumo da arte do soprador de vidro, esta magnífica roseta ilumina igrejas e catedrais.
+travelbook.trade_good.rottenflesh.desc=Ore para que você nunca tenha fome o suficiente para isso.
+travelbook.trade_good.sake.desc=Vinho de arroz, é uma bebida alcoólica feita pela fermentação do arroz que foi polido para remover o farelo.
+travelbook.trade_good.sand.desc=De praias ou desertos, a areia é o ingrediente chave na produção de vidro.
+travelbook.trade_good.sandstone.desc=Um tipo bonito de pedra, comumente usado em várias culturas.
+travelbook.trade_good.sapling.desc=Um pequeno broto de carvalho, do qual plantar florestas poderosas.
+travelbook.trade_good.sapling_birch.desc=Uma muda de bétula, para produzir madeira branca e fina.
+travelbook.trade_good.sapling_pine.desc=Um pequeno broto de abeto, para as suas necessidades de plantio de taiga.
+travelbook.trade_good.seafood_cooked.desc=Carne de peixe cozida. É bom para quando você está com fome, mas também deseja frutos do mar.
+travelbook.trade_good.seafood_raw.desc=Carne de peixe cru, geralmente é melhor cozinhar isso antes de comê-lo.
+travelbook.trade_good.seeds.desc=Sementes de trigo selvagem, o primeiro passo no caminho para um império multinacional de panificação.
+travelbook.trade_good.silk.desc=Entre os recursos mais valiosos do mundo, mas ninguém sabe como usá-lo.
+travelbook.trade_good.skoll_hati_amulet.desc=Tirando seu poder de Sköll e Rati, os grandes lobos que perseguem o Sol e a Lua, este amuleto permite que seu usuário transforme o dia em noite e a noite em dia.
+travelbook.trade_good.snowbrick.desc=Neve embalada em um material de construção versátil. Todos os inuítes são treinados para criar tijolos de neve.
+travelbook.trade_good.snowwall.desc=Ótimo para esgrima ou para lutas de bolas de neve!
+travelbook.trade_good.sod_acacia.desc=As pranchas de grama, que são embaladas em madeira e sujeira, produzem materiais de construção duráveis e quentes e um elemento básico da arquitetura inuit.
+travelbook.trade_good.sod_birch.desc=As pranchas de grama, que são embaladas em madeira e sujeira, produzem materiais de construção duráveis e quentes e um elemento básico da arquitetura inuit.
+travelbook.trade_good.sod_dark_oak.desc=As pranchas de grama, que são embaladas em madeira e sujeira, produzem materiais de construção duráveis e quentes e um elemento básico da arquitetura inuit.
+travelbook.trade_good.sod_jungle.desc=As pranchas de grama, que são embaladas em madeira e sujeira, produzem materiais de construção duráveis e quentes e um elemento básico da arquitetura inuit.
+travelbook.trade_good.sod_oak.desc=As pranchas de grama, que são embaladas em madeira e sujeira, produzem materiais de construção duráveis e quentes e um elemento básico da arquitetura inuit.
+travelbook.trade_good.sod_spruce.desc=As pranchas de grama, que são embaladas em madeira e sujeira, produzem materiais de construção duráveis e quentes e um elemento básico da arquitetura inuit.
+travelbook.trade_good.souvlaki.desc=Um pedaço de carne de carneiro grelhado e queijo feta. Simples, mas delicioso.
+travelbook.trade_good.spidereye.desc=Um troféu medonho de propósito incerto.
+travelbook.trade_good.stained_glass_green_blue.desc=Trabalho de vidro chique para edifícios de luxo.
+travelbook.trade_good.stained_glass_red_blue.desc=Trabalho de vidro chique para edifícios de luxo.
+travelbook.trade_good.stained_glass_white.desc=Mais primitivo que os painéis de janela padrão, mas dá uma sensação mais aconchegante!
+travelbook.trade_good.stained_glass_yellow.desc=Tingido de amarelo, para uma aparência mais imponente.
+travelbook.trade_good.stained_glass_yellow_red.desc=O que poderia ser mais sofisticado do que os vitrais nas cores da Normandia?
+travelbook.trade_good.steelaxe.desc=Um machado de ferro resistente e eficiente que tornará os madeireiros de todas as culturas mais eficientes.
+travelbook.trade_good.steelboots.desc=Botas de prato cheio; proteção pesada mas boa por um preço baixo.
+travelbook.trade_good.steelchest.desc=Armadura simples, eficaz e muito pesada.
+travelbook.trade_good.steelhelmet.desc=Um capacete básico de ferro, sem estilo ou origem específicos.
+travelbook.trade_good.steelhoe.desc=Uma enxada de aço deve ser suficiente para qualquer agricultor.
+travelbook.trade_good.steellegs.desc=Surpreendentemente, as perneiras de ferro não atrapalham a mobilidade, oferecendo proteção muito decente.
+travelbook.trade_good.steelpickaxe.desc=Sua picareta básica de ferro, o companheiro confiável, mas um pouco chato, dos mineiros indianos e jogadores moderadamente avançados de Minecraft.
+travelbook.trade_good.steelshovel.desc=Esta pá barata e eficaz espalhará muito a terra necessária para novas construções.
+travelbook.trade_good.steelsword.desc=Uma lâmina de ferro afiada, idealmente mantida entre você e zumbis famintos por cérebro.
+travelbook.trade_good.stone.desc=Cozida para devolver sua superfície lisa, a pedra é usada como material de construção em todo o mundo. Também pode ser facilmente transformado em tijolos de pedra sólidos.
+travelbook.trade_good.stoneaxe.desc=Um machado de pedra básico. Melhor do que nada quando você não tem acesso ao metal.
+travelbook.trade_good.stonehoe.desc=Uma enxada de pedra exigirá reparos frequentes, mas é suficiente para a agricultura de subsistência.
+travelbook.trade_good.stonepickaxe.desc=Uma picareta de pedra para minerar pedra? Tem que haver uma maneira melhor.
+travelbook.trade_good.stoneshovel.desc=O acesso às pás de pedra acelerará a preparação das fundações ... até que algo melhor aconteça.
+travelbook.trade_good.stonesword.desc=Fazer uma espada de pedra já é milagroso, não espere que dure também.
+travelbook.trade_good.sugarcane.desc=Os índios colhem cana-de-açúcar pelo seu valioso açúcar, necessário para a criação de Rasgulla.
+travelbook.trade_good.summoningwand.desc=Uma varinha de poderes mágicos que permite ao usuário convocar uma vila e um elogio dos moradores do nada! Use um bloco de obsidiana para uma vila aleatória ou um bloco de ouro para uma vila de sua escolha.
+travelbook.trade_good.tachisword.desc=Tachi são espadas muito altas e prejudiciais que podem causar ataques críticos.
+travelbook.trade_good.tapestry.desc=Feitas à mão pela Dama do Forte em pessoa, essas tapeçarias épicas vão decorar os salões bancários mais suntuosos. Os desenhos são tirados da Tapeçaria de Bayeux, com a maior representação maciça de 15 * 3 da frota de Guilherme, o Conquistador, navegando para a Inglaterra.
+travelbook.trade_good.thatch.desc=Thatch, é uma cobertura de telhado feita de palha, junco, folhas de palmeira ou outro material semelhante.
+travelbook.trade_good.timberframecross.desc=Essa estrutura robusta de madeira é amplamente utilizada em edifícios normandos e japoneses.
+travelbook.trade_good.timberframeplain.desc=Essa estrutura robusta de madeira é amplamente utilizada em edifícios normandos e japoneses.
+travelbook.trade_good.tripes.desc=Este famoso prato normando é exatamente o que você deve ter depois de um longo tempo trabalhando lá fora no frio, ou após uma queda desagradável no Minecraft. Os não-normandos tendem a se divertir mais antes de saberem o que é. Você foi avisado.
+travelbook.trade_good.turmeric.desc=Este tempero saboroso é necessário para a criação de Murgh Curry e Vegetarian Curry. Você precisará pedir a um líder indiano da cidade para ensiná-lo a plantá-lo em terras irrigadas.
+travelbook.trade_good.udon.desc=Udon é uma sopa japonesa tradicional de macarrão feita com farinha de trigo. Ótimo após longas viagens e precisando de uma refeição quente.
+travelbook.trade_good.ulu.desc=Uma faca de neve, projetada para ajudar o usuário a esculpir tijolos de neve com neve e gelo não esculpidos.
+travelbook.trade_good.vegcurry.desc=Temperado com bastante especiarias, o arroz suave pode ser transformado neste curry vegetariano nutritivo e saudável.
+travelbook.trade_good.wah.desc=Uma tortilla de milho cheia de frango, perfeita para um lanche em movimento.
+travelbook.trade_good.wheat.desc=O cereal mais comum em grandes partes do mundo, pode ser transformado em pão ou macarrão.
+travelbook.trade_good.winebasic.desc=Os manipuladores tentam vendê-los como vinho Malvasia. Não é tão delicioso, mas serve para propiciar noites sociáveis das quais você pode se arrepender.
+travelbook.trade_good.winefancy.desc=Somente aldeias bizantinas são capazes de vinificar com tanta perfeição. Quase valioso demais para ser consumido.
+travelbook.trade_good.wolfmeat_cooked.desc=Carne de animal que foi cozida. Não é a carne mais saborosa, mas é melhor do que nenhuma carne.
+travelbook.trade_good.wolfmeat_raw.desc=Carne de animais crus. Tem um sabor melhor quando cozido.
+travelbook.trade_good.wood.desc=Madeira de carvalhos mágicos que também dá maçãs. Útil para todo o tipo de construções.
+travelbook.trade_good.wood_acacia.desc=Esta delicada madeira rosa é particularmente apreciada pelos índios.
+travelbook.trade_good.wood_any.desc=Os moradores podem usar qualquer tipo de madeira para algum uso, como fazer tochas ou baús.
+travelbook.trade_good.wood_birch.desc=Uma madeira de cor clara muito apreciada em algumas culturas.
+travelbook.trade_good.wood_darkoak.desc=Esta madeira escura de enormes carvalhos acrescenta personalidade aos edifícios.
+travelbook.trade_good.wood_jungle.desc=Uma madeira rica e preciosa de árvores da selva, amada pelos maias.
+travelbook.trade_good.wood_pine.desc=A madeira de abeto é muito usada por culturas de climas mais frios.
+travelbook.trade_good.wool_black.desc=Lã preta, natural ou tingida.
+travelbook.trade_good.wool_blue.desc=A lã tingiu de azul, muito apreciada por sua cor vívida.
+travelbook.trade_good.wool_brown.desc=Lã manchada de chocolate, por mais estranha que pareça.
+travelbook.trade_good.wool_cyan.desc=Can't decide between blue or green wool? Try cyan!
+travelbook.trade_good.wool_gray.desc=Um tom chato de lã cinza.
+travelbook.trade_good.wool_green.desc=Um tom de lã verde-escura.
+travelbook.trade_good.wool_lightblue.desc=Um belo tom de azul claro.
+travelbook.trade_good.wool_lightgray.desc=Um tom muito claro de lã cinza.
+travelbook.trade_good.wool_limegreen.desc=Um tom verde claro de lã.
+travelbook.trade_good.wool_magenta.desc=Um tom magenta bastante chamativo de lã.
+travelbook.trade_good.wool_orange.desc=Um tom brilhante e berrante de lã laranja.
+travelbook.trade_good.wool_pink.desc=Um tom quente de lã rosa.
+travelbook.trade_good.wool_purple.desc=Uma sombra profunda e real de lã roxa.
+travelbook.trade_good.wool_red.desc=Um tom bonito e profundo de lã vermelha.
+travelbook.trade_good.wool_white.desc=Lã branca comum, usada como é ou para tingir.
+travelbook.trade_good.wool_yellow.desc=Um tom ensolarado de lã amarela.
+travelbook.trade_good.yellowflower.desc=Essas flores amarelas ensolaradas podem iluminar um jardim ou transformar-se em corante.
+travelbook.trade_good.yggdrasil_amulet.desc=Este amuleto de origem incerta exibe Yggdrasil, a Árvore do Mundo. Com ele equipado, um mineiro sempre saberá o quão profundo ele é.
+travelbook.trade_good.yumibow.desc=Yumi é uma arma de alcance de corda de alta resistência; que podem disparar com mais rapidez e precisão ao atingir alvos.
+travelbook.trade_good.mayanstatue.desc=Esculturas maciças de deuses maias temíveis, cuidadosamente esculpidas em pedra e arenito.
+travelbook.trade_good.banner_white.desc=Ninguém sabe como os construtores são capazes de tingir em qualquer cor enquanto os coloca.
+
+travelbook.trade_good.brick.desc=O tijolo é o resultado de cozinhar argila.
+
+travelbook.trade_good.byzantine_fresco.desc=Camadas finas de tinta no quartzo fazem esse bloco parecer uma fatia do céu.
+
+travelbook.trade_good.byzantine_mosaic.desc=Um padrão colorido feito de cacos de diorito tingidos, destinados a pisos bonitos.
+
+travelbook.trade_good.byzpattern.desc=A famosa águia bizantina, que é absolutamente mais fria que a cópia seljúcida.
+
+travelbook.trade_good.byzpattern1.desc=Um padrão Meandro para obter uma boa aparência grega em seus banners.
+
+travelbook.trade_good.byzpattern2.desc=Um padrão Meandro para obter um banner parecido com uma toalha turística grega.
+
+travelbook.trade_good.carpet_black.desc=Um tapete preto escuro, para quando o piso de carvalho escuro não for escuro o suficiente para você.
+
+travelbook.trade_good.carpet_brown.desc=Um tapete marrom bem feito, com o benefício adicional de que a sujeira é basicamente invisível.
+
+travelbook.trade_good.carpet_cyan.desc=Um tapete ciano brilhante, que adiciona um toque exótico aonde quer que seja colocado.
+
+travelbook.trade_good.carpet_gray.desc=Um elegante tapete cinza, que funciona bem para obter uma aparência moderna.
+
+travelbook.trade_good.carpet_green.desc=Um animado tapete verde, que adiciona um toque natural aos pisos.
+
+travelbook.trade_good.carpet_light blue.desc=Um tapete azul claro, que dá a sensação de andar no céu.
+
+travelbook.trade_good.carpet_lightgray.desc=Um tapete azul claro, que dá a sensação de andar no céu.
+
+travelbook.trade_good.carpet_magenta.desc=Um lindo tapete magenta, perfeito para entrar no mercado de celulares.
+
+travelbook.trade_good.carpet_orange.desc=Um delicioso tapete laranja, uma nova opção para quartos levemente.
+
+travelbook.trade_good.carpet_pink.desc=Um tapete rosa bonito, acrescentando um visual feminino em um edifício.
+
+travelbook.trade_good.carpet_purple.desc=Um tapete roxo extravagante, uma ótima opção para salas de importância imperial.
+
+travelbook.trade_good.chainboots.desc=Apesar dos buracos entre as correntes, seus pés ficam secos ao caminhar na água com elas.
+
+travelbook.trade_good.chainchest.desc=Uma ótima opção para comprometer a proteção enquanto mostra sua pele bonita.
+
+travelbook.trade_good.chainhelmet.desc=Minimalista e estranho na aparência, este capacete fornece proteção, no entanto.
+
+travelbook.trade_good.chainlegs.desc=Peça de perna estranha, mas bastante difícil de encontrar.
+
+travelbook.trade_good.diorite.desc=Uma pedra branca granular. Cuidado: Pode conter vestígios de quartzo Nether.
+
+travelbook.trade_good.gravel.desc=Paralelepípedos de baixa qualidade.
+
+travelbook.trade_good.ironnugget.desc=A pepita de ferro é para golens de ferro o que as pepitas de galinha são para os seres humanos.
+
+travelbook.trade_good.oliveoil.desc=Um produto de exportação bizantino popular. Magicamente aumenta a fertilidade da aldeia de alguma forma.
+
+travelbook.trade_good.olives.desc=Uma adição delicada às refeições, embora certamente nem todo mundo goste delas.
+
+travelbook.trade_good.quartz.desc=Entre as lembranças mais populares do Nether!
+
+travelbook.trade_good.smooth_diorite.desc=Após um bom polimento, o diorito funciona muito bem para pisos.

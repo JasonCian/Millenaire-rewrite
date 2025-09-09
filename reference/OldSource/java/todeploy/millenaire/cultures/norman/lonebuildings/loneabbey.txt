@@ -1,0 +1,28 @@
+name=Abbaye isolée
+icon=stained_glass_red_blue
+weight=10
+radius=15
+
+//Vanilla biomes
+biome=Flower Forest
+biome=Forest
+biome=Sunflower Plains
+biome=Plains
+biome=Birch Forest
+biome=Roofed Forest
+
+mindistancefromspawn=1000
+
+//biomes o'plenty
+biome=boreal forest
+biome=cherry blossom grove
+biome=flower field
+biome=lavender fields
+biome=mystic grove
+biome=orchard
+biome=sacred springs
+
+namelist=loneabbeys
+
+//starting buildings=
+centre=loneabbey

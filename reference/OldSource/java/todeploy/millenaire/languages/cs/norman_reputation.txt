@@ -1,0 +1,15 @@
+
+0;Cizinec;Jsme tu ostraziti vuci cizim, novacku. Ale chovej se zde slusne a najdes tu pohostinne lidi.
+4*64;Znamost;Uz jsme te tu predtim videli a zda se, ze nam zadna kurata nezmizela. Jen tak dale a budeme spolu dobre vychazet.
+8*64;Znama tvar; Vazne jsi na nas udelal dobry dojem.
+16*64;Pravidelny navstevnik;Vitej, $name! Rad te zase vidim.
+32*64;Pruzkumnik; Hah, vypada to ze jste take uvezneny v tomto svete, spolecne muzeme toto misto prozkoumat a oba z toho neco ziskat.
+64*64;Oblibeny obchodnik;Oh, $name! Cela vesnice ocekavala tvuj navrat.
+2*64*64;Pritel vesnice;My Normane jsme znami tim, ze neni lehke ziskat nase pratelstvi. $name, priteli, ty jsi ale opravdu ukazal, ze ti muzeme verit!
+4*64*64;Spojenec;Vsichni potrebuji spojence v tomto podivnem svete, spolehni se na nas za to jak jsi nam tu pomohl.
+8*64*64;Jeden z nas;Je poteseni te zase videt, $name. Muzes pochazet z dalekych zemi, ale ted jsi jeden z nas.
+32*64*64;Prirozeny vudce;$name, ziskal si duveru a respekt meho lidu. Budou te nasledovat kamkoliv.
+16*32*64*64;Naslednik Kinnikena;
+-64;Protiva;Sledujeme te, $name. Bud na pozoru!
+-4*64;Neprijemny outsider;Ukazal jsi, ze jsi tady opravdu na obtiz. Bud rad, ze jsme te odsud jeste nevyhodili.
+-16*64;Verejny nepritel;Tvoje pritomnost je tu stezi tolerovana. Jeden spatny pohyb a je konec!

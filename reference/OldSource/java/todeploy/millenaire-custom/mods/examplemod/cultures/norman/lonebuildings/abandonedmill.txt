@@ -1,0 +1,15 @@
+name=Moulin abandonné
+weight=15
+radius=10
+
+biome=forest
+biome=plains
+biome=foresthills
+
+//extraBiomes mod
+biome=forested hills
+biome=autumn woods
+biome=green hills
+
+//starting buildings=
+centre=abandonedmill

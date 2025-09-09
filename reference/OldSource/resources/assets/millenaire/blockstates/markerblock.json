@@ -1,0 +1,18 @@
+{
+	"forge_marker": 1,
+    "variants": {
+        "normal": {"model": "millenaire:markerBlock"},
+        "variant=preserveground": { "model": "millenaire:preserveground" },
+        "variant=sleepingpos": { "model": "carpet_white" },
+        "variant=sellingpos": { "model": "carpet_blue" },
+        "variant=craftingpos": { "model": "carpet_brown" },
+        "variant=defendingpos": { "model": "carpet_red" },
+        "variant=shelterpos": { "model": "carpet_cyan" },
+        "variant=pathstartpos": { "model": "carpet_purple" },
+        "variant=leisurepos": { "model": "carpet_orange" },
+        "variant=stall": { "model": "carpet_pink" },
+        "variant=brickspot": { "model": "carpet_gray" },
+        "variant=healingspot": { "model": "carpet_lime" },
+        "variant=fishingspot": { "model": "carpet_light_blue" }
+    }
+}

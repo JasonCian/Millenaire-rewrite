@@ -1,0 +1,19 @@
+
+Wersja: 3.4
+<darkblue> FAQ (Często Zadawanie Pytania)
+<darkblue> Osadnicy mówią w innym języku niż moja gra. Czy to normalne?
+Osadnicy w Millenaire mówią w "swoich" językach, na przykład po francusku, hindusku lub łacinie. Poprzez handel i zadania można się powoli "uczyć" języka. Najpierw nauczysz się nazw budynków, później typów osadników, i na końcu będziesz w stanie zrozumieć rozmowy innych.
+<darkblue> Moja Normańska wioska potrzebuje drewnianych ram, a nie mogę ich stworzyć. Co robić?
+Drewniane ramy są tworzone przez cieślę z drewna. Poczekaj aż wioska zbuduje dom cieśli, i kiedy w tym domu cieśla zamieszka. Cierpliwości!
+<darkblue> Moja Japońska wioska potrzebuje strzechy, jednak nie mogę jej stworzyć.
+Japończycy produkują strzechę z pszenicy. Jeśli nie zbierają jej wystarczająco dużo, możesz im trochę jej sprzedać, by przyśpieszyć produkcję.
+<darkblue> Zbudowałem dom blisko wioski, ale osadnicy go zniszczyli budując coś innego. Czy to normalne?
+Tak. ziemia wokół wioski należy do nich, sprawdź mapę by zobaczyć jej granice. Jeśli chcesz budować w wiosce, kup od wodza działkę.
+<darkblue> Niektórzy osadnicy są martwi. Odrodzą się?
+Tak, osadnicy odradzają się każdej nocy, krótko po zachodzie słońca. Po prostu unikaj spania odrazu.
+<darkblue> Osadnicy nie mają dzieci, a te istniejące nie dorastają. Co się dzieje?
+Nowe dzieci mogą się pojawić kiedy małżeństwo jest w domu w nocy. Podobnie, dzieci rosną tylko w nocy w domu. Niektóre pokarmy ( napoje, słodycze) zwiększają szanse na posiadanie dzieci, a inne (chleby i zboża) na prędkość dorastania.
+<darkblue> Budynek w wiosce został uszkodzony, czy osadnicy go naprawią?
+Nie. Osadnicy nie naprawiają budowli ( chyba że następne ulepszenia zastępują brakujące bloki) głównie z problemami z optymalizacją. Musisz naprawić je osobiście.
+<darkblue> Wiosce brakuje miejsca, jak mogę pomóc?
+Po spojrzeniu na mapę wioski zobaczysz miejsca gdzie nie można budować. Zasypując jezioro, rzekę lub kanion wystarczającą warstwą ziemi pozwala osadnikom na budowę.

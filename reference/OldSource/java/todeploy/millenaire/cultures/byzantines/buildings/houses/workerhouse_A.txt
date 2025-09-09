@@ -1,0 +1,21 @@
+building.length=10
+building.width=10
+building.buildingorientation=1
+building.max=2
+building.icon=stoneshovel
+building.areatoclear=3
+
+initial.startlevel=-1
+initial.nativename=Oikía Ergatón
+initial.priority=100
+initial.male=worker_byzantine
+initial.female=artisanwife_byzantine
+
+upgrade1.priority=200
+
+upgrade2.priority=200
+upgrade2.pathlevel=1
+
+upgrade3.priority=200
+
+upgrade4.priority=100

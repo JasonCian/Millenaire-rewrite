@@ -1,0 +1,12 @@
+//Parameters for the building as a whole
+building.length=9
+building.width=17
+building.buildingorientation=3
+building.startinggood=denier,1.0,10,10
+building.startinggood=denierargent,0.5,1,3
+building.icon=sapling
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Yashiro
+

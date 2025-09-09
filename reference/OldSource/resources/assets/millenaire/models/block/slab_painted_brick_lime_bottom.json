@@ -1,0 +1,9 @@
+{
+    "parent": "block/half_slab",
+    "textures": {
+        "bottom": "millenaire:blocks/painted_brick_lime",
+        "top": "millenaire:blocks/painted_brick_lime",
+        "side": "millenaire:blocks/painted_brick_lime",
+        "particle" : "millenaire:blocks/painted_brick_lime"
+    }
+}

@@ -1,0 +1,10 @@
+0;Fremder;Wir vertrauen Fremden nicht so leicht. Leg Dein bestes Benehmen an den Tag.
+4*64;Bekanntes Gesicht;Wir haben Dich schon öfter hier gesehen, aber das heißt nicht, das wir Dir trauen.
+16*64;Regelmäßiger Besucher;Wie war Deine Reise $name?
+64*64;Bevorzugter Händler;Ah, $name, in den Augen der Dorfbewohner mußt Du einen langen Weg zurückgelegt haben.
+2*64*64;Freund des Dorfes;Hallo Freund, was können wir heute für Dich tun?
+8*64*64;Einer von uns;Hallo, $name, wir haben Deine Rückkehr mit großer Vorfreude erwartet.
+32*64*64;Geborener Anführer;$name, Du hast Dir den Respekt und das Vertrauen meines Volkes verdient. Sie werden Dir überall hin folgen.
+-64;Ärgernis;Ach Du bist es, was willst Du?
+-4*64;Unangenehmer Außenseiter;Verlasse unser Dorf, Du Schwein!
+-16*64;Staatsfeind;Wie kannst Du es wagen, Dich hier blicken zu lassen? Stelle Dich Deiner Bestrafung!

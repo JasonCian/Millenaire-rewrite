@@ -1,0 +1,16 @@
+
+priority=50
+buildingTag=kitchen
+
+sentencekey=cookFish
+labelkey=cookFish
+
+townhallgoal=false
+
+itemtocook=fishraw
+
+buildinglimit=fishcooked,60
+
+minimumtocook=3
+
+helditems=fishcooked

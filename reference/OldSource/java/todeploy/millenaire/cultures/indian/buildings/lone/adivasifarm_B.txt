@@ -1,0 +1,16 @@
+//Parameters for the building as a whole
+building.length=8
+building.width=10
+building.areatoclear=1
+building.buildingorientation=3
+building.showtownhallsigns=false
+building.icon=rice
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Adivasi Ka Ghar
+initial.priority=5
+initial.male=indian_adivasipeasant
+initial.female=indian_adivasipeasantwife
+initial.shop=adivasifarm
+

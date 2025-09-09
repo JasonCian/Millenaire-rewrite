@@ -1,0 +1,16 @@
+//* La parte antes del ";" es el título, después va la descripción.
+
+0;Extraño;No estamos acostumbrados a ver extranjeros en nuestra remota aldea.
+4*64;Conocido;De momento has respetado todas nuestras costumbres.
+8*64;Cara Conocida;Parece que has creado una buena primera impresión en muchos de nosotros. Continúa y ambos nos beneficiaremos.
+16*64;Visitante Regular;¡Namasté, $name!¿Qué noticias nos traes?
+32*64;Socio Vecino;Aunque no seas perfecto, reconocemos que has sido un buen vecino $name-ji. Disfrutamos de tu compañía.
+64*64;Mercader Favorito;Bienvenido de nuevo, $name. ¿Qué nos traes para comerciar?
+2*64*64;Amigo de la Aldea;$name-ji, todos aquí te consideramos como un gran amigo.
+4*64*64;Aliado de la Aldea;¡Eres un verdadero aliado de esta aldea $name-ji! Si alguna vez necesitas refugio, te puedes quedar en nuestro poblado.
+8*64*64;Uno de los Nuestros;Nunca pensé vivir para ver a un extranjero ser aceptado en la aldea, pero $name-ji, ¡ahora eres uno de los nuestros!
+32*64*64;Líder Natural;$name-ji, te has ganado la confianza y el respeto de mi gente. Te seguirán a donde vayas.
+4*32*64*64;Rajput Sobresaliente;¡El pueblo indio está extremadamente contento de que hayas decidido quedarte con ellos y ayudarles con sus problemas!Por si no te has dado cuenta, hemos creado otras 5 increíbles culturas que probablemente te darán una mejor recompensa que un mediocre y decepcionante mensaje.
+-64;Molestia;Aquí no nos gustan los extranjeros, especialmente los de tu calaña.
+-4*64;Forastero Indeseable;Quien te haya criado hizo un trabajo terrible. Esperamos que te vayas lo antes posible.
+-16*64;Enemigo Público;Cada mañana le ruego a la Diosa no volver a ver tu cara.

@@ -1,0 +1,11 @@
+
+0;Cizinec;Cizincum moc neverime. Chovej se jak nejlepe umis.
+4*64;Znama tvar;Uz jsme te tu predtim videli, ale to neznamena ze ti verime.
+16*64;Pravidelny navstevnik;Jake byly cesty, $name?
+64*64;Oblibeny obchodnik;V ocich vesnice si usel dlouhou cestu, $name.
+2*64*64;Pritel osady;Zdravim te priteli, co pro tebe muzeme dnes udelat?
+8*64*64;Jeden z nas;Je poteseni te zase videt, $name. Muzes pochazet z dalekych zemi, ale ted jsi jeden z nas.
+32*64*64;Prirozeny vudce;$name, ziskal si duveru a respekt meho lidu. Budou te nasledovat kamkoliv.
+-64;Protiva;Aha ... to jsi ty ... co chces?
+-4*64;Neprijemny outsider;Okamzite vypadni z vesnice, parchante!
+-16*64;Verejny nepritel;Jak se opovazujes se tady objevit. Cel svemu trestu!

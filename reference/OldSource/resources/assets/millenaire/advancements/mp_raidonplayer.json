@@ -1,0 +1,20 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:gold_ingot"
+        },
+        "title": {
+            "translate": "advancements.mp_raidonplayer.name"
+        },
+        "description": {
+            "translate": "advancements.mp_raidonplayer.desc"
+        },
+        "frame": "goal"
+    },
+    "parent": "millenaire:mp_hiredgoon",
+    "criteria": {
+        "main": {
+            "trigger": "mp_raidonplayer"
+        }
+    }
+}

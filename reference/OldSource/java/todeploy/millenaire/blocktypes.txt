@@ -1,0 +1,25 @@
+// material types and specific block names that can be used to mark a location as forbidden for building.
+// blocks with tile entities will automatically be treated as forbidden.
+forbidden_materials=iron,anvil,sponge,glass,circuits,redstone_light,ice,packed_ice,dragon_egg,portal,water,lava,tnt
+forbidden_blocks=minecraft:cobblestone,minecraft:brick_block,millenaire:earth_deco,millenaire:stone_deco,millenaire:wood_deco,minecraft:planks
+forbidden_exceptions=minecraft:torch,minecraft:glowstone,minecraft:sea_lantern
+
+// material types and specific block names that can be considered ground to build on (if not forbidden), or for checking reachability.
+ground_materials=grass,ground,rock,sand,crafted_snow,clay
+ground_blocks=
+ground_exceptions=millenaire:earth_deco,millenaire:wet_brick
+
+// material types and specific block names that are dangerous.
+danger_materials=fire,lava,tnt,cactus
+danger_blocks=
+danger_exceptions=
+
+// material types and specific block names that are treated like water.
+water_materials=water
+water_blocks=
+water_exceptions=
+
+// material types and specific block names that can be replaced with paths.
+path_replaceable_materials=grass,ground,sand,clay
+path_replaceable_blocks=minecraft:hardened_clay
+path_replaceable_exceptions=millenaire:earth_deco,millenaire:wet_brick

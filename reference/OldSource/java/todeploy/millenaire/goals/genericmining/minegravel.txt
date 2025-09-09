@@ -1,0 +1,13 @@
+priority=30
+priorityrandom=10
+
+
+townhalllimit=gravel,1024
+
+sourceblockstate=minecraft:gravel
+
+loot=gravel,1
+
+sentencekey=mining
+
+range=4

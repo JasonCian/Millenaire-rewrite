@@ -1,0 +1,29 @@
+
+architect_byzantine.construction=$name! รู้เปล่าว่าพวกเราคือศิลปินที่เก่งที่สุด
+architect_byzantine.construction=$name! ดูพวกเราสร้างบ้านสวยๆ นะ!
+architect_byzantine.construction=สิ่งนี้ต้องสวยงามแน่นอน
+architect_byzantine.construction=มันยังสร้างไม่เสร็จ, แต่ฉันมองเห็นความสวยงามแล้ว
+architect_byzantine.construction=ฉันชอบสร้างบ้าน เพราะมันเป็นแรงบันดาลใจในชีวิต
+architect_byzantine.construction=กรุงโรมไม่ได้สร้างมาในวันเดียว, มันสร้างเป็นปี
+architect_byzantine.construction=สิ่งก่อสร้างพวกเราสวยที่สุดในโลก
+architect_byzantine.construction=การสร้างในโรมันคือสิ่งที่ดีที่สุด
+architect_byzantine.construction=นายชอบแนวทางของฉันไหม
+architect_byzantine.construction=ฉันเริ่มสร้างสิ่งก่อสร้างตั้งแต่เด็ก
+architect_byzantine.getresourcesforbuild=หมู่บ้านพวกเราไปเอาวัสดุมาจากไหนนิ?
+architect_byzantine.getresourcesforbuild=ฉันต้องการบล๊อกสวยๆมาสร้างบ้าน
+architect_byzantine.getresourcesforbuild=สิ่งก่อสร้างคือชีวิตของฉัน
+architect_byzantine.getresourcesforbuild=ฉันต้องเลือกบล๊อกดีๆ มาสร้างบ้าน
+architect_byzantine.getresourcesforbuild=ทำไมนายถือของได้เยอะจัง $name?
+
+architect_byzantine.getresourcesforbuild=สิ่งที่แย่ที่สุดในการสร้างคือ หาวัสดุ!
+architect_byzantine.godrink=ฉันเหนื่อยแล้ว, ขอไวน์หน่อย
+architect_byzantine.godrink=ไวน์คือชีวิต!
+architect_byzantine.godrink=นักสร้างที่ดีต้องดื่มไวน์!
+architect_byzantine.godrink=การสร้างทำให้ฉันหิวไวน์
+architect_byzantine.gopray=หวังว่าพระเจ้าจะนำแรงจูงใจมาให้
+architect_byzantine.gopray=ทำไมพระเจ้าถึงชอบคนแบบเม้ง
+architect_byzantine.gopray=การสวดมนต์คือสิ่งที่สำคัญ
+architect_byzantine.gopray=เขาเข้าใจการแก้ปัญหานะ
+architect_byzantine.gorest=ถ้าฉันไม่หลับ ฉันจะง่วง
+architect_byzantine.gorest=ฉันจะง่วงถ้าฉันสร้างมากเกินไป
+architect_byzantine.gorest=มันยากที่จะสร้างบ้านตอนกลางคืน

@@ -1,0 +1,13 @@
+//Parameters for the building as a whole
+building.length=8
+building.width=8
+building.icon=dirt
+building.travelbook_display=false
+building.max=0
+
+//Parameters for initial construction
+initial.startlevel=-7
+initial.nativename=Ch'en
+initial.priority=400
+initial.pathlevel=1
+

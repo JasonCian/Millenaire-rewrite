@@ -1,0 +1,21 @@
+{
+	"forge_marker": 1,
+    "variants": {
+        "rotation=0": { "model": "millenaire:empty" },
+        "rotation=1": { "model": "millenaire:empty" },
+        "rotation=2": { "model": "millenaire:empty" },
+        "rotation=3": { "model": "millenaire:empty" },
+        "rotation=4": { "model": "millenaire:empty" },
+        "rotation=5": { "model": "millenaire:empty" },
+        "rotation=6": { "model": "millenaire:empty" },
+        "rotation=7": { "model": "millenaire:empty" },
+        "rotation=8": { "model": "millenaire:empty" },
+        "rotation=9": { "model": "millenaire:empty" },
+        "rotation=10": { "model": "millenaire:empty" },
+        "rotation=11": { "model": "millenaire:empty" },
+        "rotation=12": { "model": "millenaire:empty" },
+        "rotation=13": { "model": "millenaire:empty" },
+        "rotation=14": { "model": "millenaire:empty" },
+        "rotation=15": { "model": "millenaire:empty" }
+    }
+}

@@ -1,0 +1,12 @@
+priority=50
+
+requiredTag=slaughtercowseljuk
+
+sentencekey=slaughteranimal
+labelkey=slaughtercow
+
+animalkey=cow
+
+bonusitem=bone,100
+
+maxsimultaneoustotal=1

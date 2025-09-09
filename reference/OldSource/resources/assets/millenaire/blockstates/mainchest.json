@@ -1,0 +1,9 @@
+{
+  "variants": {
+    "normal": { "model": "millenaire:mainchest" },
+    "facing=north": { "model": "millenaire:mainchest" },
+    "facing=south": { "model": "millenaire:mainchest", "y": 180},
+    "facing=east": { "model": "millenaire:mainchest", "y": 90},
+    "facing=west": { "model": "millenaire:mainchest", "y": 270}
+  }
+}

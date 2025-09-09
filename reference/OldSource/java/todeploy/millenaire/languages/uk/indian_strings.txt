@@ -1,0 +1,35 @@
+culture.indian = Хінді (Індуси)
+
+villager.indian_boy = Хлопчик
+villager.indian_girl = Дівчинка
+villager.indian_teenagerMale = Юнак
+villager.indian_teenagerFemale = Дівчина
+villager.indian_lumberman = Дроворуб
+villager.indian_miner = Шахтар
+villager.indian_pandit = Жрець
+villager.indian_peasant = Селянин
+villager.indian_peasantwife = Селянка
+villager.indian_rajputgeneral = Генерал Раджпут
+villager.indian_richwoman = Багата жінка
+villager.indian_soldier = Солдат Раджпута
+villager.indian_villagechief = Вождь
+villager.indian_smith = Коваль
+villager.indian_armysmith = Зброяр
+villager.indian_sculptor = Різьбяр по каменю
+villager.indian_panditayin = Дружина жерця
+villager.indian_raja = Раджа
+villager.indian_rani = Королева рані
+villager.indian_merchant = Купець
+villager.indian_lonetrader = Самотній торговець
+villager.indian_adivasipeasant = Селянин абориген
+villager.indian_adivasipeasantwife = Селянка абориген
+villager.indian_sadhu = Мудрець Садху
+villager.merchant_oriental = Перська купець
+villager.merchant_adivasi = Купець абориген
+villager.merchant_villagewoman = Купчиха
+
+shop.townhall = Головний ринок
+shop.forge = Інструменти
+shop.armyforge = Броня і зброя
+shop.adivasifarm = Продукти Хінді
+shop.deserttradeoutpost = Коштовності

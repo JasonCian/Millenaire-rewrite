@@ -1,0 +1,7 @@
+sells=winefancy,winebasic,cooked_mutton,feta,souvlaki,fishcooked,beefcooked,porkchopscooked,chickenmeatcooked
+
+buys=winebasic,grapes,mutton,feta,fishraw,beefraw,chickenmeat,porkchops
+
+buysoptional=winefancy,sake,cacauhaa,cider,calva,rasgulla,cake,cookie,souvlaki,cooked_mutton,tripes,boudin,wah,masa,chickencurry,vegcurry,ikayaki,udon,bread,beefcooked,porkchopscooked,chickenmeatcooked,fishcooked,egg
+
+deliverto=winefancy,winebasic,feta,sake,cacauhaa,cider,calva,rasgulla,cake,cookie,souvlaki,cooked_mutton,tripes,boudin,wah,masa,chickencurry,vegcurry,ikayaki,udon,bread,beefcooked,porkchopscooked,chickenmeatcooked,fishcooked,egg,grapes

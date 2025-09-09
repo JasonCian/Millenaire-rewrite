@@ -1,0 +1,17 @@
+minreputation:0
+chanceperhour:0.1
+maxsimultaneous:1
+
+step:new
+definevillager:key=startvillager,type=mayan/mayan_farmer,forbiddentag=watersample_done
+villager:startvillager
+duration:5
+rewardgood:bucketempty,1
+step:new
+villager:startvillager
+duration:2
+requiredgood:bucketwater,1
+rewardreputation:128
+penaltyreputation:512
+settagsuccess:startvillager,watersample_done
+settagfailure:startvillager,watersample_done

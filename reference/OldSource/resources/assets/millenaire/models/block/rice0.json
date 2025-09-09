@@ -1,0 +1,7 @@
+{
+    "parent": "block/crop",
+    "textures": {
+        "crop": "millenaire:blocks/rice0",
+        "particle" : "millenaire:blocks/rice0"
+    }
+}

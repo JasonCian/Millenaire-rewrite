@@ -1,0 +1,10 @@
+﻿version:3.4
+<darkblue>Commerce
+
+Sinu kõige enam tegevus külas on kauplemine - sa saad müüa nii palju asju kui tahad ja vastutasuks osta asju ja samas ka Millenairi objekte asju mis on lisatutd mängu. Kui tahad kaubelda külaga,siis mine pea hoonesse (või mõnda muuse ostmis hoonesse) ja oota,et külaelanik tuleks ja kaupleks sinuga.Sellel külaelanikul on pea kohal ´´Kauplen mängijaga´´.Peale seda <darkblue>parema hiireklõpsuga<black> vajuta ta peale,et kauplemis aken tuleks lahti.
+
+Millénairi külaelanikud saavad ainult müüa asju mis neil on olemas ja sina saad neile müüa asju mida nad vajavad (igal külal on see erinev).
+
+Kauplemine käib küla rahas nimega "denier".See on Muistse-Prantsusmaa rahaühik. On kolme tüüpi deniersit: tavaline denier, “deniers argent” (hõbedad deniersid) mis on väärt 64 deniersit ja “deniers or” (kullast deniersid) mis on väärt 64 deniers argentit.
+
+<darkgreen>Vihje: Küla kaardi peal (saadud kui parema hiireklõpsuga vajutada teatud paneeli peale kesk hoones), näitab poode kui lähed hiirega üle hoonete.

@@ -1,0 +1,33 @@
+//Parameters for the building as a whole
+building.length=7
+building.width=12
+building.buildingorientation=3
+building.max=0
+building.icon=snowbrick
+
+building.startinggood=denier,1.0,5,21
+building.startinggood=inuitbow,0.3,1,0
+building.startinggood=furhelmet,0.2,1,0
+building.startinggood=furplate,0.2,1,1
+building.startinggood=furlegs,0.2,1,1
+building.startinggood=furboots,0.2,1,0
+building.startinggood=leatherhelmet,0.13,1,3
+building.startinggood=leatherchest,0.13,1,4
+building.startinggood=leatherlegs,0.13,1,3
+building.startinggood=leatherboots,0.13,1,2
+building.startinggood=inuittrident,0.3,1,0
+building.startinggood=inuitbow,0.3,1,0
+building.startinggood=arrow,0.2,10,42
+building.startinggood=ulu,0.13,1,4
+building.startinggood=inuitbearstew,0.5,1,2
+building.startinggood=bearmeat_cooked,0.3,1,1
+building.startinggood=woodsword,1.0,1,1
+building.startinggood=woodshovel,0.75,1,2
+building.startinggood=woodaxe,0.5,1,2
+building.startinggood=bone,2.0,10,42
+building.startinggood=dye_white,2.0,10,42
+
+//Parameters for initial construction
+initial.nativename=Asiguk Iglu
+initial.translatedname=name_en,snow igloo ruins
+initial.priority=21

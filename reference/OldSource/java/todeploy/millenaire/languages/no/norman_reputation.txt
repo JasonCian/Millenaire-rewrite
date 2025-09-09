@@ -1,0 +1,10 @@
+0;Fremmed;Vi er varsomme ovenfor fremmede rundt disse parter, nykommer. Men oppfører du deg greit, så vil du finne at folk her er ganske gjestfrie.
+4*64;Kjent ansikt;Vi har sett deg rundt disse parter før, og ingen høns ser ut til å ha gått bort. Fortsett på denne måten, så vil vi nok komme overens.
+16*64;Stamgjest;Velkommen, $name! Det er godt å se deg igjen.
+64*64;Favorittforhandler;Å, $name! Hele byen har ventet på din tilbakekomst.
+2*64*64;Venn av landsbyen;Vi normannere er ikke kjent for å stole på folk så lett, men min gode venn $name, du har sannelig vist oss at vi kan stole på deg!
+8*64*64;En av oss;Det er alltid en glede å se deg, $name. Du kan kanskje komme fra fjerne land, men du er virkelig en av oss nå.
+32*64*64;Naturlig leder;$name, du har blitt betrodd normannerne sin tillit og respekt. De vil følge deg hvor enn du går.
+-64;Plage;Vi følger med på deg, $name. Vær på vakt.
+-4*64;Utrivelig utenforstående;Du har vist deg for å være en sann plage rundt disse kanter. Vær glad for at vi ikke har kastet deg ut ennå.
+-16*64;Samfunnsfiende;Det er så vidt at ditt nærvær tolereres. Et feiltrinn og du må vekk.

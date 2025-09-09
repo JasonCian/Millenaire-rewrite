@@ -1,0 +1,820 @@
+
+startup.loadproblem=Si è verificato un errore durante il caricamento di <0>.
+startup.checkload=Verifica che la cartella "culture" sia nella cartella "millenaire" nella cartella "minecraft".
+startup.millenaireloaded=<0> è attivo. Esplora e premi '<1>' per localizzare i villaggi.
+startup.radiuswarning=ATTENZIONE: non è necessario impostare un valore così elevato del raggio del villaggio: ciò causerà molta più lag. Valori superiori a <0> non sono raccomandati.
+startup.bonus=Contenti Bonus abilitati.
+
+command.nogenerate=<0> non genererà più villaggi in nuovi chunks in questo mondo.
+command.willgenerate=<0> genererà ora villaggi in nuovi chunks in questo mondo.
+command.astarpathing=Pathing A attivato
+command.binarypathing=Pathing binario attivato
+command.minecraftpathing=Usando Minecraft pathing
+command.inactive=Inattivo
+command.active=Attivo
+command.frozen=Congelato
+command.villagelist=<4>: <0> (<1>) è a <2> metri a <3>.
+command.villagelistkeylonebuilding=<0> è a <1> metri a <2>.
+command.noknowvillage=Nessun villaggio conosciuto nel raggio di 2 km. Continua a cercare!
+command.newvillagefound=Nuovo villaggio localizzato: <0> del tipo <1> e cultura <2> è <3> metri a <4>. 
+command.newlonebuildingfound=Nuovo edificio localizzato: <0> è a <1> metri a <2>.
+command.pathrebuild=La mappa e il pathing di <0> sono stati ricostruiti.
+
+//Text used in various UI parts, in no specific order:
+ui.lockedchest=Cassa chiusa
+ui.largelockedchest=Grande cassa chiusa
+ui.unlockedchest=Cassa aperta
+ui.largeunlockedchest=Grande cassa aperta
+ui.allchestsunlocked=Tutte le casse di <0> sono adesso aperte
+ui.outofstock=Esaurito!
+ui.reputationneeded=Reputazione necessaria: <0>
+ui.missingdeniers=Ti mancano <0> deniers.
+ui.missingequipment=Ti manca dell'equipaggiamento.
+ui.noneininventory=Non hai nulla nel tuo inventario.
+ui.selling=Vendendo
+ui.buying=Comprando
+ui.buybuilding=Compro <0> (<1>)
+ui.buybonusbuilding=Bonus richiesto: <0>
+ui.sellercoming=<0>: Sarò esattamente lì, $name!
+ui.tradecomplete=<0>: Spero che ti sia piaciuto commerciare con noi! Buona giornata.
+ui.sellerboycott=<0>: Non commerceremmo mai più con voi, fuorilegge!
+ui.sellernotcurrently possible=<0>: Come puoi pensare di commerciare quando il nostro villaggio è devastato?
+ui.wesell=Noi vendiamo
+ui.webuy=Noi compriamo
+ui.isell=Io vendo
+ui.inventory=Inventario
+ui.villagechief=Capo del villaggio di <0>
+ui.yourstatus=Il tuo status
+ui.possiblehousing=Abitazioni possibili
+ui.alreadybuilt=Già costruito
+ui.alreadyrequested=Già richiesto
+ui.notavailableyet=Non ancora disponibile
+ui.available=Disponibile
+ui.bonusavailable=Disponibile (regalo)
+ui.youaremissing=Ti manca: <0>
+ui.scrollsnoreputation=La tua reputazione non è sufficiente per acquistare la pergamena del villaggio.
+ui.scrollsnotenoughmoney=Ti mancano <0> denier(s) per una pergamena del villaggio.
+ui.scrollsok=Puoi comprare le pergamene del villaggio.
+ui.buyscroll=Compra la pergamena del villaggio.
+ui.cost=Costo
+ui.clicktorequest=Clicca per richiedere
+ui.scrollbought=<0>: Ti abbiamo ora affidato la nostra pergamena del villaggio!
+ui.housebought=<0>: La costruzione del tuo <0> comincerà a breve!
+ui.inhabitantof=Abitante di <0>
+ui.inconstruction=In costruzione
+ui.nospace=Non c'è abbastanza spazio
+ui.reservedforvillager1=Riservato
+ui.reservedforvillager2=per abitante del villaggio
+ui.currentlyempty1=Attualmente
+ui.currentlyempty2=vuoto
+ui.visitorslist1=Lista dei
+ui.visitorslist2=visitatori
+ui.goodstraded=Beni scambiati
+ui.imports=Importazioni
+ui.exports=Esportazioni
+ui.import_total=Importazioni totali: <0>
+ui.export_total=Esportazioni totali: <0>
+ui.merchants=Mercanti:
+ui.goalscompleted1=Tutte le
+ui.goalscompleted2=costruzioni completate
+ui.project=Progetto
+ui.noconstruction1=Nessuna costruzione
+ui.noconstruction2=in corso
+ui.upgrading=Aggiornando (<0>)
+ui.construction=Costruzione <0>:
+ui.population=Popolazione:
+ui.populationnumber=Populazione: <0>
+ui.adults=Adulti: <0> (<1>/<2>)
+ui.teens=Ragazzi: <0> (<1>/<2>)
+ui.children=Bambini: <0> (<1>/<2>)
+ui.villagemap=Mappa del villaggio
+ui.nbbuildings=<0> costruzioni
+ui.wandwrongblock=Questa bacchetta magica funziona solo su un blocco di ossidiana per un villaggio casuale o sui seguenti blocchi:
+ui.wandblocklist=<0> per un <1>
+ui.wandblocklistcontrolled=<0> for a <1> (richiede leadership in questa cultura)
+ui.brickinstructions=Un blocco di terra e un blocco di sabbia sono necessari per creare mattoni.
+ui.buildingscentre=Centro
+ui.buildingsstarting=Edifici iniziali
+ui.buildingsplayer=Edifici del giocatore
+ui.buildingskey=Edifici chiave
+ui.buildingssecondary=Edifici secondari
+ui.buildingsextra=Edifici aggiuntivi
+ui.worldnotgenerated=L'area intorno non è completamente generata. Cammina in quella zona e torna indietro.
+ui.tooclosetospawn=Non sei autorizzato a generare un villagio così vicino al punto di spawn.
+ui.generatenotenoughspace=Non c'è abbsatanza spazio per il centro città.
+ui.generatenotenoughspacevillage=Non c'è abbsatanza spazio per il villaggio.
+ui.lackingresources=Mancanza di risorse
+ui.lockedchestwarning=ATTENZIONE: distruggere casse chiuse impedirà al villaggio di funzionare correttamente. Prosegui con tale azione solo se vuoi distruggere il villaggio.
+ui.xoutofy=<0> di <1>
+ui.extraresneeded1=<0> altre risorse
+ui.extraresneeded2=richieste
+ui.woodforplanks=Legno (qualsiasi)
+ui.woodoak=Legno di Quercia
+ui.woodpine=Legno di Pino
+ui.woodbirch=Legno di Betulla
+ui.woodjungle=Legno tropicale
+ui.anyenchanted=Oggetto incantato
+ui.enchantedsword=Spada incantata
+ui.selectabuildingproject=Seleziona un progetto di costruzione
+ui.projectadded=Il progetto è stato aggiunto alla lista
+ui.problemat=Problema a <0>: <1>
+ui.constructionforbidden=costruzione proibita
+ui.locationclash=Si scontra con gli altri edifici
+ui.outsideradius=Fuori dal raggio del villaggio
+ui.wrongelevation=Fuori altitudine permessa
+ui.danger=Blocco pericoloso
+ui.notreachable=Zona non raggiungibile
+ui.unknownerror=Problema sconosciuto
+ui.controlbuildingprojects=Gestione progetti di costruzione
+ui.forbidupgrades=Ferma aggiornamenti
+ui.allowupgrades=Consenti aggiornamenti
+ui.cancelbuilding=Rimuovi edificio
+ui.level=Livello
+ui.notyetbuilt=Non ancora costruito
+ui.nbinhabitants=Numero di abitanti: <0>
+ui.wandnocontrol=Tu non puoi creare questo tipo di villaggio in quanto tu non sei riconosciuto come leader della cultura <0>
+ui.control_ok=I tuoi servizi resi al villaggio sono tali che le <0> persone sono pronte a riconoscerti come un leader! Posso renderlo ufficiale e consentirti di iniziare un tuo villaggio.
+ui.control_noreputation=La tua reputazione non è ancora sufficiente per essere riconosciuto come leader degli <0>. Migliora la tua reputazione con noi o compi gesta eccezionali per raggiungere questo stato.
+ui.control_alreadydone=Tu sei già riconosciuto come il leader degli <0> .
+ui.control_get=Chiedi per farti riconoscere come leader.
+ui.control_gotten=<0>: Io ti riconosco ufficialmente degno di guidare il nostro popolo <1>! Tu adesso puoi creare un tuo villaggio.
+ui.selectavillage=Seleziona il tipo di villaggio che vuoi creare
+ui.leadershipstatus=Leadership status
+ui.leaderin=Tu sei un leader nella cultura <0> . Puoi creare e controllare un villaggio di questa cultura.
+ui.notleaderin=Tu non sei ancora il leader di questa cultura <0>.
+ui.leaderinstruction=Per diventare leader in una cultura, devi o raggiungere il livello "leader naturale" e chiedere al capo del villaggio, o completare il capitolo della Creation Quest per quella cultura(se disponibile).
+ui.wandinstruction=Usa la bacchetta magica su un blocco di ossidiana per generare un villaggio casuale o su un blocco d'oro per selezionare il tipo di villaggio che vuoi.
+ui.controlled=controllato
+ui.villagerelations=<0> (<1>, <2>): <3>
+ui.relationlist=Relazioni con gli altri villaggi
+ui.relationpraise=Encomiabile
+ui.relationslander=Maldicevole
+ui.relationpoints=Punti diplomatici disponibili: <0>
+ui.villagerelationsnobutton=Devi avere punti e una buona reputazione per influenzare il villaggio.
+ui.relationhelp=Relations help<ret><ret>Le relazioni tra villaggi determinano se quei villaggi collaboreranno oppure no.<ret><ret>Commercio locale (mercanti che trasportano le risorse) accadrà tra villaggi in buone relazioni della stessa cultura o eccelenti relazioni di culture diverse.<ret><ret>Villaggi di culture diverse in relazioni molto buone avranno mercati che ospiteranno mercanti provenienti da altre culture.<ret><ret>Villaggi della stessa cultura con eccelenti relazioni accetteranno  reciprocamente ragazzi se hanno lavori disponibili.<ret><ret>Le relazioni tra villaggi partono come eccellenti tra  villaggio e un villaggio-madre, buoni per villaggi della stessa cultura, e neutrali altrimenti.<ret><ret>Ogni giorno, un giocatore ottiene cinque punti diplomazia con cui influenzare le relazioni tra villaggi. L'efficacia dell'elogio o della calunnia dipende dalla sua reputazione in quel villaggio.
+ui.relationfriendly=Recenti sviluppi tra i villaggi di <0> e <1> hanno migliorato le relazione tra loro. Loro sono adesso <2>.
+ui.relationunfriendly=Recenti scontri tra i villaggi <0> e <1> hanno peggiorato le relazioni fra loro. Loro sono adesso <2>.
+ui.cropplantingknowledge=Tu non sai come piantare <0>. Hai bisogno di chiedere al capo del villaggio.
+ui.cropsknown=Coltivazioni note a questa cultura
+ui.cropknown=Tu hai imparato come piantare <0>.
+ui.cropinsufficientreputation=La tua reputazione è troppo bassa per farti insegnare dal villaggio come piantare <0>.
+ui.cropnotenoughmoney=Hai bisogno di più <1> per essere in grado di imparare come piantare <0>.
+ui.cropoktolearn=Il villaggio può insegnarti come piantare <0>.
+ui.croplearn=Impara (<0>)
+ui.croplearned=<0>: Ti sono stati rivelati i misteri della coltivazione di <1>!
+ui.raider=Bandito
+
+ui.communicationexplanations=Per comunicate con gli abitanti del villagio clicca col tasto destro. Se è possibile eseguire una azione (commerciare, discutere col capo villaggio, arroulare temporaneamente, cominciare una missione) si aprirà una finestra.
+ui.helpbutton=Aiuto di Millénaire
+ui.chunkbutton=Mappa dei chunk
+ui.configbutton=Impostazioni
+ui.serverimportforbidden=Solo gli admin possono importare edifici sul server.
+
+help.tab_1=Generalità sui villaggi
+help.tab_2=Commercio
+help.tab_3=Reputazione e capi villaggio
+help.tab_4=Sviluppo del villaggio
+help.tab_5=Combattimenti e incursioni
+help.tab_6=Creare o distruggere un villaggio
+help.tab_7=Missioni
+help.tab_8=I Normanni
+help.tab_9=Gli Indiani
+help.tab_10=I Maya
+help.tab_11=I Giapponesi
+help.tab_12=I Bizantini
+help.tab_13=FAQ
+
+
+quest.obtained=Ottenuto
+quest.lackingcondition=Ti mancano:
+quest.lackinghiddengoods=Tu non hai le risorse necessarie per questo compito.
+quest.close=Chiudi
+quest.accept=Accetta Quest
+quest.refuse=Rifiuta Quest
+quest.continue=Procedi con la Quest
+quest.conditionsnotmet=Non hai ancora soddisfatto tutte le condizioni.
+quest.lessthananhourleft=Meno di un'ora rimasta!
+quest.timeremaining=Tempo rimanente
+quest.hours=ora(s)
+quest.noquestsvisible=Nessuno quests elencabile in corso
+quest.questlist=Quests in corso
+quest.reputationlost=reputazione perduta
+
+quest.creationqueststatus=Creation Quest status
+quest.creationqueststatusshort=Creation Quest:
+
+quest.cqchaptersadhu=Lo Sadhu
+quest.cqsadhustartexplanation=Trova un paesano in grado di guidarti in un villaggio indiano dove tu hai una reputazione da "Amico del villaggio" per la prima missione.
+
+quest.cqchapteralchemist=L'Alchimista
+quest.cqalchemiststartexplanation=Trova un paesano in grado di guidarti in un villaggio Normanno dove hai almeno una reputazione da "Amico del villaggio".
+
+quest.cqallcompleted=Congratulazioni, tu hai completato tutte le Creation Quest attualmente disponibili!
+quest.cqcheckforupdates=Controlla www.millenaire.org per futuri aggiornamenti con più missioni.
+quest.cqchapternotstarted=Tu non hai iniziato il capitolo "<0>".
+quest.cqchapterinprogress=Tu hai completato la <1> missione di <2> missioni nel capitolo delle Creation Quest  "<0>".
+quest.cqchaptercompleted=Hai completato il capitolo "<0>".
+quest.cqchapternotstartedshort=Capitolo "<0>": non iniziato.
+quest.cqchapterinprogressshort=Capitolo "<0>": <1>/<2>.
+quest.cqchaptercompletedshort=Capitolo "<0>": completato.
+quest.cqcheckquestlistandhelp=Premi '<0>' per più informazioni o per accedere all'help di Millénaire.
+
+
+
+
+
+error.unknownitem=Nome oggetto sconosciuto
+
+
+
+//Errors
+ui.updateEntity=Errore in TileEntityBuilding.updateEntity(). Controlla millenaire.log.
+
+//Panels & parchments
+panels.notextfound=Nessun testo trovato per questo libro: <0>
+panels.invalidid=ID villaggio non valido.
+panels.toofar=Il villaggio è troppo lontano per caricare i suoi documenti.
+panels.recordsnotloaded=I documenti del villaggio non possono essere caricati.
+panels.villagescroll=Pergamena del villaggio
+panels.mother=Madre
+panels.father=Padre
+panels.spouse=Consorte
+panels.dead=Temporaneamente morto
+panels.awayraiding=caccia i banditi
+panels.awayhired=Arruolato dal giocatore
+panels.invaderincoming=In arrivo
+panels.missing=MANCANTE!
+panels.multiple=PRESENTE <0> VOLTE!
+panels.currentoccupation=Occupazione attuale
+panels.visitors=Visitatori
+panels.constructions=Costruzioni
+panels.upgrade=Aggiornamento
+panels.buildingprojects=Progetti di costruzione
+panels.notyetbuilt=Non ancora costruito
+panels.nbupgradesleft=<0> aggiornamenti ancora da costruire
+panels.finished=completato
+panels.houseunoccupied=Questa casa è vuota. I bambini che sono cresciuti fino a diventare ragazzi, col tempo si trasferiranno in essa e diventeranno adulti.
+panels.man=Uomo
+panels.woman=Donna
+panels.children=Ragazzi
+panels.nofemaleresident=Questa casa non avrà mai un residente di sesso femminile.
+panels.bachelor=L'uomo che vive qui è ancora scapolo. Una bambina che cresce diventando ragazza, col tempo, si trasferirà qui.
+panels.nomaleresident=Questa casa non avrà mai un residente di sesso maschile.
+panels.spinster=La donna che vive qui è ancora nubile. Un bambino che cresce diventando ragazzo, col tempo, si trasferirà qui.
+panels.resources=Risorse
+panels.goodstraded=Beni scambiati in questo villaggio
+panels.goodsimported=Importati da altri villaggi
+panels.goodsexported=Esportati verso altri villaggi
+panels.innvisitors=Visitatori di questo <0>
+panels.mappurple=Viola: costruzione in corso.
+panels.mapblue=Blu: altre costruzioni.
+panels.mapgreen=Verde: area adatta e disponibile alla costruzione.
+panels.maplightgreen=Verde chiaro: area adatta, ma non può ospitare il centro dell'edificio.
+panels.mapred=Rosso: area pericolosa (lava, cactus, etc).
+panels.mapyellow=Giallo: costruzione non permessa (ghiaccio, blocchi artificiali).
+panels.maporange=Arancione: costruzione non permessa (troppo vicino ad altre costruzioni).
+panels.maplightblue=Blu chiaro: acqua.
+panels.mapbrown=Marrone: altre aree (fuori dall'intervallo di altitudine ammessa, etc).
+panels.unreachablebuilding=Non raggiungibile!
+panels.merchantlist=Lista di mercanti
+panels.capacity=Capacità
+panels.nbnightsin=Nel villaggio da <0> notte(i).
+panels.storedexports=<0> ha immagazzinato il seguente per l'esportazione: <1>
+panels.broughtimport=<0> ha portato il seguente al villaggio: <1>
+panels.startedtrading=<0> (<1>) ha abbracciato la carriera commerciale.
+panels.merchantmovedout=<0> (<1>) si è trasferito a <2> dopo <3> giorni nel villaggio.
+panels.merchantarrived=<0> (<1>) arrivato da <2>.
+panels.childarrived=<0> arrivato da <1> in cerca di lavoro.
+panels.resourcesneeded=Resources needed for the project
+panels.resourcesavailable=Resources in stock
+panels.villageculture=Villages of <0> culture
+panels.military=Military
+panels.planningraid=Planning raid
+panels.raidinprogress=Raid in progress
+panels.underattack=Under attack!
+panels.offense=Offense: <0>
+panels.defense=Defense: <0>
+panels.offenselong=Offensive strength: <0>
+panels.defenselong=Defensive strength: <0>
+panels.raidinprogresslong=Currently raiding <0>. The raid started <1> hour(s) ago.
+panels.planningraidlong=Planning a raid on <0>. The planning started <1> hour(s) ago.
+panels.underattacklong=Under attack by <0> enemies of strength <1> from <2>!
+panels.villagefighters=Village Fighters
+panels.attackers=Attackers
+panels.defender=Defender
+panels.raider=Raider
+panels.health=Health
+panels.weapons=Weapon(s)
+panels.armour=Armour
+panels.militarystrength=Forza militare
+panels.unknownattacker=un posto sconosciuto
+panels.raidsperformed=Raid effetuato
+panels.raidssuffered=Raid subito
+panels.nameand=<0> e
+
+//Goals (text displayed above the villager when he is doing it)
+goal.gorest=Riposando
+goal.godrink=Fuori per bere qualcosa
+goal.gopray=Fuori per pregare
+goal.GatherGoods=Raccogliendo beni
+goal.BringBackResourcesHome=Portando risorse a casa
+goal.GetTool=Ottenendo uno strumento
+goal.huntMonster=Combattendo una creatura
+goal.GetGoodsHousehold=Ottenendo beni per la famiglia
+goal.DeliverGoodsHousehold=Consegnando beni per la famiglia
+goal.GetHouseTHResources=Prendendo risorse da casa
+goal.DeliverResourcesShop=Consegnando risorse
+goal.raidvillage=Attaccando un villagio
+goal.defendvillage=Difendendo il villagio
+goal.hide=Nascondendosi
+
+goal.CollectCrop=Mietendo
+goal.PlantSeeds=Piantando semi
+goal.ChopTrees=Tagliando legna
+goal.PlantSaplings=Piantando alberelli
+goal.GetResourcesForBuild=Ottenendo risorse per una costruzione
+goal.MakeBread=Facendo il pane
+goal.BeSeller=Vendendo al giocatore
+goal.MakeCider=Producendo sidro 
+goal.MakeCalva=Producendo calvados
+goal.Construction=Costruendo
+goal.GoPlay=Giocando
+goal.BecomeAdult=Crescendo
+goal.MakeNormanTools=Producendo strumenti
+goal.MakeNormanWeapons=Producendo Armi
+goal.Patrol=Pattugliando
+goal.Butcher=Macellando
+goal.MakeBoudin=Producendo boudin noir
+goal.MakeTripes=Producendo trippa
+goal.Mining=Scavando
+goal.Cooking=Cuocendo risorse
+goal.MakeBooks=Producendo pergamene
+goal.MakeTapestry=Producendo arazzi
+goal.VisitInn=Andando alla locanda
+goal.VisitBuilding=Andando a un negozio locale
+goal.MakeAmulet=Producendo un amuleto
+goal.KeepStall=Mantenendo il suo banco
+goal.MakeTimberFrame=Producendo strutture in legno
+
+goal.DryBrick=Seccando i mattoni
+goal.GatherBrick=Raccogliendo i mattoni secchi
+goal.CookBrick=Cuocendo i mattoni
+goal.PlantRice=Piantando riso
+goal.HarvestRice=Raccogliendo riso
+goal.PlantTurmeric=Piantando curcuma
+goal.HarvestTurmeric=Raccogliendo curcuma
+goal.SlaughterChicken=Macellando polli
+goal.PlantSugarCane=Piantando zucchero di canna
+goal.HarvestSugarCane=Raccogliendo zucchero di canna
+goal.MakeRasgulla=Producendo rasgulla
+goal.Makesteelaxe=Producendo ascia d'acciao
+goal.Makesteelpickaxe=Producendo piccone d'acciao
+goal.Makesteelshovel=Producendo vanga d'acciao
+goal.Makesteelhoe=Producendo zappa d'acciao
+goal.Makesteelsword=Producendo spada d'acciao
+
+goal.makesteelchest=Producendo pettorale d'acciao
+goal.makesteelhelmet=Producendo elmo d'acciao
+goal.makesteellegs=Producendo gambali d'acciao
+goal.makesteelboots=Producendo stivali d'acciao
+
+goal.makeindianstatue=Intagliando statue
+goal.performpujas=Eseguendo puja
+goal.bepujaperformer=Disponibile per pujas
+
+goal.PlantMaize=Piantando mais
+goal.HarvestMaize=Raccogliendo mais
+goal.makemayanGoldBlock=Producendo ornamenti d'oro
+goal.makemayanstatue=Intaglianto statua
+goal.Makestoneaxe=Producendo ascia di pietra
+goal.Makestonepickaxe=Producendo piccone di pietra
+goal.Makestoneshovel=Producendo vanga di pietra
+goal.Makestonehoe=Producendo zappa di pietra
+goal.Makestonesword=Producendo spada di pietra
+goal.makemayanaxe=Producendo ascia d'ossidiana
+goal.makemayanpickaxe=Producendo piccone d'ossidiana
+goal.makemayanshovel=Producendo vanga d'ossidiana
+goal.makemayanhoe=Producendo zappa d'ossidiana
+goal.makemayanmace=Producendo mazza d'ossidiana
+goal.makeobsidianflake=Rompendo ossidiana in punte
+
+goal.fish=Pescando
+goal.makethatch=Producendo thatch
+goal.makepaper=Producendo carta
+goal.makepaperrice=Producendo carta
+goal.makepaperwoodpulp=Producendo carta
+goal.makepaperwall=Producendo muri di carta
+goal.cookfish=Cuocendo pesce
+goal.cooksteak=Cuocendo bovini
+goal.cooklamb=Cuocendo ovini
+goal.cookpork=Cuocendo suini
+goal.cookchicken=Cuocendo pollame
+goal.makeudon=Preparando udon
+goal.maketachi=Producendo spada Tachi
+goal.makejapaneseweapons=Producendo armi giapponesi
+
+goal.brewpotions=Distillando pozioni
+goal.harvestwarts=Raccogliendo warts
+goal.makeglassbottles=Creando bottiglie di vetro
+goal.plantwarts=Piantando warts
+
+goal.plantvines=Piantando vigne
+goal.harvestvines=Raccogliendo uva
+goal.gathersilk=Raccogliendo seta
+goal.makeicon=Dipingendo icone
+goal.makewine=Producendo vino
+goal.makebookshelves=Costruendo librerie
+goal.makebyzantinetiles=Producendo mosaici
+goal.makebrick=Producendo Mattoni
+goal.training=Allnenandosi
+goal.paintpainting=Dipingendo quadro
+goal.makebook=Scrivendo un libro
+goal.makebyzantinemace=Producendo mazza Bizantina
+goal.makebyzantinechest=Producendo pettorali Bizantina
+goal.makebyzantinelegs=Producendo gambali Bizantina
+goal.makebyzantinehelmet=Producendo elmo Bizantina
+goal.makebyzantineboots=Producendo stavali Bizantina
+
+goal.makebow=Costruendo un arco
+goal.makerottenflesh=Creando carne putrefatta
+goal.makearrow=Costruendo freccie
+
+goal.sleep=Dormendo
+goal.sleep_travelling=A riposo
+
+
+goal.makeclothes_byz_wool=Cucendo vestiti
+goal.makemasa=Preparando masa
+goal.slaughterpig=Macellando un suino
+goal.makesouvlaki=Preparando souvlaki
+goal.makewah=Preparando wah
+goal.makecurry=Preparando curry vegetariano
+goal.makeclothes_byz_silk=Cucendo vestiti di seta
+goal.slaughtersheep=Macellando un ovino
+goal.slaughtercow=Macellando un bovino
+goal.breed=Allevando animali
+goal.shearsheep=Tosando una pecora
+goal.makemurgh=Preparando pollo al curry
+goal.getitemtokeep=Raccogliendo un oggetto
+
+goal.buildpath=Tracciando un sentiero
+goal.clearoldpath=Rirpistinando un sentiero
+
+goal.gosocialise=A chattare
+goal.chat=Chattando
+
+//other
+other.west=Ovest
+other.east=Est
+other.north=Nord
+other.north-east=Nord-Est
+other.north-west=Nord-Ovest
+other.south=Sud
+other.south-east=Sud-Est
+other.south-west=Sud-Ovest
+
+other.tothewest=verso Ovest
+other.totheeast=verso Est
+other.tothenorth=verso Nord
+other.tothenorth-east=verso Nord-Est
+other.tothenorth-west=verso Nord-Ovest
+other.tothesouth=verso Sud
+other.tothesouth-east=verso Sud-Est
+other.tothesouth-west=verso Sud-Ovest
+
+other.west_short=O
+other.east_short=E
+other.north_short=N
+other.south_short=S
+other.shortdistancedirection=<0>m <1>
+
+other.metre=metri
+other.kilometre=kilometri
+other.andhalf=e mezzo
+
+other.directionshort=<1> <0>
+other.exploredbuilding=Hai esplorate l'edificip: <0>.
+
+other.malevillager=Paesano di Millénaire
+other.femalevillager=Paesana di Millénaire
+
+other.buildinghealing=<0> ti sta risanando.
+
+
+other.localmerchantinteract=Questo è un mercante locale, trasporta le merci tra i villaggi. Non è possibile interagirci.
+
+other.chattosomeone=<0> a <1>
+
+hire.health=Vita
+hire.strength=Forza
+hire.cost=Costo (giornaliero)
+hire.aggressive=Modalità aggressiva
+hire.passive=Modalità passiva
+hire.timeleft=assunto per <0> ore
+hire.hiredvillager=Questo abitante è stato assunto. Rimarrà al ture servizio per altre <0> ore o fino alla morte e ricomparsa nel suo villagio.<ret><ret>Premere '<1>' per impostare modalità aggressiva o SX shift-'<1>' per modalità passiva.
+hire.hireablevillager=Puoi assumere questo abitante. Ti seguirà fino all fine del contrato o la morte. Attaccherà chi ti attacca o tutte le creature e abitanti nemici se in modalità aggressiva.
+hire.hireablevillagernoreputation=Devi essere almeno un "mercante preferito" del villaggio per assumere abitanti.
+hire.extend=Estendi
+hire.release=Libera
+hire.close=Chiudi
+hire.hire=Assumi
+hire.hireover=L'ingaggio di <0> è terminato. Sta ritornando al suo villaggio.
+hire.hiredied=<0> è morto. Ricomparirà nel suo villagio, l'ingaggio è cancellato.
+hire.hiredbyotherplayer=<0> è gia assunto da <1>.
+hire.hiredby=Assunto da <0>
+
+actions.forest_success=Hai esplorato con successo la foresta.
+actions.forest_continue=Hai completato il <0>% dell'esplorazione della foresta.
+
+actions.desert_success=Hai esplorato con successo il deserto.
+actions.desert_continue=Hai completato il <0>% dell'esplorazione del deserto.
+
+actions.mountain_success=Hai esplorato con successo le montagne.
+actions.mountain_continue=Hai completato il <0>% dell'esplorazione delle montagne.
+
+actions.underwaterglass_success=Hai costruito con successo l'osservatorio in fondo al mare.
+actions.underwaterglass_notdeepenough=La profondità non è ancora sufficiente.
+
+actions.underwaterdive_success=Hai raggiunto le profondità marine con successo.
+
+actions.bottomoftheworld_success=Sembra che tu non possa scendere oltre. Hai raggiunto il fondo del mondo!
+
+actions.topoftheworld_success=Sembra che tu non possa salire oltre. Questa è la cima del cielo
+
+actions.borehole_nblineok=<0> blocchi di bedrock sono esposti al cielo. Ne servono 25 in un quadrato di 5x5.
+actions.borehole_success=Hai completato con successo la trivellazione!
+
+actions.boreholetnt_success=Hai piazzato abbastanza TNT. Puoi farlo detonare.
+actions.boreholetnt_nbtnt=<0> blocchi di TNT sono stati piazzati e coperti con ossidiana. Ne servono 20 in totale.
+
+actions.boreholetntlit_success=Hai accesso il TNT. Osserva il risultato e riferiscilo all'Alchemista.
+
+actions.thevoid_success=Hai sbirciato nel Vuoto!
+
+actions.enchantmenttable_success=Hai costruito un tavolo da incantamento vicino al Sadhu.
+
+info.culturetitle=Culture
+info.culture=Cultura <0>
+info.culturereputation=Reputazione: <0>
+info.culturelanguage=Conoscenza lingua: <0>
+
+culturereputation.scourgeofgod=Flagello di Dio
+culturereputation.dreadful=Pessima
+culturereputation.bad=Cattiva
+culturereputation.stellar=Stellare
+culturereputation.excellent=Ottima
+culturereputation.good=Buona
+culturereputation.decent=Decente
+culturereputation.neutral=Neutrale
+
+culturelanguage.fluent=Fluente
+culturelanguage.moderate=Mediocre
+culturelanguage.beginner=Principiante
+culturelanguage.minimal=Minima
+
+
+weapon.criticalstrike=Colpo critico! Danno x <0>!
+
+negationwand.villagelocked=<0> è bloccato. Devi uccidere tutti gli uomini adulti prima di ditruggerlo.
+negationwand.confirmmessage=Sei sicuro di voler distruggere <0>? Se lo fai, gli edifici rimarranno, ma gli abitanti scompariranno per sempre.
+negationwand.confirm=Conferma
+negationwand.cancel=Annulla
+negationwand.destroyed=<0> è stato ditrutto! Gli edifici sono vuoti e gli abitanti non vi ritorneranno.
+
+relation.excellent=Ottima
+relation.verygood=Molto buona
+relation.good=Buna
+relation.decent=Decente
+relation.fair=Corretta
+
+relation.openconflict=In aperto conflitto
+relation.atrocious=Atroce
+relation.verybad=Pessima
+relation.bad=Cattiva
+relation.chilly=Gelida
+
+relation.neutral=Neutrale
+
+raid.planningstarted=Si pensa che <0> stia pianificando un attacco a <1>.
+raid.started=<0> ha cominciato un attacco a <1>! <2> combattenti stanno partecipando.
+raid.raidsuccesfull=<0> ha attaccato con successo <1>, Rubando <2> beni!
+raid.raidfailed=<1> ha respinto l'attacco <0>.
+raid.nothing=Niente
+raid.historysuccess=Attacco riuscito <0>. Bottino: <1>
+raid.historyraided=Attacati da <0>. Bottino: <1>
+raid.historyfailure=L'attacco a <0> è fallito.
+raid.historydefended=Ha respinto un attacco di <0>.
+
+hof.hof=Hall of Fame
+hof.modcreator=Autore della Mod
+hof.creatorofmayan1=Autore della
+hof.creatorofmayan2=cultura Maya
+hof.creatorofjapanese1=Autore della
+hof.creatorofjapanese2=cultura giapponese
+hof.creatorofbyzantine1=Autore della
+hof.creatorofbyzantine2=cultura bizzantina
+hof.creatorofindianskins1=Autore dei
+hof.creatorofindianskins2=vestiti indiani
+
+hof.skinmaker=Autore vestiti
+hof.buildingmaker=Autore edifici
+hof.wikiadmin=Wiki admin
+hof.armouricons=Icone delle armature
+hof.normanarmour1=Grafica delle
+hof.normanarmour2=armature normanne
+hof.support1=Supporto
+hof.support2=sul forum
+hof.frenchversion1=Aiuto con la
+hof.frenchversion2=versione francese
+hof.wikicontributions=Contributi Wiki
+hof.improvementsjapanese1=Migliorie a
+hof.improvementsjapanese2=villagi giapponesi
+hof.lonebuildings=Edifici isolati
+hof.obsidiantools1=Icone degli
+hof.obsidiantools2=oggetti in ossidiana
+hof.forgecode1=Codice originale per
+hof.forgecode2=Forge Sprite API
+hof.btw=(Autore BTW)
+hof.forgehelp1=Aiuto con
+hof.forgehelp2=Forge Sprite API
+hof.hofidea1=Idea della
+hof.hofidea2=Hall of Fame
+hof.donor=Donatore
+hof.variousimprovements1=Varie
+hof.variousimprovements2=Migliorie
+
+pujas.invanme=Pujas
+pujas.panditfee=Tariffa del Pandit
+pujas.offering=Offerta
+pujas.god0=A Hanuman - per velocità
+pujas.god1=A Shiva   - per forza
+pujas.god2=A Lakshmi - per fortuna
+pujas.god3=A Ganesh  - per abilità
+pujas.priestcoming=<0>: voui che sia eseguita una puja? la tua devozione è ammirabile!
+pujas.offeringslot=Fai una offerta agli Dei.
+pujas.offeringslot2=Non accettano tutto. Sperimenta.
+pujas.moneyslot=Metti i soldi per il Pandit.
+pujas.toolslot=Metti l'oggetto da incantare.
+
+culture.norman=Normanna
+culture.indian=Indiana
+culture.japanese=Giapponese
+culture.mayan=Maya
+culture.byzantines=Bizantina
+
+export.errornoname=Metti il nome per il progetto dell'edificio sulla prima linea.
+export.errornoendsigneast=Non riesco a trovare il cartello di chiusura a Est. Deve essere in linea retta dall'origine ed entro 256 blocchi.
+export.errornoendsignsouth=Non riesco a trovare il cartello di chiusura a Sud. Deve essere in linea retta dall'origine ed entro 256 blocchi.
+export.errorlength=La lunghezza trovata è <0> ma esiste un progetto nella cartella di export di lunghezza <1>.
+export.errorwidth=La larghezza trovata è <0> ma esiste un progetto nella cartella di export di larghezza <1>.
+export.errorstartinglevel=Livello di partenza non valido sullar riga tre del cartello.
+export.defaultstartinglevel=Livello di partenza non specificato, default a -1.
+export.errorunknownblockid=Blocco sconosciuto: <0>
+export.buildingexported=Esportato l'edificio come <0>.
+
+import.notonserver=Non è possibile importare edifici su server.
+import.errornoname=Metti il nome dell'edificio sulla prima linea.
+import.errornotfound=L'edificio richiesto non è presente nella cartella millenaire-custom/exports.
+import.buildingupto=Costruendo fino al livello <0>
+import.errorinvalidupgradelevel=Aggiornamento non valido sulla linea due del cartello.
+import.buildinginitialphase=Nessun aggiornamento specificato, verrà costruito l'edifico base.
+import.errorupgradeleveltoohigh=L'aggiornamento richiesto è superiore a quelli disponibili.
+import.doublevertical=Altezza duplicata
+import.buildinglevel=Costruendo livello: <0>
+
+effect.towncentre=Centro del villaggio
+effect.shop=Negozio: <0>
+effect.irrigation=Irrigazione: <0>% raccolto extra
+effect.pujalocation=Pujas in corso
+effect.healing=Guarisce il giocatore
+
+chunk.chunkmap=Mappa dei chunk
+chunk.caption=Titolo
+chunk.captiongeneral=Ogni chunk è mostrato come un quadrato di 2x2 pixels
+chunk.captiongreen=Punti verdi indicano chunk caricati.
+chunk.captionblue=Punti blu sono chunk di un villaggio.
+chunk.captionpurple=Punti viola indicano chunk parte di edifici solitari.
+chunk.captionwhite=Punti bianchi sono i chunk mantenuti attivi da una mod (Millénaire o altra mod Forge)
+chunk.playerposition=Coordinate del giocatore: <0>
+chunk.settings=Raggio di caricamento dei villaggi: <0> metri. Numero massimo di chunk permessi da Forge: <1>.
+chunk.explanations=Villaggi di Millénaire solo se tutti i loro chunks sono attivi. Gli abitanti degli altri villaggi sono ibernati. Millénaire tenta di mantenere attivi i chunk di villaggi entro 200 metri dal giocatore (valore configurabile).Il meccanismo di default è limitato a 200 chunk. Il valore può essere modificato in minecraft/config/forgeChunkLoading.cfg. Attenzione: aumentando il numero di chunks attivi peggiorerà le prestazioni.
+chunk.chunkcoords=Chunk: <0>
+chunk.village=<0>
+chunk.chunkforced=Forzato-attivo
+
+
+config.pagetitle=Impostazioni Millénaire
+config.page.uisettings=Impostazioni UI
+config.page.worldgeneration=Generazione mondo
+config.page.worldgeneration.desc=Le impostazioni hanno effetto solo in mondi locali (non sui server a cui ti colleghi).
+config.page.villagebehaviour=Comportamento Villaggi
+config.page.villagebehaviour.desc=Le impostazioni hanno effetto solo in mondi locali (non sui server a cui ti colleghi).
+config.page.devtools=Dev Tools
+
+
+config.village_list_key.label=Tasto lista villaggi
+config.village_list_key.desc=Tasto per mostrare i villaggi vicini. Default: <0>.
+
+config.quest_list_key.label=Tasto Informazioni
+config.quest_list_key.desc=Tasto per mostrare informazioni su Millénaire. Default: <0>.
+
+config.escort_key.label=Tasto Aggressività scorta
+config.escort_key.desc=Tasto per cambiare la modalità del mercenario tra aggressiva e difensiva. Default: <0>.
+
+
+config.fallback_language.label=Lingua secondaria
+config.fallback_language.desc=Lingua da usare se quella primaria non + disponibile.
+
+config.dynamic_textures.label=Texture dinamica
+config.dynamic_textures.desc=Usa automaticamente texture 64x se Minecraft usa un pack a 64x o superiore.
+
+config.language_learning.label=Apprendimento linguaggi
+config.language_learning.desc=Se le lungue devono essere "imparate" (le traduzioni appariranno dopo alcune interazioni).
+
+config.load_all_languages.label=Carica tutte le lingue
+config.load_all_languages.desc=Carica tutte le traduzioni per fornirle ai client se necessarie.
+
+config.display_start.label=Mostra messaggio iniziale
+config.display_start.desc=Mostra la versione di Millénaire e lo stato della Creation Quest all'avvio.
+
+config.display_names.label=Mostra nomi nei villaggi
+config.display_names.desc=Mostra nomi, occupazione e task sopra gli abitanti.
+
+config.villagers_names_distance.label=Distanza visualizzazione
+config.villagers_names_distance.desc=Distanza fino a cui i nomi sono visibili. Default: <0>.
+
+config.villagers_sentence_in_chat_distance_client.label=Frasi in Chat (MP)
+config.villagers_sentence_in_chat_distance_client.desc=Distanza fino a cui sono visibili i messaggi degli abitanti in multi player. Default: <0>.
+
+config.villagers_sentence_in_chat_distance_sp.label=Frasi in Chat (SP)
+config.villagers_sentence_in_chat_distance_sp.desc=Distanza fino a cui sono visibili i messaggi degli abitanti single player. Default: <0>.
+
+config.generate_villages.label=Genera villaggi
+config.generate_villages.desc=Se generare villaggi di Millénaire in nuovi chunks.
+
+config.generate_lone_buildings.label=Genera edifici solitari
+config.generate_lone_buildings.desc=Se generare edifici solitari di Millénaire in nuovi chunks.
+
+config.keep_active_radius.label=Distanza Chunk attivi
+config.keep_active_radius.desc=Distanza fino a cui Millénaire manterrà i villaggi attivi. Default: <0>.
+
+config.min_village_distance.label=Distanza tra villaggi
+config.min_village_distance.desc=Distanza minima tra villaggi. Default: <0>.
+
+config.min_village_lonebuilding_distance.label=Distanza tra villaggi e edifici solitari
+config.min_village_lonebuilding_distance.desc=Distanza minima tra villaggi e edifici solitari. Default: <0>.
+
+config.min_lonebuilding_distance.label=Distanza tra edifici solitari
+config.min_lonebuilding_distance.desc=Distanza minima tra edifici solitari. Default: <0>.
+
+config.spawn_protection_radius.label=Protezione Spawn
+config.spawn_protection_radius.desc=Area intorno allo Spawn Point in cui Millénaire non genererà edifici. Default: <0>.
+
+config.village_radius.label=Raggio dei Villaggi
+config.village_radius.desc=Raggio dei villagi normali (non hamlets). Default: <0>.
+
+config.min_distance_between_buildings.label=Distanza tra edifici
+config.min_distance_between_buildings.desc=Distanza tra edifici in un villaggio. Default: <0>.
+
+config.village_paths.label=Genera strade
+config.village_paths.desc=Genera strade nei villaggi e falle migliorare dagli abitanti.
+
+config.max_children_number.label=Max bambini
+config.max_children_number.desc=Massimo numero di bambini per villaggio. Default: <0>.
+
+config.background_radius.label=Raggio relazioni tra villaggi
+config.background_radius.desc=Raggio in cui i villaggi avranno relazioni (diplomazia, smabi, attacchi). Default: <0>. 
+
+config.bandit_raid_radius.label=Raggio attacchi banditi
+config.bandit_raid_radius.desc=Raggio in cui i banditi faranno incursioni. Default: <0>.
+
+config.raiding_rate.label=Probabilità di attacchi
+config.raiding_rate.desc=Percentuale per cui villagi e banditi faranno un attacco durante la notte. Default: <0>.
+
+
+
+config.generate_colour_chart.label=Genera mappa colori
+config.generate_colour_chart.desc=Genera mappa colori da usare negli schemi.
+
+config.generate_building_res.label=Genera elenco risorse
+config.generate_building_res.desc=Genera elenco risorse necessarie per ogni edificio.
+
+config.generate_translation_gap.label=Genera stato traduzioni
+config.generate_translation_gap.desc=Genera lista di traduzioni mancanti per ogni lingua caricata.
+
+config.generate_goods_list.label=Genera elenco oggetti
+config.generate_goods_list.desc=Genera elenco oggetti noti in Millénaire.
+
+config.valuetrue=Si
+config.valuefalse=No
+
+
+config.page.bonus=Bonus Contributori
+config.page.bonus.desc=Bonus per coloro che hanno aiutato Millénaire (traduzioni, schemi edifici, dialoghi, textures, contenuti wiki ect.) or donato: una piccola casa diponibile presso i Capi villaggio.
+
+config.bonus_code.label=Codice Bonus
+config.bonus_code.desc=Codice per abilitare il bonus. Scaricato automaticamente da internet se possibile.
+
+config.validbonuscode=Codice valido! Bonus attivato.
+config.invalidbonuscode=Codice non valido. Ricontrollare.
+

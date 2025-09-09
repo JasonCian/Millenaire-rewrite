@@ -1,0 +1,2 @@
+sells=wool_white
+buys=wood,wood_birch,wood_pine,wood_acacia,wood_jungle,wood_darkoak,cobblestone,wool_white,quartz,byzantine_tiles,gold

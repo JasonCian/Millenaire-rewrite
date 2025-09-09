@@ -1,0 +1,24 @@
+//Note pour les utilisateurs de Windows: si vous voyez le fichier entier sur une seule ligne, ouvrez-le avec PSPAd ou UltraEdit plutôt que Notepad
+//Note to Windows users: if you see the entire file in one line, open it using PSPad or UltraEdit instead of Notepad
+
+priority=5
+priorityrandom=10
+
+labelkey=childobserve
+
+targetvillagergoals=tag_agriculture
+
+duration=30000
+
+//once a day more or less (every ten minutes)
+reoccurdelay=600000
+
+allowrandommoves=true
+
+leasure=true
+
+lookatgoal=true
+
+range=8
+
+sprint=false

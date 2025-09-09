@@ -1,0 +1,25 @@
+building.length=16
+building.width=19
+building.buildingorientation=0
+building.icon=byzantineiconmedium
+building.fixedorientation=west
+building.max=1
+building.areatoclear=3
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Parekklísi
+initial.priority=100
+initial.pathlevel=1
+initial.tag=praying
+
+upgrade1.priority=400
+
+upgrade2.priority=210
+upgrade2.pathlevel=2
+
+upgrade3.priority=190
+
+upgrade4.priority=110
+
+upgrade5.priority=90

@@ -1,0 +1,1 @@
+native:Noufu Ie;gameNameKey:japanesepeasanth_A0;male:japanese_Peasant;female:japanese_PeasantWife;chest:1-5;sign:1;moveinpriority:10

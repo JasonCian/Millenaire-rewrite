@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "millenaire:winefancy"
+        },
+        "title": {
+            "translate": "advancements.rep_byzantines.name"
+        },
+        "description": {
+            "translate": "advancements.rep_byzantines.desc"
+        }
+    },
+    "parent": "millenaire:friendindeed",
+    "criteria": {
+        "rep_byzantines": {
+            "trigger": "rep_byzantines"
+        }
+    }
+}

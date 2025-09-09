@@ -1,0 +1,7 @@
+{
+  "parent": "block/crop",
+  "textures": {
+    "crop": "millenaire:blocks/silkwormip1",
+        "particle" : "millenaire:blocks/silkwormip1"
+  }
+}

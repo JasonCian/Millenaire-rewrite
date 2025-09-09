@@ -1,0 +1,18 @@
+//* A parte antes do ";" é o título, depois a descrição
+
+
+0;Desconhecido; Como povo comercial, temos que aceitar todos. Mas não precisamos confiar neles.
+4*64;Familiaridade: Ultimamente, você costuma ser visto nessas áreas romanas.
+8*64;Rosto conhecido; outros romanos parecem ter notado você e falam bem de você! Você não parece ser um bárbaro, afinal.
+16*64;Visitante regular; Xaire, $name! É bom te ver. Como estão as coisas?
+32*64;Companheiro Homem Civilizado; Ah, é bom ver que outras pessoas fora do Império Romano podem ser civilizadas como nós de vez em quando.
+64*64;Comerciante Favorito; Todo mundo aqui está feliz em vê-lo. Você tem alguma coisa para negociar? Nosso relacionamento comercial ajudou a nós dois.
+2*64*64;Amigo da Vila; você faz parte do nome da nossa vila $name, confiamos em você agora!
+4*64*64;Aliado respeitável; Parabéns $name! Você ganhou nosso respeito. É difícil para os estrangeiros se tornarem amigos do Império Romano, quanto mais respeitados. Mas VOCÊ, você provou ser digno!
+8*64*64;Um de nós; Nós o vemos agora como um nome cívico romano $name. Talvez você não tenha nascido como um de nós, mas agora pode se orgulhar de se chamar um verdadeiro romano.
+32*64*64;Líder natural; $name, você ganhou a confiança e o respeito dos bizantinos. Eles o seguirão em qualquer lugar.
+4*32*64*64;O Próximo César; Você será o Próximo César! A enorme quantidade de trabalho que você fez para esta vila é inimaginável e nós o seguiremos para tornar este mundo um lugar melhor. Salve $name!
+-64;Incômodo; Você não é muito legal, $name. Cuidado onde pisa.
+-4*64;Estranho Desagradável; Aceitamos comerciantes, mas não pessoas como você. Esteja em guarda.
+-16*64;Inimigo público; Foi embaraçoso para todo o império romano deixá-lo vivo. Enquanto você continua a gostar de viver, deixe as terras romanas e nunca mais volte.
+-64*64;Bárbaro Aparente; Você não nos entende? Tudo bem, vamos tentar outra coisa: BAR BAR BAR, BAR BAR, BAR BARRRR!

@@ -1,0 +1,27 @@
+native_name=Farsi Vyaapaari
+gender=male
+familyNameList=merchant_oriental_family_names
+firstNameList=merchant_oriental_first_names
+tag=visitor
+tag=foreignmerchant
+chanceWeight=10
+icon=dye_blue
+
+travelbook_held_item=dye_blue
+travelbook_held_item_off_hand=purse
+
+texture=textures/entity/indian/ML_Merchant_Oriental0.png
+texture=textures/entity/indian/ML_Merchant_Oriental1.png
+
+goal=gorest
+goal=gopray
+goal=godrink
+goal=keepStall
+
+merchantstock=cactus,64
+merchantstock=dye_blue,64
+merchantstock=sandstone,128
+merchantstock=diamond,32
+merchantstock=gold,64
+
+experiencegiven=3

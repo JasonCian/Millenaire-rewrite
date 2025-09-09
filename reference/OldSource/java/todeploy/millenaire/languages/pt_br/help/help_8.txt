@@ -1,0 +1,11 @@
+
+version:3.4
+<darkblue>Os Normandos
+A cultura de origem do Millénaire, os Normandos possuem o maior leque de tipos de aldeia: agrícolas, militares, eclesiásticas, industriais e a grande vila, com as suas três aldeolas secundárias em seu redor. Os Normandos comunicam em francês entre si e com o jogador.
+<darkblue>Objectos e Blocos Nativos
+- Os utensílios Normandos, que são mais eficazes que os de diamante (produzidos por um ferreiro numa forja);
+- A espada e as armaduras Normandas, fabricadas num armeiro e, de igual forma, melhores que as versões em diamante;
+- O boudin, as tripes, a calva e a sidra, alimentos que recuperam instantaneamente a vida do jogador;
+- As armações de madeira, um bloco de construção em duas variedades utilizado frequentemente para as construções Normandas mais avançadas, fabricadas pelo carpinteiro;
+- As tapeçarias Normandas, produzidas pela dama num castelo a partir da lã (duas brancas, uma cinzenta, uma cinzenta clara, uma preta e uma castanha) e que recriam excertos da tapeçaria de Bayeux.
+-Tapeçarias normandas, feitas pela dama de um castelo a partir de lã (duas brancas, uma cinza, uma cinza clara, uma preta, uma marrom) e representando extratos da Tapeçaria de Bayeux.

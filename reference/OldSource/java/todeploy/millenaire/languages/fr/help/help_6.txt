@@ -1,0 +1,14 @@
+version:3.4
+<darkblue>Création d’un village
+
+Il vous est possible de générer un village du type de votre choix à l’emplacement de votre choix grâce à une <darkblue>baguette d’invocation<black>, objet que vous pouvez acheter dans n’importe quel village à condition d’avoir une réputation suffisante. Pour utiliser la baguette, placer un bloc d’or à l’endroit où vous souhaitez faire apparaître un village et utilisez la baguette dessus. Un écran vous permettra de choisir le type de village souhaité.
+
+<darkblue>Destruction d’un village ou d’un bâtiment isolé
+
+Les habitants d’un village ou bâtiment ressuscitent  toutes les nuits, même si vous détruisez tous les bâtiments du village. Pour empêcher ça (si vous souhaitez occuper les bâtiments eux-mêmes, par exemple), vous devez utilisez la <darkblue>baguette de négation<black> : vous la trouverez dans les coffres d’un village ou bâtiment dont tous les habitants sont morts. Attention, la destruction d’un village est irreversible.
+
+<darkblue>Villages contrôlés
+
+Il est possible de créer un village dont vous êtes le chef et où vous pourrez choisir l’emplacement de tous les bâtiments. Pour cela, vous devez être reconnu comme chef dans la culture du village : ou grâce à la <darkblue>quête de la création<black> (voir section quêtes) ou en atteignant la réputation « chef reconnu » dans un village et en parlant à son chef. Vous verrez ensuite une option pour créer un village contrôlé dans l’interface de la baguette d’invocation.
+
+Dans un village contrôlé, vous pouvez demander la construction d’un nouveau bâtiment en utilisant la baguette à l’endroit désiré. Une interface s’ouvrira pour vous permettre de choisir la bâtiment souhaité. Vous pouvez également contrôler les améliorations aux bâtiments existants via le panneau « projets ». Il n’est pas possible de commercer avec les villageois dans un de ces villages – vous pouvez simplement utiliser les coffres.

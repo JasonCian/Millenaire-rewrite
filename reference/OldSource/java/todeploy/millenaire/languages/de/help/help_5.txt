@@ -1,0 +1,28 @@
+version:3.4
+<darkred>Kampf und Überfälle
+
+Millénaire ist nicht immer eine friedliche Mod: Du kannst Dorfbewohner bekämpfen, Dörfer können gegeneinander Krieg führen, Monster können Dörfer überfallen, und einige alleinstehende Gebäude sind von Banditen bewohnt. Unabhängig von den Umständen, ändern sich bestimmte Grundsätze nicht: 
+<darkblue>Dorfbewohner sind nur durch direkte Angriffe verwundbar (Nahkampfangriffe, Pfeile und Tränke). 
+Sie werden nicht durch Feuer, Fallschaden oder Kakteen verletzt. Diese Einschränkung soll den Spieler davon abhalten, sie zu töten, ohne dass sie sich dessen bewusst sind. 
+
+Dorfbewohner variieren in Stärke und der Ausrüstung, welche sie tragen. Die Ausrüstung, die sie tragen, macht sie viel gefährlicher.
+
+<darkblue>Wiederauferstehen von Dorfbewohnern
+
+Wenn ein Dorfbewohner getötet wurde, ist er zeitweilig Tot. Tote Dorfbewohner erwachen während der Nacht in ihren Häusern wieder (aber sie verlieren all Ihre Ausrüstung). Immerhin kann der Spieler auch wieder auferstehen...
+
+<darkblue>Angriff durch Spieler
+
+Du kannst einen Dorfbewohner angreifen, aber die anderen Dorfeinwohner werden dann helfen, Dich zu bekämpfen. Sollte es Dir gelingen, alle Dorfbewohner eines Dorfes oder alleinstehenden Gebäudes zu töten, öffnen sich die Kisten und Du kannst den Inhalt stehlen.
+
+<darkblue>Banditen
+
+Einige Bewohner alleinstehender Gebäude werden Dich ohne Warnung, wenn Du Dich näherst, angreifen. Dein Ruf bei der Kultur wird nicht sinken, wenn Du sie tötest. Wie andere Dorfbewohner, erwachen auch Banditen nachts von den Toten - Sieh unter "<darkblue>Zerstörung eines Dorfes<black>" nach, um rauszufinden, wie man das verhindert.
+
+<darkblue>Kriege zwischen den Dörfern
+
+Millénaire Dörfer haben positive oder negative Beziehung zu den umliegenden Dörfern. Diese Beziehungen sind Schwankungen unterlegen und können durch den Spieler, indem er mit dem Oberhaupt eines umliegenden Dorfes spricht, beeinflusst werden. Wenn ihre Beziehungen sehr schlecht sind und eines der Dörfer genug Kämpfer hat, kann es einen Überfall auf andere Dörfer starten. Du wirst durch eine Meldung darüber informiert. Bei einem Angriff werden die Kämpfer, die das Dorf angreifen versuchen die Männer des Dorfes, welches sie angreifen zu töten. Wenn dies der Fall ist, nehmen sie einige der Ressourcen als Kriegsbeute mit. Du kannst der einen oder anderen Seite bei einem Angriff helfen. Es kann sinnvoll sein, ein Dorf, das Dich mag zu ermutigen, seinen Nachbarn anzugreifen, um ihre Vorräte zu erhöhen. Zynischer weise kann das Fördern von Angriffen auf Dörfer auch die eigenen Taschen füllen, wenn die Verteidiger tot sind.
+
+<darkblue>Einstellung eines Dorfbewohners
+
+Es ist möglich, einige Dorfbewohner anzuheuern, wie beispielsweise die Soldaten und Holzfäller, um Dir bei Angriffen zu helfen. Sie werden Dir folgen und mit Dir Deine Gegner bekämpfen.

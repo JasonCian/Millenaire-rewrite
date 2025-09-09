@@ -1,0 +1,20 @@
+//Parameters for the building as a whole
+building.length=44
+building.width=32
+building.areatoclear=5
+building.buildingorientation=3
+building.issubbuilding=true
+building.parentbuildingplan=palace_A9
+building.max=0
+building.icon=indianstatue
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Mahal Ka Mandir
+initial.priority=600
+initial.tag=praying
+initial.tag=pujas
+initial.tag=leasure
+
+

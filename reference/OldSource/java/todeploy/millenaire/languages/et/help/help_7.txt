@@ -1,0 +1,12 @@
+﻿version:3.4
+<darkblue>Ülesanded
+
+Ülesanded on täiendavad tegevused mida sa saad teha külaelanikele . Kui ülesanne on saadaval,siis see on näidatud külaelaniku pea kohal nurksulgudes,nagu näiteks: "<darkblue>[Janune!]<black>." Vajuta parema hiireklõpsuga selle peale,et saada seletus selle ülesande jaoks ja valik kas võtta vastu või ei. ülesannete ära tegemise korral premeeritakse kas raha,reputatsiooni või objektidega. Mõned ülesanded vajavad,et sul oleks hea reputatsioon külaga,et neid vastu võtta.
+
+Et näha mis ülesanded sa oled vastu võtnud ja mida sa pead tegema,vajuta "M".
+
+<darkblue>Loomise ülesanne
+
+See eriline kollektsioon sisaldab mitmeid missioone ja sellel on kaks iseseisvat osa, kesgenduvad normannide ja indianlaste kultuurile. Iga missiooni esimene osa on määratud sulle kas indianlaste või normannide külaelanike poolt,kui sa saad vajatud reputatsiooni "Küla sõber" (ülesanne algab suvaliselt,nii et see võib võtta natuke aega ennem kui see on saadaval) .
+
+Mõlemad üleasanded vajavad sul leida üks eriline üksik ehitis. Sa pead uurima uusi kohti kuni sa leiad selle; ole valvas kuna see on väga haruldane. Mitte nagu teised üksildased ehitised,need ehitised ilmuvad kui sa vajutad "V" tähte.

@@ -1,0 +1,15 @@
+//Parameters for the building as a whole
+building.length=32
+building.width=32
+building.buildingorientation=1
+building.issubbuilding=true
+building.parentbuildingplan=abbey_A3
+building.icon=book
+building.travelbook_display=false
+building.max=0
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Cellule de moine
+initial.priority=5000
+initial.male=monk

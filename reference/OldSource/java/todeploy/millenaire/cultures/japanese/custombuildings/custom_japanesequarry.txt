@@ -1,0 +1,1 @@
+native:Saisekijou;gameNameKey:japanesequarry_A0;male:japanese_miner;female:japanese_peasantwife;moveinpriority:10;chest:2-5;sign:1;mining:4-8;furnace:1-2;tag:oven

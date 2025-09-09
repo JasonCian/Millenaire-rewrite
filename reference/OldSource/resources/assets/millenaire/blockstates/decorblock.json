@@ -1,0 +1,16 @@
+{
+	"forge_marker": 1,
+    "variants": {
+        "normal": {"model": "millenaire:markerBlock"},
+        "type=tapestry": { "model": "millenaire:decor_tapestry" },
+        "type=indianstatue": { "model": "millenaire:decor_indian" },
+        "type=byzantineiconsmall": { "model": "millenaire:decor_byz" },
+        "type=byzantineiconmedium": { "model": "millenaire:decor_byz" },
+        "type=byzantineiconlarge": { "model": "millenaire:decor_byz" },
+        "type=mayanstatue": { "model": "millenaire:decor_mayan" },
+        "type=hidehanging": { "model": "millenaire:decor_hidehanging" },
+        "type=wallcarpetsmall": { "model": "millenaire:decor_seljuk" },
+        "type=wallcarpetmedium": { "model": "millenaire:decor_seljuk" },
+        "type=wallcarpetlarge": { "model": "millenaire:decor_seljuk" }
+    }
+}

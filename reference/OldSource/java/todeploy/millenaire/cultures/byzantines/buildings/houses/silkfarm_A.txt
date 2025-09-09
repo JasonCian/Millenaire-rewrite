@@ -1,0 +1,26 @@
+building.length=17
+building.width=22
+building.mindistance=0.6
+building.icon=silk
+building.max=1
+building.areatoclear=3
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Ektrofí Metaxoskólika
+initial.priority=100
+initial.male=silkfarmer_byzantine
+initial.female=lady_byzantine
+initial.prioritymovein=15
+initial.tag=silkwormfarm
+initial.villagetag=clothes
+
+upgrade1.priority=200
+upgrade1.pathlevel=1
+
+upgrade2.priority=200
+
+upgrade3.priority=110
+
+upgrade4.priority=100

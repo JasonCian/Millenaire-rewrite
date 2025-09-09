@@ -1,0 +1,16 @@
+﻿version:3.4
+<darkblue>Indijci
+
+So iz severnega dela Indije in ževijo v vaseh treh vrst: vojaške naselbine so nastanjene okrog trdnjave, kmetijske vasi okrog poglavarjeve hiše in razkošne so pod oblastjo kraljeve palače z dvema majhnima vasicama okrog. Govorijo Hindijski jezik in njihov dialog bo preveden ko se igralec "nauči" njihovega jezika.
+
+<darkblue>Posebni objekti in bloki
+
+-Indijci gojijo riž in kurkumo. Igralec lahko prosi poglavarja, da ga nauči gojiti te rastline.
+-Blatne opeke in pečene opeke so pridelane s tem, da mokre opeke pustite sušiti zunaj na soncu. Mokre opeke so ustvarjene z modelom za opeke (kupjen v vasi).
+-Incijanski kipi predstavljajo podrobnosti božanstva, ki jih je ustvaril kipar.
+-Okusna rasgula, sladkarija ustvarjena iz sladkornega trsja.
+
+<darkblue>Posebni recepti (brez oblike)
+
+-En riž, ena kurkuma ustvari vegeterjanski kari.
+-En riž, ena kurkuma ub ena surova kokoška ustvari mesni kari.

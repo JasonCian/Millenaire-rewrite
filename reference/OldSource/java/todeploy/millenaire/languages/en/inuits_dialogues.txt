@@ -1,0 +1,117 @@
+//* Dialogue lines start with a code like "v2;30;" which specify who is speaking and when the line shows up. Please copy it exactly in your translations.
+//* First half of the line (till the /) is in the villagers' language and must be kept as-is, second part should be translated
+
+newchat;key:rain,tag:notraining,weigth:10
+v1;0;kisu qanniqtuq? / Is it snowing?
+v2;30;aamai qiuvit?? / It looks like snow, but doesn't seem to be cold.
+
+newchat;key:beautiful,weigth:10
+v1;0;asiujivaa, / Where are we, this is not anywhere I have seen before. It looks the same but feels different.
+v2;30;angakkuq uqalaittuq unillarvik tuurngaq, ittukki! / The shamans say we are in the blessed land of the helpful spirits, that is why it is so amazing here!
+
+newchat;key:sunset,weigth:10
+v1;0;sinigiaqaqtunga, unnusak... / I'm tired, today is going by not fast enough...
+
+newchat;key:seasons,weigth:10
+v1;0;aaqqiktausimalluni angunasungniq suvallituq ukiuq? / Do you think the hunt will be good this year?
+v2;30;aamai, uqqulimajuq. / Who knows, with the weather we've had.
+v1;60;upirngalaaq ippigijaillingajuq. / Seasons don't make sense here.
+
+newchat;key:normans,weigth:5
+v1;0;qallunaat uivirripaa, uiguit? / I met some weird people, they call themselves Normans?
+v2;30;ii uigit anittaa pirlajuq. / Yeah the Normans are great but they sure need a lot.
+v1;60;nauk ilitsimajuq? / What do you mean?
+v2;90;uiguit ungalliani pimajaqpuq, pirlajuq. / One came by the other day and I emptied my house giving him stuff, he just kept needing more apparently.
+v1;120;saipaaqsauti / Poor guy.
+
+newchat;key:japanese,v1:adult,v2:adult,weigth:5
+v1;0;ualiniq immikkuurtuq qallunaat nirrimaatsiutit iqaluk! / Those Japanese people sure know how to prepare fish!
+v2;30;"nirrimaatsiutit" iqaluk? uugitsanguivuq, ii? / "Prepare" fish? You just mean they cook it, right?
+v1;60;aakka nirrimaatsiutit papa mamaqtuq. / No, I mean they serve their food with all of these elaborate methods and flavors.
+v2;90;aungajuaq mamailliungusuttuq tangiq aakka? / Food can taste different without just being spoiled?
+v1;120;siaruulaaqtumi suurmi! / Yeah you should come with me next time I check them out!
+
+newchat;key:murderer,weigth:10
+v1;0;tusarniiluttuq sukutsiq sivunittini. / Did you hear what happened to him after the accident?
+v2;30;ilinngatuq inuarniq aakka. / Accident or not, killing people is wrong.
+v1;60;pirlajuq inuillitiqtuq ii tuqutsiarivaa / Yeah but did we need to kick him out of the village? I hear he has gone crazy on his own.
+v2;90;manguppaa! akka itjiunngittuq aakka qiqumajuq. / We had to! At least here it isn't cold and he won't freeze to death out there.
+v1;120;inuillitiqtuq! / Is that better? Now he is forced to live alone by himself!
+
+newchat;key:kys,weigth:10
+v1;0;qarungu avasirngulik tuqutsiarivaa? / When is the elder going to leave to die?
+v2;30;aakka pirlajuq, suvallituq! / I don't think we need to do that here, this new world is much more accomodating!
+v1;60;aamai... uummangajuq / I guess... but it is weird to see her still alive.
+
+newchat;key:visitors,weigth:10
+v1;0; nunasiuriijaqtuq tikittusiaqpaa, upaajut qallunaat. / This place is weird, it is full of strange people.
+v2;30;qallunaat $name? / You mean like $name?
+v1;60;aakka $name, qinungati / Well $name is just one person though, I mean all those others.
+
+newchat;key:endermen,weigth:10
+v1;0;avasirngulik uqautivaa takisuuq, haattuq, iliranaqtuq kallupilluk? / Have you heard what the elder says about those tall, slim, scary people?
+v2;30;unniluppuq tariaksuq? aamai... / What that they are the Shadow-People? I don't know...
+v1;60;maituaq! ii uqalaittuq unillarvik irinaliut / It makes sense though! If we are truly in a blessed land they would be twisted like that!
+v2;90;uqalaittuq unillarvik summat tariaksuq? / But if we are in a blessed land then why are the Shadow-People even here?
+v2;120;quingaaluk... aamai... / Oh... ummm, I don't know...
+
+newchat;key:likingrain,tag:raining,v1:adult,v2:adult,weigth:10
+v1;0;unganaqtuq aput. / I like snow.
+v2;42;mamaaqpi inuk! / Good thing for an Inuit!
+
+newchat;key:meat,weigth:10
+v1;0;pijurivaa niqituinnaq nangminiqaqatiujjutit, uumisuttuq niqiinniatuq / I think our meat stores are running low, I hate when we run out.
+v1;30;niqituinnaq aakka qaluniq / Meat is just not the same as stews...
+v2;60;qaluniq pigivaa niqituinnaq? / But most stews have meat in them?
+v1;90;qaluniq aakka niqituinnaq... / Yeah, but it just isn't the same...
+
+newchat;key:carribou,weigth:10
+v1;0;nauk tuttuq? uggualuppuq tuttuvinik / Where are all the caribou? I miss caribou meat.
+v2;30;tuttuliaq aakka pitsasiaq tuttuq. / We have had many hunts, but none have found any caribou.
+v2;60;pitsasiaq immuksiugaq! / We have found plenty of what looks like bison though!
+v1;60;kiinaujat piiqsiviulauqtinnagit, uumisuttuq immuksiugaq, tuttuq ikullajuq. / Yuck, I hate bison, caribou is better.
+v2;90;tamualitiqpait iqaluk, minallakaat. / Well then have the fish, we have lots of that.
+
+newchat;key:countingcows,v1:child,v2:adult,weigth:10
+v1;0;iqianngunaqtuq. / There isn't much to do around here.
+v2;30;mamaaq, qasungajuq. / It's good, peaceful.
+v1;60;sarimaikuni... / And boring...
+v2;75;iluliuqpuq, illulinnipuq! / You could dig a hole, or build a snow igloo!
+v1;110;igluvijaq?! / My own snow igloo?!
+
+newchat;key:shamans,v1:child,v2:adult,weigth:5
+v1;0;ilaavigivaa angakkuq, uqasiriittuq tuurngaq. / I envy the shamans, wish I could speak with the spirits like they do.
+v2;30;ilinniaqtuq angakkuq ilippuq / You could see if the shaman will teach you?
+v1;60;aamai... tuurngaq iliranaqtuq / Maybe... but some spirits are scary.
+v2;70;ii, taimanngat tuurngaq iliranaqtuq ivaaqpuq. / Right, there will always be scary spirits to watch out for.
+
+newchat;key:kids1,v1:child,v2:child,weigth:10
+v1;0;ataata pakkiggumiuttut ivvit. / My dad is much stronger than yours.
+v2;30;ataata pakkiggumiut illugasatjuat, tukiittulivuq! / My dad is the strongest in the village dummy!
+v1;60;tikittusiaqpaa, ataata pakkiggumiuttut ivvit attaiq. / Dream on. My dad can beat yours in two minutes flat.
+
+newchat;key:badflirt,v1:adult,v2:child,v1:male,v2:female,weigth:11
+v1;0;takuminaqsalaivuq, suvit unnuaq? / So beauty, what are you doing tonight?
+v2;40;$targetfirstname, qinungavik suvit, qinuaqarvik! / $targetfirstname, I already told you, I am promised to another!
+
+newchat;key:hunting,weigth:10
+v1;0;takurngiunaqsivaa. / I've improved my skills again.
+v2;30;piusivuq uummajuqsutuq! / You're quickly becoming a great hunter!
+v1;90;ii isumanaqtuq? / You really think so?
+
+newchat;key:foodpreparer,building:foodpreparer,weigth:10
+v1;0;takutsugusuppuq pujaniq niqituinnaq igaarniq niq?iuqti. / I love the smell of meat cooking from the food preparer.
+v2;30;aamai mikitjipuq, surratippaa nainguumivuq. / I don't know I usually prefer my meat uncooked, it changes the taste.
+v1;60;ua taamannak asianngutuq uuppaa. / Hey I like that changed taste!
+
+newchat;key:mikiruk,v1:adult,v2:adult,weigth:8
+v1;0;umingmak kaszruruk mikiruk. / Ugh, look how small and sickly the bison are here.
+v2;42;tunisiruq, "immulivik..?" / The foreign merchant calls them, "cows..?"
+
+//a shaman and another guy
+//alapittuk, muruaneq, qanir, aakka kikkitigaa? / I don't get it, snow is on the ground, snow is in the sky, why aren't we dying of frostbite?
+//uqalaittuq unillarvik Sanna! / This truly is the blessed holy lands of Sedna, I'm sure!
+
+//a shaman0 and another guy
+//alapittuk, muruaneq, qanir, aakka kikkitigaa? / I don't get it, snow is on the ground, snow is in the sky, why aren't we dying of frostbite?
+//uqalaittuq unillarvik Sanna! / This truly is the blessed holy lands of Sedna, I'm sure!

@@ -1,0 +1,34 @@
+version:3.4
+<darkblue>Omdømme og landsbyleder
+
+Hver landsby i Millénaire har en mening om deg, nøytral til å begynne med og som endres avhengig av dine handlinger. Dette omdømmet er veldig viktig: mange belønninger er kun mulig med et godt omdømme, og dersom omdømmet ditt blir for dårlig, kan landsbyboere nekte å handle med deg. Du kan sjekke omdømmet ditt ved å snakke (<darkblue>høyreklikke<black>) med landsbylederen.
+
+Hovedmåten å forbedre omdømmet ditt på er gjennom handel med landsbyen. Kjøp og salg forbedrer begge omdømmet ditt, proporsjonalt med prisen. Du kan også øke omdømmet ditt ved å utføre oppdrag for dem. Omvendt så vil det å angripe en landsby eller feile visse oppdrag skade omdømmet ditt.
+
+Du har også et <darkblue>omdømme for hver kultur<black>. Dette omdømmet påvirkes av alle dine omhandlinger med landsbyer innenfor denne kulturen, og påvirker handel med andre landsbyer av samme kultur. For eksempel, dersom du har et veldig godt omdømme med en normannisk by, så vil følgelig andre normanniske landsbyer også like deg (litt) mer. Du kan sjekke omdømmet ditt for hver kultur på skjermen for informasjon ("M"-knappen som standard).
+
+<darkblue>Handlinger som krever et visst omdømme
+
+<darkblue>Kjøpe et landsbypergament
+
+Med et godt nok omdømme så kan du kjøpe et landsbypergament fra landsbylederen. Denne bokrullen inneholder all informasjon som gis av de forskjellige panelene i landsbyen.
+
+<darkblue>Kjøpe et hjem
+
+Når du har oppnådd et godt nok omdømme så kan du kjøpe et hus (eller en tomt å bygge på) ved å snakke med landsbylederen. Hjemmet dit vil bli bygget av landsbyen så snart som det pågående byggeprosjektet er fullført. I motsetning til resten av området rundt om i byen så er denne bygningen din, og du kan tilrettelegge det som du selv ønsker.
+
+<darkblue>Lære å plante en avling
+
+Du kan lære deg å plante de Millénaire-spesifikke avlingene som brukes av visse kulturer. Kontakt landsbylederen når du har et godt nok omdømme.
+
+<darkblue>Kjøpe ytterlige gjenstander
+
+Noen verdifulle gjenstander krever at du har et godt omdømme i landsbyen. Dersom du ikke har omdømmet som kreves for å kjøpe en slik gjenstand så vil dette vises på skjermen for handel.
+
+<darkblue>Ytterlige oppdrag
+
+Noen oppdrag, inkludert skapelsesoppdraget, kan kun bli startet med et godt nok omdømme (se <darkblue>"oppdrag"<black>).
+
+<darkblue>Å bli en leder i en kultur
+
+Når du har rukket det maksimale omdømmet (<darkblue>"naturlig leder"<black>) så kan du bygge en landsby hvor du vil være lederen (se <darkblue>"å skape en landsby"<black>)

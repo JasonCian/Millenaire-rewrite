@@ -1,0 +1,33 @@
+//Parameters for the building as a whole
+building.length=16
+building.width=12
+building.buildingorientation=0
+building.mindistance=0.6
+building.icon=normanpickaxe
+
+
+//Parameters for initial construction
+initial.startlevel=-8
+initial.nativename=Carrière
+initial.priority=1000
+initial.male=miner
+initial.female=wife
+initial.tag=nopaths
+initial.abstractedproduction=sand,16
+initial.abstractedproduction=cobblestone,128
+
+//Parameters for specific upgrades
+upgrade1.priority=100
+
+upgrade2.priority=95
+
+upgrade3.priority=90
+upgrade3.pathlevel=1
+upgrade3.abstractedproduction=stone,64
+
+upgrade4.priority=85
+
+upgrade5.priority=80
+
+upgrade6.priority=75
+

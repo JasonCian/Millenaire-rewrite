@@ -1,0 +1,26 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "millenaire:cookedbrick_slab"
+    ]
+  },
+  "criteria": {
+    "has_item": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "millenaire:stone_deco",
+            "data": 1
+          }
+        ]
+	  }
+    }
+  },
+  "requirements": [
+    [
+      "has_item"
+    ]
+  ]
+}

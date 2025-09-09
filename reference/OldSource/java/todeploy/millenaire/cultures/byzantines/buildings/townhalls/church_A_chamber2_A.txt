@@ -1,0 +1,17 @@
+building.length=50
+building.width=33
+building.issubbuilding=true
+building.parentbuildingplan=church_A3
+building.max=0
+building.icon=bed_red
+
+initial.startlevel=-5
+initial.nativename=Thálamos
+initial.male=monk_byzantine
+
+initial.priority=200
+
+upgrade1.priority=400
+upgrade1.tag=loom
+upgrade1.tag=fresco1
+upgrade1.requiredparenttags=schoolcomplete

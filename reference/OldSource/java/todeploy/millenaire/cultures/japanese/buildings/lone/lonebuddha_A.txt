@@ -1,0 +1,10 @@
+//Parameters for the building as a whole
+building.length=20
+building.width=22
+building.buildingorientation=2
+building.icon=redflower
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Daibutsu
+

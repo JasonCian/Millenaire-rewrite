@@ -1,0 +1,1 @@
+native:Anemómylos;gameNameKey:windmill_A0;shop:bakery;tag:bakery;craft:1;chest:2-6;sign:1

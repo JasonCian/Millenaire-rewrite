@@ -1,0 +1,9 @@
+
+Wersja: 3.4
+<darkblue> Tworzenie wiosek.
+Możesz przyzwać wioskę wybranego rodzaju gdziekolwiek chcesz z Różdżką Przywołania, przedmiotem który możesz kupić w wiosce kiedy będziesz miał wystarczającą reputację. By użyć różdżki, postaw blok złota w miejscu gdzie chcesz postawić wioskę, i kliknij prawym przyciskiem myszy trzymając różdżkę w ręku. Okno dialogowe pozwoli ci na wybranie typu wioski.
+<darkblue> Niszczenie wiosek lub samotnych budynków.
+Mieszkańcy wiosek i budynków odradzają się każdej nocy, nawet jeśli zniszczysz wszystkie budynki w wiosce. By temu zapobiec (jeśli chcesz się wprowadzić do tych budynków osobiście), musisz użyć <darkblue> Różdżki Zniszczenia<black>: Znajdziesz ją w skrzyni głównego budynku po tym jak wszyscy mieszkańcy zginą. Zniszczenie wioski jest nieodwracalne.
+<darkblue> Wioski Gracza
+Można stworzyć wioskę, z tobą jako jej przywódcą, w której będziesz wybierał lokacje budynków. By to uczynić, musisz być rozpoznawany jako lider tej kultury w jednej wiosce, lub ukończony zadanie stworzenie (zobacz sekcję zadań). Będziesz w stanie stworzyć własną wioskę poprzez interfejs Różdżki Przywołania.
+W wiosce gracza, możesz zamówić konstrukcję budynków używając różdżki w wybranej przez ciebie lokacji. Interfejs pozwoli ci wybrać także potrzebny budynek. Możesz także pozwolić lub zakazać ulepszeń istniejących budynków poprzez tablicę "Projekty". Handel w tych wioskach jest niepotrzebny, gdyż posiadasz dostęp do wszystkich skrzyń.

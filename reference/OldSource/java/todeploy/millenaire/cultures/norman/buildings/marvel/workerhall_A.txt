@@ -1,0 +1,22 @@
+//Parameters for the building as a whole
+building.length=9
+building.width=13
+building.max=0
+building.farfromtag=marvel,80
+building.icon=normanshovel
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Dortoirs
+initial.priority=10000
+initial.male=marvelbuilder
+initial.male=marvelbuilder
+initial.male=marvelbuilder
+initial.male=marvelbuilder
+initial.male=marvelbuilder
+initial.male=marvelbuilder
+initial.male=marvelbuilder
+initial.male=marvelbuilder
+
+//Parameters for specific upgrades

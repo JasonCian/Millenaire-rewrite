@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "millenaire:painted_brick_decorated_pink"
+        },
+        "title": {
+            "translate": "advancements.rainbow.name"
+        },
+        "description": {
+            "translate": "advancements.rainbow.desc"
+        }
+    },
+    "parent": "millenaire:hired",
+    "criteria": {
+        "rainbow": {
+            "trigger": "rainbow"
+        }
+    }
+}

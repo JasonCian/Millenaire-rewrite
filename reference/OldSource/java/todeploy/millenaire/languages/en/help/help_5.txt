@@ -1,0 +1,28 @@
+version:3.4
+<darkblue>Combat and raiding
+
+Millénaire is not always a peaceful mod: you can fight villagers, villages may conduct raids against each other, monsters can attack villages, and some isolated buildings are occupied by bandits. Whatever the circumstances, certain principles do not change: <darkblue>villagers are vulnerable only to direct attacks (melee, arrows and potions)<black>. They are not affected by fire, fall damage, or cactus. This restriction is intended to prevent the player from killing them without them being aware that the player is attacking them.
+
+Villagers vary in strength, and the equipment they wear can make them much more dangerous.
+
+<darkblue>Respawning of villagers
+
+Once killed, a villager is temporarily dead. Dead villagers are respawned in their homes (but they will lose their equipment). After all, the player can respawn as well...
+
+<darkblue>Attack by players
+
+You can always attack a villager, but other men of the village will then help to fight you. Should you manage to kill all the villagers of a village or lone building, the village's coffers will open and you can steal their contents.
+
+<darkblue>Bandits
+
+Some inhabitants of lone buildings will attack you without warning if you approach. Your reputation with their culture will not drop if you kill them. Like other villagers, they respawn at night - look under "<darkblue>destroy a village<black>" to see how to prevent it.
+
+<darkblue>Raids between villages
+
+Millénaire villages have positive or negative relations with nearby villages. These relations change randomly and may be influenced by the player talking to the chiefs of any of the villages. If their relations are very bad and one of the villages has enough fighters, it can launch a raid on other villages. You will be notified by a message. During a raid, the fighters attacking the town will be trying to kill the menfolk of the village they are attacking. If they do, they will take some of the resources as spoils. You can help one side or the other during a raid.
+
+It may be useful to encourage a village that you like to attack its neighbours to increase its resources. More cynically, encouraging raids can also allow you to help yourself to some of the loot once the defencers are dead.
+
+<darkblue>Hiring a villager
+
+It is possible to hire some villagers such as the soldiers and lumbermen to help you in battles. They will follow and fight your enemies with you.

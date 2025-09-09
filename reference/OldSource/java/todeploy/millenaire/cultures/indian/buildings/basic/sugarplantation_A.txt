@@ -1,0 +1,21 @@
+//Parameters for the building as a whole
+building.length=7
+building.width=5
+building.buildingorientation=3
+building.mindistance=0.6
+building.icon=sugarcane
+building.randombrickcolour=white;white:50,silver:30
+building.version=2
+building.areatoclear=4
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Gannaa Baagaana
+initial.priority=1000
+initial.pathwidth=1
+initial.tag=sugarplantation
+initial.tag=nopaths
+
+//Parameters for specific upgrades
+upgrade1.priority=100
+

@@ -1,0 +1,15 @@
+//*  Boudin (francouzska klobasa)
+//*  Tripes (Vnitrnosti - Drštky)
+//* 
+
+
+verze:3.4
+<darkblue>Normani
+Uplne prvni kultura predstavena v modu Millenaire, Normani maji nejvetsi mnozstvi typu vesnic - zemedelske, vojenske, nabozenske, a prumyslovo-orientovane, stejne jako gros bourgy (velka mesta) ktere maji tri osady kolem kazde. Normani mluvi francouzsky ale jejich dialogy budou prelozene jakmile se hrac "naucí" jejich jazyk tim ze s nimi bude mluvit.
+<darkblue>Unikatni objekty a blocky
+Normani vyraby mnoho unikatnich predmetu:
+-Normanske nastroje, ktere jsou ucinnejsi nez diamantove (vyrobene v peci, kovarem)
+-Normanske mece a zdroj, vyrobene ve zbrojnici jsou take lepsi nez diamantove.
+-Jitrnice, vnitrnosti, calvados a jablecny most, tyto jidla okamzite obnovy hracovo zdravi.
+-Drevene blocky ramu, block s dvema varianty velice vyuzivany pro stavbu pokrocilych budov Normanu vyrabeny jenom Charpenteirem (tesarem)
+-Normanske gobeliny jsou vyrobene zenou ktere se rika Hradni pani a jsou vyrobene z vlny (dve bile,jedna sediva, jedna svetle sediva, jedna cerna, jedna hneda) ktere zobrazuji vynatky z Bayeux Tapestry

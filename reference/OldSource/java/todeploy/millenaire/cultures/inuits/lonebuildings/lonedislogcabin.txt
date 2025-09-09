@@ -1,0 +1,37 @@
+name=Asiguk Tupiq
+weight=12
+radius=5
+carriesraid=false
+
+mindistancefromspawn=210
+
+//Vanilla biomes
+biome=TaigaHills
+biome=tundra
+biome=Taiga
+biome=Ice Plains
+biome=cold taiga hills
+biome=frozen river
+biome=extreme hills
+biome=extreme hills m
+biome=extreme hills+
+biome=extreme hills+ m
+biome=Taiga M
+biome=Taiga Hills
+biome=Taiga Hills m
+biome=Mega Taiga Hills
+biome=Redwood Taiga Hills M
+biome=Mega Taiga
+biome=mega spruce taiga
+biome=stone beach
+
+//biomes o'plenty
+biome=ice mountains
+biome=autumn woods
+biome=dead forest
+biome=ominous woods
+biome=snowy coniferous forest
+biome=snowy forest
+
+//starting buildings=
+centre=lonedislogcabin

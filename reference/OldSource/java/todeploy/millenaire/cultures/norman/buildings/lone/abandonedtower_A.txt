@@ -1,0 +1,17 @@
+//Parameters for the building as a whole
+building.length=8
+building.width=10
+building.buildingorientation=3
+building.startinggood=denier,1.0,20,44
+building.startinggood=normanaxe,0.1,1,0
+building.startinggood=normanhelmet,0.1,1,0
+building.startinggood=normanhelmet,0.1,1,0
+building.startinggood=normanlegs,0.1,1,0
+building.startinggood=normanboots,0.1,1,0
+
+building.icon=torch
+
+//Parameters for initial construction
+initial.startlevel=-12
+initial.nativename=Tour détruite
+

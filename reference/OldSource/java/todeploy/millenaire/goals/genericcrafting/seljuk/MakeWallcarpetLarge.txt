@@ -1,0 +1,17 @@
+buildingTag=woolcrafter
+
+priority=50
+
+duration=60000
+
+heldItems=cotton,string,wallcarpetlarge
+
+input=cotton,20
+input=leather,2
+output=wallcarpetlarge,1
+
+buildinglimit=wallcarpetlarge,2
+
+maxsimultaneousinbuilding=1
+
+sound=wool

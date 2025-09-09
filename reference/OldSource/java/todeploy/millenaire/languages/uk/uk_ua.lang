@@ -1,0 +1,194 @@
+#From 1.12 onward, block and item names must be in lang files
+#packaged within the jar.
+#A copy is provided in millenaire/languages for the translators' convenience,
+#but will not be used by Minecraft. It will however be copied within the jar
+#when a new Millénaire version is packaged.
+
+#The Translation Gaps calculator however does use the versions in the
+#millenaire/language folder, so you can check your progress without
+#copying it in the jar
+
+
+#Item names
+
+#The following items should not be translated
+#They are either proper names (the deniers)
+#or specific local specialities that aren't translated
+#in other languages
+#I'm putting them for non-Latin alphabet languages,
+#so they can be written in other alphabets
+item.denier = Бронзовий денье
+item.denierOr = Золотий денье
+item.denierArgent = Срібний денье
+item.calva = Кальва
+item.tripes = Рубець
+item.boudin = Кров'яні ковбаски
+
+item.dirtwall = Земляна стіна
+
+item.building = Закритий скриню
+item.normanPickaxe = Нормандская кирка
+item.normanAxe = Нормандський сокиру
+item.normanShovel = Нормандская лопата
+item.normanHoe = Нормандская мотика
+item.normanBroadsword = Нормандський палаш
+item.normanHelmet = Нормандський шолом
+item.normanPlate = Нормандская кіраса
+item.normanLegs = Нормандські поножі
+item.normanBoots = Нормандські черевики
+item.rice = Рис
+item.turmeric = Куркума
+item.vegcurry = Вегетаріанський каррі
+item.chickenmeat = Сира курка
+item.chickencurry = Мургх каррі
+item.brickmould = Цегляна форма
+item.rasgulla = Разгулла
+item.plaintimber = Рівний каркас
+item.crosstimber = перехрещеними каркас
+item.wetbrick = Сирий цегла
+item.cookedbrick = Обоженна цегла
+item.mudbrick = Саманний цегла
+item.indianstatue = Статуя гінді
+item.ciderapple = Яблуко для сидру
+item.cider = Сидр
+item.villagewand = Жезл Створення
+item.negationwand = Жезл Руйнування
+item.normanvillagers = Нормандські поселенці
+item.normanitems = Нормандські предмети
+item.normanbuildings = Нормандські будівлі
+item.normanfull = Повний сувій Нормандії
+item.tapestry = Нормандський гобелен
+item.vishnu_amulet = Амулет Вішну
+item.alchemist_amulet = Амулет алхіміка
+item.yddrasil_amulet = Амулет Иггдрасиль
+item.skoll_hati_amulet = Амулет Скйолла і Хати
+item.villagescroll = Сувій поселення
+item.indianvillagers = Поселенці гінді
+item.indianitems = Предмети гінді
+item.indianbuildings = Будівлі гінді
+item.indianfull = Повний сувій гінді
+item.unknownpowder = Невідомий порошок
+item.alchimistexplosive = Вибухівка алхіміка
+
+item.japaneseBlueLegs = Сині о-йорой поножі
+item.japaneseBlueHelmet = Синій о-йорой шолом
+item.japaneseBluePlate = Синя о-йорой кіраса
+item.japaneseBlueBoots = Сині о-йорой черевики
+
+item.japaneseRedLegs = Червоні о-йорой поножі
+item.japaneseRedHelmet = Червоний о-йорой шолом
+item.japaneseRedPlate = Червона о-йорой кіраса
+item.japaneseRedBoots = Червоні о-йорой черевики
+
+item.japaneseGuardLegs = Поножі Кейко
+item.japaneseGuardHelmet = Шолом Кейко
+item.japaneseGuardPlate = Кіраса Кейко
+item.japaneseGuardBoots = Черевики Кейко
+
+item.japanesevillagers = Поселенці Японії
+item.japaneseitems = Предмети Японії
+item.japanesebuildings = Будівлі Японії
+item.japanesefull = Повний сувій Японії
+
+item.wah = Вах
+item.masa = Маса
+item.maize = Маїс
+item.mayangold = Золотий орнамент
+item.mayanstatue = Різьблена робота майя
+item.mayanvillagers = Поселенці майя
+item.mayanitems = Предмети майя
+item.mayanbuildings = Будівлі майя
+item.mayanfull = Повний сувій майя
+item.mayanmace = Обсидиановая булава
+item.mayanPickaxe = Обсидиановая кирка
+item.mayanAxe = Обсидіановий сокиру
+item.mayanShovel = Обсидиановая лопата
+item.mayanHoe = Обсидиановая мотика
+item.obsidianflake = Обсидіановий осколок
+item.cacauhaa = Какауха
+
+item.paperwall = Паперова стіна
+item.udon = Удон
+item.thatched = Настил
+
+item.parchmentsadhu = Сувій Садху
+
+item.tachisword = Меч Тачі
+item.yumibow = Лук Юмі
+item.sake = Саке
+
+item.emptysilkwormblock = Порожня шовковиця
+item.fullsilkwormblock = Шовковиця з шовкопрядом
+item.byzantinebrick = Грецька плитка
+item.byzantineslab = Грецька плоска заготовка
+item.byzantinemixedbrick = Грецький камінь
+item.grapes = Виноград
+item.vine = Вино
+item.wine = Вино сорти Malvasia
+item.silk = Шовк
+item.byzantineiconsmall = Маленька Грецька ікона
+item.byzantineiconmedium = Середня Грецька ікона
+item.byzantineiconlarge = Велика Грецька ікона
+item.byzantineboots = Грецькі черевики
+item.byzantinelegs = Грецькі поножі
+item.byzantinePlate = Грецька кіраса
+item.byzantineHelmet = Грецький шолом
+item.byzantinemace = Грецька булава
+item.lambraw = Сира баранина
+item.lambcooked = Смажені баранячі відбивні
+item.feta = Сир Feta
+item.wineBasic = Винна заготівля
+item.clothes_byz_wool = Вовняна Грецька одяг
+item.clothes_byz_silk = Шовкова Грецька одяг
+
+item.souvlaki = шашличек на шпазі (Souvlaki)
+item.purse = Мішечок з грошима
+
+item.pathdirt = Шлях із землі
+item.pathgravel = Шлях з гравію
+item.pathslabs = Шлях з плит
+item.pathsandstone = Шлях з плит пісковику
+item.pathochretiles = Шлях з охра плит
+item.pathgravelslabs = Шлях з плит і гравію
+
+
+advancements.firstcontact.name = Millénaire
+advancements.firstcontact.desc = Зустрінь поселенця
+advancements.cresus.name = Крез
+advancements.cresus.desc = Отримай негативну репутацію
+advancements.summoningwand.name = Закликання
+advancements.summoningwand.desc = Купити Жезл призову і створити з його допомогою село
+advancements.villageleader.name = Перший хлопець на селі
+advancements.villageleader.desc = Стань лідером і створи своє поселення
+advancements.thequest.name = Квест
+advancements.thequest.desc = Виконай квест, даний поселенцем
+advancements.maitreapenser.name = Гуру
+advancements.maitreapenser.desc = Зустрінь Садху або Алхіміка
+advancements.forbiddenknwoledge.name = Забуті знання
+advancements.forbiddenknwoledge.desc = Виконай дві глави Квеста створення
+advancements.puja.name = Маленький подарунок Богів
+advancements.puja.desc = Заплати вченому чоловікові для представлення Пуджі
+advancements.explorer.name = Дослідник
+advancements.explorer.desc = Досліджуй самотнє будівля
+advancements.marcopolo.name = Марко Поло
+advancements.marcopolo.desc = Завітай поселення 3х різних культур в одному світі
+advancements.magellan.name = Фернанд Магеллан
+advancements.magellan.desc = Завітай поселення всіх культур в одному світі
+advancements.selfdefense.name = Самозахист
+advancements.selfdefense.desc = Убий бандита
+advancements.pantheon.name = Пантеон
+advancements.pantheon.desc = Завітай таємничий Пантеон
+
+advancements.darkside.name = Темна сторона
+advancements.darkside.desc = Убий селюка
+advancements.scipio.name = Карфаген має бути зруйнований
+advancements.scipio.desc = зруйнували поселення Жезлом Заперечення
+advancements.attila.name = Аттіла
+advancements.attila.desc = Отримай репутацію Бича Божего в 3-х культурах
+
+advancements.cheers.name = Вип'ємо за MineCraft!
+advancements.cheers.desc = Випий алкоголь з мода Millionaire
+advancements.hired.name = Поміщик
+advancements.hired.desc = Найми роботягу
+advancements.masterfarmer.name = Фермер першу категорії
+advancements.masterfarmer.desc = зародитися культуру Millénaire

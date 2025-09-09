@@ -1,0 +1,15 @@
+//Parameters for the building as a whole
+building.length=9
+building.width=8
+building.buildingorientation=3
+building.max=0
+building.reputation=64
+building.price=8
+building.icon=denier
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Iglu
+initial.translatedname=name_en,iglu
+

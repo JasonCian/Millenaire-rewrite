@@ -1,0 +1,14 @@
+﻿version:4.3.0
+<darkblue>Bizantinci
+
+Ponosni vredni nasledniki Rimljanov, Bizantinci izdelujejo vino in očiščujejoče verske ikone. Govorijo Grško, ampak njihov dialog bo preveden, ko se igralec "nauči" njihovega jezik.
+
+<darkblue>Posebni objekti in bloki
+
+-Gojijo grozdje in iz njega ustvarjajo vino. Igralec lahko prosi poglavarja, da ga nauči gojiti to rastlino.
+-Uporabljajo glino, da ustvarijo elegantne Bizantinske ploščice, ki prekrijejo njihove stavbe.
+-Njihovo mojsterstvo svilarstvo (kmetijstvo sviloprejk) ji omogoča, da ustvarijo svilo, na katero barvajo njihove Bizantinske ikone.
+
+<darkblue>Posebni recepti
+
+-dve vrstici treh kosov grozdja naredi vino

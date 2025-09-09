@@ -1,0 +1,15 @@
+minreputation:0
+chanceperhour:0.5
+maxsimultaneous:1
+
+step:new
+duration:48
+definevillager:key=startvillager,type=norman/wife,forbiddentag=normanrasgullas_done
+definevillager:key=child,type=norman/boy,relatedto=startvillager,relation=samehouse
+villager:startvillager
+requiredgood:rasgulla,1
+rewardmoney:128
+rewardreputation:512
+showrequiredgoods:false
+settagsuccess:startvillager,normanrasgullas_done
+settagfailure:startvillager,normanrasgullas_done

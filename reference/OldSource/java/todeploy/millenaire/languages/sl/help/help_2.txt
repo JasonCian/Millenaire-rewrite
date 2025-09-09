@@ -1,0 +1,10 @@
+﻿version:3.4
+<darkblue>Trgovanje
+
+Večji del vaših interakcij z vaščanim bo trgovanje - lahko prodajate ali kupujete izdelke vključno z bloki in predmeti, ki so značilni za Millénaire. Da trguješ z vaščani, moraš iti v glavno stavbo (ali v drugo trgovino) in počakaš na vaščana, da se sreča s teboj z "Prodajam igralcu" prikazano nad njegovo glavo. Nato z <darkblue>desnim-klikom<black>  nanj odpri zaslon za trgovanje.
+
+Millénaire vaščani vam lahko prodajo le izdelke, ki jih imajo na zalogi in vi lahko prodate le izdelke, ki jih vas potrebuje (odvisno od vasi).
+
+Vsako trgovanje poteka z "denierjim", Francoska srednjeveška valuta. So trije različni tipi deinerjev: standardni denierji, “deniers argent” (srebrni deinerji), vredni 64 deinerjev in “deniers or” (zlati deinerji), vredni 64 srebrnih deinerjev.
+
+<darkgreen>Namig: Na zemljevidu vasi (vključen z desnim klikom na miški na ploščo v glavni stavbi). Trgovine so napisane, ko je miška na stavbi.

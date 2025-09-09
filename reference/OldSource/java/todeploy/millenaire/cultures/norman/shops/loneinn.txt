@@ -1,0 +1,2 @@
+sells=bread,tripes,boudin,calva,cider
+buys=ciderapple,porkchops,beefraw

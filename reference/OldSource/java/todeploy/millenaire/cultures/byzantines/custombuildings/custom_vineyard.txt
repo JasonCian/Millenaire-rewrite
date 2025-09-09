@@ -1,0 +1,1 @@
+native:Amplónas;gameNameKey:vineyard_A0;cropType:grapes;tag:vineyard;sign:1;field:10-30

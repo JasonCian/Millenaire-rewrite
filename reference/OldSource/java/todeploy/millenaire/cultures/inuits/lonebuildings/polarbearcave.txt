@@ -1,0 +1,24 @@
+name=Nanuk Mitjuktipa
+weight=11
+radius=9
+carriesraid=false
+
+mindistancefromspawn=420
+
+//Vanilla biomes
+biome=tundra
+biome=taiga
+biome=ice plains
+biome=cold taiga hills
+biome=frozen river
+
+//biomes o'plenty
+biome=ice mountains
+biome=autumn woods
+biome=dead forest
+biome=ominous woods
+biome=snowy coniferous forest
+biome=snowy forest
+
+//starting buildings=
+centre=polarbearcave

@@ -1,0 +1,17 @@
+//* La parte prima del ";" è il titolo, quella dopo è la descrizione
+
+
+0;Straniero;Non abbiamo mai visto gente con la tua carnagione, dobbiamo stare in guardia.
+4*64;Familiarità;Stai attento, I nostri guerrieri ti tengono d'occhio.
+8*64;Faccia conosciuta; Il nostri costruttori dicono che hai commerciato con noi della pietra di qualità. Forse non dobbiamo tenerti d'occhio dopo tutto.
+16*64;Visitatore regolare;$name! Ci sono novità?
+32*64;Compagno minatore; Come noi, sembri capire come si scava la pietra, forse potremmo essere amici dopo tutto.
+64*64;Mercante favorito;Bentornato, $name. Come sempre le tue mercanzie sono le benvenute.
+2*64*64;Amico del villaggio;$name, Ci hai veramento aiutato a raggiungere tempi migliori.
+4*64*64;Alleato pieno di risorse;$name, sei diventato un prezioso alleato per tutte le risorse e i servizi resi in questo villaggio.
+8*64*64;Uno di Noi;$name i nostri sciamani ti hanno unto come uno di noi.
+32*64*64;Leader Naturale;Ti sei guadagnato la fiducia e il rispetto di tutti i Maya. Ti seguiranno ovunque tu vada.
+4*32*64*64;Grande Dio della Pietra;Sappiamo che non vieni da questo mondo, ma ci hai dato un'intera montagnia di pietra. Devi essere un dio.
+-64;Fastidio;Vattene. La tua razza non distruggerà la nostra cultura.
+-4*64;Estraneo non benvenuto;Hai portato corruzione e disordine nel nostro villaggio.
+-16*64;Nemico pubblico;Hai distrutto il nostro modo di vivere, questo non verrà tollerato.

@@ -1,0 +1,1 @@
+native:Ferme;gameNameKey:farm_A0;male:farmer;female:Wife;moveinpriority:10;cropType:wheat;chest:1-5;sign:1;field:10-30

@@ -1,0 +1,3 @@
+sells=carpet_red,carpet_white,carpet_yellow,dye_white,dye_red,dye_yellow,dye_lightblue
+buys=bone,wool_white,dye_red,dye_yellow
+deliverto=dye_white,dye_red,dye_yellow,dye_lightblue,bone

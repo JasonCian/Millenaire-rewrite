@@ -1,0 +1,23 @@
+//Parameters for the building as a whole
+building.length=11
+building.width=13
+building.buildingorientation=3
+building.icon=mayanshovel
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Yalam Otoch
+initial.priority=400
+initial.male=mayan_peasant
+initial.female=mayan_peasantwife
+
+//Parameters for specific upgrades
+upgrade1.priority=80
+
+upgrade2.priority=70
+upgrade2.subbuilding=mayanlargepeasanthouse2_A_secondary
+
+upgrade3.priority=30
+upgrade3.pathlevel=1
+

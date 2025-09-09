@@ -1,0 +1,10 @@
+
+version:3.4
+<darkblue>Quests
+Quests are additional tasks that you can perform for the villagers. When a quest is available, it will be displayed above the head of a villager within square brackets, for example: "<darkblue>[Thirsty!]<black>." Right-click on it for a description of the task and the ability to accept or decline. Quests will be rewarded with money, reputation or objects. Some quests require you to have a good reputation with the village to be available.
+To find out which quests you have accepted and what you need to do, press "M".
+<darkblue>Creation Quest
+This special collection includes many missions and has two independent chapters, focusing on the Norman and Indian cultures. The first mission of each chapter will be assigned to you by an Indian or Norman villager once you have reached the reputation level of "Friend of the village" (the quest starts randomly, so it may take some time before the quest is available) .
+Both quests require you to find a special lone building. You must explore until you find it; be careful as it is very rare. Unlike other isolated buildings, however, these buildings appear when you use the "V" key.
+This special mission is, in essence, a set of numerous missions divided into two independent chapters and centered on the Norman and Hindu cultures. The initial mission of each chapter will be made available by a Hindu or Norman villager when he attains the reputation of "village friend" (he may have to wait for some time until the initial mission becomes available even after he has attained the necessary reputation).
+In both initial missions you will have to find a special isolated construction; you should explore the map until you find them. Note, however, that they are unique and unlike the common isolated constructions, are listed in the list of villages that can be accessed by the "V" key.

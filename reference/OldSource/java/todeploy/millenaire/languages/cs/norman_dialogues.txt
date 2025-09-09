@@ -1,0 +1,369 @@
+//*       Dialogové řádky začínají kódem jako "v2; 30;" které určují, kdo mluví a kdy se řádek objeví. Prosím, zkopírujte to přesně do vašich překladů.
+//*       První polovina čáry (až do /) je v jazyce vesničanů a musí být zachována, druhá část by měla být přeložena
+//* 
+//* 
+//* 
+//* 
+//* 
+//* 
+
+
+
+newchat;key:rain,tag:notraining,weigth:10
+v1;0;Je sens qu'il va pleuvoir. / Citim, ze bude prset.
+v2;30;Il pleut toujours en Normandie. / Vzdyt prece vzdycky prselo v Normandii
+
+newchat;key:beautifulvillage,weigth:10
+v1;0;Il est beau notre village, tu ne trouve pas? / Nase vesnice je nadherna! Nemyslis?
+v2;30;Magnifique! Et on y travaille dur! / Souhlasim! Taky na ni tvrde pracujeme!
+
+newchat;key:sunset,weigth:10
+v1;0;Le soleil se lève où, déjà? J'oublie toujours. / Odkud vychazi slunce? Stale zapominam.
+v2;30;Au nord, bien sûr! / Ze severu prece... Odkud jinud?
+
+newchat;key:harvest,weigth:10
+v1;0;Tu penses que la récolte sera bonne cette année? / Myslis si ze tento rok bude dobra sklizen?
+v2;30;Qui sait, avec le temps qu'il a fait. / Kdo vi s tim pocasim, ktere jsme meli.
+v1;60;Il n'y a plus de saisons. / Rocni obdobi tady nedavaji smysl.
+
+newchat;key:indianfood,weigth:5
+v1;0;Tu as entendu parler des Indiens? / Slysel jsi o Indech?
+v2;30;Il paraît qu'ils sont très bizarres. / Lide rikaji ze jsou velmi podviny.
+v1;60;J'ai même entendu dire que leur nourriture brûle! / Podle vsecho jejich jidlo hori.
+v2;100;Comme du calva? / Jako calva?
+v1;120;Non, pire! / Ne, horsi!
+
+newchat;key:byzantines,v1:adult,v2:adult,weigth:5
+v1;0;Ces byzantins m'énervent! / Ti Byzanc mi lezou na nervy!
+v2;30;Oui, tu as vu comme ils nous prennent de haut? / Videl jsi jak mocni a silni jsou?
+v1;60;Tout ça parce qu'ils prétendent être romains. / To vse proto, ze tvrdi ze jsou Rimani.
+v2;100;Quelle blague. Des romains dégénérés, alors. / Dobry vtip. Mozna tak degenerovani Rimani.
+v1;130;On devrait organiser un raid chez eux. / Meli by jsme na ne naplanovat utok.
+v2;160;On est vikings après tout! / Jsme prece vsichni Vikingove!
+
+newchat;key:storm,weigth:10
+v1;0;Il y a eu un orage terrible hier. / Vcera tady byla hrozna bourka.
+v2;30;Oui, j'ai cru que le toit allait s'envoler. / Vskutku. V jednu chvíli jsem si myslel ze mi to odfoukne strechu.
+v1;60;Il faudrait les renforcer tous. / Meli by jsme je vsechny zesilit.
+
+newchat;key:visitors,weigth:10
+v1;0;Ce qui manque ici, c'est des visiteurs. / Chybi nam tady vice navstevniku.
+v2;30;Il y a bien $name... / No, mas tady $name...
+v1;60;Oui, mais il est un peu bizarre, non? / No ale je trochu divny, ne?
+v2;100;C'est vrai qu'on ne sait jamais trop ce qu'il va faire. / Je pravda ze nikdy nevime co se mu honi hlavou. Nema to napsany nad sebou.
+
+newchat;key:christmas,weigth:10
+v1;0;C'est quand Noël, déjà? / Kdy budou Vanoce?
+v2;30;Je ne sais pas trop... Les saisons ne changent pas ici. / Tak to opravdu nevim... Rocni obdobi se tu nemeni.
+v1;80;Quel monde bizarre quand même. / Co je to za divny svet?
+v2;110;Parfois on dirait presque la Normandie... / Obcas vypada stejne jako Normandie...
+v2;140;et puis on se rappele que tout est différent. / A pak vidime ze je vsechno jine.
+
+newchat;key:william,v2:adult,weigth:10
+v1;0;Tu as déjà vu le Duc Guillaume, toi? / Nevideli jste Duka Williama?
+v2;30;Non, jamais. Et qui sait où il est maintenant? / Ne, nevidel. A videl ho tu vubec nekdo?
+v1;60;S'il était là, nous aurions déjà conquis ce nouveau monde! / Kdyby tu byl, tak by jsme si tento svet podmanili!
+v2;100;Vive le Duc Guillaume! / At zije Duke William!
+
+newchat;key:floatingearth,v2:adult,weigth:10
+v1;0;Tu as remarqué, ici la terre flotte si on creuse en-dessous. / Všimli jste si ze tu zeme levituje?
+v2;40;Oui, et alors? / Jo. No a co ?
+v1;60;En Normandie, elle tombait... / V Normandii by to bezne popadalo...
+v2;90;En Normandie, Dieu voulait qu'elle tombe. Ici, il veut qu'elle flotte. / V Normandii, Buh chtel aby to padalo. Tady chce aby se to vznaselo.
+v2;150;Pourquoi critiques-tu Dieu? / Co to rikas za nemysly?
+
+newchat;key:likingrain,tag:raining,weigth:10
+v1;0;J'aime bien la pluie. / Mam rad dest.
+v2;30;C'est une bonne chose pour un normand! / To prospiva Normanum!
+
+newchat;key:boudintripes,weigth:10
+v1;0;Tu préfères quoi toi, le boudin ou les tripes? / Co mas radsi? Boudin nebo tripes?
+v2;40;Le boudin, les tripes c'est trop lourd. / Boudin. Tripes je prilis tezky!
+v1;80;Trop lourd? Et tu te dis normand? / Tezky? A to se nazyvas Norman?
+
+newchat;key:horses,v1:child,v2:adult,weigth:10
+v1;0;Ca manque d'animaux, ce pays. / Teto zemi chybi zvirata.
+v2;30;Il y a des vaches, des moutons et des cochons. / Ale vzdyt jsou tu kravy, ovce, prasta,...
+v2;60;Que faudrait-il de plus? / Co vic si prat?
+v1;60;Des chevaux? Et des poneys! / Kone? A co treba poniky!
+v2;90;Parce que tu veux un poney, maintenant? / A to jen proto ze ty chces ted ponika?
+
+newchat;key:tripes,v1:adult,v2:adult,v1:male,v2:female
+v1;0;Les tripes, ça c'est un plat d'homme. / Tripes, je jídlo pro chlapy.
+v2;30;Préparé par les femmes... / Pripravovane zenami...
+v1;60;Mais avec des vaches abattues par des hommes! / Z krav ktere byli zabity muzi!
+v2;100;Et nourries par des femmes... / A krmeny zenami...
+
+newchat;key:countingcows,weigth:10
+v1;0;Ca manque de distraction par ici. / Neni tu nic moc co delat.
+v2;30;C'est bien, c'est calme. / To je dobře. Je to klidne.
+v1;60;Et ennuyeux... / A nudne...
+v2;75;Tu n'as qu'à compter les vaches pour te distraire. / Tak proc nepocitas treba kravy?
+v1;110;Déjà fait hier. Et les poulets aussi. / To uz jsem delal vcera. A slepice taky.
+
+newchat;key:paris,v1:adult,v2:adult,weigth:2
+v1;0;Quel coin paumé ici, quand même. J'aimerai voir autre chose un jour... / Co je to za izolovane misto... Jednoho dne bych rad videl neco jineho ...
+v2;30;Les autres villages sont tous pareils. / Myslis ostatni vesnice? Vsechny jsou stejné.
+v1;60;Pas un village! Un bourg. Ou même une ville! / Nemyslim vesnice! Mesto. A nebo velkomesto!
+v2;90;Quoi, comme Rouen? Tu es fou, c'est à des jours d'ici. / Jako co, Rouen? To jsi asi sileny. Je to nekolik dni odsud,
+v1;120;Rouen... ou même... Pourquoi pas Paris? / Rouen... a nebo...Pariz?
+v1;150;Tu te rend compte, on dit qu'il y aurait 25 000 personnes là-bas! / Nekteri lide rikaji ze tam zije 25 000 lidi. Dokazes si to predstavit?
+v2;180;Tu divague, mon pauvre. 25 000 personnes au même endroit? Et où on les mettrait? / To je sileny. 25 000 lidi na jednom miste? Kam by sli?
+
+newchat;key:calva,v1:adult,v2:adult,v1:male,v2:male,weigth:10
+v1;0;Par ce temps, un petit calva s'impose! / V takovem pocasi je calva nutnosti!
+v2;30;Par tous les temps! / Ve vsech pocasi!
+v1;50;A la Normandie et son climat à calva! / Na zdravi Normadie a na calvu ve vsech pocasich!
+v2;70;Santé! / Na zdravi!
+
+newchat;key:boyvillagechief,v1:child,v1:male,v2:adult,weigth:5
+v1;0;Quand je serais grand, je serais le chef du village! / Az vyrostu tak budu kralem vesnice!
+v2;30;Il va falloir que tu mange beaucoup de soupe avant d'en arriver là. / Budes muset snist jeste hodne knedliku nez se tam dostanes.
+v1;60;Et je te ferais punir! / A ja te serezu!
+v2;70;C'est ça. En attendant, va travailler ou tu vas prendre une claque. / No do toho. Protoze se ma ucit.
+
+newchat;key:kids1,v1:child,v2:child,weigth:10
+v1;0;Mon papa est bien plus fort que le tien. / Muj tata je mnohem silnejsi nez tvuj.
+v2;30;N'importe quoi. Mon papa est le plus fort du village. / To neni pravda. Muj tata je nejsilnejsi z vesnice!
+v1;60;Tu rêves. Mon père met le tien par terre en deux minutes. / Snete dal. Muj tata z vasich tatu udela placku ve dvou minutach.
+v2;70;Et la Terre est ronde! / Ale zeme je kulata!
+
+newchat;key:kids2,v1:child,v1:male,v2:child,v2:female,weigth:10
+v1;0;Les filles, ça ne sert à rien. / Divky jsou k nicemu.
+
+newchat;key:kids3,v2:child,v2:male,v1:child,v1:female,weigth:10
+v1;0;T'es peut être un garçon, mais je te fait pleurer quand je veux. / Mozna jsi kluk, ale stejne te rozplacu kdykoliv budu chtit.
+v2;30;Même pas vrai! Même pas vrai! / To neni pravda! Neni!
+
+newchat;key:enderman,v1:adult,v2:child,weigth:10
+v1;0;Sois sage, ou l'homme des limbes t'emportera cette nuit! / Bud hodny, nebo si te v noci odnese Enderman!
+v2;40;Pfff, j'ai passé l'âge de croire à ces bêtises. / Pfff, Na to jsem uz prilis stary aby jsem veril temhle nesmyslum.
+
+newchat;key:badflirt,v1:adult,v2:adult,v1:nospouse,v2:nospouse,v1:male,v2:female,notrel:sibling,v1:notvtype:monk-priest-abbot,weigth:20
+v1;0;Alors beauté, qu'est ce que tu fais ce soir? / Jsi tak krasna, copak delas dneska vecer?
+v2;40;$targetfirstname, je t'ai déjà dit non! / $targetfirstname, uz jsem ti to rikala - ne!
+v1;60;Quel caractère! / Takovy charakter!
+v2;80;Quel nigaud! / Takova hloupost!
+
+newchat;key:badflirt2,v1:vtype:guard-lumberman,v2:adult,v1:hasspouse,v2:female,notrel:sibling,notrel:parent,notrel:child,weigth:20
+v2;0;$targetfirstname, quels beaux muscles! / $targetfirstname, ty mas ale svaly!
+v1;30;Tais-toi, malheureuse! Si ma femme t'endend... / Bud ticho hlupacko! Jestli te moje zena uslysi ...
+v2;60;Et bien quoi, bel homme? / Nebo co, krasavce?
+v1;90;Tu sais bien comme elle est jalouse! / Vsak vis jak dokaze zarlit!
+v2;120;Et? Elle te fait peur? / A? Ty se ji snad bojis?
+v1;140;Peur? Elle? Quelle blague! / Bojim? A ji? Si delas srandu!
+v2;160;Ha!
+
+newchat;key:frerejacques,v1:child,v2:child,weigth:10
+v1;0;Frère Jacques, frère Jacques / Bratricku Johne, bratricku Johne
+v2;30;Dormez-vous? Dormez-vous? / Spis? Spis?
+v1;60;Sonnez les matines! Sonnez les matines! / Zvony uz zvoni! Zvony uz zvoni!
+v2;100;Ding, daing, dong. Ding, daing, dong!
+
+newchat;key:alouette,v1:child,v2:child,weigth:10
+v1;0;Alouette, gentille alouette, / Maly skrivanek, krasny maly skrivanek,
+v2;0;Alouette, gentille alouette, / Maly skrivanek, krasny maly skrivanek,
+v1;30;Alouette, je te plumerai. / Maly skrivanku, vytrhnu ti pericka.
+v2;30;Alouette, je te plumerai. / Maly skrivanku, vytrhnu ti pericka.
+v1;60;Je te plumerai la tête. / Vytrhnu ti je z hlavy.
+v2;60;Je te plumerai la tête. / Vytrhnu ti je z hlavy.
+v1;90;Et la tête! Et la tête! / Z hlavy!
+v2;90;Et la tête! Et la tête! / Z hlavy!
+v1;120;Pauvre alouette quand même... / Chudak skrivanek...
+v2;160;Pourquoi? C'est drôle! / Proc? Vzdyt je to sranda!
+
+newchat;key:loupyesttu,v1:child,v2:child,weigth:10
+v1;0;Promenons-nous dans les bois, / Projdeme se v lese,
+v2;0;Promenons-nous dans les bois, / Projdeme se v lese,
+v1;30;Tant que le loup n'y est pas. / Zatimco je vlk pryc.
+v2;30;Tant que le loup n'y est pas. / Zatimco je vlk pryc.
+v1;60;Si le loup y était / Kdyby tady vlk byl
+v2;60;Si le loup y était / Kdyby tady vlk byl
+v1;90;Il nous mangerait, / Mohl by nas snist,
+v2;90;Il nous mangerait, / Mohl by nas snist,
+v1;120;Mais comme il n'y est pas, / Ale protoze tu neni,
+v2;120;Mais comme il n'y est pas, / ale protoze tu neni,
+v1;150;Il nous mangera pas. / Tak nas nesni.
+v2;150;Il nous mangera pas... / Tak nas nesni...
+v2;180;Euh, tu es sûr? / Ehh, jsi si jisty ?
+v1;200;Lâche! / Zbabelce!
+
+newchat;key:dagobert,v1:child,v2:child,weigth:10
+v1;0;Le bon roi Dagobert / Dobry kral Dagobert
+v1;30;A mis sa culotte à l'envers / Mel sve kalhoty naruby.
+v1;60;Le grand saint Éloi / Skvely Saint Eloy
+v1;90;Lui dit : Ô mon roi ! / Rikal jsem mu : O muj pane !
+v1;120;Votre Majesté / Vase vysosti
+v1;150;Est mal culottée. / Je to spatne usito.
+v2;180;Mal culottée? Ca veut dire quoi? / Spatne usito? Co to znamena?
+v1;220;Qu'il a pas de culotte! / To ze nema kalhoty!
+v2;250;N'importe quoi, c'est le roi! / Nesmysl, vzdyt je prece kral!
+v1;280;Ben il a pas de culotte le roi! / No, tak v tom pripade kral nema kalhoty!
+v2;310;Même toi t'as une culotte, idiot! / Samozrejme ze ma, idiote!
+
+newchat;key:confession,v1:vtype:abbot-priest,v2:male,v2:notvtype:abbot-priest,weigth:10
+v1;0;Mon fils, il y a longtemps que tu ne t'es pas confessé. / Muj synu, tvoje posledni priznani bylo pred dlouhou dobou.
+v2;40;Mais mon Père, je n'ai pas péché! / Ale Otce, ja jsem nic neprovedl!
+v1;70;Tout le monde pèche dans ce bas monde. / Kazdy hresi v tomto padlem svete.
+v2;110;Même vous, mon père? / I vy, Otce?
+v1;130;Ne sois pas insolent! Tu feras dix Pater Noster en pénitence! / Dost drzosti! Za to udelas deset Otcenasu v tichosti!
+
+newchat;key:confession2,v1:vtype:abbot-monk-priest,v2:female,v2:adult,weigth:10
+v1;0;Ma fille, il y a longtemps que tu ne t'es pas confessée. / Ma dcero, tve posledni priznani bylo davno.
+v2;30;C'est vrai mon père, et j'ai péché! / To je pravda, Otce, zhresila jsem!
+v1;60;Si c'est un péché de chair, nous en parlerons ailleurs. / Pokud to byl hrich tela, meli by jsme si o tom promluvit jinde.
+v2;100;Merci, mon père. / Dekuji vam, Otce.
+v1;120;En attendant, dix Pater Noster. Ca servira toujours! / Mezitim, desetkrat Otcenasu. Nikdy to neni na skodu!
+
+newchat;key:carpenter,v1:vtype:carpenter,weigth:10
+v1;0;J'ai encore amélioré ma technique. / Znovu jsem zdokonalil sve zkusenosti.
+v1;30;Avant d'assembler les colombages, je commence par... / Pred sestavovanim ramu zacinam s ...
+v2;70;C'est fascinant. / Fascinujici.
+v1;90;Tu trouves? / Opravdu si to myslis?
+v2;110;Non. / Ne.
+
+newchat;key:cattlefarmer,v1:vtype:cattlefarmermale-cattlefarmerfemale,v2:notvtype:cattlefarmermale-cattlefarmerfemale,weigth:10
+v1;0;J'adore préparer des tripes. D'abord, saigner la vache... / Miluju pripravovani tripes. Zaprve, nechat vykrvacet kravu...
+v1;40;Puis extraire les boyaux... / Pak vycistit streva...
+v2;60;Arrête, tu me dégoutes! / Nech toho, dela se mi z tebe spatne!
+v1;80;Mais tu adores les tripes! / Ale vzdyt milujes tripes!
+v2;110;Et je ne veux pas savoir comment elles sont faites. / A nechci vedet jak se delaji.
+
+newchat;key:farmer,v1:vtype:farmer,v2:notvtype:farmer,weigth:10
+v1;0;Aucun doute, fermier c'est le métier le plus important. / Neni pochyb, ze farmarstvi je nejdulezitejsi prace.
+v1;40;Sans moi, pas de pain! / Beze me ale neni ani chleba!
+v2;60;Je préfère les tripes, de toute façon. / Ja mam radsi tripes.
+
+newchat;key:guildmaster,v1:vtype:guildmaster,weigth:10
+v1;0;Quand j'étais jeune, j'étais un apprenti très prometteur. / Kdyz jsem byl mlady, byl jsem velmi nadejnym ucednikem.
+v1;40;Guillaume Vif-Argent lui-même s'intéressait à moi! / Guillaume Vif-Argent byl ve me zaujat!
+v1;80;Et maintenant je suis coincé ici. / A ted jsem ztvrdnul tady.
+v1;110;A m'occuper d'abrutis. / Jo...peci o idioty.
+v2;130;Hein, quoi? / Eh, coze?
+v1;150;*soupir* / *povzdech*
+
+newchat;key:knight,v1:vtype:knight,weigth:10
+v1;0;Regarde mon château! Une vraie forteresse! / Podivej se na muj hrad! Opravdova pevnost!
+v2;30;Vous êtes si puissant, seigneur! / Jsi opravdu mocny, muj Pane!
+v1;60;Quand le Duc Guillaume reviendra, il me fera sûrement Comte! / Jestli se Duke William vrati, tak se mnou rozhodne muze pocitat!
+v2;100;Vive le Compte $targetfirstname! / Hura i pro $targetfirstname!
+v1;130;Vive moi! / Hura pro me!
+
+newchat;key:lady,v1:vtype:lady,v2:notvtype:knight,weigth:10
+v1;0;Ma beauté est célèbre dans ces contrés. / Moje krasa je v techto zemich legendarni.
+v2;30;Vous êtes superbe, ma Dame! / Jsi nadherna, ma Pani!
+v1;60;Et pourtant j'ai épousé un petit chevalier de rien du tout... / A presto jsem si vzala uboheho rytire...
+v2;100;Mais sa Seigneurie deviendra certainement comte un jour! / Podle me se jeho Lords stane jednoho dne hrabetem!
+v1;130;Ce nigaud? Ah! Et pourquoi pas Pape, tant qu'à faire? / Ten idiot? A proc ne Papez, kdyz uz jsme u toho?
+v2;160;Pourquoi pas, ma Dame! Euh... Je voulais dire... / Proc ne, ma Pani! Ale... myslel jsem...
+
+newchat;key:lumberman,v1:vtype:lumberman,weigth:10
+v1;0;Pommes pommes pommes! / Jablka, jablka, jablka!
+v1;30;Pommes, pommes... pommes! / Jablka, jablka... jablka!
+v2;60;Plutôt cidre cidre cidre dans ton cas, non? / Jsi si jisty ze to nebyl jablecny most, jablecny most?
+
+newchat;key:merchant,v1:vtype:merchant,weigth:10
+v1;0;Quel village minable. / Jaka to mala vesnice.
+v2;30;Eh étranger, attention à ce que tu dis! / Hej cizince, davej si pozor na jazyk!
+v1;70;Et quels habitants charmants! / A take okouzlujici lide!
+
+newchat;key:miner,v1:vtype:merchant,weigth:10
+v1;0;J'ai composé une petite chanson, tu veux l'écouter? / Slozil jsem mensi pisnicku, chcete ji slyset?
+v2;40;Vas-y! / Jasne!
+v1;50;Heigh-ho, heigh-ho, heigh-ho, heigh-ho...
+v2;70;Ca commence bien... / Slibny zacatek...
+v1;90;Je rentre du boulot! / Vracim se domu z prace!
+v2;110;Et moi j'ai beaucoup à faire. / A mam toho jeste dost co delat.
+
+newchat;key:monk,v1:vtype:monk,v2:child,weigth:10
+v2;0;Frère Jacques, frère Jacques! / Bratricku Johne, Bratricku Johne!
+v1;30;Très drôle, mon enfant. / Velmi vtipne, me dite.
+v2;60;Dormez-vous? Dormez-vous? / Spis, spis?
+v1;90;Ca va, ça va, je connais la chanson. / Staci, staci, ja znam tu pisnicku.
+
+newchat;key:pigherd,v1:vtype:pigherd-pigherdf,v2:notvtype:pigherd-pigherdf,weigth:10
+v1;0;Tout est bon dans le cochon! / Prasata jsou vyborny!
+v2;30;Ils font beaucoup de bruit quand tu les égorges, quand même. / Ale porad vydavaji hodne zvuku kdyz je zabijis.
+v1;70;Plus le cochon braille, meilleure est la viande! / Cim vice prase krici, tim lepsi je maso!
+
+newchat;key:priest,v1:vtype:priest,weigth:10
+v1;0;Je veille sur la santé spirituelle des villageois. / Slouzim duchovnimu zdravi vesnicanu.
+v2;30;Et il y a du travail! / No vsak to je to co ministranti delaji!
+
+newchat;key:priest2,v1:vtype:priest,weigth:10
+v1;0;Notre village craint Dieu. / Nase vesnice se boji Boha.
+v2;30;Et son représentant, Père $targetlastname. / A jeho vikare, Otce $targetlastname.
+
+newchat;key:seneschal,v1:vtype:seneschal,weigth:10
+v1;0;Je suis très estimé à la cour du Roi le Duc Guillaume. / Velice si cennim Krale Duka Williama.
+v2;40;Le Roi le Duc? / Kral Duke?
+v1;60;Sa Majesté Guillaume le Conquérant, Duc de Normandie et Roi d'Angleterre, ignare! / Jeho Vysost William Dobyvatel, Duke z Normandie a Kral Anglie, vy pitomci!
+v2;100;C'est où l'Angleterre? / Kde je Anglie?
+v1;120;De l'autre côté de la mer. Quelle ignorance! / Na druhé strane more. Nevzdelance!
+v2;140;De quelle mer, Seigneur? / A jakeho more, muj Pane?
+v1;160;Quelle insolence! Il suffit! / Takova drzost! To staci!
+
+newchat;key:shepherd,v1:vtype:shepherd-shepherdf,v2:notvtype:shepherd-shepherdf,weigth:10
+v1;0;Etre berger est un métier très noble. / Byt pastyrem je vznesene remeslo.
+v2;30;Noble? Berger? / Pastyr? A vzneseny?
+v1;50;N'avons nous pas été choisis par Dieu pour recevoir la Bonne Nouvelle? / Nebyli jsme snad vybrani bohem aby jsme slyseli ty Dobre zpravy?
+v2;90;Ah, oui. Pendant que vous vous occupiez des agneaux nouveau-nés - en Décembre. / Oh, ano. Zatimco jste se v prosinci starali o nove narozene jehnata.
+v1;130;Et alors? Peut être qu'à Bethléem il n'y a pas de saisons. Comme ici! / No a? Mozna v Bethlehemu nebyli zadny rocni obdobi. Jako tady!
+
+newchat;key:smith,v1:vtype:smith,weigth:10
+v1;0;La vrai force des normands, c'est leurs outils et leurs armes. / Skutecna sila Normanu spociva v jejich zbranich a nastrojich.
+v2;40;Et donc leurs forgerons? / Takze tedy i na kovarich?
+v1;60;Voilà! / Vskutku!
+
+newchat;key:wife,v1:vtype:wife,v2:male,v2:adult,weigth:10
+v1;0;Pourquoi est-ce toujours les femmes qui construisent? / Proc jsou  zeny vzdy ty ktere stavi?
+v2;40;Si ça te gène, je m'occupe du prochain bâtiment. / No jestli ti to vadi tak se o to postaram.
+v1;80;Vraiment? Tu es adorable! Alors, pour les rideaux, n'oublie pas de... / Opravdu? Tak to je hezke! Takze budes stavet misto ni?
+v2;120;En fait non, je vais te laisser faire. / Popravde ne, myslim ze to necham udelat tebe.
+
+newchat;key:alchemyworkshop,villager:alchemistapprentice,v1:notvtype:alchemistapprentice-guildmaster,v2:notvtype:alchemistapprentice-guildmaster,v1:adult,v2:adult,weigth:10
+v1;0;Je suis passé devant l'atelier de l'alchimiste hier. / Vcera jsem prosel pred alchemistovou dilnou.
+v1;40;Il y avait une odeur d'œuf pourris horrible! / Citil jsem tam neco jako shnila vajicka!
+v2;80;Il paraît qu'il essaye de fabriquer la pierre philosophale! / Rikaji ze se snazi vytvorit kamen mudrcu!
+v1;120;Moi j'ai entendu qu'il veut résusciter les morts. / Slysel jsem ze chce pry ozivovat mrtve.
+v2;160;Et moi qu'il va fabriquer un monstre avec des cadavres! / A ja myslel ze tvori priseru z casti tela!
+v1;200;Quelle horreur! / Jak priserne!
+v2;220;C'était un garçon si charmant pourtant... / A to byl takovy dobry chlapec...
+
+newchat;key:archives,building:archives,weigth:10
+v1;0;Tu as visité les nouvelles archives? / Uz jsi navstivil ten novy archiv?
+v1;30;On y voit ce que tout le monde fait! / Muzete videt co vsichni delaji!
+v2;60;Ah, vraiment... et euh... / Oh, vazne... no a...
+v1;90;Oui, j'ai vu ton panneau. / Ano, videl jsem tvuj panel.
+v1;120;Tu devrais avoir honte. / Mel by jsi se stydet.
+
+newchat;key:bakery,building:bakery,weigth:10
+v1;0;J'adore l'odeur de pain qui sort de la boulangerie. / Miluju vuni cerstveho chleba prichazejici z pekarny.
+v2;40;Il ne nous manque plus que quelqu'un sachant faire des croissants. / No a ted musime zjistit kdo umi udelat croissanty.
+
+newchat;key:church,building:church,weigth:10
+v1;0;Notre église est vraiment superbe. / Nas kostel je opravdu okouzlujici!
+v2;30;Elle montre que nous sommes un village pieux. / To ukazuje ze jsme zbozna vesnice.
+v1;60;Et elle est plus grande que celle du village voisin! / Je mnohem vetsi nez ve vedlejsi vesnci.
+
+newchat;key:inn,building:inn,v1:notvtype:merchant,v2:notvtype:merchant,weigth:10
+v1;0;Maintenant que nous avons une auberge, nous allons pouvoir commercer! / Nyni mame hostinec, muzeme obchodovat!
+v2;40;Autrement dit, les marchands de passage vont se servir dans nos resources. / Jinymi slovy, obchodnici, kteri projizdeji kolem, si sami pomohou s nasimi zdroji.
+v1;80;Tu as toujours été cynique. / Ty jsi byl vzdycky cynicky.
+
+newchat;key:market,building:market,v1:notvtype:merchant,v2:notvtype:merchant,weigth:10
+v1;0;J'adore le marché! Tellement de marchandises superbes! / Miluji trziste! Tolik dobreho zbozi!
+v2;40;On se sent moins isolé maintenant. / Citime se tady trochu izolovane.
+v2;80;Mais pas plus riches... / Ale ne bohatsi...
+
+newchat;key:tavern,building:tavern,v1:adult,v2:adult,weigth:10
+v1;0;La taverne est certainement la meilleure chose qu'on ait construite. / Taverna je urcite to nejlepsi co jsme ve vesnici vybudovali.
+v2;40;Personne ici ne dira le contraire! / To nikdo nezpochybnuje!
+
+newchat;key:fort,building:tavern,v1:adult,v2:adult,weigth:10
+v1;0;Hahaha! Nous sommes imparables. Nos navires impressionnants et honorables chevaliers sont le fléau du monde!. / Ha ha ha! Jsme nezastavitelni. Nase impozantni lode a cestni rytiri jsou pohromou sveta!
+v2;40;Et quels sont nos ennemis? Un groupe de tricksters romains et amoureux de la pierre Maya / A co jsou nasi nepratele? Banda rimskych podvodniku a Maysky milovnici kamene?
+v1;80;Ne pas oublier les fous des neiges qui n'ont même pas le concept de l'argent! / Nezapomente na snehovy blazny kteri nemaji ani kousek penez!
+v2;120;Hahaha! La vie normande est la meilleure du monde! Merveilleux cidre, meilleurs outils. Ah, c'est notre âge d'or! / Hahaha! Normansky zivot je ten nejlepsi zivot! Bajecny cider, krasne nastroje. Ach, tohle je nas zlaty vek.
+v1;160;Et nous arrivons à le partager! / A muzeme se o to podelit!
+v2;200;Hahaha! / Hahaha!

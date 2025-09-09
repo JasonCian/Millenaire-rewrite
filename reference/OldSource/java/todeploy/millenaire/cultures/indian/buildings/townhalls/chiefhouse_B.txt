@@ -1,0 +1,37 @@
+//Parameters for the building as a whole
+building.length=15
+building.width=22
+building.areatoclear=5
+building.buildingorientation=2
+building.max=0
+building.icon=decoratedbrickwhite
+building.version=2
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Mukhiya Ka Ghar
+initial.priority=600
+initial.male=indian_villagechief
+initial.female=indian_richwoman
+initial.tag=leasure
+initial.shop=townhall
+initial.signs=2,1,3,5,7,8,6,4,0
+
+//Parameters for specific upgrades
+upgrade1.rebuildpath=true
+
+upgrade2.startlevel=-5
+upgrade2.priority=580
+
+upgrade3.startlevel=-1
+upgrade3.priority=560
+upgrade3.rebuildpath=false
+
+upgrade4.priority=540
+
+upgrade5.priority=520
+
+upgrade6.priority=500
+
+upgrade7.priority=480
+

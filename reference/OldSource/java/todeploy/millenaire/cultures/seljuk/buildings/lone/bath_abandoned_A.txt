@@ -1,0 +1,8 @@
+building.length=21
+building.width=21
+building.areatoclear=3
+
+building.icon=bucketempty
+
+initial.startlevel=-2
+initial.nativename=Hamam

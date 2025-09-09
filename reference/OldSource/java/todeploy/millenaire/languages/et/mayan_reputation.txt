@@ -1,0 +1,10 @@
+0;Võõras;Me ei ole näinud kedagi sinu naha värviga, me peame olema valvsad.
+4*64;Tuntud nägu;Ole hoiatatud, meie sõdalased hoiavad pilku sul peal.
+16*64;Regulaarne külastaja;$name! Kas on ajad toonud muutusi?
+64*64;Lemmik kaupleja;Tere, $name. Nagu alati su kaubad on oodatud.
+2*64*64;Küla söber;$name, sa oled tõeliselt aidanud tuua meid valgemale ajale.
+8*64*64;Üks meist;$name Meie shamaanid on kuulutanud son ühesks meie seast.
+32*64*64;Naturaalne juht;Sa oled saanud truuduse ja usalduse kõikidelt Maiadelt.Nad järgnevad sulle kõikjale. 
+-64;Nuhtllus;Lahku meie maalt. Sinu rass ei tohi naeruvääristada meie kultuuri.
+-4*64;Ebameeldiv autsider;You have brought stench and disorder to our village.
+-16*64;Avalik vaenlane;Sa oled rikkunud meie viisi elada, seda ei saa välja kannatada.

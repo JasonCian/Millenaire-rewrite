@@ -1,0 +1,143 @@
+
+
+newchat;key:sun,tag:notraining,weigth:10
+v1;0;Kitni Garmi Hai! / Как же тут жарко!
+v2;30;Main is garmi se pagal ho gaya hoon. / Жара сводит меня с ума.
+v1;70;Baarish kab hogi? / Когда же будет дождь?
+
+newchat;key:monsoon,tag:notraining,weigth:10
+v1;0;Barish nahi ho rahi hai. / Дождя никак нет.
+v2;30;Barish hogi. Chinta mat karo. / Не волнуйся. Дождь будет.
+v1;60;Tum har sal yahi bolte ho... / Ты говоришь одно и тоже каждый год...
+
+newchat;key:rain,tag:raining,weigth:10
+v1;0;Arre! Baarish ho rahi hai! / Ура! Идёт дождь!
+v2;40;Itni si baarish se kya hoga... / Такой маленький дождик ничего не даст...
+v1;80;Sukhe se toh behtar hai. / Это лучше, чем вообще без дождя.
+v1;120;Lekin fasal kaise hogi? / Но как будет расти наш урожай?
+
+newchat;key:sandstone,weigth:10
+v1;0;Hamara gaon pragati kar raha hai, hai na? / Наша деревня прогрессирует, не так ли?
+v2;40;Par abhi bahut kaam baki hai. / Но многое ещё предстоит сделать.
+v1;80;Sach me? / Серьёзно?
+v2;100;Bilkul! / Несомненно!
+
+newchat;key:lakshmi,v1:adult,v2:adult,weigth:10
+v1;0;Jao, puja ke liye ek thali le aao. / Иди, принеси тарелку для поклонения.
+v2;40;Turant le aata hoon. / Сейчас принесу.
+v1;80;Bhagwaan ko prabhavit karna jaroori hai. / Мы должны ублажать богов.
+v1;130;Tab hi baarish samay par aayegi. / Только тогда дождь наступит вовремя.
+
+newchat;key:beef,v2:adult,weigth:10
+v1;0;Kabhi socha hai, guy ka maas ka swad kya ho sakta hai? / Вы когда-нибудь задумывались, какое на вкус коровье мясо?
+v2;60;Guy ka maas? Lekin ye toh dharm ke khilaaf hai! / Коровье мясо? Но есть его против нашей религии!
+v1;120;Lekin shayad woh swadisht hai...? / Но что если оно вкусное...?
+v2;180;Kya tum normandi ke jungli ho? / Ты нормандский варвар?
+
+newchat;key:rice,v1:child,v2:adult,weigth:10
+v1;0;Mai rasgulla chahta hoon. Mujhe bohot bhukh lagi hai! / Я хочу разгулу. Я очень голодна!
+v2;60;Nahi. Tumhe sirf chawal khaana chahiye. / Нет. Ты должна есть только рис.
+v1;120;Lekin maine subhah hi ye khaya hai! / Но утром я уже ела!
+v1;180;Aur kal bhi, parson bhi... / И вчера, и позавчера...
+v2;220;Toh tum yahi aaj raat ko, kal, aur jeevan bhar khao! / И ты будешь есть это вечером, завтра и всю оставшуюся жизнь!
+
+newchat;key:indian_lumberman,v1:vtype:indian_lumberman,weigth:10
+v1;0;Aaj maine bahut jyada lakdi kaat li! / Я вырезал кучу древесины сегодня!
+v2;60;Tum hamare jungle ko reghistaan bana doge!        / Ты превратишь наш лес в пустыню!
+v1;120;Pareshan mat ho, yahaan bina kuch kiye hi pedh badhte hai. / Не волнуйся, здесь деревья растут сами по себе.
+
+newchat;key:indian_raja,v1:vtype:indian_raja,v2:adult,notrel:spouse,weigth:10
+v1;0;Mera mahal bahut chota ho gaya hai. / Мой дворец стал очень маленьким.
+v2;60;Lekin maharaj, ye is kshetra me sabse bada hai! / Но Махарадж, он самый большой на территории!
+v1;120;Lekin ye mujhe chota lagne laga hai. / Но мне он кажется маленьким.
+
+newchat;key:indian_rajputgeneral,v1:vtype:indian_rajputgeneral,weigth:10
+v1;0;Ek shaktishali qila hamare dushmanon ke khilaaf sabse accha bachaav hai. / Сильная крепость - лучшая защита от наших врагов.
+v2;60;Kaun se dushman, senapati? / Какие враги, генерал?
+v1;100;Ye Norman aur anya jungli log. / Норманны и прочие варвары.
+
+newchat;key:indian_rani,v1:vtype:indian_rani,notrel:spouse,weigth:10
+v1;0;Mere pati amir aur prasidh hai. / Мой муж богат и уважаем.
+v2;50;Ji han! Yeh sach hai. / О да, это правда!
+v1;110;Par ve mere liye kabhi kuch laatey nahi hai. / Тем не менее, он ничего мне не дарит.
+v2;160;Kyon nahi? Kal hi unhone tumhare liye teen sariyaan laayi thi. / Почему ничего? Только вчера он подарил тебе три сари.
+
+newchat;key:indian_richwoman,v1:vtype:indian_richwoman,v2:female,v2:adult,v2:notvtype:indian_richwoman-indian-rani,weigth:10
+v1;0;Aaj mere pati ne mere liye 50 tola sona kharida. / Мой муж купил сегодня 50 тол золота.
+v2;60;50 tola sona! Mere paas sirf 10 tola sona hai... / 50 тол золота! У меня только 10 тол...
+v1;120;Aasha hai ki sitaare tumhare paksh mein honge. / Будем надеяться, что звёзды выстроятся в Вашу милость.
+
+newchat;key:indian_sculptor,v1:vtype:indian_sculptor,weigth:10
+v1;0;Mujhe pratimaon banane ka achha mauka mila hai. / У меня есть отличная возможность сделать статуи.
+v2;50;Tum bahut achhe murtiyan banate ho.      / Это потому что вы делаете очень хорошие статуи.
+v1;100;Main pandhara saal se murtiyan bana raha hoon. / Я уже делаю статуи довольно давно.
+
+newchat;key:indian_smith,v1:vtype:indian_smith,v2:adult,weigth:10
+v1;0;Hame aur phavadon ki zarurat hai. / Нам нужно больше кирок.
+v2;50;Main kaam mein vyasth hoon. / Я занят сейчас.
+v1;100;Phavdiyon ki bhi zarurat hai. / Нам также нужны лопаты.
+v2;150;Uff! Mujhe kitna kaam karna padta hai! / Уфф! Я должен сделать так много работы!
+
+newchat;key:indian_soldier,v1:vtype:indian_soldier,v2:adult,v2:female,notrel:spouse,notrel:sibling,notrel:child,notrel:parent,weigth:10
+v1;0;<targetname>, shayad gaon ke nikat daaku hai! / <targetname>, Я думаю, что есть бандиты, скрывающиеся возле нашей деревни!
+v2;50;Chinta mat karo, main gaon ki raksha karonga. / Не беспокойся, я защищу деревню.
+v1;100;Tum bahut shaktishaali ho! / Ты такой сильный!
+v1;130;Aur sundar bhi. / И красивый.
+v1;150;Agar aap ke paas moonch na hoti... / Если бы не твои усы...
+v2;200;Meri moonch ke baare main kuch bhi na kaho! / Ни слова о моих усах!
+
+newchat;key:indian_villagechief,v1:vtype:indian_villagechief,v2:vtype:indian_peasant-indian_peasantwife,weigth:10
+v1;0;Senapati, iss saal fasal achhi nahi hai./ Милорд, урожай в этом году не очень хороший.
+v2;40;Tu aalsi hai! Jyada kaam kar! / Это потому что ты ленивый! Делай больше работы!
+v1;80;Lekin baarish hi nahi hui... / Но дождя не было вообще...
+v2;120;Meri galti nahi hai. Mujhe apna paisa chahiye. / Это не моя вина. Я хочу свою арендную плату.
+v1;170;Lekin mere paas paise nahi hai. / Но у меня нет денег.
+v2;210;Fir mujhe meri zameen do. / Тогда верни мне землю.
+v1;260;Mere paas kuch bhi nahi rehe jayega! / Тогда у меня ничего не останется!
+
+newchat;key:newhouse,villager:indian_merchant,v1:notvtype:indian_merchant,v2:notvtype:indian_merchant,weigth:10
+v1;0;Vaha Vyapaari apne ghar ke bagal mein ek naya ghar ban rahe hai. / Этот торговец строит новый дом рядом со своим.
+v2;60;Ek aur ghar? Par kyun? / Ещё один дом? Но зачем ему нужен новый?
+v1;90;Vaha naya ghar unke betey ke liye hai. / Новый дом для его сына.
+v1;140;Jab unke betey ki shaadi hogi, tab dono paas me honge. / Когда его сын женится, они будут рядом.
+
+newchat;key:gold,v1:vtype:indian_peasantwife,rel:spouse,villager:indian_villagechief,weigth:10
+v1;0;Gaon ke mukhiye ne apni patni ke liye sone ke kangan laaye. / Деревенский вождь подарил своей жене золотые браслеты.
+v1;60;Par aap mere liye kuch nahi laatey... / Но у тебя никогда не было украшений для меня...
+v2;110;Tumhe ek amir aadmi se shaadi karni chahiye thi. / Ты должна выйти замуж за богатого мужчину.
+v1;160;Lekin mujhe aur dahej dena padta. / Но тогда мне пришлось бы платить больше приданого.
+v2;200;Fir tumhe bhagyawaan lagna chahiye ki main tumhara pati hoon. / Тогда ты должна быть счастлива, имея такого мужа, как я.
+
+newchat;key:alcohol,v1:vtype:indian_peasant-indian_lumberman,v2:vtype:indian_peasant-indian_lumberman,weigth:10
+v1;0;Maine bahit dinon se sharaab nahi piya hai. / У меня уже давно не было алкоголя.
+v2;50;Gaon ke bahar ek aadmi sharaab aur moongfali bechta hai. / Есть человек, который сидит под деревом баньян за деревней и продает алкоголь и арахис.
+v1;110;Sach? Maine socha tha ki gaon mein sharaab par pratibandh laga diya gaya hai. / В самом деле? Я думал, что продавать алкоголь в деревне запрещено!
+v2;160;Yeh kisi aur ko mat batana. / Не говори никому об этом.
+v1;200;Chalo, hum aaj shaam ko vahan jaatey hai. / Хорошо, давай сходим к нему сегодня вечером.
+
+newchat;key:childoneliner1,v1:child,v2:child,weigth:10
+v1;0;Kya aap ne mere liye khiloune laaye? / Вы принесли мне игрушки?
+
+newchat;key:childoneliner2,v1:child,v2:child,weigth:10
+v1;0;Mere paas bahut saare dost hai.         / У меня есть много друзей.
+
+newchat;key:childoneliner3,v1:child,v2:child,weigth:10
+v1;0;Meri maa shaam ko mujhe khelne nahi deti hai. / Моя мама не разрешает мне играть после наступления темноты.
+
+newchat;key:childrenzombie,v1:child,v2:child,weigth:2
+v1;0;Namaskaar! / Привет!
+v2;50;Kya tumane dekha? / Ты видел это?
+v1;100;Kya dekhoon? / Видел что?
+v2;150;Mainne dekha ... ek zombee! / Я видел... зомби!
+v1;200;Vaastav mein? / В самом деле?
+v2;250;Haan! Yah bahut daraavana tha! Usane mujhe yah bhee bataaya ki yah aapako khaega! / Да! Это было так страшно! Он даже сказал мне, что съест тебя!
+v1;300;Ahhhhh! Maan! Ek zombee mujhe khaane ja raha hai! / Ааааа! Мамочка! Зомби собирается съесть меня!
+
+newchat;key:childrencreeper,v1:child,v2:child,weigth:2
+v1;0;Namaskaar! / Привет!
+v2;50;Kya tumane dekha? / Ты видел это?
+v1;100;Kya dekhoon? / Видел что?
+v2;150;Mainne dekha ... ek creeper! / Я видел... крипера!
+v1;200;Vaastav mein? /  Правда?
+v2;250;Haan! Yah bahut daraavana tha! yah vahaan ek ped uda diya! / Да! Это было так страшно! Он взорвал дерево вон там!
+v1;300;Lekin ruko, mera pasandeeda ped vahaan par tha ... waaaaaaa / Но подожди, моё любимое дерево было как раз там... Ааааааа

@@ -1,0 +1,27 @@
+building.length=13
+building.width=17
+building.buildingorientation=1
+building.max=2
+building.mindistance=0.6
+building.icon=steelpickaxe
+building.areatoclear=3
+
+
+//Parameters for initial construction
+initial.startlevel=-9
+initial.nativename=Latomeío
+initial.priority=100
+initial.male=miner_byzantine
+initial.female=wife_byzantine
+initial.tag=mine
+
+upgrade1.priority=400
+
+upgrade2.priority=410
+
+upgrade3.priority=200
+upgrade3.pathlevel=1
+
+upgrade4.priority=150
+
+upgrade5.priority=100

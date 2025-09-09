@@ -1,0 +1,20 @@
+//Parameters for the building as a whole
+building.length=11
+building.width=11
+building.buildingorientation=0
+building.max=2
+building.mindistance=0.6
+building.icon=rice
+building.randombrickcolour=white;white:50,silver:30
+building.version=2
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Chaaval Ka Ket
+initial.priority=5000
+initial.pathwidth=1
+initial.tag=paddy
+
+//Parameters for specific upgrades
+upgrade1.priority=100
+

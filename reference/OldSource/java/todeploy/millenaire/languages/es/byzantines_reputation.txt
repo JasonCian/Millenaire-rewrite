@@ -1,0 +1,21 @@
+//*    La parte antes del ";" Es el título, después de eso la descripción.
+//* 
+//* 
+//* 
+
+
+0;Extranjero;Como pueblo debemos aceptar a todos. Pero eso no significa que confiemos en ellos.
+4*64;Conocido;En este ultimo tiempo se te ha visto bastante en estas tierras romanas.
+8*64;Cara Conocida;¡Algunos romanos han notado tu presencia y hablan bien de ti! No pareces ser un bárbaro después de todo.
+16*64;Visitante Regular;¡Xaire, $name! Me alegro de verte, ¿Cómo ha ido todo?
+32*64;Compañero Civilizado;Ah, es un gusto ver de vez en cuando que hay gente de fuera del Imperio Romano que puede ser civilizada.
+64*64;Comerciante Favorito;Todos estan muy felices de verte, ¿Tienes algo para comerciar hoy? Nuestra relación comercial nos beneficia a ambos.
+2*64*64;Amigo de la Aldea;Eres parte de nuestra aldea $name, ¡Confiamos en ti!
+4*64*64;Aliado Respetable;¡Felicidades $name! Te has ganado nuestro respeto. Es difícil para un forastero ganarse la amistad del Imperio Romano y mucho más ser respetado, pero tú, ¡acabas de demostrar que eres digno!
+8*64*64;Uno de los Nuestros;Eres un ciudadano Romano $name. Tal vez no te hayas criado como uno de nosotros, pero estamos orgullosos de poder llamarte verdadero romano.
+32*64*64;Líder Natural;$name, te has ganado la confianza y el respeto de los bizantinos. Te seguirán a donde vayas.
+4*32*64*64;El Próximo César;¡Serás el próximo César! La gran cantidad de trabajo que has hecho por este pueblo es inimaginable y te seguiremos para hacer de este mundo un lugar mejor. ¡Ave $name!
+-64;Molestia;No eres muy agradable, $name. Ten Cuidado.
+-4*64;Forastero Indeseable;Aceptamos comerciantes, pero no gente como tú. Mantente alerta.
+-16*64;Enemigo Público;Es una verguenza que aún estés vivo. Mientras sigas con vida mantente alejado de tierras romanas.
+-64*64;Aparente Bárbaro;¿No nos entiendes? Genial, probaremos con otra cosa: ¡BAR BAR BAR, BAR BAR, BAR BARRRR!

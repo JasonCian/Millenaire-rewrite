@@ -1,0 +1,26 @@
+building.length=21
+building.width=17
+
+building.buildingorientation=1
+building.mindistance=0.3
+building.areatoclear=3
+
+building.icon=mutton
+
+initial.startlevel=-1
+initial.nativename=Koyun Çiftliği
+initial.priority=600
+initial.tag=slaughtersheepseljuk
+initial.tag=sheeps
+initial.shop=sheepfarm
+
+initial.male=turk_shepherd
+initial.female=turk_shepherdwife
+
+upgrade1.priority=150
+upgrade1.pathlevel=0
+
+upgrade2.priority=95
+upgrade2.pathlevel=1
+
+upgrade3.priority=90

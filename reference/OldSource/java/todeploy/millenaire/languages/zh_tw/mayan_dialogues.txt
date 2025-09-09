@@ -1,0 +1,340 @@
+//Français par xIflot
+//French by xIflot
+//Anglais par Teethdude
+//English by Teethdude
+//Maya by TheyCallMePoncho
+//Maya par TheyCallMePoncho
+//繁體中文翻譯 : 轄
+
+newchat;key:stone,weigth:10;
+v1;0;Nojoch tuunich antal ts’íib ku bin táanil ti’ junp’éel k’aaba’ tia’al u ye’esik xiib yéetel chéen juntúul wáa junp’éel ma’alobkin wíiklal ka kuxtal. /石材是有史以來最棒的材料。
+v2;30;¡Kux yaan ma'alobtal bi'bi'ki! ¡Ts'íic tuunich! / 在烤過之後會更好！來為它高呼萬歲吧！
+v1;60;¡Haah k'ana'an hóok's! Ich meyah! /我們得去開採它們！工作啦！
+
+newchat;key:pyramid,building:mayanpyramid,weigth:7;
+v1;0;Tin nah k'uh haah ma'alobkin hats'uts yéetel ma'alobkin beet. / 我們的金字塔是最美麗也是最棒的建築。
+v2;30;Haah u t'aan. Xíimbal uláak' chan kaah. Utia'al letio'ob antal ki'ichpam, ¡Ba'ale' ma' ki'ichkelem he'ebix in tia'al! /那倒是真的。我參觀過其他村莊，他們是很不錯，但沒有我們的優雅！
+v1;60;In tia'al xook utia'al nahil haah hun yéetel ha'as óol.  / 我們的建築是獨一無二的。
+v2;90;Ma' u'uyba nohchil hach. Ma' k'áat kex antal he'ebix Byzantines. / 別吹噓的太誇張。我可不希望我們像拜占廷人一樣虛假。
+v1;120;Ah, kux. In ch'a' k'uux. ¿¡Bixi' páahtal yaan hach  u'uyba noh ba'al!? / 噢，是啊，唔...我恨它們。怎麼會有人那麼做作！
+
+newchat;key:player,weigth:10;
+v1;0;To'on ma' hach wíiniko'ob ka taal ich xíimbal lelo' kúuch. / 我們這裡沒甚麼遊客來。
+v2;30;Kux, chéen lela' $name yéetel uláak' wíiniko'ob saat... / 是啊，這裡只有$name和一些迷路的人... 
+v1;60;T'aan utia'al $name, ¿ma' teech tuukul ka $name il ka'anal yéetel hela'an? / 說到$name，你不也覺得他最近變得怪怪的，是累了嗎？
+v2;90;Kux. Leti' p'aax wa'atal. / 是啊。他應該多休息一些。
+
+newchat;key:miner,weigth:9;
+v1;0;To'on p'aax antal máas áaktun máako'ob. / 我們應該招募一些礦工。
+v2;30;¡Ah kux! Nohoch tuunich yéetel yaan ma'alokin bi'bi'ki ti' kúuch. /噢，是啊！岩石和礦物是最好的材料。
+v1;60;Kux, haah u t'aan. Kurx yaan k'aana'an máas utia'al to'on, P'aax ya'abtal xook. / 我同意...但我們村莊的人不太夠，我們村莊應該要多一點人。
+v2;90;Yéetel ma' ts'aa ich meyah ich mix may paal. / 而且我們也不能讓小孩子去工作。他們還太年輕了。
+
+newchat;key:woman,weigth:6,v1:adult,v2:adult,v1:female;
+v1;0;Haah k'iin utia'al nah. / 是時候來打掃房子了。
+v2;30;¡Kurx teech hun k'iin! / 但妳昨天才剛做過啊！
+v1;60;Ma', yaan mix ba'al ka beet te'ela'. / 無論如何，我在這裡都不被允許去做其他的事情
+v2;90;¡Teech huntiich' tak ho'ol! / 妳總是在抱怨！
+v1;120;Yaáxil tak pool, ¡óot na'at! / 比起抗議我的抱怨，你應該去試著了解我為甚麼要抱怨！
+
+newchat;key:friend,v1:vtype:mayan_miner,v2:adult,weigth:10;
+v1;0;Ah, tin uts amikoo, ¡$targetfirstname! ¿Bixi' antal? / 噢，我的摯友$targetfirstname！最近怎麼樣？
+v2;30;¡Toh oolal, $targetfirstname! Meen ka in páahtal, meyahil bin k'aas. / 嗨，$targetfirstname！正在做我能做的事，貿易真是糟透了。
+v1;60;¿Teech p'aat koonol tuunich ich Hindis? / 你不賣石頭給那些印度人了？
+v2;90;Kux. Behla'e' leo'ob Japanese sahkab máako'ob k'a'ay meyah, leito'ob ma' k'abeet. /是啊，日本的獨立礦工就能提供他們石頭了，他們不再需要我了。
+v1;120;Teech ts'a'ah wa ba'ax hach. / 你只要提供他們一些其他的東西就好了。
+v2;150;¿Teech yaan hun tuukul? / 你有甚麼點子嗎？
+
+newchat;key:monster,weigth:5;
+v1;0;Yaan hach k'aak'as ba'al táankab. / 外面出現了好多怪物。
+v2;30;In antal máako'ob ba'ate'il páahtal kíimsah. / 我相信守衛一定能跟他們打。
+v1;60;In antal sahkil beey hun múuch' lelo'ob paal wáak'al ya'ax taah ich chan kaah. / 我比較擔心的是如果那些綠色炸彈怪跑來攻擊的話...
+v2;90;Ma' sahakil. To'on yaan léech tia'al ts'aa yiknal letio'ob. / 別擔心，我們有對付他的誘餌。
+v1;120;Lela' uts, to'on yaan ich $name. Leti' ma' ba'ate'el k'aw. Leti' páahtal áantah to'on.  / 好吧，就算是最壞的情況下，我們還有$name。他的很會戰鬥，一定能夠保護我們的。
+v2;150;Kin ma' péek óol. Leti' ma' k'aw. / 我對此絕不懷疑。他一點也不壞。
+
+newchat;key:normands,weigth:6;
+v1;0;¿Teech yaan paakat boon oot'il utia'al Normans? ¡Letio'ob hach saas! / 你有沒有看過諾曼人的膚色？看起來好蒼白啊！
+v2;30;¡Kux! In mix bik'in yaan paakat saas máako'ob. Hela'n.  /噢，是啊！我從沒見過那種顏色，真是夠奇怪的。 
+v1;60;In tuukul letio'ob xota'an u k'iin... / 我想他們可能是被詛咒了... 
+v2;90;Ma' yaan ma' na'at. Letio'ob yaan wíinik he'ebix tuláakal to'on. / 別傻了。他們和其他人一樣都是人類。
+v1;120;Ma' péek óol yaan káaltalil k'eex beey. In antal chich leio'ob ma' yaan beey. / 毫無疑問是酒精讓他們變成那樣。我敢肯定，他們並非總是這樣。
+v2;150;Wale' teech antal k'aw. / 你應該錯了。 
+
+newchat;key:alchimist,weigth:4;
+v1;0;Ch'óoch' káax, in il báaxal t'aan wáay. / 當我在探索森林時，我遇見了一個有趣的煉金術士
+v2;30;¿Teech' he'ebix leti' léeyli'e'? Leti' yaan su'utsil hela'an. / 你也見到他了？他真是怪得離譜。
+v1;60;"¡Yéetel bixi'! Leti' yaan hun ts'íib hela'an xa'ak'. ¿Teech oohel "tseek' baakel muuts'" wa "sa'am utia'al píixan" p'aax a'al? / 而且啊，還有奇怪的成分清單。你知道「凋零骷髏的頭蓋骨」和「靈魂沙」是甚麼嗎？
+v2;90;Ma'. Kurx ma' yaan hach hets' tuukul. / 不知道，但那一點也不讓人放心。
+v1;120;¡Kurx! To'on tuukul leti' óot beet ich tuunich yum k'iin. / 是啊！他可能是在做仙石。
+v2;150;Tohol $targetfirstname, beey teech tuukul huum u tsikbalil wáa ba’ax, teech antal hach k'as tuukul kab yaan táax. / 勇敢的$targetfirstname啊，如果你相信謠言，你相信地球是圓的可是有害風化的。
+v1;180;Teech antal wáa ma'alob. / 你可能是對的。
+
+newchat;key:dragonegg,v1:adult,v2:adult,weigth:5;
+v1;0;Kin il ich hela'an he' boox ich bilim. / 我在沙漠中看到了一顆奇怪的黑蛋。
+v2;30;Ah, ¿ich wa maax? ¿Bixi' haah il? / 噢，真的嗎？甚麼樣子呢？
+v1;60;Yaan noh, yaan wóolis chak puk’e’en. Yaan hach noh. ¡Nohoch! / 它有紫色斑點，非常的大。
+v2;90;¿Teech uk' Norman máak sen ya'ab wa teech antal p'a'as? / 你不會是喝了諾曼的酒或是在開玩笑吧？
+v1;120;Ba'ale'... ¡Haah haahil! / 但是...那是真的！我發誓！
+v2;150;¡Jaja! Teech tuukul teech tuus beey, ¡teech k'aw! / 哈哈！如果你以為這樣就可以騙得了我，那你就錯了！
+
+newchat;key:wither,weigth:3;
+v1;0;Ich k'aáx in il ich hela'an boox paal. / 我在森林裡看見了一隻奇怪的黑色生物。
+v2;30;¿Haah haahil? Tsool, ¡in k'áat oohel máas! / 真的嗎？說說看它是甚麼樣子，我很好奇啊！
+v1;60;Leti' yaan boox he'ebix baakel paal, yiknal ho'ol ich ts'ook utia'al k'ab, yéetel ich kaal, yéetel yaan ta' hach ke'el he'ebix ha' chichkunta'an tumen ke'el wáa síis... / 它就像是個黑色骨架的生物，胸膛有兩個頭，脖子上有一個頭，它的外表就像冰一樣冷...
+v2;90;Xi'ix mukuy pu'uch. / 這真是讓人脊背發寒。
+v1;120;Enderwíinik antal k'óoch leti'. / 當時終結者正在攻擊他。
+v2;150;¿Ederwíinik? Letio'ob ma' kuxtal, teech antal wayak'. / 終結者？他們又不存在，你一定是在作夢。
+
+newchat;key:bakery,notbuilding:mayanbakery,weigth:7;
+v1;0;To'on p'aax wa'akum nah hun tu'ux ku meenta'al yéetel ku ko'onol waah. Too'n antal ich meyahil. / 我們應該蓋一座麵包店。它在我們這裡應該很受歡迎。
+v2;30;Haah u t'aan. To'on ma' kukin otoch waah. / 這倒是真的。我們早就吃膩了自製的麵包。
+v1;60;Bin ich t'aan ich halach wíinik. / 我們去跟領袖談談吧。
+
+newchat;key:bestdad,v1:child,v2:child,weigth:8;
+v1;0;Tin taatáa yaan toop tumen leti' haah hun ma'ako'ob mol che'. / 我爸爸是最棒的，因為他是一名樵夫！
+v2;30;¡Jah! ¡Che' haah ma' k'abéet! Tin taatáa yaan toop tumen antal sahkab máako'ob. / 噗！木材那麼沒用！我爸爸更好，因為他是一名礦工！
+v1;60;Mina'an che', a taatáa ma' meyah. / 沒了木頭，你爸爸也做不出甚麼事了。
+v2;90;¿¡Ba'ax!? ¿Teech kaxan hun? / 噢，是嗎！？你舉例看看啊！？
+v1;120;Ka'anal, tuunich ma' yaan meyah. ¡Ta'! / 夠了，石頭很沒用，承認吧！
+v2;150;¡Mina'an tuunich, a taatáa weneh yáanal eek'! / 沒了石頭，你爸爸也只能以天地為舖了！
+
+newchat;key:becomeadult,v1:child,v2:child,weigth:9;
+v1;0;Kin yaan sahakil utia'al suut nohoch máak. / 我好害怕長大。
+v2;30;¿Ba'ax ten? / 為甚麼？ 
+v1;60;Tumen... Yaan hach hach meyahil yéetel ma' báaxah... / 唔，因為...有很多工作得做，我們就沒有很多時間能玩了... 
+v2;90;Teech il, ¡toop! / 你會知道的，那很偉大！
+v1;120;Ma'... Kin ma' k'áat! Kin ma' k'áat! Kin ma' k'áat! / 不要...我不要我不要我不要！
+
+newchat;key:rebellion,v1:child,v2:child,rel:sibling,weigth:6;
+v1;0;¡Taatáa yéetel na' yaan k'aw! ¡To'on yaan léeyli'e' cho' tin otoch! / 爸爸和媽媽都不公平！我們總是得打掃我們的房間！
+v2;30;¡Kurx! ¡To'on p'aax e'es yéetel k'áat hun kuxtal hach tsikbe’en! /對啊！我們應該反抗，要求更好的待遇！
+v1;60;¡To'on il! ¡Teech na'! / 那我們戰鬥吧！首先是母親！
+
+newchat;key:japanese,v1:adult,weigth:8;
+v1;0;Eh, $taargetfirstname, il. / 嘿，$targetfirstname，看看這個。 
+v2;30;¡Báaxal t'aan ts'oons! ¿Tu'ux teech antal? / 有趣的劍！和有趣的弓！你是從哪拿到的？
+v1;60;Haah yumi yéetel tachi. Utia'al Japanese máaskab. / 這是和弓和太刀。從日本人那裡鍛造出來的。
+v2;90;Haah hats'uts yéetel k'abéet. ¿Haah ko'ok? / 這可真優美而且還很有用。它很貴嗎？
+v1;120;¡Kurx! ¡In ch'iin 2 sak taak'in yiknal yumi! / 當然啦！為了這把弓可浪費了我兩枚銀幣！
+v2;150;¡Oohh! Teech líik'es hach táanil maan. / 哇塞！你在買它們之前得先存一大筆錢吧！
+
+newchat;key:exchange,v1:adult,v2:adult,v1:male,v2:male,weigth:9;
+v1;0;Heh, $targetfirstname. ¿To'on k'íiwik toohol koonol? / 哈囉，$targetlastname先生。我們的市場還開著嗎？
+v2;30;Kurx, kurx. He'ebix in a'al, in yaan túulis. / 是的，是的。順便說一下，我這裡的東西很齊全呢。
+v1;60;¡Huntiich ich k'iin! Haah ma'aldo beet meyahil yiknal teech. / 總是那麼的準時！很高興能跟你做生意。
+v2;90;Ki’imak óolal haah tin. Le túun... 32 chuun che' tumen 8 máaskab. ¡Péeka'an! q/ 這是我的榮幸。所以...32 個原木和 8 個鐵錠。瞧！
+v1;120;Hach dyos bo’otik, yuum. Teech yaan ich ma'aldo k'iin. / 謝謝你，先生。祝你有美好的一天！
+v2;150;Teech, yuum $targetlastname! / 你也是，Mr. $targetlastname ！
+
+newchat;key:embauchement,v1:adult,v2:vtype:mayan_warrior,weigth:7;
+v1;0;Kin meyah máak teech tia'al kalan in, tumen 48 Deniers tumen k'iin. / 我會聘請你來做我的保鏢，報酬是每日48枚硬幣。
+v2;30;Amm... koonol bahux k'iin teech meyah máak, $targetfirstname. / 嗯哼。那就得看你要聘請我多久了，$targetfirstname。
+v1;60;6 K'iin. Tin xiibil peek' ma' ka'ans tia'al kalan in kin. / 六天。我的狗不能夠給我足夠的保護。
+v2;90;Hun Argentum. Ma' óotsil. / 好吧，一枚銀幣。一分都不許少。
+v1;120;¡Lelo' haah ookol! / 你這是搶劫啊！
+v2;150;Ma', $targetfirstname. Kin péek óol tin kuxtal waye' meyahil. / 才不呢，$targetfirstname。我可是冒著生命危險來做這份工作的。
+
+newchat;key:cereal,v2:vtype:mayan_farmer,weigth:9;
+v1;0;Kin k'áat pak'al arroz. / 我要去試試看種稻米。
+v2;30;¿Arroz? ¿Ba'ax yaan? / 稻米？那是甚麼？
+v1;60;Hun aban in maan utia'al Hindu. ¡Letio'ob t'aan yaan ki'! / 我從印度拿到的一種植物。他們說很好吃！
+v2;90;¿Kin páahtal túum? / 我能嚐嚐嗎？
+v1;120;Yah tu yool, ma'. Kin pak' neek'. / 很遺憾，不能。每一粒我都要拿去種。
+v2;150;Lelo' ma' antal k'abéet. / 那就算了。
+
+newchat;key:zombiepigmen,weigth:6;
+v1;0;¿Teech il chak iik' hach túumben? / 你有沒有看到最近的暴風雨？
+v2;30;¡Yéetel he'ebix! Tin koolki' óolt ha', kurx kin yaan sahkil. / 那又如何！我們家的農作物喜歡水，但它的確很可怕。
+v1;60;Kin antal pak'al, yéetel antal k'éek'en tséel kin. / 嗯，那時我是在平原上，在我旁邊的有一隻豬。
+v2;90;¿Yéetel? / 然後？ 
+v1;120;Hun haats' cháak yéetel leti'... Leti' níikil paachil mo'ol... / 閃電打中了牠，然後... 牠用牠的後腳站了起來... 
+v2;150;¿Haah u t'aan? ¿Bixi' il? / 真的嗎！？那看起來怎麼樣？
+v1;180;Lei' yaan kuuxum ya'ax óok'ol... wa wa ba'axhe'ebix leto'. Lei' yaan xtol k'uun. / 有綠色的菌斑...或是甚麼類似的東西，而且還有把黃金劍。
+v2;210;¿Teech kóoch wa hóok'ol? / 你跟他打還是逃跑了？
+v1;240;In antal ma' xtol. Kurx leti' ma' k'áat kóoch kin. Leti' il kin, suut, yéetel xíimbal ma' ohéelal t'aan máan. /我當時手無寸鐵，但牠並沒有攻擊我。牠看著我，然後把頭轉過去，就像甚麼都沒發生一樣的走開了。
+v2;270;Teech p'aax ts'aa k'áak'. ¿Yéetel k'óoch chan kaah? / 你應該用火。要是那東西攻擊村莊該怎麼辦？
+v1;300;Kurx haats' cháak, yéetel leti' uúy mix ba'al. / 牠應該對火有抗性，閃電都打中牠一次了卻也沒事。
+
+newchat;key:recolt,weigth:10;
+v1;0;T'ook yaan pik'taan tun. / 今年是大豐收啊。
+v2;30;Kurx, yéetel tak ho'ol yaan chich pool. / 是啊，還想抱怨的肯定是傻子。
+v1;60;¡Wáa! / 的確如此！
+
+newchat;key:village,weigth:8;
+v1;0;Kin tuukul chan kaah il ma'aldo. / 我絕得我們的村莊看起來很不錯。
+v2;30;Wáa. Yaan hach hats' uts. / 我也這麼想，真的是充滿了藝術感。
+v1;60;Yaan dyos bo'otik tuunich yéetel na'at meent. / 這都得歸功給我們精熟的建築技術和石頭。
+
+newchat;key:peasantdialog,v1:vtype:mayan_peasant,v2:vtype:mayan_peasant,weigth:10;
+v1;0;Hach hach nal tia'al hooch, hach kóom k'iin... / 在這麼短的時間內，就有如此多的玉米... 
+v2;30;Kurx, in k'áat to'on yaan xet' utia'al hooch. / 是啊，希望這還只是我們收穫的一部份
+
+newchat;key:playerorigins,weigth:10;
+v1;0;$name haah ich hela'an máako'ob. / $name 是個很奇怪的傢伙呢。
+v2;30;Haah hach hela'an ka normans. / 甚至比諾曼人還奇怪。
+v1;60;¿Kurx utia'al tu'ux taal leti'? / 他到底是從哪裡來的啊？
+v2;90;Kin ma' antal, leti' ma' haah il he'ebix uláak' chan kaah. / 不確定，他看起來不像哪個文化的人。
+
+newchat;key:byzantins,weigth:9;
+v1;0;Kin ma' muk'yah ich leio'ob Byzantines, ¡letio'ob tuukul letio'ob yaan yuumil lu'um! / 我實在是無法忍受那些拜占庭人，他們總認為他們擁有了這整片土地！
+v2;30;¿Yéetel teech il lelo'ob nahils? / 那你有見過他們的建築嗎？
+v1;60;Kurx kin il lelo'ob, hach hela'am. / 有啊，非常奇怪。
+v2;90;¿Pak'lu'um? ¿Ka haah xuul? / 磚頭？那有甚麼意義？
+v1;120;Letio'ob ts'aa ba'al utia'al xukul, he'ebix Normans. / 他們甚至用玻璃的東西，就向諾曼人一樣。
+v2;150;Túun, kurx leio'ob il hach máan táanil ka indians. Letio'ob chéen yaan hool. / 確實，但他們看起來比印度人更進步。那些印度人的窗戶甚麼都沒有。
+
+newchat;key:dialogchildmother,v1:child,v2:adult,v2:female,rel:parent,weigth:10;
+v1;0;¡Na'! ¿Kin páathal bin báaxal táanakb chan kaah? / 媽媽！我可以去遠一點的村莊玩嗎？ 
+v2;30;Ma' tin paal, kin ma' k'áat ka teech k'ool. / 不行。孩子，我不希望你受傷。
+v1;60;K'ool utia'al ka? Ma' haah hach k'as táanak. / 會被誰弄傷啊？
+v2;90;U'uy, yaan hach k'as paal táankab... / 聽著，那裡可是有危險的生物... 
+v1;120;¿K-ka xook utia'al paal, na'? / 什、甚麼樣的生物啊媽媽？
+v2;150;K'aas ba'al he'ebix... creepers. / 可怕的東西就像...Creepers。 
+v1;180;C-c-creepers? / C-c-creeper嗎？
+v2;210;Kurx tin paal, letio'ob áalkab paach teech chan kaah yéetel waak' teech. / 是的，孩子。他會跟著你回家然後炸飛你，就像你所期待的。
+
+newchat;key:tobewarrior,v1:vtype:mayan_warrior,v2:notvtype:mayan_warrior,weigth:9;
+v1;0;Antal máako'ob ba'ate'el yaan ma'aldo ka in beet. / 成為一名戰士，會是對我的人生最好的決定
+v2;30;¿He'ebix bin?? / 怎麼說？
+v1;60;Tumen kin páahtal bin aantah ich toop ch’a’ k’uxta’an, hach  náays óol ka hooch ixi'im. / 因為我可以走出去擊退敵人，比收割玉米有趣多了。
+v2;90;Kux kuxtal yaan máas hets'. / 但我的人生比較安全。
+v1;120;Túun, kux huntiich' antal óot hach k'as. / 確實，但我更想要刺激。 
+
+newchat;key:likemydad,v1:male,v2:child,v1:child,weigth:8;
+v1;0;¡Kin k'áat yaan he'ebix taat utia'al noch. / 等我長大了，我要像我爸爸一樣！
+v2;30;¿Hun sahak? / 成為一個懦夫嗎？
+v1;60;¿Ba'ax? Ma', Leti' ma' yaan hun sahak. / 甚麼？不，他才不是懦夫。
+
+newchat;key:palace,v1:vtype:mayan_king-mayan_leader-mayan_chieftain,v2:adult,weigth:9;
+v1;0;Leti' kuxtal kuxtah tin ha'ak'óol nukuch nah. / 我生活在宮殿之中肯定是最美妙的。
+v2;30;¡Yéetel yaan hun ha'ak'óol nukuch nah, tin chanan! / 而且宮殿是非常了不起的，我的領袖。
+
+newchat;key:become,v1:adult,v2:child,v2:male,rel:child,weigth:9;
+v1;0;¿Kex teech k'áat yaan utia'al noch? / 在你長大之後要做甚麼呢？
+v2;30;Kin ma' oohel, wale' kanan, wa pan... we'matz wale'.. / 我不知道，可能是一名戰士、礦工或農民...
+v1;60;Teech yaan yéey hayp'éel k'iin. / 好吧，或許你哪天就會決定了。
+
+newchat;key:wah,weigth:9;
+v1;0;Kin yaakun hanal wah. / 我想吃雞肉玉米薄餅
+v2;30;¡Kin léeyli'e'! Yaan alobkin tuukul. / 我也是！沒有比那更棒的事情了。
+
+newchat;key:rain,v1:female,v2:female,v1:hasspouse,v2:hasspouse,weigth:9;
+v1;0;To'on k'abeet cháak tia'al ixi'im. / 我們的玉米需要雨水。
+v2;30;Kin óot cháak. / 我真希望能下雨。
+v1;60;Wale' beey payal chi', píixan ts'a'ah to'on hun hooch nohoch lelo' tun. / 或許我們去祈禱的話，神靈將會給我們個合適的雨，來個大豐收。
+v2;90;Ma'aldo, bin behla'e' túumen to'on ma' antal tusbel. / 好吧，就來辦吧。只要我們沒太忙的話。
+
+newchat;key:zombie,v2:vtype:warrior,v2:vtype:mayan_warrior,weigth:8;
+v1;0;¿Yéetel beey hun túuk utia'al kimen k'óoch? / 要是有一大群僵屍入侵的話，我們該怎麼辦？
+v2;30;Teech ma' tuukul, kin yaan ba'ate'el máako'ob ti' lu'um. / 不用擔心，我是這所有土地之中最訓練有素的戰士。
+
+newchat;key:rich,v1:female,v2:vtype:mayan_peasantwife,v1:vtype:mayan_peasantwife,weigth:8;
+v1;0;Ix yaan túulis, ma' beet mix ba'al. / 貴婦不用做任何的工作。
+v2;30;Kux, kin tuukul kuxtal beey. / 是啊，我也希望我能有這種待遇。
+v1;60;Kin tuukul kin ts’o’okol beel yiknal wa maax yiknal máas taak'in. / 早知道我就該跟有錢人結婚。
+
+newchat;key:rule,v1:male,v2:male,v1:notvtype:mayan_king-mayan_leader-mayan_chieftain,v2:notvtype:mayan_king-mayan_leader-mayan_chieftain,weigth:9;
+v1;0;Kin pa'at hayp'éel k'iin kin ahau lela' chan kaah. / 希望哪天我能統治這座村莊。
+v2;30;Teech toohol náay, tumen kin antal ka'an ba'a teech. / 繼續做夢吧，因為我會比你更早站在頂峰的。
+v1;60;To'on paakat... to'on paakat. / 我們等著瞧...等著瞧。
+
+newchat;key:indians,weigth:8;
+v1;0;Indians il máas hets' óol kex normans, ¿ma'? / 印度人看起來比諾曼人更和平，不是嗎？
+v2;30;Kux, wale' to'on páathal óot nuuch yiknal letio'ob. / 是啊，或許我們應該跟他們結盟。
+v1;60;Hmm... Kux, le túun wale' to'on páathal k'óoch normans, wa Byzantines. / 嗯...是啊，接著我們就能襲擊諾曼，甚至拜占廷。
+
+newchat;key:gravity,weigth:7;
+v1;0;K'iin yaan kóom waye' lu'um. / 在這片土地上，每天的時間都好短。
+v2;30;Ka, yéetel lu'um chíikpahal báab ichmáal. / 是啊，而且有時土地似乎會飄浮。
+v1;60;Chichan yaah... yéetel sa'am. / 除了沙礫...和沙子。
+v2;90;Kin k'áat ba'ax ten. / 真希望知道原因。
+
+newchat;key:obsidian,v1:vtype:mayan_obsidiancrafter,weigth:8;
+v1;0;Nu'ukul yéetel ts'oon utia'al obsidiana yaan máas hats'uts. / 黑曜石工具和武器都很光滑。
+v2;30;Hats'uts ba'ale kex mix máak páahtal yaan wa hayp'éel. / 它是如此的奢華但卻每個人都可以擁有。
+v1;60;Bahab yaan ma'alob tia'al peech' ich a ch’a’ k’uxta’an. / 狼牙棒很適合粉碎你的敵人。
+v2;90;¿Haahil? Kin yaakun il hun ts'aa ich péek. / 是嗎？我真希望能夠實際看到。
+
+newchat;key:mayanarchitecture,weigth:7;
+v1;0;Nahil maya antal tsíib máas chichha'an ti' lu'um.  / 在所有的土地上，瑪雅建築是最厲害的。
+v2;30;Yaan yiknal túulis áaktum utia'al tuunich ka to'on beet lelo' hats'utsil. / 它可是由我們從礦山採來的石材做成的美景呢。
+v1;60;Kin k'áat bahux nah utai'al tuunich to'on yaan ka beet. / 我們還會做出多少的石頭屋啊？
+v2;90;Chéen k'iin a'al, amikoo./ 只有時間能告訴我們一切，朋友。
+
+newchat;key:cacaoyer,weigth:7;
+v1;0;There are few cocoa trees here, this place is unhealthy. / 這裡好少可可樹，這裡一定很不健康。
+v2;40;Let's plant some. / 來種一些吧。
+v1;80;Says you! Cocoa beans are extremely expensive! / 說你呢！可可是很貴的！
+v2;120;Ek Chuah will help us. / Ek Chuah 會來幫我們的。
+
+newchat;key:chickenegg,weigth:5;
+v1;0;We don't have enough chickens to sacrifice. / 我們沒有足夠的雞來當作祭品。
+v2;40;I think we passed by $name. Let's buy eggs from him. / 我覺得我們應該找$name，跟他買雞蛋吧。
+v1;90;You are right, let's do that. / 你說得對，我們走吧。
+
+newchat;key:ahmunghanan,weigth:6;
+v1;0;Thanks to Ah Mun and Ghanan, our harvests are good. Praise be to them! / 感謝Ah Mun和Ghanan，我們的收穫都很好。為祂們稱頌吧！
+v2;30;Let's thank them during prayer. / 在祈禱的時候感謝他們吧。
+v1;80;What can we offer them? / 我們能給祂們甚麼呢？
+v2;120;Ne fais pas l'idiot ! Notre sang, bien sûr !  Don't be stupid! Our blood, of course! / 別傻了！當然是，我們的血了！
+
+newchat;key:badweather,weigth:8;
+v1;0;Chac is angry. The weather is bad. / Chac發怒啦，天氣變壞了。
+v2;40;We're not praying enough. / 我們祈禱的不夠。
+
+newchat;key:monotheisme,weigth:4;
+v1;0;Really? $name is monotheistic? / 真的嗎？$name是一神論的？
+V2;35;He doesn't seem to take our religion seriously... / 他似乎並沒有很認真看待我們的宗教...
+v1;75;Come on, He's not stupid enough to not believe in our Gods. / 拜託，他可沒有傻到不相信我們眾神的存在。
+
+newchat;key:mayangods,v1:adult,v2:adult,weigth:8;
+v1;0;Faith is our only weapon in these strange lands. / 在這片陌生的土地上，誠信是我們唯一的武器。
+v2;40;Given our situation, we need to punish those who offend our gods. / 鑑於我們的情況，我們得懲罰那些得罪我們眾神的人。
+v1;80;We can certainly not get them offended. / 當然，我沒可不能讓祂們被得罪。
+
+newchat;key:poktapok,weigth:7;
+v1;0;I love Pok-ta-Pok! / 我愛Pok-ta-Pok！
+v2;40;Me too! I must say that it is one of our few fun activity here. / 我也是！我必須說這是我們少數最有趣的活動。
+v1;80;It's true. It's boring...and I lost my last ball! / 那是真的。好無聊...而且我把我最後一顆球給弄丟了！
+
+newchat;key:year,weigth:5;
+v1;0;We knew before anyone else that one year was precisely 365.2420 days. / 我們比別人更早知道一年有365.2420天。
+v2;40;We are good in all areas: mathematics, art, geography... / 我們在各個領域都很優秀：數學、藝術、地理...
+
+newchat;key:puja,weigth:6;
+v1;0;Did you go to pray? / 你去祈禱了？
+v2;35;Of Course! A real Maya must! / 那當然了！一名瑪雅人得做的事！
+v1;80;Haha! Of course! What a stupid question I asked. / 哈哈！我問了個笨問題。
+
+newchat;key:endofworld,weigth:3;
+v1;0;Our shamans and our astrologers see something. / 我們的祭師和占星家看見了一些東西。
+v2;40;Oh really? What? / 噢，真的嗎？是甚麼？
+v1;80;They see an important event in the year 2012. / 他們看見了西元2012的重大事件。
+v2;120;You do not think they are planning a little too far ahead? / 你不覺得他們也看得太遠了嗎？
+
+newchat;key:xaire,weigth:3;
+v1;0;Xaire, $targetfirstname! / Xaire，$targetfirstname！
+v2;30;"Xaire? What's ""xaire""?" / 『Xaire』？甚麼是『xaire』？ 
+v1;70;A Byzantine greeted me this way. / 一名拜占庭人是這麼迎接我的。
+v2;110;Come on. You are Maya. Let's greet ourselves in our language. / 拜託，你是瑪雅人。我們用我們自己的語言來迎接自己人啊！
+v1;150;A real Maya must have knowledge in all areas. / 一名真正的瑪雅人必須在各個領域都精通。
+v2;200;I grant you that it is good to be able to speak several languages__, but you will not talk that way in the village! / 我承認你能說多種語言是很好，但是你別在村裡那樣說話啊！
+
+newchat;key:bloodbis,v1:adult,v2:adult,weigth:2;
+v1;0;Let's mutilate ourselves during the next prayer. / 在下一次的禱告來自殘吧。
+v2;40;I have already done so. Not you? / 我已經做過了。你還沒嗎？
+v1;80;J-J-Je préfère garder mon sang... / 我、我寧願不讓我流血...
+v2;120;And now, you're doing it again! Every time you look decided, you change your mind! / 而現在，你又做一遍了！每次你看起來好像決定了，但又改變主意了！
+v1;160;I don't want to! / 可是我不想啊！
+v2;200;You refuse to honour our Gods?! / 你拒絕榮耀我們的眾神！？
+
+newchat;key:cacao,weigth:6;
+v1;0;Cocoa is healthy and delicious... / 可可既健康又美味...
+v2;40;Healthy, no doubt! But delicious, surely not! Wah is so much better. / 毫無疑問很健康！但是，美味倒是不一定！雞肉玉米薄餅更讚。
+v1;80;Cocoa is the favourite food of the gods. Eat what they offer you. / 可可是神最愛的食物。吃那些祂們賜予你的東西吧。
+
+newchat;key:reborn,weigth:7;
+v1;0;What a wonderful butterfly over there. Maybe this is our friend, sacrificed four years earlier? / 那邊有很漂亮的蝴蝶。或許它們是四年前犧牲了的朋友？
+v2;40;I think he would be a hummingbird instead! / 我覺得那應該是隻蜂鳥！
+v1;80;We won't be the ones to know. / 我們都不懂吧。

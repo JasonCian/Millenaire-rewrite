@@ -1,0 +1,12 @@
+//Parameters for the building as a whole
+building.length=10
+building.width=10
+building.buildingorientation=3
+building.max=0
+building.icon=leather
+
+//Parameters for initial construction
+initial.nativename=Kulavak
+initial.translatedname=name_en,field of bison
+initial.priority=37
+initial.tag=cattle

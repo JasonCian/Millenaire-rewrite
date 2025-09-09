@@ -1,0 +1,17 @@
+//Parameters for the building as a whole
+building.length=14
+building.width=14
+building.buildingorientation=3
+building.startinggood=denier,1.0,20,44
+building.startinggood=denierargent,0.2,2,2
+building.startinggood=rice,1.0,8,8
+building.startinggood=steelsword,0.4,1,0
+building.startinggood=steelchest,0.4,1,0
+building.startinggood=iron,0.8,1,2
+
+building.icon=steelsword
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Purana Qila
+

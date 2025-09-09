@@ -1,0 +1,19 @@
+priority=50
+
+//en/in millisecondes
+duration=10000
+
+
+sentencekey=makebanner
+labelkey=makebanner
+
+heldItems=leather,banner_white
+
+
+input=leather,2
+output=banner_white,1
+
+townhalllimit=banner_white,16
+
+
+sound=wool

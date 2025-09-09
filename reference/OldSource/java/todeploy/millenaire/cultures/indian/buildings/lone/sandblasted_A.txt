@@ -1,0 +1,14 @@
+//Parameters for the building as a whole
+building.length=17
+building.width=15
+building.buildingorientation=3
+building.startinggood=rice,1.0,8,16
+building.startinggood=turmeric,1.0,2,4
+building.startinggood=denier,1.0,20,44
+
+building.icon=sand
+
+//Parameters for initial construction
+initial.startlevel=-4
+initial.nativename=Sunsan Saray
+

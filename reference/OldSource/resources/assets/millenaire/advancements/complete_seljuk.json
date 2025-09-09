@@ -1,0 +1,21 @@
+{
+    "display": {
+        "icon": {
+            "item": "millenaire:extended_mud_brick",
+            "meta": 1
+        },
+        "title": {
+            "translate": "advancements.complete_seljuk.name"
+        },
+        "description": {
+            "translate": "advancements.complete_seljuk.desc"
+        },
+        "frame": "goal"
+    },
+    "parent": "millenaire:leader_seljuk",
+    "criteria": {
+        "complete_seljuk": {
+            "trigger": "complete_seljuk"
+        }
+    }
+}

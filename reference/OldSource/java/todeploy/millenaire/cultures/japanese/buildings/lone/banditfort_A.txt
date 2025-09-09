@@ -1,0 +1,23 @@
+//Parameters for the building as a whole
+building.length=51
+building.width=53
+building.buildingorientation=3
+building.startinggood=denier,1.0,30,64
+building.startinggood=denierargent,0.8,2,6
+building.startinggood=tachisword,0.5,1,0
+building.startinggood=steellegs,0.5,1,0
+building.startinggood=steelhelmet,0.5,1,0
+building.startinggood=rice,1.0,8,32
+building.startinggood=udon,1.0,4,8
+building.icon=tachisword
+
+//Parameters for initial construction
+initial.startlevel=-4
+initial.nativename=Zokuto No Bakusha
+initial.male=japanese_bandit
+initial.male=japanese_bandit
+initial.male=japanese_bandit
+initial.male=japanese_bandit
+initial.male=japanese_bandit
+initial.male=japanese_bandit
+

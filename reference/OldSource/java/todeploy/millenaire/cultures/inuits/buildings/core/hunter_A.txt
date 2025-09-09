@@ -1,0 +1,19 @@
+//Parameters for the building as a whole
+building.length=16
+building.width=8
+building.areatoclear=3
+building.buildingorientation=3
+building.icon=bone
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Afuniaqti Tupiq
+initial.translatedname=name_en,hunter's house
+initial.priority=1000
+initial.male=inuit_hunter
+initial.female=inuit_wife
+initial.tag=cattle
+initial.tag=sheeps
+
+//Parameters for specific upgrades

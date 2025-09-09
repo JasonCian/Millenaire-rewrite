@@ -1,0 +1,10 @@
+List of parameters usable in takefrombuilding goals:
+
+minimumpickup (integer value):
+Minimum number of items to gather in one go.
+Default value: 4
+
+collect_good (item and number: 'bone,8'):
+Goods to be picked up from the target building, with maximum quantity to have in inventory.
+
+

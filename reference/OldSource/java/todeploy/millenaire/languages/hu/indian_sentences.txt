@@ -1,0 +1,68 @@
+
+
+villager.greeting=Namaste, $name-ji! / Üdv, $name-ji!
+villager.greeting=Aaj bahut garmi hai. / Nagyon meleg van ma.
+villager.greeting=Kya haal hai? / Hogy mennek a dolgok?
+villager.greeting=Kya khabar hai? / Mi újság?
+villager.greeting=Ghar par sa theek hain? / Mindenki jól van otthon?
+villager.greeting=Yeh barish kyun nahin ho rahi? / Miért nem esik?
+villager.greeting=Kya tum se kale pani se pare ho? / Az óceánon túlról jöttél?
+indian_pandit.greeting=Jeetey raho. / Isten éltessen sokáig.
+merchant_oriental.greeting=Salam alaikum, bhai! / Béke veled, testvér!
+merchant_adivasi.greeting=Main van se a raha hoon / Épp most érkeztem az erdőből.
+merchant_villagewoman.greeting=Ek akeelii mahila ke lie safar karna mushkil hai / Kemény az utazás egy magányos hölgynek.
+
+male.gorest=Ab jaakey aaram karta hoon. / Elmegyek pihenni.
+male.gorest=Subah sey kaam kar raha hoon. / Reggel óta dolgozom.
+male.gorest=Main thak gaya hoon. / Fáradt vagyok.
+
+female.gorest=Ab jaakey aaram karti hoon. / Elmegyek pihenni.
+female.gorest=Subah sey kaam kar rahi hoon. / Reggel óta dolgozom.
+female.gorest=Main thak gayi hoon. / Fáradt vagyok.
+
+villager.gopray=Hey Bhagwan, is baar phasal achhi ho. / Uram, add, hogy a termés jó legyen ezen alkalommal.
+villager.gopray=Bhagwan, bas aap hi ka sahara hai. / Istenem, te vagy az egyetlen reménységünk.
+
+indian_lumberman.BringBackResourcesHome=Itna saara lakri ghar ley jaaney mein mushkil hooga. / Nehéz lesz ennyi fát hazacipelni.
+indian_lumberman.ChopTrees=Yeh lakri kaat-tey kaat-tey meri zindagi beet jayegi. / Úgy néz ki életem végéig ezeket a fákat fogom vágni.
+indian_lumberman.GatherGoods=Ab saari lakriyan ikaththa karta hoon. / Összegyűjtöm az összes fát.
+indian_lumberman.PlantSaplings=Jitna zyaada ped lagaoonga, utna hi aagey jaakey aaram raheyga. / Minél több fát ültetek, annál könnyebb lesz az élet később. 
+
+indian_peasant.DryBrick=Ghar bananey key liye kitney inth chahiyey? / Mennyi téglára van szükséged a házadhoz? 
+indian_peasant.GatherBrick=Aaj suraj teez hai, inth jaldi sookh rahaien hain. / A nap erősen süt. Gyorsan száradnak a téglák ma. 
+indian_peasant.CookBrick= Dekho, aag mein kaisi badhiyan pakti hai yeh intein. / Nézd milyen jól égnek a téglák a tűben!
+villager.PlantRice=Is saal barish achchi hui toh phasal accha hoga. / Hogyha sok eső lesz a teermés jó lesz idén.
+villager.HarvestRice=Is baar barish acchi honey sey phasal bhi acchi hui hai. / A sok eső miatt a termés is jó.
+villager.PlantTurmeric=Haldi toh sabhi ko chahiyein. / Összességében mindenkinek szüksége van kurkumára.
+villager.HarvestTurmeric=Haldi ki kheti kartey kartey merey haath peeley ho gayein hain. / A kurkumaaratás miatt sárga a kezem.
+indian_peasant.SlaughterChicken=Bahut kha liya ghas-phoos. / Elég vegetáriánus curryt ettem!
+
+indian_peasantwife.GetHouseTHResources=Sab kuch toh thakur ko dey dena padta hai. / Minden végül a földesúr házában köt ki. 
+indian_peasantwife.GetGoodsHousehold=Inkey liye chahey jitna bhi khana lao, kam padta hai. / Bármennyit is dolgozol ezért a családért, sose lesz elég.
+indian_peasantwife.DeliverGoodsHousehold=Uffh, itna sara khana akeley kaisey leh jaoongi. / Hogy fogok cipelni ennyi ételt egyedül?
+indian_peasantwife.makeRasgulla= Bacchon koh rasgulla bahut pasand hai. / A gyerekek szeretik a rasgulla-t.
+
+
+indian_peasant.GetResourcesForBuild=Hmmm, ek tan ka inth  chahiye, dau tan paththar .. / Nézzük csak... Egy tonna tégla, két tonna kő...
+indian_peasant.construction=Hindu vastu-kala desh videsh mein mashoor hai. / Hindu architecture is renowned throughout the world.
+indian_peasant.construction=Iskey baad, main lal kila banaoonga. / Amikor elkészülök ezzel egy vörös várat fogok építeni. 
+
+villager.GoPlay=Mujjhey mitti sey khelna accha lagta hai. / Szeretek a koszban játszani.
+villager.BecomeAdult=Khel kud bahut ho gaya, ab kaam par chalo. / Eleget játszottam, iderje mostmár dolgozni.
+male.BecomeAdult=Main badey hokar yodhdha ban-na chahta tha. / Szerettem volna egy híres harcos lenni amikor még fiatalabb voltam...
+female.BecomeAdult=Mainey socha tha kisi rajkumar sey shaadi hogi... / Arról álmodoztam kislányként, hogy egy herceggel házasodom össze...
+
+villager.gopray.chosen=Mandir jaaney ka samay ho gaya. / Ideje újra meglátogatni a templomot.
+indian_pandit.gopray.chosen=Main mandir ki dekh bhaal nahin karoonga toh kaun karega? / Hogyha én nem foglalkozom a templommal ki fog?
+
+villager.calltoarms=Jeet hamari hoogi. / Győzedelmeskedni fogunk!
+villager.calltoarms=Dushmano ki haar. / Halál az ellenségre!
+villager.calltoarms=Sab apney apney hathiyar utha lo! / Mindenki fegyverbe!
+
+indian_smith.MakeTools=Sabhi merey banaye huye upkaran istamal kartey hain, phir bhi mujhey neecha samachtey hain. / Mindenki az én szerszámaimat használja, és eddig mindenki lenézett.
+indian_armysmith.MakeWeapons=Hathiyaar bananey mein, upkaran bananey sey zyaada maan hai. / A fegyverkészítés sokkal tekintélyesebb a szerszámkészítéshez képest.
+indian_sculptor.Scult=Murtikala ched aur gaanth ki kala hai. / A szobor a besüllyedések és kinövések művészete.
+
+merchant_oriental.KeepStall=Dekho yeh phaarsa ka gaurav! / Figyeld Perzsia dicsőségeit!
+merchant_adivasi.KeepStall= Sab kuch mere parivar dwara kheti ki gayi hai. / Itt mindent a családom növesztett a dzsungel mélyén.
+merchant_villagewoman.KeepStall=Ghara ka bana khana, bhukhe yaatriyon ke lie! / Tessék csak, tessék! Házi étel éhes utazóknak!

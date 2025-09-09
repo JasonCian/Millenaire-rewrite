@@ -1,0 +1,15 @@
+
+0;Obcy;Nie widzielismy nigdy takiego koloru skory, musimy uwazac.
+4*64;Znajoma twarz;Nasi wojownicy bacznie cie obserwuja.
+8*64;Znana twarz;Nasi budowniczy powiedzieli ,że handlujesz kamieniem wysokiej jakości.Ale nie musimy na ciebie patrzeć.
+16*64;Regularny gosc;$name! Wszystko w porzadku?
+32*64;Współ-Górnik;Jak my,wygląda na to ,że wiesz jak kopać kamień,możemy być właściwie przyjaciółmi.
+64*64;Ulubiony kupiec;Witaj, $name. Milo widziec... twoje towary.
+2*64*64;Przyjaciel wioski;$name, zaiste pomogles nam w rozwoju naszej kultury.
+4*64*64;Surowcodajny Sprzymierzeniec;$name, jesteś wartościowym członkiem wioski za wszystkie surowce i rzeczy które nam uczyniłeś.
+8*64*64;Jeden z nas;$name, nasi szamai uznali cie za jednego z nas.
+32*64*64;Naturalny przywodca;Wszyscy Majowie szanuja cie. Pojda za toba wszedzie.
+4*32*64*64;Wielki Bóg Kamienia;Wiemy ,że nie jesteś z tego świata,ale dałeś nam góry kamienia.Musisz być Bogiem.
+-64;Nieznosny;Opusc te ziemie. Nie pozwolimy, by tacy jak ty niszczyli nasza kulture.
+-4*64;Nieprzyjazny obcy;Przynosisz ze soba tylko smrod i chaos.
+-16*64;Wrog publiczny;Zniszczyles nasza kulture. Nie wyjdziesz stad zywy.

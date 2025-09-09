@@ -1,0 +1,18 @@
+version:3.4
+<darkblue>Millénaire Hjelp
+
+Denne hjelpen beskriver Millénaire sine nøkkelegenskaper. Sjekk wiki-en eller spør spørsmål på forumet minecraftforum.net for mer informasjon.
+
+Bruk ikonene på hver side av denne skjermen for å sjekke de andre hjelpekapitlene.
+
+<darkblue>Generelt om landsbyer og enslige bygninger
+
+Millénaire legger til <darkblue>landsbyer<black> fra forskjellige kulturer i Minecraft. Disse landsbyene blir generert tilfeldig i forskjellige naturtyper. De har forskjellige stiler og tilbyr forskjellige produkter, men de har alle en leder, de konstruerer alle nye bygninger, gjør handel med deg og liker eller misliker deg avhengig av dine handlinger (referer til "omdømme"-delen).
+
+Hver landsby er bygd rundt en sentral bygning (som kan være en festning, et kloster, et palass...). I denne bygningen finner du diverse paneler som informerer deg om landsbyen. <darkblue>Høyreklikk<black> på et panel for å vise ytterligere informasjon.
+
+<darkblue>Enslige bygninger<black> utvider seg imidlertid ikke. De kan være tomme (med bare noen etterlatte ting i kister), bebodd av fredelige landsbyboere som kan gjøre handel med deg, eller bebodd av fiendtlige landsbyboere som vil angripe deg.
+
+Ved trykk på "V"-knappen (standard) vises en liste over landsbyer i nærheten. Isolerte bygninger er ikke listet, så du må bemerke deg beliggenheten deres på annet vis.
+
+Som standard så er distansen mellom to landsbyer på minimum to kilometer. Grender som skapes rundt visse landsbyer er et unntak av denne regelen.

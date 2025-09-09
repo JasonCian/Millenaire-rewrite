@@ -1,0 +1,14 @@
+building.length=19
+building.width=19
+
+building.issubbuilding=true
+building.max=0
+building.parentbuildingplan=barrackssmall_A0
+building.travelbook_display=false
+
+building.icon=seljukscimitar
+
+initial.startlevel=-1
+initial.nativename=Asker Odasi
+initial.priority=1000
+initial.male=turk_soldier

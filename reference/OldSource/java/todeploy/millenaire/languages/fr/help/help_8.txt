@@ -1,0 +1,13 @@
+version:3.4
+<darkblue>Les Normands
+
+La culture d’origine de Millénaire, les Normands possèdent le plus grand nombre de types de villages : agricoles, militaires, religieux, industrieux et le « gros bourg » avec ses trois hameaux autour de lui. Les normands parlent français dans le jeu.
+
+<darkblue>Objets et blocs uniques
+
+Les Normands produisent de nombreux objets uniques :
+-Les outils normands, qui sont plus efficaces que ceux en diamants (fabriqués dans une forge par un forgeron)
+-L’épée et les armures normandes, fabriquées dans une armurerie et également meilleures que les équivalents en diamants
+-Le boudin, les tripes, le calva et le cidre, des aliments qui restaurent instantanément la vie du joueur
+-Les colombages, un bloc de construction avec deux variantes très utilisé pour les bâtiments normands avancés, produit uniquement par un charpentier
+-Les tapisseries normandes, fabriquées par la dame d'un chateau à partir de laine (deux blanches, une grise, une gris clair, une noire, une marron) et représentant des extraits de la tapisserie de Bayeux

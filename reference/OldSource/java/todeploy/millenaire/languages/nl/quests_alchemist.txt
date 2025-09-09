@@ -1,0 +1,193 @@
+﻿
+
+
+alchemist_1_introb_0_label=De Alchemist
+alchemist_1_introb_0_description= Mijn zoon, het is ons ter ore gekomen dat je kennis zoekt die buiten datgene is wat god vind dat wij aankunnen. Val niet in de ketterij! Als je  begeleiding zoekt, moet je naar een klooster gaan en ervoor bidden. God lacht naar mensen die wijs genoeg zijn om het limiet van hun begrip te herkennen. Maar jij bent jong en dwaas en ik weet dat mijn advies wordt genegeerd totdat je zelf de les leert. Zo zijn jonge mensen altijd geweest!<ret><ret> Er is een andere man die je kan opzoeken, die misschien kan helpen of je kan overtuigen van de nutteloosheid van je zoektocht. Alhoewel hij zoekt in dingen die hij zelf niet begrijpt, is hij slim en goed opgeleid. Moet ik je naar hem begeleiden?
+alchemist_1_introb_0_description_success=Zijn naam is Guillaume Vif-argent en hij noemt zichzelf een ‘alchemist’. Ik heb zijn precieze locatie niet, maar hij staat erom bekend om zich in de bergen op te houden omdat daar de sterren perfect te observeren zijn.
+alchemist_1_introb_0_description_refuse=Je bent slimmer dan je eruit ziet.
+alchemist_1_introb_1_label=Meld je bij de $startvillager_villagerrole$
+alchemist_1_introb_1_description=Heb je die man gevonden? Wat kun je over hem vertellen?
+alchemist_1_introb_1_description_success=Ik zie dat zijn kennis indruk op je maakt. Wees op je hoede, $name.
+alchemist_1_introb_1_description_refuse=Ik blijf hier en zal ervoor bidden dat je van gedachten verandert, $name.
+alchemist_1_introb_1_listing=Vind de alchemistentoren in de bergen, meld je daarna bij $startvillager_villagerrole$ van $startvillager_villagename$.
+
+alchemist_1_introguildmasterb_0_label=De Alchemist
+alchemist_1_introguildmasterb_0_description=$name, ik begrijp dat je door het hele land hebt gezocht naar hulp om de geheimen van deze wereld te ontdekken. Was naar mij gekomen! Ik heb de eer om de slimste man in leven te kennen, de Alchemist Guillaume Vif-argent, wiens reputatie boven allen van ons staat die filosofie hebben gestudeerd. Hij is degene naar wie je moet gaan.
+alchemist_1_introguildmasterb_0_description_success=Zijn basis staat in de bergen waar hij de stenen en sterren bestudeerd.
+alchemist_1_introguildmasterb_0_description_refuse=Dus je wil niet luisteren naar de beste man sinds Plato? Je stelt me teleur, $name.
+alchemist_1_introguildmasterb_1_label=Meld je bij de gildemeester.
+alchemist_1_introguildmasterb_1_description=Welk nieuws heb je over de alchemist , $name?
+alchemist_1_introguildmasterb_1_description_success=Ik zie dat zijn geest penetrerend is zoals altijd. Luister en leer van hem, jeugdige $name.
+alchemist_1_introguildmasterb_1_description_refuse=Ik blijf hier en zal ervoor bidden dat je van gedachten verandert, $name.
+alchemist_1_introguildmasterb_1_listing= Vind de alchemistentoren in de bergen, meld je daarna bij $startvillager_villagerrole$ van $startvillager_villagename$.
+
+alchemist_1_introknight_0_label=De Alchemist
+alchemist_1_introknight_0_description= Dus je wilt weten wie in deze landen enige kennis heeft van deze wereld? Niet de priesters, dat is zeker. En wees op je hoede voor de gilde meesters, zij zeggen namelijk altijd meer te weten dan ze werkelijk doen. Er is een man die je misschien zou kunnen helpen. Hij zegt zeer wijs en opgeleid te zijn en bood aan om lood in goud te veranderen voor de koning in de oude wereld. Ik vond altijd dat hij een schaduwachtig figuur was, maar misschien is er iets met hem.
+alchemist_1_introknight_0_description_success= Hij heeft zich in de wildernis opgezet. In de buurt van bergen. Hij zegt rust nodig te hebben voor zijn werk, maar ik ben zeker dat hij iets verbergt. In ieder geval, zijn naam is Guillaume Vif-argent.
+alchemist_1_introknight_0_description_refuse=Waarschijnlijk een wijs besluit.
+alchemist_1_introknight_1_label=Meld je bij $startvillager_villagerrole$
+alchemist_1_introknight_1_description=Heb je de man gezien?
+alchemist_1_introknight_1_description_success=Dus hij lijkt jou een goed persoon? Prima, zo lang hij zich niet met mijn heer zijn zaken bemoeit...
+alchemist_1_introknight_1_description_refuse=Ik blijf hier en zal ervoor bidden dat je van gedachten verandert, $name.
+alchemist_1_introknight_1_listing= Vind de alchemistentoren in de bergen, meld je daarna bij $startvillager_villagerrole$ van $startvillager_villagename$.
+
+alchemist_2_meeting_0_label=Een welkom
+alchemist_2_meeting_0_description= Dus je bent naar mij gestuurd om kennis te vergaren, $name? Dan ben je goed geadviseerd. Ik ben de enige echte alchemist die he aan zult treffen in deze godvergeten wereld, mijn jongen. Als je van mij wilt leren, moet je me helpen. Ik kan altijd meer goede jonge mensen gebruiken. En als je gemotiveerd wordt van meer dan alleen pure kennis, weet dat hoewel ik nog niet geslaagd ben in het veranderen van lood in goud, heb ik het wel voor elkaar gekregen om alchemie in geldstukken te veranderen in het koninklijk huis.
+alchemist_2_meeting_0_description_success= Je kan intrekken in het huis als je wilt. Mijn assistant en ik zijn veels te druk om er ooit te komen.
+alchemist_2_meeting_0_description_refuse=Dan wegwezen jij, ik heb werk te verrichten..
+
+alchemist_3_ores_0_label=Stenen collectie
+alchemist_3_ores_0_description= Op dit moment ben ik bezig met het analyseren van de stenen uit deze wereld. Ze zijn duidelijk verwant aan de stenen uit de oude wereld, maar hun spreiding is anders. Ik heb nu monsters nodig! Of dacht je dat ik zo’n nutteloze filosoof was die alleen uit bieje werkt?
+alchemist_3_ores_0_description_refuse=Waarom val je me dan lastig??
+alchemist_3_ores_0_description_success=Goed, mijn assistent zal je de werktuigen geven die je nodig hebt. En wees gerust, ik verwacht niet van je dat je diamanten terugbrengt. Ik heb mijn werk met die dingen al afgemaakt.
+alchemist_3_ores_1_label=Haal de werktuigen
+alchemist_3_ores_1_description=Gegroet $name, ik ben meester Vif argent’s assistant. Wees niet beledigd door zijn manieren, hij is een echte man der wetenschap, te druk met zijn werk om tijd te hebben voor de samenleving. Maar hij is erg wijs, dat weet ik. Hoe dan ook, hier zijn je werktuigen.
+alchemist_3_ores_1_description_success=Veel succes, $name!
+alchemist_3_ores_1_description_refuse=Ik moet de meester hierover informeren.
+alchemist_3_ores_1_listing=Neem de werktuigen aan van de alchemist zijn assistent.
+alchemist_3_ores_2_label=Keer terug met monsters
+alchemist_3_ores_2_description=Wat heb je gevonden?
+alchemist_3_ores_2_description_success=Goed, zeer goed! Je bent een efficiente man, $name. Dat bevalt me.
+alchemist_3_ores_2_description_refuse=Ik blijf hier en zal ervoor bidden dat je van gedachten verandert, $name.
+alchemist_3_ores_2_listing=Keer terug met de monsters naar de alchemist.
+
+alchemist_4_lavab_0_label=Een brandende behoefte
+alchemist_4_lavab_0_description=Ik heb grote ervaringen in gedachten, $name. Zoals je misschien in je reizen gezien hebt, heeft deze wereld geen vulkanen zoals die in ons oude Europa, maar de grond is vol lava en het is niet raar om daar stromen van te zien aan het aardoppervlak. Ik moet weten waar lava van gemaakt is en of het gebruikt kan worden materialen te veranderen. Mijn goede Robert is te oud hiervoor, mijn jij bent goed genoeg om de monsters te halen die ik behoef.
+alchemist_4_lavab_0_description_refuse=Waarom val je me dan lastig?
+alchemist_4_lavab_0_description_success=Ga naar Robert, hij heeft de werktuigen die je nodig hebt.
+alchemist_4_lavab_1_label=Haal werktuigen op
+alchemist_4_lavab_1_description= Nu is het lava dat hij nodig heeft? Ik weet zeker dat hij er goed werk mee val verrichten! Neem die emmers en veel succes. Onthoud dat de meester alle 16 gevuld terug moet hebben.
+alchemist_4_lavab_1_description_success=Wees snel terug, $name!
+alchemist_4_lavab_1_description_refuse=Ik moet de meester hierover informeren.
+alchemist_4_lavab_1_listing=Neem de werktuigen aan van de alchemist zijn assistent.
+alchemist_4_lavab_2_label=Keer terug met de lava
+alchemist_4_lavab_2_description=Heb je alles?
+alchemist_4_lavab_2_description_success=Geweldig, dit zal bijzonder handig zijn voor mijn experimenten.
+alchemist_4_lavab_2_description_refuse=Ik blijf hier en zal ervoor bidden dat je van gedachten verandert, $name.
+alchemist_4_lavab_2_listing=Keer terug met de lava naar de alchemist.
+
+alchemist_5_creeper_0_label=Explosive behoeften
+alchemist_5_creeper_0_description= Ah, $name! Heeft de meester je een belangrijke taak gegeven? Nee? Mooi, mooi... ik zit in de problemen, $name. De meester had om gigantische hoeveelheden van die myterieuse explosieve substantie gevraagd die dorpelingen soms rond dorpen vinden, maar ik heb nog niet genoeg kunnen krijgen. Hij zal extreem teleurgesteld zijn! Kun je mij helpen? Ik zal je van werktuigen voorzien die je nodig hebt.
+alchemist_5_creeper_0_description_refuse=Wat moet ik doen dan?
+alchemist_5_creeper_0_description_success= Bedankt! Natuurlijk kan ik je voorzien van een boog en pijlen als je die nodig hebt.
+alchemist_5_creeper_1_label=Breng het buskruit terug
+alchemist_5_creeper_1_description=Heb je al iets gevonden?
+alchemist_5_creeper_1_description_success= Hoe heb je het voor elkaar gekregen zoveel te krijgen in zo’n korte tijd? Je bent echt een buitengewone man, $name. I kan je niet genoeg bedanken voor je hulp!
+alchemist_5_creeper_1_description_refuse=Ik moet de meester hierover informeren.
+alchemist_5_creeper_1_listing=Verzamel buskruit voor de alchemist zijn assistent.
+
+
+
+alchemist_6_boreholec_0_label=De Grote Afgraving
+alchemist_6_boreholec_0_description= Ik ben bezig geweest met het bestuderen van de geologie van deze wereld. Met alle hardheid van de alchemie. Het meeste ervan is vreemd, maar niks is vreemder dan de laag van harde steen die mijn assistent niet kapot kon krijgen. Misschien werkt hij niet zo hard als dat hij zou moeten of misschien is er iets zeer interessants daar beneden, wat we eigenlijk niet zouden mogen zien. Wat he dan ook is, ik ben van plan er verandering in te brengen.<ret><ret>Ben je klaar voor wat serieus werk, $name?
+alchemist_6_boreholec_0_description_refuse=Waarom val je me dan lastig?
+alchemist_6_boreholec_0_description_success= Voordat we kunnen beginnen met deze barriere te doorbreken, moeten we eerst een goed pad ernaartoe maken. Je moet een boorgat maken tot aan de boden van de wereld. Graaf waar je wilt, maar ik heb tenminste een vijf bij vijf meter groot vierkant van die “bedrock” nodig die in de volle zon ligt.<ret><ret>Wees gerust, je hoeft niet met je handen te graven. Ga naar mijn assistent en hij zal je de beste werktuigen geven die alchemie bieden kan.
+alchemist_6_boreholec_1_label=Haal de explosieven
+alchemist_6_boreholec_1_description= Dus hij gaat echt door met zijn boor plan? Zo’n geweldige man met zulke ambities! Natuurlijk is het nu aan ons om het echte werk te doen. Nou, aan jou eigenlijk.<ret><ret>Hoe dan ook... bedankt voor je poeder collectie, ik heb die explosieven gemaakt aan de gand van zijn instructies. Ze zullen je helpen snel te graven.
+alchemist_6_boreholec_1_description_success=Wees voorzichtig en veel succes!
+alchemist_6_boreholec_1_description_refuse=Ik moet de meester hierover informeren.
+alchemist_6_boreholec_1_listing=Neem de explosieven aan van de alchemist zijn assistent.
+alchemist_6_boreholec_2_label=Meld je bij de alchemist
+alchemist_6_boreholec_2_description=Ik hoop dat mijn explosieven de mogelijkheid hebben gegeven de taak goed uit te voeren.
+alchemist_6_boreholec_2_description_success= Geweldig werk! Je hebt alles om een goede alchemist te worden, $name. Een taak als deze uitvoeren zonder jezelf op te blazen is een vertoning van vaardigheden.<ret><ret>Ik ben je veel schuldig, $name. Neem alsjeblieft dit alchemistisch amulet aan van mijn uitvinding – jouw monsters waren essentieel voor me om dit ontwerp af te maken. Het zal gloeien als je in de buurt bent van bijzondere materialen.<ret><ret>Ik ben mijn plannen aan het afronden om die stenen kapot te maken. Rust wat uit en kom terug om me te zien.
+alchemist_6_boreholec_2_description_refuse= Ik blijf hier en zal ervoor bidden dat je van gedachten verandert, $name.
+alchemist_6_boreholec_2_listing=Graaf een 5x5 boorgat en meld je dan bij de alchemist.
+
+
+alchemist_7_boreholetnt_0_label=Explosieve zaken
+alchemist_7_boreholetnt_0_description= De grote dag is gekomen, $name! Ik heb onderzocht hoe je het beste poeder kan concentreren om door de bedrock te breken en ik geloof dat ik het heb gevonden. Een goede laag obsidian zal genoeg zijn om de explosie richting de grond te doen buigen en ons van succes te verzekeren. Ben je klaar?
+alchemist_7_boreholetnt_0_description_refuse=Waarom val je me dan lastig?
+alchemist_7_boreholetnt_0_description_success= Robert zal de explosieven geven. Zorg ervoor dat je het op de boden van het boorgat plaatst en dat je de obisidian blokken erbovenop doet. Volgens mijn berekeningen heb je tenminste 20 explosieven nodig om het effect te voelen. Breek je benen niet als je naar beneden gaat.
+alchemist_7_boreholetnt_1_label=Haal de explosieven
+alchemist_7_boreholetnt_1_description=.Ik heb alles voor je! Explosieven, obsidian en genoeg draad om veilig te staan als alles aan is.
+alchemist_7_boreholetnt_1_description_success=Ik bewonder je, mijn jonge vriend. Jij bent de eerste die alle rijkdommen daar beneden kan zien.
+alchemist_7_boreholetnt_1_description_refuse= Ik moet de meester hierover informeren.
+alchemist_7_boreholetnt_1_listing=Neem de explosieven aan van de alchemist zijn assistent.
+alchemist_7_boreholetnt_2_label=Meld je bij de alchemist
+alchemist_7_boreholetnt_2_description= En, $name! Werkte alles? Welke geweldige dingen heb je daar beneden gezien?
+alchemist_7_boreholetnt_2_description_success= Niks? Niks? Hoe kan dat? Hoe kan iets zo’n geconcentreede explosie weerstaan? Dat is onmogelijk, je moet het fout hebben gedaan! Inept!<ret><ret>Ok, Ok, mijn excuses $name. Je werk is altijd vlekkeloos geweest. Ik was naief om te denken dat zoiets simpels als ordinaire explosieve zou werken. Je moet me laten kijken. Er moet een oplossing zijn – en denk aan hoe waardevol datgene is wat eronder zit, als het zo goed beschermd is!
+alchemist_7_boreholetnt_2_description_refuse= Ik blijf hier en zal ervoor bidden dat je van gedachten verandert, $name.
+alchemist_7_boreholetnt_2_listing=Place twenty TNT blocks at the bottom of the borehole, cover them with a layer of obsidian and lit them. Report the results to the Alchemist.Plaats 20 TNT blocks op de boden van het gat, bedek ze met een laag obsidian en steek ze aan. Meld je resultaten bij de alchemist.
+
+
+alchemist_8_anomalyb_0_label=De anomalie
+alchemist_8_anomalyb_0_description= Ons falen zat me dwars, $name. Ik heb er hard over zitten peinzen sinds toen en ik denk dat mijn fout was om me niet genoeg te concentreren op het material zelf. Voor het een obstakel was, was het een mysterie van zichzelf. En ik heb goede vooruitgang geboekt, $name! Ik heb een poeder gemaakt dat reageert in de aanwezigheid van bedrock in de buurt en ik heb mijn assistent laten kijken. Mijn eerste indruk klopte, Het is een constante laag, zo’n zestig meter beneden zeeniveau.<ret><ret> Maar toch... hij vond een plek waar dat niet zo was. Die bedrock ligt dichter bij het oppervlak en is in grotere getalen. Wil jij het voor mij onderzoeken?
+alchemist_8_anomalyb_0_description_refuse=Waarom val je me dan lastig?
+alchemist_8_anomalyb_0_description_success=Wees voorzichtig, $name! Ik weet niet wat dit betekent en het kan mogelijk Gevaarlijk zijn.
+alchemist_8_anomalyb_1_label=Meld je bij de alchemist
+alchemist_8_anomalyb_1_description=Dus je bent terug? Wat heb je ontdekt?
+alchemist_8_anomalyb_1_description_success= Een kamer? Kunstmatig en gemaakt van bedrock? Dit is de beste ontdekking sinds we zijn aangekomen in deze wereld… Het is het eerste absolute bewijs dat er mensen zijn of waren in deze wereld met grotere krachten dan die van ons. Het is niet zoals die dingen waar ik van gehoord heb. Die mijnen en ondergrondse forten, indrukwekkende bouwwerken maar niet buiten ons bereik. Dit is iets compleet anders. En je zei dat ze waren voor het laten verschijnen van monsters?<ret><ret>$name, ik moet hier nu over na gaan denken. Dit gaat buiten mijn kennis en ervaring om. Ik moet ook nog zien wat we kunnen doen om ons onderzoek voort te zetten aangezien de plek die je bezocht leeg was, behalve wat de monsters betreft.
+alchemist_8_anomalyb_1_description_refuse=
+alchemist_8_anomalyb_1_listing=Verken de anomalie en meld je bij de alchemist
+
+
+alchemist_9_anomalytwob_0_label=Een tweede blip
+alchemist_9_anomalytwob_0_description=$name ik heb geweldig nieuws! Robert heeft een nieuwe anomalie gevonden niet ver van hier en hij lijkt veel groter dan de eerste. Wie weet wat je daar zult aantreffen? Misschien iets wat ons op het spoor zet van die mensen of zelfs ons door de door de rotsen laat breken><ret><ret>Maar ik word weg gedragen...Het eerste wat je moet doen is je ervan verzekeren dat het veilig is. Je moeilijkheden met monsters in de eerste baren mij zorgen., $name. Neem wat eten mee... En hier, neem mijn zwaard ook. Jij hebt er vast meer aan dan ik.
+alchemist_9_anomalytwob_0_description_refuse=Geef me dan mijn zwaard terug en val iemand anders lastig!
+alchemist_9_anomalytwob_0_description_success=Veel success en pas op!
+alchemist_9_anomalytwob_1_label=Meld je bij de alchemist
+alchemist_9_anomalytwob_1_description=$name, ik ben zo blij dat je hier veilig bent. Je ziet er uitgeput uit. Je ziet eruit alsof je een drankje nodig hebt. Dan mag je spreken.
+alchemist_9_anomalytwob_1_description_success=Alchemical equipment? Fascinating! So those mysterious builders are almost colleagues! Of course, somewhat more knowledgable than me... for now! And so you have brought back a sample of that mysterious plant they cultivate. It must have powerful alchemical properties.Alchemistische materialen? Fascinered! Dus die mysterieuse bouwers zijn zowat collega’s! Natuurlijk met iets meer kennis dan ik… voor nu dan! En dus heb je een monster meegebracht van die mysterieuse plant die ze verbouwen. Het moet krachtige alchemistische eigenschappen hebben.
+alchemist_9_anomalytwob_1_description_refuse=
+alchemist_9_anomalytwob_1_listing=Verken de tweede anomalie en meld je bij de alchemist
+
+
+
+alchemist_10_anomalythree_0_label=Jamais deux sans trois
+alchemist_10_anomalythree_0_description= Terwijl ik je vorige ontdekking aan het onderzoeken was, is Robert verder gaan zoeken naar een andere anomalie. Hij denkt er één gevonden te hebben, die veel groter is. Denk aan wat er zou kunnen liggen. En aan mij, degene die nog niet een weet hoe het met de laatste zat.
+alchemist_10_anomalythree_0_description_refuse=Waarom val je me dan lastig?
+alchemist_10_anomalythree_0_description_success=Ik zie dat je net als ik niet kan wachten om te zien wat erin zit, daar hou ik van mijn jongen!
+alchemist_10_anomalythree_1_label=Meld je bij de alchemist
+alchemist_10_anomalythree_1_description=Mijn geweldige $name, machtige ontdekker! Ik kan zien dat het moeilijk was. Neem een glas calva en wat van die geweldige Normaanse boudin en vertel me alles!
+alchemist_10_anomalythree_1_description_success= Ongelofelijk… Denk je dat die laatste kamer een sort lava oven was? Die mensen hun alchemistische kennis is ver boven die van ons! En nog meer spawners en iets wat leek op een monster opslag... Als ik geen alchemist was zou ik niet geloven dat je god zijn werkplaats hebt bezocht mijn vriend.<ret><ret>Ik zal de kracht die je hebt meegebracht ondezoeken. Het moet van enorm belang zijn geweest voor ze om er zo’n enorm mechanisme omheen te bouwen. Ik kan alleen maar bidden dat mijn kennis voldoende is om er iets van te kunnen maken, zelfs al snap ik niet wat het is.
+alchemist_10_anomalythree_1_description_refuse=
+alchemist_10_anomalythree_1_listing=Verken de derde anomalie en meld alles wat je daar vind bij de alchemist
+
+
+
+
+alchemist_11_brewingstudents_0_label=Kennis verspreiden
+alchemist_11_brewingstudents_0_description=$name, ik heb geweldig nieuws! Ik heb het voor elkaar gekregen die planten te laten groeien. Ze horen niet in dit land thuis, maar met mest van mijn ontwerp lukt het ze te laten groeien. Het lijkt erop dat ze sterke alchemistische eigenschappen hebben. Ik heb geen tijd gehad om daar verder naar te kijken, maar ik heb een boek gemaakt met de ontdekking rond dit onderwerp. Je moet het naar een Normaans dorp brengen  waar ik erop hoop dat een ambistische jonge man nuttige dranken eruit zal brouwen.
+alchemist_11_brewingstudents_0_description_success= Ga naar een gildemeester of anders een ridder. Ik denk niet dat een abdij zulke ontdekkingen kan waarderen. Zijn zijn nogal koppig met hun gedachten.
+alchemist_11_brewingstudents_0_description_refuse=Waarom val je me dan lastig?
+alchemist_11_brewingstudents_1_label=Praat met de alchemist
+alchemist_11_brewingstudents_1_description=Kon je de kennis delen?
+alchemist_11_brewingstudents_1_description_success=Very well. I hope one of the village's youth will prove skillful. I need to focus on your powder - I am convinced that it's the most important part of it all.Ok dan, ik hoop dat één van de jeugdigen daar  goed ermee omgaat. Nu moet ik me focussen op dat poeder – ik ben ervan overtuigd dat het het belangrijkste van dit alles is.
+alchemist_11_brewingstudents_1_description_refuse=Waarom val je me dan lastig?
+alchemist_11_brewingstudents_1_listing=Ga terug naar de alchemist nadat je een dorpsleider hebt gesproken.
+
+alchemist_11b_guildmaster_0_label=Spreek met de gildemeester
+alchemist_11b_guildmaster_0_description= Guillaume Vif-argent heeft het voor elkaar gekregen alchemie weer op te starten in deze wereld? Hij is echt een buitengewone man! Ik ben vereerd om zijn werk te bestuderen en een jonge man ermee te laten werken!
+alchemist_11b_guildmaster_0_description_success=Zeg hoe vereerd ik ben tegen de meester.
+alchemist_11b_guildmaster_0_description_refuse=Waarom val je me dan lasting?
+
+
+alchemist_11b_knightseneschal_0_label=Spreek met de dorpsleider
+alchemist_11b_knightseneschal_0_description= Dus, deze oude alchemist zegt alweer dat hij geweldige ontdekkingen heeft gedaan? Het geweldige deel is hoe hij ermee omgaat. Mijn beste $name, ik heb nooit tijd of zin in deze dingen. Maar als een jonge man in het dorp interesse toont zal ik hem het boek geven.
+alchemist_11b_knightseneschal_0_description_success=Kom terug als hij eindelijk lood in goud kan veranderen. Dat belooft hij al jaren!
+alchemist_11b_knightseneschal_0_description_refuse=Waarom val je me dan lastig?
+
+
+
+
+
+alchemist_12_theexperiment_0_label=Het Experiment
+alchemist_12_theexperiment_0_description= Ik heb nooit zoiets als dit poeder… Ik kan niet begrijpen wat het is of hoe het gemaakt is. Dit is ver buiten mijn alchemistische vaardigheden, $name, Ver buiten die. Alles wat ik heb kunnen doen is bepalen dat je het kan gebruiken als explosief. Ik heb miniscule doseringen geprobeerd en heb toch bijna de hele boel opgeblazen. Ik hoef niet te zeggen wat ik nu wil dat je gaat proberen. Maar luister goed, want dit spul is bijzonder reactief.<ret><ret>Ik heb het kunnen stabiliseren door het te mengen met andere materialen, dus het heeft de vorm van een kubus. Onder die vorm lijkt het stabiel en kun je er zonder risico mee omgaan. Hoop ik. Hoe dan ook, naar explosieven ernaast laten ontploffen zal een reactie met het poeder veroorzaken. Ik denk dat het enorm heftig ontploft. Hoe heftig weet ik niet, maar probeer er ver vandaan te zijn als het gebeurt.<ret><ret> Zorg dat het naast de bedrock ontploft. Ik kan misschien geen volgende lading maken als je met deze faalt.
+alchemist_12_theexperiment_0_description_refuse= Waarom val je me dan lasting?
+alchemist_12_theexperiment_0_description_success= Robert zal je de explosieven geven. Wees voorzichtig en moge wij spoedig drinken op de doorbraak van het bedrock!
+alchemist_12_theexperiment_1_label=Haal de materialen
+alchemist_12_theexperiment_1_description=Ah, $name… Ik heb je materialen, zoals de meester me verzocht. En ik baal ervan om het te zeggen, maar ik heb de meester nog nooit twijfelachtiger gezien. Het maakt me nerveus om te zien dat hij zo onzeker is van zichzelf.
+alchemist_12_theexperiment_1_description_success= Als alles goed gaat, wordt je een legende, de eerste man die toegaf aan de ondergrondse wereld. En als het fout gaat, nou ja.......
+alchemist_12_theexperiment_1_description_refuse= Ik moet de meester hierover informeren.
+alchemist_12_theexperiment_1_listing=Neem de materialen aan van de alchemist zijn assistent
+alchemist_12_theexperiment_2_label=Meld je bij de alchemist
+alchemist_12_theexperiment_2_description= Het gezicht dat je trekt is een vreemde, $name…
+alchemist_12_theexperiment_2_description_success= Leegte…. Dus deze hele wereld rust op niks anders dan leegte… Is er geen realiteit dan? Is er niks stevigs en meetbaars in deze wereld? $name, deze wereld is niet voor mij of mijn alchemie… Het is een wereld van schaduwen en illusies…
+alchemist_12_theexperiment_2_description_refuse= Ik blijf hier en zal ervoor bidden dat je van gedachten verandert, $name.
+alchemist_12_theexperiment_2_listing= Ontsteek de alchemist zijn explosieven in de buurt van bedrock door TNT ernaast op te blazen. Observeer de resultaten en meld je bij de alchemist.
+
+
+alchemist_13_conclusion_0_label=Geest en Materie
+alchemist_13_conclusion_0_description= Ik heb er constant hard over na zitten denken, $name… Je hebt gelijk, ik heb wel een rol te spelen. Ik mag dan niet begrijpen wat deze hele wereld betekent of wat we hier doen, maar mijn drankjes en formules kunnen jouw misschien helpen wanneer ik het niet kan. Nogmaals bedankt, $name. Niet alleen voor je werk maar ook voor je ondersteuning. Zorg ervoor dat je me kont ontmoeten als je nog eens hulp nodig hebt die ik kan geven.<ret><ret>Je moet ook weten dat ik mijn invloed hebt gebruikt op de Normaanse nobelen en de gildes om het woord van jouw mogelijkheden te verspreiden.Als dat niet al het geval was, je kan de Normanen je nu laten volgen waar je maar wilt, op elke plek waar je wilt.
+alchemist_13_conclusion_0_description_refuse=Waarom val je me dan lastig?
+alchemist_13_conclusion_0_description_success= En als een afscheidscadeautje, tijdens mijn experimenten heb ik heb voor elkaar gekregen om een aantal kleine diamanten te maken. Ik heb geen nuttige taak voor ze, maar weet zeker dat jij ze goed zal gebruiken.<ret><ret>Ik hoop je ooit nog eens te zien $name en te horen hoe je deze wereld een nut geeft.

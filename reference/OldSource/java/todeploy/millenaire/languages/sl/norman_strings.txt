@@ -1,0 +1,72 @@
+﻿culture.norman=Norman
+
+//Norman:
+villager.abbot=Opat
+villager.carpenter=Tesar
+villager.cattleFarmerMale=Govedorejec
+villager.cattleFarmerFemale=Govedorejka
+villager.pigherd=Svinjerecec
+villager.pigherdF=Svinjerejka
+villager.shepherd=Ovcerejec
+villager.shepherdF=Ovcerejka
+villager.boy=Fant
+villager.girl=Punca
+villager.teenagerMale=Najstnik
+villager.teenagerFemale=Najstnica
+villager.farmer=Kmet
+villager.merchant_viking=Vikingški trgovec
+villager.merchant_weapon=Orožarski trgovec
+villager.merchant_plant=Trgovec z rastlinami
+villager.merchant_art=Trgovec z umetnostjo
+villager.merchant_wool=Tekstilni trgovec
+villager.merchant_food=Trgovec s hrano
+villager.guard=Stražar
+villager.guildmaster=Cehovski vodja
+villager.knight=Vitez
+villager.lady=Gospa
+villager.lumberman=Gozdar
+villager.merchant=Trgovec
+villager.miner=Rudar
+villager.monk=Menih
+villager.priest=Duhovnik
+villager.seneschal=Skrbnik
+villager.smith=Kovač
+villager.wife=Vaška ženska
+
+villager.innkeeperfemale=Čuvajka
+villager.innkeepermale=Čuvaj
+villager.lonemiller=Mlinar
+villager.merchant_weapons=Orožarski trgovec
+villager.robberbaron=Vodja razbojnikov
+villager.robberleader=Vodja razbojnikov
+
+villager.lonelumberman=Osamljen gozdar
+villager.lonelumbermantaiga=Osamljen gozdar
+villager.loneminer=Osamljen milnar
+villager.lonemonk=Osamljen menih
+villager.loneabbot=Osamljen opat
+villager.alchemist=Alkimist
+villager.alchemistassistant=Alkimistov asistent
+villager.alchemistapprentice=Alkimistov vajenec
+villager.bandit=Razbojnik
+villager.armoredbandit=Oborožen razbojnik
+villager.felonbaron=Razbojnik
+villager.felonsoldier=Razbojnik
+
+
+shop.townhall=Osrednja trgovina
+shop.forge=Orodje
+shop.armoury=Oklep in orožje
+shop.bakery=Kruh
+shop.cattlefarm=Govedji izdelki
+shop.pigfarm=Svinjski izdelki
+shop.sheepchickenfarm=Perutninarstvo
+shop.tavern=Alkohol
+shop.lumberman=Jabolčnik in jabolka
+shop.lonemine=Kamen
+shop.alchemyworkshop=Alkimistični izdelki
+shop.lonelumberman=Les in jabolka
+shop.lonemill=Kruh
+shop.loneinn=Hrana in pijača
+shop.lonelumbermantaiga=Les
+shop.loneabbey=Opatovi izdelki

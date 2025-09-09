@@ -1,0 +1,32 @@
+name=Onsenmachi
+weight=10
+radius=90
+
+mindistancefromspawn=1000
+
+//Vanilla biomes
+biome=Extreme Hills
+biome=Extreme Hills+
+biome=Extreme Hills M
+biome=Extreme Hills+ M
+biome=Taiga
+biome=Taiga M
+biome=TaigaHills
+
+//biomes o'plenty
+biome=alps
+biome=alps foothills
+biome=cherry blossom grove
+biome=coniferous forest
+biome=crag
+biome=highland
+biome=maple woods
+biome=moor
+biome=mountain
+biome=mountain foothills
+biome=overgrown cliffs
+biome=redwood forest
+biome=snowy coniferous forest
+
+//starting buildings=
+centre=hotspringsinn

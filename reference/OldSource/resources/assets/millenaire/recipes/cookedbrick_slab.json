@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "millenaire:painted_brick_white",
+            "data": 0
+        }
+    },
+    "result": {
+        "item": "millenaire:slab_stone_deco",
+		"count": 6,
+        "data": 1
+    }
+}

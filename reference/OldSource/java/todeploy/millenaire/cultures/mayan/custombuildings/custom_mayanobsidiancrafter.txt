@@ -1,0 +1,1 @@
+native:Ta'as Kob Took;gameNameKey:mayanobsidiancrafter_A0;male:mayan_obsidiancrafter;female:mayan_PeasantWife;moveinpriority:20;craft:1;chest:1-5;sign:1;shop:mayanobsidiancrafter

@@ -1,0 +1,16 @@
+building.length=9
+building.width=10
+building.buildingorientation=3
+building.icon=woodenbarsindian
+building.areatoclear=4
+
+initial.startlevel=-1
+initial.nativename=Shilpee Ka Ghar
+initial.priority=5000
+initial.male=indian_craftsman
+initial.female=indian_peasantwife
+initial.prioritymovein=50
+
+upgrade1.priority=150
+
+upgrade2.priority=60

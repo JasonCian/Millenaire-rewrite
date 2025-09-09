@@ -1,0 +1,14 @@
+building.length=10
+building.width=10
+building.max=1
+building.areatoclear=3
+building.version=1
+building.buildingorientation=0
+building.icon=redflower
+
+initial.startlevel=-1
+initial.nativename=Çiçek bahçesi
+initial.priority=100
+initial.tag=garden
+initial.tag=leisure
+initial.tag=flowerfield

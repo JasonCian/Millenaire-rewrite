@@ -1,0 +1,13 @@
+//Parameters for the building as a whole
+building.length=12
+building.width=10
+building.max=0
+building.reputation=1024
+building.price=2048
+building.icon=fence_oak
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Chuugata Chisho
+initial.priority=1000000
+

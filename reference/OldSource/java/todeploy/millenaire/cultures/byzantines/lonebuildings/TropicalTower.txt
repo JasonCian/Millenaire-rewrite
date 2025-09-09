@@ -1,0 +1,19 @@
+name=Mono Paratiritio
+weight=0
+radius=10
+
+//Vanilla biomes=
+biome=Jungle Hills
+biome=Jungle M
+biome=Jungle Edge M
+
+//biomes o'plenty
+biome=lush desert
+biome=mountain
+biome=lush swamp
+biome=oasis
+biome=tropical rainforest
+biome=tropical island
+
+//starting buildings=
+centre=jungletower

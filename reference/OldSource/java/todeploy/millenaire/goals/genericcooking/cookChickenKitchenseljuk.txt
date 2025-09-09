@@ -1,0 +1,16 @@
+
+priority=50
+buildingTag=kitchen
+
+sentencekey=cookChicken
+labelkey=cookChicken
+
+itemtocook=chickenmeat
+
+buildinglimit=chickenmeatcooked,60
+
+minimumtocook=3
+
+itemsbalance=chickenmeat,chickenmeatcooked
+
+helditems=chickenmeat

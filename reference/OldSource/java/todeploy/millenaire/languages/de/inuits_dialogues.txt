@@ -1,0 +1,65 @@
+//*    Dialoge beginnen mit einem Code wie „v2;30;“, der festlegt, wer spricht und wann der Satz gesagt wird. Er muss exakt genauso in die Übersetzung kopiert werden. Die erste Hälfte des Satzes (bis zum /) ist in der Sprache des Dorfbewohners und muss so gelassen werden. Danach kommt die Übersetzung.
+//* 
+//* 
+//* 
+
+
+
+newchat;key:rain,tag:notraining,weigth:10
+v1;0;kisu qanniqtuq? / Schneit es?
+v2;30;aamai qiuvit?? / Es sieht aus wie Schnee, aber es scheint nicht kalt zu sein.
+
+newchat;key:beautiful,weigth:10
+v1;0;asiujivaa, / Wo sind wir? Ich habe diesen Ort noch nie gesehen. Es sieht gleich aus, aber fühlt sich anders an.
+v2;30;angakkuq uqalaittuq unillarvik tuurngaq, ittukki! / Die Schamanen sagen wir seien im heiligen Land der gütigen Geistern. Deswegen ist es hier so erstaunlich!
+
+newchat;key:sunset,weigth:10
+v1;0;sinigiaqaqtunga, unnusak... / Ich bin müde. Die Zeit vergeht so langsam...
+
+newchat;key:seasons,weigth:10
+v1;0;aaqqiktausimalluni angunasungniq suvallituq ukiuq? / Meinst du die Jagd wird gut dieses Jahr?
+v2;30;aamai, uqqulimajuq. / Wer weiß, mit dem Wetter, dass wir hatten.
+v1;60;upirngalaaq ippigijaillingajuq. / Die Jahreszeiten machen hier keinen Sinn.
+
+newchat;key:normans,weigth:5
+v1;0;qallunaat uivirripaa, uiguit? / Ich habe ein paar verrückte Leute getroffen, die sich Normannen nennen.
+v2;30;ii uigit anittaa pirlajuq. / Ja, die Normannen sind großartig, aber sie brauchen viel.
+v1;60;nauk ilitsimajuq? / Was meinst du?
+v2;90;uiguit ungalliani pimajaqpuq, pirlajuq. / Neulich kam einer bei mir vorbei und ich habe ihm fast mein ganzes Hab und Gut gegeben, aber anscheinend brauchte er immer noch mehr.
+v1;120;saipaaqsauti / Der Arme
+
+newchat;key:japanese,v1:adult,v2:adult,weigth:5
+v1;0;ualiniq immikkuurtuq qallunaat nirrimaatsiutit iqaluk! / Diese Japaner wissen wie man Fisch zubereitet!
+v2;30;"nirrimaatsiutit" iqaluk? uugitsanguivuq, ii? / Fisch „zubereiten“? Du meinst sie kochen ihn, oder?
+v1;60;aakka nirrimaatsiutit papa mamaqtuq. / Nein, ich meine sie servieren ihn mit allen besonderen Methoden und in allen verschiedenen Geschmacksrichtungen.
+v2;90;aungajuaq mamailliungusuttuq tangiq aakka? / Essen kann anders schmecken ohne einfach verdorben zu sein?
+v1;120;siaruulaaqtumi suurmi! / Nächstes Mal musst du mitkommen und es probieren!
+
+newchat;key:murderer,weigth:10
+v1;0;tusarniiluttuq sukutsiq sivunittini. / Weißt du was nach dem Unfall mit ihm passiert ist?
+v2;30;ilinngatuq inuarniq aakka. / Unfall oder nicht, Morden ist nicht richtig.
+v1;60;pirlajuq inuillitiqtuq ii tuqutsiarivaa / Ja, aber mussten wir ihn aus dem Dorf verbannen? Ich habe gehört, dass er durch das Alleinsein verrückt geworden ist.
+v2;90;manguppaa! akka itjiunngittuq aakka qiqumajuq. / Wir mussten es tun! Wenigstens ist es hier nicht so kalt und er wird nicht erfrieren.
+v1;120;inuillitiqtuq! / Ist das besser? Jetzt ist er dazu gezwungen alleine zu leben!
+
+newchat;key:visitors,weigth:10
+v1;0; nunasiuriijaqtuq tikittusiaqpaa, upaajut qallunaat. / Dieser Ort ist voller seltsamer Leute.
+v2;30;qallunaat $name? / Du meinst Leute wie $name?
+v1;60;aakka $name, qinungati / Nun, $name ist nur einer. Ich meine all die anderen.
+
+newchat;key:endermen,weigth:10
+v1;0;avasirngulik uqautivaa takisuuq, haattuq, iliranaqtuq kallupilluk? / Hast du gehört was der Älteste über diese großen, dünnen unheimlichen Leute gesagt hat?
+v2;30;unniluppuq tariaksuq? aamai... / Was? Dass es die Schattenmenschen sind? Ich weiß nicht...
+v1;60;maituaq! ii uqalaittuq unillarvik irinaliut / Wobei, es würde Sinn machen! Wenn wir wirklich in einem heiligen Land sind, wären sie so verkrüppelt!
+v2;90;uqalaittuq unillarvik summat tariaksuq? / Aber wenn wir in einem heiligen Land sind, wieso sind dann die Schattenmenschen hier?
+v2;120;quingaaluk... aamai... / Oh... hmm, Ich weiß nicht...
+
+newchat;key:likingrain,tag:raining,v1:adult,v2:adult,weigth:10
+v1;0;unganaqtuq aput. / Ich mag Schnee.
+v2;42;mamaaqpi inuk! / Gut für einen Inuit!
+
+newchat;key:meat,weigth:10
+v1;0;pijurivaa niqituinnaq nangminiqaqatiujjutit, uumisuttuq niqiinniatuq / Ich glaube unsere Fleischvorräte werden knapp. Ich hasse es wenn sie aus gehen.
+v1;30;niqituinnaq aakka qaluniq / Fleisch ist einfach nicht das Gleiche wie Eintopf...
+v2;60;qaluniq pigivaa niqituinnaq? / Aber in den meisten Eintöpfen ist Fleisch?
+v1;90;qaluniq aakka niqituinnaq... / Ja, aber es ist einfach nicht das Gleiche...

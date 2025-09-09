@@ -1,0 +1,11 @@
+//Parameters for the building as a whole
+building.length=12
+building.width=18
+building.buildingorientation=3
+building.travelbook_display=false
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Anomalie Une
+initial.exploretag=explored_anomalyone
+

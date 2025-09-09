@@ -1,0 +1,24 @@
+//Parameters for the building as a whole
+building.length=8
+building.width=11
+building.buildingorientation=3
+building.max=0
+building.showtownhallsigns=false
+building.startinggood=denier,1.0,10,50
+building.startinggood=denierargent,0.5,1,3
+building.startinggood=normanbroadsword,0.3,1,0
+building.startinggood=normanlegs,0.3,1,0
+building.startinggood=normanhelmet,0.3,1,0
+building.startinggood=cider,1.0,1,2
+building.startinggood=calva,0.5,1,1
+
+building.icon=normanbroadsword
+
+//Parameters for initial construction
+initial.startlevel=-6
+initial.nativename=Repère de bandits
+initial.priority=5
+initial.male=bandit
+initial.male=bandit
+initial.male=bandit
+

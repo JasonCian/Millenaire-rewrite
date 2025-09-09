@@ -1,0 +1,22 @@
+//Parameters for the building as a whole
+building.length=14
+building.width=14
+building.buildingorientation=0
+building.mindistance=0.6
+building.icon=sandstone
+building.version=2
+
+//Parameters for initial construction
+initial.startlevel=-6
+initial.nativename=Sikaar
+initial.priority=2000
+initial.male=indian_miner
+initial.female=indian_peasantwife
+
+//Parameters for specific upgrades
+upgrade1.priority=300
+
+upgrade2.priority=140
+
+upgrade3.priority=90
+

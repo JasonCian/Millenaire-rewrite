@@ -1,0 +1,12 @@
+building.length=18
+building.width=13
+building.reputation=8192
+building.price=4096
+building.icon=denierargent
+building.max=0
+building.buildingorientation=3
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Megáli Oikía
+initial.pathlevel=1

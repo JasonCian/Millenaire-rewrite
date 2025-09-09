@@ -1,0 +1,21 @@
+//Parameters for the building as a whole
+building.length=9
+building.width=8
+building.areatoclear=3
+building.buildingorientation=3
+building.icon=furplate
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Sfuyaunnat Tupiq
+initial.translatedname=name_en,armoury
+initial.priority=800
+initial.tag=armoury
+initial.shop=armoury
+
+//Parameters for specific upgrades
+upgrade1.priority=80
+
+upgrade2.priority=75
+upgrade2.pathlevel=1

@@ -1,0 +1,10 @@
+//Parameters for the building as a whole
+building.length=13
+building.width=25
+building.buildingorientation=3
+building.startinggood=netherwart,1.0,16,0
+building.travelbook_display=false
+
+//Parameters for initial construction
+initial.nativename=Anomalie Deux
+

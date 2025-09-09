@@ -1,0 +1,13 @@
+priority=35
+priorityrandom=10
+
+buildingtag=mine
+
+townhalllimit=diorite,1024
+
+sourceblockstate=minecraft:stone;variant=diorite
+sentencekey=mining
+
+//long mining goal
+loot=diorite,16
+duration=80000

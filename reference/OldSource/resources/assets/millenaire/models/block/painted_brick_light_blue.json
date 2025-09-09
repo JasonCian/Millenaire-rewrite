@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "millenaire:blocks/painted_brick_light_blue",
+    "particle" : "millenaire:blocks/painted_brick_light_blue"
+  }
+}

@@ -1,0 +1,19 @@
+//Parameters for the building as a whole
+building.length=15
+building.width=10
+building.buildingorientation=3
+building.mindistance=0.6
+building.version=2
+building.icon=sapling
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Bosquet
+initial.priority=1000
+initial.pathwidth=1
+initial.tag=grove
+initial.tag=nopaths
+initial.abstractedproduction=wood_oak,64
+initial.abstractedproduction=wood_darkoak,64
+initial.abstractedproduction=wood_pine,64
+

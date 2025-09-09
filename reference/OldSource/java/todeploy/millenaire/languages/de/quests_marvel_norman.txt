@@ -1,0 +1,21 @@
+
+marvel_norman_1_picklocation_0_description=$name, habt ihr die inspirierenden Neuigkeiten gehört? Ein großer Architekt aus den Ländern der östlichen Franken, der berühmte Nicolas de Weilbourg, hat die umliegenden Dörfer bereist, um den Bau einer großen Kathedrale zu unterstützen, ein Denkmal für unser Vertrauen in dieses neue und fremde Land! Obwohl er kein Normann ist, hat er viel über unsere Architektur gelernt, seit er die Normandie auf der Suche nach Arbeiten erreicht hat, die seiner Talente würdig sind. In der Nähe befindliche Lords und ich haben darüber diskutiert, wo dieses Wunder gebaut werden sollte - sie scheinen es nicht zu erkennen dass $startvillager_villagename$ der einzige Ort ist, der eines solchen Denkmals würdig ist. Aber könntet ihr uns vielleicht helfen, einen geeigneten Ort zu finden, der für alle Parteien akzeptabel ist?
+marvel_norman_1_picklocation_0_description_refuse=Dies stimmt mich sehr traurig.
+marvel_norman_1_picklocation_0_description_success=Habt tausend dank, $name. Ihr werdet einen "Stab der Beschwörung" benötigen - wir können euch ein solch mächtiges Relikt verkaufen sofern ihr noch nicht im Besitz von einem seid. Sobald ihr einen fähigen Ort gefunden habt, fern von allen Siedlungen und mit genügend freiem Bauplatz, benutzt dieses Relikt um diesen Ort festzulegen und kommt zu mir zurück.
+marvel_norman_1_picklocation_0_label=Eine göttliche Vision
+marvel_norman_2_generate_0_description=Ah, $name! Seid ihr mit dem gewählten Standort zufrieden? Ich kann es kaum erwarten, den großartigen Nicolas bei der Arbeit zu sehen!
+marvel_norman_2_generate_0_description_refuse=Ihr habt recht, dies ist keine leichte Entscheidung. Kommt zurück, wenn ihr euch sicher seid.
+marvel_norman_2_generate_0_description_success=Dies ist sicherlich ein ausgezeichneter Ort. Ich bin sicher, der Meister wird sehr bald mit der Arbeit beginnen.
+marvel_norman_2_generate_0_label=Ein auserlesener Ort
+marvel_norman_3_searchhelp_0_description=$name, es ist mir eine Ehre, euch endlich zu treffen. Der Ort, den ihr ausgewählt habt, ist ein inspirierender Ort! <Ret> <ret> Darf ich euch um einen weiteren Gefallen bitten? Wir brauchen immer Beiträge für das Wunder. Je mehr Dörfer sich dafür einsetzen, uns zu helfen, desto schneller werden wir Ressourcen sammeln und diese großartige Arbeit vollenden - wie ihr in unserem "Spenden" Panel sehen können. <Ret> <ret> Wärt ihr bereit, einen Pilgerstock mitzunehmen und hinauszufahren und in jedem normannischen Dorf Neuigkeiten über unsere Arbeit zu verbreiten?
+marvel_norman_3_searchhelp_0_description_refuse=Du bist kein Mann des Glaubens, $name.
+marvel_norman_3_searchhelp_0_description_success=Sucht die Anführer der Dörfer auf, sie werden gewiss ihre Pflicht gegenüber Gott und mir erfüllen wollen.
+marvel_norman_3_searchhelp_0_label=Bitte um Hilfe
+marvel_norman_4_gethelp_0_description=Willkommen, $name!<ret><ret>Wir haben gehört es soll eine großartige Kathedrale von einem bekannten Baumeister errichtet werden. Wisst ihr etwas davon?
+marvel_norman_4_gethelp_0_description_refuse=Unglücklicherweise
+marvel_norman_4_gethelp_0_description_success=Herrlich! Was für eine beeindruckende Arbeit! $startvillager_villagename$ wird geehrt sein, einen Beitrag dazu zu leisten. Seid versichert, dass wir von nun an regelmäßig Beiträge zu dieser großartigen Arbeit schicken werden.
+marvel_norman_4_gethelp_0_label=Den Ruf annehmen
+marvel_norman_5_return_0_description=$name, wir haben Benachrichtigungen erhalten, dass Spenden bald eintreffen sollten! Dies wird die Geschwindigkeit, mit der wir diese große Kathedrale bauen können, erheblich erhöhen. Ich kann euch nicht genug danken!
+marvel_norman_5_return_0_description_refuse=Ich habe nicht nach etwas anderem gefragt!
+marvel_norman_5_return_0_description_success=Vielen dank!
+marvel_norman_5_return_0_label=Erstatte dem Architekten Bericht

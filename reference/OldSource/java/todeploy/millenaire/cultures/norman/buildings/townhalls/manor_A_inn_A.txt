@@ -1,0 +1,21 @@
+//Parameters for the building as a whole
+building.length=35
+building.width=25
+building.buildingorientation=3
+building.issubbuilding=true
+building.parentbuildingplan=manor_A0
+building.max=0
+building.icon=bed_red
+
+
+//Parameters for initial construction
+initial.startlevel=-9
+initial.nativename=Chambre d’ amis
+initial.priority=600
+initial.male=merchant
+initial.tag=inn
+initial.signs=1,0
+
+//Parameters for specific upgrades
+upgrade1.priority=500
+

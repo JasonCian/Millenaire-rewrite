@@ -1,0 +1,56 @@
+
+villager.greeting=Ola, $name-ji! / 안녕, $name !
+villager.greeting=U- ka'an yam k'iinal behla'e'. / 오늘 날씨가 덥네
+villager.greeting=Biix men u- pixan ts'aakik teech? / 내가 어떻게 니 영혼을 치료해줄수 있을까?
+villager.greeting=Ba'ax tumben? / 잘 지내냐?
+villager.greeting=Biix yam teech pamilya? / 니 가족은 어떻고?
+villager.greeting=Pixan tuuxtik gnat k'aaxal. / 신은 우리에게 비를 내려다줘
+villager.greeting=Tu'ux yam teech lu'um? / 너의 땅은 어디있니?
+mayan_shaman.greeting=Ts'aakik tal teech. / 신은은 너를 보호해줄거야.
+
+villager.gorest=He'lel bisik na. / 휴식을 취해
+villager.gorest=Ichil chuy ti wenel beora. / 난 지금 자야해
+villager.gorest=Yaaawn. / *하품*
+
+villager.gopray=Pixan taka gnat ichil k'a'am hoch. / 신은 우리에게 많은 수확물을 가져다줄거야
+villager.gopray=Pixan an gnat. / 영혼은 우리를 도와주고있어
+
+villager.BringBackResourcesHome=Ichil chuy ti yaab se'es ti kuch. / 난 옮기기에 너무 많은 나무를 가지고있어
+villager.ChopTrees=Ya'ul pak. / 나무 자를 시간이다
+villager.GatherGoods=Ichil chuk u- se'es sut otoch. / 난 나무를 집에다 가져다둘게
+villager.PlantSaplings=Ichil tz'ap tulakal he'-la -che'. / 난 이 모든 나무를 심었어
+
+//villager.DryBrick=To'on k'ab'eet tunich ti b'et ki- otoch. / 우리는 집을 짓기위한 돌이 필요해 
+//villager.GatherBrick=Ichil kuch ti yaab tunich. / 난 너무많이 돌을 가져왔어
+//villager.CookBrick=A'-la yam k'a'am tunich. / 이것은 튼튼한 돌이구나
+villager.PlantMaize=K'aaxal tuuxtik gnat ichil k'a'am hoch. / 비는 우리에게 많은 수확물을 가져다줄거야
+villager.HarvestMaize=Ki' k'aaxal ki' hoch. / 좋은 비, 많은 수확물
+villager.PlantTurmeric=Yooch men u- han-ha. / 향신료는 음식을 만든다.
+villager.HarvestTurmeric=A'-la yooch hoch si muk' ti han-ha. / 향신료를 경작하는것은 음식의 기운을 만든다
+villager.SlaughterChicken=Ah kax si gnat b'ak'. / 닭들은 우리에게 고기를 준다
+
+villager.GetHouseResources=Ichil chik nah yam ichil utz nah. / 깨끗한 집은 반드시 좋은집이다
+villager.GetGoodsHousold=Ichil k'ab'eet he'-la a-d'a'ax-tak k'am- otoch/ 난 이것들을 집에 가지고 가야되
+villager.DeliverGoodsHousold=Ti yaab han-ha ti kuch. / 옮길 음식이 너무많아!
+villager.makeRasgulla=In-wah mo'nol pall yam k'oh. / 나의 어린 아이가 아프고있어요
+
+
+villager.GetResourcesForBuild=Yaab' ti- yaab' tunich. / 돌이 너무 많아
+villager.ConstructionStepByStep=Meyah meyah meyah. / 일하고 또 일하고 또 일하고.
+villager.ConstructionStepByStep=Ichil k'ab'eet ichil k'a'am et-meyah. / 난 강한 동료가 필요해
+
+villager.GoPlay=Ichil kolom uk chun su'uk. / 난 잔디에서 놀고있어
+villager.BecomeAdult=La la la la. / 
+male.BecomeAdult=Ichil k'a't ti tz'ak-b' ha ah tz'on. / 난 사냥꾼이 될거야
+female.BecomeAdult=Ichil k'a't ha ichki. / 난 남편이 필요해..
+
+villager.gopray.chosen=Ichil t'an u- orasion. / 난 기도를 하지
+mayan_shaman.gopray.chosen=U- orasion tal teech / 기도는 너를 보호해줄거야
+
+villager.calltoarms=U- k'in yam in-ti'a'al! / 광질할 날이다!!
+villager.calltoarms=Kin-s-ab u- k'as hun. / 살인은 나쁜것이야
+villager.calltoarms=Ti k'ab! / 전투 준비!
+
+villager.MakeTools=Man in-wah a'-b'a'ax. / 내 물건을 사
+villager.MakeWeapons=U- k'ab wa'yeh nik k'a'am. / 여기 무기들은 튼튼해
+villager.ScultMayan=P'e k'in ichil k'am ti b'om. / 어떤날 나는 페인트칠하기를 원했지.

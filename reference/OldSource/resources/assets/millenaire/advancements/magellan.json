@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:compass"
+        },
+        "title": {
+            "translate": "advancements.magellan.name"
+        },
+        "description": {
+            "translate": "advancements.magellan.desc"
+        }
+    },
+    "parent": "millenaire:marcopolo",
+    "criteria": {
+        "magellan": {
+            "trigger": "magellan"
+        }
+    }
+}

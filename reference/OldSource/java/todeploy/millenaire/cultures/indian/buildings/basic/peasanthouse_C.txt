@@ -1,0 +1,32 @@
+//Parameters for the building as a whole
+building.length=12
+building.width=9
+building.buildingorientation=3
+building.max=4
+building.icon=steelshovel
+building.version=2
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Kisaan Ka Ghar
+initial.priority=1000
+initial.male=indian_peasant
+initial.female=indian_peasantwife
+
+//Parameters for specific upgrades
+upgrade1.priority=200
+upgrade1.rebuildpath=true
+
+upgrade2.priority=190
+upgrade2.rebuildpath=false
+
+upgrade3.priority=180
+upgrade3.rebuildpath=true
+upgrade3.tag=chicken
+upgrade3.tag=oven
+
+upgrade4.priority=85
+upgrade4.rebuildpath=false
+
+upgrade5.priority=80
+

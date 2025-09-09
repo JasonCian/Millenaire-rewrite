@@ -1,0 +1,14 @@
+//Parameters for the building as a whole
+building.length=17
+building.width=21
+building.max=0
+building.reputation=4096
+building.price=4096
+building.icon=denier
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Chiisai Ie
+initial.priority=1000000
+initial.pathlevel=1
+

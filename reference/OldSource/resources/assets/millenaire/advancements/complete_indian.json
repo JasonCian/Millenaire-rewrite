@@ -1,0 +1,21 @@
+{
+    "display": {
+        "icon": {
+            "item": "millenaire:stone_deco",
+            "meta": 0
+        },
+        "title": {
+            "translate": "advancements.complete_indian.name"
+        },
+        "description": {
+            "translate": "advancements.complete_indian.desc"
+        },
+        "frame": "goal"
+    },
+    "parent": "millenaire:leader_indian",
+    "criteria": {
+        "complete_indian": {
+            "trigger": "complete_indian"
+        }
+    }
+}

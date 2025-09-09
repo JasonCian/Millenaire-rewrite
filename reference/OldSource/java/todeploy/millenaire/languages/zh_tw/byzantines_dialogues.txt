@@ -1,0 +1,430 @@
+newchat;key:sun,tag:notraining,weigth:10
+v1;0;Agapo ilióloustes méres! / 我最喜歡陽光燦爛的日子了！
+v2;30;Poios den échei? / 誰不是呢？
+
+newchat;key:nicevillage,weigth:10
+v1;0;Eínai pánta mia efcharístisi na doúme oraío chorió mas, étsi den eínai? / 看到我們漂亮的小村莊總是讓人很高興，不是嗎？
+v2;30;Fysiká, kai eínai óla lógo ton terástion prospatheión mas! / 沒錯，這都是我們辛苦得來的成果嘛！
+
+newchat;key:harvest,weigth:10
+v1;0;sitári afxánetai polý kalá aftí ti chroniá, étsi eínai ta stafýlia, kathos kai. Lampro, den eínai? / 今年的小麥長的很好，連葡萄也是。今年是輝煌的一年，對吧？
+v2;30;Nai, faínetai étsi: Échoume to períergo kairo edo na efcharistíso. / 是啊，看起來是這樣 : 我們應該對這裡的怪異天氣心懷感恩。
+v1;60;Akoma kai an afto den échei kanéna noima gia ména! / 即便它對我沒有任何意義！
+
+newchat;key:lightning,weigth:7
+v1;0;Thymáste tin kataigída pou eíchame? Thélo na po to pragmatiká varý! / 你還記得那次的雷雨嗎？我是說下得很大的那一場！
+v2;30;Fysiká. Schedon katastráfike synkomidí mas. I fýsi eínai arketá entyposiako, e? / 當然記得，它幾乎毀了我們的收成。大自然總是讓人印像深刻的，嗯？
+v1;60;Entyposiakí eínai éna prágma. Allá ímoun schedon chtypíthike apo keravno! / 令人印象深刻的是另一件事。當時我差點被一道閃電給擊中！
+v2;100;Den ítan mésa sto spíti sas? Xérete oti eínai epikíndyno éxo katá ti diárkeia mias kataigídas! / 你不是在你的屋子裡嗎？你明明知道在暴風雨之中跑出去是件很危險的事！
+v1;120;Zontaná kai na máthoun. / 活到老，學到老。
+
+newchat;key:lightningPig,weigth:1,v1:adult,v2:adult
+v1;0;Ego den aisthánomai kalá ... / 我有點不舒服...
+v2;30;Ti tréchei me séna? Eísai árrostos? / 你怎麼了？生病了？
+v1;60;Ochi, ego jj-molis thymíthike kápoia ora-na symveí. / 不，我只、只、只是想起了一些事、事情。
+v2;100;Boreíte íchou pragmatiká epireázontai. Eíste sígouroi oti den eínai árrostos? / 你聽起來有點奇怪。你確定你真的沒有生病？
+v1;120;N-ochi, ego aplá f-aisthánontai fovisménoi. / 沒、沒有，我只是覺、覺得有點害怕。
+v2;150;Ti synévi loipon? / 所以發生甚麼事了？
+v1;180;Katá ti diárkeia tis l-teleftaía kataigída. Perpátisa éxo apo to chorio-vv, íxera oti den boroúsa na páro píso sto chorio prin apo tin kataigída. Gi 'afto kai krýftike káto apo éna déntro. / 就在上、上一次的暴風雨的時候。我在村、村莊外面走路，我知道我沒辦法在暴風雨結束之前回到村莊。所以我躲在一棵樹下面。
+v2;210;Tha diakindýneve ti zoí sas éxo apo to chorio! Tha boroúse na eíche pethánei! / 你竟然冒著生命危險在村莊外面亂晃！你可能會死耶！
+v1;240;Loipon, ímoun asfalís. Sti synécheia, omos eída éna gouroúni. I lighning chtýpise. Kai oi nekroí p-gouroúni ... I-afto sikothike kai kiníthike l-san ki emás, ch-kynigoún eména me éna lampero sw-spathí! / 嗯，可是我很安全。但是接著我卻看見了一隻豬。一道光擊中了牠，然後那隻死豬、豬...牠、牠跳起來而且還跟我們一樣的走路，用一把閃亮的劍追、追著我跑！
+v2;290;Tha eínai anoisíes. Tha prépei na ítan énas efiáltis. / 聽你在胡說八道。那一定只是場惡夢罷了。
+v1;320;Ítan alítheia! Sosto! Sosto! Sosto! / 那是真的！真的！真的！真的！
+v2;350;Eíste treloí. Pigaínete na párete lígo krasí, kai na iremísoun. / 你瘋了。去喝幾瓶酒，冷靜一下吧。
+v1;380;Tha d-kánoume afto. Boreí-Ísos afto tha voithísei. / 我會去、去做的。或、或許它能幫助我冷靜下來。
+
+newchat;key:souvlaki,v1:adult,v2:adult,v1:male,v2:female,weigth:10
+v1;0;Ach ... Souvláki, to éna kai monadiko fagito! / 噢...羊肉串，那唯一唯一的食物！
+v2;30;An oi ándres den échoun trofí mas-kánei tis gynaíkes ... / 要是沒有我們女人幫你們男人做食物...
+v1;60;Tha kánoun to fagito tous eaftoús mas! / 我們會自己做食物啊！
+v2;100;Alítheia? Pos gínetai kai páli souvláki? / 真的嗎？那羊肉串要怎麼做？
+v1;130;Err ... Vázete ta psária, ochi, païdákia sto foúrno, tote ... / 呃...你在爐裡放了魚，不對，放了羊排，然後...
+v2;190;... vázeis me kápoion féta se éna ravdí. Den boreíte pragmatiká na mageirépsoun! / ...把羊肉串在棍子上。你根本就不會做菜！
+
+newchat;key:loneVillage,weigth:10
+v1;0;Vareto. ola eínai pánta to ídio edo. / 好無聊。這裡的每件事物都是一成不變的。
+v2;30;Touláchiston eínai eirinikí. / 至少很寧靜啊。
+v1;60;Típota idiaítero gia éna apomakrysméno chorio san ti dikí mas! / 在像我們一樣偏僻的村莊裡就沒有甚麼特別的事情嗎！
+
+newchat;key:city,v1:adult,v2:adult,weigth:2
+v1;0;Otan ímoun mikros, íthela na eínai énas exerevnitís, na anakalýpsoun néa edáfi kai na pliroún endiaférontes néous anthropous. Allá tora? Eímai kollísei se afto to apomakrysméno chorioudáki. Thélo na páo kai na episkeftheíte néa méri. / 當我還年輕的時候，我想要成為一位探險家，探索新的土地並遇見許多有趣的人們。但現在呢？我被困在這個偏僻的小村莊裡。我好想要去新的地方逛逛。
+v2;30;Allá den tha vreíte megáli diaforá sto állo chorio. Eímaste oloi lígo polý to ídio. / 但是你在其他的村莊也不會找到太大的差異啊。我們大家都幾乎相同的。。
+v1;60;Den milo gia ta choriá. Milo gia tis poleis, í akoma kai i poli! / 我不是在說其他的村莊。我是在說城鎮，甚至是城市！
+v2;90;I poli? Ennoeís Konstantinoúpoli? / 城市？你是說君士坦丁堡嗎？
+v1;120;Nai! To kéntro tis éndoxis aftokratorías mas. Eínai to thávma tou kosmou. / 對啊！我們輝煌帝國的中心，它是世界的奇觀。
+v1;150;Ypárchoun perissoteroi apo 500 000 ánthropoi pou zoun ekeí, boreíte na imangine afto?! / 那裡可是住著超過五十萬人口的耶，你能夠想像嗎！？ 
+v2;180;Akoúgetai adýnato gia ména. 500 000 ánthropoi se éna méros? /在我聽起來是件不可能的事情。五十萬人都住在同一個地方？作夢去吧！
+
+newchat;key:wine,v1:adult,v2:adult,v1:male,v2:male,weigth:10
+v1;0;Min pieíte krasí mono! / 不要獨自喝酒！
+v2;30;Posimou mazí eínai pio diaskedastiko! / 一起喝會更有樂趣！
+v1;50;Cheers gia to krasí! / 為葡萄酒乾杯！
+v2;70;Cheers! / 乾杯！
+
+newchat;key:boyvillagechief,v1:child,v1:vtype:baron_byzantine-centurio_byzantine-metropolit_byzantine,v1:male,weigth:5
+v1;0;Tha eímai o archigos tou chorioú argotera, oldie! / 老傢伙，我以後會成為村莊的領袖！
+v2;30;Min eísai toso thrasýs, agoráki. Í tha párei éna chastoúki! / 別這麼厚臉皮，小男孩。要不然你會被賞一記耳光！
+v1;60;Kai ego tha sas párei sti synécheia chastoúkise! / 然後我會被你賞一耳光！
+v2;80;*chastoúkia* / *賞巴掌*
+v1;85;Och, afto ponáei! / 噢，那樣很痛欸！
+v2;105;Ísos échete máthei káti! / 你應該學到了點甚麼吧！
+
+newchat;key:kids1,v1:child,v2:child,notrel:sibling,weigth:10
+v1;0;O bampás mou eínai ischyroteri apo ti dikí sas. /我爸爸比你爸強多了！
+v2;30;Ochi! O bampás mou eínai i ischyroteri sto chorio! / 才不是！我爸爸是這個村莊裡最強壯的人！
+v1;60;Ochi! O bampás mou eínai o ischyroteros stin aftokratoría! / 不！我爸爸是這個帝國裡最強壯的人！
+v2;90;Impossible! O bampás mou eínai i ischyroteri ston kosmo! / 不可能！我爸爸是這個世界裡最強壯的人！
+v1;120;Sígoura o bampás mou tha boroúse na nikísei dikí sas se ligotero apo dýo chtypímata! / 我敢打賭，我爸爸可以在兩拳之內就把你爸打趴！
+v2;150;Párte ton bampá sas étoimos gia énan agona! / 叫你爸爸準備來打一場吧！
+
+newchat;key:kids2,v1:child,v1:male,v2:child,v2:female,weigth:10
+v1;0;Korítsia eínai ilíthioi. / 女孩子都很笨。
+
+newchat;key:kids3,v2:child,v2:male,v1:child,v1:female,weigth:10
+v1;0;Échete dei pouthená koúkla mou? Den boro na to vro ... / 你有沒有在哪裡看到我的娃娃？我找不到它...
+v2;30;Dose mou píso to spathí mou kai tha to párei píso! / 把我的劍還來妳就可以拿到了！
+v3;60;Boreíte na to éklepse! Kléftis! / 是你偷了它！你這小偷！
+
+newchat;key:clothes1,v1:adult,v1:female,v2:adult,v2:female,weigth:10
+v1;0;Écheis dei kainoúrgia roúcha mou? / 妳看我的新衣服怎麼樣？
+v2;30;Eíste mia pragmatikí omorfiá agapité mou. o, ti tairiázei! / 親愛的妳真美。每樣東西都很襯妳！
+v1;60;Allá den eímai toso omorfi oso boreíte! / 但是我沒有妳漂亮啦！
+v2;90;Ohh afto den eínai alítheia, $targetfirstname! / 噢，才沒這回事呢，$targetfirstname！
+
+newchat;key:clothes2,v1:adult,v1:female,v2:adult,v2:female,weigth:1
+v1;0;Échete dei néa roúcha mou? / 妳看我的新衣服怎麼樣？
+v2;30;Eíste mia omorfiá. o, ti tairiázei, agapité $targetfirstname mou! / 妳好漂亮哦。每樣東西都很襯妳，我親愛的$targetfirstname！
+v1;60;Allá den eímai toso omorfi oso boreíte! / 但我沒有你漂亮啦！
+v2;90;是啊
+v1;100;！！！
+
+newchat;key:clothes3,v1:adult,v1:female,v2:adult,v2:male,weigth:5
+v1;0;Écheis dei kainoúrgia roúcha mou, $targetfirstname? / 你看我的新衣服怎麼樣，$targetfirstname？
+v2;30;Nomízo oti paliá roúcha sas fainotan polý kalýtera gia esás. / 我覺得舊衣服看起來更合妳。
+v1;60;TI? / 甚麼？
+v2;70;Ochi. ochi! Eíste omorfi! Mou arései afto to néo ... prágmata! / 沒...沒有啦！妳看起來很漂亮！我喜歡這個新...東西！
+
+newchat;key:clothes4,v1:adult,v1:female,v2:adult,v2:male,weigth:5
+v1;0;Étsi den tha arései to néo mou forema? / 所以你喜歡我的新衣服嗎？
+v2;30;I paliá sas tairiázei kalýtera. / 舊衣服比較適合妳。
+v1;60;TI? / 甚麼？
+v2;70;Hey $targetfirstname, eínai aplá i gnomi mou. / 嘿，$targetfirstname，這只是我自己的意見。
+v1;90;Touláchiston eísai eilikrinís! / 至少你很誠實！
+
+newchat;key:girl,v1:adult,v1:female,v2:child,v2:male,rel:parent,weigth:5
+v2;0;Ti prépei na kánete otan sas arései éna korítsi? / 要是妳喜歡上了一個女孩，你會怎麼做？
+v1;30;Kánte kompliménta tis kai eínai oraío na tis. / 讚美她並對她好。
+v2;60;Ochi! Afto eínai adýnaton! Poies tha eínai oi álloi skéftontai gia ména tote? / 不！那是不可能的！那之後別人會怎麼看我啊？
+v1;90;An agapoúse pragmatiká, den tha noiázontai gia tous állous. / 要是你真的愛她，你就不會在乎別人怎麼想了。
+
+newchat;key:householdTry,v1:adult,v1:female,v2:child,v2:female,rel:parent,weigth:10
+v1;0;Írthe i ora na sas didáxei pos na frontísei éna spíti. / 是時候來教妳怎麼去照顧一個家庭了。
+v2;30;Megáli, ti échoume archísei me? Boro na káno souvláki? Pleaaase! / 太棒了，我們應該從哪裡開始？我可以做羊肉串嗎？拜託~
+v1;60;As doúme poso kaloí eíste sto na kánei ton katharismo prota. / 首先來看看你打掃的能力吧。
+v2;90;Entáxei, allá tha mou deíxei pos na kánei souvláki argotera, yposchéthike? / 好吧，但等下妳要教我怎麼做羊肉串哦，好嗎？
+v1;120;Yposchetheí. / 我答應妳。
+
+newchat;key:doll,v1:adult,v1:male,v2:child,v2:female,rel:parent,weigth:5
+v2;0;Boreís na mou agorásei afto to néo koúkla? O kathénas échei éna néo, allá ego ... / 你能買一隻新娃娃給我嗎？每個人都有一隻新的，只有我...
+v1;30;Poia eínai i magikí léxi ? / 嗯哼，我聽得不是很清楚哦？
+v2;60;Boreíte sas parakalo na mou agorásei mia néa koúkla? / 可以 「拜託」 你幫我買一隻新娃娃嗎？
+v1;90;Entáxei, allá tha prépei na min yposchontai na milísoume pia píso! / 好吧，但妳得答應以後不再跟我頂嘴了！
+v2;120;Yposchetheí. / 我答應！
+
+newchat;key:woodSword,v1:adult,v1:male,v2:child,v2:male,rel:parent,weigth:5
+v2;0;唉呦...
+v1;30;Eísai foverí! Ti synévi? / 你看起來臉色不太好！怎麼了？
+v2;60;Loipon, o kathénas échei éna xýlino spathí, allá eména. / 嗯，每個人都有一把木劍，但我卻...
+v2;80;Étsi apofásisan na mou epitethoún! / 所以他們決定要打我！
+v2;100;Tha prépei na páro éna, pára polý! / 你也得給我一把！
+v1;120;Vlépo échete chrisimopoiísei chroma gia ta simádia kai tis pligés sou. Kalí prospátheia! / 我有看到你用顏料畫出來的疤痕和傷口，畫得不錯嘛！
+v2;150;Télos pánton! Parakalo na mou dosete éna spathí! / 反正！請給我一把劍！
+v1;180;Spathí eínai epikíndynes. Den xífos gia séna! / 劍是很危險的。沒有劍可以給你！
+
+newchat;key:pride1,v1:adult,v1:male,v2:adult,v2:male,v1:vtype:architect_byzantine,weigth:3
+v1;0;Ktíria mas eínai toso omorfo pou eínai pánta megáli gia na deíte to érgo mas! / 我們的建築物是多麼的美麗，每次在工作中看到總是令人很高興。
+v2;30;Oi Mágia théloun na dimiourgísoun polý oraía domés, kathos kai. / 那些瑪雅人也會建造一些很棒的建築物呢。
+v1;60;Min me enochloún me tétoia weirdos. Ta ktíriá mas faínontai polý kalýtera! / 不要用那些怪人來激怒我。我們的建築物好看多了！
+v2;90;Loipon ... / 嗯...
+v1;100;Prodoti! Écheis kamía ethnikí yperifáneia? / 叛徒！你難道沒有民族的自豪感嗎？
+
+newchat;key:pride2,weigth:10
+v1;0;Emeís oi Romaíoi boreí na eínai pragmatiká yperífanoi gia osa échoume petýchei! / 我們羅馬人可以真正的為我們的成就感到驕傲！
+v2;30;Fysiká! o, ti égine deíte apo emás! / 那當然！你看到的一切都是我們做的！
+v1;60;I pio ischyrí aftokratoría stin istoría tou kosmou! / 在歷史中最為強大的帝國！
+v2;90;Álla éthni tha apoláfsete se doxa mas. / 其他的國家都應該瞻仰我們的輝煌。
+v1;120;Tha prépei na! Eímaste oi kyríarchoi! / 他們都得那麼做！我們是統治者！
+
+newchat;key:pride3,weigth:10
+v1;0;I romaïkí aftokratoría tha kyvernísei ton kosmo gia álli mia forá! / 羅馬帝國將再次統治這個世界！
+v2;30;Emeís tha! / 我們會的！
+v1;60;Ola tha eínai kalýtera sti synécheia! / 接著一切都會變得更美好！
+v2;90;Nai! / 耶！
+v1;100;Cheers gia tin aftokratoría! / 為帝國歡呼吧！
+v2;110;Cheers! / 歡呼吧！
+
+newchat;key:rain,tag:notraining,weigth:10
+v1;0;Tha vréxei. Sýntoma. / 很快就會下雨了。
+v2;30;Boro na aisthánomai, pára polý. / 我也感覺得到。
+v1;60;Períergo. Eínai pánta i ídia posotita iméres méchri vréchei. / 好奇怪，它每天的天數都是一樣的，直到它下雨了。
+v2;100;Nomízete oti étsi, pára polý? / 你也這麼認為嗎？
+v2;125;Períergo zoí edo, étsi den eínai? / 這裡的生活很奇怪，不是嗎？
+v1;155;Sígoura! / 當然！
+
+newchat;key:weird1,v2:child,weigth:1
+v1;0;Koíta afto to gouroúni! Eínai charitoméno, étsi den eínai? / 看看這隻豬！牠很可愛，不是嗎？
+v2;30;WAAAaaah, fýge! / 哇啊啊啊，走開！
+v1;60;Fovásai ton choíron? / 你是不是怕豬啊？
+v2;80;N-ochi! Den eímai! / 不-不是！我才不怕！
+v1;110;Hahahahahaha! Tora afto eínai asteío! / 哈哈哈哈哈！這真有趣！
+
+newchat;key:weird2,weigth:1
+v2;0;Aaa ... Kalí souvláki. Thélete mia boukiá? / 啊啊...好好吃的羊肉串。想咬一口嗎？
+v1;30;*Bites* / *咬一口*
+v1;40;Sas efcharisto! Agapo souvláki. / 謝謝你！我超愛羊肉串的。
+v2;70;Poios den! / 誰不愛呢！
+v1;100;Échete poté prospathísei na thései kápoia vromiá gia souvláki? / 你有沒有試過，在羊肉串上放點泥土？
+v2;140;...
+v2;150;Ochi? / 沒有？
+v1;170;Merikés forés káno ... Ach .. ola xekínisan otan souvláki mou épese sto édafos pérysi ... Delicous! / 有時候會...啊...這一切都是發生在去年我的羊肉串掉到地上的時候...好吃！
+v2;220;Periménete! Vázete souvláki sas sti vromiá kai sti synécheia na to fáte? Ti sto diáolo ..? / 等一下！你讓你的羊肉串掉到地上，然後再把它吃掉？太可怕了吧...？
+v1;260;Allá kalo goústo! / 但是那樣很好吃！
+v2;280;Eíste pragmatiká trelos. / 你真的瘋了。
+
+newchat;key:weird3,weigth:1
+v1;0;Thélo na odigíso éna gouroúni! / 我想騎一頭豬！
+v2;30;Giatí? / 為甚麼？
+v1;60;Eínai diaskedastiko! / 很有趣啊！
+v2;80;Giatí sto kalo tha odigíso éna gouroúni? / 為甚麼你會想騎豬呢？
+v1;110;Epeidí eínai diaskédasi! / 因為那樣很有趣啊！
+v2;120;Eísai trelos. / 你瘋了。
+
+newchat;key:chatter1,v1:female,v2:female,v1:adult,v2:adult,weigth:15
+v1;0;Échete ídi akoúsei gia to mystiko tou xylokopos tou? / 妳有沒有聽說過那位樵夫的秘密？
+v2;30;Ochi, ti eínai láthos me afton? / 沒有，他怎麼了？
+v1;60;Faínetai na syllégoun ta míla, kai ta poloún stous Normandoús! / 他似乎收集了蘋果，並將它們賣給那些諾曼人！
+v2;90;No way! Kai kratá ta chrímata? / 不行啊！那他還將那些錢收起來了？
+v1;120;Fysiká! / 當然！
+
+newchat;key:chatter2,v1:female,v2:female,v1:adult,v2:adult,weigth:15
+v1;0;O sýzygos mou eípe oti énas varonos tha episkeftheí to chorio mas sýntoma! / 我丈夫說，很快就會有一位男爵來參觀我們的村莊了。
+v2;30;Giatí tha prépei na échei érthei edo? / 為甚麼他會來這裡？
+v2;40;Éna tétoio ischyro, ischyros kai omorfos ántras ... / 這麼一位有權有勢的帥哥...
+v1;70;Ti? Boreíte na tous arései? / 甚麼？你喜歡他們？
+v2;100;Tha prépei na paradechto oti eínai elkystikí! / 你不得不承認，他們很有吸引力！
+
+newchat;key:chatter3,v1:female,v2:female,v1:adult,v2:adult,v1:hasspouse,v2:hasspouse,weigth:15
+v1;0;Ypárchei mia chalarí gynaíka sto geitoniko chorio! / 鄰村那兒有一位蕩婦！
+v1;20;Sýmfona me tous ischyrismoús, akomi kai oi ándres tou chorioú mas échoun páei ekeí! / 據說，連我們村裡的男人也都去過那裡！
+v2;60;Kako eidíseis! Écho na amfisvitísei ton ántra mou! / 真是個壞消息！我得去審問一下我的老公了。
+v1;90;Mine faínetai na eínai athoos. Den eíste sígouroi gia to diko sas, agapité mou! / 我的似乎是無辜的。但還不太確定妳的丈夫的情況是怎樣，親愛的！
+v2;120;Elpízo na eínai toso kalá. Échei kalýtera. / 我希望他也是清白的。最好是這樣子。
+
+newchat;key:chatter4,v1:female,v2:female,v1:adult,v2:adult,,v1:hasspouse,weigth:15
+v1;0;Mou arései na vlépo paidiá na paízoun! / 我喜歡看孩子們玩耍！
+v1;20;Tha me kánei pánta na théloun na échoun éna moro! / 那總是讓我想生個嬰兒！
+v2;50;Eíste sígouroi oti eíste se thési na to antéxoun oikonomiká? / 妳確定你能承擔的起嗎？
+v2;70;Ta paidiá eínai akrivá! / 小孩子得花很多錢的！
+v1;100;Den anisycheí edo! O ánthropos mou échei perissotero apo arketá chrímata. / 這就別擔心了！我的男人有足夠的金錢。
+
+newchat;key:chatter5,v1:female,v2:female,v1:adult,v2:adult,v2:hasspouse,weigth:15
+v1;0;Agapité mou, o ánthropos sas eínai énas méthysos! / 親愛的，妳的男人好像喝醉了！
+v2;15;Pos boreís na to les afto? / 怎麼說？
+v1;45;Sýzygos sas írthe methysménos sto spíti mas chthes to vrády! / 妳丈夫昨晚喝醉還跑到我們家！
+v1;70;Eípe oti thélei na pantrefteí éna provato. / 他說他想娶之綿羊當老婆。
+v1;100;Kai oti tha ypárxei mia terástia celebretion gámo! / 然後再辦一場盛大的婚禮宴會！
+v1;130;Parakaloúme, anaktísei ton élencho páno apo to átomo sas. / 拜託，請管好妳的男人。
+v1;150;Eínai pragmatiká anatrichiastiko. / 這真的很令人毛骨悚然。
+v2;180;Entáxei entáxei, ego tha ton timorísei! / 好吧好吧，我會逞罰他的！
+v2;210;Den krasí gi 'afton! / 他沒有酒可以喝了！
+
+newchat;key:chatter6,v1:female,v2:female,v1:adult,v2:adult,weigth:15
+v1;0;Psomí sas eínai toso nostimo! Poio eínai to mystiko sas? / 你的麵包好好吃噢！有甚麼秘訣嗎？
+v2;30;Aplá prosthéste lígi záchari mésa. / 只要在裡面加一點點砂糖就可以了。
+v1;60;Alítheia? Típota perissotero? / 真的？不用再加其他的了？
+v2;90;Afto ítan! Tha gefteíte tin diaforá. /就是這樣！妳會嘗到不同的滋味的。
+
+newchat;key:chatter7,v1:female,v2:female,v1:adult,v2:adult,v2:hasspouse,weigth:15
+v1;0;Poios ítan o ánthropos pou échete episkeftheí chthes to vrády? / 昨晚找妳的男人是誰？
+v2;30;Ti ánthropos? / 甚麼男人？
+v1;40;O ánthropos pou sýrthike éxo apo to paráthyro sas! / 從妳的窗戶裡爬出來的男人！
+v1;45;Min nomízete oti den tha paratirísete! / 別以為我不會注意到！
+v2;60;Pos tolmás ..? Ímoun kai eímai pánta pistí sto sýzygo mou. / 妳怎麼敢...？我總是對我的老公很忠貞的。
+v1;80;Nai, nai. Tha élega oti, kathos, an ímoun sti thési sou. / 是啊，是啊，要是我是妳我也會這麼說的。
+v2;110;fto den eínai díkaio! Min diadídoun fímes gia ména. / 這不公平！請別散佈我的謠言。
+
+newchat;key:chatter8,v1:female,v2:female,v1:adult,v2:adult,weigth:15
+v1;0;Aftá ta néa ergaleía mageirikís eínai exairetiko! / 這些烹飪工具都是出眾的！
+v2;30;Nai, kánei to mageírema toso éfkolo! Eínai diaskedastiko! / 是啊，它讓烹飪變得簡單！它很有趣！
+v1;60;Efcharisto pigaínei stous Smiths kai technítes, oi opoíoi skefteí tétoia prágmata! / 感謝鐵匠和工匠，因為他們想到了這種東西！
+v2;90;Nai! Gi 'afto mou arései na Romaïkí. / 是啊，這就是為甚麼我喜歡當個羅馬人。
+
+newchat;key:chatter9,v1:female,v2:female,v1:adult,v2:adult,v1:notvtype:baroness_byzantine,v2:notvtype:baroness_byzantine,weigth:15
+v1;0;Eímai ziliáris afton ton plousíon. / 我很羨慕那些有錢人。
+v1;20;Échoun tétoia oraía roúcha apo metáxi! / 他們有如此漂亮的絲綢衣服！
+v2;50;Afto den eínai pragmatiká díkaios. Den kánoun típota kai na párete ta kalýtera prágmata pou oútos í állos. / 那真的很不公平。他們甚麼事也不做，卻總能拿到最好的東西。
+
+newchat;key:chatter10,v1:female,v2:female,v1:adult,v2:adult,weigth:1
+v1;0;Échete akoúsei gia afto to varono se éna geitoniko chorio? / 妳有沒有聽說過隔壁村的男爵？
+v2;30;Nai, afto eínai to éna tou opoíou i gynaíka vréthike dolofoniméni? / 有啊，是不是他的老婆被謀殺了？
+v1;60;Akrivos! O sýzygos mou mou eípe mono oti o varonos aftoktonise ti gynaíka tou! / 沒錯！我老公告訴我說，是男爵他自己殺了他老婆！
+v2;100; .. Ti? / 甚麼..?
+v2;130;Pánta íxera oti eprokeito na! / 我早就知道他會這麼做了！
+v2;150;Allá kaneís den me písteve ..! / 但是沒人肯相信我...！
+
+newchat;key:chatter11,v1:female,v2:female,v1:adult,v2:adult,v1:hasspouse,weigth:15
+v1;0;Échete poté skefteí gia to pos tha ítan an eíchame ton polemo? / 妳有沒有想過，要是我們爆發了戰爭會怎麼樣？
+v1;30;Ypárchoun akomi kai tora oi ándres agonízontai gia ti chora mas! / 甚至是現在所有的男人都為了我們的國家而戰！
+v1;55;Thavmázo pragmatiká tous! / 我真的很佩服他們！
+v2;80;Énas polemos tha eínai tromero. / 一場戰爭是很恐怖的。
+v2;110;Ego na mantépsete akrivos san stratiotes. / 我猜妳就像個士兵一樣。
+v2;140;Allá échete énan ántra! / 而妳卻有個丈夫！
+v1;170;Allá énas tempélis kai sychná methysménos éna! / 但他很懶惰而且時常喝醉酒！
+
+newchat;key:talking1,v1:male,v2:male,v1:adult,v2:adult,v1:hasspouse,v2:notvtype:metropolit_byzantine-pastor_byzantine,weigth:15
+v1;0;Xérete tin omorfiá sto geitoniko chorio? / 你知道隔壁村的美女嗎？
+v2;30;Fysiká, eínai polý charitoméno. / 當然，她真的很美麗。
+v1;60;Ti tha gínei me tin epískepsi tis? / 要不要去拜訪她？
+v2;90;Xérete oti i gynaíka sas tha trelatho tote! / 你明知道你老婆會為此抓狂的！
+
+newchat;key:talking2,v1:male,v2:male,v1:adult,v2:adult,v1:notvtype:monk_byzantine-pastor_byzantine-metropolit_byzantine,v2:notvtype:monk_byzantine-pastor_byzantine-metropolit_byzantine,weigth:15
+v1;0;Sýzygos tou techníti eínai polý omorfos, ti nomízete? / 工匠的老婆還蠻好看的，你覺得呢？
+v2;40;Nai, den eínai kako. Dystychos aftí eínai ídi pantreméni! / 是啊，她還不賴。遺憾的是她已經結婚了！
+v1;70;Kalá nai. Kai den tha ítan díkaii gia afton. / 嗯，對啊。竟然嫁給他，這太不公平了。
+v2;100;Symfono. / 我同意。
+
+newchat;key:talking3,v1:male,v2:male,v1:adult,v2:adult,v1:hasspouse,v2:hasspouse,weigth:15
+v1;0;Den échoume arketo krasí se afto to chorio! / 我們這個村莊的葡萄酒不夠了！
+v2;30;Symfono! Prépei na chtísoume páno ampélia! / 我同意！我們得建造更多的酒廠！
+v1;60;Kai perissoteres tavérnes! / 還有更多的酒館！
+v2;90;Ti tha gínei me to ánoigma dikí mas tavérna? / 那我們自己開家酒館如何？
+v1;120;Megáli idéa! As to schédio afto. / 好主意！我們來計劃一下吧？
+v2;150;Allá poú na archísoume? / 但我們應該從哪裡開始？
+v1;180;Kai oi gynaíkes mas den tha eínai eftychís na akoúso afto! / 而且我們的老婆聽到了這消息，肯定會不高興！
+v2;210;Ochi, polisi romaïko krasí eínai pánta mia dikaiología! / 不，賣羅馬葡萄酒終究只是個藉口！
+v1;240;Entáxei! Sti synécheia, afíste mas na exoikonomísete chrímata mas. / 好吧！那我們就先存些錢吧。
+v1;270;Otan échoume kerdísei arketá, as ekplirosei to schédio mas! / 當我們賺夠了，再開始實現我們的計畫吧！
+v2;300;Tha échoume ti megalýteri tavérna se oli tin aftokratoría! / 我們一定會開家羅馬帝國裡最棒的酒館！
+v1;325;Sígoura! / 當然！
+
+newchat;key:talking4,v1:male,v2:male,v1:adult,v2:adult,v1:vtype:miner_byzantine-farmiller_byzantine-lumberman_byzantine,v2:vtype:miner_byzantine-farmiller_byzantine-lumberman_byzantine,weigth:15
+v1;0;Échete dokimásei poté Norman ergaleía? / 你有沒有試過諾曼工具？
+v2;30;Ochi, allá écho akoúsei oti eínai polý apotelesmatikí! / 沒有，但我聽說它們工作起來很有效率！
+v1;60;Eínai alítheia. Poté den eícha doulépsei me tétoia kalá ergaleía prin. / 這是真的。我從來都沒有使用過這麼好的工具。
+v2;90;Periménete ... Échete éna ergaleío Norman? / 等一下...你有諾曼工具？
+v1;120;Err, eícha. Échei kápos chatheí! / 呃，我有。但它莫名奇妙地搞丟了！
+v2;140;TI? Eíches éna tétoio ergaleío kai na to chásei? / 甚麼？你有這樣的一個工具，而你搞丟了？
+v1;170;Nai ... Tora ypárchoun mono anamníseis aristerá ... / 是啊...現在留下的只有回憶...
+
+newchat;key:talking5,v1:male,v2:male,v1:adult,v2:adult,v1:notvtype:pastor_byzantine-metropolit_byzantine-armysmith_byzantine-baron_byzantine,v2:notvtype:pastor_byzantine-metropolit_byzantine-armysmith_byzantine-baron_byzantine,weigth:15
+v1;0;Boom! Ímoun molis eínai se thési na elénxei éxo ti néa ropalo! / 蹦！我剛剛去參觀了新的狼牙棒！
+v2;30;Nai! Prokeitai gia éna fovero oplo! Eínai chtypá tous echthroús makriá! / 沒錯！這是個超棒的武器！它可以把敵人打得遠遠的！
+v1;60;Entyposiako, e? Afto to aristoúrgima Romaïkí den boreí na synkritheí me otidípote állo se afto ton kosmo. / 真是令人印象深刻啊，嗯？在這個世界上，沒有任何東西能與羅馬的傑作相提並論。
+v2;100;Thats giatí boroúme na eímaste yperífanoi na eínai Romaíoi! / 這就是為甚麼我們可以為自己是羅馬人而感到驕傲的原因！
+
+newchat;key:talking6,v1:male,v2:male,v1:adult,v2:adult,weigth:15
+v1;0;Megáli trofímon, megála opla, megáli téchni - afto eínai o, ti eínai to éthnos mas! / 美好的食物、精良的武器、偉大的藝術品 - 這就是我們的國家！
+v2;30;Kai kalo krasí! / 還有好喝的葡萄酒！
+
+newchat;key:talking7,v1:male,v2:male,v1:adult,v2:adult,v1:hasspouse,v2:hasspouse,weigth:15
+v1;0;Echo varetheí ti sýzygo mou. Thélo na écho éna kainoúrgio! / 我對我的老婆感到厭倦了。我希望能有一位新的老婆！
+v2;30;Poios den échei? / 誰不是這樣呢？
+v1;60;Ísos prépei na afísoume xafniká to chorio kai sti synécheia na psáxoume gia néa! / 也許我們應開突然離開這座村莊，並展開一段新的人生！
+v2;90;Nai! Oi Mágia kai oi Indoí échoun tétoies omorfes gynaíkes, échete dei? / 沒錯！那些瑪雅人和印度人有很漂亮的妻子，你有看過嗎？
+v2;140;Allá ... To chorio chánetai chorís emás. / 但是...要是沒了我們，這座村莊可能就會荒廢了。
+v2;160;Kai min xechnáte ta paidiá mas! / 還有別忘記我們的孩子！
+v1;180;Urgh! Ta paidiá mas! Den tha epiviosei chorís patéra! / 噢，還有我們的孩子啊！沒有了父親，他們可能就活不下去了！
+v1;220;Allá ... afto den simaínei oti prépei na synechísoume me varetí zoí mas edo? / 但是...這意味著我們必須待在這裡，繼續過著枯燥乏味的生活嗎？
+v2;255;Ypothéto oti aftos eínai o kalýteros tropos na páei. / 我想這可能是最好的選擇了。
+
+newchat;key:talking8,v1:male,v2:male,v1:adult,v2:adult,v2:vtype:silkfarmer_byzantine,weigth:15
+v1;0;Eínai apístefto poso leptomerí matiá eikones sas. / 你做的畫像竟是如此的細緻，真是令人難以置信啊。
+v2;30;Fysiká, dedoménou oti eínai megáli romaïkí téchni! / 那當然，因為那是偉大的羅馬藝術！
+v1;60;Opos kai o, ti kánoume. Koitáxte omorfa spítia mas! / 我們所做的每件物品都是這樣。比如說我們那漂亮的房屋！
+v2;90;Kai min xechnáte éndoxi istoría mas! / 還有別忘了我們光榮的歷史！
+
+newchat;key:talking9,v1:male,v2:male,v1:adult,v2:adult,weigth:15
+v1;0;Thymáste to korítsi pou polémisan páno stin paidikí ilikía mas? / 你還記得小時候跟我們打架的女孩嗎？
+v2;30; Nai ... Ítan mia polý kakí stigmí. Kalí oti eínai páno. / 是啊...那真是場不堪回首的過去。幸好那已經是過去的事了。
+v1;60;Chaíromai pou to akoúo, giatí mou eípe aplá oti mou árese pánta! / 很高興能聽到你這麼說，因為她剛剛才跟我說，她一直都喜歡著我！
+v2;90;Ti? Afto den eínai alítheia! / 甚麼？不可能！
+
+newchat;key:flirt1,v1:male,v2:female,v1:adult,v2:adult,v1:hasspouse,v2:nospouse,notrel:sibling,notrel:child,notrel:parent,weigth:5
+v1;0;Geia sou omorfiá, sas arései afto pou vlépete? / 嘿，美女，妳喜歡妳看到的嗎？
+v2;20;*chastoúki* / *賞巴掌*
+v2;25;Échete mia gynaíka. / 你已經有妻子了。
+
+newchat;key:flirt2,v1:male,v2:female,v1:adult,v2:adult,notrel:sibling,notrel:child,notrel:parent,weigth:5
+v1;0;Geia sou, koitás polý oraía símera $targetfirstname! /嘿，妳今天很漂亮哦，$targetfirstname！
+v2;30;Sas efcharisto! / 謝謝！
+v1;60;Opos pánta, agapité mou! / 就跟往常一樣，親愛的！
+
+newchat;key:flirt3,v1:male,v2:female,v1:adult,v2:adult,v1:hasspouse,v2:hasspouse,notrel:sibling,notrel:child,notrel:parent,weigth:5
+v1;0;Hey $targetfirstname, kánei mia omorfiá opos eseís thélete eínai éna omorfos ántras san ki eména? / 嘿，$targetfirstname，像妳這樣的美女想不想要一個像我一樣的帥哥啊？
+v2;40;Eíste pantreménos, kai eímai toso kalá. / 你我都結婚了好嗎。
+v2;60;Ypothéto oti den eíste pistoí! Tha po sti gynaíka sas! / 我想你對老婆不夠忠貞！我會去跟你老婆講的！
+v1;75;OCHI - Min kánete tha- / 不 - 千萬別 -
+v1;85;Eímai kako dídymo adelfo tou! / 其實我是他邪惡的雙胞胎！
+v2;120;Fysiká eíste! To ídio kako dídymo pou eínai pánta methysménos! / 你當然是囉！同樣總是喝醉酒的邪惡雙胞胎！
+
+newchat;key:flirt4,v1:male,v2:female,v1:adult,v2:adult,notrel:sibling,notrel:child,notrel:parent,weigth:10
+v1;0;Pos tha me gynaíka-ta prágmatá sas? / 妳最近過得怎麼樣？
+v2;30;Kalí kalí, ektos apo tin aísthisi lígo áschima ... / 不錯不錯，只是感覺有點不好...
+v1;60;O, ochi, ti synévi? / 噢不，怎麼了？
+v2;90;O sýzygos mou moú fonaxe. / 我先生他對我大小聲。
+v1;120;Pos boreí o ídios se mia tétoia omorfiá? / 他怎麼敢對美女這麼做？
+v2;150;Sas efcharistoúme gia epeffimíes mou epáno, $targetfirstname! /謝謝你鼓勵我，$targetfirstname！
+
+newchat;key:flirt5,v1:male,v2:female,v1:adult,v2:adult,notrel:sibling,notrel:child,notrel:parent,weigth:10
+v2;0;*urgh*
+v1;30;Eísai entáxei, $targetfirstname? / 妳還好嗎，$targetfirstname？
+v2;50;Nai, afto eínai mono i sklirí douleiá! / 還可以，只是工作有點累！
+v1;70;Boro na sas voithíso? Tha aisthantheíte kalýtera sti synécheia? /需要我幫妳嗎？這樣妳會覺得好受些嗎？
+v2;90;Fysiká! Sas efcharistoúme! / 當然會！謝謝你！
+
+newchat;key:flirt6,v1:male,v2:female,v1:adult,v2:adult,,weigth:10
+v1;0;Pos páei? / 最近怎麼樣？
+v2;30;Ola eínai mia chará, ti gia sas? / 一切都很好，那你呢？
+v1;60;Eínai pára polý! Efcharisto gia tin erotisi. / 也是！多謝關心。
+v1;75;Allá vlépo oti ypárchei káti pou sas enochleí! / 但我覺得有些事情讓妳煩惱的樣子。
+v2;90;Eínai - típota. / 沒 - 甚麼。
+v1;110;Parakalo peíte mou! / 請告訴我吧！
+v2;130;Eínai mono oti i zoí mou edo eínai toso varetí. / 只是覺得我在這裡的人生真是平淡無趣。
+v2;160;Efchomai pragmatiká eícha apofasísei na páei se mia poli otan ímoun néos! /我真希望我年輕的時候，能到城市去。
+
+newchat;key:brothertalk1,v1:male,v1:adult,v2:male,v2:adult,rel:sibling,weigth:10
+v1;0;Adelfos $targetfirstname, eínai kalo na sas doúme! /  $targetfirstname兄弟，很高興看到你！
+v1;30;Vríka ton palio xýlino spathí mas! / 我剛剛才發現到我們的舊木劍！
+v1;50;Thymáste? / 你還記得嗎？
+v2;80;Periménete! Eínai afto to xífos tou patéra mas, mas édose? / 等一下？這是父親給我們的那把劍嗎？
+v1;110;Eínai! Thymáste tous agones mas me afto? / 是啊！你還記得我們為了這把劍而發生過的打架嗎？
+v2;140;Pos tha boroúsa na xecháso! Exakoloutho na écho kápoia simádia. / 我怎麼可能忘記呢！當年的疤痕我還留著呢。
+v2;170;An skéfteste perissotero gi 'afto ... / 每當想到這件事...
+v2;200;Ítan to eídos tis sklirís tou patéra mas gia na mas dosei mono éna spathí! / 父親只給我們一把劍，這件事情倒是有點殘酷。
+v2;240;Íxere oti tha agonistoúme gia afto! / 他明知我們會為了這把劍而打架的！
+v1;270;Ypothéto oti eínai entáxei! / 我覺得這很正常吧！
+v2;300;Epeidí to krátisa! / 那是因為你搶到它了！
+
+newchat;key:sistertalk1,v1:female,v1:adult,v2:female,v2:adult,rel:sibling,weigth:10
+v1;0;Thymáste ton iníocho pou agápise toso polý stin paidikí ilikía mas? / 妳還記得我們小的時候，有多麼的喜歡車夫嗎？
+v2;30;Apo tin adelfí poreía. Ímastan oi megalýteroi opadoí! / 當然啊，姐姐。我們是最大的粉絲！
+v1;60;Anarotiémai ti synévi s 'afton. / 我想知道他怎麼了。
+v1;90;Tha akoúsei típota gi 'afton pia ... / 妳也知道之後他音訊全無...
+v2;120;Eínai pithanon enkatastáthikan s 'éna chorio san ti dikí mas kai eíche mia sýzygo kai ta paidiá. / 他可能和我們一樣，在一座村莊定居下來，有了妻子和孩子。
+v1;150;Télos pánton exakoloutho na elpízo na ton synantíso kápoia stigmí! / 無論如何，我還是希望哪天能和他相遇！
+v2;180;Ki ego! / 我也是！
+
+newchat;key:brothersister,v1:male,v1:adult,v2:female,v2:adult,v2:hasspouse,rel:sibling,weigth:10
+v1;0;$targetfirstname, i adelfí mou, pánta íthela na mátho giatí pantréftike afto to trántagma. / $targetfirstname姐姐，我一直想知道妳為甚麼想嫁給這個混蛋。
+v2;30;Epeidí ton agapo! / 因為我愛他！
+v1;60;Kai tora to onomá sas eínai $targetlastname. $targetlastname! Akoúgetai toso kako! / 而妳現在得姓$targetlastname了。$targetlastname耶！聽起來糟透了！
+v2;90;Hey! Min simaínei étsi! Ítan eseís pou xekínise i sýnkrousi. / 嘿！別這麼刻薄！這只是妳個人的偏見罷了！
+v2;110;Tha ítan methysménos! / 妳肯定醉了！
+
+newchat;key:religious1,v1:vtype:metropolit_byzantine-pastor_byzantine,v2:male,weigth:10
+v1;0;$targetfirstname, o gios mou, ego den eída na proséfchetai símera! / $targetfirstname兒子啊，我今天沒看到你做禱告！
+v2;30;Patéras $targetlastname, ego sígoura ékane. /  $targetlastname爸爸，我肯定早做完了。
+
+newchat;key:religious2,v1:vtype:metropolit_byzantine-pastor_byzantine,v2:female,weigth:10
+v1;0;$targetfirstname, kori mou, ego den eída na proséfchetai símera! / $targetfirstname女兒啊，我今天沒見到妳做禱告！
+v2;30;Patéras $targetlastname, ego sígoura ékane. / $targetlastname爸爸，我肯定早做完了。

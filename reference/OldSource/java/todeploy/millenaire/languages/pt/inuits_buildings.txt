@@ -1,0 +1,18 @@
+
+animistic_a0=Templo Cerimonial
+armourerhouse_a0=Casa de Furrier
+armoury_a0=Furrier
+carver_a0=Casa de Escultor
+council_a0=Casa Comunal
+farmp_a0=Fazenda de Batata
+farmp_b0=Fazenda
+farmw_a0=Fazenda de Trigo
+fisherman_a0=
+playercampsite_a0=Acampamento do Jogador
+playeriglu_a0=Iglu
+playerlargegrove_a0=Grande Bosque
+playerlargehouse_a0=Mansão
+playermedhouse_a0=Casa
+playersmallhouse_a0=Pequena Casa
+hunterth_a0=Casa de Caçador
+flower_a0=Floricultura 

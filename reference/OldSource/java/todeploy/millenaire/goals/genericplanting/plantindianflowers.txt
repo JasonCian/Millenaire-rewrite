@@ -1,0 +1,22 @@
+buildingTag=flowerfield
+priority=50
+
+
+//spécifier si l'étiquette ou les phrases pour ce but n'ont pas le code du but lui-même
+//specify if the label and sentences for this goal is not the name of the goal itself
+sentencekey=plantflowers
+labelkey=plantflowers
+
+//objets tenus par le villageois
+heldItems=dye_white
+
+//Type de plante
+//Type of plant
+croptype=flower
+
+plantblockstate=red_flower;type=poppy
+plantblockstate=red_flower;type=blue_orchid
+
+soiltype=grass
+
+maxsimultaneousinbuilding=1

@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "millenaire:indianstatue"
+        },
+        "title": {
+            "translate": "advancements.puja.name"
+        },
+        "description": {
+            "translate": "advancements.puja.desc"
+        }
+    },
+    "parent": "millenaire:wq_indian",
+    "criteria": {
+        "puja": {
+            "trigger": "puja"
+        }
+    }
+}

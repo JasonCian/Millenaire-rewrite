@@ -1,0 +1,59 @@
+﻿
+culture.byzantines=Bütsantslaste
+
+villager.teenagerMale=Nooruk
+villager.teenagerFemale=Nooruk
+villager.boy_byzantine=Poiss
+villager.girl_byzantine=Tüdruk
+villager.farmiller_byzantine=Mölder
+villager.farmiller_wife_byzantine=Mölderi naine
+villager.wife_byzantine=Naine
+villager.miner_byzantine=Kaevur
+villager.artisan_byzantine=Käsitööline
+villager.patriarch_byzantine=Patriarh
+villager.lumberman_byzantine=Puuraidur
+villager.shepherd_byzantine=Karjus
+villager.shepherd_female_byzantine=Karjus
+villager.fisherman_byzantine=Kalur
+villager.baron_byzantine=Parun
+villager.richwife_byzantine=Rikkas naine
+villager.merchant_norman=Normandia kaupleja
+villager.merchant_hindi=India kaupleja
+villager.merchant_mayan=Mayande kaupleja
+villager.merchant_japanese=Jaapanlaste kaupleja
+villager.centurio_byzantine=Centurio
+villager.soldier_byzantine=Sõdur
+villager.playersoldier_byzantine=Sõdur
+villager.smith_byzantine=Sepp
+villager.merchant_byzantine=Kaupmees
+villager.pastor_byzantine=Pastor
+villager.artwife_byzantine=Artisani naine
+villager.architect_byzantine=Arhitekt
+villager.silkfarmer_byzantine=Siidi kuduja
+villager.silkfarmerwife_byzantine=Siidi kuduja
+villager.armysmith_byzantine=Relva sepp
+
+villager.smuggler_silk=Siidi kaupmees
+villager.merchant_art=Kunsti kaupmees
+villager.merchant_food=Toidu kaupmees
+villager.merchant_materials=Kivi kaupmees
+
+villager.keeperOak_byzantine=Valvur
+villager.keeperBirch_byzantine=Valvur
+villager.keeperTropical_byzantine=Valvur
+villager.keeperPine_byzantine=Valvur
+villager.loneshepherd_byzantine=Üksik karjus
+villager.loneshepherdf_byzantine=Üksik karjus
+villager.keeper_byzantine=Majaka vaht
+
+shop.townhall=Keskuse pood
+shop.forge=Töövahendid
+shop.armyforge= Tööriistad, relvad ja kaitsevarustus
+shop.lonetower=Toit
+shop.tavernbyz=Vein
+shop.lonesheep=Vill
+shop.bakery=Pagari tooted
+shop.fishery=Kala
+shop.sheepfarm= Lambaliha, nahka ja fetat
+shop.clothing=Riided
+

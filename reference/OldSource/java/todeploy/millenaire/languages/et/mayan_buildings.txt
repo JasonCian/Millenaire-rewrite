@@ -1,0 +1,79 @@
+﻿
+mayanplayerestate_A0= Resitents
+mayancrafter_A0= Käsitöö maja
+mayanarmyforge_A0= Sepikoda (Relvastus)
+mayansculptorhouse_A0=Skulptori maja
+mayanlibrary_A0=Raamatukogu
+mayanacropolis_A0= Kuninglik kohtu maja
+mayanalter_A0=Ohverdamis altar
+mayanhouse_A0=Maiadede maja
+mayanhouse_B0=Maiadede maja
+mayanhouse_C0=Maiadede maja
+mayanhouse_D0=Maiadede maja
+mayanlumber_A0=Puuraiduri maja
+mayanmining_A0=Kaevandus
+mayanguard_A0=Valvurite maja
+mayangrove_A0=Puiestik
+mayanpyramid_A0=Püramiid
+mayaninn_A0=Kõrts
+mayanlargepeasanthouse_A0=Väga  suur taluniku maja
+mayanlargepeasanthouse_A_secondary_A0=Väga suur maja
+mayanlargepeasanthouse2_A0=Keskmine taluniku maja alumine korrus
+mayanlargepeasanthouse2_A_secondary_A0=Keskmine taluniku maja ülemine korrus
+mayanbakery_A0=Pagar
+mayanballcourt_A0=Balli kohtu
+mayanplayerlargehouse_A0=Suur Püramiid
+mayancalendar_A0=Maaiade kalender
+mayancave_A0=Koobas
+mayancistern_A0=Veepaak
+mayancornfarm_A0=Maisi farm
+mayancornfarm_B0=Maisi farm
+mayancornfarm_C0=Maisi farm
+mayanobservatory_A0=Observatoorium
+mayansheepchickenfarm_B0=Lamba ja kana farm
+mayanplayerhugefield_A0=Väga suur ala
+mayanplayerlargefield_A0=Suur ala
+mayanplayersmallfield_A0=Väike ala
+mayanplayersmallhouse_A0= Vana maja
+mayanshamangrounds_A0=Šhamaani alad
+mayansheepchickenfarm_A0=Kana farm
+mayantemple_A0=Tempel
+mayanwatchtower_A0=Vahitorn
+mayanmarket_A0=Turg 
+mayancacaofarm_A0=Koka istandus
+mayancacaofarm_B0=Koka istandus
+mayanobsidiancrafter_A0=Obsidiani sepp
+
+mayanplayerpyramid_A0=Mängija püramiid
+
+lonemayancave_A0=Üksildane maaiade koobas
+lonemayanfarm_A0=Üksildane maaiade farm
+lonemayanshaman_A0=Üksik šhamaani ala
+mayanbandits_A0=Maaiade bandiidid
+mayanruinedpyramid_A0=Maaiade kadunud püramiid
+mayanbandithome_A0=Maaiade bandiidi kodu
+lonemayanruin_A0=Üksikud varemed
+lonemayancornfarm_A0=Kadunud maiade maisi farm
+lonemayanmining_A0=Kadunud maaiade kivi kaevandus
+mayanpyramid_A0=Maaiade pürmaiid
+
+gifthouse_a0=Kingitud maja
+
+questpyramid_A0=Neetud Püramiid
+questpyramid_pit_A0= Neetud Püramiid
+questpyramid_guards_A0= Neetud Püramiid
+questpyramid_jail_A0= Neetud Püramiid
+
+questguardtower_A0=Vahitorn
+questcamphouse_A0=Kasarmu
+questbarrack_A0=Kasarmu
+
+mayancamp_A0= Maiade laager
+mayancamp_outerguard_A0= Maiade laagri väli valvur 
+mayancamp_dig_A0= Maiade laager
+mayancamp_wall_A0= Maiade laagri müür
+mayancamp_jail_A0=Maiade laagri vangla
+mayancamp_innerguard_A0=Maiade laagri sise valvur
+
+questcave_door_A0=Maiade koobas
+questcave_A0= Maiade koobas

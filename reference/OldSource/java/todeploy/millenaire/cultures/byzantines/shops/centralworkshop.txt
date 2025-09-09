@@ -1,0 +1,5 @@
+sells=pathgravel,pathslabs,pathsandstone
+
+buys=sand,ironnugget
+
+deliverto=sand,pathgravel,pathslabs,pathsandstone,ironnugget

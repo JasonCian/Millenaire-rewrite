@@ -1,0 +1,21 @@
+//mc ++
+
+buildingTag=centralworkshop
+
+priority=55
+priorityrandom=10
+
+//en/in millisecondes
+duration=8000
+
+sentencekey=makesandstone
+labelkey=makesandstone
+
+heldItemsDestination=sand,sandstone
+
+input=sand,64
+output=sandstone,16
+
+townhalllimit=sandstone,2056
+
+sound=stone

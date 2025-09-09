@@ -1,0 +1,10 @@
+List of parameters usable in visit goals:
+
+targetposition (Type of position point (sleeping, leasure, selling...)):
+Pos type where the goal occurs. Defaults to sleeping pos.
+Default value: sleeping
+
+targetvillagergoals (list of strings (value1, value2...)):
+If set, the goal will have villagers doing one of the provided goal as destination. Replaces buildings as destination.
+
+

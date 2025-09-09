@@ -1,0 +1,12 @@
+minreputation:300
+chanceperhour:0.1
+maxsimultaneous:2
+step:new
+duration:48
+definevillager:key=startvillager,type=seljuk/turk_stonecrafter,forbiddentag=ornamentedstonecrafter_done
+villager:startvillager
+requiredgood:mudbrick_seljuk_ornamented,8
+rewardmoney:144*8
+rewardreputation:256*8
+settagsuccess:startvillager,ornamentedstonecrafter_done
+settagfailure:startvillager,ornamentedstonecrafter_done

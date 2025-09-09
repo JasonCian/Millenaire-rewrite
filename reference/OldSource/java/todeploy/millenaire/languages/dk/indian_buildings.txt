@@ -1,0 +1,23 @@
+//English names are generally already present in the building files themselves
+//So this is almost empty
+//Check the French hindi_buiildings file for an example of the format to use
+
+playerestate_A0=Villa
+forge_A0=Smed
+armyforge_A0=Militær smed
+scultorhouse_A0=Skulptur
+archives_A0=Temple Arkiv
+chiefhouse_A0=Chefs hus
+fort_A0=Fort
+peasanthouse_A0=Bondehus
+peasanthouse_B0=Bondehus
+peasanthouse_C0=Bondehus
+lumbermanhouse_A0=Skovhuggers hus
+quarry_A0=Stenbrud
+quarry_B0=Stenbrud
+soldierhouse_A0=Soldats hus
+brickkiln_A0=Brick Kiln
+grove_A0=Lund
+paddy_A0=Uafskallet
+spicegarden_A0=Kryderurtehave
+sugarplantation_A0=Sukker plantage

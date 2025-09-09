@@ -1,0 +1,12 @@
+minreputation:500
+chanceperhour:0.1
+maxsimultaneous:2
+step:new
+duration:32
+definevillager:key=startvillager,type=seljuk/turk_weaver,forbiddentag=cottonweaver_done
+villager:startvillager
+requiredgood:cotton,8
+rewardmoney:128
+rewardreputation:200
+settagsuccess:startvillager,cottonweaver_done
+settagfailure:startvillager,cottonweaver_done

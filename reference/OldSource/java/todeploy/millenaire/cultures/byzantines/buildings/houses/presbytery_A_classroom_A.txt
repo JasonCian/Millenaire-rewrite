@@ -1,0 +1,14 @@
+building.length=20
+building.width=18
+building.issubbuilding=true
+building.parentbuildingplan=presbytery_A1
+building.max=0
+building.icon=bookandquill
+building.buildingorientation=1
+
+initial.startlevel=-1
+initial.nativename=Scholeio
+initial.priority=1000
+initial.tag=school
+
+upgrade1.priority=100

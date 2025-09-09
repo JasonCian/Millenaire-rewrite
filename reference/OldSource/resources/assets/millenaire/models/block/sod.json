@@ -1,0 +1,34 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"overlay": "millenaire:blocks/sod_overlay",
+		"empty": "millenaire:blocks/empty",
+		"particle": "#planks"
+	},
+	"elements": [
+		{
+			"from": [ 0, 0, 0 ],
+			"to": [ 16, 16, 16 ],
+			"faces": {
+				"down":  { "texture": "#planks", "cullface": "down" },
+				"up":    { "texture": "#planks", "cullface": "up" },
+				"north": { "texture": "#planks", "cullface": "north" },
+				"south": { "texture": "#planks", "cullface": "south" },
+				"west":  { "texture": "#planks", "cullface": "west" },
+				"east":  { "texture": "#planks", "cullface": "east" }
+			}
+		},
+		{
+			"from": [ 0, 0, 0 ],
+			"to": [ 16, 16, 16 ],
+			"faces": {
+				"down":  { "texture": "#empty", "cullface": "down" },
+				"up":    { "texture": "#empty", "cullface": "up" },
+				"north": { "texture": "#overlay", "cullface": "north" },
+				"south": { "texture": "#overlay", "cullface": "south" },
+				"west":  { "texture": "#overlay", "cullface": "west" },
+				"east":  { "texture": "#overlay", "cullface": "east" }
+			}
+		}
+	]
+}

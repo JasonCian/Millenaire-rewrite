@@ -1,0 +1,42 @@
+﻿villager.greeting=Konnichiwa, $name-san! / مرحباً, $name-سان
+villager.greeting=Oi. / أهلاً.
+villager.greeting=Ogenki desuka, $name-san  / كيف حالك  , يا $name-سان
+villager.greeting=Kawatta koto aru؟ / مالاخبار؟
+villager.greeting=Hajimemashite / تحيات يا $name.
+villager.greeting=Yokoso. / مرحبا.
+villager.greeting=Gokigenyou. / اخبارك.
+
+villager.gorest=Watashi niwa kyu-kei ga hituyou desu. / احتاج للراحة
+villager.gorest=A-, mou neru jikan da / أوه , وقت راحتي
+villager.gorest=Watashi wa totemo tukarete imasu./ أشعر بالخمول.
+
+villager.gopray=Watashi wa housaku no tame ni megami Uga-no-Mintama ni inori masu. / سوف اصلي ل آلهة اقو-نو-مينتاما لأجل الحصاد الوفير.
+villager.gopray=Kami wa watashitachi wo aku kara osukui ni naru. / كامي احمينا من الشر.
+
+villager.BringBackResourcesHome=Cho cho cho... / عمل, عمل ,عمل....
+villager.ChopTrees=Watashi wa nanbonka no ki wo bassai suru tsumori da. / سوف اذهب لقطع بعض الاشجار
+villager.GatherGoods=Watashi wa ikutuka no souchi ga hituyou da. / احتاج لبعض المؤن.
+villager.PlantSaplings=Watashi wa korera no naegi wo ueru tumori desu. / سوف ازرع هذه الشتلات.
+
+villager.SlaughterChicken=Anata wa dareka no tame ni subarashii shokuji wo tukuru darou. / انت سوف تقوم بصنع وجبة جيدة لشخص ما.
+
+villager.GetHouseResources=Watashi wa ie kara nanika totte konakereba ikenai. / سوف اذهب لأحضر شيئ من المنزل.
+villager.GetGoodsHousold=Watashi wa ie ni korera no mono ga hituyou desu. / هذه الاشياء التي احتاجها بالمنزل.
+villager.DeliverGoodsHousold=Watashi wa mise kara syokuryou wo eta. / سوف احصل على الطعام من السوق.
+
+villager.GetResourcesForBuild=Watashi wa motto takusan no zairyou ga hituyou desu. / احتاج للمزيد من المواد.
+villager.ConstructionStepByStep=Watashi no chichi wa kentiku no houhou ni tuite watashi ni oshieta. / والدي علمني كيف ابني.
+villager.ConstructionStepByStep=Watashi wa kami ga watashi no kenchiku wo kiniiru koto wo negatte imasu. / اتمنى ان الكامي قد اعجب ببنائي.
+
+villager.GoPlay=watashi wa asobitai desu. / اريد ان العب.
+villager.BecomeAdult=Seityou suru jikan. / وقت البلوغ
+male.BecomeAdult=Watashi wa sensi ni naritai desu. / اريد ان اكون محارب.
+female.BecomeAdult=Watashi wa ituka hahaoya ni naritai desu. / اريد ان اكون اماً يوما ما.
+villager.gopray.chosen=Kokoro wo otitukasete kudasai. / هدئ عقلك.
+
+villager.calltoarms=Mura wo mamore! / دافع عن القرية!
+villager.calltoarms=Karera wa watashitachi wo kougeki suru hi wo koukai suru darou! / سوف يمقتون اليوم الذي فكرو فيه بالهجوم علينا!
+villager.calltoarms=Kuki wo mote! / امسك اسلحتك!
+
+villager.MakeTools=Watashi wa naganen no aida saikoukyu no dougu wo koumyou ni tukutte iru. / اقوم بصناعة افضل الادوات منذ سنوات عديدة.
+villager.MakeWeapons=Saikoukyu no buki no himitu wa sisyou kara watashi ni uketugareta. / السر لصناعة افضل الاسلحة قد مرر إلي بواسطة معلمي.

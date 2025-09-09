@@ -1,0 +1,21 @@
+name=Kouku
+
+
+weight=10
+radius=20
+
+//Vanilla biomes
+biome=Plains
+biome=Sunflower Plains
+biome=Taiga
+biome=Taiga M
+biome=TaigaHills
+biome=Mega Taiga
+biome=Cold Taiga
+
+//biomes o'plenty
+biome=coniferous forest
+biome=snowy coniferous forest
+
+//starting buildings=
+centre=lonemine

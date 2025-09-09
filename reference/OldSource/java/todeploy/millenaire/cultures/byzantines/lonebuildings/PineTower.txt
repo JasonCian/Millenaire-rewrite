@@ -1,0 +1,25 @@
+name=Mono Paratiritio
+weight=0
+radius=10
+
+//Vanilla biomes
+biome=Extreme Hills
+biome=Extreme Hills+
+biome=Extreme Hills M
+biome=Extreme Hills+ M
+biome=TaigaHills
+biome=Mega Taiga Hills
+
+//biomes o'plenty
+biome=alps
+biome=boreal forest
+biome=coniferous forest
+biome=crag
+biome=glacier
+biome=mountain
+biome=ominous woods
+biome=temperate rainforest
+biome=wetland
+
+//starting buildings=
+centre=pinetower

@@ -1,0 +1,28 @@
+﻿version:3.4
+<darkblue>Võitlus ja rüüste
+
+Millenaire ei ole alati rahulik mod: sa saad külaelanikega võidelda, külad võivad üksteist rüüstada, koletised saavad rünnata külasid ja mõned üksildased ehitised on bandiitide poolt üle võetud. Misiganes asjaoludes, teatud põhimõtted ei muutu: <darkblue>külelanikud on ainult haavatavad otses rünnaku poolt (lähivõitlus, nooled ja nõjajookid)<black>. Nad ei ole mõjutatud tule,kukkumis vigastusega või kaktusega See on piiratud kuna hoida mängijaid mitte tapma külaelanikud kui nad seda ei tea.
+
+Külaelanikud erinevad jõuga ja varustusega mida nad kannavad mis teevad neid palju ohtlikumateks.
+
+<darkblue>Külaelanike taassündimine
+
+Kui tapetud, siis külaelanik on ajutiselt surnud. Surnud külaelanikud taassünnivad nende kodudes (aga nad kaotavad oma varustuse). Kuid sellegi eest saab mängija ka taassündida...
+
+<darkblue>Rünnak mängija poolt
+
+Sa saad koguaeg rünnata külaelanikku, aga teised mehed külast aitavad teda sinu vastu võitluses. Kui sa saad tapetud kõik külaelanikud külas või üksildases ehitises, siis küla kirstud avanevad ja sa saad varastada sealt asjad.
+
+<darkblue>Bandits
+
+Mõned elanikud üksildases ehitises ründavad sind ilma hoiatamatta sind kui sa lähened. Sinu reputatsioon ei lange nende kultuuriga kui sa tappad nad. Nagu teised külaelanikud samuti ka nemad taassünnivad õhtul - vaata, "<darkblue>Linna hävitamine<black>" et näha kuidas see ära hoida.
+
+<darkblue>Rüüsted külade poolt
+
+Millenairi küladel on positiivne või negatiivne suhe lähedate küladega. Need suhted muutuvad suvaliselt ja võivad olla ka mõjutatud mängija poolt kui rääkides küla juhiga mis iganes külaga. Kui nende suhe on väga halb ja ühel külal on küllaga võitlejaid,siis see saab teha rüüste teistele küladele. Sa saad teatud sõnumiga. Rüüste ajal võitlejad kes ründavad küla proovivad tappa kõik mehed selles külas mida nad ründavad. Kui nad teevad,siis nad võttavad mõned ressursid saagina. Sa saad aitada ühte poolt rüüste ajal.
+
+See võib olla hea julgustada küla mis sulle meeldib ründama oma naabreid,et selle ressursse suurendada. Rohkem küüniliselt julgustama rüüsteid laseb sul aitada sind ennast,et saada natuke saaki kui kaitsjad on surnud.
+
+<darkblue>Külaelaniku rentimine
+
+On võimalik rentida mõndasi külaelanikke nagu sõdureid ja puuraidureid,et aitata sind su lahingutes. Nad järgnevad sulle ja võitlevad su vastastega.

@@ -1,0 +1,159 @@
+//name, selling price, buying price, reserved quantity, target quantity, foreign merchant price, auto-generated, needed equipment(deprecated), minimum reputation
+pathdirt,1,0,0,0,0,false,,0,construction
+pathsandstone,16,0,0,0,0,false,,0,construction
+wood,2,1,128,1024,3,false,,0,construction
+wood_pine,2,1,0,64,0,false,,0,construction
+wood_birch,2,1,0,64,0,false,,0,construction
+wood_jungle,2,1,0,64,0,false,,0,construction
+wood_acacia,2,1,0,64,0,false,,0,construction
+wood_darkoak,2,1,0,64,0,false,,0,construction
+wood_any,2,1,128,1024,0,false,,0,construction
+cobblestone,2,1,0,64,0,false,,0,construction
+stone,3,2,128,1024,0,false,,0,construction
+sandstone,6,4,64,1024,8,false,,0,construction
+redsandstone,6,4,64,1024,8,false,,0,construction
+
+
+sandstone_carved,16,12,128,1024,8,false,,0,construction
+red_sandstone_carved,16,12,128,1024,8,false,,0,construction
+ochre_sandstone_carved,20,16,128,1024,8,false,,0,construction
+
+
+iron,25,20,0,10,0,false,,0,crafting
+gold,64,0,0,0,64,false,,0,crafting
+diamond,6*64,0,0,0,6*64,false,,0,crafting
+
+wool_white,10,8,0,64,12,false,,0,construction
+cotton,3,2,0,64,12,false,,0,construction
+
+dye_lightblue,10,8,16,64,64,false,,0,crafting
+dye_red,6,5,16,64,16,false,,0,crafting
+
+carpet_white,10,8,16,64,16,false,,0,construction
+carpet_red,20,18,16,64,16,false,,0,construction
+carpet_blue,20,18,16,64,16,false,,0,construction
+
+bread,10,8,5,10,32,false,,0,foreigntrade
+egg,4,2,0,0,6,false,,0,agriculture
+chickenmeat,20,16,0,0,32,false,,0,agriculture
+chickenmeatcooked,28,20,0,0,48,false,,0,agriculture
+fishcooked,7,5,0,192,16,false,,0,foreigntrade
+wah,0,2*80,0,0,0,false,,0,foreigntrade
+masa,0,48,0,0,0,false,,0,foreigntrade
+udon,0,40,0,0,32,false,,0,foreigntrade
+ikayaki,0,2*80,0,0,0,false,,0,foreigntrade
+cooked_mutton,0,32,0,0,0,false,,0,foreigntrade
+souvlaki,0,2*80,0,0,0,false,,0,foreigntrade
+
+cake,0,64,0,0,128,false,,0,foreigntrade
+cookie,0,4,0,0,8,false,,0,foreigntrade
+feta,0,96,0,0,0,false,,0,foreigntrade
+cacauhaa,0,2*80,0,0,0,false,0,0,foreigntrade
+
+rasgulla,2*64,2*60,8,0,3*64,,,2*64*64,agriculture
+vegcurry,32,30,0,0,40,false,,0,agriculture
+chickencurry,2*64,2*60,0,0,3*64,false,,2*64*64,agriculture
+
+rice,32,28,0,128,48,false,,0,agriculture
+turmeric,64,60,0,64,90,false,,0,agriculture
+
+
+normanPickaxe,0,10*80,0,0,,,,0,foreigntrade
+normanAxe,0,10*80,0,0,,,,0,foreigntrade
+normanShovel,0,10*80,0,0,,,,0,foreigntrade
+normanHoe,0,10*80,0,0,,,,0,foreigntrade
+stonePickaxe,0,3,0,0, 0,false,,0,foreigntrade
+stoneAxe,0,3,0,0, 0,false,,0,foreigntrade
+stoneShovel,0,1,0,0, 0,false,,0,foreigntrade
+stoneHoe,0,2,0,0, 0,false,,0,foreigntrade
+steelPickaxe,2*64,2*60,1,1,5*25,false,,0,tools
+steelAxe,2*64,2*60,1,1,0,false,,0,tools
+steelShovel,2*64,2*60,1,1,0,false,,0,tools
+steelHoe,2*64,2*60,1,1,0,false,,0,tools
+diamondPickaxe,0,3*64*3,0,0, 0,false,,0,foreigntrade
+diamondAxe,0,3*64*3,0,0, 0,false,,0,foreigntrade
+diamondShovel,0,3*64*1,0,0, 0,false,,0,foreigntrade
+diamondHoe,0,3*64*2,0,0, 0,false,,0,foreigntrade
+mayanpickaxe,0,7*64,0,0, 0,false,,0,foreigntrade
+mayanaxe,0,7*64,0,0, 0,false,,0,foreigntrade
+mayanshovel,0,7*64,0,0, 0,false,,0,foreigntrade
+mayanhoe,0,7*64,0,0, 0,false,,0,foreigntrade
+byzantinePickaxe,0,10*80,0,0,,,,0,foreigntrade
+byzantineAxe,0,10*80,0,0,,,,0,foreigntrade
+byzantineShovel,0,10*80,0,0,,,,0,foreigntrade
+byzantineHoe,0,10*80,0,0,,,,0,foreigntrade
+
+
+bow,64,60,0,0,2*25,false,,0,weapons
+stoneSword,0,2,0,0, 0,false,,0,foreigntrade
+leatherHelmet,0,15*5,0,0, 0,false,,0,foreigntrade
+leatherChest,0,15*8,0,0, 0,false,,0,foreigntrade
+leatherLegs,0,15*7,0,0, 0,false,,0,foreigntrade
+leatherBoots,0,15*4,0,0, 0,false,,0,foreigntrade
+steelSword,1*64,1*60,0,0, 2*25,false,,0,weapons
+steelHelmet,1*64,1*60,0,0, 6*25,false,,0,weapons
+steelChest,4*64,4*60,0,0, 8*25,false,,0,weapons
+steelLegs,3*64,3*60,0,0, 7*25,false,,0,weapons
+steelBoots,2*64,2*60,0,0, 4*25,false,,0,weapons
+diamondHelmet,0,3*64*5,0,0, 5*20*64,false,,0,foreigntrade
+diamondSword,0,3*64*2,0,0, 2*20*64,false,,0,foreigntrade
+diamondChest,0,3*64*8,0,0, 8*20*64,false,,0,foreigntrade
+diamondLegs,0,3*64*7,0,0, 7*20*64,false,,0,foreigntrade
+diamondBoots,0,3*64*4,0,0, 4*20*64,false,,0,foreigntrade
+yumibow,0,7*64,0,0, 0,false,,0,foreigntrade
+tachisword,0,2*80,0,0, 0,false,,0,foreigntrade
+japaneseguardboots,0,96,0,0, 0,false,,0,foreigntrade
+japaneseguardHelmet,0,3*64,0,0, 0,false,,0,foreigntrade
+japaneseguardLegs,0,4*64,0,0, 0,false,,0,foreigntrade
+japaneseguardPlate,0,6*64,0,0, 0,false,,0,foreigntrade
+japaneseblueboots,0,4*64,0,0, 0,false,,0,foreigntrade
+japanesebluehelmet,0,6*64,0,0, 0,false,,0,foreigntrade
+japanesebluelegs,0,12*64,0,0, 0,false,,0,foreigntrade
+japaneseblueplate,0,18*64,0,0, 0,false,,0,foreigntrade
+japaneseredboots,0,4*64,0,0, 0,false,,0,foreigntrade
+japaneseredhelmet,0,6*64,0,0, 0,false,,0,foreigntrade
+japaneseredlegs,0,12*64,0,0, 0,false,,0,foreigntrade
+japaneseredplate,0,18*64,0,0, 0,false,,0,foreigntrade
+mayanmace,0,7*64,0,0, 0,false,,0,foreigntrade
+normanBroadsword,0,64*80,0,0, 2*64*64,false,,0,foreigntrade
+normanHelmet,0,10*80,0,0, 0,false,,0,foreigntrade
+normanplate,0,20*80,0,0, 0,false,,0,foreigntrade
+normanLegs,0,8*80,0,0, 0,false,,0,foreigntrade
+normanBoots,0,5*80,0,0, 0,false,,0,foreigntrade
+byzantineMace,0,64*64,0,0, 0,false,,0,foreigntrade
+byzantineHelmet,0,12*64,0,0, 0,false,,0,foreigntrade
+byzantinePlate,0,20*64,0,0, 0,false,,0,foreigntrade
+byzantineLegs,0,8*64,0,0, 0,false,,0,foreigntrade
+byzantineBoots,0,6*64,0,0, 0,false,,0,foreigntrade
+
+
+sugarcane,16,14,16,32,24,false,,0,agriculture
+
+dye_blue,64,0,0,0,64,false,,0,crafting
+cactus,16,0,0,0,16,false,,0,foreigntrade
+
+purse,32*64,0,0,0,0,true,,0,playeritem
+summoningwand,2*64*64,0,0,0,0,true,,0,playeritem
+
+mudbrick,4,3,0,2048,0,false,,0,construction
+paintedbrickwhite,6,5,0,2048,0,false,,0,construction
+decoratedbrickwhite,20,18,0,1024,0,false,,0,construction
+paintbucketwhite,4*64,0,0,0,0,false,,0,construction
+brickmould,64,0,0,0,0,true,,0,playeritem
+indianstatue,5*64,4*64,0,0,,,,2*64*64,construction
+
+woodenbars,6,5,0,64,0,false,,0,construction
+woodenbarsindian,64,60,0,64,0,false,,0,construction
+woodenbarsrosette,64,60,0,64,0,false,,0,construction
+
+thatch,12,8,128,512,,,,2*64*64,construction
+bed_straw,16,12,4,16,0,false,,0,construction
+bed_charpoy,64,58,4,16,0,false,,0,construction
+
+banner_white,64,58,4,16,0,false,,0,construction
+indpattern,64,0,0,0,0,true,,8192,crafting
+indpattern1,64,0,0,0,0,true,,8192,crafting
+indpattern2,64,0,0,0,0,true,,8192,crafting
+indpattern3,64,0,0,0,0,true,,8192,crafting
+indpattern4,64,0,0,0,0,true,,8192,crafting
+indpattern5,64,0,0,0,0,true,,8192,crafting

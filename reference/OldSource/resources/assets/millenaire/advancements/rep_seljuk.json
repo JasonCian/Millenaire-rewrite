@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "millenaire:ayran"
+        },
+        "title": {
+            "translate": "advancements.rep_seljuk.name"
+        },
+        "description": {
+            "translate": "advancements.rep_seljuk.desc"
+        }
+    },
+    "parent": "millenaire:friendindeed",
+    "criteria": {
+        "rep_seljuk": {
+            "trigger": "rep_seljuk"
+        }
+    }
+}

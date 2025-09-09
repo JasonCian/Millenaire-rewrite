@@ -1,0 +1,17 @@
+minreputation:0
+chanceperhour:0.1
+step:new
+definevillager:key=startvillager,type=norman/girl,forbiddentag=losttapestry_done
+definevillager:key=lady,type=norman/lady,relatedto=startvillager,relation=samevillage
+villager:startvillager
+rewardgood:tapestry,1
+duration:5
+
+step:new
+villager:lady
+duration:5
+requiredgood:tapestry,1
+rewardreputation:128
+penaltyreputation:64
+settagsuccess:startvillager,losttapestry_done
+settagfailure:startvillager,losttapestry_done

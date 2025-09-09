@@ -1,0 +1,10 @@
+0;Tundmatu;Sama kui kaupleja me võttame kõik vastu,aga me ei usalda neid.
+4*64;Tuntud nägu;Hiljuti oled sa nähtud siin Rooma aladel.
+16*64;Regulaarne külastaja;Xaire, $name! Hea sind näha. Kuidas käsi käib?
+64*64;Lemmik kaupleja;Kõik siin on õnnelikud sind näha.Kas sul on midagi meiega kaupelda?
+2*64*64;Küla sõber;Sa oled osa külast $name, me usaldame sind!
+8*64*64;Üks meieseast;Me näeme,et sa oled nüüd Rooma kodanik $name. Võibolla sa ei sündinud meieseas,aga sa võid nüüd olla ukhe,et saad end kutsuda roomlaseks.
+32*64*64;Naturaalne juht;$name, sa oled saanud usalduse ja austuse bütsantlastelt.Nad järgnevad sulle kõikjale.
+-64;Nuhtlus;Sa ei ole väga kena, $name. Vaata ette!
+-4*64;Ebameeldiv autsider;Me võttame vastu kauplejad, aga me ei võta sinusuguseid. Ole valvas!
+-16*64;Avalik vaenlane;Oli häbi Rooma impeeriumil sind ellu jätta. Noh sa nautisid oma elu, aga nüüd lahku ja ära enam kunagi tagasi tule!

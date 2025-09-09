@@ -1,0 +1,23 @@
+//Parameters for the building as a whole
+building.length=6
+building.width=6
+building.areatoclear=3
+building.farfromtag=pathnode,30
+building.icon=bucketwater
+
+//Parameters for initial construction
+initial.startlevel=-11
+initial.nativename=Puit
+initial.priority=1000
+initial.tag=pathnode
+initial.irrigation=5
+initial.tag=leasure
+
+//Parameters for specific upgrades
+upgrade1.priority=100
+upgrade1.pathlevel=1
+upgrade1.irrigation=15
+
+upgrade2.priority=95
+upgrade2.pathlevel=2
+

@@ -1,0 +1,14 @@
+
+version:3.4
+<darkblue>Comercio
+La forma más común de intercambio con los aldeanos será el comercio - puedes venderles muchos productos, y a cambio comprar productos, incluyendo bloques y objetos específicos de Millénaire. Para comerciar con una aldea, debes ir al edificio principal (u otra tienda) y esperar que un aldeano venga y le veas con la frase "Vendiendo al jugador", mostrado encima de su cabeza. A continuación, haz <darkblue>Click-Derecho<black> sobre él para abrir la pantalla de comercio.
+Los aldeanos de Millénaire sólo pueden venderte artículos que tienen en stock, y sólo puedes venderles artículos que necesite la aldea (varía dependiendo de la localidad).
+Todo el comercio con la aldea será en "denarios", una moneda francesa medieval.
+Hay tres tipos de denarios:
+Denario común (denario de bronce),
+"Denario argénteos" (denarios de plata)
+por valor de 64 denarios,
+y "Denarios de Oro" 
+por valor de 64 denarios argénteos.
+<darkgreen>Consejo:
+En el mapa de la aldea (se obtiene haciendo Clic-Derecho el cartel correspondiente en el edificio central de la aldea), las tiendas se muestran al pasar el cursor por encima de los edificios.

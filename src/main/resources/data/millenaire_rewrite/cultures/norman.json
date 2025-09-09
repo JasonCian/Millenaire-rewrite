@@ -1,0 +1,166 @@
+{
+  "displayName": "Norman Culture",
+  "description": "Medieval European culture based on Norman civilization. Features castles, knights, and feudal society.",
+  "version": "1.0.0",
+  "enabled": true,
+  
+  "social": {
+    "professions": [
+      "knight",
+      "farmer", 
+      "craftsman",
+      "merchant",
+      "priest",
+      "baker",
+      "blacksmith",
+      "carpenter"
+    ],
+    "hierarchy": [
+      "lord",
+      "knight", 
+      "citizen",
+      "peasant"
+    ],
+    "values": {
+      "honor": 0.9,
+      "faith": 0.8,
+      "loyalty": 0.85,
+      "craftsmanship": 0.7,
+      "trade": 0.6
+    }
+  },
+  
+  "architecture": {
+    "style": "medieval_european",
+    "building_types": [
+      "castle",
+      "manor_house",
+      "peasant_house",
+      "church",
+      "farm",
+      "market",
+      "smithy",
+      "mill",
+      "tavern",
+      "guard_tower"
+    ],
+    "material_preferences": {
+      "stone": 0.8,
+      "wood": 0.9,
+      "thatch": 0.7,
+      "iron": 0.6,
+      "clay": 0.5
+    },
+    "decorative_styles": {
+      "banners": true,
+      "heraldry": true,
+      "gothic_windows": true,
+      "stone_gargoyles": true,
+      "wooden_beams": true
+    }
+  },
+  
+  "economy": {
+    "currencies": [
+      "denier",
+      "denier_or", 
+      "denier_argent"
+    ],
+    "trade_preferences": {
+      "grain": 0.8,
+      "wool": 0.9,
+      "metal_goods": 0.7,
+      "ale": 0.6,
+      "bread": 0.8,
+      "weapons": 0.7,
+      "armor": 0.7
+    },
+    "production_specialties": [
+      "wool",
+      "grain", 
+      "metal_goods",
+      "weapons",
+      "armor",
+      "ale"
+    ],
+    "economic_model": {
+      "type": "feudal",
+      "focus": "agriculture_and_crafts",
+      "trade_orientation": "regional",
+      "tax_system": "feudal_obligations"
+    }
+  },
+  
+  "culture_features": {
+    "cultural_items": [
+      "norman_sword",
+      "norman_shield", 
+      "norman_helm",
+      "chainmail",
+      "norman_banner",
+      "holy_book",
+      "ale_mug"
+    ],
+    "traditions": {
+      "tournaments": {
+        "frequency": "seasonal",
+        "importance": "high"
+      },
+      "feast_days": {
+        "frequency": "monthly", 
+        "importance": "medium"
+      },
+      "market_days": {
+        "frequency": "weekly",
+        "importance": "high"
+      }
+    },
+    "religious_beliefs": {
+      "primary_faith": "christianity",
+      "religious_importance": 0.8,
+      "church_influence": 0.7,
+      "pilgrimage": true
+    },
+    "festivals": [
+      {
+        "name": "harvest_festival",
+        "season": "autumn",
+        "duration": 3,
+        "importance": "high"
+      },
+      {
+        "name": "midwinter_feast", 
+        "season": "winter",
+        "duration": 5,
+        "importance": "very_high"
+      }
+    ]
+  },
+  
+  "technology": {
+    "levels": {
+      "agriculture": 4,
+      "construction": 5,
+      "craftsmanship": 4,
+      "metallurgy": 4,
+      "military": 5,
+      "navigation": 3,
+      "scholarship": 3
+    },
+    "research_aptitudes": {
+      "agriculture": 0.7,
+      "construction": 0.8,
+      "craftsmanship": 0.7,
+      "metallurgy": 0.6,
+      "military": 0.8,
+      "navigation": 0.4,
+      "scholarship": 0.5
+    },
+    "knowledge_transmission": {
+      "apprenticeship": true,
+      "written_records": "limited",
+      "monasteries": true,
+      "guilds": true
+    }
+  }
+}

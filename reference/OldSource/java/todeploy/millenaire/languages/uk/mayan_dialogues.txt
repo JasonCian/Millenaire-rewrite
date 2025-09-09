@@ -1,0 +1,54 @@
+newchat; key: stone, weigth: 10
+v1;0;Nojoch tuunich antal ts’íib ku bin táanil ti’ junp’éel k’aaba’ tia’al u ye’esik xiib yéetel chéen juntúul wáa junp’éel ma’alobkin wíiklal ka kuxtal. / Булижник є найкращим матеріалом, який коли-небудь існував.
+v2;30;¡Kux yaan ma'alobtal bi'bi'ki! ¡Ts'íic tuunich! / Він навіть краще, коли обпалений! Ура для каменю!
+v1;60;¡Haah k'ana'an hóok's! Ich meyah! / Нам треба добувати! Вперед на роботу!
+
+newchat; key: pyramid, building: mayanpyramid, weigth: 7
+v1;0;Tin nah k'uh haah ma'alobkin hats'uts yéetel ma'alobkin beet. / Наша піраміда є найкрасивішою і кращої.
+v2;30;Haah u t'aan. Xíimbal uláak' chan kaah. Utia'al letio'ob antal ki'ichpam, ¡Ba'ale' ma' ki'ichkelem he'ebix in tia'al! / Це правда. Я відвідав інші села. Вони хороші, але не так елегантні, як наша!
+v1;60;In tia'al xook utia'al nahil haah hun yéetel ha'as óol. / Наша архітектура унікальна і неповторна.
+v2;90;Ma' u'uyba nohchil hach. Ma' k'áat kex antal he'ebix Byzantines. / Чи не хвалися занадто багато. Я не хочу, щоб ми були, як Візантійці.
+v1;120;Ah, kux. In ch'a' k'uux. ¿¡Bixi' páahtal yaan hach  u'uyba noh ba'al!? / Уххх ... Я їх ненавиджу. Як можна бути такою претензійною!
+
+newchat; key: player, weigth: 10
+v1;0;To'on ma' hach wíiniko'ob ka taal ich xíimbal lelo' kúuch. / Ми не бачимо багато відвідувачів тут.
+v2;30;Kux, chéen lela' $name yéetel uláak' wíiniko'ob saat... / Так, тут тільки $ name та інші втрачені люди ...
+v1;60;T'aan utia'al $name, ¿ma' teech tuukul ka $name il ka'anal yéetel hela'an? / Говорячи про $ name, не здається, що він був дивним і втомився?
+v2;90;Kux. Leti' p'aax wa'atal. / Вірно. Йому потрібно трохи відпочити.
+
+newchat; key: miner, weigth: 9
+v1;0;To'on p'aax antal máas áaktun máako'ob. / Ми повинні набрати більше шахтарів.
+v2;30;¡Ah kux! Nohoch tuunich yéetel yaan ma'alokin bi'bi'ki ti' kúuch. / О да! Гірські породи та мінерали є кращими матеріалами.
+v1;60;Kux, haah u t'aan. Kurx yaan k'aana'an máas utia'al to'on, P'aax ya'abtal xook. / Я згоден ... але немає достатньо людей в селі, наші будинки мають зростати.
+v2;90;Yéetel ma' ts'aa ich meyah ich mix may paal. / І ми не можемо відправити дітей на роботу. Вони занадто молоді.
+
+newchat; key: woman, weigth: 6, v1: adult, v2: adult, v1: female
+v1;0;Haah k'iin utia'al nah. / Саме час забратися в будинку
+v2;30;¡Kurx teech hun k'iin! / Але ти ж забиралася вчора!
+v1;60;Ma', yaan mix ba'al ka beet te'ela'. / Незважаючи на це, я не маю права робити нічого іншого тут.
+v2;90;¡Teech huntiich' tak ho'ol! / Ви завжди скаржитеся!
+v1;120;Yaáxil tak pool, ¡óot na'at! / Замість того, щоб мене звинувачувати, спробуй зрозуміти чому я скаржуся!
+
+newchat; key: friend, v1: vtype: mayan_miner, v2: adult, weigth: 10
+v1;0;Ah, tin uts amikoo, ¡$targetfirstname! ¿Bixi' antal? / Ах, мій хороший друг $ targetfirstname! Як ся маєте?
+v2;30;¡Toh oolal, $targetfirstname! Meen ka in páahtal, meyahil bin k'aas. / Привіт, $ targetfirstname! Роблю що можу, справи йдуть погано.
+v1;60;¿Teech p'aat koonol tuunich ich Indians? / Ви перестали продавати камінь Хінді?
+v2;90;Kux. Behla'e' leo'ob Japanese sahkab máako'ob k'a'ay meyah, leito'ob ma' k'abeet. / Так. Тепер, коли японські шахтарі запропонували свої послуги, вони більше не мають потреби в мені.
+v1;120;Teech ts'a'ah wa ba'ax hach. / Ви просто повинні запропонувати їм щось ще.
+v2;150;¿Teech yaan hun tuukul? / У вас є які-небудь ідеї?
+
+newchat; key: monster, weigth: 5
+v1;0;Yaan hach k'aak'as ba'al táankab. / Розвелося багато монстрів навкруги.
+v2;0;In antal máako'ob ba'ate'il páahtal kíimsah. / Я впевнений, що охоронці можуть боротися з ними.
+v1;60;In antal sahkil beey hun múuch' lelo'ob paal wáak'al ya'ax taah ich chan kaah. / Що мене турбує, так це напад зелених вибухових істот.
+v2;90;Ma' sahakil. To'on yaan léech tia'al ts'aa yiknal letio'ob. / Не хвилюйтеся. У нас є приманки, щоб використовувати проти них.
+v1;120;Lela' uts, to'on yaan ich $name. Leti' ma' ba'ate'el k'aw. Leti' páahtal áantah to'on. / Гаразд, в гіршому випадку є $ name. Він добре бореться і може захистити нас.
+v2;150;Kin ma' péek óol. Leti' ma' k'aw. / Я не сумніваюся в цьому. Він хороший!
+
+newchat; key: normands, weigth: 6
+v1;0;¿Teech yaan paakat boon oot'il utia'al Normans? ¡Letio'ob hach saas! / Ви бачили колір шкіри нормани? Вони такі бліді!
+v2;30;¡Kux! In mix bik'in yaan paakat saas máako'ob. Hela'n.  / О да! Я ніколи не бачив такого кольору раніше. Це дивно.
+v1;60;In tuukul letio'ob xota'an u k'iin... / Я думаю, що вони були прокляті ...
+v2;90;Ma' yaan ma' na'at. Letio'ob yaan wíinik he'ebix tuláakal to'on. / Не будь дурним. Вони люди, як і всі інші.
+v1;120;Ma' péek óol yaan káaltalil k'eex beey. In antal chich leio'ob ma' yaan beey. / Це, без сумніву, алкоголь змінив їх так. Я впевнений, що такими вони були не завжди.
+v2;150;Wale' teech antal k'aw. / Ви напевно помиляєтеся.

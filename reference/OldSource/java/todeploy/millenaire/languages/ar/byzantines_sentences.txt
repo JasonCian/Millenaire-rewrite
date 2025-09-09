@@ -1,0 +1,65 @@
+﻿villager.greeting=Xaire, $name! / مرحباً, $name!
+villager.greeting=Omorfi mera, etsi den einai؟ / يوم جميل, أليس كذلك؟
+villager.greeting=Tha brochi. Syntoma.  / سوف تمطر. قريباً.
+villager.greeting=Kamia poli ston kosmo boroun na synkrithoun me tin Konstantinoupoli/ لامدينة بالعالم يمكن أن تقارن بالقسطنطينية.
+villager.greeting=Den eimaste Ellines , eimaste Romaioi. / نحن لسنا إغريق, نحن رومان.
+villager.greeting=Eimaste Byzantinoi einai to teleutaio alaethino Romaious. Bask stae doxa tou politismou mas. / نحن البيزنطينين اخر الروم الأصليين. تشمس في مجد حصارتنا.
+villager.GoPlay=Nomizo oti tha pao na paixoun exo. / سوف أذهب للعب في الخارج.
+villager.gorest=Eimai kourasmenos. Tha pao spiti na koimitho. / أنا متعب سوف أذهب للنوم.
+villager.makeBread=To psomi einai aedae myrodia kalo. / الخبز رائحته زكية...
+villager.gorest=Nomizo oti tha pao gia Hypno. / سوف أذهب للنوم.
+villager.BecomeAdult=Telos tha ginei mia romaiki politi! / أخيراً لقد أصبحت مواطن روماني!
+villager.calltoarms=Ae Romaikae Autokratoria dexetai epithesi ! Gia ta opla ! / الإمبراطورية الرومانية تتعرض للهجوم! تسلحوا!
+villager.GoPlay=Nomizo oti tha pao na paixoun exo. / سوف اذهب للعب بالخارج.
+
+architect_byzantine.construction=Staen pragmatikotita eimai enas kallitechnis otan ylopoisi ton en logo epexergasia domes. / قمت ببناء بناءات معقدة. حقاً أنا فنان.
+architect_byzantine.construction=Ae architektonikae aemas den borei na synkrithei me kamia alli. / لدينا بنية لا يمكن مقارنتها بأي دولة أخرى.
+artisan_byzantine.greeting=Ae zoae mou einai poly kalyteri apo tae zoae ton allon anthropon edo. / حياتي أفضل بكثير من حياة الآخرين هنا.
+artisan_byzantine.makePainting=Romanikaes technaes aemas einai ae kalyterae ston kosmo. / الفن الروماني هو الأكثر تقدما في العالم.
+
+merchant_art.greeting=Kamia poli ston kosmo boroun na synkrithoun me tin Konstantinoupoli/ لامدينة بالعالم يمكن أن تقارن بالقسطنطينية.
+merchant_art.greeting=Eimaste Byzantinoi einai to teleutaio alaethino Romaious. Bask stae doxa tou politismou mas. / نحن البيزنطينين اخر الروم الأصليين.
+
+
+smith_byzantine.MakeIndianTools=Vyzantini̱ ergaleia einai ta kalytera ston kosmo. / الأدوات البيزنطية هي الأفضل في العالم.
+armysmith_byzantine.MakeIndianTools=Vyzantini̱ ergaleia einai ta kalytera ston kosmo. / الأدوات البيزنطية هي الأفضل في العالم.
+armysmith_byzantine.MakeByzantineMace=Mi̱n prospathi̱sete katapolemi̱si̱ enan andra oplismeno me mena. / لاتحارب أحداً ما تسلّح من عندي.
+
+wife_byzantine.greeting=To kathikon mas einai na elenchei tous andreous aemas. / مهمتنا هي السيطرة على رجالنا.
+wife_byzantine.greeting=Os gynaika sas , den yparchoun polla pou sas epitrepete na edo... / كامرأة لا يسمح لك أن تفعل الكثير هنا...
+wife_byzantine.getGoodsHousehold=Ora na noiazontai gia to noikokyrio. / الوقت لرعاية الأسرة.
+wife_byzantine.DeliverGoodsHousehold=Tetoia pragmata opos afto einai ta mona pragmata pou boro na kano edo. / مثل هذه الأمور هي الشيء الوحيد الذي يمكنني القيام به هنا.
+wife_byzantine.GetHouseTHResources=Telos o syzygos mou echei paradothei porous tou, opos tou eipa. / أخيراً زوجي أوصل موارده كما طلبت منه.
+wife_byzantine.cooking=Ae kouzina tou einai pragmatika diaskedastiko. / الطبخ حقاً متعة.
+
+miner_byzantine.Mining=Se afti tin dynami kai tin antochi douleia einai aparaititi. Omos, kaneis edo den echei syneiditopoiaesei pote... / في مثل هذه الوظيفة القوة والتحمل أهم حاجة. لكن لأحد هنا يلاحظ...
+miner_byzantine.Mining=Eimai perifanos pou Romaiki kai ergazontai gia afto to Empire doxa , akoma kai se afto to dyskolo ergo. / أنا فخور بكوني مواطن روماني عامل للإمبراطورية المجيدة، حتى في هذه المهمة الصعبة.
+
+patriarch_byzantine.makebooks=Ta biblia mou einai merika apo ta kalytera cheirografa ekei exo. / كتبي بعض من أفضل المخطوطات المتوفرة هناك.
+pastor_byzantine.makebooks=Ta biblia mou einai merika apo ta kalytera cheirografa ekei exo. / كتبي بعض من أفضل المخطوطات المتوفرة هناك.
+
+lumberman_byzantine.BringBackResourcesHome=Ae gynaikos mou prepei na einai perifanoi giati ola ta xyla pou echo pira . / زوجتي يجب أن تكون فخورة بجميع الحطب الذي جلبته.
+lumberman_byzantine.ChopTrees=Kathe domi tou xylou mas anankes , kai na parei afti einai ae douleia mou! / كل بناء هنا يحتاج للخشب, وجلبه هو عملي!
+lumberman_byzantine.GatherGoods=Nikaia dendryllio ekei. / Nice sapling over there.
+lumberman_byzantine.PlantSaplings=Syntoma auto tha einai ana megalo, epivlitiko dentro ! Kai tha to meiosoun.  / قريباً هذه سوف تكون, شجرة مهيبة! وانا الذي سيقطعها.
+
+keeperBirch_byzantine.greeting=Pos tha borouse na irthe me tin idea tis ergasias edo... / كيف لأي أحد أن يفكر شخص ما يجب أن يوضع هنا...
+keeperBirch_byzantine.greeting=Einai toso vareti edo, tipota den symvainei pote... / ياله من ملل, لم يحدث شيء في أي وقت مضى...
+keeperBirch_byzantine.greeting=Geia sou, anarotiemai pos tha vrethei afto to mikro meros makrino. / تحياتي يا أيها المسافر, أتسأل كيف انتهى الأمر بك هنا.
+
+
+keeperOak_byzantine.greeting=Pos tha borouse na irthe me tin idea tis ergasias edo... / كيف لأي أحد أن يفكر شخص ما يجب أن يوضع هنا...
+keeperOak_byzantine.greeting=Einai toso vareti edo, tipota den symvainei pote... / ياله من ملل, لم يحدث شيء في أي وقت مضى...
+keeperOak_byzantine.greeting=Geia sou, anarotiemai pos tha vrethei afto to mikro meros makrino. / تحياتي يا أيها المسافر, أتسأل كيف انتهى الأمر بك هنا.
+keeperOak_byzantine.greeting=Aftoi oi anthropoi edo, lene eafto tou 'Normans', mou thymizoun ti doxa tis aftokratorias mas. / هؤولا الناس هنا, الذين يدعون نفسهم بالنورمان, يذكروني بالأمبراطورية العظيمة.
+
+keeperPine_byzantine.greeting=Pos tha borouse na irthe me tin idea tis ergasias edo... / كيف لأي أحد أن يفكر شخص ما يجب أن يوضع هنا...
+keeperPine_byzantine.greeting=Einai toso vareti edo, tipota den symvainei pote... / ياله من ملل, لم يحدث شيء في أي وقت مضى...
+keeperPine_byzantine.greeting=Geia sou, anarotiemai pos tha vrethei afto to mikro meros makrino. / تحياتي يا أيها المسافر, أتسأل كيف انتهى الأمر بك هنا.
+keeperPine_byzantine.greeting=Afto to kryo einai fovero. Den yparchei amfivolia den boro na vro tous anthropous edo... / هذا البرد فظيع. لاعجب في أنه لايوجد شخص هنا.
+
+keeperTropical_byzantine.greeting=Pos tha borouse na irthe me tin idea tis ergasias edo... / كيف لأي أحد أن يفكر شخص ما يجب أن يوضع هنا...
+keeperTropical_byzantine.greeting=Einai toso vareti edo, tipota den symvainei pote... / ياله من ملل, لم يحدث شيء في أي وقت مضى...
+keeperTropical_byzantine.greeting=Geia sou, anarotiemai pos tha vrethei afto to mikro meros makrino. / تحياتي يا أيها المسافر, أتسأل كيف انتهى الأمر بك هنا.
+keeperTropical_byzantine.greeting=Einai toso zesta edo. Den boro na katalavo giati aftoi 'Hindi' zoun se afti ti gi. / ياله من حر. لا أستطيع أن أفهم كيف يعيش الهنود في تلك الأراضي.
+keeperTropical_byzantine.greeting=Echete dei pote aftes tis perierges 'Maya' ؟ Ktirion tous moiazoun san na borouse na katarrefsei kathe defterolepto. / هل شاهدت هؤلاء المايا الغرباء؟ تلك المباني يبدو أنها يمكن أن تنهار في أي ثانية.

@@ -1,0 +1,25 @@
+building.length=13
+building.width=17
+building.startinggood=cider,1.0,8,16
+building.startinggood=calva,1.0,2,4
+building.startinggood=tripes,1.0,2,4
+building.startinggood=boudin,1.0,4,4
+building.startinggood=bread,1.0,8,16
+building.startingsubbuilding=loneinn_A_stall_0
+building.icon=bed_red
+building.version=2
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Auberge Isolée
+initial.male=innkeepermale
+initial.female=innkeeperfemale
+initial.tag=leasure
+initial.tag=market
+initial.tag=drinking
+initial.tag=alembic
+initial.shop=loneinn
+initial.signs=0,1,2,3,4,5,6,7,8
+
+upgrade1.subbuilding=loneinn_A_stall_1
+upgrade1.tag=oven

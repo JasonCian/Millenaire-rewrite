@@ -1,0 +1,1 @@
+native:Chanan Nah;gameNameKey:mayanguard_A0;male:mayan_Warrior;female:mayan_PeasantWife;chest:1-5;sign:1;moveinpriority:10

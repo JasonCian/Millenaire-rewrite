@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "millenaire:grapes"
+        },
+        "title": {
+            "translate": "advancements.masterfarmer.name"
+        },
+        "description": {
+            "translate": "advancements.masterfarmer.desc"
+        }
+    },
+    "parent": "millenaire:cheers",
+    "criteria": {
+        "masterfarmer": {
+            "trigger": "masterfarmer"
+        }
+    }
+}

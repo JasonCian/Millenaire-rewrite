@@ -1,0 +1,20 @@
+
+priority=0
+priorityrandom=15
+
+//Si vrai ("true"), ce but se passe dans le bâtiment central 
+//If true, this goal happens in the central building
+buildingTag=grove
+
+duration=20000
+
+//once a day more or less (every ten minutes)
+reoccurdelay=600000
+
+allowrandommoves=true
+
+leasure=true
+
+heldItemsDestination=dye_brown
+
+sprint=false

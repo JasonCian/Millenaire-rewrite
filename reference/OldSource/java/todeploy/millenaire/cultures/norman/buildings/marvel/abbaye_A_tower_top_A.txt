@@ -1,0 +1,44 @@
+//Parameters for the building as a whole
+building.length=48
+building.width=112
+building.buildingorientation=3
+building.issubbuilding=true
+building.parentbuildingplan=abbaye_A0
+building.max=0
+building.icon=chiseledstonebrick
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Tour sud
+initial.priority=650
+initial.tag=patrol
+initial.tag=scaffoldings
+
+//Parameters for specific upgrades
+upgrade1.priority=600
+upgrade1.parenttag=12
+
+upgrade2.priority=550
+
+upgrade3.priority=500
+upgrade3.parenttag=32
+upgrade3.requiredparenttags=level_2
+
+upgrade4.priority=450
+
+upgrade5.priority=400
+upgrade5.parenttag=52
+upgrade5.requiredparenttags=level_3
+
+upgrade6.priority=350
+
+upgrade7.priority=300
+upgrade7.parenttag=72
+upgrade7.requiredparenttags=level_4
+
+upgrade8.priority=250
+upgrade8.parenttag=92
+upgrade8.parenttag=112
+upgrade8.requiredparenttags=level_5
+

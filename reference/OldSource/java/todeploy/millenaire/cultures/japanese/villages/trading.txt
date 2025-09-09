@@ -1,0 +1,79 @@
+name=Bouekigyou Mura
+icon=sake
+weight=10
+carriesraid=true
+
+pathmaterial=pathdirt
+pathmaterial=pathgravel
+pathmaterial=pathgravelslabs
+
+//Vanilla biomes
+biome=Taiga
+biome=Taiga Hills
+biome=Taiga M
+biome=Extreme Hills
+biome=Extreme Hills+
+
+//biomes o'plenty
+biome=boreal forest
+biome=maple woods
+biome=shield
+
+outerwallType=borderposts
+
+//starting buildings=
+centre=sakebrewery
+start=japaneselmh
+start=japanesepaddy
+start=japanesegrove
+start=japaneseinn 
+start=japanesepeasanth
+start=japanesepeasanth
+start=japanesemarket
+
+player=japaneseplot1
+player=japaneseplot2
+player=japaneseplot3
+player=japanesehut
+player=japanesehouse
+player=japanesehousemedium
+player=japanesehouselarge
+player=japanesearcheryrange
+player=gifthouse
+
+//to be built in priority
+core=japanesepagoda
+core=japanesecrafter
+core=japanesesamuraih
+core=japanesequarry
+core=japaneseforge
+core=japaneselookout
+
+
+//to be built after the core ones
+secondary=japanesearchive
+secondary=japanesezen
+secondary=well
+secondary=chickenfarm
+
+
+//not to be built
+never=japanesefort
+never=japanesefarmbig
+never=japaneseshintoshrine
+never=bath
+never=japanesekitchen
+never=japanesearmyforge
+never=japanesefarm
+never=squidfarm
+
+sellingPrice=sake,2/0
+buyingPrice=sake,1/48
+
+
+
+banner_json={BlockEntityTag:{Base:0,Patterns:[{Pattern:jat,Color:15}]}}
+banner_json={BlockEntityTag:{Base:4,Patterns:[{Pattern:jat,Color:15}]}}
+banner_json={BlockEntityTag:{Base:2,Patterns:[{Pattern:jat,Color:15}]}}
+banner_json={BlockEntityTag:{Base:5,Patterns:[{Pattern:jat,Color:15}]}}
+banner_json={BlockEntityTag:{Base:1,Patterns:[{Pattern:jat,Color:15}]}}

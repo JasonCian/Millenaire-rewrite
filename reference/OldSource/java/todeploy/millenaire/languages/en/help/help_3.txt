@@ -1,0 +1,34 @@
+version:3.4
+<darkblue>Reputation & village chief
+
+Each village in Millénaire has a opinion of you, neutral at the start and changing according to your actions. This reputation is very important: many rewards are only possible with a good reputation, and if your reputation gets too bad, villagers can refuse to trade with you. You can check your reputation by speaking (<darkblue>right-click<black>) with the village chief.
+
+The main way to improve your reputation is to trade with the village. Purchases as well as sales improve your reputation in proportion to the price. You can also improve your reputation by performing quests for them. Conversely, attacking a village or failling certain missions will damage your reputation.
+
+You also have a <darkblue>reputation with each culture<black>. This reputation is affected by all your dealings with villages of this culture, and affects your trading with all other villages of the same culture. For example, if you have a very good reputation with a Norman village, other Norman villages will also like you (a little) more. You can check your reputation with every culture in the information screen (“M” key by default).
+
+<darkblue>Actions requiring a certain reputation
+
+<darkblue>Buy a village parchment
+
+With a good enough reputation you can buy a village parchment from the village chief. This scroll includes all the information given by the different panels of the village.
+
+<darkblue>Buying a Home
+
+Once you have a good enough reputation, you can buy a house (or a field to build on) by talking to the village chief. Your home will be built by the village after the ongoing construction is finished. Unlike the rest of the area around the village, this building belongs to you and you can customize it at will.
+
+<darkblue>Learning to plant a crop 
+
+You can learn to plant the Millénaire-specific crops used by some of the culture. Contact the village chief once you have enough reputation.
+
+<darkblue>Purchase additional items 
+
+Some valuable items require having a good reputation in the village. If you do not have the necessary reputation to buy an item this will be indicated in the trade screen.
+
+<darkblue>Additional quests 
+
+Some quests, including the Creation Quest, can only be started with a good reputation (see <darkblue>“quests” <black>).
+
+<darkblue>Becoming leader in a culture
+
+Once you have reached the maximum reputation (<darkblue>"natural leader" <black>) you can build a village where you will be the leader (see <darkblue> "creating a village"<black>)

@@ -1,0 +1,15 @@
+
+0;Fremder;Wir haben normalerweise keine Verwendung für Fremde in unserem Dorf.
+4*64;Vertrauter;Bisher hast Du keinen unserer Bräuche gebrochen.
+8*64;Bekanntes Gesicht;Du hast bis jetzt einen guten Eindruck hinterlassen. Mache so weiter und wir werden miteinander auskommen.
+16*64;Regelmäßiger Besucher;Namaste, $name! Welche Neuigkeiten bringst Du?
+32*64;Nächster Nachbar: Auch wenn du nicht perfekt bist, erkennen wir, dass du ein guter Nachbar bist. $ Name-ji. Wir genießen deine Gesellschaft.
+64*64;Bevorzugter Händler;Willkommen zurück, $name. Was hast Du uns mitgebracht, für den Handel?
+2*64*64;Freund des Dorfes;$name-ji, wir alle betrachten Dich als einen wahren Freund.
+4*64*64;Ein wahrer Verbündeter;Du bist ein wahrer Verbündeter dieses Dorfes $ name-ji! Wenn du jemals Zuflucht suchst, kannst du in unserem Dorf bleiben.
+8*64*64;Einer von uns;Ich hätte nie geglaubt, das ein Fremder von unserem Dorf akzeptiert wird, aber $name-ji, Du bist jetzt einer von uns!
+32*64*64;Geborener Anführer;$name-ji, Du hast Dir den Respekt und das Vertrauen meines Volkes verdient. Sie werden Dir überall hin folgen.
+4*32*64*64;Überlegener Rajput;Die Inder sind sehr glücklich, dass du bei ihnen bleibst und ihnen bei ihren Kämpfen helfen willst! Für den Fall, dass du es nicht bemerkt hast, haben wir fünf weitere erstaunliche Kulturen geschaffen, die dir wahrscheinlich eine bessere Belohnung geben werden als eine glanzlose und enttäuschende Nachricht.
+-64;Ärgernis;Wir mögen keine Fremden hier, speziell nicht von Deiner Sorte.
+-4*64;Unangenehmer Außenseiter;Wer immer Dich aufgezogen hat, hat versagt. Wir hoffen, das Du bald verschwunden bist.
+-16*64;Staatsfeind;Jeden Morgen bete ich zur Göttin, das ich Dein Gesicht nie wieder sehen werde.

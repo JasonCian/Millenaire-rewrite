@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "stage=0": { "model": "millenaire:sapling_appletree" },
+        "stage=1": { "model": "millenaire:sapling_appletree" }
+    }
+}

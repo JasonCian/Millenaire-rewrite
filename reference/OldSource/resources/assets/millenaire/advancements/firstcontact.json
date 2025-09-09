@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "millenaire:denieror"
+        },
+        "title": {
+            "translate": "advancements.firstcontact.name"
+        },
+        "description": {
+            "translate": "advancements.firstcontact.desc"
+        },
+        "background": "millenaire:textures/blocks/mudbrick.png"
+    },
+    "criteria": {
+        "firstcontact": {
+            "trigger": "firstcontact"
+        }
+    }
+}

@@ -1,0 +1,12 @@
+building.length=13
+building.width=17
+building.issubbuilding=true
+building.parentbuildingplan=loneinn_A1
+building.travelbook_display=false
+building.icon=bed_red
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Marché isolée
+initial.tag=market
+initial.priority=5000

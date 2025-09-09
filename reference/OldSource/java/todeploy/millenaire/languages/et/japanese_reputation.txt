@@ -1,0 +1,10 @@
+0;Võõras;Me ei usalda võõraid lihtsasti. Ole oma parimas korras.
+4*64;Tuntud nägu;Me oleme sind näinud siin ennemgi,aga see ei tähenda,et me usaldame sind .
+16*64;Tavaline külastaja;Kuidas on su reisid olnud $name?
+64*64;Lemmik kaupleja;Ah, $name, sa oled tulnud kauge tee külanike silmis .
+2*64*64;Küla sõber;Tere sõber, mida saame me sinujaoks täna teha??
+8*64*64;Üks meist;Tere, $name, me oleme oodanud su tagasitulekut suure põnevusega.
+32*64*64;Naturaalne juht;$name, sa oled saanud trruduse ja usalduse minu inimestelt . Nad järgnevad sinuga kõikjale. 
+-64;Nuhtlus;Aa see oled sina,mida sa tahad?
+-4*64;Ebameeldiv autsider;Lahku meie külast kohe kaabakas!
+-16*64;Avalik vaenlane;Kuidas sa julged end siin näidata. Silmitse oma karistust!

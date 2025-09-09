@@ -1,0 +1,68 @@
+﻿
+
+villager.greeting=Namaste, $name-ji! / تحيات , $name-جي
+villager.greeting=Aaj bahut garmi hai. / الجو ساخن اليوم.
+villager.greeting=Kya haal hai؟ / كيف الاحوال؟
+villager.greeting=Kya khabar hai؟ / مالاخبار؟
+villager.greeting=Ghar par sa theek hain؟ / هل الجميع بخير بالمنزل؟
+villager.greeting=Yeh barish kyun nahin ho rahi؟ / لماذا لاتمطر؟
+villager.greeting=Kya tum se kale pani se pare ho؟ / هل اتيت من مابعد المحيط؟
+indian_pandit.greeting=Jeetey raho. / اتمنى لك العمر الطويل.
+merchant_oriental.greeting=Salam alaikum, bhai! / السلامة لك ,يا اخي!
+merchant_adivasi.greeting=Main van se a raha hoon / لقد عدت للتو من الغابة
+merchant_villagewoman.greeting=Ek akeelii mahila ke lie safar karna mushkil hai / السفر صعب لأمرأة وحيدة مثلي.
+
+male.gorest=Ab jaakey aaram karta hoon. / الان سوف اذهب لأستريح.
+male.gorest=Subah sey kaam kar raha hoon. / لقد كنت اعمل منذ الصباح.
+male.gorest=Main thak gaya hoon. / انا متعب.
+
+female.gorest=Ab jaakey aaram karti hoon. / الان سوف اذهب واستريح.
+female.gorest=Subah sey kaam kar rahi hoon. / لقد كنت اعمل بجد منذ الصباح.
+female.gorest=Main thak gayi hoon. / انا متعبة.
+
+villager.gopray=Hey Bhagwan, is baar phasal achhi ho. / ياإلاهي العزيز,ادعوك ان يكون الحصاد جيداً.
+villager.gopray=Bhagwan, bas aap hi ka sahara hai. / ياإله,انت املنا الوحيد.
+
+indian_lumberman.BringBackResourcesHome=Itna saara lakri ghar ley jaaney mein mushkil hooga. / سوف يكون من الصعب جدا حمل الحطب عند العودة للمنزل.
+indian_lumberman.ChopTrees=Yeh lakri kaat-tey kaat-tey meri zindagi beet jayegi. / يبدو اني سوف امضي حياتي اقطع هذه الاشجار.
+indian_lumberman.GatherGoods=Ab saari lakriyan ikaththa karta hoon. / الان سوف ابدأ بجمع الاخشاب.
+indian_lumberman.PlantSaplings=Jitna zyaada ped lagaoonga, utna hi aagey jaakey aaram raheyga. / كل ما زرعت الكثير من الاشجار,كلما اصبحت الحياة اسهل. 
+
+indian_peasant.DryBrick=Ghar bananey key liye kitney inth chahiyey؟ / كم تحتاج من الطوب لبناء منزل؟ 
+indian_peasant.GatherBrick=Aaj suraj teez hai, inth jaldi sookh rahaien hain. / الشمس قوية , تجعلهم يجفون بسرعة. 
+indian_peasant.CookBrick= Dekho, aag mein kaisi badhiyan pakti hai yeh intein. / انظر كيف يتم تسخين هذه الاطواب بالنار.
+villager.PlantRice=Is saal barish achchi hui toh phasal accha hoga. / لو امطرت بغزارة ,سوف يكون الحصاد جيداً هذه السنة.
+villager.HarvestRice=Is baar barish acchi honey sey phasal bhi acchi hui hai. / بسبب الامطار المباركة,الحصاد جيد جداً.
+villager.PlantTurmeric=Haldi toh sabhi ko chahiyein. / بالنهاية , الكل يحتاج إلى الكركم.
+villager.HarvestTurmeric=Haldi ki kheti kartey kartey merey haath peeley ho gayein hain. / حصاد الكركم يجعل يدي صفراء اللون.
+indian_peasant.SlaughterChicken=Bahut kha liya ghas-phoos. / لقد اكتفيت من الكاري النباتي!
+
+indian_peasantwife.GetHouseTHResources=Sab kuch toh thakur ko dey dena padta hai. / كل شيئ ينتهي دائما , بمنزل مالك الارض. 
+indian_peasantwife.GetGoodsHousehold=Inkey liye chahey jitna bhi khana lao, kam padta hai. / مهما اعطيت لهذه العائلة , انه دائما لايكفي!
+indian_peasantwife.DeliverGoodsHousehold=Uffh, itna sara khana akeley kaisey leh jaoongi. / كيف سأحمل كل هذا الطعام وحدي؟
+indian_peasantwife.makeRasgulla= Bacchon koh rasgulla bahut pasand hai. / الأطفال يحبون الراسقولاز.
+
+
+indian_peasant.GetResourcesForBuild=Hmmm, ek tan ka inth  chahiye, dau tan paththar .. / لنرى طن واحد من الطوب, طنين من الحجارة....
+indian_peasant.construction=Hindu vastu-kala desh videsh mein mashoor hai. / العمارة الهندوسية مشهورة حول العالم.
+indian_peasant.construction=Iskey baad, main lal kila banaoonga. / عندما انتهي من هذا ,سوف اقوم ببناء قلعة حمراء. 
+
+villager.GoPlay=Mujjhey mitti sey khelna accha lagta hai. / احب اللعب في التراب.
+villager.BecomeAdult=Khel kud bahut ho gaya, ab kaam par chalo. / انتهى اللعب ,وقت العمل.
+male.BecomeAdult=Main badey hokar yodhdha ban-na chahta tha. / اردت ان اصبح محارب عندما كنت صغيراُ...
+female.BecomeAdult=Mainey socha tha kisi rajkumar sey shaadi hogi... / لقد راودني حلم بأني تزوجت امير...
+
+villager.gopray.chosen=Mandir jaaney ka samay ho gaya. / حان الوقت لزيارة المعبد مرة اخرى.
+indian_pandit.gopray.chosen=Main mandir ki dekh bhaal nahin karoonga toh kaun karega؟ / إذا لم اعتني بالمعبد , من إذا سوف يعتني به؟
+
+villager.calltoarms=Jeet hamari hoogi. / النصر سوف يكون حليفنا.
+villager.calltoarms=Dushmano ki haar. / الهزيمة للعدو!
+villager.calltoarms=Sab apney apney hathiyar utha lo! / الجميع يلتقطون عتادهم!
+
+indian_smith.MakeTools=Sabhi merey banaye huye upkaran istamal kartey hain, phir bhi mujhey neecha samachtey hain. / الجميع يستخدم ادواتي , ومع ذالك لايقدروني.
+indian_armysmith.MakeWeapons=Hathiyaar bananey mein, upkaran bananey sey zyaada maan hai. / صناعة السلاح اكثر عراقة وفخر , من صناعة الادوات!
+indian_sculptor.Scult=Murtikala ched aur gaanth ki kala hai. / النحت هو فن يجمع بين, الحفر والجمال.
+
+merchant_oriental.KeepStall=Dekho yeh phaarsa ka gaurav! / انظر لأمجاد بلاد فارس!
+merchant_adivasi.KeepStall= Sab kuch mere parivar dwara kheti ki gayi hai. / كل شيئ تم عمله بواسطة عائلتي ,عميقا في الغابة.
+merchant_villagewoman.KeepStall=Ghara ka bana khana, bhukhe yaatriyon ke lie! / طعام منزلي للمسافرين الجائعين!

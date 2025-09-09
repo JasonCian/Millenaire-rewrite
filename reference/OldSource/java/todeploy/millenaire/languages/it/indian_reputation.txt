@@ -1,0 +1,19 @@
+//*   La parte prima del ";" è il titolo, dopo c'è la descrizione.
+//* 
+//* 
+
+
+0;Straniero;Non siamo abituati a vedere stranieri nel nostro paese remoto.
+4*64;Familiarità;Finora non hai commesso nessuna violazione della legge.
+8*64;Viso conosciuto; Sembra che hai fatto una buona impressione su alcuni di noi. Continua così, e ne guadegneremo entrambi.
+16*64;Visitatore regolare;Namaste, $name-ji! Quale notizie porti?
+32*64;Compagno vicino;Anche se non sei perfetto, riconosciamo che sei un buon vicino $name-ji. Noi apprezziamo la tua compagnia.
+64*64;Mercante;Bentornato, $name. Quali beni hai portato per commerciare con noi?
+2*64*64;Amico del villaggio;$name-ji, tutti ti considerano un vero amico del nostro villaggio.
+4*64*64;Un vero alleato; Adessso sei un vero alleato del nostro villaggio $name-ji! Se ti serve rifugio, puoi stare nel nostro villaggio.
+8*64*64;Uno di noi;Non avrei mai pensato di vivere talmente tanto da vedere uno straniero accettato nel villaggio, ma $name-ji, sei davvero uno di noi ora!
+32*64*64;Leader naturale;$name-ji, ti sei guadagnato la fiducia e il rispetto del mio popolo. Loro ti seguiranno ovunque.
+4*32*64*64;Eccellente Rajput; Le persone indiane sono estremamente felici che hai voluto restare con loro e aiutarle con i loro problemi! In caso, forse non ti sei accorto, abbiamo creato altre 5 fantastische culture che probabilmente danno una miglior riconmpensa di un poco brillante e deludente messaggio.
+-64;Scocciatore;Non ci piacciono gli stranieri qui, specialmente del tuo genere.
+-4*64;Straniero sgradito;Chiunque ti abbia cresciuto ha fatto davvero un pessimo lavoro. Speriamo davvero di non vederti mai più.
+-16*64;Nemico pubblico;Ogni mattina prego la Dea affinchè mi conceda di non rivedere mai più il tuo volto.

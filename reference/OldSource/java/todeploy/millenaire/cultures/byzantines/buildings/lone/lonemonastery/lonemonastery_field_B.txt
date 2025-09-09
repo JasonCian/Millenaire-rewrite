@@ -1,0 +1,11 @@
+building.length=26
+building.width=26
+building.travelbook_display=false
+building.issubbuilding=true
+building.parentbuildingplan=lonemonastery_A0
+
+//carrots
+initial.startlevel=-1
+initial.tag=carrot
+initial.nativename=Oporokalliérgia
+

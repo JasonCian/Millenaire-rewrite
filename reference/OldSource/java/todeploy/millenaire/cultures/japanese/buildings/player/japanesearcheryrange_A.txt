@@ -1,0 +1,14 @@
+//Parameters for the building as a whole
+building.length=15
+building.width=22
+building.max=0
+building.reputation=32768
+building.price=4096
+building.icon=arrow
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Yaba
+initial.priority=1000000
+initial.pathlevel=1
+

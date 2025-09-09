@@ -1,0 +1,21 @@
+//Parameters for the building as a whole
+building.length=65
+building.width=84
+building.buildingorientation=3
+building.startingsubbuilding=hotspringsinn_A_market
+building.startingsubbuilding=hotspringsinn_A_kitchen
+building.showtownhallsigns=false
+building.startinggood=rice,1.0,8,16
+building.startinggood=udon,1.0,2,4
+building.startinggood=ikayaki,1.0,2,4
+building.startinggood=sake,1.0,4,4
+building.startinggood=bread,1.0,8,16
+building.icon=bed_red
+
+//Parameters for initial construction
+initial.startlevel=-3
+initial.nativename=Onsenmachi
+initial.male=japanese_innkeeper
+initial.female=japanese_innkeeperwife
+initial.shop=japaneseinn
+

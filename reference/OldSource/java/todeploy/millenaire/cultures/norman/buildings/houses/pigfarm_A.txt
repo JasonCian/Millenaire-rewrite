@@ -1,0 +1,30 @@
+//Parameters for the building as a whole
+building.length=12
+building.width=18
+building.buildingorientation=3
+building.version=2
+building.icon=boudin
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Elevage porcin
+initial.priority=1000
+initial.male=pigherd
+initial.female=pigherdf
+initial.tag=pigs
+initial.shop=pigfarm
+
+//Parameters for specific upgrades
+upgrade1.priority=200
+
+upgrade2.priority=190
+
+upgrade3.priority=180
+upgrade3.tag=oven
+
+upgrade4.priority=85
+upgrade4.pathlevel=1
+
+upgrade5.priority=80
+

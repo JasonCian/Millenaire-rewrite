@@ -1,0 +1,20 @@
+//Parameters for the building as a whole
+building.length=10
+building.width=11
+building.buildingorientation=3
+building.icon=mushroomred
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Ah Waay Su'uk
+initial.priority=500
+initial.male=mayan_shaman
+initial.female=mayan_shamanwife
+initial.tag=despawnallmobs
+initial.tag=nopaths
+
+//Parameters for specific upgrades
+upgrade1.priority=50
+upgrade1.pathlevel=1
+

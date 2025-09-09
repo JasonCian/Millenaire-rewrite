@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "alignment=z,lit=true": { "model": "millenaire:fire_pit_lit", "y": 90 },
+        "alignment=x,lit=true": { "model": "millenaire:fire_pit_lit" },
+        "alignment=z,lit=false": { "model": "millenaire:fire_pit", "y": 90 },
+        "alignment=x,lit=false": { "model": "millenaire:fire_pit" }
+    }
+}

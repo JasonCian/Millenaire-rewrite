@@ -1,0 +1,13 @@
+//Parameters for the building as a whole
+building.length=12
+building.width=29
+building.buildingorientation=3
+
+building.icon=alchemistexplosive
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Tour de l'Alchimiste
+initial.male=alchemist
+initial.male=alchemistassistant
+

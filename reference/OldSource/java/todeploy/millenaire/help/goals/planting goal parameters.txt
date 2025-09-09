@@ -1,0 +1,16 @@
+List of parameters usable in planting goals:
+
+croptype (Minecraft ID of a block ('wheat')):
+Type of plant to plant.
+
+plantblockstate (a Minecraft blockstate ('red_flower;type=blue_orchid') (multiple lines possible)):
+Blockstate to plant. If not set, defaults to cropType. If more than one set, picks one at random.
+
+seed (item (from itemlist.txt)):
+Seed item that gets consumed when planting.
+
+soiltype (Minecraft ID of a block ('wheat')):
+Block to set below the crop.
+Default value: minecraft:farmland
+
+

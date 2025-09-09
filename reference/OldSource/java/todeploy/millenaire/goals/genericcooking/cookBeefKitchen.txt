@@ -1,0 +1,17 @@
+
+priority=50
+buildingTag=kitchen
+townhallgoal=false
+
+sentencekey=cookBeef
+labelkey=cookBeef
+
+itemtocook=beefraw
+
+buildinglimit=beefcooked,60
+
+minimumtocook=3
+
+itemsbalance=beefraw,beefcooked
+
+helditems=beefraw

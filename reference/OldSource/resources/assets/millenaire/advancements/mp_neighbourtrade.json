@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "millenaire:denier"
+        },
+        "title": {
+            "translate": "advancements.mp_neighbourtrade.name"
+        },
+        "description": {
+            "translate": "advancements.mp_neighbourtrade.desc"
+        }
+    },
+    "parent": "millenaire:firstcontact",
+    "criteria": {
+        "main": {
+            "trigger": "mp_neighbourtrade"
+        }
+    }
+}

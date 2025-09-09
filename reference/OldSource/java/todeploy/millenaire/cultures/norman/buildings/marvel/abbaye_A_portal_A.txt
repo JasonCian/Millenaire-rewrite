@@ -1,0 +1,33 @@
+//Parameters for the building as a whole
+building.length=48
+building.width=112
+building.buildingorientation=3
+building.issubbuilding=true
+building.parentbuildingplan=abbaye_A0
+building.max=0
+building.icon=door_spruce
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Portail
+initial.priority=650
+initial.tag=scaffoldings
+
+//Parameters for specific upgrades
+upgrade1.priority=600
+upgrade1.parenttag=10
+
+upgrade2.priority=500
+upgrade2.parenttag=30
+upgrade2.requiredparenttags=level_2
+
+upgrade3.priority=400
+upgrade3.parenttag=50
+upgrade3.requiredparenttags=level_3
+
+upgrade4.priority=250
+upgrade4.tag=pilgrimsite
+upgrade4.parenttag=110
+upgrade4.requiredparenttags=level_5
+

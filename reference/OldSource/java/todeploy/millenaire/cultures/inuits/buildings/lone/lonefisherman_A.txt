@@ -1,0 +1,40 @@
+//Parameters for the building as a whole
+building.length=12
+building.width=12
+building.buildingorientation=3
+building.max=0
+building.icon=fishing_rod
+
+building.showtownhallsigns=false
+building.startinggood=furplate,0.3,1,0
+building.startinggood=furlegs,0.3,1,0
+building.startinggood=furboots,0.3,1,0
+building.startinggood=inuittrident,0.75,1,4
+building.startinggood=inuitmeatystew,2.0,1,3
+building.startinggood=fishcooked,1.0,4,12
+building.startinggood=fishraw,1.5,8,16
+building.startinggood=seafood_raw,1.75,8,16
+building.startinggood=seafood_cooked,1.0,4,12
+building.startinggood=bone,0.75,1,2
+building.startinggood=boneblock,1.3,8,16
+building.startinggood=cauldron,0.3,1,0
+building.startinggood=fire_pit,0.3,1,2
+building.startinggood=bed_straw,0.3,1,2
+building.startinggood=hidehanging,0.5,1,1
+building.startinggood=inuitpotatostew,0.3,1,2
+building.startinggood=bearmeat_cooked,0.3,1,2
+building.startinggood=bearmeat_raw,0.3,4,6
+building.startinggood=wolfmeat_raw,0.3,4,6
+building.startinggood=wolfmeat_cooked,0.3,1,2
+building.startinggood=inuitcarving,0.75,2,8
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Autsituqpuq
+initial.translatedname=name_en,Fisherman
+initial.priority=31
+initial.male=inuit_lonefisherman
+initial.shop=lonefisherman
+
+//starting buildings:
+centre:lonefisherman

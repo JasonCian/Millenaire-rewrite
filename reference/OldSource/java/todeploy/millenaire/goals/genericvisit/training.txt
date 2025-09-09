@@ -1,0 +1,21 @@
+//Note pour les utilisateurs de Windows: si vous voyez le fichier entier sur une seule ligne, ouvrez-le avec PSPAd ou UltraEdit plutôt que Notepad
+
+//Note to Windows users: if you see the entire file in one line, open it using PSPad or UltraEdit instead of Notepad
+
+priority=50
+
+//en/in millisecondes
+duration=3000
+
+holdweapons=true
+
+//son à jouer quand un objet est fabriqué
+//sound to play once an object is done
+sound=iron
+
+buildingTag=training
+
+travelBookShow=true
+icon=woodsword
+
+leasure=true

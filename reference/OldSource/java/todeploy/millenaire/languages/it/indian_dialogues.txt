@@ -1,0 +1,162 @@
+//*                 Le linee di dialogo iniziano con un codice simile a "v2;30;" che specifica chi sta parlando e quando il dialogo deve apparire. Per favore, copialo esattamente nelle tue traduzioni.
+//*                 La prima metà (fino alla /) è nella lingua del villager e deve essere lasciata com'è, la seconda parte deve essere tradotta.
+//* 
+//* 
+//* 
+//* 
+//* 
+//* 
+//* 
+//* 
+//* 
+//* 
+//* 
+//* 
+//* 
+//* 
+//* 
+//* 
+
+
+
+newchat;key:sun,tag:notraining,weigth:10
+v1;0;Kitni Garmi Hai! / È così caldo!
+v2;30;Main is garmi se pagal ho gaya hoon. / Il caldo mi sta facendo impazzire.
+v1;70;Baarish kab hogi? / Ma quando pioverà?
+
+newchat;key:monsoon,tag:notraining,weigth:10
+v1;0;Barish nahi ho rahi hai. / Non sta piovendo.
+v2;30;Barish hogi. Chinta mat karo. / Non preoccuparti. Pioverà.
+v1;60;Tum har sal yahi bolte ho... / Dici la stessa cosa ogni anno...
+
+newchat;key:rain,tag:raining,weigth:10
+v1;0;Arre! Baarish ho rahi hai! / Sì! Sta piovendo!
+v2;40;Itni si baarish se kya hoga... / Così poca pioggia non farà nulla...
+v1;80;Sukhe se toh behtar hai. / Questa pioggia è comunque meglio di niente.
+v1;120;Lekin fasal kaise hogi? / Ma come faranno a crescere le nostre piante?
+
+newchat;key:sandstone,weigth:10
+v1;0;Hamara gaon pragati kar raha hai, hai na? / Il nostro villaggio sta facendo progressi, no?
+v2;40;Par abhi bahut kaam baki hai. / Ma c'è ancora molto da fare.
+v1;80;Sach me? / Davvero?
+v2;100;Bilkul! / Di sicuro!
+
+newchat;key:lakshmi,v1:adult,v2:adult,weigth:10
+v1;0;Jao, puja ke liye ek thali le aao. / Va, prendi un piatto di offerte per la puja.
+v2;40;Turant le aata hoon. / Lo prenderò immediatamente.
+v1;80;Bhagwaan ko prabhavit karna jaroori hai. / Dobbiamo placare gli dei.
+v1;130;Tab hi baarish samay par aayegi. / Solo allora la pioggia arriverà in tempo.
+
+newchat;key:beef,v2:adult,weigth:10
+v1;0;Kabhi socha hai, guy ka maas ka swad kya ho sakta hai? / Ti sei mai immaginato il sapore della carne di mucca?
+v2;60;Guy ka maas? Lekin ye toh dharm ke khilaaf hai! / Carne di mucca? Ma mangiarla va contro il nostro dharma!
+v1;120;Lekin shayad woh swadisht hai...? / E se fosse gustosa...?
+v2;180;Kya tum normandi ke jungli ho? / Sei un barbaro Normanno?
+
+newchat;key:rice,v1:child,v2:adult,weigth:10
+v1;0;Mai rasgulla chahta hoon. Mujhe bohot bhukh lagi hai! / Voglio del rasgulla. Sono veramente affamato!
+v2;60;Nahi. Tumhe sirf chawal khaana chahiye. / No. Dovresti mangiare solo riso.
+v1;120;Lekin maine subhah hi ye khaya hai! / Ma ho già mangiato qualcosa questa mattina!
+v1;180;Aur kal bhi, parson bhi... / E ieri, e l'altro ieri...
+v2;220;Toh tum yahi aaj raat ko, kal, aur jeevan bhar khao! / E dovrai mangiarlo stanotte, domani, e per il resto della tua vita!
+
+newchat;key:indian_lumberman,v1:vtype:indian_lumberman,weigth:10
+v1;0;Aaj maine bahut jyada lakdi kaat li! / Taglio un sacco di legna oggi.
+v2;60;Tum hamare jungle ko reghistaan bana doge! / Trasformerai la nostra foresta in un deserto!
+v1;120;Pareshan mat ho, yahaan bina kuch kiye hi pedh badhte hai. / Non preoccuparti, qua gli alberi crescono quasi da soli.
+
+newchat;key:indian_raja,v1:vtype:indian_raja,v2:adult,notrel:spouse,weigth:10
+v1;0;Mera mahal bahut chota ho gaya hai. / Il mio palazzo è diventato molto piccolo.
+v2;60;Lekin maharaj, ye is kshetra me sabse bada hai! / Ma Maharaj, è il più grande in questa terra!
+v1;120;Lekin ye mujhe chota lagne laga hai. / Ma per me è piccolo.
+
+newchat;key:indian_rajputgeneral,v1:vtype:indian_rajputgeneral,weigth:10
+v1;0;Ek shaktishali qila hamare dushmanon ke khilaaf sabse accha bachaav hai. / Un'imponente fortezza è la miglior difesa contro i nostri nemici.
+v2;60;Kaun se dushman, senapati? / Quali nemici, Generale?
+v1;100;Ye Norman aur anya jungli log. / I Normanni e altri barbari.
+
+newchat;key:indian_rani,v1:vtype:indian_rani,notrel:spouse,weigth:10
+v1;0;Mere pati amir aur prasidh hai. / Mio marito è ricco e rispettabile.
+v2;50;Ji han! Yeh sach hai. / Oh sì! È vero.
+v1;110;Par ve mere liye kabhi kuch laatey nahi hai. / Eppure non mi regala mai niente.
+v2;160;Kyon nahi? Kal hi unhone tumhare liye teen sariyaan laayi thi. / Come no? Giusto ieri ti ha comprato tre sari.
+
+newchat;key:indian_richwoman,v1:vtype:indian_richwoman,v2:female,v2:adult,v2:notvtype:indian_richwoman-indian-rani,weigth:10
+v1;0;Aaj mere pati ne mere liye 50 tola sona kharida. / Mio marito ha comprato cinquanta tola d'oro oggi.
+v2;60;50 tola sona! Mere paas sirf 10 tola sona hai... / Cinquanta tola d'ora! Io ne ho solo 10...
+v1;120;Aasha hai ki sitaare tumhare paksh mein honge. / Speriamo che le stelle si allineino in tuo favore.
+
+newchat;key:indian_sculptor,v1:vtype:indian_sculptor,weigth:10
+v1;0;Mujhe pratimaon banane ka achha mauka mila hai. / Ho ricevuto un'ottima opportunità per lavorare su delle statue.
+v2;50;Tum bahut achhe murtiyan banate ho. / È perché fai ottime statue.
+v1;100;Main pandhara saal se murtiyan bana raha hoon. / Ho fatto statue per un bel po' di tempo.
+
+newchat;key:indian_smith,v1:vtype:indian_smith,v2:adult,weigth:10
+v1;0;Hame aur phavadon ki zarurat hai. / Ci servono più picconi.
+v2;50;Main kaam mein vyasth hoon. / Sono occupato adesso.
+v1;100;Phavdiyon ki bhi zarurat hai. / Ci servono anche delle pale.
+v2;150;Uff! Mujhe kitna kaam karna padta hai! / Uff! Ho così tanto lavoro da fare!
+
+newchat;key:indian_soldier,v1:vtype:indian_soldier,v2:adult,v2:female,notrel:spouse,notrel:sibling,notrel:child,notrel:parent,weigth:10
+v1;0;<targetname>, shayad gaon ke nikat daaku hai! / <targetname>, penso ci siano dei banditi in agguato vicino al nostro villaggio!
+v2;50;Chinta mat karo, main gaon ki raksha karonga. / Non preoccuparti, proteggerò io il villaggio.
+v1;100;Tum bahut shaktishaali ho! / Sei così forte!
+v1;130;Aur sundar bhi. / Ed anche bello.
+v1;150;Agar aap ke paas moonch na hoti... / Se non fosse per i tuoi baffi...
+v2;200;Meri moonch ke baare main kuch bhi na kaho! / Non dire una parola sui miei baffi!
+
+newchat;key:indian_villagechief,v1:vtype:indian_villagechief,v2:vtype:indian_peasant-indian_peasantwife,weigth:10
+v1;0;Senapati, iss saal fasal achhi nahi hai./ Mio signore, il raccolto non è buono quest anno.
+v2;40;Tu aalsi hai! Jyada kaam kar! / È perché sei pigro! Lavora di più!
+v1;80;Lekin baarish hi nahi hui... / Ma non ha mai piovuto...
+v2;120;Meri galti nahi hai. Mujhe apna paisa chahiye. / Non è colpa mia. Voglio i soldi dell'affitto.
+v1;170;Lekin mere paas paise nahi hai. / Ma non ho soldi.
+v2;210;Fir mujhe meri zameen do. / Allora ridammi la terra.
+v1;260;Mere paas kuch bhi nahi rehe jayega! / Ma non mi rimarrà niente!
+
+newchat;key:newhouse,villager:indian_merchant,v1:notvtype:indian_merchant,v2:notvtype:indian_merchant,weigth:10
+v1;0;Vaha Vyapaari apne ghar ke bagal mein ek naya ghar ban rahe hai. / Quel mercante sta costruendo un'altra casa accanto alla sua.
+v2;60;Ek aur ghar? Par kyun? / Un'altra casa? Ma perché gli serve?
+v1;90;Vaha naya ghar unke betey ke liye hai. / È per suo figlio.
+v1;140;Jab unke betey ki shaadi hogi, tab dono paas me honge. / Quando suo figlio si sposerà, lui e suo padre vivranno vicino.
+
+newchat;key:gold,v1:vtype:indian_peasantwife,rel:spouse,villager:indian_villagechief,weigth:10
+v1;0;Gaon ke mukhiye ne apni patni ke liye sone ke kangan laaye. / Il capovillaggio ha preso dei bracciali d'oro per sua moglie.
+v1;60;Par aap mere liye kuch nahi laatey... / Tu non hai mai preso dei gioielli per me...
+v2;110;Tumhe ek amir aadmi se shaadi karni chahiye thi. / Avresti dovuto sposare un uomo ricco.
+v1;160;Lekin mujhe aur dahej dena padta. / Ma avrei dovuto pagare più dote.
+v2;200;Fir tumhe bhagyawaan lagna chahiye ki main tumhara pati hoon. / Allora dovresti sentirti benedetta ad avere un marito come me.
+
+newchat;key:alcohol,v1:vtype:indian_peasant-indian_lumberman,v2:vtype:indian_peasant-indian_lumberman,weigth:10
+v1;0;Maine bahit dinon se sharaab nahi piya hai. / Non bevo alcol da molto tempo.
+v2;50;Gaon ke bahar ek aadmi sharaab aur moongfali bechta hai. / C'è un uomo che siede sotto l'albero di banyan fuori dal villaggio e vende alcol e noccioline.
+v1;110;Sach? Maine socha tha ki gaon mein sharaab par pratibandh laga diya gaya hai. / Davvero? Pensavo fosse proibito vendere alcol nel villaggio!
+v2;160;Yeh kisi aur ko mat batana. / Non dirlo a nessuno.
+v1;200;Chalo, hum aaj shaam ko vahan jaatey hai. / Ok, andiamoci questa sera.
+
+newchat;key:childoneliner1,v1:child,v2:child,weigth:10
+v1;0;Kya aap ne mere liye khiloune laaye? / Mi hai preso dei giocattoli?
+
+newchat;key:childoneliner2,v1:child,v2:child,weigth:10
+v1;0;Mere paas bahut saare dost hai. / Ho molti amici.
+
+newchat;key:childoneliner3,v1:child,v2:child,weigth:10
+v1;0;Meri maa shaam ko mujhe khelne nahi deti hai. / Mia madre non mi fa giocare di notte.
+
+newchat;key:childrenzombie,v1:child,v2:child,weigth:2
+v1;0;Namaskaar! / Ciao!
+v2;50;Kya tumane dekha? / L'hai visto?
+v1;100;Kya dekhoon? / Visto cosa?
+v2;150;Mainne dekha ... ek zombee! / Ho visto... uno zombi!
+v1;200;Vaastav mein? / Davvero?
+v2;250;Haan! Yah bahut daraavana tha! Usane mujhe yah bhee bataaya ki yah aapako khaega! / Sì! Era così spaventoso! Mi ha anche detto che ti avrebbe mangiato!
+v1;300;Ahhhhh! Maan! Ek zombee mujhe khaane ja raha hai! / Ahhhhh! Mammina! Uno zombi vuole mangiarmi!
+
+newchat;key:childrencreeper,v1:child,v2:child,weigth:2
+v1;0;Namaskaar! / Ciao!
+v2;50;Kya tumane dekha? / L'hai visto?
+v1;100;Kya dekhoon? / Visto cosa?
+v2;150;Mainne dekha ... ek creeper! / Ho visto... un creeper!
+v1;200;Vaastav mein? / Davvero?
+v2;250;Haan! Yah bahut daraavana tha! yah vahaan ek ped uda diya! / Sì! Era così spaventoso! Ha fatto esplodere un albero laggiù!
+v1;300;Lekin ruko, mera pasandeeda ped vahaan par tha ... waaaaaaa / Aspetta, il mio albero preferito era laggiù... WAAAAAAAA

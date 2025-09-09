@@ -1,0 +1,189 @@
+
+
+sadhu_intro_0_label=O Sadhu
+sadhu_intro_0_description=$name, já o conhecemos há bastante tempo e confiamos em si como se fosse um de nós, apesar de nunca termos questionado quem é ou de onde vem. Inicialmente, pensávamos ser apenas mais um dos tantos que, tal como nós, foram transportados para este mundo, naquele fatídico dia em que a terra tremeu, para este mundo estranho em que as estações do ano não mudam e os rios não correm - mais um daqueles estranhos homens lá nas suas pirâmides de pedra, ou os homens pálidos que tão bem trabalham o ferro.<ret><ret>Porém, temo-lo observado desde há muito, e $name, você é diferente. Não aparenta ter qualquer memória do mundo anterior e sobrevive neste mundo como se sempre tivesse feito parte dele. E, o mais peculiar, é ainda não termos encontrado outro como você.<ret><ret>Se sabe algo mais do que nós e não o quer partilhar, está no seu direito. Mas se, tal como eu suspeito, você próprio se questiona sobre o que será este estranho mundo e qual o seu lugar no mesmo, necessita de sabedoria que eu não tenho. Existe apenas um homem que será capaz de o ajudar: o meu antigo guru, Sadhu Vidya. Há longos anos que não o vejo, mas sei que ele habita na floresta, preferindo as árvores mais altas e mais fortes para servirem de abrigo. Quando o encontrar, dê-lhe os meus agradecimentos por toda a sabedoria que ele partilhou comigo.
+sadhu_intro_0_description_success=Que a Deusa o abençoe nas suas viagens.
+sadhu_intro_0_description_refuse=O caminho para a descoberta do próprio é difícil, eu compreendo.
+sadhu_intro_1_label=Regresso ao Sacerdote
+sadhu_intro_1_description=Então, conseguiu localizar o meu antigo guru?
+sadhu_intro_1_description_success=É uma honra poder receber a sabedora do Sadhu! Você é claramente um homem a quem os Deuses sorriem.
+sadhu_intro_1_description_refuse=Permanecerei aqui até que mude de ideias, $name.
+sadhu_intro_1_listing=Preciso de encontrar o Sadhu por baixo de uma árvore alta na floresta. Depois de o conhecer, necessito de regressar ao sacerdote na aldeia de $startvillager_villagename$.
+
+sadhu_introwife_0_label=O Sadhu
+sadhu_introwife_0_description=$name, já o conhecemos há bastante tempo e confiamos em si como se fosse um de nós, apesar de nunca termos questionado quem é ou de onde vem. Inicialmente, pensávamos ser apenas mais um dos tantos que, tal como nós, foram transportados para este mundo, naquele fatídico dia em que a terra tremeu, para este mundo estranho em que as estações do ano não mudam e os rios não correm - mais um daqueles estranhos homens lá nas suas pirâmides de pedra, ou os homens pálidos que tão bem trabalham o ferro.<ret><ret>Porém, temo-lo observado desde há muito, e $name, você é diferente. Não aparenta ter qualquer memória do mundo anterior e sobrevive neste mundo como se sempre tivesse feito parte dele. E, o mais peculiar, é ainda não termos encontrado outro como você.<ret><ret>Se sabe algo mais do que nós e não o quer partilhar, está no seu direito. Mas se, tal como eu suspeito, você próprio se questiona sobre o que será este estranho mundo e qual o seu lugar no mesmo, necessita de sabedoria que eu não tenho. Existe apenas um homem que será capaz de o ajudar: o meu antigo guru, Sadhu Vidya. Há longos anos que não o vejo, mas sei que ele habita na floresta, preferindo as árvores mais altas e mais fortes para servirem de abrigo. Quando o encontrar, dê-lhe os meus agradecimentos por toda a sabedoria que ele partilhou comigo.
+sadhu_introwife_0_description_success=Que a Deusa o abençoe nas suas viagens.
+sadhu_introwife_0_description_refuse=Não deveria recusar a ajuda de um homem sagrado.
+sadhu_introwife_1_label=Regresso a $startvillager_villagerrole$
+sadhu_introwife_1_description=Então, já conheceu o homem sagrado?
+sadhu_introwife_1_description_success=É uma honra poder receber a sabedora do Sadhu! Você é claramente um homem a quem os Deuses sorriem.
+sadhu_introwife_1_description_refuse=Permanecerei aqui até que mude de ideias, $name.
+sadhu_introwife_1_listing=Preciso de encontrar o Sadhu por baixo de uma árvore alta na floresta. Depois de o conhecer, necessito de regressar a $startvillager_villagename$ e comunicar com $startvillager_villagerrole$.
+
+sadhu_first_0_label=A Iniciação
+sadhu_first_0_description=Eu esperava-o, $name. Os aldeões visitam-me para procurar conselhos e contaram-me por diversas vezes as histórias do estranho sem passado que se tornou um amigo das aldeias Hindus, e para quem este mundo selvagem para onde fomos transportados se parece quase como se fosse a sua própria casa. Um ancião provavelmente falou-lhe de mim e disse-lhe que eu lhe responderia às suas perguntas. Não será assim tão fácil. A minha sabedoria era muita no velho mundo, nas margens do Sagrado Ganges, mas neste mundo necessito de reaprender tudo. Se procura um Guru, veio em vão.<ret><ret>No entanto... Antes de me ter dedicado a uma vida de meditação, eu sabia bastante sobre o mundo natural. Não havia uma única planta que eu não conhecesse ou não pudesse utilizar desde os Himalaias até às selvas do sul. E apesar da fraqueza do meu corpo de hoje, a minha mente permanece perspicaz. Ajude-me a estudar este mundo e também você poderá aprender bastante sobre ele. Mas tenha cuidado: nem todas as criaturas deste mundo são pacíficas, e creio que encontraremos obstáculos durante a nossa exploração deste mundo.
+sadhu_first_0_description_success=Agora meditarei. Volte cá mais tarde para a sua primeira tarefa.
+sadhu_first_0_description_refuse=Permanecerei aqui até que mude de ideias, $name.
+
+sadhu_1_samples_0_label=As Amostras Botânicas
+sadhu_1_samples_0_description=A sua primeira tarefa será simples. Preciso que recolha várias amostras da principal vegetação que se pode encontrar aqui à volta. Eu próprio o faria, mas jurei permanecer junto a esta árvore durante as próximas três luas cheias, pelo que terá de ser você a fazê-lo.
+sadhu_1_samples_0_description_success=Meditarei na sua ausência.
+sadhu_1_samples_0_description_refuse=Permanecerei aqui até que mude de ideias, $name.
+sadhu_1_samples_1_label=Devolução das Amostras
+sadhu_1_samples_1_description=Estive a pedir orientação aos Deuses enquanto esteve ocupado.
+sadhu_1_samples_1_description_success=Estas amostras serão bastante úteis. Falarei bem de si à Deusa, $name.<ret><ret>Vejo também que achou esta tarefa demasiado simples. Saiba que nenhuma tarefa útil é indigna de ser executada. E saiba também que prevejo tarefas mais árduas para si no futuro.<ret><ret>Volte cá depois de eu ter descansado um pouco.
+sadhu_1_samples_1_description_refuse=Permanecerei aqui até que mude de ideias, $name.
+sadhu_1_samples_1_listing=Preciso de devolver as amostras ao Sadhu.
+
+
+sadhu_2_forest_0_label=Exploração Florestal
+sadhu_2_forest_0_description=Precisamos de estudar a geografia deste mundo. Começaremos com a floresta; necessitará de abrir a sua mente a este local e visitá-lo de noite. Comece no pôr-do-sol, e passe uma noite a vaguear pela floresta, observando-a.<ret><ret>Penso que não é necessário relembrá-lo de que o exterior é perigoso durante a noite, mas os deuses estarão consigo. Não seria má ideia trazer consigo uma espada; já reparei que os guerreiros mais bem preparados são mais facilmente protegidos pelos deuses.
+sadhu_2_forest_0_description_success=Meditarei na sua ausência.
+sadhu_2_forest_0_description_refuse=Permanecerei aqui até que mude de ideias, $name.
+sadhu_2_forest_1_label=Relato dos Achados
+sadhu_2_forest_1_description=Então, como foi o seu passeio nocturno? Já está mais esclarecido sobre este mundo?
+sadhu_2_forest_1_description_success=Diz que foi agitado? Isso era de esperar, e ainda assim parece ter encontrado mais resistência do que esperava. Ainda há muitas coisas que não compreendemos sobre este mundo. Dê-me tempo para reflectir sobre tudo isto e depois regresse cá.
+sadhu_2_forest_1_description_refuse=Permanecerei aqui até que mude de ideias, $name.
+sadhu_2_forest_1_listing=Preciso de explorar a floresta durante a noite tal como indicado pelo Sadhu.
+
+
+
+sadhu_3_pandit_0_label=Épicos Hindus
+sadhu_3_pandit_0_description=Reflecti bastante sobre a sua aventura na floresta, mas o esclarecimento escapa-me. Aquelas caricaturas grotescas de homens não se parecem com nada que alguma vez tenha visto no nosso antigo mundo, e não consigo compreender a sua existência e o seu propósito. No entanto, nos antigos épicos Hindus fala-se de demónios que poderão estar relacionados com elas. A minha solitária existência não me permite manter tais documentos inestimáveis, mas é certamente possível encontrá-los numa aldeia Hindu.
+sadhu_3_pandit_0_description_success=Quem me dera ter a minha própria biblioteca... A vida de Sadhu tem as suas desvantagens.
+sadhu_3_pandit_0_description_refuse=Permanecerei aqui até que mude de ideias, $name.
+sadhu_3_pandit_1_label=Regresso com os Livros
+sadhu_3_pandit_1_description=Rezei bastante enquanto esteve ausente, $name. Espero que tenha encontrado os livros sem grandes dificuldades.
+sadhu_3_pandit_1_description_success=Fico-lhe bastante agradecido, $name. Preciso de estudar estes documentos durante algum tempo. Vá e medite, e regresse quando encontrar alguma paz interior.
+sadhu_3_pandit_1_description_refuse=Você entristece-me, $name.
+sadhu_3_pandit_1_listing=Preciso de encontrar um aldeão Hindu que me possa emprestar os livros e regressar com eles ao Sadhu.
+
+sadhu_3b_pandit_0_label=Comunicar com o Sacerdote
+sadhu_3b_pandit_0_description=Então, conseguiu encontrar o sábio Sadhu? Deve ser uma honra poder cooperar com esse homem sagrado!<ret><ret>Claro que lhe emprestarei os livros de que ele precisa. Devia lê-los também. Isto é, partindo do princípio de que sabe ler Sânscrito.
+sadhu_3b_pandit_0_description_success=E dê os meus cumprimentos ao Sadhu!
+sadhu_3b_pandit_0_description_refuse=Ousa recusar uma tarefa incumbida a si pelo próprio Sadhu?
+
+sadhu_3b_wife_0_label=Comunicar com $startvillager_villagerrole$
+sadhu_3b_wife_0_description=O Sadhu necessita dos grandes épicos Hindus? Será uma honra dar-lhe a única cópia que eu tenho!
+sadhu_3b_wife_0_description_success=E dê os meus cumprimentos ao sagrado Sadhu!
+sadhu_3b_wife_0_description_refuse=Ousa recusar uma tarefa incumbida a si pelo próprio Sadhu?
+
+
+sadhu_4_desertb_0_label=Exploração Árida
+sadhu_4_desertb_0_description=Os grandes épicos são uma fonte de sabedoria tanto neste mundo como no antigo. Muitos grandes heróis e deuses lutaram contra demónios dos tempos antigos e o conhecimento da sua habilidade certamente o ajudará a proteger-se contra o mal neste mundo de escuridão. Creio que poderei utilizar esse conhecimento para o proteger, mas necessitarei de jejuar para purificar-me.<ret><ret>Enquanto me preparo, quero que continue a sua tarefa e recolha informação sobre os desertos inférteis deste mundo, aonde os humanos raramente vão. Talvez lá encontre menos dificuldades. Vá e explore o primeiro deserto que encontrar, tal como explorou a floresta.
+sadhu_4_desertb_0_description_success=Jejuarei na sua ausência.
+sadhu_4_desertb_0_description_refuse=Você entristece-me, $name.
+sadhu_4_desertb_1_label=Relato dos Achados
+sadhu_4_desertb_1_description=Espero que a Deusa o tenha mantido seguro durante a sua exploração.
+sadhu_4_desertb_1_description_success=A sua descrição do deserto como "infértil" e "árido" pouco acrescenta ao nosso conhecimento, $name. Mas é interessante que tenha observado mais daqueles esqueletos andantes que viu anteriormente. A própria terra parece reagir à sua presença.<ret><ret>Na sua ausência, rezei bastante e Vishnu na sua infinita sabedoria escolheu abençoar a nossa missão. Ele concedeu-me a sabedoria necessária para sentir o mal à nossa volta e transferir essa percepção para este amuleto. Leve-o e deixe que o mesmo o proteja.
+sadhu_4_desertb_1_description_refuse=Permanecerei aqui até que mude de ideias, $name.
+sadhu_4_desertb_1_listing=Preciso de explorar um deserto durante a noite tal como indicado pelo Sadhu.
+
+sadhu_5_adivasi_0_label=Conhecedor de Pântanos
+sadhu_5_adivasi_0_description=$name, necessitamos de continuar a recolher informação sobre este mundo. Creio que os pântanos são lugares especialmente importantes; eles parecem ocorrer com muito mais frequência do que as forças naturais o sugeririam. Graças a si, no entanto, não será necessário explorá-los. Há um povo cuja sabedoria dos pântanos é inigualável: os agricultores Adivasi. Estes homens são humildes e desprezados pelos aldeões, mas eles são observadores e passam a vida nas profundezas dos pântanos. Encontre um e peça-lhe informação. Diga-lhe que vem da minha parte e será bem-vindo.
+sadhu_5_adivasi_0_description_success=Não lhe consigo dar indicações sobre a sua localização, mas procure os pântanos e conseguirá encontrá-los.
+sadhu_5_adivasi_0_description_refuse=Permanecerei aqui até que mude de ideias, $name.
+sadhu_5_adivasi_1_label=Regresso com Amostras
+sadhu_5_adivasi_1_description=Conseguiu que os Adivasi partilhassem a sua sabedoria consigo?
+sadhu_5_adivasi_1_description_success=Fantástico, estas amostras serão bastante úteis. Disseram-lhe algo sobre as actividades anormais nos pântanos?
+sadhu_5_adivasi_1_description_refuse=Você entristece-me, $name.
+sadhu_5_adivasi_1_listing=Preciso de encontrar um agricultor Adivasi num pântano e pedir-lhe informação sobre o local. Depois, preciso de regressar ao Sadhu.
+
+
+sadhu_5b_adivasib_0_label=Comunicar com o Agricultor
+sadhu_5b_adivasib_0_description=O Sadhu ele mesmo vem pedir-me ajuda? Mas eu sou um pobre e ignorante homem... Que mais poderei oferecer-lhe sem ser umas míseras plantas que eu recolhi... Tenho encontrado também criaturas sombrias que vagueiam pelos pântanos durante a noite, e algumas ficam em chamas quando a luz do dia aparece! Recolhi alguns restos daquelas criaturas horríveis; talvez o Homem Sagrado possa compreender que abominação é esta?<ret><ret>E espero que aceite esta comida antes de ir, $name. Alguém que esteja a trabalhar com o Sadhu só pode ser uma boa pessoa.
+sadhu_5b_adivasib_0_description_success=Espero que estas plantas lhe sejam úteis. A sabedoria do Sadhu é infinita.
+sadhu_5b_adivasib_0_description_refuse=Como pode recusar uma tarefa sagrada para ajudar o Sadhu?
+
+
+sadhu_6_enchantedsword_0_label=A Arma Sagrada
+sadhu_6_enchantedsword_0_description=As histórias dos Adivasi são sombrias, $name. Mesmo com o seu amuleto, como é que se pode sentir seguro ao explorar esta terra onde os demónios vagueiam livremente assim que o sol se põe? Li de novo os épicos durante a sua ausência, e julgo saber do que necessita: uma arma sagrada para o proteger, algo poderoso e terrível como a Sudarshana Chakra utilizada por Vishnu Ele próprio. Ainda assim, mesmo após três dias de jejum, a minha meditação não trouxe quaisquer respostas. Receio que o meu conhecimento me esteja a falhar. $name, a sua ligação com este mundo é muito maior que a minha, embora não o compreendamos - acha que seria possível obter uma lâmina sagrada para lutar contra este mal?
+sadhu_6_enchantedsword_0_description_success=Que os Deuses o protejam, amigo.
+sadhu_6_enchantedsword_0_description_refuse=Permanecerei aqui até que mude de ideias, $name.
+sadhu_6_enchantedsword_1_label=Regresso com a Lâmina Encantada
+sadhu_6_enchantedsword_1_description=Então $name, foi-lhe concedida a arma com a qual poderá lutar contra estas criaturas demoníacas?
+sadhu_6_enchantedsword_1_description_success=Tal é o poder que reside dentro de si, que não foi preciso pedir uma arma mágica aos Deuses, bastou criá-la você próprio! O seu conhecimento sobre este mundo arrepia-me, $name. Às vezes questiono-me se será um mero mortal. Deixe-me pensar um pouco a sós. Preciso de rezar para orientação.
+sadhu_6_enchantedsword_1_listing=Preciso de mostrar a espada encantada ao Sadhu.
+sadhu_6_enchantedsword_1_description_refuse=Permanecerei aqui até que mude de ideias, $name.
+
+sadhu_7_enchantmenttable_0_label=O Medo e o Conhecimento
+sadhu_7_enchantmenttable_0_description=Perdoe-me, amigo. Não era a minha intenção correr consigo daqui tão abruptamente, depois de tudo o que fez por nós. Não devia ter deixado o medo tomar conta de mim. Necessito de compreender os seus poderes e não de ter medo deles. Poderia mostrar-me como é que criou esta sua espada?
+sadhu_7_enchantmenttable_0_description_success=Agradeço-lhe.
+sadhu_7_enchantmenttable_0_description_refuse=Permanecerei aqui até que mude de ideias, $name.
+sadhu_7_enchantmenttable_1_label=Mostrar a Mesa de Encantamentos
+sadhu_7_enchantmenttable_1_description=Então, como foi que realizou este feito digno de um deus?
+sadhu_7_enchantmenttable_1_description_success=Uma mesa de obsidiana e diamantes, livros cheios de palavras que não consigo decifrar, energia recolhida de demónios mortos - e você consegue fazer tudo isto funcionar, naturalmente, como que por instinto. Alguém o está a guiar, $name. Se Deus ou um Rei Demónio, não consigo precisar.
+sadhu_7_enchantmenttable_1_listing=Preciso de construir uma mesa de encantamentos e no mínimo uma estante de livros próxima da mesa, a não mais de 10 metros da Árvore do Sadhu.
+sadhu_7_enchantmenttable_1_description_refuse=Permanecerei aqui até que mude de ideias, $name.
+
+sadhu_8_mountain_0_label=Exploração Montanhosa
+sadhu_8_mountain_0_description=Necessito de estudar esta mesa que construiu, e tentar perceber como funciona. Enquanto faço isso, tenho uma última tarefa de exploração para si, $name. Preciso que investigue uma cordilheira próxima. Nas minhas meditações, quase que consigo ver um padrão a formar-se, quase...
+sadhu_8_mountain_0_description_success=Não tenho dúvidas de que voltará a são e salvo, agora que compreendo o poder que há em si.
+sadhu_8_mountain_0_description_refuse=Permanecerei aqui até que mude de ideias, $name.
+sadhu_8_mountain_1_label=Relato dos Achados
+sadhu_8_mountain_1_description=Espero que tenha achado as montanhas tranquilas ao luar.
+sadhu_8_mountain_1_description_success=Então, desta vez foram aranhas que o incomodaram durante o seu passeio nocturno? Já as vi durante a noite, a vaguear à volta desta árvore. Mas que significarão elas? Porque estarão elas presentes até nas montanhas onde não se encaixam? É algo preocupante, ver criaturas que não pertencem aos locais onde vagueiam.
+sadhu_8_mountain_1_description_refuse=Permanecerei aqui até que mude de ideias, $name.
+sadhu_8_mountain_1_listing=Preciso de explorar uma montanha durante a noite tal como indicado pelo Sadhu.
+
+sadhu_9_underwater_0_label=O Grande Mergulho
+sadhu_9_underwater_0_description=Na noite passada, a Deusa falou-me e sussurou-me que deveria procurar mais profundo. Pensei bastante nessas palavras, e agora sei o que ela quis dizer: necessita de investigar as profundezas do mar.
+sadhu_9_underwater_0_description_success=Mergulhe, meu amigo, e diga-me o que existe nas profundezas.
+sadhu_9_underwater_0_description_refuse=Permanecerei aqui até que mude de ideias, $name.
+sadhu_9_underwater_1_label=Relato dos Achados
+sadhu_9_underwater_1_description=Então, o que há para ver tão fundo por baixo das ondas?
+sadhu_9_underwater_1_description_success=Diz que não encontrou vestígios de vida independentemente da profundidade... Nem peixes, nem plantas aquáticas? Terei de reflectir bastante sobre isto.
+sadhu_9_underwater_1_description_refuse=Permanecerei aqui até que mude de ideias, $name.
+sadhu_9_underwater_1_listing=Preciso de mergulhar até pelo menos 12 metros abaixo da superfície do mar.
+
+sadhu_10_underwaterglass_0_label=A Janela das Profundezas
+sadhu_10_underwaterglass_0_description=Reflecti bastante sobre as suas palavras, $name. Talvez não tenha mergulhado profundo o suficiente. Preciso que regresse ao mar e construa uma sala de observação o mais profundo que conseguir, a partir da qual poderá observar as profundezas em paz.
+sadhu_10_underwaterglass_0_description_success=Sei que este é um projecto difícil, mas acredito que a Deusa o dará a inspiração de que necessita para o completar.
+sadhu_10_underwaterglass_0_description_refuse=Permanecerei aqui até que mude de ideias, $name.
+sadhu_10_underwaterglass_1_label=Relato dos Achados
+sadhu_10_underwaterglass_1_description=O que viu você, onde nenhum homem foi até agora?
+sadhu_10_underwaterglass_1_description_success=Diz que o fundo do mar é um local infértil, sem vida para além daquelas lulas misteriosas. Não pode ser... Nenhum mar pode ser assim tão vazio, e como poderiam sobreviver tais animais sem qualquer alimento?<ret><ret> Deu-me bastante em que pensar, $name. Regresse mais tarde e talvez já tenha algumas respostas para si.
+sadhu_10_underwaterglass_1_description_refuse=Permanecerei aqui até que mude de ideias, $name.
+sadhu_10_underwaterglass_1_listing=Preciso de construir uma sala de observação com um telhado de vidro a pelo menos 15 metros abaixo da superfície do mar.
+
+sadhu_11_pujas_0_label=O Conhecimento e os Rituais
+sadhu_11_pujas_0_description=Enquanto explorava o oceano, foquei todos os meus pensamentos neste mistério que me deixou - a mesa de encantamentos. Esforcei-me para decifrar os livros e os segredos da construção da mesa em si, mas nada compreendi. Ainda assim, durante a minha meditação a sabedoria surgiu-me: a mesa e os livros não importam. Um homem prático como você necessita deles, um suporte material no qual se focar. Mas o poder não se encontra neles, mas sim dentro de si e no mundo que nos rodeia. E existem outras formas de cultivá-lo.<ret><ret>Creio que até um sacerdote numa aldeia poderá fazer algo semelhante, com treino adequado. Necessito que se desloque à aldeia Hindu mais próxima e leve este documento ao sacerdote. Com as orações que escrevi nele, o sacerdote será capaz de rezar aos deuses e abençoar qualquer ferramenta que lhe mostre, desde que lhe forneça as oferendas necessárias para os deuses, claro.
+sadhu_11_pujas_0_description_success=Não fui capaz de escrever orações de guerra, por isso ele apenas poderá abençoar ferramentas e não armas.
+sadhu_11_pujas_0_description_refuse=Permanecerei aqui até que mude de ideias, $name.
+sadhu_11_pujas_1_label=Regresso ao Sadhu
+sadhu_11_pujas_1_description=O sacerdote leu as orações?
+sadhu_11_pujas_1_description_success=Ainda bem que funcionou. Isto será útil para si, $name, e é bom saber que podemos mudar este mundo de novas maneiras nas quais nunca antes pensámos.
+sadhu_11_pujas_1_description_refuse=Permanecerei aqui até que mude de ideias, $name.
+sadhu_11_pujas_1_listing=Necessito de voltar ao Sadhu depois de falar com o sacerdote.
+
+sadhu_11b_pandit_0_label=Comunicar com o sacerdote
+sadhu_11b_pandit_0_description=Por que é que quererá o Sadhu que eu cante novas orações, quando toda a sabedoria se encontra nas antigas? Se não fosse um homem tão sagrado pensaria que passou demasiado tempo na floresta. No entanto, eu realizarei rituais com essas orações para si, se quiser. Venha ver-me no templo e traga a sua oferenda, a minha taxa e a ferramenta que pretende abençoar.
+sadhu_11b_pandit_0_description_success=Não se esqueça da minha taxa, caso queira que realize rituais para si.
+sadhu_11b_pandit_0_description_refuse=Como pode recusar a tarefa sagrada de ajudar o Sadhu?
+
+
+sadhu_12_topandbottom_0_label=Os Limites do Mundo
+sadhu_12_topandbottom_0_description=$name, esta é a última tarefa que tenho para si. Por via dos relatos de exploradores Hindus corajosos, sei que este mundo é vasto - durante os primeiros anos após a noite de fogo que nos trouxe até cá, muitos jovens aldeões Hindus caminharam até bem longe na esperança de encontrar margens conhecidas, em vão. Também nunca encontraram nenhuma montanha merecedora desse nome, algo que se pudesse comparar aos grandes Himalaias. Reflecti bastante, e veio-me isto à mente: o céu aqui aparenta ser tão vasto como o céu sobre as planícies do Ganges, mas as nuvens estão sempre baixas e nunca se vêem pássaros ou criaturas por cima delas. Será que não existe nada acima das nuvens? Será o céu uma ilusão? Preciso que vá e descubra por si mesmo o que há acima das nuvens.
+sadhu_12_topandbottom_0_description_success=Pode começar por escalar os ramos desta majestosa árvore se achar que o irá ajudar.
+sadhu_12_topandbottom_0_description_refuse=Permanecerei aqui até que mude de ideias, $name.
+sadhu_12_topandbottom_1_label=Relato dos Achados
+sadhu_12_topandbottom_1_description=O que encontrou você tão acima da terra, $name?
+sadhu_12_topandbottom_1_description_success=Diz que existe um limite, não maior do que a altura de noventa homens acima das águas do mar... Será este mundo uma caricatura do mundo real, criado por um demónio ou um deus? $name, preciso que me confirme algo. Necessita de confirmar se este mundo também é infinito para baixo, se a terra em que vivemos é apenas uma fina fatia de terra a flutuar no vazio.
+sadhu_12_topandbottom_1_description_refuse=Permanecerei aqui até que mude de ideias, $name.
+sadhu_12_topandbottom_1_listing=Preciso de subir o mais alto possível até ao céu e relatar os achados ao Sadhu.
+sadhu_12_topandbottom_2_label=Relato dos Achados
+sadhu_12_topandbottom_2_description=O que encontrou você nas profundezas da terra, meu digno explorador?
+sadhu_12_topandbottom_2_description_success=Diz que encontrou pedras demasiado duras para se partirem e que não conseguiu ir mais profundo. E diz que foi a uma altura de trinta homens abaixo da superfície. Há demasiada simetria a operar aqui, $name. Não pode ser, e ainda assim, é.<ret><ret>Não tenho mais tarefas para si por agora. Preciso de reflectir, meditar e rezar por orientação até conseguir compreender tudo isto. Regresse daqui a algum tempo e dar-lhe-ei os resultados das minhas reflexões, se Ganesh me inspirar.
+sadhu_12_topandbottom_2_description_refuse=Permanecerei aqui até que mude de ideias, $name.
+sadhu_12_topandbottom_2_listing=Preciso de cavar o mais profundo possível e relatar os achados ao Sadhu.
+
+
+sadhu_13_conclusion_0_label=O Livro do Sadhu
+sadhu_13_conclusion_0_description=Jejuei e rezei por orientação, e os Deuses sussurraram-na aos meus ouvidos. Mas não sou digno de descobrir a verdade, apenas de observar algumas partes da mesma.<ret><ret>$name, estou demasiado cansado para falar agora. Tomei nota das minhas reflexões neste pergaminho. Leve-o e tenha a minha bênção na sua jornada para obter a sabedoria, pois não creio que possa fazer mais por si de momento. Vai precisr de mais sabedoria do que um velho Sadhu alguma vez lhe possa trazer.
+sadhu_13_conclusion_0_description_success=Escrevi este pergaminho na sagrada língua Sânscrita, que hoje em dia apenas alguns sacerdotes conseguem compreender. Mas por algum motivo achei que fosse capaz de o ler. A Deusa sussurra ao seu ouvido, ainda que não a consiga ouvir.
+sadhu_13_conclusion_0_description_refuse=Manterei este livro comigo até que mude de ideias.
+
+sadhu_leadership_0_label=A Liderança
+sadhu_leadership_0_description=Ouvi falar da sua ambição em tornar-se líder de um grupo de aldeões Hindus para fundar a sua própria aldeia. $name, depois de tudo o que fez por mim, estou convicto da sua honradez. Se o quiser executar, terá a minha bênção nesse projecto.
+sadhu_leadership_0_description_success=Rezarei pelo seu sucesso. Boa sorte, $name.
+sadhu_leadership_0_description_refuse=Prefere então focar-se na procura da verdade? Essa é uma decisão sábia. Mas se algum dia mudar de ideias, fale comigo.

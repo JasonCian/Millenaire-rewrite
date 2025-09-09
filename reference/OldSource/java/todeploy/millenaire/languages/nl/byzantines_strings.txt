@@ -1,0 +1,57 @@
+culture.byzantines=Byzantijns
+
+//Norman:
+villager.teenagerMale=Jongere
+villager.teenagerFemale=Jongere
+villager.boy_byzantine=Jongen
+villager.girl_byzantine=Meisje
+villager.farmiller_byzantine=Molenaar
+villager.farmiller_wife_byzantine=Molenaars vrouw
+villager.wife_byzantine=Vrouw
+villager.miner_byzantine=Mijnwerker
+villager.artisan_byzantine=Handwerker
+villager.patriarch_byzantine=Grondlegger
+villager.lumberman_byzantine=Houthakker
+villager.shepherd_byzantine=Herder
+villager.shepherd_female_byzantine=Herder
+villager.fisherman_byzantine=Visser
+villager.baron_byzantine=Baron
+villager.richwife_byzantine=Rijke vrouw
+villager.merchant_norman=Normaanse handelaar
+villager.merchant_hindi=Indiase handelaar
+villager.merchant_mayan=Mayua handelaar
+villager.merchant_japanese=Japanse handelaar
+villager.centurio_byzantine=Centurion
+villager.soldier_byzantine=Soldaat
+villager.playersoldier_byzantine=Soldaat
+villager.smith_byzantine=Smid
+villager.merchant_byzantine=Handelaar
+villager.pastor_byzantine=Pastoor
+villager.artwife_byzantine=Handwerkers vrouw
+villager.architect_byzantine=Architect
+villager.keeperOak_byzantine=Bewaker
+villager.keeperBirch_byzantine= Bewaker
+villager.keeperTropical_byzantine= Bewaker
+villager.keeperPine_byzantine= Bewaker
+
+villager.loneshepherd_byzantine=Herder
+villager.loneshepherdf_byzantine=Herderin
+villager.keeper_byzantine=Vuurtorenwachter
+villager.silkfarmer_byzantine=Zijde wever
+villager.silkfarmerwife_byzantine=Zijde wever
+villager.smuggler_silk=Zijdehandelaar
+villager.merchant_art=Kunsthandelaar
+villager.merchant_food=Voedselhandelaar
+villager.merchant_materials=Steen handelaar
+villager.armysmith_byzantine=Legersmod
+
+shop.townhall=Centrale winkel
+shop.forge=Werktuigen, wapens en pantsers
+shop.lonetower=Voedsel
+shop.tavernbyz=Wijn
+shop.lonesheep=Wol
+shop.armyforge=Werktuigen, wapens en pantser
+shop.bakery=Bakkerij
+shop.fishery=Vis
+shop.sheepfarm=Lam, leer en feta
+shop.clothing=Kleding

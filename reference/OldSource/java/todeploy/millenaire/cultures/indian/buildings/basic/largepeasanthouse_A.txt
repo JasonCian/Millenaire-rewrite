@@ -1,0 +1,28 @@
+//Parameters for the building as a whole
+building.length=15
+building.width=15
+building.buildingorientation=3
+building.icon=steelshovel
+building.version=2
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Bhare Ghar
+initial.priority=800
+initial.male=indian_peasant
+initial.female=indian_peasantwife
+
+//Parameters for specific upgrades
+upgrade1.priority=200
+
+upgrade2.priority=100
+upgrade2.subbuilding=largepeasanthouse_A_secondary
+upgrade2.rebuildpath=true
+upgrade2.tag=chicken
+upgrade2.tag=oven
+
+upgrade3.priority=80
+upgrade3.rebuildpath=false
+
+upgrade4.priority=85
+

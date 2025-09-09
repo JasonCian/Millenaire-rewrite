@@ -1,0 +1,56 @@
+
+villager.greeting=Ola, $name-ji! / Hallo, $name-ji!
+villager.greeting=U- ka'an yam k'iinal behla'e'. / Luften er varm i dag.
+villager.greeting=Biix men u- pixan ts'aakik teech? / Hvordan behandler åndene deg?
+villager.greeting=Ba'ax tumben? / Hva er nytt?
+villager.greeting=Biix yam teech pamilya? / Hvordan går det med familien din?
+villager.greeting=Pixan tuuxtik gnat k'aaxal. / Ånder, send oss regn.
+villager.greeting=Tu'ux yam teech lu'um? / Hvor er ditt land?
+mayan_shaman.greeting=Ts'aakik tal teech. / Måtte åndene beskytte deg.
+
+villager.gorest=He'lel bisik na. / Søvnen tar overhå.
+villager.gorest=Ichil chuy ti wenel beora. / Jeg må sove nå.
+villager.gorest=Yaaawn. / Gjeesp.
+
+villager.gopray=Pixan taka gnat ichil k'a'am hoch. / Jeg håper at åndene sender oss en sterk innhøsting.
+villager.gopray=Pixan an gnat. / Måtte åndene hjelpe oss.
+
+villager.BringBackResourcesHome=Ichil chuy ti yaab se'es ti kuch. / Jeg må bære alt dette treverket.
+villager.ChopTrees=Ya'ul pak. / På tide å hogge trær.
+villager.GatherGoods=Ichil chuk u- se'es sut otoch. / Jeg tar med alt treverket tilbake.
+villager.PlantSaplings=Ichil tz'ap tulakal he'-la -che'. / Jeg planter alle disse trærne.
+
+//villager.DryBrick=To'on k'ab'eet tunich ti b'et ki- otoch. / Vi trenger stein for å lage hjemmene våre.
+//villager.GatherBrick=Ichil kuch ti yaab tunich. / Jeg bærer disse steinene.
+//villager.CookBrick=A'-la yam k'a'am tunich. / Dette er robust stein.
+villager.PlantMaize=K'aaxal tuuxtik gnat ichil k'a'am hoch. / Regnet sender oss sterke avlinger.
+villager.HarvestMaize=Ki' k'aaxal ki' hoch. / Godt med regn, godt med innhøsting.
+villager.PlantTurmeric=Yooch men u- han-ha. / Krydder lager maten.
+villager.HarvestTurmeric=A'-la yooch hoch si muk' ti han-ha. / Disse krydderavlingene gir styrke til maten.
+villager.SlaughterChicken=Ah kax si gnat b'ak'. / Kyllinger gir oss kjøtt.
+
+villager.GetHouseResources=Ichil chik nah yam ichil utz nah. / Et rent hus er et godt hus.
+villager.GetGoodsHousold=Ichil k'ab'eet he'-la a-d'a'ax-tak k'am- otoch. / Jeg trenger å få disse tingene hjem.
+villager.DeliverGoodsHousold=Ti yaab han-ha ti kuch. / Jeg tar med matvarer tilbake til hjemmet.
+villager.makeRasgulla=In-wah mo'nol pall yam k'oh. / Mitt lille barn er sykt.
+
+
+villager.GetResourcesForBuild=Yaab' ti- yaab' tunich. / Jeg kommer til å trenge mye stein.
+villager.ConstructionStepByStep=Meyah meyah meyah. / Jobb, jobb, jobb.
+villager.ConstructionStepByStep=Ichil k'ab'eet ichil k'a'am et-meyah. / Jeg trenger en sterk medarbeider.
+
+villager.GoPlay=Ichil kolom uk chun su'uk. / Jeg leker i gresset.
+villager.BecomeAdult=La la la la.
+male.BecomeAdult=Ichil k'a't ti tz'ak-b' ha ah tz'on. / Jeg vil bli en jeger.
+female.BecomeAdult=Ichil k'a't ha ichki. / Jeg vil ha meg en mann.
+
+villager.gopray.chosen=Ichil t'an u- orasion. / Jeg taler bønnen.
+mayan_shaman.gopray.chosen=U- orasion tal teech / Bønnen vil beskytte deg.
+
+villager.calltoarms=U- k'in yam in-ti'a'al! / Dagen er min!
+villager.calltoarms=Kin-s-ab u- k'as hun. / Drep den slemme!
+villager.calltoarms=Ti k'ab! / Til våpen!
+
+villager.MakeTools=Man in-wah a'-b'a'ax. / Kjøp ting av meg.
+villager.MakeWeapons=U- k'ab wa'yeh nik k'a'am. / Våpnene her er sterke.
+villager.ScultMayan=P'e k'in ichil k'am ti b'om. / En dag vil jeg male.

@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:stone_sword"
+        },
+        "title": {
+            "translate": "advancements.darkside.name"
+        },
+        "description": {
+            "translate": "advancements.darkside.desc"
+        }
+    },
+    "parent": "millenaire:selfdefense",
+    "criteria": {
+        "darkside": {
+            "trigger": "darkside"
+        }
+    }
+}

@@ -1,0 +1,1 @@
+native:Shoko;gameNameKey:japanesearchive_A0;sign:10-50;tag:archives;radius:10

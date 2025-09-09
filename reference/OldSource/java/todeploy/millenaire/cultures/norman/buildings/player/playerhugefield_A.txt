@@ -1,0 +1,17 @@
+//Parameters for the building as a whole
+building.length=18
+building.width=18
+building.areatoclear=5
+building.buildingorientation=2
+building.max=0
+building.reputation=32768
+building.price=2048
+building.icon=fence_oak
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Très grand terrain
+initial.priority=1000000
+initial.pathlevel=2
+

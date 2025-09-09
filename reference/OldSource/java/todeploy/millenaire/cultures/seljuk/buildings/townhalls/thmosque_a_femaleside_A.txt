@@ -1,0 +1,12 @@
+building.length=20
+building.width=17
+building.fixedorientation=south
+building.issubbuilding=true
+building.max=0
+building.parentbuildingplan=mosque_A0
+
+building.icon=book
+
+initial.startlevel=-6
+initial.nativename=Kadınlar Mesciti
+initial.tag=mosquefemaleside

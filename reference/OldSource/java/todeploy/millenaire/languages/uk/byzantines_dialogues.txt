@@ -1,0 +1,430 @@
+newchat;key:sun,tag:notraining,weigth:10
+1; 0; Agapo ilióloustes méres! / Я люблю сонячні дні!
+v2; 30; Poios den échei? / А хто не любить?
+
+newchat; key: nicevillage, weigth: 10
+v1; 0; Eínai pánta mia efcharístisi na doúme oraío chorió mas, étsi den eínai? / Завжди приємно бачити нашу славну сільце, чи не так?
+v2; 30; Fysiká, kai eínai óla lógo ton terástion prospatheión mas! / Звичайно, і це все тому, що це наші величезні зусилля!
+
+newchat; key: harvest, weigth: 10
+v1; 0; sitári afxánetai polý kalá aftí ti chroniá, étsi eínai ta stafýlia, kathos kai. Lampro, den eínai? / Пшениця росте дуже добре в цьому році, як і виноград. Блискуче, чи не так?
+v2; 30; Nai, faínetai étsi: Échoume to períergo kairo edo na efcharistíso. / Так, здається, так: У нас дивна погода для подяки.
+v1; 60; Akoma kai an afto den échei kanéna noima gia ména! / Навіть, якщо вона не має ніякого сенсу для мене!
+
+newchat; key: lightning, weigth: 7
+v1; 0; Thymáste tin kataigída pou eíchame? Thélo na po to pragmatiká varý! / Ти пам'ятаєш, яка у нас була гроза? Я маю на увазі одну дуже сильну!
+v2; 30; Fysiká. Schedon katastráfike synkomidí mas. I fýsi eínai arketá entyposiako, e? / Звичайно. Вона майже зруйнувала наш урожай. Природа вражає, так?
+v1; 60; Entyposiakí eínai éna prágma. Allá ímoun schedon chtypíthike apo keravno! / Вражає одна справа. Але в мене мало не потрапила блискавка!
+v2; 100; Den ítan mésa sto spíti sas? Xérete oti eínai epikíndyno éxo katá ti diárkeia mias kataigídas! / Ти був не вдома? Ти ж знаєш, що це небезпечно бути зовні під час шторму!
+v1; 120; Zontaná kai na máthoun. / Жити і вчитися.
+
+newchat; key: lightningPig, weigth: 1, v1: adult, v2: adult
+v1; 0; Ego den aisthánomai kalá ... / Я погано себе почуваю ...
+v2; 30; Ti tréchei me séna? Eísai árrostos? / Що з тобою не так? Ти захворів?
+v1; 60; Ochi, ego jj-molis thymíthike kápoia ora-na symveí. / Ні, Я про-осто згадав, що про-оізошло.
+v2; 100; Boreíte íchou pragmatiká epireázontai. Eíste sígouroi oti den eínai árrostos? / Ти кажеш дійсно дивно. Ти впевнений, що ти не захворів?
+v1; 120; N-ochi, ego aplá f-aisthánontai fovisménoi. / Не-ет, я проосто переляканий.
+v2; 150; Ti synévi loipon? / Так що ж трапилося?
+v1; 180; Katá ti diárkeia tis l-teleftaía kataigída. Perpátisa éxo apo to chorio-vv, íxera oti den boroúsa na páro píso sto chorio prin apo tin kataigída. Gi 'afto kai krýftike káto apo éna déntro. / Під час по-останнє грози. Я йшов за межами де-еревні, я знав, що не можу повернутися в село до бурі. Тому я сховався за деревом.
+v2; 210; Tha diakindýneve ti zoí sas éxo apo to chorio! Tha boroúse na eíche pethánei! / Ти ризикував своїм життям за межами села! Ти міг загинути!
+v1; 240; Loipon, ímoun asfalís. Sti synécheia, omos eída éna gouroúni. I lighning chtýpise. Kai oi nekroí p-gouroúni ... I-afto sikothike kai kiníthike l-san ki emás, ch-kynigoún eména me éna lampero sw-spathí! / Ну, я був у безпеці. Але потім я побачив свинку. Блискавка вдарила її. І мертва хрю-юшка ... Вона встала і пішла як ми, як ми переслідувала мене з блискучим мечем!
+v2; 290; Tha eínai anoisíes. Tha prépei na ítan énas efiáltis. / Ти кажеш дурниці. Це має бути був кошмар.
+v1; 320; Ítan alítheia! Sosto! Sosto! Sosto! / Це ​​правда! Правда! Правда! Правда!
+v2; 350; Eíste treloí. Pigaínete na párete lígo krasí, kai na iremísoun. / Ти збожеволів. Випий трохи вина і заспокойся.
+v1; 380; Tha d-kánoume afto. Boreí-Ísos afto tha voithísei. / Я зро-елаю це. Мо-ожет це допоможе.
+
+newchat; key: souvlaki, v1: adult, v2: adult, v1: male, v2: female, weigth: 10
+v1; 0; Ach ... Souvláki, to éna kai monadiko fagito! / Ах ... Сувлаки, єдина їжа!
+v2; 30; An oi ándres den échoun trofí mas-kánei tis gynaíkes ... / Якби у вас чоловіків не було б жінок, які говят їжу ...
+v1; 60; Tha kánoun to fagito tous eaftoús mas! / Ми робили б їжу самі!
+v2; 100; Alítheia? Pos gínetai kai páli souvláki? / Правда? Як Сувлаки готуються?
+v1; 130; Err ... Vázete ta psária, ochi, païdákia sto foúrno, tote ... / Еее ... Ви кладете рибу, немає, баранячі відбивні в піч, потім ...
+v2; 190; ... vázeis me kápoion féta se éna ravdí. Den boreíte pragmatiká na mageirépsoun! / ... Ти поміщати це з деякою кількістю сиру "Фета" на паличку. Ти дійсне не вмієш готувати!
+
+newchat; key: loneVillage, weigth: 10
+v1; 0; Vareto. ola eínai pánta to ídio edo. / Нудно. Тут, все завжди теж саме.
+v2; 30; Touláchiston eínai eirinikí. / Принаймні тут мирно.
+v1; 60; Típota idiaítero gia éna apomakrysméno chorio san ti dikí mas! / Нічого особливого в глухий села, як наша!
+
+newchat; key: city, v1: adult, v2: adult, weigth: 2
+v1; 0; Otan ímoun mikros, íthela na eínai énas exerevnitís, na anakalýpsoun néa edáfi kai na pliroún endiaférontes néous anthropous. Allá tora? Eímai kollísei se afto to apomakrysméno chorioudáki. Thélo na páo kai na episkeftheíte néa méri. / Коли я був молодим я хотів стати дослідником, щоб відкривати нові землі і зустрічати нових цікавих людей. Але зараз? Я застряг в цій глухому селі. Я хочу йти і відвідувати нові місця.
+v2; 30; Allá den tha vreíte megáli diaforá sto állo chorio. Eímaste oloi lígo polý to ídio. / Але ти не знайдеш різниці в іншого села. Ми всі дуже сильно схожі.
+v1; 60; Den milo gia ta choriá. Milo gia tis poleis, í akoma kai i poli! / Я говорю не про селах. Я кажу про міста, або навіть про великому місті!
+v2; 90; I poli? Ennoeís Konstantinoúpoli? / Большой город? Ти маєш на увазі Константинополь?
+v1; 120; Nai! To kéntro tis éndoxis aftokratorías mas. Eínai to thávma tou kosmou. / Так! Центр нашої славної імперії. Це чудо світу.
+v1; 150; Ypárchoun perissoteroi apo 500000 ánthropoi pou zoun ekeí, boreíte na imangine afto?! / Там живе більше 500 000 людей, ти можеш собі це уявити?!
+v2; 180; Akoúgetai adýnato gia ména. 500000 ánthropoi se éna méros? / Звучить неможливо для мене. 500000 людей в одному місці? Продовжую мріяти!
+
+newchat; key: wine, v1: adult, v2: adult, v1: male, v2: male, weigth: 10
+v1; 0; Min pieíte krasí mono! / Не пий вино на самоті!
+v2; 30; Posimou mazí eínai pio diaskedastiko! / Пити разом веселіше!
+v1; 50; Cheers gia to krasí! / Ваше здоров'я!
+v2; 70; Cheers! / Ваше здоров'я!
+
+newchat;key:boyvillagechief,v1:child,v1:vtype:baron_byzantine-centurio_byzantine-metropolit_byzantine,v1:male,weigth:5
+v1; 0; Tha eímai o archigos tou chorioú argotera, oldie! / Я стану главою села, дідок!
+v2; 30; Min eísai toso thrasýs, agoráki. Í tha párei éna chastoúki! / Не будь таким нахабним, хлопчик. Або отримаєш ляпаса!
+v1; 60; Kai ego tha sas párei sti synécheia chastoúkise! / Тоді і я дам тобі ляпас!
+v2; 80; * chastoúkia * / * Ляпас *
+v1; 85; Och, afto ponáei! / Ауч, це боляче!
+v2; 105; Ísos échete máthei káti! / Може ти навчився чогось!
+
+newchat; key: kids1, v1: child, v2: child, notrel: sibling, weigth: 10
+v1; 0; O bampás mou eínai ischyroteri apo ti dikí sas. / Мій тато сильніше, ніж твій!
+v2; 30; Ochi! O bampás mou eínai i ischyroteri sto chorio! / НІ! Мій тато найсильніший в селі!
+v1; 60; Ochi! O bampás mou eínai o ischyroteros stin aftokratoría! / НІ! Мій тато сильніше всіх в імперії!
+v2; 90; Impossible! O bampás mou eínai i ischyroteri ston kosmo! / Неможливо! Мій тато сильніше всіх у всьому світі!
+v1; 120; Sígoura o bampás mou tha boroúse na nikísei dikí sas se ligotero apo dýo chtypímata! / Б'юся об заклад мій тато може побити твого менше, ніж за два удари!
+v2; 150; Párte ton bampá sas étoimos gia énan agona! / Нехай твій тато готується до бою!
+
+newchat; key: kids2, v1: child, v1: male, v2: child, v2: female, weigth: 10
+v1; 0; Korítsia eínai ilíthioi. / Девчонки дурні.
+
+newchat; key: kids3, v2: child, v2: male, v1: child, v1: female, weigth: 10
+v1; 0; Échete dei pouthená koúkla mou? Den boro na to vro ... / Ти де-небудь бачив мою ляльку? Не можу знайти її ...
+v2; 30; Dose mou píso to spathí mou kai tha to párei píso! / Віддай мій меч і я віддам тобі ляльку!
+v3; 60; Boreíte na to éklepse! Kléftis! / Ти вкрав її! Злодій!
+
+newchat; key: clothes1, v1: adult, v1: female, v2: adult, v2: female, weigth: 10
+v1; 0; Écheis dei kainoúrgia roúcha mou? / Ти бачила мою нову одяг?
+v2; 30; Eíste mia pragmatikí omorfiá agapité mou. o, ti tairiázei! / Ти справжня красуня моя дорога. Тобі все йде!
+v1; 60; Allá den eímai toso omorfi oso boreíte! / Але я не така гарна як ти!
+v2; 90; Ohh afto den eínai alítheia, $ targetfirstname! / Ох це не так, $ targetfirstname!
+
+newchat; key: clothes2, v1: adult, v1: female, v2: adult, v2: female, weigth: 1
+v1; 0; Échete dei néa roúcha mou? / Ти бачила мою нову одяг?
+v2; 30; Eíste mia omorfiá. o, ti tairiázei, agapité $ targetfirstname mou! / Ти красуня. Тобі все йде, моя дорога $ targetfirstname!
+v1; 60; Allá den eímai toso omorfi oso boreíte! / Але я не така гарна як ти!
+v2; 90; Правда.
+v1; 100;!
+
+newchat; key: clothes3, v1: adult, v1: female, v2: adult, v2: male, weigth: 5
+v1; 0; Écheis dei kainoúrgia roúcha mou, $ targetfirstname? / Ти бачив мою нову одежу, $ targetfirstname?
+v2; 30; Nomízo oti paliá roúcha sas fainotan polý kalýtera gia esás. / Я думаю старий одяг виглядала краще на тобі.
+v1; 60; TI? / ЩО?
+v2; 70; Ochi. ochi! Eíste omorfi! Mou arései afto to néo ... prágmata! / Ні .. Ні! Ти красуня! Мені подобається цей новий ... матеріал!
+
+newchat; key: clothes4, v1: adult, v1: female, v2: adult, v2: male, weigth: 5
+v1; 0; Étsi den tha arései to néo mou forema? / Так тобі подобається моє нове плаття?
+v2; 30; I paliá sas tairiázei kalýtera. / Старе підходило тобі краще.
+v1; 60; TI? / ЩО?
+v2; 70; Hey $ targetfirstname, eínai aplá i gnomi mou. / Гей $ targetfirstname, це лише моя думка.
+v1; 90; Touláchiston eísai eilikrinís! / Принаймні ти чесний!
+
+newchat; key: girl, v1: adult, v1: female, v2: child, v2: male, rel: parent, weigth: 5
+v2; 0; Ti prépei na kánete otan sas arései éna korítsi? / Що робиш коли тобі подобається дівчинка?
+v1; 30; Kánte kompliménta tis kai eínai oraío na tis. / Роблю їй компліменти і намагаюся бути хорошим для неї.
+v2; 60; Ochi! Afto eínai adýnaton! Poies tha eínai oi álloi skéftontai gia ména tote? / НІ! Це неможливо! Що інші подумають про мене?
+v1; 90; An agapoúse pragmatiká, den tha noiázontai gia tous állous. / Якщо ти її дійсно любиш тебе не будуть турбувати інші.
+
+newchat; key: householdTry, v1: adult, v1: female, v2: child, v2: female, rel: parent, weigth: 10
+v1; 0; Írthe i ora na sas didáxei pos na frontísei éna spíti. / Прийшов час навчити тебе як піклуватися про дім.
+v2; 30; Megáli, ti échoume archísei me? Boro na káno souvláki? Pleaaase! / Відмінно із чого почнемо? Я можу зробити сувлаки? Будь ласка!
+v1; 60; As doúme poso kaloí eíste sto na kánei ton katharismo prota. / Спочатку давай подивимося яка ти в прибиранні.
+v2; 90; Entáxei, allá tha mou deíxei pos na kánei souvláki argotera, yposchéthike? / Добре, але ти покажеш мені як готовоть сувлаки пізніше, обіцяєш?
+v1; 120; Yposchetheí. / Обіцяю.
+
+newchat; key: doll, v1: adult, v1: male, v2: child, v2: female, rel: parent, weigth: 5
+v2; 0; Boreís na mou agorásei afto to néo koúkla? O kathénas échei éna néo, allá ego ... / Можеш купити мені цю нову ляльку? У кожного є нова але у мене ...
+v1; 30; Poia eínai i magikí léxi? / Яке чарівне слово?
+v2; 60; Boreíte sas parakalo na mou agorásei mia néa koúkla? / Можеш ЛАСКА купити мені цю нову ляльку?
+v1; 90; Entáxei, allá tha prépei na min yposchontai na milísoume pia píso! / Добре, але обіцяй більше про це не розмовляти!
+v2; 120; Yposchetheí. / Обіцяю!
+
+newchat; key: woodSword, v1: adult, v1: male, v2: child, v2: male, rel: parent, weigth: 5
+v2; 0; Ауч ...
+v1; 30; Eísai foverí! Ti synévi? / Ти виглядаєш жахливо! Що трапилося?
+v2; 60; Loipon, o kathénas échei éna xýlino spathí, allá eména. / Майже у кожного є дерев'яний меч, але у мене.
+v2; 80; Étsi apofásisan na mou epitethoún! / Тому вони вирішили напасти на мене!
+v2; 100; Tha prépei na páro éna, pára polý! / Ти повинен дати мені один!
+v1; 120; Vlépo échete chrisimopoiísei chroma gia ta simádia kai tis pligés sou. Kalí prospátheia! / Я бачу ти використовував фарби для своїх шрамів і ран. Хороша спроба!
+v2; 150; Télos pánton! Parakalo na mou dosete éna spathí! / У будь-якому разі! Будь ласка дай мені меч!
+v1; 180; Spathí eínai epikíndynes. Den xífos gia séna! / Мечі небезпечні. Ні меча для тебе!
+
+newchat; key: pride1, v1: adult, v1: male, v2: adult, v2: male, v1: vtype: architect_byzantine, weigth: 3
+v1; 0; Ktíria mas eínai toso omorfo pou eínai pánta megáli gia na deíte to érgo mas! / Наші будівлі красиві як завжди приємно бачити нашу роботу!
+v2; 30; Oi Mágia théloun na dimiourgísoun polý oraía domés, kathos kai. / Травня теж будують гарні структури.
+v1; 60; Min me enochloún me tétoia weirdos. Ta ktíriá mas faínontai polý kalýtera! / Чи не дратуй мене з цією купкою диваків. Наші будівлі виглядають набагато краще!
+v2; 90; Loipon ... / Щож ...
+v1; 100; Prodoti! Écheis kamía ethnikí yperifáneia? / Зрадник! У тебе немає національної гордості?
+
+newchat; key: pride2, weigth: 10
+v1; 0; Emeís oi Romaíoi boreí na eínai pragmatiká yperífanoi gia osa échoume petýchei! / Ми Римляни повинні бути горді тим, чого ми добилися!
+v2; 30; Fysiká! o, ti égine deíte apo emás! / Звичайно! Все що ти видешь зроблено нами!
+v1; 60; I pio ischyrí aftokratoría stin istoría tou kosmou! / Найпотужніша імперія у світовій історії!
+v2; 90; Álla éthni tha apoláfsete se doxa mas. / Інші народи будуть грітися в нашій славі.
+v1; 120; Tha prépei na! Eímaste oi kyríarchoi! / Вони повинні! Ми правителі!
+
+newchat; key: pride3, weigth: 10
+v1; 0; I romaïkí aftokratoría tha kyvernísei ton kosmo gia álli mia forá! / Римська імперія буде правити світом ще раз!
+v2; 30; Emeís tha! / Ми будемо!
+v1; 60; Ola tha eínai kalýtera sti synécheia! / Все буде краще, ніж зараз!
+v2; 90; Nai! / ТАК!
+v1; 100; Cheers gia tin aftokratoría! / Ваше здоров'я імперія!
+v2; 110; Cheers! / Ваше здоров'я!
+
+newchat; key: rain, tag: notraining, weigth: 10
+v1; 0; Tha vréxei. Sýntoma. / Буде дощ. Скоро.
+v2; 30; Boro na aisthánomai, pára polý. / Я теж можу відчувати це.
+v1; 60; Períergo. Eínai pánta i ídia posotita iméres méchri vréchei. / Дивно. Завжди проходить одне і теж кількість днів до дощу.
+v2; 100; Nomízete oti étsi, pára polý? / Ти думаєш так само?
+v2; 125; Períergo zoí edo, étsi den eínai? / Дивне життя тут, чи не так?
+v1; 155; Sígoura! / Точно!
+
+newchat; key: weird1, v2: child, weigth: 1
+v1; 0; Koíta afto to gouroúni! Eínai charitoméno, étsi den eínai? / Подивися на цю свинку! Це мило, чи не так?
+v2; 30; WAAAaaah, fýge! / Ваааа йди!
+v1; 60; Fovásai ton choíron? / Ти злякався хрюшек?
+v2; 80; N-ochi! Den eímai! / Не-ет! Я не!
+v1; 110; Hahahahahaha! Tora afto eínai asteío! / Ахахахахаха! Тепер смішно!
+
+newchat; key: weird2, weigth: 1
+v2; 0; Aaa ... Kalí souvláki. Thélete mia boukiá? / Ах ... Хороші сувлаки. Хочете перекусити?
+v1; 30; * Bites * / * ням-ням-ням *
+v1; 40; Sas efcharisto! Agapo souvláki. / Дякую! Я люблю сувлаки.
+v2; 70; Poios den! / Хто їх не любить!
+v1; 100; Échete poté prospathísei na thései kápoia vromiá gia souvláki? / Ти коли-небудь Пробував додати трохи землі в сувлаки?
+v2; 140; ...
+v2; 150; Ochi? / Ні?
+v1; 170; Merikés forés káno ... Ach .. ola xekínisan otan souvláki mou épese sto édafos pérysi ... Delicous! / Іноді ... Ех .. Все почалося, коли мій сувлаки впав на землю в минулому році ... Дуже смачно!
+v2; 220; Periménete! Vázete souvláki sas sti vromiá kai sti synécheia na to fáte? Ti sto diáolo ..? / Стій! Ти впустив сувлаки на землю, а потім з'їв? Що за чорт ..?
+v1; 260; Allá kalo goústo! / Але це смачно!
+v2; 280; Eíste pragmatiká trelos. / Ти дійсно збожеволів.
+
+newchat; key: weird3, weigth: 1
+v1; 0; Thélo na odigíso éna gouroúni! / Я хочу поїздити на свині!
+v2; 30; Giatí? / Навіщо?
+v1; 60; Eínai diaskedastiko! / Це ​​весело!
+v2; 80; Giatí sto kalo tha odigíso éna gouroúni? / Якого біса ви ездиет на свині?
+v1; 110; Epeidí eínai diaskédasi! / Тому що це весело!
+v2; 120; Eísai trelos. / Ти збожеволів.
+
+newchat; key: chatter1, v1: female, v2: female, v1: adult, v2: adult, weigth: 15
+v1; 0; Échete ídi akoúsei gia to mystiko tou xylokopos tou? / Ви вже чули про секрет лісоруба?
+v2; 30; Ochi, ti eínai láthos me afton? / Ні, що з ним не так?
+v1; 60; Faínetai na syllégoun ta míla, kai ta poloún stous Normandoús! / Він здається збирає яблука і продає їх норманам!
+v2; 90; No way! Kai kratá ta chrímata? / Ні в якому разі! І він отримує гроші?
+v1; 120; Fysiká! / Звичайно!
+
+newchat; key: chatter2, v1: female, v2: female, v1: adult, v2: adult, weigth: 15
+v1; 0; O sýzygos mou eípe oti énas varonos tha episkeftheí to chorio mas sýntoma! / Мій чоловік сказав, що наше село скоро відвідає барон!
+v2; 30; Giatí tha prépei na échei érthei edo? / Навіщо він повинен сюди приїхати?
+v2; 40; Éna tétoio ischyro, ischyros kai omorfos ántras ... / Такий могутній, сильний і красивий чоловік ...
+v1; 70; Ti? Boreíte na tous arései? / Що? Він тобі подобається?
+v2; 100; Tha prépei na paradechto oti eínai elkystikí! / Ви повинні визнати, що він привабливий!
+
+newchat; key: chatter3, v1: female, v2: female, v1: adult, v2: adult, v1: hasspouse, v2: hasspouse, weigth: 15
+v1; 0; Ypárchei mia chalarí gynaíka sto geitoniko chorio! / У сусідній села є вільна жінка!
+v1; 20; Sýmfona me tous ischyrismoús, akomi kai oi ándres tou chorioú mas échoun páei ekeí! / Нібито, навіть чоловіки з нашого села пішли туди!
+v2; 60; Kako eidíseis! Écho na amfisvitísei ton ántra mou! / Жахлива новина! У запитаю мого чоловіка!
+v1; 90; Mine faínetai na eínai athoos. Den eíste sígouroi gia to diko sas, agapité mou! / Мій здається невинним. Не впевнена щодо твого, моя дорога!
+v2; 120; Elpízo na eínai toso kalá. Échei kalýtera. / Я сподіваюся, що він теж. Він може найкраще.
+
+newchat; key: chatter4, v1: female, v2: female, v1: adult, v2: adult,, v1: hasspouse, weigth: 15
+v1; 0; Mou arései na vlépo paidiá na paízoun! / Я люблю дивитися як грають діти!
+v1; 20; Tha me kánei pánta na théloun na échoun éna moro! / Це ​​завжди змушує мене хотіти дитини!
+v2; 50; Eíste sígouroi oti eíste se thési na to antéxoun oikonomiká? / Ви впевнені, що ти в змозі собі це дозволити?
+v2; 70; Ta paidiá eínai akrivá! / Діти дорогі!
+v1; 100; Den anisycheí edo! O ánthropos mou échei perissotero apo arketá chrímata. / Не турбуйтеся про це! Мій чоловік має більш ніж достатньо грошей.
+
+newchat; key: chatter5, v1: female, v2: female, v1: adult, v2: adult, v2: hasspouse, weigth: 15
+v1; 0; Agapité mou, o ánthropos sas eínai énas méthysos! / Моя дорога твій чоловік п'яниця!
+v2; 15; Pos boreís na to les afto? / Як ти могла таке сказати?
+v1; 45; Sýzygos sas írthe methysménos sto spíti mas chthes to vrády! / Твій чоловік прийшов п'яний в наш будинок вчора ввечері!
+v1; 70; Eípe oti thélei na pantrefteí éna provato. / Він сказав, що хоче одружитися на овець.
+v1; 100; Kai oti tha ypárxei mia terástia celebretion gámo! / І що буде величезна святкування весілля!
+v1; 130; Parakaloúme, anaktísei ton élencho páno apo to átomo sas. / Будь ласка, встанови контроль над своїм чоловіком.
+v1; 150; Eínai pragmatiká anatrichiastiko. / Це ​​дійсно моторошно.
+v2; 180; Entáxei entáxei, ego tha ton timorísei! / Добре добре, я покараю його!
+v2; 210; Den krasí gi 'afton! / Нікого вина йому!
+
+newchat; key: chatter6, v1: female, v2: female, v1: adult, v2: adult, weigth: 15
+v1; 0; Psomí sas eínai toso nostimo! Poio eínai to mystiko sas? / Твій хліб такий смачно! У чому твій секрет?
+v2; 30; Aplá prosthéste lígi záchari mésa. / Просто додав трохи цукру всередину.
+v1; 60; Alítheia? Típota perissotero? / Правда? Нічого більше?
+v2; 90; Afto ítan! Tha gefteíte tin diaforá. / От і все! Ви відчуєте різницю.
+
+newchat; key: chatter7, v1: female, v2: female, v1: adult, v2: adult, v2: hasspouse, weigth: 15
+v1; 0; Poios ítan o ánthropos pou échete episkeftheí chthes to vrády? / Хто був той чоловік, який був у тебе минулої ночі?
+v2; 30; Ti ánthropos? / Який чоловік?
+v1; 40; O ánthropos pou sýrthike éxo apo to paráthyro sas! / Чоловік, який виліз з вікна!
+v1; 45; Min nomízete oti den tha paratirísete! / Не думаю, що я б не помітила!
+v2; 60; Pos tolmás ..? Ímoun kai eímai pánta pistí sto sýzygo mou. / Як ви смієш? .. Я була завжди вірна своєму чоловікові.
+v1; 80; Nai, nai. Tha élega oti, kathos, an ímoun sti thési sou. / Да да. Я хочу сказати це так, навіть якщо я це ви.
+v2; 110; fto den eínai díkaio! Min diadídoun fímes gia ména. / Це ​​не справедливо! Чи не поширюй чутки про мене.
+
+newchat; key: chatter8, v1: female, v2: female, v1: adult, v2: adult, weigth: 15
+v1; 0; Aftá ta néa ergaleía mageirikís eínai exairetiko! / Ці нові інструменти приготування їжі незвичайні!
+v2; 30; Nai, kánei to mageírema toso éfkolo! Eínai diaskedastiko! / Так, це робить приготування їжі простіше! Це весело!
+v1; 60; Efcharisto pigaínei stous Smiths kai technítes, oi opoíoi skefteí tétoia prágmata! / Дякую ковалям і ремісникам, хто придумав такі речі!
+v2; 90; Nai! Gi 'afto mou arései na Romaïkí. / Так! Ось чому я люблю бути Візантійкой.
+
+newchat;key:chatter9,v1:female,v2:female,v1:adult,v2:adult,v1:notvtype:baroness_byzantine,v2:notvtype:baroness_byzantine,weigth:15
+v1; 0; Eímai ziliáris afton ton plousíon. / Я заздрю багатим людям.
+v1; 20; Échoun tétoia oraía roúcha apo metáxi! / У них є така красива шовкова одяг!
+v2; 50; Afto den eínai pragmatiká díkaios. Den kánoun típota kai na párete ta kalýtera prágmata pou oútos í állos. / Це дійсно несправедливо. Вони нічого не роблять і отримують кращі речі в будь-якому випадку.
+
+newchat; key: chatter10, v1: female, v2: female, v1: adult, v2: adult, weigth: 1
+v1; 0; Échete akoúsei gia afto to varono se éna geitoniko chorio? / Чи чули ви, що барон в сусідньому селі?
+v2; 30; Nai, afto eínai to éna tou opoíou i gynaíka vréthike dolofoniméni? / Так, це той, чия дружина була знайдена вбитою?
+v1; 60; Akrivos! O sýzygos mou mou eípe mono oti o varonos aftoktonise ti gynaíka tou! / Точно! Мій чоловік щойно сказав мені, що барон сам убив свою дружину!
+v2; 100; .. Ti? / Що ..?
+v2; 130; Pánta íxera oti eprokeito na! / Я завжди знала, що він збирається зробити це!
+v2; 150; Allá kaneís den me písteve ..! / Але ніхто не повірив мені ..!
+
+newchat; key: chatter11, v1: female, v2: female, v1: adult, v2: adult, v1: hasspouse, weigth: 15
+v1; 0; Échete poté skefteí gia to pos tha ítan an eíchame ton polemo? / Замислювалася ти про те, що було б, якби у нас була війна?
+v1; 30; Ypárchoun akomi kai tora oi ándres agonízontai gia ti chora mas! / Навіть зараз люди борються за нашу країну!
+v1; 55; Thavmázo pragmatiká tous! / Я дійсно захоплююся ними!
+v2; 80; Énas polemos tha eínai tromero. / Війна була б жахливою.
+v2; 110; Ego na mantépsete akrivos san stratiotes. / Я думаю ти така ж, як солдати.
+v2; 140; Allá échete énan ántra! / Але у тебе є чоловік!
+v1; 170; Allá énas tempélis kai sychná methysménos éna! / Але він ледачий і часто п'є!
+
+newchat;key:talking1,v1:male,v2:male,v1:adult,v2:adult,v1:hasspouse,v2:notvtype:metropolit_byzantine-pastor_byzantine,weigth:15
+v1; 0; Xérete tin omorfiá sto geitoniko chorio? / Чи знаєш ти, що за краса в сусідньому селі?
+v2; 30; Fysiká, eínai polý charitoméno. / Звичайно, вона дуже мила.
+v1; 60; Ti tha gínei me tin epískepsi tis? / Як щодо відвідати її?
+v2; 90; Xérete oti i gynaíka sas tha trelatho tote! / Ти знаєш, що тоді твоя дружина буде сходити з розуму!
+
+newchat;key:talking2,v1:male,v2:male,v1:adult,v2:adult,v1:notvtype:monk_byzantine-pastor_byzantine-metropolit_byzantine,v2:notvtype:monk_byzantine-pastor_byzantine-metropolit_byzantine,weigth:15
+v1; 0; Sýzygos tou techníti eínai polý omorfos, ti nomízete? / Дружина ремісника дуже красива, що думаєш?
+v2; 40; Nai, den eínai kako. Dystychos aftí eínai ídi pantreméni! / Так, вона не погана. На жаль, вона вже заміжня!
+v1; 70; Kalá nai. Kai den tha ítan díkaii gia afton. / Ну да. І це було б несправедливо по відношенню до нього.
+v2; 100; Symfono. / Погоджуся.
+
+newchat; key: talking3, v1: male, v2: male, v1: adult, v2: adult, v1: hasspouse, v2: hasspouse, weigth: 15
+v1; 0; Den échoume arketo krasí se afto to chorio! / У нас недостатньо вина в цьому селі!
+v2; 30; Symfono! Prépei na chtísoume páno ampélia! / Погоджуся! Нам потрібно побудувати більше виноградників!
+v1; 60; Kai perissoteres tavérnes! / І більше таверн!
+v2; 90; Ti tha gínei me to ánoigma dikí mas tavérna? / Як щодо відкрити нашу власну таверну?
+v1; 120; Megáli idéa! As to schédio afto. / Відмінна ідея! Давай планувати.
+v2; 150; Allá poú na archísoume? / Але де ми почнемо?
+v1; 180; Kai oi gynaíkes mas den tha eínai eftychís na akoúso afto! / І наші дружини не буде раді почути це!
+v2; 210; Ochi, polisi romaïko krasí eínai pánta mia dikaiología! / Ні, продаж римського вина завжди виправдання!
+v1; 240; Entáxei! Sti synécheia, afíste mas na exoikonomísete chrímata mas. / Хорошо! Тоді давайте економити наші гроші.
+v1; 270; Otan échoume kerdísei arketá, as ekplirosei to schédio mas! / Коли ми заробимо достатньо, давайте виконаємо наш план!
+v2; 300; Tha échoume ti megalýteri tavérna se oli tin aftokratoría! / У нас буде найбільша таверна в усій імперії!
+v1; 325; Sígoura! / Звичайно!
+
+newchat;key:talking4,v1:male,v2:male,v1:adult,v2:adult,v1:vtype:miner_byzantine-farmiller_byzantine-lumberman_byzantine,v2:vtype:miner_byzantine-farmiller_byzantine-lumberman_byzantine,weigth:15
+v1; 0; Échete dokimásei poté Norman ergaleía? / Ти коли-небудь Пробував використовувати інструменти нормани?
+v2; 30; Ochi, allá écho akoúsei oti eínai polý apotelesmatikí! / Ні, але я чув, що вони дуже ефективні!
+v1; 60; Eínai alítheia. Poté den eícha doulépsei me tétoia kalá ergaleía prin. / Це ​​правда. Я ніколи не працював з такими хорошими інструментами раніше.
+v2; 90; Periménete ... Échete éna ergaleío Norman? / Чекай ... У тебе є норманський інструмент?
+v1; 120; Err, eícha. Échei kápos chatheí! / Ем, У мене були. Вони одного разу пропали!
+v2; 140; TI? Eíches éna tétoio ergaleío kai na to chásei? / ЩО? У тебе був такий інструмент і ти його втратив?
+v1; 170; Nai ... Tora ypárchoun mono anamníseis aristerá ... / Так ... Зараз вони просто спогади ...
+
+newchat;key:talking5,v1:male,v2:male,v1:adult,v2:adult,v1:notvtype:pastor_byzantine-metropolit_byzantine-armysmith_byzantine-baron_byzantine,v2:notvtype:pastor_byzantine-metropolit_byzantine-armysmith_byzantine-baron_byzantine,weigth:15
+v1; 0; Boom! Ímoun molis eínai se thési na elénxei éxo ti néa ropalo! / Бум! Я тільки перевірив перевірив нову булаву!
+v2; 30; Nai! Prokeitai gia éna fovero oplo! Eínai chtypá tous echthroús makriá! / Так! Це грізна зброя! Воно відкидає ворогів далеко!
+v1; 60; Entyposiako, e? Afto to aristoúrgima Romaïkí den boreí na synkritheí me otidípote állo se afto ton kosmo. / Вражає, чи не так? Цей римський шедевр не може зрівнятися ні з чим іншим у цьому світі.
+v2; 100; Thats giatí boroúme na eímaste yperífanoi na eínai Romaíoi! / Ось чому ми можемо пишатися тим, що ми римляни!
+
+newchat; key: talking6, v1: male, v2: male, v1: adult, v2: adult, weigth: 15
+v1; 0; Megáli trofímon, megála opla, megáli téchni - afto eínai o, ti eínai to éthnos mas! / Відмінна їжа, прекрасна зброя, велике мистецтво - ось який наш народ!
+v2; 30; Kai kalo krasí! / І чудове вино!
+
+newchat; key: talking7, v1: male, v2: male, v1: adult, v2: adult, v1: hasspouse, v2: hasspouse, weigth: 15
+v1; 0; Echo varetheí ti sýzygo mou. Thélo na écho éna kainoúrgio! / Я втомився від моєї дружини. Я хочу нову!
+v2; 30; Poios den échei? / Хто не хоче?
+v1; 60; Ísos prépei na afísoume xafniká to chorio kai sti synécheia na psáxoume gia néa! / Може бути нам раптово покинути село і пошукати нових!
+v2; 90; Nai! Oi Mágia kai oi Indoí échoun tétoies omorfes gynaíkes, échete dei? / Так! У Майя і індіанців такі гарні дружини, ти бачив?
+v2; 140; Allá ... To chorio chánetai chorís emás. / Але ... Це село загубиться без нас.
+v2; 160; Kai min xechnáte ta paidiá mas! / І не забувай про наших дітей!
+v1; 180; Urgh! Ta paidiá mas! Den tha epiviosei chorís patéra! / Ах! Наші діти! Вони не виживуть без батька!
+v1; 220; Allá ... afto den simaínei oti prépei na synechísoume me varetí zoí mas edo? / Але ... чи означає це те, що ми повинні продовжувати нашу нудне життя?
+v2; 255; Ypothéto oti aftos eínai o kalýteros tropos na páei. / Я думаю, що це найкращий шлях.
+
+newchat; key: talking8, v1: male, v2: male, v1: adult, v2: adult, v2: vtype: silkfarmer_byzantine, weigth: 15
+v1; 0; Eínai apístefto poso leptomerí matiá eikones sas. / Це ​​неймовірно наскільки докладно зображені твої ікони.
+v2; 30; Fysiká, dedoménou oti eínai megáli romaïkí téchni! / Звичайно, це велике римське мистецтво!
+v1; 60; Opos kai o, ti kánoume. Koitáxte omorfa spítia mas! / Як і все, що ми робимо. Подивися на наші красиві будинки!
+v2; 90; Kai min xechnáte éndoxi istoría mas! / І не забувай про нашу славну історію!
+
+newchat; key: talking9, v1: male, v2: male, v1: adult, v2: adult, weigth: 15
+v1; 0; Thymáste to korítsi pou polémisan páno stin paidikí ilikía mas? / Ти пам'ятаєш дівчину, за яку ми боролися в нашому дитинстві?
+v2; 30; Nai ... Ítan mia polý kakí stigmí. Kalí oti eínai páno. / Та вже ... Це було дуже поганий час. Добре, що все закінчилося.
+v1; 60; Chaíromai pou to akoúo, giatí mou eípe aplá oti mou árese pánta! / Радий це чути, бо вона щойно сказала мені, що вона завжди любила мене!
+v2; 90; Ti? Afto den eínai alítheia! / Що? Це не правда!
+
+newchat;key:flirt1,v1:male,v2:female,v1:adult,v2:adult,v1:hasspouse,v2:nospouse,notrel:sibling,notrel:child,notrel:parent,weigth:5
+v1; 0; Geia sou omorfiá, sas arései afto pou vlépete? / Гей, красуня вам подобається, що ви бачите?
+v2; 20; * chastoúki * / * ляпанець *
+v2; 25; Échete mia gynaíka. / У тебе є дружина.
+
+newchat;key:flirt2,v1:male,v2:female,v1:adult,v2:adult,notrel:sibling,notrel:child,notrel:parent,weigth:5
+v1; 0; Geia sou, koitás polý oraía símera $ targetfirstname! / Гей, ти виглядаєш дуже добре сьогодні $ targetfirstname!
+v2; 30; Sas efcharisto! / Дякую!
+v1; 60; Opos pánta, agapité mou! / Як завжди, моя дорога!
+
+newchat;key:flirt3,v1:male,v2:female,v1:adult,v2:adult,v1:hasspouse,v2:hasspouse,notrel:sibling,notrel:child,notrel:parent,weigth:5
+v1; 0; Hey $ targetfirstname, kánei mia omorfiá opos eseís thélete eínai éna omorfos ántras san ki eména? / Гей $ targetfirstname, така красуня як ви не хоче такого хлопця як я?
+v2; 40; Eíste pantreménos, kai eímai toso kalá. / Ви перебуваєте в шлюбі і я теж.
+v2; 60; Ypothéto oti den eíste pistoí! Tha po sti gynaíka sas! / Я думаю, ви не вірні! Я розповім твоїй дружині!
+v1; 75; OCHI - Min kánete tha-/ НІ-НЕ роби це-
+v1; 85; Eímai kako dídymo adelfo tou! / Я його злий брат-близнюк!
+v2; 120; Fysiká eíste! To ídio kako dídymo pou eínai pánta methysménos! / Звичайно ви! Той же злісний брат-близнюк, який завжди п'яний!
+
+newchat;key:flirt4,v1:male,v2:female,v1:adult,v2:adult,notrel:sibling,notrel:child,notrel:parent,weigth:10
+v1; 0; Pos tha me gynaíka-ta prágmatá sas? / Як йдуть виші жіночі делишки?
+v2; 30; Kalí kalí, ektos apo tin aísthisi lígo áschima ... / Добре добре, за винятком поганого самопочуття ...
+v1; 60; O, ochi, ti synévi? / О ні, що ж сталося?
+v2; 90; O sýzygos mou moú fonaxe. / Мій чоловік накричав на мене.
+v1; 120; Pos boreí o ídios se mia tétoia omorfiá? / Як він може поступати так з такою красою?
+v2; 150; Sas efcharistoúme gia epeffimíes mou epáno, $ targetfirstname! / Дякую за підтримку, $ targetfirstname!
+
+newchat;key:flirt5,v1:male,v2:female,v1:adult,v2:adult,notrel:sibling,notrel:child,notrel:parent,weigth:10
+v2; 0; * ахкхм *
+v1; 30; Eísai entáxei, $ targetfirstname? / З тобою все гаразд, $ targetfirstname?
+v2; 50; Nai, afto eínai mono i sklirí ​​douleiá! / Так, просто важка робота!
+v1; 70; Boro na sas voithíso? Tha aisthantheíte kalýtera sti synécheia? / Чи можу я допомогти? Може тоді ви будете почувати себе краще?
+v2; 90; Fysiká! Sas efcharistoúme! / Звичайно! Спасибо!
+
+newchat; key: flirt6, v1: male, v2: female, v1: adult, v2: adult,, weigth: 10
+v1; 0; Pos páei? / Як справи?
+v2; 30; Ola eínai mia chará, ti gia sas? / Всі добре, а у тебя?
+v1; 60; Eínai pára polý! Efcharisto gia tin erotisi. / У мене теж! Дякую за запитання.
+v1; 75; Allá vlépo oti ypárchei káti pou sas enochleí! / Але я бачу, що тебе щось турбує!
+v2; 90; Eínai - típota. / Нічого.
+v1; 110; Parakalo peíte mou! / Будь ласка скажи мені!
+v2; 130; Eínai mono oti i zoí mou edo eínai toso varetí. / Тільки те, що моє життя така нудна.
+v2; 160; Efchomai pragmatiká eícha apofasísei na páei se mia poli otan ímoun néos! / Мені дуже шкода я вирішив піти в місто, коли я був молодий!
+
+newchat; key: brothertalk1, v1: male, v1: adult, v2: male, v2: adult, rel: sibling, weigth: 10
+v1; 0; Adelfos $ targetfirstname, eínai kalo na sas doúme! / Брат $ targetfirstname, радий тебе бачити!
+v1; 30; Vríka ton palio xýlino spathí mas! / Я тільки що знайшов наш старий дерев'яний меч!
+v1; 50; Thymáste? / Пам'ятаєш?
+v2; 80; Periménete! Eínai afto to xífos tou patéra mas, mas édose? / Почекай! Хіба це той меч, що наш батько дав нам?
+v1; 110; Eínai! Thymáste tous agones mas me afto? / Так і є! Ти пам'ятаєш наші бої з ним?
+v2; 140; Pos tha boroúsa na xecháso! Exakoloutho na écho kápoia simádia. / Як я можу забути! У мене до цих пір залишилися шрами.
+v2; 170; An skéfteste perissotero gi 'afto ... / У той час як думаю більше про це ...
+v2; 200; Ítan to eídos tis sklirís tou patéra mas gia na mas dosei mono éna spathí! / Це ​​була якась жорстокість нашого батька, що він дав нам тільки один меч!
+v2; 240; Íxere oti tha agonistoúme gia afto! / Він знав, що ми будемо боротися за нього!
+v1; 270; Ypothéto oti eínai entáxei! / Я думаю, це добре!
+v2; 300; Epeidí to krátisa! / Тому що ти його отримав!
+
+newchat; key: sistertalk1, v1: female, v1: adult, v2: female, v2: adult, rel: sibling, weigth: 10
+v1; 0; Thymáste ton iníocho pou agápise toso polý stin paidikí ilikía mas? / Ти пам'ятаєш візника, які ми так любили в дитинстві?
+v2; 30; Apo tin adelfí poreía. Ímastan oi megalýteroi opadoí! / Звичайно, сестричка. Ми були найбільшими його шанувальниками!
+v1; 60; Anarotiémai ti synévi s 'afton. / Цікаво, що трапилося з ним.
+v1; 90; Tha akoúsei típota gi 'afton pia ... / Ти нічого не чув про нього більше ...
+v2; 120; Eínai pithanon enkatastáthikan s 'éna chorio san ti dikí mas kai eíche mia sýzygo kai ta paidiá. / Він, ймовірно, оселився в селі, як наша і у нього є дружина і діти.
+v1; 150; Télos pánton exakoloutho na elpízo na ton synantíso kápoia stigmí! / У всякому разі я все ще сподіваюся зустрітися з ним як-небудь!
+v2; 180; Ki ego! / Я теж!
+
+newchat; key: brothersister, v1: male, v1: adult, v2: female, v2: adult, v2: hasspouse, rel: sibling, weigth: 10
+v1; 0; $ targetfirstname, i adelfí mou, pánta íthela na mátho giatí pantréftike afto to trántagma. / $ Targetfirstname, моя сестра, я завжди хотів знати, чому ти вийшла заміж за цього ідіота.
+v2; 30; Epeidí ton agapo! / Тому що я люблю його!
+v1; 60; Kai tora to onomá sas eínai $ targetlastname. $ Targetlastname! Akoúgetai toso kako! / Тепер твоє ім'я $ targetlastname. $ Targetlastname! Це звучить так погано!
+v2; 90; Hey! Min simaínei étsi! Ítan eseís pou xekínise i sýnkrousi. / Гей! Не будь таким! Це був ти, хто почав конфлікт.
+v2; 110; Tha ítan methysménos! / Ти п'яна!
+
+newchat; key: religious1, v1: vtype: metropolit_byzantine-pastor_byzantine, v2: male, weigth: 10
+v1; 0; $ targetfirstname, o gios mou, ego den eída na proséfchetai símera! / $ Targetfirstname, мій син, я не бачив як ти молилася сьогодні!
+v2; 30; Patéras $ targetlastname, ego sígoura ékane. / Батько $ targetlastname, Я молився.
+
+newchat; key: religious2, v1: vtype: metropolit_byzantine-pastor_byzantine, v2: female, weigth: 10
+v1; 0; $ targetfirstname, kori mou, ego den eída na proséfchetai símera! / $ Targetfirstname, моя дочка, я не бачив як ти молилася сьогодні!
+v2; 30; Patéras $ targetlastname, ego sígoura ékane. / Батько $ targetlastname, Я молилася.

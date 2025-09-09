@@ -1,0 +1,21 @@
+priority=200
+
+//en/in millisecondes
+duration=5000
+
+//objets tenus par le villageois
+heldItems=planks_acacia,woodenbars
+
+input=wood_acacia,1
+
+output=woodenbars,1
+
+
+//s'il y a plus d'objets dans le batiment que ça, arrêter le but
+//if more than that number of item is present in building, stop goal
+townhalllimit=woodenbars,64
+
+
+maxsimultaneoustotal=1
+
+sound=wood

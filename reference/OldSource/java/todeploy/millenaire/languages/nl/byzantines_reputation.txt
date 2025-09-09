@@ -1,0 +1,16 @@
+
+0;Vreendeling; Als een handelsvolk moeten we iedereen accepteren. Maar we hoeven ze niet te vertrouwen.
+4*64;Herkenbaar;Je bent de laatste tijd vaak gesignaleerd in deze Romeinse landen.
+8*64;Bekend gezicht;Andere Romeinen lijken jouw te hebben opgemerkt, en ze spreken goede dingen over jou! Je lijkt toch niet een barbaar te zijn.
+16*64;Vaste klant;Xaire, $name! Goed je te zien. Hoe gaat alles?
+32*64;Geciviliseerde Medemens;Ah, het is goed om te zien dat soms anderen buiten de Romeinse Rijk geciviliseerd kunnen zijn zoals wij.
+64*64;Favoriete handelaar;Iedereen is blij je te zien. Heb je iets te handelen? Onze handelsrelatie heeft ons allebei geholpen.
+2*64*64;Vriend van het dorp;Je maakt deel uit van ons dorp $name, we vertrouwen je nu!
+4*64*64;Respectabele bondgenoot;Congratulaties $name! Je hebt onze respect verdient. Het is moeilijk om buitenstaanders om vrienden te worden van de Romeinse Rijk, laat staan gerespecteerd worden. Maar JIJ, jij hebt bewezen dat je het waard bent!
+8*64*64;Één van ons; We zien je nu als Romeins burger $name. Misschien ben je niet geboren als één van ons maar je mag nu trots zijn jezelf echt Romein te noemen.
+32*64*64;Natuurlijke leider;$name, je hebt het vertrouwen en respect van de Byzantijnen gewonnen. Ze zullen je overal volgen.
+4*32*64*64;De Volgende Keizer; Jij zult de volgende Keizer zijn! De enorme hoeveelheid werk dat je hebt gedaan voor deze dorp is ondenkbaar en we gaan je volgen in het maken van een betere wereld. Heil $name!
+-64;Lastig;Je bent niet erg aardig, $name. Pas op je bewegingen.
+-4*64;Nare buitenstaander;We accepteren handelaren, maar geen mensen zoals jij. Pas op.
+-16*64;Staatsvijand; Het was een schande van het hele Romeinse rijk om jou te laten leven. Als je het leven mooi vind, verlaat dan de Romeinse landen en keer nooit meer terug.
+-64*64;Blijkbaar een Barbaar;Begrijp je ons niet? Okay, we proberen iets anders:BAR BAR BAR, BAR BAR, BAR BARRRR

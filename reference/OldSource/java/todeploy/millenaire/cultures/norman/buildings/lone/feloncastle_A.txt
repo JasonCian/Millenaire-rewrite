@@ -1,0 +1,16 @@
+//Parameters for the building as a whole
+building.length=17
+building.width=24
+building.buildingorientation=3
+
+building.icon=normanbroadsword
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Château félon
+initial.male=felonbaron
+initial.male=felonsoldier
+initial.male=felonsoldier
+initial.male=felonsoldier
+initial.male=felonsoldier
+

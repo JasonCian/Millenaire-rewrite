@@ -1,0 +1,15 @@
+priority=50
+
+duration=20000
+reoccurdelay=30000
+
+heldItems=wool_white,string,seljukturban
+
+input=wool_white,4
+output=seljukturban,1
+
+buildinglimit=seljukturban,4
+
+maxsimultaneousinbuilding=1
+
+sound=wool

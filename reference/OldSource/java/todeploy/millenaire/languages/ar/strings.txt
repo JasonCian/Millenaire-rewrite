@@ -1,0 +1,694 @@
+﻿
+startup.loadproblem=حصل خطأ عند محاولة تحميل <0>.
+startup.checkload= تأكد ان مجلد cultures بمجلد millenaire الموجود بملجد minecraft الأصلي.
+startup.millenaireloaded= تم بنجاح تفعيل<0> للبحث عن القرية قم بالتجوال حول العالم وأثناء ذلك أضغط "<1>" لتحديد القرية بدقة ولاحظ عداد المسافة.
+startup.radiuswarning=تحذير: وضع radius (نصف قطر)عالي للقرية لا يغير شيء يذكر باللعبة فقط سيؤدي لزيادة اللاق.القيمة اعلى من <0> غير موصى بها.
+
+command.nogenerate=<0> لن يقوم بإنشاء قرى جديدة على قطع جديدة بهذا العالم.
+command.willgenerate=<0> سيقوم الان بإنشاء قرى جديدة على قطع جديدة بهذا العالم.
+command.astarpathing=يستخدم مسار A*
+command.binarypathing=يستخدم مسار ثنائي
+command.minecraftpathing=يستخدم مسار ماين كرافت
+command.inactive=غير نشطة
+command.active=نشطة
+command.frozen=مجمدة
+command.villagelist=<2>  متر  <3> وحالتها (<1>)  <0> :<4>
+command.villagelistkeylonebuilding=<0>  <1> متر <2>.
+command.noknowvillage=لم يتم تحديد قرية بحدود 2 كيلو متر. تابع البحث بطريق مستقيم!
+command.newvillagefound=قرية جديدة حددت: <0>  من نوع <1> وحضارة <2>  <3> متر <4>.
+command.newlonebuildingfound=مبنى جديد حدد: <0>  <1> متر <2>.
+command.pathrebuild=الخريطة والمسار ل <0> تم إعادة بنائه.
+
+//Text used in various UI parts, in no specific order:
+ui.lockedchest=صندوق مقفل
+ui.largelockedchest=صندوق مقفل كبير
+ui.unlockedchest=صندوق مفتوح
+ui.largeunlockedchest=صندوق مفتوح كبير
+ui.allchestsunlocked=جميع صنادق <0> الان مفتوحة.
+ui.outofstock=غير متوفر
+ui.reputationneeded=السمعة المطلوبة : <0>
+ui.missingdeniers=انت لاتملك <0> دينار.
+ui.missingequipment=ادوات مفقودة
+ui.noneininventory=.انت لاتملك اي من هذا في حقيبتك
+ui.selling=بيع
+ui.buying=شراء
+ui.buybuilding=شراء <0> (<1>)
+ui.sellercoming=<0>:ثواني سأكون عندك للمتاجرة لاتغادر.
+ui.tradecomplete=<0>:اتمنى ان تكون مسرور بالمتاجرة معنى، رافقتك السلامة.
+ui.sellerboycott=<0>: لن نتاجر معك مرة اخرى , ايها الخارج عن القانون!
+ui.sellernotcurrently possible=<0>:كيف يمكنك التفكير بالمتاجرة وقريتنا قد دمرت؟
+ui.wesell=نبيع
+ui.webuy=نشتري
+ui.isell=ابيع
+ui.inventory=الحقيبة
+ui.villagechief=زعيم لقرية  <0>
+ui.yourstatus=سمعتك بالنسبة للقرية
+ui.possiblehousing=المباني المتاحة:
+ui.alreadybuilt=تم البناء. 
+ui.alreadyrequested=الطلب تحت التنفيذ.
+ui.notavailableyet=غير متوفر لحد الان.
+ui.available=متوفر.
+ui.youaremissing=انت تفتقد: <0>
+ui.scrollsnoreputation=سمعتك غير كافية حتى تقوم بشراء لفافة القرية.
+ui.scrollsnotenoughmoney=انت تفتقد ل <0> دينار للفافة القرية.
+ui.scrollsok=الان يمكنك شراء لفافة القرية.
+ui.buyscroll=شراء لفافة القرية.
+ui.cost=التكلفة
+ui.clicktorequest=اضغط للتنفيذ.
+ui.scrollbought=<0>: تم أءتمانك على مخطوطات قريتنا!
+ui.housebought=<0>: البدء في بناء <0> الخاص بك سوف يبدأ قريباً!
+ui.inhabitantof=من سكان <0>
+ui.inconstruction=تحت التنفيذ
+ui.nospace=مساحة غير كافية
+ui.reservedforvillager1=محجوز
+ui.reservedforvillager2=لقروي
+ui.currentlyempty1=حاليا
+ui.currentlyempty2=فارغ
+ui.visitorslist1=قائمة
+ui.visitorslist2=الزوار
+ui.goodstraded=السلع المتداولة
+ui.imports=الواردات
+ui.exports=الصادرات
+ui.import_total=ماتم استيراده: <0>
+ui.export_total=ماتم تصديره: <0>
+ui.merchants=:التجار
+ui.goalscompleted1=جميع المباني
+ui.goalscompleted2=الاهداف المكتملة
+ui.project=مشروع
+ui.noconstruction1=لا يوجد مشروع
+ui.noconstruction2=تحت التنفيذ حالياً
+ui.upgrading= (<0>)التطوير
+ui.construction= <0>:البناء
+ui.population=:التعداد السكاني
+ui.populationnumber=<0>:التعداد السكاني
+ui.adults=البالغين: <0> (<1>/<2>)
+ui.teens=الشباب: <0> (<1>/<2>) 
+ui.children=الاطفال:<0> (<1>/<2>)
+ui.villagemap=خريطة القرية
+ui.nbbuildings=المباني: <0> 
+ui.wandwrongblock=هذه العصا تعمل فقط على قطعة من السبج لقرية عشوائية او على القطع التالية:
+ui.wandblocklist=<0> ل <1>
+ui.wandblocklistcontrolled=<0> ل <1> (تتطلب ان تصبح قائد لهذه الحضارة)
+ui.brickinstructions=تحتاج تراب ورمل لصنع طوب.
+ui.buildingscentre=مركز القرية
+ui.buildingsstarting=مباني أولية
+ui.buildingsplayer=مبانيك
+ui.buildingskey=مباني اساسية
+ui.buildingssecondary=مباني ثانوية
+ui.buildingsextra=مباني إضافية
+ui.worldnotgenerated=المنطقة حولك لم يتم انشاءها بالكامل, تجول قليلا وعد.
+ui.tooclosetospawn=لايسمح لك بإنشاء قرية قريبة جدا من نقطة رجوعك (الرسبنة).
+ui.generatenotenoughspace=لايوجد فراغ كافي لقاعة المدينة الحث عن منطقة اوسع.
+ui.generatenotenoughspacevillage=لايوجد فراغ كافي للقرية ابحث عن منطقة اوسع.
+ui.lackingresources=يتم جمع موارد البناء
+ui.lockedchestwarning=تحذير: تدمير صندوق مقفل من القرية قد يؤدي لأنهاء القرية بكاملها. كن حذر لا تستخدم الطريقة إلا اذا اردت انهاء القرية نهائياً.
+ui.xoutofy=<0> من <1>
+ui.extraresneeded1=<0> موارد اخرى
+ui.extraresneeded2=يتطلب
+ui.woodforplanks=خشب (اي نوع)
+ui.woodoak=خشب البلوط
+ui.woodpine=خشب البيسية
+ui.woodbirch=خشب البتولا
+ui.woodjungle=خشب الدغل
+ui.anyenchanted=أداة مسحورة
+ui.enchantedsword=سيف مسحور
+ui.selectabuildingproject=اختر مشروع البناء
+ui.projectadded=تم اضافة المشروع للقائمة
+ui.problemat=مشكلة في <0>: <1>
+ui.constructionforbidden=البناء محرم
+ui.locationclash=تصادم مع احد المباني
+ui.outsideradius=خارج حدود القرية 
+ui.wrongelevation=تجاوز الإرتفاع المسموح به
+ui.danger=كتلة ضارة
+ui.notreachable=غير قادر للوصول للمنطقة
+ui.unknownerror=مشكلة غير معروفة
+ui.controlbuildingprojects=إدارة مشاريع البناء
+ui.forbidupgrades=اوقف التطوير
+ui.allowupgrades=اسمح بالتطوير
+ui.cancelbuilding=إزالة البناء
+ui.level=المستوى
+ui.notyetbuilt=لم يبنى
+ui.nbinhabitants=عدد السكان: <0>
+ui.wandnocontrol=لانسطيع انشاء هذا النوع من القرى لأنك لم تصبح قائد لحضارة <0>.
+ui.control_ok=خدمتك الطويلة للقرية اتت بثمارها اصبح  <0> يؤمنون بك كقائد! استطيع ان اجعل هذا رسمياً بجعلك تبدأ ببناء قريتك الخاصة.
+ui.control_noreputation=سمعتك ليست كافية حتى تكون قائد ل <0> . حاول تحسين سمعتك معنا او اقبل القيام بمهام استثنائية لتحسين سمعتك.
+ui.control_alreadydone=انت بالفعل معترف بك كزعيم عند <0> .
+ui.control_get=اسأل في أن يعترف بك كزعيم.
+ui.control_gotten=<0>: انا رسمياً اعترف بك ان تستحق قيادة شعبنا <1> ! تستطيع الان بدء قريتك الخاصة بك.
+ui.selectavillage=اختار نوع القرية الذي تريد انشاءه
+ui.leadershipstatus=حالة القيادة
+ui.leaderin=انت قائد ل <0> . تستطيع إنشاء قرية من هذا النوع وتكون تحت تحكمك.
+ui.notleaderin=انت لست قائد ل <0> .
+ui.leaderinstruction=لتكون قائد لأي حضارة, تحتاج للوصول بسمعتك فيها إلى مستوى "عالي" وتقوم بسؤال قائد القرية الأساسي وسيخبرك ما إذا كان بأمكانك ان تصبح قائد او لا!, أو يمكنك القيام بإنجاز مهمات الإنشاء للحضارات (إن وجدت).
+ui.wandinstruction=أستخدم العصا الذهبية على كتلة من السبج لإنشاء قرية عشوائية أو على كتلة ذهب
+ui.controlled=تحت قيادتك
+ui.villagerelations=<0> (<1>, <2>): <3>
+ui.relationlist=العلاقات مع القرى الأخرى
+ui.relationpraise=تحسين العلاقات
+ui.relationslander=إساءة العلاقات
+ui.relationpoints=النقاط الدبلوماسية المتوفرة: <0>
+ui.villagerelationsnobutton=يجب أن يكون لديك نقطة وسمعة إيجابية للتأثير على القرية.
+ui.relationhelp=إدارة العلاقات<ret><ret>العلاقة مع اي قرية تحدد ,هل هذه القرية ستتعاون مع قريتك أو غير ذلك..<ret><ret>التجارة المحلية (توريد وتصدير) سوف تحدث بين القريتين من نفس الحضارة بشرط انت تكون علاقت قريتك معهم "جيدة".اما القرية من حضارة مختلفة  يجب ان تكون العلاقة "ممتازة" حتى يحدث تبادل تجاري !.<ret><ret>قرية اخرى كونت صداقة او علاقة بمستوى ممتاز جدا سوف يحدث بينهم تبادل تجاري ايضاً.<ret><ret>قرى من نفس الحضارة يجمع بينهم علاقة "ممتازة" سوف يقبلون شبانهم وشاباتهم لو كان لديهم اعمال متوفرة لهم.<ret><ret>العلاقات بين القرى تبدأ من "ممتازة" ,وهي مفيدة للقرى الناشئة او الصغيرة من القرية الأم , وايضا جيدة للقرى من الحضارة نفسها,ومحايدة بخلاف ذلك.<ret><ret>كل يوم , اللاعب يحصل على خمسة نقاط دبلوماسية ,ويمكن للاعب من خلا لها تحسين علاقات قريته مع قرى اخرى او العكس , التأثير يحدث حسب حسن العلاقة أو العكس.
+ui.relationfriendly=مؤخراً حدثت علاقات دبلوماسية مع قرية <0> و <1> وتطورت العلاقات فيما بينهم. وعلاقتهم الأن <2>.
+ui.relationunfriendly=مؤخراً حدث تشاحن بين قرية <0> و <1> وتدهورت العلاقات بينهم. وعلاقتهم الأن <2>.
+ui.cropplantingknowledge=انت لم تتعلم كيف يزرع <0>. يفضل ان تذهب وتسأل زعيم القرية.
+ui.cropsknown=المحاصيل المعروفة بهذه الحضارة
+ui.cropknown=لقد تعلمت كيف يتم زراعة <0>.
+ui.cropinsufficientreputation=سمعتك متدنية عند القرية حتى تتمكن من تعلم زراعة <0>.
+ui.cropnotenoughmoney=أنت تحتاج للمزيد من <1> حتى تكون قادر على دفع تكاليف تعليمك زراعة <0>.
+ui.cropoktolearn=القرية تستطيع تعليمك كيفية زراعة <0>.
+ui.croplearn=تعلم (<0>)
+ui.croplearned=<0>: لقد تعلمت اسرار زراعة <1>!
+ui.raider=مهاجم
+
+ui.communicationexplanations=للتواصل مع القرويين، انقر زر الماوس الأيمن. إذا كان عمل ما ممكن مع القروي مثل (تجارة، مناقشة مع رئيس القرية، التعاقد معه بشكل مؤقت، بدء مهمة) ستفتح نافذة.
+ui.helpbutton=تعليمات Millénaire
+ui.chunkbutton=خريطة القطع
+ui.serverimportforbidden=فقط الأدمن بإمكانهم أدخال المباني لهذا السيرفر.
+
+help.tab_1=عموميات على القرى
+help.tab_2=المتاجرة
+help.tab_3=السمعة و رئيس القرية
+help.tab_4=نمو القرية
+help.tab_5=المعارك والغارات
+help.tab_6=إنشاء أو تدمير قرية
+help.tab_7=المهام
+help.tab_8=النورمان
+help.tab_9=الهنود
+help.tab_10=المايا
+help.tab_11=اليابانين
+help.tab_12=البيزنطينين
+help.tab_13=أسئلة وأجوبة
+
+
+quest.obtained=تم الحصول عليها
+quest.lackingcondition=الذي ينقصك:
+quest.lackinghiddengoods=ليس لديك المواد المطلوبة في هذه المهمة.
+quest.close=إغلاق
+quest.accept=اقبل المهمة
+quest.refuse=ارفض المهمة
+quest.continue=سلم المهمة
+quest.conditionsnotmet=لم تستوف الشروط جميعها.
+quest.lessthananhourleft=بقي لديك اقل من ساعة!
+quest.timeremaining=الوقت المتبقي
+quest.hours=ساعة(ات)
+quest.noquestsvisible=لامهام لديك
+quest.questlist=قائمة المهام
+quest.reputationlost=تم خسارة السمعة
+
+quest.creationqueststatus=مهام الأنشاء
+quest.creationqueststatusshort=مهمة الأنشاء:
+
+quest.cqchaptersadhu=السادهو
+quest.cqsadhustartexplanation=قم بإيجاد قروي من اي قريةهندية قادر على إرشادك للمهمة بشرط ان تكون سمعتك بالقرية "صديق القرية".
+
+quest.cqchapteralchemist=الكيمياء
+quest.cqalchemiststartexplanation=قم بإيجاد قروي من قرى النورمان قادر على إرشادك للمهمة ولاكن يجب ان تكون سمعتك بهذه القرية "صديق القرية".
+
+quest.cqallcompleted=مبرووووك, لقد قمت بتنفيذ جميع مهام الأنشاء المتوفرة.!
+quest.cqcheckforupdates= زور www.millenaire.org ؛ للحصول على التحديثات المستقبلية مع المزيد من المهام.
+quest.cqchapternotstarted=لم تبدأ بتنفيذ مهمة "<0>".
+quest.cqchapterinprogress=قمت بتنفيذ <1>  مهمة(ات) من <2> المهام في فصل الإنشاء "<0>".
+quest.cqchaptercompleted=لقد قمت بإكمال فصل "<0>".
+quest.cqchapternotstartedshort=الفصل "<0>": لم يبدأ.
+quest.cqchapterinprogressshort=الفصل "<0>": <1>/<2>.
+quest.cqchaptercompletedshort=الفصل "<0>": تم إكماله.
+quest.cqcheckquestlist=أضغط '<0>' للمزيد من التفاصيل.
+
+
+
+//Item names
+
+
+
+error.unknownitem=اسم أداة غير معروف
+
+
+
+//Errors
+ui.updateEntity=خطأ في TileEntityBuilding.updateEntity().تحقق من millenaire.log.
+
+//Panels & parchments
+panels.notextfound=لايوجد نص لهذا الكتاب: <0>
+panels.invalidid=معرّف قرية غير صالح.
+panels.toofar=القرية بعيدة جداً حتى يتم تفعيل سجلاتها.
+panels.recordsnotloaded=سجلات القرية لايمكن قرائتها.
+panels.villagescroll=لفافة القرية
+panels.mother=ام
+panels.father=اب
+panels.spouse=الزوج
+panels.dead=ميت مؤقتاً
+panels.awayraiding=يغزو
+panels.awayhired=تم تعينه بواسطة لاعب
+panels.invaderincoming=القادمون
+panels.missing=مفقود!
+panels.multiple=تدبل <0> مرة!
+panels.currentoccupation=المهنة الحالية
+panels.visitors=الزوار
+panels.constructions=إنشاءات
+panels.upgrade=ترقية
+panels.buildingprojects=مشاريع البناء
+panels.notyetbuilt=لم يبنى
+panels.nbupgradesleft=عدد التطويرات المتبقية <0> .
+panels.finished=تم الإنتهاء من البناء
+panels.houseunoccupied=هذا المنزل غير مأهول. الأطفال اللذين اصبحو شبان وشابات سوف ينتقلون إليه ويصبحون بالغين.
+panels.man=رجل
+panels.woman=امرأة
+panels.children=أطفال
+panels.nofemaleresident=هذا المنزل لن يحتوي على مقيم انثى أبداً.
+panels.bachelor=الرجل الذي يعيش هنا لايزال اعزب. الفتاة التي تصبح شابة سوف تتحرك إلى هنا.
+panels.nomaleresident=هذا المنزل لن يحتوي مقيم ذكر أبداً.
+panels.spinster=المرأة التي تعيش هنا لاتزال عزباء. الفتى الذي يصبح شاب سوف ينتقل إلى هنا.
+panels.resources=الموارد
+panels.goodstraded=السلع المتداولة في هذه القرية
+panels.goodsimported=ماتم إستيراده من قرى اخرى
+panels.goodsexported=ماتم تصديره للقرى الأخرى
+panels.innvisitors=الزائرين لهذا <0>
+panels.mappurple=الأرجواني: مشروع تحت التنفيذ.
+panels.mapblue=الأزرق: مباني اخرى.
+panels.mapgreen=الأخضر: مناطق مناسبة للبناء.
+panels.maplightgreen=الأخضر الفاتح: مناطق مناسبة , ولاكن لاتستطيع إحتواء مركز المبنى.
+panels.mapred=الأحمر: مناطق خطرة (حمم, صبار, إلخ).
+panels.mapyellow=الأصفر: البناء محرم (جليد, كتل إصطناعية).
+panels.maporange=البرتقالي: البناء محرم (مقارب جداًللمبنى المجاور), منطقة غير مقدور عليها (بسبب نهر او وادي على سبيل المثال)
+panels.maplightblue=الأزرق الفاتح: ماء.
+panels.mapbrown=البني: مناطق اخرى (خارج نطاق الإرتفاع المحدد, إلخ).
+panels.unreachablebuilding=غير مقدور عليه!
+panels.merchantlist=قائمة التجار
+panels.capacity=الإستيعاب
+panels.nbnightsin=في القرية منذ <0> ليلة.
+panels.storedexports=<0> تخزين مايلي للتصدير: <1>
+panels.broughtimport=<0> شراء مايلي للقرية: <1>
+panels.startedtrading=<0> (<1>) احتضن مهنة التجارة.
+panels.merchantmovedout=<0> (<1>) تحرك ل <2> بعد <3> ايام بالقرية.
+panels.merchantarrived=<0> (<1>) وصل من <2>.
+panels.childarrived=<0> وصل من <1> ويبحث عن عمل.
+panels.resourcesneeded=الموارد المطلوبة للمشروع
+panels.resourcesavailable=الموارد في المخزن
+panels.villageculture=قرية <0> 
+panels.military=القوات العسكرية
+panels.planningraid=يتم التخطيط للغزو
+panels.raidinprogress=الغزو تحت التنفيذ
+panels.underattack=تتعرض للهجوم
+panels.offense=المهاجمين: <0>
+panels.defense=المدافعين: <0>
+panels.offenselong=القوة الهجومية: <0>
+panels.defenselong=القوة الدفاعية: <0>
+panels.raidinprogresslong=حالياً يتم الغزو <0>. الغزو بدأ منذ <1> ساعة(ات).
+panels.planningraidlong=يتم التخطيط لغزو <0>. الغزو بدأ منذ <1> ساعة(ات).
+panels.underattacklong=تحت الغزو من <0> والأعداء قوتها <1> من <2>!
+panels.villagefighters=محاربين القرية
+panels.attackers=المهاجمين
+panels.defender=المدافعين
+panels.raider=الغازيين
+panels.health=الصحة
+panels.weapons=الأسلحة
+panels.armour=الدروع
+panels.militarystrength=القوة العسكرية
+panels.unknownattacker=موقع غير معروف
+panels.raidsperformed=الغارات المنفذة
+panels.raidssuffered=خسائر الغارات
+panels.nameand=و<0> 
+
+//Goals (text displayed above the villager when he is doing it)
+goal.gorest=يرتاح
+goal.godrink=متوقف للشراب
+goal.gopray=متوقف للصلاة
+goal.GatherGoods=يجمع الموارد
+goal.BringBackResourcesHome=يرجع الموارد
+goal.GetTool=يحصل على اداة
+goal.huntMonster=يقاتل مخلوق
+goal.getGoodsHousehold=يأخذ الموارد للمنزل
+goal.DeliverGoodsHousehold=يوصل الموارد للمنزل
+goal.GetHouseTHResources=يأخذ الموارد من المنزل
+goal.DeliverResourcesShop=يوصل الموارد
+goal.raidvillage=يغزو
+goal.defendvillage=يدافع عن القرية
+goal.hide=يحتمي
+
+goal.CollectCrop=يجمع المحصول
+goal.PlantSeeds=يزرع الحب
+goal.ChopTrees=يقطع الخشب
+goal.PlantSaplings=يزرع الشتلات
+goal.GetResourcesForBuild=يجمع الموارد للبناء
+goal.MakeBread=يصنع خبز
+goal.BeSeller=يتاجر
+goal.MakeCider=يصنع منحوتة
+goal.MakeCalva=يصنع كالفا
+goal.Construction=يقوم بالبناء
+goal.GoPlay=لعب
+goal.BecomeAdult=يتحول لبالغ
+goal.MakeNormanTools=يصنع اداة
+goal.MakeNormanWeapons=يصنع سلاح
+goal.Patrol=يحرس
+goal.Butcher=يذبح
+goal.MakeBoudin=يصنع بودين
+goal.MakeTripes=يصنع امعاء
+goal.Mining=ينقب
+goal.Cooking=يطبخ 
+goal.MakeBooks=يصنع مخطوطات
+goal.MakeTapestry=يصنع منسوجات
+goal.VisitInn=يذهب إلى فندق
+goal.VisitBuilding=يذهب للتبضع
+goal.MakeAmulet=يصنع تميمة
+goal.KeepStall=يمسك هذا الكشك
+goal.MakeTimberFrame=يصنع اطارات خشبية
+
+goal.DryBrick=يضع الطوب ليجف
+goal.GatherBrick=يجمع الطوب الجاف
+goal.CookBrick=يحظر الطوب
+goal.PlantRice=يزرع الارز
+goal.HarvestRice=يحصد الارز
+goal.PlantTurmeric=يزرع الكركم
+goal.HarvestTurmeric=يحصد الكركم
+goal.SlaughterChicken=يذبح الدجاج
+goal.PlantSugarCane=يزرع قصب السكر
+goal.HarvestSugarCane=يحصد قصب السكر
+goal.MakeRasgulla=يصنع راسجولات
+goal.Makesteelaxe=يصنع فأس من الفلاذ
+goal.Makesteelpickaxe=يصنع معول من الفلاذ
+goal.Makesteelshovel=يصنع مجرفة من الفولاذ
+goal.Makesteelhoe=يصنع معزقة من الفولاذ
+goal.Makesteelsword=يصنع سيف من الفولاذ
+
+goal.makesteelchest=يصنع صفيحة صدر من الفولاذ
+goal.makesteelhelmet=يصنع خوذة من الفولاذ
+goal.makesteellegs=يصنع سروال من الفولاذ
+goal.makesteelboots=يصنع حذاء من الفولاذ
+
+goal.makeindianstatue=ينحت تمثال
+goal.performpujas=يقوم بأداء البوجا
+goal.bepujaperformer=متاح للبوجا
+
+goal.PlantMaize=يزرع الذُرة
+goal.HarvestMaize=يحصد الذُرة
+goal.makemayanGoldBlock=يصنع زينة من الذهب
+goal.makemayanstatue=ينحت تمثال
+goal.Makestoneaxe=يصنع فأس من الحجر
+goal.Makestonepickaxe=يصنع معول من الحجر
+goal.Makestoneshovel=يصنع مجرفة من الحجر
+goal.Makestonehoe=يصنع معزقة من الحجر
+goal.Makestonesword=يصنع سيف من الحجر
+goal.makemayanaxe=يصنع فأس من السبج
+goal.makemayanpickaxe=يصنع معول من السبج
+goal.makemayanshovel=يصنع مجرفة من السبج
+goal.makemayanhoe=يصنع معزقة من السبج
+goal.makemayanmace=يصنع صولجان من السبج
+goal.makeobsidianflake=يحطم السبج إلى رقائق
+
+goal.fish=يصيد
+goal.makethatch=يصنع القش
+goal.makepaper=يصنع الورق
+goal.makepaperrice=يصنع الورق
+goal.makepaperwoodpulp=يصنع الورق
+goal.makepaperwall=يصنع ورق للحائط
+goal.cookfish=يطبخ السمك
+goal.cooksteak=يطبخ شرائح اللحم
+goal.cooklamb=يطبخ لحم الخروف
+goal.cookpork=يطبخ شرائح لحم الخنزير
+goal.cookchicken=يطبخ الدجاج
+goal.makeudon=يصنع اودون
+goal.maketachi=يصنع سيف تاتشي
+goal.makejapaneseweapons=يصنع اسلحة يابانية
+
+goal.brewpotions=يخمر الجرع
+goal.harvestwarts=يحصد الثآليل
+goal.makeglassbottles=يصنع عبوات زجاجية
+goal.plantwarts=يزرع الثآليل
+
+goal.plantvines=يغرس الكروم
+goal.harvestgrapes=يحصد العنب
+goal.gathersilk=يجمع الحرير
+goal.makeicon=يرسم الرموز
+goal.makewine=ينتج النبيذ
+goal.makebookshelves=يصنع ارفف الكتب
+goal.makebyzantinetiles=يصنع البلاط
+goal.makebrick=يصنع الطوب
+goal.training=يتدرب
+goal.paintpainting=رسم إطار
+goal.makebook=يكتب كتاب
+goal.makebyzantinemace=يصنع صولجان بيزنطيني
+goal.makebyzantinechest=يصنع صفيحة صدر بيزنطينية
+goal.makebyzantinelegs=يصنع سروال بيزنطيني
+goal.makebyzantinehelmet=يصنع خوذة بيزنطينية
+goal.makebyzantineboots=يصنع حذاء بيزنطيني
+
+goal.makebow=يصنع سهم
+goal.makerottenflesh=يصنع لحم فاسد
+goal.makearrow=يصنع أسهم
+
+goal.sleep=ينام
+goal.sleep_travelling=يذهب للنوم
+
+
+goal.makeclothes_byz_wool=حياكة الملابس
+goal.makemasa=تحضير ماسا
+goal.slaughterpig=ذبح خنزير
+goal.makesouvlaki=إعداد سوفلاكي
+goal.makewah=إعداد واه
+goal.makecurry=إعداد الكاري نباتي
+goal.makeclothes_byz_silk=حياكة ملابس الحرير
+goal.slaughtersheep=ذبح الخروف
+goal.slaughtercow=ذبح بقرة
+goal.breed=تربية الحيوانات
+goal.shearsheep=قص الأغنام
+goal.makemurgh=إعداد كاري الدجاج
+goal.getitemtokeep=التقاط أداة
+
+//other
+other.west= غرباً
+other.east= شرقاً
+other.north= شمالاً
+other.north-east= شمال-شرق
+other.north-west= شمال-غرب
+other.south= جنوباً
+other.south-east= جنوب-شرق
+other.south-west= جنوب-غرب
+
+other.tothewest= للغرب
+other.totheeast= للشرق
+other.tothenorth= للشمال
+other.tothenorth-east= للشمال-الشرقي
+other.tothenorth-west= للشمال -الغربي
+other.tothesouth= للجنوب
+other.tothesouth-east=للجنوب-الشرقي
+other.tothesouth-west=للجنوب-الغربي
+
+other.west_short=W
+other.east_short=W
+other.north_short=N   
+other.south_short=S
+other.shortdistancedirection=<1> <0> متر
+
+other.metre=متر
+other.kilometre=كيلو متر
+other.andhalf=ونصف
+
+other.directionshort=<1>  <0>
+other.exploredbuilding=لقد استكشفت مبنى: <0>.
+
+other.malevillager=قروي-Millénaire
+other.femalevillager=قروية-Millénaire
+
+other.buildinghealing=<0> يستعيد صحتك.
+
+
+other.localmerchantinteract=هذا التاجر تاجر محلي. ينقل السلع من قرسة إلى قريةأخرى. لا يمكنك التفاعل معه.
+
+hire.health=صحة
+hire.strength=قوة
+hire.cost=Cost (لكل يوم)
+hire.aggressive=موقف عدواني
+hire.passive=موقف سلبي
+hire.timeleft=تعين ل <0> ساعة(ات)
+hire.hiredvillager=لقد قمت بتعيين هذا القروي. سوف يبقى تحت تصرفك <0> ساعات عدة او حتى يموت ويعود للقرية من جديد.<ret><ret>أضغط '<1>' لتجعله بنمط العدواني أو زر الشفت الأيسر-'<1>' لتجعله بنمط السلبي.
+hire.hireablevillager=تسطيع تعيّن هذا القروي لخدمتك. سوف يتبعك لأي مكان حتى ينتهي عقده او يموت. سوف يقاتل المخلوقات التي تعترض طريقك وكما سيقوم بدون أخذ رأيك بقتال الوحوش والقرويين في النمط العدواني.
+hire.hireablevillagernoreputation=تحتاج ان تكون على الأقل "تاجر مفضل" في هذه القرية حتى تتمكن من تعيين قروي لخدمتك.
+hire.extend=تمديد
+hire.release=تخلى
+hire.close=اغلق
+hire.hire=عيّن
+hire.hireover=تعّيين <0> انتهى. وسوف يعود لقريته.
+hire.hiredied=<0> مات. وسوف يبعث من جديد بقريته, وعقده قد انتهى.
+hire.hiredbyotherplayer=<0> تم تعينه سابقا بواسطة <1>.
+hire.hiredby=عيّن بواسطة <0>
+
+actions.forest_success=قمت بنجاح بإستكشف الغابة.
+actions.forest_continue=لقد اكملت %<0> من اكتشاف مجمل الغابة.
+
+actions.desert_success=قمت بنجاح بإستكشف الصحراء.
+actions.desert_continue=لقد اكملت %<0> من اكتشاف مجمل الصحراء.
+
+actions.mountain_success=قمت بنجاح بإستكشف الجبال.
+actions.mountain_continue=لقد اكملت %<0> من اكتشاف مجمل الجبال.
+
+actions.underwaterglass_success=قمت بنجاح ببناء نافذة مراقبة في أعماق البحار.
+actions.underwaterglass_notdeepenough=البحر ليس عميقا من هذا الموقع.
+
+actions.underwaterdive_success=لقد تمكنت من الغوص عميقا بالمحيط بنجاح.
+
+actions.bottomoftheworld_success=يبدو انك لاتستطيع الحفر أسفل نهاية العالم ياصاح. و يبدو انك وصلت للحد الأقصى !
+
+actions.topoftheworld_success=يبدو انك لاتستطيع الصعود أعلى. حقاًّ هذا اعلى ماتصل إليه هع.
+
+actions.borehole_nblineok=<0> كتلة احجار الأساس تعرضت بنجاح للسماء. تحتاج ل 25 في 5*5 مربعة.
+actions.borehole_success=لقد نجحت بحفر بئر!
+
+actions.boreholetnt_success=ديناميت كافي تم وضعه. الان يمكنك تفجيره وإشباع رغباتك.
+actions.boreholetnt_nbtnt=<0> صناديق ديناميت تم وضعها وغطيت بكتلة السبج. تحتاج ل 20 ككل.
+
+actions.boreholetntlit_success=لقد وضعت الديناميت. راقب وتأمل النتيجة وبلغها للكيمياء.
+
+actions.thevoid_success=لقد حدقت بالفراغ بنجاح هع!
+
+actions.enchantmenttable_success=لقد بنيت طاولة سحر بجانب سادهو.
+
+info.culturetitle=الحضارات
+info.culture=حضارة <0>
+info.culturereputation=السمعة: <0>
+info.culturelanguage=مستوى اللغة: <0>
+
+culturereputation.scourgeofgod=آفة من الله
+culturereputation.dreadful=فظيع
+culturereputation.bad=سيئ
+culturereputation.stellar=لابأس
+culturereputation.excellent=ممتاز
+culturereputation.good=جيدة
+culturereputation.decent=لائق
+culturereputation.neutral=حيادي
+
+culturelanguage.fluent=فصيح اللسان
+culturelanguage.moderate=مجيد للغة
+culturelanguage.beginner=مبتدئ
+culturelanguage.minimal=لاتجيد اللغة
+
+
+weapon.criticalstrike=ضربة حرجة! <0>x الضرر!
+
+negationwand.villagelocked=The <0> لايزال مقفول. تحتاج لقتل جميع الذكور البالغين لفتحه او تدميره.
+negationwand.confirmmessage=هل انت متاكد بأنك تريد تدمير <0>? إذا فعلت ,فأن المباني ستبقى ولاكن , القرية ستتوقف للأبد.
+negationwand.confirm=تأكيد
+negationwand.cancel=ألغاء
+negationwand.destroyed=ال<0> تدمر! مبانيها الآن أصداف فارغة ولا قروي سوف يعود إليها.
+
+relation.excellent=ممتازة
+relation.verygood=جيدة جدا
+relation.good=جيدة
+relation.decent=لائق
+relation.fair=عادل
+
+relation.openconflict=ازمة
+relation.atrocious=فظيعة
+relation.verybad=سيئة جدا
+relation.bad=سيئة
+relation.chilly=باردة
+
+relation.neutral=محايدة
+
+raid.planningstarted=<0> بدأو بالتخطيط لشن غارة على <1>.
+raid.started=<0> بدأ بغارة على <1>! <2> مقاتلين(s) انضمو له.
+raid.raidsuccesfull=<0> أغار بنجاح <1>, وغنم <2> من الغنائم!
+raid.raidfailed=<1> استطاع بنجاح التصدي لغزو <0>.
+raid.nothing=لاشيئ
+raid.historysuccess=أغار بنجاح <0>. المكافأة: <1>
+raid.historyraided=تمت الغارة بواسطة <0>. المكافأة: <1>
+raid.historyfailure=غزو على <0> فشل.
+raid.historydefended= تصدى بنجاح لغارة شنها <0>.
+
+hof.hof=قاعة المشاهير
+hof.modcreator=مصمم المود
+hof.creatorofmayan1=مصمم
+hof.creatorofmayan2=حضارة المايا
+hof.creatorofjapanese1=مصمم
+hof.creatorofjapanese2=حضارة اليبانين
+hof.creatorofbyzantine1=مصمم
+hof.creatorofbyzantine2=حضارة البيزنطينين
+hof.creatorofindianskins1=مصمم
+hof.creatorofindianskins2=بشرة الهنود
+
+hof.skinmaker=مصم البشرة
+hof.buildingmaker=مصمم الابنية
+hof.wikiadmin=مسؤول الويكي
+hof.armouricons=اشكال الدروع
+hof.normanarmour1=دروع النورمان
+hof.normanarmour2=الجرافيك
+hof.support1=الدعم ب
+hof.support2=المنتدى
+hof.frenchversion1=مساعدة بترجمة
+hof.frenchversion2=النسخة الفرنسية
+hof.wikicontributions=المساهمات بويكي
+hof.improvementsjapanese1=التحسينات
+hof.improvementsjapanese2=للقرية اليبانية
+hof.lonebuildings=المباني المنعزلة
+hof.obsidiantools1=أدوات البسج
+hof.obsidiantools2=الأيقونات
+hof.forgecode1=تم كتابة الاكواد خصيصا لتعمل على
+hof.forgecode2=Forge Sprite API
+hof.btw=(BTW مصمم)
+hof.forgehelp1=ساعد على
+hof.forgehelp2=Forge Sprite API
+hof.hofidea1=قاعة المشاهير
+hof.hofidea2=افكار
+hof.donor=المانحيين
+hof.variousimprovements1=المختلف
+hof.variousimprovements2=التحسينات
+
+pujas.invanme=بوجا
+pujas.panditfee=رسوم البانديت
+pujas.offering=تُقدم
+pujas.god0=لهانومان - لأجل السرعة
+pujas.god1=لشيفا - لأجل القوة
+pujas.god2=للاكشامي - لأجل الحظ
+pujas.god3=لقانيش - لأجل المهارة
+pujas.priestcoming=<0>: هل تحتاج إلى اداء بيوجا؟ ان تفانيك لجدير بالأعجاب!
+pujas.offeringslot=قدم قربان للآلهة.
+pujas.offeringslot2=لن يقبلو اي حاجة. جرب.
+pujas.moneyslot=ضع المال للبانديت.
+pujas.toolslot=ضع أداة لتصبح مسحورة.
+
+culture.norman=النورمان
+culture.indian=الهنود
+culture.japanese=اليبانيين
+culture.mayan=المايا
+culture.byzantines=البيزنطينين
+
+export.errornoname=يجب إعطاء إسم لخطة البناء بالسطر الأول.
+export.errornoendsigneast=تعذر العثور على علامة الإغلاق إلى الشرق. يجب أن تكون في خط مستقيم من بداية بلوك واحد داخل  256 بلوك.
+export.errornoendsignsouth=تعذر العثور على علامة الإغلاق إلى الجنوب. يجب أن تكون في خط مستقيم من بداية بلوك واحد داخل  256 بلوك.
+export.errorlength=الطول الذي تم الكشف عنه هو <0> ولكن هناك مخطط بناء موجود في مجلد التصدير ب طول <1>.
+export.errorwidth=العرض الذي تم الكشف عنها هو <0> ولكن هناك مخطط بناء موجود في مجلد التصدير لل العرض <1>.
+export.errorstartinglevel=بداية غير صالحة لمستوى على الخط الثالث من العلامة.
+export.defaultstartinglevel=لامستوى بدء محدد, سيتم الرجوع إفتراضيا إلى -1.
+export.errorunknownblockid=نمط كتلة او بلوك غير معروف: <0>
+export.buildingexported=المبنى المصدر ك <0>.
+
+import.notonserver=إستيراد المباني ليس ممكن على السيرفر.
+import.errornoname=يجب إعطاء إسم لخطة البناء بالسطر الأول.
+import.errornotfound=المبنى اللذي تتطلبه غير موجود ب millenaire-custom/exports.
+import.buildingupto=البناء لمستوى <0>
+import.errorinvalidupgradelevel=مستوى الترقية غير صالحة في الخط الثاني من العلامة.
+import.buildinginitialphase=لا يوجد مستوى للترقية المحدد، بناء المرحلة الأولى فقط.
+import.errorupgradeleveltoohigh=مستوى الترقية المطلوب اعلى من المتوفر.
+import.doublevertical=تضاعف الارتفاع العمودي
+import.buildinglevel=مستوى البناء : <0>
+
+effect.towncentre=مركز القرية
+effect.shop=متجر: <0>
+effect.irrigation=سقي: <0>% محاصيل إضافية
+effect.pujalocation=موقع بوجا
+effect.healing=يسعف لاعب
+
+chunk.chunkmap=خريطة القطع
+chunk.caption=شرح
+chunk.captiongeneral=كل قطعة يتم عرضها عبارة عن 2*2 بكسل مربع
+chunk.captiongreen=النقاط الخضراء تشير إلى وجود قطعة محملة.
+chunk.captionblue=النقاط الزرقاء تشير إلى وجود قطعة كجزء من منطقة القرية.
+chunk.captionpurple=النقاط الأرجوانية تشير إلى وجود قطعة كجزء من منطقة مبنى وحيد .
+chunk.captionwhite=النقاط البيضاء تشير إلى وجود قطعة والتي يتم الاحتفاظ بتحميلها من قبل المود (Millénaireأو مود فورج أخر)
+chunk.playerposition=إحداثيات اللاعب: <0>
+chunk.settings=نصف قطر تحميل لقرية: <0> مترا. أقصى عدد من القطع المسموح بها الحفاظ على المسموح به عن طريق القوة: <1>.
+chunk.explanations=Millénaire القرى تنشط إلا إذا يتم تحميل كل ما لديهم قطع. يتم تجميد سكان قرى أخرى. Millénaire يحاول فرض Minecraft للحفاظ على أجزاء من قرى على بعد 200 متر من تحميل لاعب (التي يمكن تغييرها القيمة). يقتصر آلية فورج تستخدم لهذا افتراضيا إلى 200 قطع. يمكنك تكوين هذه القيمة في minecraft /Millénaire القرى تنشط إلا إذا يتم تحميل كل ما لديهم قطع. يتم تجميد سكان قرى أخرى. Millénaire يحاول فرض Minecraft للحفاظ على أجزاء من قرى على بعد 200 متر من تحميل لاعب (التي يمكن تغييرها القيمة). يقتصر آلية فورج تستخدم لهذا افتراضيا إلى 200 قطع. يمكنك تكوين هذه القيمة في minecraft /config/ forgeChunkLoading.cfg. تحذير: زيادة عدد القطع أبقى تحميل إنقاص الأداء. / forgeChunkLoading.cfg. تحذير: زيادة عدد القطع أبقى تحميل إنقاص الأداء.
+chunk.chunkcoords=قطعة: <0>
+chunk.village=<0>
+chunk.chunkforced=قوة محملة
+

@@ -1,0 +1,18 @@
+﻿version:3.4
+<darkblue>Millénaire Hjälp
+
+Denna hjälp beskriver huvud funktioner från Millénaire. För mer information, kolla på wikin eller fråga i forumet minecraftforum.net.
+
+Använd ikonerna på någon av sidorna av denna skärmen för att komma åt olika hjälp kapitel.
+
+<darkblue>Generelt info om byarna och ensamma byggnader
+
+Millénaire lägger till <darkblue>Byar<black> från olika kulturer till minecraft. Byarna är slumpmässigt genererade i olika biomer. De har olika stilar och erbjuder olika produkter, men alla har en ledare, bygger nya byggnader, byter med dig och gillar dig eller inte beroende på dina handlingar (See "Respekt" delen). 
+
+Varje by är byggda runt en central byggnad (som kan vara ett fort, ett kloster, ett palats ...) I dessa byggnader finner du olika skyltar med information angående byn. <darkblue>Höger-Musknapp<black> På en skylt för att visa mer information.
+
+<darkblue>Ensamma byggnader<black> som inte expanderar. De kan vara tomma (med objekt att hitta i kistor), eller okuperade av fredliga bybor som du kan köpslå med, eller vara okuperade av fientliga bybor som kommer att attackera dig.
+
+Om du trycker på knappen "V" (som är standard) visar en lista på när liggande byar. Ensamma byggnader visas inte, du måste själv komma ihåg vart de ligger.
+
+Standard så är det minsta avståndet mellan två byar 2 kilometer. Vissa mindre byar som är skapade runt större byar är ett undantag.

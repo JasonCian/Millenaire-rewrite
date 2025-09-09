@@ -1,0 +1,15 @@
+//Parameters for the building as a whole
+building.length=10
+building.width=9
+building.buildingorientation=3
+building.max=0
+building.reputation=4096
+building.price=384
+building.icon=denier
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Mikiruq Tupiq
+initial.translatedname=name_en,small house
+

@@ -1,0 +1,12 @@
+chanceperhour:1               
+maxsimultaneous:1
+definevillager:key=localshaman,requiredtag=fallenking_villageshaman
+forbiddenplayertag:fallenking_9_backtothevillage
+requiredplayertag:fallenking_8_sacrifice_start
+
+step:new
+villager:localshaman
+setplayertagsuccess:fallenking_9_backtothevillage
+setactiondatasuccess:fallenkingqueststatus,9
+setglobaltagsuccess:mayansacrifices
+duration:1048

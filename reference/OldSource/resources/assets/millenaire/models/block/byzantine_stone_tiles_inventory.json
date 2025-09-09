@@ -1,0 +1,11 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "down": "millenaire:blocks/stone",
+        "up": "millenaire:blocks/byzantine_tiles_top",
+        "north": "millenaire:blocks/byzantine_tiles_half_front",
+        "east": "millenaire:blocks/byzantine_tiles_half_side",
+        "south": "millenaire:blocks/byzantine_tiles_half_front",
+        "west": "millenaire:blocks/byzantine_tiles_half_side"
+    }
+}

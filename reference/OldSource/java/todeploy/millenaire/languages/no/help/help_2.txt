@@ -1,0 +1,10 @@
+version:3.4
+<darkblue>Handel
+
+Den vanligste samhandlingen du vil ha med landsbyboerne vil være å handle - du kan selge mange varer til dem, og til gjengjeld kjøpe produkter, inkludert blokker og objekter som er spesifikke for Millénaire. For å gjøre forhandlinger med en landsby, gå til hovedbygningen (eller en annen forhandler) og vent til en landsbyboer kommer for å se deg med "Selger til spilleren" over hodet på dem. <darkblue>Høyreklikk<black> så på vedkommende for å åpne skjerm for handel.
+
+Millénaire landsbyboere kan kun selge deg ting som de har på lager, og du kan kun selge dem ting som landsbyen har bruk for (varierer avhengig av typen landsby).
+
+All handel med landsbyen foregår med "denier", en middelaldersk fransk myntenhet. Det finnes tre typer denier: standard denier, "deniers argent" (sølv-denier) som er verdt 64 denier, og "deniers or" (gull-denier) som er verdt 64 deniers argent.
+
+<darkgreen>Tips: På landsbykartet (som åpnes ved å høyreklikke på det korresponderende panelet i landsbyens hovedbygning) så er forhandlere listet når du holder over bygningene med pekeren.

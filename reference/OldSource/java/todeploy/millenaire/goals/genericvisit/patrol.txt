@@ -1,0 +1,24 @@
+//Note pour les utilisateurs de Windows: si vous voyez le fichier entier sur une seule ligne, ouvrez-le avec PSPAd ou UltraEdit plutôt que Notepad
+//Note to Windows users: if you see the entire file in one line, open it using PSPad or UltraEdit instead of Notepad
+
+priority=10
+priorityrandom=30
+
+travelBookShow=true
+icon=torch
+
+buildingTag=patrol
+
+duration=2000
+
+leasure=true
+
+holdweapons=true
+
+reoccurDelay=60000
+
+range=100
+
+leasure=true
+
+sprint=false

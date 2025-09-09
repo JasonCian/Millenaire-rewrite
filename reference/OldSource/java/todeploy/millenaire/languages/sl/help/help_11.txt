@@ -1,0 +1,14 @@
+﻿version:4.8.0
+<darkblue>Japonci
+
+Živijo v verni, vojaških, trgovskih in imperijskih vaseh in so ugledni zaradi njihove elegantne arhitekture. Govorijo japonsko, ampak bo njihov dialog preveden, ko se igralec "nauči njihovega jezika.
+
+<darkblue>Posebni objekti in bloki
+
+-Gojijo riž. Igralec lahko prosi poglavarja, da ga nauči kako gojiti to rastlino
+-Kuhajo okusne udonove rezance iz žita in kokoške.
+-V trgovskih vaseh, pivovar prideljuje riževo žganje.
+-Kor Normani, izdelujejo stavbe iz lesenih okvirjev.
+-Uporabijo veliko slamnatih kock proizvedenih iz žita.
+-Pridelujejo elegantne papirnate stene iz riža za naprednejše stavbe.
+-Njihovi kovinarske kovačnice delajo težavne meče tachi in loke yumi, pravtako tri vrste učinkovitega oklepa.

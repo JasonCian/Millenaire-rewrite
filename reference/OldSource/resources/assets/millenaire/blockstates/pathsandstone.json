@@ -1,0 +1,7 @@
+{
+	"forge_marker": 1,
+    "variants": {
+        "stable=false": { "model": "millenaire:pathsandstone" },
+        "stable=true": { "model": "millenaire:pathsandstone" }
+    }
+}

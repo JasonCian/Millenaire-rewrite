@@ -1,0 +1,12 @@
+minreputation:8*64*64
+chanceperhour:1               
+maxsimultaneous:1
+definevillager:key=startvillager,type=norman/knight,type=norman/seneschal,type=norman/abbot,type=norman/guildmaster
+forbiddenplayertag:marvel_norman_1_picklocation
+
+step:new
+villager:startvillager
+duration:48
+setplayertagsuccess:normanmarvel_picklocation
+settagsuccess:startvillager,normanmarvel_sponsor
+setplayertagsuccess:marvel_norman_1_picklocation

@@ -1,0 +1,14 @@
+version:3.4
+<darkblue>Dorpen genereren
+
+Je kan een dorp naar jouw keuze generereen met een oproepstaf. Een object dat je in elk dorp kan kopen als je reputatie goed genoeg is. Om de staf te gebruiken, zet een goudblok neer waar je het dorp wilt genereren en klik met de rechtermuisknop op het blok. Het scherm laat je het juiste dorp kiezen.
+
+<darkblue>Vernietigen van een dorp of geïsoleerd gebouw
+
+De inwoners van een dorp of gebouw herspawnen elke nacht, zelfs als je alle gebouwen hebt vernietigd. Om dit te voorkomen (als je zelf een gebouw wilt innemen bijvoorbeeld), moet je de <darkblue>Staf der Negatievering<black> gebruiken. Deze kun je vinden in één van de kisten in het hoofdgebouw als alle dorpelingen dood zjn. Bedenk wel dat het vernietigen van een dorp onomkeerbaar is.
+
+<darkblue>Speler-bestuurde dorpen
+
+Het is mogelijk om een dorp te genereren met jou als leider. In dat dorp kan jij bepalen waar de gebouwen komen te staan. Om dit te doen moet je herkent worden als leider in de cultuur van het dorp of de Creatie Quest voltooid hebben (zie quests sectie). Je moet minimaal de "natuurlijke leider" reputatie hebben om herkent te worden als leider. Je moet met een dorpsleider uit die cultuur praten om dat te doen. Je zal dan de mogelijkheid zien om speler-bestuurde dorpen te maken in de interface van de oproepstaf.
+
+In speler-bestuurde dorpen kun jij een nieuw gebouw laten bouwen door de oproepstaf op de gewenste plek te gebruiken. Een interface zal openen waarin je het gewenste gebouw kan kiezen. Je kan ook toestaan of stoppen dat de bestaande gebouwen worden uitgebreid via het projecten paneel. Handelen met de dorpen is onnodig. Plaats de grondstoffen gewoon in de kist.

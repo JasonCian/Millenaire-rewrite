@@ -1,0 +1,15 @@
+
+0;Främling;Vi är inte vana att ha främlingar i vår avlägsna by.
+4*64;Känd;än så länge har du inte gjort något dumt.
+8*64;Känt Ansikte; Du verkar ha gjort ett bra intryck på många av oss. Fortsätt så, och vi kan båda tjäna på det.
+16*64;Vanlig besökare;Namaste, $name! Vilka nyheter för du med dig?
+32*64;Granne;Du må inte vara perfekt, men vi ser att du har varit en bra granne $name-ji. Vi gillar din närvaro.
+64*64;Favorit handlare;Välkommen tillbaka, $name. Vad har du med dig att handla med till oss?
+2*64*64;Vän till byn;$name-ji, vi tycker alla om dig här i byn.
+4*64*64;En Sann Bundsförvant;You är en sann bundsförvant av denna by $name-ji. Om du någonsin behöver husrum, så kan du bo här.
+8*64*64;En av oss;Jag trodde aldrig att jag skulle leva den dagen en utlänning blev accepterad i byn, men $name-ji, du är en av oss nu!
+32*64*64;Naturlig ledare;$name-ji, du har fått tillit och respekt från mitt folk. De följer dig varsomhelst.
+4*32*64*64;Överpresterande Rajput;Det Indiska folket är extremt glada att du vill stanna med dem och hjälpa dem med deras besvär. Om du inte har märkt det, vi har gjort 5 andra otroliga kulturer som antagligen ger dig bättre belöningar än ett tråkigt och nedslående meddelande.
+-64;Olägenhet;Vi tycker inte om främlingar här, särskilt inte din sort.
+-4*64;Obehaglig främling;Den som uppfostrade dig gjorde ett dåligt jobb. Vi hoppas alla att du snart är borta.
+-16*64;Allmän fiende;Varje morgon ber jag till gud att jag slipper se ditt ansikte igen.

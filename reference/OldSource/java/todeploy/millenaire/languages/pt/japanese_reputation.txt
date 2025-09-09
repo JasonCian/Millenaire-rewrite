@@ -1,0 +1,10 @@
+0;Estranho;Não confiamos facilmente em forasteiros. Comporte-se excepcionalmente bem.
+4*64;Conhecido;Já o temos visto por cá anteriormente, mas isso não significa que confiemos em si.
+16*64;Visitante Regular;Como têm sido as suas viagens, $name?
+64*64;Comerciante Favorito;Ah, $name, a maioria dos aldeões tem-no em elevada consideração.
+2*64*64;Amigo da Aldeia;Olá amigo, o que podemos fazer por si hoje?
+8*64*64;Um de Nós;Olá, $name, temos esperado o seu regresso com antecipação.
+32*64*64;Líder Natural;$name, conquistou a confiança e o respeito do povo Japonês. Eles segui-lo-ão para qualquer lado.
+-64;Incómodo;Oh, é você... O que é que quer?
+-4*64;Forasteiro Indesejável;Desapareça da nossa aldeia imediatamente, seu verme!
+-16*64;Inimigo Público;Como é que se atreve a aparecer à nossa frente? Sofra o seu castigo!

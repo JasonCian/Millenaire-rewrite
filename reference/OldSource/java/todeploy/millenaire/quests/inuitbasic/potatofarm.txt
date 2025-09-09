@@ -1,0 +1,17 @@
+minreputation:6464
+chanceperhour:0.67
+maxsimultaneous:3
+
+step:new
+definevillager:key=startvillager,type=inuits/inuit_wife
+villager:startvillager
+rewardgood:potato,1
+duration:5
+
+step:new
+villager:startvillager
+duration:5
+requiredgood:potato,8
+rewardgood:inuitpotatostew,1
+rewardreputation:2048
+penaltyreputation:1200

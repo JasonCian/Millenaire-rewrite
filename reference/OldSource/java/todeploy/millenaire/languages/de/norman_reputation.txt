@@ -1,0 +1,15 @@
+
+0;Fremder;Wir sind hier sehr vorsichtig mit Fremden, Neuer. Aber wenn du gerecht mit uns handelst, findest du hier gastfreundliche Menschen.
+4*64;Vertrauter;Wir haben dich schon öfters hier gesehen und es scheint noch kein Huhn zu fehlen. Mache so weiter und wir werden miteinander auskommen.
+8*64;Bekanntes Gesicht;Du scheinst bei vielen von uns einen guten Eindruck gemacht zu haben.
+16*64;Regulärer Besucher;Willkommen, $name! Schön, dich wieder zu sehen.
+32*64;Entdecker Freund;Huch, Du scheinst auch in dieser Welt gestrandet zu sein. Nun, wir können diesen neuen Ort gemeinsam erkunden und etwas daraus Gewinnen!
+64*64;Bevorzugter Händler;Ah, $name! Das ganze Dorf hat deine Rückkehr erwartet.
+2*64*64;Freund des Dorfes;Wir sind nicht dafür bekannt Fremden einfach zu trauen, aber du mein guter Freund $name hast uns bewiesen, dass wir dir vertrauen können!
+4*64*64;Verbündeter;In dieser fremden Welt braucht jeder Verbündete. Betrachte uns als einen der deine, für all die Unterstützung, die du uns gegeben hast
+8*64*64;Einer von uns;Es ist uns immer wieder eine Freude dich zu sehen, $name. Du magst zwar aus fernen Ländern kommen, doch du bist jetzt wirklich einer von uns.
+32*64*64;Geborener Anführer;Du hast dir das Vertrauen der Normannen redlich verdient. Sie würden dir überall hin folgen.
+16*32*64*64;Der Nächste von Kinniken
+-64;Plagegeist;Wir beobachten dich, $name. Sei auf der Hut.
+-4*64;Unbeliebter Außenseiter;Du hast dich als echte Plage in der Umgebung gezeigt. Du kannst froh sein, dass wir dich noch nicht rausgeworfen haben.
+-16*64;Staatsfeind;Deine Anwesenheit wird hier kaum toleriert. Eine falsche Bewegung und es ist aus.

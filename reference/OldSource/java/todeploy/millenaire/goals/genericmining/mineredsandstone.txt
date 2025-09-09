@@ -1,0 +1,13 @@
+priority=35
+priorityrandom=10
+
+
+townhalllimit=redsandstone,1024
+
+sourceblockstate=minecraft:red_sandstone
+
+loot=redsandstone,1
+
+sentencekey=mining
+
+range=4

@@ -1,0 +1,14 @@
+﻿version:3.4
+<darkblue>Ustvarjanje vasi
+
+Lahko ustvarite vas po vaši želji na lokaciji, ki ste si jo izbrali z čarobno palico. Lahko jo kupite v vsaki vasi, kjer imate zelo visok ugled. Za uporabo čarobne palice postavite zlato kocko kjer želite ustvariti novo vas in z desnim klikom odprite zaslon za izbiro vasi, ki jo boste ustvarili.
+
+<darkblue>Uničenje vasi in zapuščenih stavb
+
+Prebivalci vasi ali stavbe se ponovno "oživijo" vsako noč, čeprav uničite vse stavbe v vasi. Da bi preprečili to (če na primer želite prevzeti vas zase), morate z <darkblue>Palico zanikanja<black>, ki jo najdete v skrinji glavne stavbe ko so vsi prebivalci mrtvi. Prosim bodite ozaveščeni, da je uničenje vasi nepopravljivo.
+
+<darkblue>Vasi, ki jih vodi igralec
+
+Mogoče je ustvariti vas, kot vodja v kateri lahko izbereš lokacije stavb. Da bi naredili to, morate biti priznani kot vodja kulture v vasi in dokončati stvariteljsko nalogo (glej poglavje "Naloge"), ali imeti ugled "rojenega vodja" v vasi in govori z poglavarjem te vasi. Videl boš možnost, da ustvariš vas, ki jo boš vodil sam v vmesniku čarobne palice.
+
+V vasi, ki jo vodi igralec, lahko ukažete izgradnjo nove stavbe z uporabo čarobne palice na določeno lokacijo. V vmesniku ti bo odprlo možnost za izgradnjo stavbe. Pravtako lahko dovoliš ali ustaviš nadgradnje že zgrajenih stavb na plošči z projekti. Trgovanje surovin z vaščanim je nepotrebno v teh vaseh - samo postavite predmet v skrinjo.

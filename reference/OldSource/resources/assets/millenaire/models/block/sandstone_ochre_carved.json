@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+  		"down": "millenaire:blocks/sandstone_ochre_clean",
+        "up": "millenaire:blocks/sandstone_ochre_clean",
+        "north": "millenaire:blocks/sandstone_ochre_carved",
+        "east": "millenaire:blocks/sandstone_ochre_carved",
+        "south": "millenaire:blocks/sandstone_ochre_carved",
+        "west": "millenaire:blocks/sandstone_ochre_carved",
+    	"particle" : "millenaire:blocks/sandstone_ochre_carved"
+  }
+}

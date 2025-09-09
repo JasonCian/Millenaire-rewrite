@@ -1,0 +1,10 @@
+{
+    "parent": "millenaire:block/oriented_upper_slab",
+    "textures": {
+        "bottom": "millenaire:blocks/byzantine_tiles_top",
+        "top": "millenaire:blocks/byzantine_tiles_top",
+        "side_ns": "millenaire:blocks/byzantine_tiles_side",
+        "side_ew": "millenaire:blocks/byzantine_tiles_front",
+        "particle" : "millenaire:blocks/byzantine_tiles_top"
+    }
+}

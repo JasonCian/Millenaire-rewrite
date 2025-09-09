@@ -1,0 +1,75 @@
+version: 2.1
+
+jobs:
+  build:
+    docker:
+      - image: cimg/openjdk:17.0
+
+    working_directory: ~/repo
+
+    steps:
+      - checkout
+
+      # 验证 Gradle Wrapper 文件是否存在
+      - run:
+          name: Verify Gradle Wrapper
+          command: |
+            if [ ! -f "./gradlew" ]; then
+              echo "错误: 缺少 gradlew 文件"
+              exit 1
+            fi
+            if [ ! -f "./gradle/wrapper/gradle-wrapper.jar" ]; then
+              echo "错误: 缺少 gradle-wrapper.jar"
+              exit 1
+            fi
+
+      - run:
+          name: Make gradlew executable
+          command: chmod +x ./gradlew
+
+      # 构建项目
+      - run:
+          name: Build with Gradle
+          command: ./gradlew build
+
+      - store_artifacts:
+          path: build/libs
+          destination: libs
+
+  test:
+    docker:
+      - image: cimg/openjdk:17.0
+
+    steps:
+      - checkout
+
+      - run:
+          name: Verify Gradle Wrapper
+          command: |
+            if [ ! -f "./gradlew" ]; then
+              echo "错误: 缺少 gradlew 文件"
+              exit 1
+            fi
+            if [ ! -f "./gradle/wrapper/gradle-wrapper.jar" ]; then
+              echo "错误: 缺少 gradle-wrapper.jar"
+              exit 1
+            fi
+
+      - run:
+          name: Make gradlew executable
+          command: chmod +x ./gradlew
+
+      - run:
+          name: Run tests
+          command: ./gradlew test
+
+      - store_test_results:
+          path: build/test-results
+
+workflows:
+  build-and-test:
+    jobs:
+      - build
+      - test:
+          requires:
+            - build

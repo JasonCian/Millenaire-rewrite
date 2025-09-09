@@ -1,0 +1,12 @@
+name=Inek Çiftliği
+weight=10
+radius=15
+
+biome=Desert
+biome=Desert M
+biome=Savanna
+biome=Savanna M
+
+
+//starting buildings=
+centre=lonecowfarm

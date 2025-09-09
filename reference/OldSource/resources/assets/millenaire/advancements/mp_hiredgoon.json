@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "millenaire:byzantinemace"
+        },
+        "title": {
+            "translate": "advancements.mp_hiredgoon.name"
+        },
+        "description": {
+            "translate": "advancements.mp_hiredgoon.desc"
+        }
+    },
+    "parent": "millenaire:mp_weapon",
+    "criteria": {
+        "main": {
+            "trigger": "mp_hiredgoon"
+        }
+    }
+}

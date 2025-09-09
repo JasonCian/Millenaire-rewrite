@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "down": "millenaire:blocks/japanese_tiles_top",
+        "up": "millenaire:blocks/japanese_tiles_top",
+        "north": "millenaire:blocks/japanese_tiles_top",
+        "east": "millenaire:blocks/japanese_tiles_side",
+        "south": "millenaire:blocks/japanese_tiles_top",
+        "west": "millenaire:blocks/japanese_tiles_side",
+        "particle" : "millenaire:blocks/japanese_tiles_top"
+    }
+}

@@ -1,0 +1,13 @@
+0;Étranger;Bienvenue. Voulez-vous un peu d'aide pour survivre dans ce désert glacial ?
+4*64;Familiarité;Vôtre présence n'est pas passée inaperçue. Restez pacifique et nous ferons de même.
+8*64;Visage Connu;Nous vous avons déjà vu dans le coin auparavant. Vous pouvez bien sûr rester et vous réchauffer.
+16*64;Visiteur Régulier; Nous sommes contents de vous revoir, $name.
+32*64;Compagnon de Survie;Ah, cela fait du bien de vous voir toujours vivant et bien portant !
+64*64;Marchand favori;Tout le monde est content de vous voir. Avez-vous ramené avec vous quelque chose d'intéressant aujourd'hui ?
+2*64*64;Ami du Village;Vous vous êtes montré étant un compagnon de valeur. Vous pouvez trouver beaucoup d'amis ici, $name.
+4*64*64;Frère de Sang;Vous avez beaucoup fait pour nous assister, et nous sommes contents de vous redonner le fruit de vos efforts. Vous avez nôtre confiance.
+8*64*64;L'un des nôtres;Les esprits nous ont bénis avec vous. Ils ont décrété que vous faites maintenant partie de nôtre famille, et j'ai l'impression qu'ils ont fait le bon choix.
+32*64*64;Dirigeant Naturel;$name, vous avez gagné la confiance et le respect du peuple Inuit. Ils vous suivront partout.
+-64;Nuisance;S'il vous plaît, nous n'avons pas de temps pour les gens comme vous.
+-4*64;Étranger Désagréable;Nous sommes prudents face aux gens comme vous. Partez et laissez nous en paix.
+-16*64;Ennemi Public;Nous vous avons donné beaucoup de chances pour entrer dans nôtre communauté, mais vous n'avez pas apprécié nos efforts. Laissez nous et espérez que les esprits ne viendront pas vous prendre pendant que vous errerez dans le désert gelé.

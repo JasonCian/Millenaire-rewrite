@@ -1,0 +1,1 @@
+native:Maison du charpentier;gameNameKey:carpenterhouse_A0;male:carpenter;female:Wife;moveinpriority:20;craft:1;chest:1-5;sign:1

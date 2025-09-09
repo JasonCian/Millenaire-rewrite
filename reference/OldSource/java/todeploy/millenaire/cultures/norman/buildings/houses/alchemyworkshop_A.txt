@@ -1,0 +1,16 @@
+//Parameters for the building as a whole
+building.length=12
+building.width=12
+building.buildingorientation=3
+building.icon=bottle
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Atelier d'alchimie
+initial.priority=800
+initial.male=alchemistapprentice
+initial.pathlevel=1
+initial.requiredglobaltag=alchemy
+initial.shop=alchemyworkshop
+

@@ -1,0 +1,14 @@
+version:4.3.0
+<darkblue>Bysantinerne
+
+Stolte og verdige etterkommere av romerne. Bysantinerne produserer vin og raffinerte religiøse ikoner. De snakker gresk, men dialogen deres vil bli oversatt ettersom spilleren "lærer seg" språket deres ved å snakke med dem.
+
+<darkblue>Unike objekter og blokker
+
+-De dyrker druer og produserer vin fra dem. Spilleren kan spørre kokken om å lære dem hvordan de dyrker denne planten.
+-De bruker leire til å produsere elegante bysantinske flisersom de bruker til å dekke bygningene sine.
+-Deres mestring av serikultur (oppdrett av silkeormer) lar dem produsere silken de maler sine bysantinske ikoner på.
+
+<darkblue>Spesifikk oppskrift
+
+-To linjer med tre druer hver lager vin.

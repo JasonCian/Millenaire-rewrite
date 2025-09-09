@@ -1,0 +1,23 @@
+//Parameters for the building as a whole
+building.length=14
+building.width=11
+building.max=3
+building.icon=steelshovel
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Noufu Ie
+initial.priority=400
+initial.male=japanese_peasant
+initial.female=japanese_peasantwife
+
+//Parameters for specific upgrades
+upgrade1.priority=40
+
+upgrade2.priority=35
+
+upgrade3.priority=30
+
+upgrade4.priority=25
+upgrade4.pathlevel=1
+

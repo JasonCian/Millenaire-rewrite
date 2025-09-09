@@ -1,0 +1,1 @@
+native:Tavérna;gameNameKey:taverna_A0;male:host_byzantine;female:hostesse_byzantine;craft:1;chest:1-5;sign:1;shop:taverna;tag:kitchen;tag:leasure;tag:drinking;tag:tavern;moveinpriority:15

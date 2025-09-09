@@ -1,0 +1,1 @@
+native:Saraay;gameNameKey:inn_A0;tag:inn;tag:leasure;male:indian_merchant;chest:4-8;sign:2

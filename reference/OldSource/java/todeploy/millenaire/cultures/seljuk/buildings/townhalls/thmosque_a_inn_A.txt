@@ -1,0 +1,16 @@
+building.length=20
+building.width=17
+building.fixedorientation=south
+building.issubbuilding=true
+building.max=0
+building.parentbuildingplan=thmosque_A0
+
+building.icon=bed_red
+
+initial.startlevel=-6
+initial.nativename=Camii Konağı
+initial.priority=1000
+initial.male=turk_localmerchant
+
+initial.tag=inn
+initial.signs=1,0

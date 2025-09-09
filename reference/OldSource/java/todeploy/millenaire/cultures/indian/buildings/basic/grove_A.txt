@@ -1,0 +1,21 @@
+//Parameters for the building as a whole
+building.length=15
+building.width=15
+building.buildingorientation=3
+building.mindistance=0.6
+building.icon=sapling_acacia
+building.version=2
+building.randombrickcolour=white;white:50,silver:30
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Kunja
+initial.priority=1000
+initial.pathwidth=1
+initial.tag=grove
+initial.tag=nopaths
+
+//Parameters for specific upgrades
+upgrade1.startlevel=0
+upgrade1.priority=100
+

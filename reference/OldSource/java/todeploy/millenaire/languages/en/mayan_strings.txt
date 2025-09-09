@@ -1,0 +1,59 @@
+culture.mayan=Maya
+culture.fullname=The Maya
+
+village.agriculture=agricultural village
+village.mayan_controlled=controlled village
+village.mayan_customcontrolled=custom controlled village
+village.military=military village
+village.religious=religious village
+
+villager.mayan_armysmith=Army Smith
+villager.mayan_boy=Boy
+villager.mayan_chickenfarmer=Chicken Farmer
+villager.mayan_chieftain=Chieftain
+villager.mayan_cocoafarmer=Cacao farmer
+villager.mayan_crafter=Crafter
+villager.mayan_farmer=Corn Farmer
+villager.mayan_girl=Girl
+villager.mayan_king=King
+villager.mayan_leader=Leader
+villager.mayan_lumberman=Lumberman
+villager.mayan_merchant=Merchant
+villager.mayan_miner=Miner
+villager.mayan_obsidiancrafter=Obsidian Crafter
+villager.mayan_peasant=Peasant
+villager.mayan_peasantwife=Female Peasant
+villager.mayan_richwoman=Queen
+villager.mayan_sculptor=Carver
+villager.mayan_shaman=Shaman
+villager.mayan_shamanwife=Shaman's Wife
+villager.mayan_teenagerFemale=Youth
+villager.mayan_teenagerMale=Youth
+villager.mayan_warrior=Warrior
+
+villager.lonemayanfarmer=Solitary Farmer
+villager.lonemayanpeasantwife=Farmer's Wife
+villager.lonemayanshaman=Shaman
+villager.lonemayanshamanwife=Shaman's Wife
+villager.mayanbanditboy=Bandit Boy
+villager.mayanbanditwarrior=Bandit Warrior
+villager.mayanfemalebandit=Bandit Girl
+villager.merchant_mayanfarmer=Farmer Trader
+villager.merchant_mayanhunter=Hunter Trader
+villager.merchant_mayanshaman=Shaman Trader
+
+villager.questfallenking=Fallen King
+villager.questkingelitewarrior=Elite Warrior
+villager.questkinglieutnant=Lieutenant
+villager.questkingscout=Scout
+villager.questkingwarrior=Warrior
+villager.questshaman=Shaman
+
+shop.lonemayanfarm=Farm Products
+shop.mayanarmyforge=Armours & weapons
+shop.mayancocoa=Cocoa & cacauhaa
+shop.mayancrafter=Tools
+shop.mayanobsidiancrafter=Obsidian tools
+shop.mayansculptor=Purchases stone and gold
+shop.mayansheepchickenfarm=Chicken products
+shop.mayantownhall=Central Store

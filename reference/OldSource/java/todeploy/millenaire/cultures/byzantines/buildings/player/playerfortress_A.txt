@@ -1,0 +1,73 @@
+building.length=41
+building.width=40
+building.areatoclear=5
+building.max=0
+building.icon=byzantinemace
+
+initial.startlevel=-4
+initial.nativename=Froúrion
+initial.subbuilding=playerfortress_A_barracks
+initial.tag=playerth
+initial.tag=leisure
+initial.shop=thstratiotike
+initial.signs=3,2,1,0,5,4,7,8,6
+initial.priority=100
+initial.pathlevel=0
+initial.tag=patrol
+
+//wall l0a
+upgrade1.priority=450
+
+//wall l0b
+upgrade2.priority=450
+upgrade2.tag=wallcomplete
+upgrade2.rebuildpath=true
+
+//tower l1a
+upgrade3.priority=400
+
+//tower l1b
+upgrade4.priority=400
+upgrade4.subbuilding=playerfortress_A_armyforge
+
+//wall l2
+upgrade5.priority=250
+
+//hall
+upgrade6.priority=210
+upgrade6.requiredtag=barrackscomplete
+
+//wall l3 front
+upgrade7.priority=200
+upgrade7.pathlevel=1
+
+//wall l3 back
+upgrade8.priority=200
+
+//wall l3 left
+upgrade9.priority=200
+upgrade9.requiredtag=armyforge
+
+//wall l3 right
+upgrade10.priority=200
+
+//deco
+upgrade11.priority=150
+
+//tower l2 fr
+upgrade12.priority=120
+
+//tower l2 br
+upgrade13.priority=120
+
+//tower l2 bl
+upgrade14.priority=120
+
+//tower l2 fl
+upgrade15.priority=120
+
+//quartz tower
+upgrade16.priority=100
+
+//moat
+upgrade17.priority=200

@@ -1,0 +1,110 @@
+
+culture.byzantines=Byzantine
+culture.fullname=The Byzantines
+village.controlled=Controlled Village
+village.customcontrolled=Custom Controlled Village
+
+village.tradingvillage=Commercial Village
+village.militaryvillage=Military Village
+village.religiousvillage=Orthodox Village
+
+villager.architect_byzantine=Architect
+villager.baron_byzantine=Baron
+villager.boy_byzantine=Boy
+villager.fisherman_byzantine=Fisher
+villager.girl_byzantine=Girl
+villager.lumberman_byzantine=Woodcutter
+villager.merchant_byzantine=Merchant
+villager.miner_byzantine=Miner
+villager.lady_byzantine=Lady
+villager.shepherd_byzantine=Shepherd
+
+villager.silkfarmer_byzantine=Silk Farmer
+villager.toolsmith_byzantine=Smith
+villager.smith_byzantine=Smith
+villager.teenagerFemale=Youth
+villager.teenagerMale=Youth
+
+villager.shepherd_female_byzantine=Shepherdess
+villager.silkfarmer_byzantine=Silk Weaver
+villager.silkfarmerwife_byzantine=Silk Weaver
+villager.smith_byzantine=Smith
+villager.soldier_byzantine=Soldier
+villager.teenagerfemale=Youth
+villager.teenagermale=Youth
+
+villager.wife_byzantine=Wife
+villager.merchant_art=Art Merchant
+villager.merchant_food=Food Merchant
+villager.merchant_materials=Stone Merchant
+villager.smuggler_silk=Silk Merchant
+
+villager.artisanwife_byzantine=Craftswoman
+villager.seamster_byzantine=Seamster
+villager.seamstress_byzantine=Seamstress
+villager.smelter_byzantine=Smelter
+villager.pastor_byzantine=Pastor
+villager.worker_byzantine=Worker
+villager.guard_byzantine=Guard
+villager.host_byzantine=Host
+villager.hostesse_byzantine=Hostess
+villager.baroness_byzantine=Baroness
+villager.mason_byzantine=Mason
+
+villager.centurio_byzantine=Centurio
+villager.soldier_byzantine=Soldier
+villager.special_byzanzine=Boskokrator
+villager.oldshepherd_byzantine=Lone Shepherd
+villager.armysmith_byzantine=Army Smith
+
+villager.farmiller_byzantine=Farmer
+villager.farmiller_wife_byzantine=Farmer
+
+villager.monk_byzantine=Monk
+villager.metropolit_byzantine=Metropolitan
+
+villager.playersoldier_byzantine=Soldier
+
+villager.special_byzantine=Boskokrator
+
+
+shop.THemporikos=Central Shop
+shop.mason=Advanced Materials
+shop.toolsmith=Tools
+shop.dressmaker=Textiles & Icons
+shop.centralworkshop=Basic Materials
+shop.taverna=Food & Drinks
+shop.olivepress=Olive Products
+shop.specialshop=The Boskokrator Calls
+shop.thstratiotike=Central Shop
+shop.thorthodoxo=Central Shop
+shop.armyforge=Weaponry
+
+villager.merchant_armour=Armoury Merchant
+villager.merchant_textiles=Textiles Merchant
+villager.merchant_relics=Relics Merchant
+villager.merchant_dyes=Dyes Merchant
+
+villager.keeperbirch_byzantine=Guard
+villager.keeperoak_byzantine=Guard
+villager.keeperpine_byzantine=Guard
+villager.keepertropical_byzantine=Guard
+villager.keeper_byzantine=Lighthouse Keeper
+villager.loneshepherd_byzantine=Shepherd
+villager.loneshepherdf_byzantine=Shepherdess
+
+villager.loneabbot_byzantine=Abbot
+villager.lonemonk_byzantine=Rassophore
+
+shop.bakery=Bakery
+shop.clothing=Clothes
+shop.fishery=Fish
+shop.forge=Tools
+shop.lonesheep=Wool
+shop.lonetower=Food
+shop.sheepfarm=Lamb,leather and feta
+shop.tavernbyz=Wine
+shop.townhall=Central Store
+shop.alchemyworkshop=Alchemical Products
+shop.lonemonastery=Monastery Goods
+

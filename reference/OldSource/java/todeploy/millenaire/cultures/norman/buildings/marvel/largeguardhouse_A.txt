@@ -1,0 +1,23 @@
+//Parameters for the building as a whole
+building.length=16
+building.width=15
+building.buildingorientation=3
+building.max=0
+building.icon=normanbroadsword
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Caserne
+initial.priority=15000
+initial.male=orderguard
+initial.male=orderguard
+initial.male=orderguard
+initial.male=orderguard
+initial.tag=autospawnvillagers
+
+//Parameters for specific upgrades
+upgrade1.priority=800
+
+upgrade2.pathlevel=2
+

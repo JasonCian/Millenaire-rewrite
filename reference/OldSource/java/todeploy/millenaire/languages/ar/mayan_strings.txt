@@ -1,0 +1,35 @@
+﻿culture.mayan=المايا
+
+villager.mayan_boy=صبي
+villager.mayan_girl=صبية
+villager.mayan_teenagerMale=شاب
+villager.mayan_teenagerFemale=شابة
+villager.mayan_lumberman=حطاب
+villager.mayan_miner=منقب
+villager.mayan_shaman=شامان
+villager.mayan_peasant=فلاح
+villager.mayan_peasantwife=فلاحة
+villager.mayan_leader=قائد
+villager.mayan_richwoman=ملكة
+villager.mayan_warrior=محارب
+villager.mayan_chieftain=زعيم القبيلة
+villager.mayan_crafter=منقب
+villager.mayan_armysmith=حداد الجيش
+villager.mayan_sculptor=نحات
+villager.mayan_shamanwife=زوجة شامان
+villager.mayan_king=ملك
+villager.mayan_merchant=تاجر
+villager.mayan_chickenfarmer=مربي دجاج
+villager.mayan_farmer=مزارع ذره
+
+villager.lonemayanfarmer=مزارع منعزل
+villager.lonemayanpeasantwife=زوجة مزارع
+villager.lonemayanshaman=شامان منعزل
+villager.lonemayanshamanwife=زوجة شامان منعزل
+villager.mayanbanditboy=طفل قاطع طريق
+villager.mayanbanditwarrior=محارب قاطع طريق
+villager.mayanfemalebandit=قاطعة طريق
+
+villager.merchant_mayanfarmer=مزارع تاجر
+villager.merchant_mayanhunter=صياد تاجر
+villager.merchant_mayanshaman=شامان تاجر

@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:red_flower"
+        },
+        "title": {
+            "translate": "advancements.friendindeed.name"
+        },
+        "description": {
+            "translate": "advancements.friendindeed.desc"
+        }
+    },
+    "parent": "millenaire:firstcontact",
+    "criteria": {
+        "friendindeed": {
+            "trigger": "friendindeed"
+        }
+    }
+}

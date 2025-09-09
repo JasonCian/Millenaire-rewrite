@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y,variant=default": { "model": "millenaire:red_tiles", "x": 90, "y": 90 },
+        "axis=z,variant=default": { "model": "millenaire:red_tiles", "y": 90 },
+        "axis=x,variant=default": { "model": "millenaire:red_tiles" }
+    }
+}

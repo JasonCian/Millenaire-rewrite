@@ -1,0 +1,1 @@
+native:Eglise;gameNameKey:church_A2;tag:Praying;sign:1

@@ -1,0 +1,93 @@
+name=Stratiotiki Chorio
+icon=byzantinemace
+weight=10
+carriesraid=true
+
+maxSimultaneousConstructions=2
+
+pathmaterial=pathgravel
+pathmaterial=pathslabs
+pathmaterial=pathsandstone
+
+//Vanilla biomes
+biome=Plains
+biome=Sunflower Plains
+biome=Savanna
+biome=Savanna M
+biome=Savanna Plateau
+biome=Extreme Hills
+biome=Extreme Hills+
+
+//biomes o'plenty
+biome=brushland
+biome=chaparral
+biome=grassland
+biome=grove
+biome=meadow
+biome=orchard
+biome=shrubland
+biome=steppe
+
+//Traverse biomes
+biome=Meadow
+biome=Woodlands
+biome=Rocky Plateau
+biome=Lush Hills
+biome=Desert Shrubland
+
+outerwallType=borderposts
+
+//starting buildings
+centre=fortress
+start=inn
+start=pinegrove
+start=acaciagrove
+start=woodcutter
+start=sheepfarm
+start=architect
+start=fishfarm
+start=mine
+start=sandpit
+start=smelter
+start=workshop
+
+//player buildings
+player=playerhut
+player=playerhouse
+player=villaurbana
+player=playersmallplot
+player=playerlargeplot
+player=playerhugeplot
+player=gifthut
+
+//to be built in priority
+core=workerhouse
+core=woodcutter
+core=mason
+core=taverna
+core=vineyard
+core=olivetree
+core=olivepress
+core=olivetree
+core=cross
+
+//to be built after the start ones
+secondary=chapel
+secondary=presbytery
+secondary=vineyard
+secondary=olivetree
+secondary=archives
+secondary=market
+
+//never
+never=pergola
+never=silkfarm
+never=toolsmith
+never=dressmaker
+never=garden
+never=windmill
+never=farm
+never=wheatfield
+never=carrotfield
+
+banner_json={BlockEntityTag:{Base:12,Patterns:[{Pattern:byz,Color:11}]}}banner_json={BlockEntityTag:{Base:4,Patterns:[{Pattern:byz,Color:11}]}}banner_json={BlockEntityTag:{Base:0,Patterns:[{Pattern:byz,Color:11}]}}banner_json={BlockEntityTag:{Base:1,Patterns:[{Pattern:byz,Color:11}]}}banner_json={BlockEntityTag:{Base:14,Patterns:[{Pattern:byz,Color:11}]}}banner_json={BlockEntityTag:{Base:12,Patterns:[{Pattern:byz,Color:15}]}}banner_json={BlockEntityTag:{Base:4,Patterns:[{Pattern:byz,Color:15}]}}banner_json={BlockEntityTag:{Base:0,Patterns:[{Pattern:byz,Color:15}]}}banner_json={BlockEntityTag:{Base:1,Patterns:[{Pattern:byz,Color:15}]}}banner_json={BlockEntityTag:{Base:14,Patterns:[{Pattern:byz,Color:15}]}}banner_json={BlockEntityTag:{Base:12,Patterns:[{Pattern:vh,Color:11},{Pattern:byz,Color:0},{Pattern:byz,Color:0}]}}banner_json={BlockEntityTag:{Base:4,Patterns:[{Pattern:vh,Color:11},{Pattern:byz,Color:0},{Pattern:byz,Color:0}]}}banner_json={BlockEntityTag:{Base:1,Patterns:[{Pattern:vh,Color:11},{Pattern:byz,Color:0},{Pattern:byz,Color:0}]}}banner_json={BlockEntityTag:{Base:14,Patterns:[{Pattern:vh,Color:11},{Pattern:byz,Color:0},{Pattern:byz,Color:0}]}}banner_json={BlockEntityTag:{Base:12,Patterns:[{Pattern:vh,Color:15},{Pattern:byz,Color:0},{Pattern:byz,Color:0}]}}banner_json={BlockEntityTag:{Base:4,Patterns:[{Pattern:vh,Color:15},{Pattern:byz,Color:0},{Pattern:byz,Color:0}]}}banner_json={BlockEntityTag:{Base:1,Patterns:[{Pattern:vh,Color:15},{Pattern:byz,Color:0},{Pattern:byz,Color:0}]}}banner_json={BlockEntityTag:{Base:14,Patterns:[{Pattern:vh,Color:15},{Pattern:byz,Color:0},{Pattern:byz,Color:0}]}}banner_json={BlockEntityTag:{Base:12,Patterns:[{Pattern:vhr,Color:11},{Pattern:byz,Color:0},{Pattern:byz,Color:0}]}}banner_json={BlockEntityTag:{Base:4,Patterns:[{Pattern:vhr,Color:11},{Pattern:byz,Color:0},{Pattern:byz,Color:0}]}}banner_json={BlockEntityTag:{Base:1,Patterns:[{Pattern:vhr,Color:11},{Pattern:byz,Color:0},{Pattern:byz,Color:0}]}}banner_json={BlockEntityTag:{Base:14,Patterns:[{Pattern:vhr,Color:11},{Pattern:byz,Color:0},{Pattern:byz,Color:0}]}}banner_json={BlockEntityTag:{Base:12,Patterns:[{Pattern:vhr,Color:15},{Pattern:byz,Color:0},{Pattern:byz,Color:0}]}}banner_json={BlockEntityTag:{Base:4,Patterns:[{Pattern:vhr,Color:15},{Pattern:byz,Color:0},{Pattern:byz,Color:0}]}}banner_json={BlockEntityTag:{Base:1,Patterns:[{Pattern:vhr,Color:15},{Pattern:byz,Color:0},{Pattern:byz,Color:0}]}}banner_json={BlockEntityTag:{Base:14,Patterns:[{Pattern:vhr,Color:15},{Pattern:byz,Color:0},{Pattern:byz,Color:0}]}}banner_json={BlockEntityTag:{Base:12,Patterns:[{Pattern:by1,Color:15},{Pattern:by2,Color:15},{Pattern:byz,Color:12},{Pattern:byz,Color:12},{Pattern:byz,Color:12},{Pattern:byz,Color:11}]}}banner_json={BlockEntityTag:{Base:4,Patterns:[{Pattern:by1,Color:15},{Pattern:by2,Color:15},{Pattern:byz,Color:4},{Pattern:byz,Color:4},{Pattern:byz,Color:4},{Pattern:byz,Color:11}]}}banner_json={BlockEntityTag:{Base:0,Patterns:[{Pattern:by1,Color:15},{Pattern:by2,Color:15},{Pattern:byz,Color:0},{Pattern:byz,Color:0},{Pattern:byz,Color:0},{Pattern:byz,Color:11}]}}banner_json={BlockEntityTag:{Base:1,Patterns:[{Pattern:by1,Color:15},{Pattern:by2,Color:15},{Pattern:byz,Color:1},{Pattern:byz,Color:1},{Pattern:byz,Color:1},{Pattern:byz,Color:11}]}}banner_json={BlockEntityTag:{Base:14,Patterns:[{Pattern:by1,Color:15},{Pattern:by2,Color:15},{Pattern:byz,Color:14},{Pattern:byz,Color:14},{Pattern:byz,Color:14},{Pattern:byz,Color:0}]}}banner_json={BlockEntityTag:{Base:14,Patterns:[{Pattern:by1,Color:0},{Pattern:by2,Color:0},{Pattern:byz,Color:14},{Pattern:byz,Color:14},{Pattern:byz,Color:14},{Pattern:byz,Color:15}]}}

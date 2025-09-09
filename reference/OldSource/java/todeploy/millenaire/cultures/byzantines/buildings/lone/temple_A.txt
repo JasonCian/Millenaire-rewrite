@@ -1,0 +1,7 @@
+building.length=18
+building.width=12
+building.buildingorientation=3
+building.icon=quartz
+
+initial.startlevel=-1
+initial.nativename=Archaíos Naós

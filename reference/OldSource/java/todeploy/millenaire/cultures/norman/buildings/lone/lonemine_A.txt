@@ -1,0 +1,15 @@
+building.length=14
+building.width=10
+building.showtownhallsigns=false
+building.icon=normanpickaxe
+building.max=0
+building.version=2
+
+//Parameters for initial construction
+initial.startlevel=-5
+initial.nativename=Mine
+initial.priority=3000
+initial.male=loneminer
+initial.female=lonewife
+initial.tag=leasure
+initial.shop=lonemine

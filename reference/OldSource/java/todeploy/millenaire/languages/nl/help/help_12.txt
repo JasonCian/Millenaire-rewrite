@@ -1,0 +1,13 @@
+version:4.3.0
+<darkblue>De Byzantijnen
+Trotse en goede opvolgers van de Romeinen. Ze maken wijn en mooie religieuze iconen. Ze spreken Grieks maar hun taal wordt vertaalt als je hem leert.
+
+<darkblue>unieke objecten en blokken
+
+-Ze verbouwen druiven en maken er wijn van
+-Ze gebruiken klei om mooie tegels te maken waarmee ze hun gebouwen bedekken
+-Hun meesterschap in sericulture (het oogsten van zijdeworm) geeft hen zijde waarmee ze hun iconen schilderen
+
+<darkblue>Specifiek recept
+
+-Twee lijnen met 3 druiven per lijn maakt wijn

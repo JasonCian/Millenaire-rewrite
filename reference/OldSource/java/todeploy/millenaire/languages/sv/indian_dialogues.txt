@@ -1,0 +1,143 @@
+
+
+newchat;key:sun,tag:notraining,weigth:10
+v1;0;Kitni Garmi Hai! / Det är så varmt!
+v2;30;Main is garmi se pagal ho gaya hoon. / Värmen gör mig galen.
+v1;70;Baarish kab hogi? / När kommer det att regna?
+
+newchat;key:monsoon,tag:notraining,weigth:10
+v1;0;Barish nahi ho rahi hai. / Det regnar inte.
+v2;30;Barish hogi. Chinta mat karo. / Oroa dig inte. Det kommer regna.
+v1;60;Tum har sal yahi bolte ho... / Du säger samma sak varje år....
+
+newchat;key:rain,tag:raining,weigth:10
+v1;0;Arre! Baarish ho rahi hai! / Ja! Det regnar!
+v2;40;Itni si baarish se kya hoga... / Så lite regn gör ingen nytta...
+v1;80;Sukhe se toh behtar hai. / Det är bättre än inget regn alls.
+v1;120;Lekin fasal kaise hogi? / Men hur ska våra grödor gro?
+
+newchat;key:sandstone,weigth:10
+v1;0;Hamara gaon pragati kar raha hai, hai na? / Våran by gör framsteg, inte?
+v2;40;Par abhi bahut kaam baki hai. / Men det är fortfarande mycket som måste göras.
+v1;80;Sach me? / Verkligen?
+v2;100;Bilkul! / Definitivt!
+
+newchat;key:lakshmi,v1:adult,v2:adult,weigth:10
+v1;0;Jao, puja ke liye ek thali le aao. / Gå, hämta en platta med offergåvor till puja.
+v2;40;Turant le aata hoon. / Jag hämtar den genast.
+v1;80;Bhagwaan ko prabhavit karna jaroori hai. / Vi måste blidka gudarna.
+v1;130;Tab hi baarish samay par aayegi. / Endast då kommer det att regna.
+
+newchat;key:beef,v2:adult,weigth:10
+v1;0;Kabhi socha hai, guy ka maas ka swad kya ho sakta hai? / Har du någonsin undrat hur ko kött smakar?
+v2;60;Guy ka maas? Lekin ye toh dharm ke khilaaf hai! / Ko kött? men att äta det är imot våran dharma!
+v1;120;Lekin shayad woh swadisht hai...? / Men tänk om det smakar gott...?
+v2;180;Kya tum normandi ke jungli ho? / Är du en Normansk barbar?
+
+newchat;key:rice,v1:child,v2:adult,weigth:10
+v1;0;Mai rasgulla chahta hoon. Mujhe bohot bhukh lagi hai! / Jag vill ha rasgulla. Jag är hungrig!
+v2;60;Nahi. Tumhe sirf chawal khaana chahiye. / Nej. Du borde bara äta ris.
+v1;120;Lekin maine subhah hi ye khaya hai! / Men jag har redan ätit det på morgonen redan!
+v1;180;Aur kal bhi, parson bhi... / Och i går, och dagen innan...
+v2;220;Toh tum yahi aaj raat ko, kal, aur jeevan bhar khao! / Och du kommer få äta det i kväll, imorgon, och i resten av ditt liv!
+
+newchat;key:indian_lumberman,v1:vtype:indian_lumberman,weigth:10
+v1;0;Aaj maine bahut jyada lakdi kaat li! / Jag har huggit mycket trä idag.
+v2;60;Tum hamare jungle ko reghistaan bana doge!        / Du kommer att få våran skog att bli en öken!
+v1;120;Pareshan mat ho, yahaan bina kuch kiye hi pedh badhte hai. / Oroa dig inte, här växer träden nästan av sig själva.
+
+newchat;key:indian_raja,v1:vtype:indian_raja,v2:adult,notrel:spouse,weigth:10
+v1;0;Mera mahal bahut chota ho gaya hai. / Mitt palats har blivit väldigt litet.
+v2;60;Lekin maharaj, ye is kshetra me sabse bada hai! / Men Maharaj, det är det största i landet!
+v1;120;Lekin ye mujhe chota lagne laga hai. / Men för mig känns det litet.
+
+newchat;key:indian_rajputgeneral,v1:vtype:indian_rajputgeneral,weigth:10
+v1;0;Ek shaktishali qila hamare dushmanon ke khilaaf sabse accha bachaav hai. / Ett starkt fort är bästa försvaret mot våra fiender.
+v2;60;Kaun se dushman, senapati? / Vilka fiender, General?
+v1;100;Ye Norman aur anya jungli log. / Normanerna och andra barbarer.
+
+newchat;key:indian_rani,v1:vtype:indian_rani,notrel:spouse,weigth:10
+v1;0;Mere pati amir aur prasidh hai. / Min man är rik och respekterad.
+v2;50;Ji han! Yeh sach hai. / Åh ja! det är sant.
+v1;110;Par ve mere liye kabhi kuch laatey nahi hai. / Ändå, så ger han mig inget.
+v2;160;Kyon nahi? Kal hi unhone tumhare liye teen sariyaan laayi thi. / Varför inte? bara igår fick du av honom tre saris.
+
+newchat;key:indian_richwoman,v1:vtype:indian_richwoman,v2:female,v2:adult,v2:notvtype:indian_richwoman-indian-rani,weigth:10
+v1;0;Aaj mere pati ne mere liye 50 tola sona kharida. / Min man köpte femtio tolas av guld idag.
+v2;60;50 tola sona! Mere paas sirf 10 tola sona hai... / Femtio tolas av guld! jag har bara 10 tolas...
+v1;120;Aasha hai ki sitaare tumhare paksh mein honge. / Låt oss hoppas att stjärnorna radar upp sig i din förmån.
+
+newchat;key:indian_sculptor,v1:vtype:indian_sculptor,weigth:10
+v1;0;Mujhe pratimaon banane ka achha mauka mila hai. / Jag har bra tillfällen att göra statyer.
+v2;50;Tum bahut achhe murtiyan banate ho.        / Det är för att du gör bra statyer.
+v1;100;Main pandhara saal se murtiyan bana raha hoon. / Jag har hållit på med att göra statyer ganska länge.
+
+newchat;key:indian_smith,v1:vtype:indian_smith,v2:adult,weigth:10
+v1;0;Hame aur phavadon ki zarurat hai. / Vi behöver mer hackor.
+v2;50;Main kaam mein vyasth hoon. / Jag är upptagen just nu.
+v1;100;Phavdiyon ki bhi zarurat hai. / Vi behöver spadar ochså.
+v2;150;Uff! Mujhe kitna kaam karna padta hai! / Ugh! Jag har så mycket att göra!
+
+newchat;key:indian_soldier,v1:vtype:indian_soldier,v2:adult,v2:female,notrel:spouse,notrel:sibling,notrel:child,notrel:parent,weigth:10
+v1;0;<targetname>, shayad gaon ke nikat daaku hai! / <targetname>, Jag tror banditer lurar nära vår by!
+v2;50;Chinta mat karo, main gaon ki raksha karonga. / Oroa dig inte, jag kommer skydda byn.
+v1;100;Tum bahut shaktishaali ho! / Du är så stark!
+v1;130;Aur sundar bhi. / Och vacker med.
+v1;150;Agar aap ke paas moonch na hoti... / Om det inte bara vore för din mustasch...
+v2;200;Meri moonch ke baare main kuch bhi na kaho! / Inte ett ord om min mustasch!
+
+newchat;key:indian_villagechief,v1:vtype:indian_villagechief,v2:vtype:indian_peasant-indian_peasantwife,weigth:10
+v1;0;Senapati, iss saal fasal achhi nahi hai./ Min herre, skörden är inte bra i år.
+v2;40;Tu aalsi hai! Jyada kaam kar! / Det är för att du är lat! Arbeta mera!
+v1;80;Lekin baarish hi nahi hui... / Men det har inte regnat alls...
+v2;120;Meri galti nahi hai. Mujhe apna paisa chahiye. / Det är inte mitt fel. Jag vill ha min hyra.
+v1;170;Lekin mere paas paise nahi hai. / Men jag har inga pengar.
+v2;210;Fir mujhe meri zameen do. / Ge mig då tilbaka mitt land.
+v1;260;Mere paas kuch bhi nahi rehe jayega! / Men då har jag inget kvar!
+
+newchat;key:newhouse,villager:indian_merchant,v1:notvtype:indian_merchant,v2:notvtype:indian_merchant,weigth:10
+v1;0;Vaha Vyapaari apne ghar ke bagal mein ek naya ghar ban rahe hai. / Den köpmannen bygger ett nytt hus brevid sitt eget hus.
+v2;60;Ek aur ghar? Par kyun? / Ett till hus? Men varför behöver han ett nytt?
+v1;90;Vaha naya ghar unke betey ke liye hai. / Det nya huset är för hans son.
+v1;140;Jab unke betey ki shaadi hogi, tab dono paas me honge. / När hans son blir gift, så kommer både far och son bo brevid varandra.
+
+newchat;key:gold,v1:vtype:indian_peasantwife,rel:spouse,villager:indian_villagechief,weigth:10
+v1;0;Gaon ke mukhiye ne apni patni ke liye sone ke kangan laaye. / Byns hövding gav sin fru ett guld armband.
+v1;60;Par aap mere liye kuch nahi laatey... / Men du ger aldrig mej smycken...
+v2;110;Tumhe ek amir aadmi se shaadi karni chahiye thi. / Du skulle ha gift dig med en rik man.
+v1;160;Lekin mujhe aur dahej dena padta. / Men då skulle jag ha fått betala mer hemgift.
+v2;200;Fir tumhe bhagyawaan lagna chahiye ki main tumhara pati hoon. / Då borde du känna dig välsignad av att ha en man som jag.
+
+newchat;key:alcohol,v1:vtype:indian_peasant-indian_lumberman,v2:vtype:indian_peasant-indian_lumberman,weigth:10
+v1;0;Maine bahit dinon se sharaab nahi piya hai. / Jag har inte dryckit alkohol på länge.
+v2;50;Gaon ke bahar ek aadmi sharaab aur moongfali bechta hai. / Det finns en man som sitter under banyan trädet utanför byn och säljer alkohol och jordnötter.
+v1;110;Sach? Maine socha tha ki gaon mein sharaab par pratibandh laga diya gaya hai. / Verkligen? jag trodde det var förbjudet att sälja alkohol i byn!
+v2;160;Yeh kisi aur ko mat batana. / Berätta inte för någon annan.
+v1;200;Chalo, hum aaj shaam ko vahan jaatey hai. / Okej, låt oss gå dit ikväll.
+
+newchat;key:childoneliner1,v1:child,v2:child,weigth:10
+v1;0;Kya aap ne mere liye khiloune laaye? / Har du köpt några leksaker till mig?
+
+newchat;key:childoneliner2,v1:child,v2:child,weigth:10
+v1;0;Mere paas bahut saare dost hai.         / Jag har många vänner.
+
+newchat;key:childoneliner3,v1:child,v2:child,weigth:10
+v1;0;Meri maa shaam ko mujhe khelne nahi deti hai. / Min mamma låter mig inte leka när det börjar bli mörkt.
+
+newchat;key:childrenzombie,v1:child,v2:child,weigth:2
+v1;0;Namaskaar! / Hej!
+v2;50;Kya tumane dekha? / Såg du det?
+v1;100;Kya dekhoon? / Se vad?
+v2;150;Mainne dekha ... ek zombee! / Jag såg... en zombie!
+v1;200;Vaastav mein? / Verkligen?
+v2;250;Haan! Yah bahut daraavana tha! Usane mujhe yah bhee bataaya ki yah aapako khaega! / Ja! Det var så läskigt! Den sa till och med att den ska äta dig!
+v1;300;Ahhhhh! Maan! Ek zombee mujhe khaane ja raha hai! / Ahhhh! Mamma! En zombie ska äta mig!
+
+newchat;key:childrencreeper,v1:child,v2:child,weigth:2
+v1;0;Namaskaar! / Hej!
+v2;50;Kya tumane dekha? / Såg du det?
+v1;100;Kya dekhoon? / Se vadå?
+v2;150;Mainne dekha ... ek creeper! / Jag såg... En Creeper!
+v1;200;Vaastav mein? / Verkligen?
+v2;250;Haan! Yah bahut daraavana tha! yah vahaan ek ped uda diya! / Ja! Den var så läskig! Den sprängde ett träd där borta!
+v1;300;Lekin ruko, mera pasandeeda ped vahaan par tha ... waaaaaaa / Vänta... Mitt favorit träd var där borta... WAAAAAAA

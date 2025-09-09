@@ -1,0 +1,12 @@
+priority=25
+
+duration=5000
+
+heldItems=sandstone,sandstone_carved
+
+input=sandstone,4
+output=sandstone_carved,4
+
+townhalllimit=sandstone_carved,256
+
+sound=stone

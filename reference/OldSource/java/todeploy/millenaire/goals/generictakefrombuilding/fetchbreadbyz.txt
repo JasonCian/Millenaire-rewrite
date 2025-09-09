@@ -1,0 +1,15 @@
+// mc ++
+
+priority=60
+priorityrandom=10
+
+buildingTag=bakery
+
+heldItems=bread
+
+sentencekey=takefrombuilding
+labelkey=takefrombuilding
+
+collect_good=bread,8
+
+minimumpickup=2

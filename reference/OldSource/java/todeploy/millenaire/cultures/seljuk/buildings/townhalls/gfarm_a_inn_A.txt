@@ -1,0 +1,15 @@
+building.length=30
+building.width=30
+building.issubbuilding=true
+building.max=0
+building.parentbuildingplan=gfarm_A0
+
+building.icon=bed_red
+
+initial.startlevel=-1
+initial.nativename=Büyük Çiftlik Konağı
+initial.priority=1000
+initial.male=turk_localmerchant
+
+initial.tag=inn
+initial.signs=1,0

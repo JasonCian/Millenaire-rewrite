@@ -1,0 +1,15 @@
+//Parameters for the building as a whole
+building.length=65
+building.width=84
+building.buildingorientation=3
+building.issubbuilding=true
+building.parentbuildingplan=hotspringsinn_A0
+building.max=0
+building.icon=udon
+
+//Parameters for initial construction
+initial.startlevel=-3
+initial.nativename=Onsenmachi
+initial.priority=50
+initial.female=japanese_innservant
+

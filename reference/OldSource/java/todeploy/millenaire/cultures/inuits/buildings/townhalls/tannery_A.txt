@@ -1,0 +1,32 @@
+//Parameters for the building as a whole
+building.length=16
+building.width=11
+building.areatoclear=3
+building.buildingorientation=3
+building.max=0
+building.icon=leather
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Ieeiaqsiruq
+initial.priority=1000
+initial.male=inuit_tanner
+initial.female=inuit_wife
+initial.shop=inuittownhall
+initial.signs=1,2,3,0,4,5,7,6,8
+
+
+//Parameters for specific upgrades
+upgrade1.priority=700
+
+upgrade2.priority=600
+upgrade2.rebuildpath=true
+
+upgrade3.priority=500
+upgrade3.rebuildpath=false
+
+upgrade4.priority=400
+
+upgrade5.priority=300
+

@@ -1,0 +1,555 @@
+#Desde la 1.12 en adelante, los nombres de los bloques y los ítems deben estar en los archivos lang
+#Junto al archivo jar.
+#Se proporciona una copia en millenaire/languages para conveniencia de los traductores,
+#pero no será utilizado por Minecraft. Sin embargo, se copiará dentro del jar.
+#cuando se empaqueta una nueva versión de Millénaire.
+
+#The Translation Gaps calculator however does use the versions in the
+#millenaire/language folder, so you can check your progress without
+#copying it in the jar
+
+#Item names
+
+itemgroup.millenaire=Millénaire
+itemgroup.millenaire_content_creator=Millenaire - Para Creadores de Contenido
+
+item.millenaire.denier.name=Denario
+item.millenaire.denieror.name=Denario de Oro
+item.millenaire.denierargent.name=Denario Argénteo
+item.millenaire.calva.name=Calvados
+item.millenaire.tripes.name=Callos
+item.millenaire.boudin.name=Morcilla
+
+tile.millenaire.dirtwall.name=Pared de Tierra
+
+tile.millenaire.locked_chest.name=Cofre Cerrado
+item.millenaire.normanpickaxe.name=Pico Normando
+item.millenaire.normanaxe.name=Hacha Normanda
+item.millenaire.normanshovel.name=Pala Normanda
+item.millenaire.normanhoe.name=Azada Normanda
+item.millenaire.normanbroadsword.name=Sable Normando
+item.millenaire.normanhelmet.name=Casco Normando
+item.millenaire.normanplate.name=Pechera Normanda
+item.millenaire.normanlegs.name=Grebas Normandas
+item.millenaire.normanboots.name=Botas normandas
+item.millenaire.rice.name=Arroz
+item.millenaire.turmeric.name=Cúrcuma
+item.millenaire.vegcurry.name=Curry Vegetariano
+item.millenaire.chickencurry.name=Pollo al Curry
+item.millenaire.brickmould.name=Molde de Ladrillos
+item.millenaire.rasgulla.name=Rasgulla
+tile.millenaire.timberframeplain.name=Marco de Madera
+tile.millenaire.timberframecross.name=Marco de madera Cruzado
+tile.millenaire.wetbrick0.name=Ladrillo Húmedo
+tile.millenaire.cookedbrick.name=Ladrillo Cocido (OBSOLETO)
+tile.millenaire.mudbrick.name=Ladrillo de Barro
+tile.millenaire.wall_mud_brick.name=Pared de Ladrillos de Barro
+item.millenaire.indianstatue.name=Estatua Hindú
+item.millenaire.ciderapple.name=Manzana de Sidra
+item.millenaire.cider.name=Sidra
+item.millenaire.summoningwand.name=Varita de Invocación
+item.millenaire.negationwand.name=Varita de Negación
+item.millenaire.parchment_normanvillagers.name=Aldeanos Normandos
+item.millenaire.parchment_normanitems.name=Objetos Normandos
+item.millenaire.parchment_normanbuildings.name=Edificios Normandos
+item.millenaire.parchment_normanfull.name=Pergamino Normando Completo
+item.millenaire.tapestry.name=Tapiz Normando
+item.millenaire.vishnu_amulet.name=Amuleto de Vishnu
+item.millenaire.alchemist_amulet.name=Amuleto del Alquimista
+item.millenaire.yggdrasil_amulet.name=Amuleto de Yggdrasil
+item.millenaire.skoll_hati_amulet.name=Amuleto de Sköll y Hati
+item.millenaire.parchment_villagescroll.name=Pergamino de la Aldea
+item.millenaire.parchment_indianvillagers.name=Aldeanos Indios
+item.millenaire.parchment_indianitems.name=Objetos Indios
+item.millenaire.parchment_indianbuildings.name=Edificios Indios
+item.millenaire.parchment_indianfull.name=Pergamino Indio Completo
+item.millenaire.unknownpowder.name=Pólvora Misteriosa
+tile.millenaire.alchemistexplosive.name=Explosivo del Alquimista
+
+tile.millenaire.stained_glass.white.name=Vidrieras Blancas
+tile.millenaire.stained_glass.yellow.name=Vidrieras Amarillas
+tile.millenaire.stained_glass.yellow_red.name=Vidrieras Amarillas y Rojas
+tile.millenaire.stained_glass.red_blue.name=Vidrieras Rojas y Azules
+tile.millenaire.stained_glass.green_blue.name=Vidrieras Verdes y Azules
+tile.millenaire.rosette.name=Vidriera del Rosetón
+
+tile.millenaire.stairs_timberframe.name=Escaleras de Marco de Madera
+tile.millenaire.stairs_thatch.name=Escaleras de Paja
+tile.millenaire.stairs_cookedbrick.name=Escaleras de Ladrillo Cocido
+tile.millenaire.stairs_mudbrick.name=Escaleras de Ladrillos de Barro
+tile.millenaire.stairs_byzantine_tiles.name=Escaleras de Azulejos Bizantinos
+
+tile.millenaire.slabs_timberframeplain.name=Losa de Marco de Madera
+tile.millenaire.slabs_thatch.name=Losa de Paja
+tile.millenaire.slabs_cookedbrick.name=Losa de Ladrillo Cocido
+tile.millenaire.slabs_mudbrick.name=Losa de Ladrillo de Barro
+
+item.millenaire.wah.name=Tamal
+item.millenaire.masa.name=Masa
+item.millenaire.maize.name=Maíz
+tile.millenaire.mayangoldblock.name=Adorno de Oro
+item.millenaire.mayanstatue.name=Grabado Maya
+item.millenaire.parchment_mayanvillagers.name=Aldeanos Maya
+item.millenaire.parchment_mayanitems.name=Objetos Maya
+item.millenaire.parchment_mayanbuildings.name=Edificios Maya
+item.millenaire.parchment_mayanfull.name=Pergamino Maya Completo
+item.millenaire.mayanmace.name=Maza de Obsidiana
+item.millenaire.mayanpickaxe.name=Pico de Obsidiana
+item.millenaire.mayanaxe.name=Hacha de Obsidina
+item.millenaire.mayanshovel.name=Pala de Obsidiana
+item.millenaire.mayanhoe.name=Azada de Obsidiana
+item.millenaire.obsidianflake.name=Escama de Obsidiana
+item.millenaire.cacauhaa.name=Cacauhaa
+
+tile.millenaire.paper_wall.name=Pared de Papel
+item.millenaire.udon.name=Udon
+tile.millenaire.thatch.name=Paja
+
+item.millenaire.parchment_sadhu.name=Libro del Sadhu
+
+item.millenaire.tachisword.name=Tachi
+item.millenaire.yumibow.name=Arco Yumi
+item.millenaire.sake.name=Sake
+item.millenaire.ikayaki.name=Ikayaki
+
+item.millenaire.japanesebluelegs.name=Grebas Azules Ō-yoroi
+item.millenaire.japanesebluehelmet.name=Casco Azul Ō-yoroi
+item.millenaire.japaneseblueplate.name=Pechera Azul Ō-yoroi
+item.millenaire.japaneseblueboots.name=Botas Azules Ō-yoroi
+
+item.millenaire.japaneseredlegs.name=Grebas Rojas Ō-yoroi Rojas
+item.millenaire.japaneseredhelmet.name=Casco Rojo Ō-yoroi Rojo
+item.millenaire.japaneseredplate.name=Pechera Roja Ō-yoroi Roja
+item.millenaire.japaneseredboots.name=Botas Rojas Ō-yoroi Rojas
+
+item.millenaire.japaneseguardlegs.name=Grebas Keiko
+item.millenaire.japaneseguardhelmet.name=Casco Keiko
+item.millenaire.japaneseguardplate.name=Pechera Keiko
+item.millenaire.japaneseguardboots.name=Botas Keiko
+
+item.millenaire.parchment_japanesevillagers.name=Aldeanos Japoneses
+item.millenaire.parchment_japaneseitems.name=Objetos Japoneses
+item.millenaire.parchment_japanesebuildings.name=Edificios Japoneses
+item.millenaire.parchment_japanesefull.name=Pergamino Japonés Completo
+
+tile.millenaire.silkwormempty.name=Bloque Vacío de Sericicultura
+tile.millenaire.silkwormfull.name=Bloque de Sericicultura
+tile.millenaire.japanese_tiles.name=Azulejos Japoneses
+tile.millenaire.japanese_tiles_slab.name=Baldosa de Azulejos Japoneses
+tile.millenaire.japanese_stone_tiles.name=Piedra de Azulejos Japoneses
+
+tile.millenaire.byzantine_tiles.name=Azulejos Bizantinos
+tile.millenaire.byzantine_tiles_slab.name=Baldosa de Azulejos Bizantinos
+tile.millenaire.byzantine_stone_tiles.name=Piedra de Azulejos Bizantinos
+
+item.millenaire.grapes.name=Uvas
+item.millenaire.vine.name=Vides
+item.millenaire.winefancy.name=Vino Malvasía
+item.millenaire.silk.name=Seda
+item.millenaire.byzantineiconsmall.name=Icono Bizantino Pequeño
+item.millenaire.byzantineiconmedium.name=Icono Bizantino Mediano
+item.millenaire.byzantineiconlarge.name=Icono Bizantino Grande
+item.millenaire.byzantineboots.name=Botas Bizantinas
+item.millenaire.byzantinelegs.name=Grebas Bizantinas
+item.millenaire.byzantineplate.name=Pechera Bizantina
+item.millenaire.byzantinehelmet.name=Casco Bizantino
+item.millenaire.byzantinemace.name=Maza Bizantina
+item.millenaire.feta.name=Queso Feta
+item.millenaire.winebasic.name=Vino
+item.millenaire.clothes_byz_wool.name=Ropa de Lana Bizantina
+item.millenaire.clothes_byz_silk.name=Ropa de Seda Bizantina
+
+item.millenaire.souvlaki.name=Souvlaki
+item.millenaire.purse.name=Bolsa de Denarios
+
+item.millenaire.mayanquestcrown.name=Corona Maya
+
+tile.millenaire.pathdirt.name=Camino de Tierra
+tile.millenaire.pathgravel.name=Camino de Grava
+tile.millenaire.pathslabs.name=Camino de Losas
+tile.millenaire.pathsandstone.name=Camino de Losas de Arenisca
+tile.millenaire.pathochretiles.name=Camino de Losas Ocre
+tile.millenaire.pathgravelslabs.name=Camino de Losas y Grava
+tile.millenaire.pathsnow.name=Camino de Nieve
+
+tile.millenaire.pathdirt_slab.name=Camino de Tierra
+tile.millenaire.pathgravel_slab.name=Camino de Grava
+tile.millenaire.pathslabs_slab.name=Camino de Losas
+tile.millenaire.pathsandstone_slab.name=Camino de Losas de Arenisca
+tile.millenaire.pathochretiles_slab.name=Camino de Losas Ocre
+tile.millenaire.pathgravelslabs_slab.name=Camino de Losas y Grava
+tile.millenaire.pathsnow_slab.name=Camino de Nieve
+
+tile.millenaire.markerblock.preserveground.name=Preservar el Terreno
+tile.millenaire.markerblock.sleepingpos.name=Posición de Dormir
+tile.millenaire.markerblock.sellingpos.name=Posición de Vender
+tile.millenaire.markerblock.craftingpos.name=Posición de Fabricar
+tile.millenaire.markerblock.defendingpos.name=Posición de Defender
+tile.millenaire.markerblock.shelterpos.name=Posición de Proteger
+tile.millenaire.markerblock.pathstartpos.name=Posición de Inicio del Camino
+tile.millenaire.markerblock.leisurepos.name=Posición de Ocio
+tile.millenaire.markerblock.stall.name=Posición de Pie
+tile.millenaire.markerblock.brickspot.name=Posición de Secado de Ladrillos
+tile.millenaire.markerblock.healingspot.name=Posición de Curación
+tile.millenaire.markerblock.fishingspot.name=Posición de Pesca
+
+tile.millenaire.animalspawn.cow.name=Punto de Reaparición de Vacas
+tile.millenaire.animalspawn.pig.name=Punto de Reaparición de Cerdos
+tile.millenaire.animalspawn.sheep.name=Punto de Reaparición de Ovejas
+tile.millenaire.animalspawn.chicken.name=Punto de Reaparición de Pollos
+tile.millenaire.animalspawn.squid.name=Punto de Reaparición de Calamares
+tile.millenaire.animalspawn.wolf.name=Punto de Reaparición de Lobos
+
+tile.millenaire.mainchest.name=Cofre Principal
+
+tile.millenaire.source.stone.name=Bloque de Origen de Piedra
+tile.millenaire.source.sand.name=Bloque de Origen de Arena
+tile.millenaire.source.sandstone.name=Bloque de Origen de Arenisca
+tile.millenaire.source.redsandstone.name=Bloque de Origen de Arenisca Roja
+tile.millenaire.source.clay.name=Bloque de Origen de Arcilla
+tile.millenaire.source.gravel.name=Bloque de Origen de Grava
+tile.millenaire.source.granite.name=Bloque de Origen de Granito
+tile.millenaire.source.diorite.name=Bloque de Origen de Diorita
+tile.millenaire.source.andesite.name=Bloque de Origen de Andesita
+tile.millenaire.source.quartz.name=Bloque de Origen de Cuarzo
+tile.millenaire.source.snow.name=Bloque de Origen de Nieve
+tile.millenaire.source.ice.name=Bloque de Origen de Hielo
+
+tile.millenaire.freeblock.stone.name=Piedra Gratis
+tile.millenaire.freeblock.sand.name=Arena Gratis
+tile.millenaire.freeblock.gravel.name=Grava Gratis
+tile.millenaire.freeblock.sandstone.name=Arenisca Gratis
+tile.millenaire.freeblock.wool.name=Lana Gratis
+
+tile.millenaire.treespawn.oak.name=Punto de Reaparición de Robles
+tile.millenaire.treespawn.pine.name=Punto de Reaparición de Pinos
+tile.millenaire.treespawn.birch.name=Punto de Reaparición de Abedules
+tile.millenaire.treespawn.jungle.name=Punto de Reaparición de Árboles de Jungla
+tile.millenaire.treespawn.acacia.name=Punto de Reaparición de Acacias
+tile.millenaire.treespawn.darkoak.name=Punto de Reaparición de Robles Oscuros
+tile.millenaire.treespawn.appletree.name=Punto de Reaparición de Manzanos
+
+tile.millenaire.soil.soil.name=Suelo de Trigo
+tile.millenaire.soil.ricesoil.name=Suelo de Arroz
+tile.millenaire.soil.turmericsoil.name=Suelo de Cúrcuma
+tile.millenaire.soil.sugarcanesoil.name=Suelo de Caña de Azúcar
+tile.millenaire.soil.potatosoil.name=Suelo de Patata
+tile.millenaire.soil.netherwartsoil.name=Suelo de Verruga Abisal
+tile.millenaire.soil.vinesoil.name=Suelo de Vid
+tile.millenaire.soil.maizesoil.name=Suelo de Maíz
+tile.millenaire.soil.cacaospot.name=Suelo de Cacao
+tile.millenaire.soil.carrotsoil.name=Suelo de Zanahoria
+tile.millenaire.soil.cottonsoil.name=Suelo de Algodón
+
+tile.millenaire.decorblock.tapestry.name=Tapiz Normando
+tile.millenaire.decorblock.indianstatue.name=Estatua India
+tile.millenaire.decorblock.byzantineiconsmall.name=Icono Bizantino Pequeño
+tile.millenaire.decorblock.byzantineiconmedium.name=Icono Bizantino Mediano
+tile.millenaire.decorblock.byzantineiconlarge.name=Icono Bizantino Grande
+tile.millenaire.decorblock.mayanstatue.name=Estatua Maya
+
+item.millenaire.bearmeat_raw.name=Carne de Oso Cruda
+item.millenaire.bearmeat_cooked.name=Filete de Oso
+
+tile.millenaire.bed_straw.name=Cama de Paja
+tile.millenaire.bed_charpoy.name=Cama Charpoy
+tile.millenaire.bed_futon.name=Futón
+
+item.millenaire.wolfmeat_raw.name=Carne de Lobo Cruda
+item.millenaire.wolfmeat_cooked.name=Filete de Lobo
+
+tile.millenaire.sod_oak.name=Tablas de Madera de Roble y Césped
+tile.millenaire.sod_spruce.name=Tablas de Madera de Abeto y Césped
+tile.millenaire.sod_birch.name=Tablas de Madera de Abedul y Césped
+tile.millenaire.sod_jungle.name=Tablas de Madera de Árbol de Jungla y Césped
+tile.millenaire.sod_acacia.name=Tablas de Madera de Acacia y Césped
+tile.millenaire.sod_dark_oak.name=Tablas de Madera de Roble Oscuro y Césped
+tile.millenaire.icebrick.name=Bloque de Hielo
+tile.millenaire.snowbrick.name=Bloque de Nieve
+tile.millenaire.inuitcarving.name=Tallado Inuit
+tile.millenaire.snowwall.name=Pared de Nieve
+
+item.millenaire.furhelmet.name=Capucha de Piel
+item.millenaire.furplate.name=Abrigo de Piel
+item.millenaire.furlegs.name=Pantalones de Piel
+item.millenaire.furboots.name=Botas de Piel
+
+item.millenaire.seafood_raw.name=Marisco Crudo
+item.millenaire.seafood_cooked.name=Marisco
+
+item.millenaire.inuitbearstew.name=Estofado de Oso Inuit
+item.millenaire.inuitmeatystew.name=Estofado de Carne Inuit
+item.millenaire.inuitmushroomstew.name=Estofado de Setas Inuit
+item.millenaire.inuitpotatostew.name=Estofado de Patatas Inuit
+
+item.millenaire.inuitbow.name=Arco Pitiksi
+item.millenaire.ulu.name=Ulu
+
+item.millenaire.inuittrident.name=Kakivak
+
+item.millenaire.tannedhide.name=Piel Tratada
+
+item.millenaire.hidehanging.name=Piel Colgada
+
+tile.millenaire.fire_pit.name=Fogata
+
+tile.millenaire.import_table.name=Mesa de Importación
+
+tile.millenaire.sapling_appletree.name=Brote de Manzano
+tile.millenaire.leaves_appletree.name=Hojas de Manzano
+
+item.millenaire.cotton.name=Algodón
+
+item.millenaire.paint_bucket_white.name=Cubo de Cal Blanca
+item.millenaire.paint_bucket_black.name=Cubo de Cal Negra
+item.millenaire.paint_bucket_blue.name=Cubo de Cal Azul
+item.millenaire.paint_bucket_brown.name=Cubo de Cal Marrón
+item.millenaire.paint_bucket_cyan.name=Cubo de Cal Cian
+item.millenaire.paint_bucket_gray.name=Cubo de Cal Gris
+item.millenaire.paint_bucket_green.name=Cubo de Cal Verde
+item.millenaire.paint_bucket_light_blue.name=Cubo de Cal Azul Claro
+item.millenaire.paint_bucket_lime.name=Cubo de Cal Verde Lima
+item.millenaire.paint_bucket_magenta.name=Cubo de Cal Magenta
+item.millenaire.paint_bucket_orange.name=Cubo de Cal Naranja
+item.millenaire.paint_bucket_pink.name=Cubo de Cal Rosa
+item.millenaire.paint_bucket_purple.name=Cubo de Cal Morada
+item.millenaire.paint_bucket_red.name=Cubo de Cal Roja
+item.millenaire.paint_bucket_silver.name=Cubo de Cal Plateada
+item.millenaire.paint_bucket_yellow.name=Cubo de Cal Amarilla
+
+tile.millenaire.painted_brick_black.name=Ladrillo Pintado de Negro
+tile.millenaire.painted_brick_blue.name=Ladrillo Pintado de Azul
+tile.millenaire.painted_brick_brown.name=Ladrillo Pintado de Marrón
+tile.millenaire.painted_brick_cyan.name=Ladrillo Pintado de Cian
+tile.millenaire.painted_brick_gray.name=Ladrillo Pintado de Gris
+tile.millenaire.painted_brick_green.name=Ladrillo Pintado de Verde
+tile.millenaire.painted_brick_light_blue.name=Ladrillo Pintado de Azul Claro
+tile.millenaire.painted_brick_lime.name=Ladrillo Pintado de Verde Lima
+tile.millenaire.painted_brick_magenta.name=Ladrillo Pintado de Magenta
+tile.millenaire.painted_brick_orange.name=Ladrillo Pintado de Naranja
+tile.millenaire.painted_brick_pink.name=Ladrillo Pintado de Rosa
+tile.millenaire.painted_brick_purple.name=Ladrillo Pintado de Morado
+tile.millenaire.painted_brick_red.name=Ladrillo Pintado de Rojo
+tile.millenaire.painted_brick_silver.name=Ladrillo Pintado de Plata
+tile.millenaire.painted_brick_white.name=Ladrillo Pintado de Blanco
+tile.millenaire.painted_brick_yellow.name=Ladrillo Pintado de Amarillo
+
+tile.millenaire.painted_brick_decorated_black.name=Ladrillo Negro Decorado
+tile.millenaire.painted_brick_decorated_blue.name=Ladrillo Azul Decorado
+tile.millenaire.painted_brick_decorated_brown.name=Ladrillo Marrón Decorado
+tile.millenaire.painted_brick_decorated_cyan.name=Ladrillo Cian Decorado
+tile.millenaire.painted_brick_decorated_gray.name=Ladrillo Gris Decorado
+tile.millenaire.painted_brick_decorated_green.name=Ladrillo Verde Decorado
+tile.millenaire.painted_brick_decorated_light_blue.name=Ladrillo Azul Claro Decorado
+tile.millenaire.painted_brick_decorated_lime.name=Ladrillo Verde Lima Decorado
+tile.millenaire.painted_brick_decorated_magenta.name=Ladrillo Magenta Decorado
+tile.millenaire.painted_brick_decorated_orange.name=Ladrillo Naranja Decorado
+tile.millenaire.painted_brick_decorated_pink.name=Ladrillo Rosa Decorado
+tile.millenaire.painted_brick_decorated_purple.name=Ladrillo Morado Decorado
+tile.millenaire.painted_brick_decorated_red.name=Ladrillo Rojo Decorado
+tile.millenaire.painted_brick_decorated_silver.name=Ladrillo Plateado Decorado
+tile.millenaire.painted_brick_decorated_white.name=Ladrillo Blanco Decorado
+tile.millenaire.painted_brick_decorated_yellow.name=Ladrillo Amarillo Decorado
+
+tile.millenaire.stairs_painted_brick_black.name=Escaleras Pintadas de Negro
+tile.millenaire.stairs_painted_brick_blue.name=Escaleras Pintadas de Azul
+tile.millenaire.stairs_painted_brick_brown.name=Escaleras Pintadas de Marrón
+tile.millenaire.stairs_painted_brick_cyan.name=Escaleras Pintadas de Cian
+tile.millenaire.stairs_painted_brick_gray.name=Escaleras Pintadas de Gris
+tile.millenaire.stairs_painted_brick_green.name=Escaleras Pintadas de Verde
+tile.millenaire.stairs_painted_brick_light_blue.name=Escaleras Pintadas de Azul Claro
+tile.millenaire.stairs_painted_brick_lime.name=Escaleras Pintadas de Verde Lima
+tile.millenaire.stairs_painted_brick_magenta.name=Escaleras Pintadas de Magenta
+tile.millenaire.stairs_painted_brick_orange.name=Escaleras Pintadas de Naranja
+tile.millenaire.stairs_painted_brick_pink.name=Escaleras Pintadas de Rosa
+tile.millenaire.stairs_painted_brick_purple.name=Escaleras Pintadas de Morado
+tile.millenaire.stairs_painted_brick_red.name=Escaleras Pintadas de Rojo
+tile.millenaire.stairs_painted_brick_silver.name=Escaleras Pintadas de Plata
+tile.millenaire.stairs_painted_brick_white.name=Escaleras Pintadas de Blanco
+tile.millenaire.stairs_painted_brick_yellow.name=Escaleras Pintadas de Amarillo
+
+tile.millenaire.slab_painted_brick_black.name=Losa Pintada de Negro
+tile.millenaire.slab_painted_brick_blue.name=Losa Pintada de Azul
+tile.millenaire.slab_painted_brick_brown.name=Losa Pintada de Marrón
+tile.millenaire.slab_painted_brick_cyan.name=Losa Pintada de Cian
+tile.millenaire.slab_painted_brick_gray.name=Losa Pintada de Gris
+tile.millenaire.slab_painted_brick_green.name=Losa Pintada de Verde
+tile.millenaire.slab_painted_brick_light_blue.name=Losa Pintada de Azul Claro
+tile.millenaire.slab_painted_brick_lime.name=Losa Pintada de Verde Lima
+tile.millenaire.slab_painted_brick_magenta.name=Losa Pintada de Magenta
+tile.millenaire.slab_painted_brick_orange.name=Losa Pintada de Naranja
+tile.millenaire.slab_painted_brick_pink.name=Losa Pintada de Rosa
+tile.millenaire.slab_painted_brick_purple.name=Losa Pintada de Morado
+tile.millenaire.slab_painted_brick_red.name=Losa Pintada de Rojo
+tile.millenaire.slab_painted_brick_silver.name=Losa Pintada de Plata
+tile.millenaire.slab_painted_brick_white.name=Losa Pintada de Blanco
+tile.millenaire.slab_painted_brick_yellow.name=Losa  Pintada de Amarillo
+
+tile.millenaire.wall_painted_brick_black.name=Pared Pintada de Negro
+tile.millenaire.wall_painted_brick_blue.name=Pared Pintada de Azul
+tile.millenaire.wall_painted_brick_brown.name=Pared Pintada de Marrón
+tile.millenaire.wall_painted_brick_cyan.name=Pared Pintada de Cian
+tile.millenaire.wall_painted_brick_gray.name=Pared Pintada de Gris
+tile.millenaire.wall_painted_brick_green.name=Pared Pintada de Verde
+tile.millenaire.wall_painted_brick_light_blue.name=Pared Pintada de Azul Claro
+tile.millenaire.wall_painted_brick_lime.name=Pared Pintada de Verde Lima
+tile.millenaire.wall_painted_brick_magenta.name=Pared Pintada de Magenta
+tile.millenaire.wall_painted_brick_orange.name=Pared Pintada de Naranja
+tile.millenaire.wall_painted_brick_pink.name=Pared Pintada de Rosa
+tile.millenaire.wall_painted_brick_purple.name=Pared Pintada de Morado
+tile.millenaire.wall_painted_brick_red.name=Pared Pintada de Rojo
+tile.millenaire.wall_painted_brick_silver.name=Pared Pintada de Plata
+tile.millenaire.wall_painted_brick_white.name=Pared Pintada de Blanco
+tile.millenaire.wall_painted_brick_yellow.name=Pared Pintada de Amarillo
+
+tile.millenaire.sandstone_carved.name=Arenisca Tallada
+tile.millenaire.stairs_sandstone_carved.name=Escaleras de Arenisca Tallada
+tile.millenaire.slab_sandstone_carved.name=Losa de Arenisca Tallada
+tile.millenaire.wall_sandstone_carved.name=Pared de Arenisca Tallada
+
+tile.millenaire.sandstone_red_carved.name=Arenisca Roja Tallada
+tile.millenaire.stairs_sandstone_red_carved.name=Escaleras de Arenisca Roja Tallada
+tile.millenaire.slab_sandstone_red_carved.name=Losa de Arenisca Roja Tallada
+tile.millenaire.wall_sandstone_red_carved.name=Pared de Arenisca Roja Tallada
+
+tile.millenaire.sandstone_ochre_carved.name=Arenisca Ocre Tallada
+tile.millenaire.stairs_sandstone_ochre_carved.name=Escaleras de Arenisca Ocre Tallada
+tile.millenaire.slab_sandstone_ochre_carved.name=Losa de Arenisca Ocre Tallada
+tile.millenaire.wall_sandstone_ochre_carved.name=Pared de Arenisca Roja Tallada
+
+tile.millenaire.wooden_bars.name=Barrotes de Madera
+tile.millenaire.wooden_bars_indian.name=Ventana Tallada India
+tile.millenaire.wooden_bars_rosette.name=Marco Tallado Indio
+
+advancements.firstcontact.name=Millénaire
+advancements.firstcontact.desc=Conoce a un aldeano de Millénaire
+advancements.cresus.name=Millénaire Millonario
+advancements.cresus.desc=Gana un Denario de Oro
+advancements.summoningwand.name=Invocación
+advancements.summoningwand.desc=Compra una varita de invocación y genera una aldea con ella.
+
+advancements.amateurarchitect.name=Arquitecto Aficionado
+advancements.amateurarchitect.desc=Genera una aldea con un ayuntamiento personalizado
+advancements.medievalmetropolis.name=Metrópolis Medieval
+advancements.medievalmetropolis.desc=Controla una aldea con al menos 100 habitantes
+
+advancements.thequest.name=La Misión
+advancements.thequest.desc=Completa una misión ofrecida por un aldeano
+advancements.maitreapenser.name=Maître à Penser
+advancements.maitreapenser.desc= Conoce al Sadhu o al Alquimista
+advancements.explorer.name=Explorador
+advancements.explorer.desc=Explora una construcción aislada
+advancements.marcopolo.name=Marco Polo
+advancements.marcopolo.desc=Visita aldeas de tres culturas diferentes en el mismo mundo
+advancements.magellan.name=Fernando de Magallanes
+advancements.magellan.desc=Visita aldeas de todas las culturas en el mismo mundo
+advancements.selfdefense.name=Defensa Personal
+advancements.selfdefense.desc=Mata a un bandido
+advancements.pantheon.name=El Panteón
+advancements.pantheon.desc=Visita el misterioso Panteón
+
+advancements.darkside.name=El Lado Oscuro
+advancements.darkside.desc=Mata a un aldeano
+advancements.scipio.name=Carthago Delenda Est
+advancements.scipio.desc=Destruye una aldea con la varita de negación
+advancements.attila.name=Atila el Huno
+advancements.attila.desc=Alcanza el nivel de reputación de "Azote de Dios" en tres culturas
+
+advancements.cheers.name=¡Tres Hurras por Minecraft!
+advancements.cheers.desc=Toma una bebida alcohólica de Millénaire
+advancements.hired.name=Becario
+advancements.hired.desc=Contrata a un aldeano
+advancements.masterfarmer.name=Granjero Experto
+advancements.masterfarmer.desc=Planta un cultivo de Millénaire
+advancements.greathunter.name=Sin Gastos
+advancements.greathunter.desc=Usa las enseñanzas inuit para recolectar carne de cuestionable procedencia
+
+advancements.friendindeed.name=Mejor Amigo
+advancements.friendindeed.desc=Alcanza el nivel de reputación de "Amigo de la Aldea" en una aldea
+
+advancements.rainbow.name=Over The Rainbow
+advancements.rainbow.desc=Utiliza cal de colores para repintar ladrillos indios
+
+advancements.rep_norman.name=Amis pour la Vie
+advancements.rep_norman.desc=Alcanza el nivel de reputación de "Uno de los Nuestros" en una aldea normanda
+advancements.rep_indian.name=Bhai de la Aldea
+advancements.rep_indian.desc=Alcanza el nivel de reputación de "Uno de los Nuestros" en una aldea india
+advancements.rep_mayan.name=Enlaces Sagrados
+advancements.rep_mayan.desc=Alcanza el nivel de reputación de "Uno de los Nuestros" en una aldea maya
+advancements.rep_japanese.name=Konnichiwa
+advancements.rep_japanese.desc=Alcanza el nivel de reputación de "Uno de los Nuestros" en una aldea japonesa
+advancements.rep_byzantines.name=¡Saludos, Romano!
+advancements.rep_byzantines.desc=Alcanza el nivel de reputación de "Uno de los Nuestros" en una aldea bizantina
+advancements.rep_inuits.name=Compañeros de Iglú
+advancements.rep_inuits.desc=Alcanza el nivel de reputación de "Uno de los Nuestros" en una aldea inuit
+
+advancements.complete_norman.name=Normando Completo
+advancements.complete_norman.desc=Ayuda a una aldea normanda donde seas por lo menos "Uno de los Nuestros" a completar todas sus construcciones
+advancements.complete_indian.name=Maharquitecto
+advancements.complete_indian.desc=Ayuda a una aldea india donde seas por lo menos "Uno de los Nuestros" a completar todas sus construcciones
+advancements.complete_mayan.name=Chichén Itzá
+advancements.complete_mayan.desc=Ayuda a una aldea maya donde seas por lo menos "Uno de los Nuestros" a completar todas sus construcciones
+advancements.complete_japanese.name=Sol Naciente
+advancements.complete_japanese.desc=Ayuda a una aldea japonesa donde seas por lo menos "Uno de los Nuestros" a completar todas sus construcciones
+advancements.complete_byzantines.name=Nueva Nueva Roma
+advancements.complete_byzantines.desc=Ayuda a una aldea bizantina donde seas por lo menos "Uno de los Nuestros" a completar todas sus construcciones
+advancements.complete_inuits.name=Muñecos de Nieve
+advancements.complete_inuits.desc=Ayuda a una aldea inuit donde seas por lo menos "Uno de los Nuestros" a completar todas sus construcciones
+
+advancements.leader_norman.name=Sa Majesté Steve
+advancements.leader_norman.desc=Conviértete en un líder normando y crea una Aldea Normanda Controlada
+advancements.leader_indian.name=Pequeño Maharajá
+advancements.leader_indian.desc=Conviértete en un líder indio y crea una Aldea India Controlada
+advancements.leader_mayan.name=Itzamná del Pueblo
+advancements.leader_mayan.desc=Conviértete en un líder maya y crea una Aldea Maya Controlada
+advancements.leader_japanese.name=¡Tenno Heika Banzai!
+advancements.leader_japanese.desc=Conviértete en un líder japonés y crea una Aldea Japonesa Controlada
+advancements.leader_byzantines.name=Porfirogéneta
+advancements.leader_byzantines.desc=Conviértete en un líder bizantino y crea una Aldea Bizantina Controlada
+advancements.leader_inuits.name=Señor de las Nieves
+advancements.leader_inuits.desc=Conviértete en un líder inuit y crea una Aldea Inuit Controlada
+
+advancements.marvel_norman.name=Notre-Dame de Minecraft
+advancements.marvel_norman.desc=Ayuda a los normandos a construir una catedral
+
+advancements.wq_norman.name=Big Bang
+advancements.wq_norman.desc=Completa el capítulo de "El Alquimista" de La Misión de Creación
+advancements.wq_indian.name=Conocimiento Prohibido
+advancements.wq_indian.desc=Completa el capítulo de "Sadhu" de La Misión de Creación
+advancements.wq_mayan.name=Corona Divina
+advancements.wq_mayan.desc=Completa el capítulo de "Rey Caído" de La Misión de Creación
+
+advancements.puja.name=Una Pequeña Ayuda de los Dioses
+advancements.puja.desc=Paga a un pandit para que realice una puyá
+advancements.sacrifice.name=Dioses Sedientos de Sangre
+advancements.sacrifice.desc=Paga a un chamán para que realice un sacrificio
+
+advancements.viking.name=El Regreso de Los Vikingos
+advancements.viking.desc=Haz que una aldea que controlas lleve a cabo un asalto con éxito.
+
+advancements.mp_weapon.name=Guerrero Exótico
+advancements.mp_weapon.desc=Utiliza un arma cuerpo a cuerpo de Millénaire contra otro jugador
+advancements.mp_hiredgoon.name=Hitman
+advancements.mp_hiredgoon.desc=Contrata a un aldeano y haz que ataque a otro jugador
+advancements.mp_raidonplayer.name=Expansión Territorial
+advancements.mp_raidonplayer.desc=Haz que una aldea que controlas asalte con éxito otra aldea controlada
+advancements.mp_friendlyvillage.name=Utopía
+advancements.mp_friendlyvillage.desc=Sé el "Amigo del Pueblo" de un pueblo con al menos otros tres "Amigos del Pueblo"
+advancements.mp_neighbourtrade.name=Ingresos Extra
+advancements.mp_neighbourtrade.desc=Haz que otro jugador comercie con un pueblo que controlas.
+
+key.category.millenaire=Millénaire
+key.menu=Menú de Millénaire
+key.villages=Lista de aldeas cercanas
+key.escorts=Comportamiento de la escolta (pasivo/agresivo)
+
+commands.millrenamevillage.usage=/millRenameVillage <nom actual> <nuevo nom> <nuevo sufijo>
+commands.milltp.usage=/millTp <Nom de Aldea> <Nom del Jugador>
+commands.millgiverep.usage=/millGiveRep <Nom del Jugador> <Nom de Aldea> <cantidad>
+commands.millimportculture.usage=/millImportCulture <cultura> <x> <z>
+commands.millspawnvillage.usage=/millSpawnVillage <cultura> <tipo de aldea> (<x> <z>) (<conclusión>)
+commands.millspawnlonebuilding.usage=/millSpawnLoneBuilding <cultura> <tipo de edificio aislado> (<x> <z>) (<conclusión>)
+commands.milldebugsendprofiles.usage=/millDebugSendProfiles <usuario> or millDebugSendProfiles all
+commands.milldebugresetvillagers.usage=/millDebugResetVillagers
+commands.milllistactivevillages.usage=/millListActiveVillages
+commands.millswitchvillagecontrol.usage=/millSwitchVillageControl <Nom de Aldea> <Nom del Jugador>

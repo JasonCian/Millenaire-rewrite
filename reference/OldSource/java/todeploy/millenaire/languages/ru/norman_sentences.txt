@@ -1,0 +1,144 @@
+villager.greeting=Bonjour, $name! / Добрый день, $name!
+villager.greeting=Belle journée, n'est ce pas? / Прекрасный денек, не так ли?
+villager.greeting=Il va pleuvoir, je le sens / Будет дождь, я чувствую это.
+villager.greeting=Je ne me souvenais pas de la Normandie comme ça. / Я не помню Нормандию такой совершенной как сейчас.
+villager.greeting=Après une bonne nuit de sommeil, je suis sur pied! / Я хорошо выспался прошлой ночью! Чувствую себя бодрым!
+guard.greeting=Vous avez l'air un peu faible, $name. Je vous protègerais si vous avez des ennuis. / Ты выглядишь слегка худоватым, $name. Я защищу тебя, если ты попадешь в неприятности.
+priest.greeting=Soyez béni, mon fils. / Благословляю тебя, сын мой.
+monk.greeting=Dieu soit avec toi, mon frère. / Бог с нами, брат мой.
+boy.greeting=Quand je serai grand, je veux être comme papa. / Когда я вырасту, я хочу стать таким как мой отец!
+knight.greeting=Je n'obéi qu'au Roi Guillaume, Duc de Normandie, et à Dieu. Dans cet ordre. / Я подчиняюсь лишь королю Вильяму, герцогу Нормандии и Богу. И именно в таком порядке.
+knight.greeting=$name, saviez-vous que j'ai combattu à Hastings? / $name, знаешь ли ты что я воевал при Гастингсе?
+knight.greeting=Je prend possession de cette terre au nom du Duc de Normandie! / Я объявил эту чужую землю собственностью герцога Нормандии!
+lady.greeting=Ma sœur a épousé un duc. Je vis ici. / Моя сестра вышла замуж за герцога, а я прозябаю здесь.
+lady.greeting=Vous auriez dû voir le château de mon père. Ca c'était une vrai forteresse. / Вы должны увидеть замок моего отца. Это весьма впечатляющая крепость.
+viking_merchant.greeting=Cette terre appartient aux vikings. L'Angleterre aussi. La Sicile aussi. Vive nous! / Эта земля - земля викингов. Англия - земля викингов. Сицилия - земля викингов. Мы правим!
+viking_merchant.greeting=Aujourd'hui je vient commercer. Demain... / Сегодня я пришел торговать. Завтра - как знать...
+weapon_merchant.greeting=Vous voulez vraiment savoir comment j'ai survécu toutes ces années voyageant seul avec des marchandises précieuses? / Хочешь узнать как я выживал все эти годы, путешествуя один с дорогими товарами?
+plant_merchant.greeting=Some people say I'm a dreamer, but I'm not the only one... / Некоторые считают меня мечтателем, но я не один такой...
+oriental_merchant.greeting=Ce pays est riche, mais fallait il vraiment qu'il soit si froid? / Земля эта богата, но почему здесь так холодно?
+oriental_merchant.greeting=Etes vous allez à Cordoue? Ca, c'est une ville civilisée. /Вы бывали на Кордоба? Сейчас это достаточно цивилизованное место.
+art_merchant.greeting=Les gens ici sont des barbares. / Все люди здесь варвары.
+art_merchant.greeting=Aucune ville dans le monde n'est comparable à Constantinople. / Ни один город мира не сравнится с Константинополем.
+art_merchant.greeting=Nous les byzantins sont les derniers vrais romans. Admirez notre civilisation! / Мы, византийцы, последние истинные римляне. Наслаждайтесь нашей цивилизацией!
+wool_merchant.greeting=Les textiles hollandais sont les meilleurs à l'ouest de Cathay. / Голландский текстиль - лучший к западу от Китая.
+seneschal.greeting=Je gère ces terres pour mon roi. / Я управляю этой землей во славу моего короля.
+seneschal.greeting=J'ai hâte de retourner à la cours du roi. / Я с нетерпением ожидаю возвращения к королевскому двору.
+guildmaster.greeting=Les artisans ne valent rien sans quelqu'un pour les superviser. / Ремесленники не так хороши, если ими не управляют.
+
+knight.patrol=Je reigne sur ces terres. / Я управляю этой землей.
+knight.patrol=La force fait le droit, et je suis fort. / Могущество во славу справедливости, и я могущественен.
+
+lady.MakeTapestry=Personne ici n'apprécie l'art. / Никто здесь не ценит искусство.
+lady.MakeTapestry=Peut-être que ces pièces seront moins glauques avec ces tapisseries. Peut-être. / Может это место будет выглядеть не так тускло с моими гобеленами на стенах. Наверное.
+
+villager.gorest=Un peu de repos me ferait du bien... / Мне надо немного отдохнуть...
+villager.gorest=La vie ici est un peu morne. / Жизнь здесь несколько скучна.
+villager.gorest=Rien d'intéressant n'arrive jamais ici. / Здесь ничего не происходит.
+villager.gorest=Je suis fatigué. / Ах, усталость.
+villager.godrink=C'est à boire qu'il nous faut! / Мне нужно выпить!
+villager.godrink=Un cidre n'a jamais fait de mal à personne. / Сидр еще никого не обидел.
+villager.gopray=Je parle à Dieu, pas vous, $name. / Я говорю с Богом, а не с тобой, $name.
+
+villager.gatherciderappleschildren=Ma maman dit que c'est mon tour de ramasser les pommes, mais je l'ai déjà fait hier ! / Моя мама говорит, что теперь моя очередь собирать яблоки, но я сделал это уже вчера!
+villager.gatherciderappleschildren=Pourquoi est-ce que c'est aux enfants de ramasser les pommes alors qu'on n'a même pas droit au cidre ? / Почему дети собирают яблоки, когда мы даже не пьем сидр?
+villager.gatherciderapples=C'est un travail d'enfants ! / Сбор яблок - это детская игра!
+
+farmer.BringBackResourcesHome=Récoltons ce blé doré. / Пора собрать золотые колосья пшеницы.
+farmer.CollectCrop=On dirait que le blé est mûr. / Кажется пшеница созрела.
+farmer.PlantSeeds=Je plante, et je récolterai. / Я посеял и теперь я иду пожинать.
+
+lumberman.BringBackResourcesHome=Même ma femme devra admettre que c’est beaucoup de bois. / Надеюсь моя жена оценит, как много дров я нарубил.
+lumberman.ChopTrees=Regardez-moi couper cet arbre! / Смотри на меня, рубим это дерево!
+lumberman.GatherGoods=Bel arbrisseau là-bas. / У меня отличные саженцы.
+lumberman.PlantSaplings=Bientôt ce sera un arbre magnifique! Et je le couperai. / Скоро здесь вырастут большие, могучие деревья! А затем я их срублю.
+
+wife.GetHouseTHResources=On dirai que mon mari a travaillé pour une fois. / Кажется мой ленивый муж наконец-таки хоть что-то сделал.
+wife.GetResourcesForBuild=Je part chercher une tonne ou deux de matérieaux. Je suis plus forte que j’en ai l’air ! / Пора перенести тонну или две стройматериалов. Я сильнее чем выгляжу.
+//villager.DeliverResourcesShop=
+wife.MakeBread=Mon pain est le meilleure du village. / Мой хлеб - лучший в поселении.
+//villager.BeSeller=Coming, coming!
+wife.MakeCider=Préparer le cidre n’est pas le pire travail par ici. / Изготовление сидра не самая плохая работа.
+wife.MakeCalva=Une boisson d'homme, faite par une femme. / Мужская выпивка, но сделанная женщиной.
+wife.construction=Je construit, je construit, comme seule une femme le peu ! / Постройка, постройка, такая, как могут только женщины построить!
+wife.construction=Les hommes n’ont pas la finesse nécessaire au travail de précision. / Мужчинам не хватает аккуратности, нужной для точной работы.
+wife.construction=Ca va être un bâtiment superbe. / Эту будет одно из прекраснейших зданий.
+wife.getGoodsHousehold=Pourquoi est ce toujours moi qui doit tout aller chercher ? / Почему меня все время посылают что-нибудь забрать?
+wife.DeliverGoodsHousehold="Vas chercher ça, vas chercher ça", ils me disent. Un jour je refuserais ! /  "Возьми это, возьми то". Когда нибудь мне это надоест!
+
+villager.GoPlay=Je vais aller jouer dehors. / Пойду поиграю во дворе.
+villager.BecomeAdult=Il est l’heure de devenir quelqu’un ! / Пришло время стать кем-нибудь в мире!
+
+villager.MakeBoudin=Vous ne le mangeriez pas si vous saviez comment c’est fait. / Ты не захочешь это есть, если узнаешь из чего это сделано.
+
+smith.MakeNormanTools=Les outils normands sont les meilleurs du monde. / Нормандские инструменты лучшие в мире.
+smith.MakeNormanWeapons=N'essayez pas d'affronter un homme armé par moi. / Лучше не сражаться с человеком, который вооружен моим оружием.
+
+villager.childeatapple=J'adore les pommes, mais pourquoi personne ici ne sait faire des tartes aux pommes ? / Яблоки хороши, но почему никто не знает, как делать яблочные пироги?
+
+villager.childobserveagriculture=Il paraît que l'agriculture c'est un noble métier, et pourtant, je n'ai jamais vu de noble planter du blé ! / Говорят, что сельское хозяйство - благородное занятие, и все же я никогда не видел, чтобы благородные люди занимались этим!
+villager.childobserveconstruction=C'est quand même un peu bizarre que seules les femmes construisent chez nous. / Немного странно, что в нашей деревне строят только женщины.
+villager.childobserveproducealcohol=Quand j'étais bébé, maman mettait du calva dans mon biberon pour que je dorme. Hips ! / Когда я был маленьким, мама добавляла кальву в молоко, чтобы я мог уснуть. Hips !
+villager.childobserveproducefood=J'aime moins les tripes depuis que je sais comment c'est fait. / Мне стал меньше нравится рубец с тех пор, как я узнал, как его делают.
+villager.childobservesmithing=Bam ! Bam ! Il faut battre le fer quand il est chaud ! / Бам! Бам! Куй железо, пока горячо.
+
+orderguard.patrol=J'obéis seulement à Dieu. / Я повинуюсь только Богу.
+orderguard.calltoarms=Va-t'en, fraie d'enfer ! / Прочь, порождение ада!
+orderguard.patrol=Notre devoir est de protéger ce site sacré. / Наш долг - защищать это священное место.
+orderguard.calltoarms=Craignez la colère de l’Ordre du Nouveau Monde ! / Бойтесь гнева Ордена Нового Света!
+orderguard.greetings=Je vous salue au nom de l’Ordre et du Grand Maître. / Приветствую вас от имени Ордена и Великого Магистра.
+orderguard.greetings=Je vous salue ! / Приветствую вас!
+
+miner.Mining=Miner est un art, vous savez. / Шахтерское ремесло - это искусство, ты знаешь об этом.
+miner.Mining=Personne d’autre dans le village n’a la force et l’endurance nécessaire à ce travail. Et vous pensez qu’ils sont reconnaissants ? / Ни у кого в поселении не хватает сил и выносливости для такой работы. Вот только много ли благодарностей я получил?
+miner.Cooking=Ca c’est de la vrai cuisson. / А теперь серьезная плавка.
+
+villager.gopray.chosen=Ca fait longtemps que je n’ai pas prié... / Много времени прошло с моей последней молитвы.
+priest.gopray.chosen=Prier est plus dur qu’il n’y paraît. / В молитве больше работы, чем выглядит с первого взгляда.
+
+villager.goholdaservice=Au nom du Père, du Fils et du Saint-Esprit … / Во имя Отца, Сына и Святого Духа ...
+villager.goholdaservice=Nous parlons à Dieu, pas vous, $name. / Мы говорим с Богом, а не с тобой, $name.
+
+villager.goonpilgrimage=Impressionnant ! / Впечатляет!
+villager.goonpilgrimage=J'ai parcouru un long chemin. / Я прошел долгий путь.
+villager.goonpilgrimage=Je me sens proche de Dieu. / Я чувствую себя ближе к Богу.
+villager.goonpilgrimage=Magnifique ! /Великолепно!
+villager.goonpilgrimage=Que Dieu bénisse cette cathédrale ! Que Dieu bénisse la Normandie ! / Благослови Господь этот собор! Боже, благослови Нормандию!
+
+villager.goplayorgan=Je suis seul, si seul ... / Мне одиноко, так одиноко…
+villager.goplayorgan=Pourquoi personne ne chante ? / Почему никто не поет?
+
+villager.gopreachonpulpit=Adveniat regnum tuum: Fiat voluntas tua, sicut in caelo, et in terra. / Да будет воля Твоя, как на небе,так и на земле.
+villager.gopreachonpulpit=Et dimitte nobis debita nostra, sicut et nos dimittimus debitoribus nostris. / И прости нам долги наши, как мы прощаем должникам нашим.
+villager.gopreachonpulpit=Et ne nos inducas in temtationem. Sed libera nos a malo. / И не введи нас в искушение, но избавь нас от лукавого.
+villager.gopreachonpulpit=Panem nostrum quotidianum da nobis hodie. / Хлеб наш насущный дай нам на сей день.
+villager.gopreachonpulpit=Pater noster qui es in caelis: Sanctificetur nomen tuum. / Отче наш, сущий на небесах! Да святится имя Твоё.
+
+villager.calltoarms=Aux armes ! Aux armes ! / К оружию! К оружию!
+villager.calltoarms=Montjoi Saint-Denis!/Монжуа Сен-Дени!
+villager.calltoarms=Tous pour un ! /Все за одного!
+villager.calltoarms=Aux armes, citoyens!/Горожане, к оружию!
+
+villager.MakeCider=Préparer le cidre n’est pas le pire travail par ici. / Приготовление сидра здесь не самая плохая работа.
+villager.MakeCalva=N'importe quel bûcheron peut faire du cidre, mais pour du calva, il faut un spécialiste ! / Любой лесоруб может сделать сидр, но для кальвы нужен специалист!
+
+villager.plantsaplingappletree=Chaque pommier planté, c'est des barriques de cidre à l'horizon ! / Каждая посаженная яблоня - это дополнительная бочка с сидром на горизонте!
+
+villager.inspectconstruction=Vous croyiez ces ignorants capable de construire de tels bâtiments par eux même ? Que nenni ! / Верите ли вы в то, что те невежественные фермеры способны самостоятельно строить такие сооружения ? Конечно же, нет!
+
+monk.makebooks=Si la vanité n’était pas un péché, je dirai que mes manuscrits sont les plus beaux du pays. / Если бы тщеславие не было грехом, я бы тогда сказал что мои манускрипты лучшие в этих землях.
+
+priest.makeamulets=Ceci ne devrait pas être vu par un étranger... / Этого не должны увидеть чужеземцы...
+
+viking_merchant.KeepStall=La magie viking est puissance. / Магия викингов весьма мощная.
+viking_merchant.KeepStall=Venez et achetez. Je ne vous parlerai pas des sacrifices nécessaires pour rendre ces amulettes puissantes. / Подходи, покупай. Не хочу говорить, какие жертвы были сделаны, чтобы сделать эти амулеты сильными.
+weapon_merchant.KeepStall=Vous ne voulez pas savoir ce qui est arrivé à l’homme qui m’a fait cette cicatrice. Mais vous pouvez acheter la lame que j’ai utilisée. / Ты не пожелаешь узнать, что случилось с человеком, оставившим мне этот шрам, но ты можешь купить клинок, который я использовал для восстановления справедливости.
+plant_merchant.KeepStall=Je vend toutes les herbes dont vous aurez jamais besoin. / Я могу продать любые травы, в которых ты можешь нуждаться.
+oriental_merchant.KeepStall=Venez voir des produits de luxes tels que les gens d’ici ne voient jamais ! / Подойди и посмотри на роскошь, о которой многие люди только мечтают!
+art_merchant.KeepStall=Des perles pour des cochons, comme ils disent ici. / Я мечу жемчуг перед свиньями, как говорят в этих местах.
+wool_merchant.KeepStall=Toute la laine rose qu’il vous faut ! / Шерсть даже розового цвета, любая, что тебе нужна!
+
+villager.makeglassbottles=Une fiole de qualité, c'est une potion réussie! / Для успешного зельеварения нужны хорошо сделанные бутыльки!
+villager.harvestwarts=Heuresement que je porte des gants. / Слава Богу, я надел перчатки.
+villager.plantwarts=Seul Maître Vif-argent aurait pu comprendre comment cultiver ces horreurs. / Лишь знания Vif-argent дают понимание, как вырастить эту мерзость.
+villager.brewpotions=Un jour je serais un maître alchimiste! / Однажды я стану великим алхимиком!

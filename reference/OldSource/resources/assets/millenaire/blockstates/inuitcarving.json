@@ -1,0 +1,29 @@
+{
+    "variants": 
+    {
+        "facing=up": 
+        { 
+            "model": "millenaire:inuitcarving" 
+        },
+    
+        "facing=south": 
+        { 
+            "model": "millenaire:inuitcarving" 
+        },
+    
+        "facing=east": 
+        { 
+            "model": "millenaire:inuitcarving","y":270 
+        },
+    
+        "facing=west": 
+        { 
+            "model": "millenaire:inuitcarving","y":90 
+        },
+    
+        "facing=north": 
+        { 
+            "model": "millenaire:inuitcarving","y":180 
+        }
+    }
+}

@@ -1,0 +1,73 @@
+culture.norman = Нормани
+
+/ / Norman:
+villager.abbot = Абат
+villager.carpenter = Столяр
+villager.cattleFarmerMale = Тваринник
+villager.cattleFarmerFemale = Молочниця
+villager.pigherd = Свинопас
+villager.pigherdF = Свінопасха
+villager.shepherd = Пастух
+villager.shepherdF = Пастушка
+villager.boy = Хлопчик
+villager.girl = Дівчинка
+villager.teenagerMale = Юнак
+villager.teenagerFemale = Дівчина
+villager.farmer = Фермер
+villager.merchant_viking = Торговець вікінг
+villager.merchant_weapon = Торговець зброєю
+villager.merchant_plant = Торговець рослинами
+villager.merchant_art = Торговець предметами мистецтва
+villager.merchant_wool = Торговець шерстю
+villager.merchant_food = Торговець їжею
+villager.guard = Стражник
+villager.guildmaster = Керуючий гільдією
+villager.knight = Шевальє
+villager.lady = Леді
+villager.lumberman = Дроворуб
+villager.merchant = Купець
+villager.miner = Шахтар
+villager.monk = Монах
+villager.priest = Священик
+villager.seneschal = Сенешаль
+villager.smith = Коваль
+villager.wife = поселенка
+
+villager.innkeeperfemale = Трактирщица
+villager.innkeepermale = Шинкар
+villager.lonemiller = Мельник
+villager.merchant_weapons = Зброяр
+villager.robberbaron = Ватажок бандитів
+villager.robberleader = Проводирка бандитів
+
+villager.lonelumberman = Самотній дроворуб
+villager.lonelumbermantaiga = Самотній дроворуб
+villager.loneminer = Самотній шахтар
+villager.lonemonk = Монах відлюдник
+villager.loneabbot = Абат відлюдник
+villager.alchemist = Алхімік
+villager.alchemistassistant = Асистент алхіміка
+villager.alchemistapprentice = Учень алхіміка
+villager.bandit = Бандит
+villager.armoredbandit = Бандит в обладунках
+villager.felonbaron = Барон злочинців
+villager.felonsoldier = Солдат злочинців
+
+
+
+shop.townhall = Головний магазин
+shop.forge = Інструменти
+shop.armoury = Зброя і броня
+shop.bakery = Хліб
+shop.cattlefarm = Продукти з яловичини
+shop.pigfarm = Продукти зі свинини
+shop.sheepchickenfarm = Птах
+shop.tavern = Алкоголь
+shop.lumberman = Яблучний сидр
+shop.lonemine = Камінь
+shop.alchemyworkshop = Алхімічні продукти
+shop.lonelumberman = Деревина та яблука
+shop.lonemill = Хліб
+shop.loneinn = Їжа та напої
+shop.lonelumbermantaiga = Дерево
+shop.loneabbey = товари Abbey

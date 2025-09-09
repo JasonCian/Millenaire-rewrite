@@ -1,0 +1,16 @@
+//* La parte antes del ";" Es el título, después de eso va la descripción.
+
+0;Extranjero;No hemos visto a nadie con ese color de piel, debemos estar atentos.
+4*64;Conocido; Date por avisado, nuestros guerreros mantendrán sus ojos en ti.
+8*64;Cara Conocida;Nuestros constructores dicen que nos has intercambiado piedra de muy buena calidad. Quizás no tengamos que vigilarte tanto después de todo.
+16*64;Visitante Regular;¡Hey $name! ¿Has traído algo para intercambiar?
+32*64;Socio Minero de Piedra;Al igual que nosotros, pareces entender como minar piedra, podemos ser amigos después de todo.
+64*64;Comerciante Favorito;¡Hola $name! Como siempre, tus artículos son bienvenidos.
+2*64*64;Amigo del Pueblo;$name, eres el hombre blanco que más no ha ayudado.
+4*64*64;Aliado Ingenioso;$name, te has convertido en un valioso aliado para esta aldea por todos los recursos y servicios que nos has dado.
+8*64*64;Uno de los Nuestros;$name, nuestros chamanes te han proclamdo como uno de los nuestros.
+32*64*64;Líder Natural;Te has ganado la confianza y el respeto de todos los mayas. Te seguirán a cualquier parte.
+4*32*64*64; Gran Dios de Piedra;Sabemos que no eres de este mundo, pero nos has dado montañas enteras de piedra. Debes de ser un dios. 
+-64;Molestia;Abandona nuestras tierras. No dejaremos que profanes nuestra cultura.
+-4*64;Forastero Indeseable;Usted ha traido el hedor y el desorden a nuestra aldea.
+-16*64;Enemigo Público;Has deshonrado nuestras costumbres y nuestras piedras. No podemos permitir tu presencia.

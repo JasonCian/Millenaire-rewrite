@@ -1,0 +1,14 @@
+version:4.3.0
+<darkblue>I Bizantini
+
+Fieri e rispettabili successori dei Romani, i Bizantini producono vino e raffinate icone religiose. Parlano greco, ma i loro dialoghi verranno tradotti qunado il giocatore "imparerà" la loro lingua.
+
+<darkblue>Blocchi e oggetti unici
+
+-Coltivano uva da cui producono vino
+-Usano argilla per costruire eleganti mattonelle bizantine con cui ricoprire gli edifici
+-La maestria nella sericoltura (l'allevamento dei bachi da seta) permette loro di produrre seta per poi dipingere le loro icone bizantine
+
+<darkblue>Ricette specifiche
+
+-due linee di tre grappoli d'uva ognuna produce il vino

@@ -1,0 +1,23 @@
+//Parameters for the building as a whole
+building.length=5
+building.width=9
+building.areatoclear=3
+building.buildingorientation=3
+building.max=2
+building.mindistance=0.3
+building.icon=stoneaxe
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Qirriuqtuq Tupiq
+initial.priority=1000
+initial.male=inuit_lumberman
+initial.female=inuit_wife
+
+//Parameters for specific upgrades
+upgrade1.priority=100
+
+upgrade2.priority=90
+upgrade2.pathlevel=1
+

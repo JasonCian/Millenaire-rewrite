@@ -1,0 +1,23 @@
+priority=75
+
+
+//en/in millisecondes
+duration=1000
+
+//objets tenus par le villageois
+heldItems=wood_pine,wood_birch,fire_pit
+
+//chaque action consome tous les objets "input" et produit tous les "output"
+//each action will require and use all the inputs and produce all the outputs
+input=wood_pine,2
+input=wood_birch,2
+output=fire_pit,1
+
+//s'il y a plus d'objets dans le batiment que ça, arrêter le but
+//if more than that number of item is present in building, stop goal
+townhalllimit=fire_pit,12
+
+
+//son à jouer quand un objet est fabriqué
+//sound to play once an object is done
+sound=wood

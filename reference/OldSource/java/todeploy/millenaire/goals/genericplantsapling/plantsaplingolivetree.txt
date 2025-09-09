@@ -1,0 +1,16 @@
+
+buildingTag=olives
+
+//objets tenus par le villageois
+heldItems=sapling_olivetree
+
+maxsimultaneousinbuilding=1
+
+maxsimultaneoustotal=1
+
+range=5
+
+priority=2000
+
+sentencekey=plantsaplings
+labelkey=plantsaplings

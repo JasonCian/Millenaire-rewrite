@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:map"
+        },
+        "title": {
+            "translate": "advancements.marcopolo.name"
+        },
+        "description": {
+            "translate": "advancements.marcopolo.desc"
+        }
+    },
+    "parent": "millenaire:explorer",
+    "criteria": {
+        "marcopolo": {
+            "trigger": "marcopolo"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+
+﻿version:3.4
+<darkblue>Strid och plundra
+Millénaire är inte alltid en fridfull mod: du kan slåss mot bybor, bybor kan genomföra räder mot varandra, monster kan attackera byar, och några isolerade byggnader har banditer. Hur omständigheterna än är, så ändras inte principerna; <darkblue>byborna är bara sårbara till direkta attacker (närstrid, pilar, potioner)<black>. De är inte påverkade av eld, fallskada, eller kaktusar. Denna restriktionen är till för att hindra spelaren från att döda dom utan att de vet om att spelaren attackerar dom.
+Byborna är olika starka, och vilken utrustning de har kan göra dom olika farliga.
+<darkblue>Återkspandet av bybor
+När de har blivit dödade så är de bara temporärtdöda. Döda bybor återskapas i deras hem (men de har förlorat sin utrustning). hur som helst så kan ju spelaren också återskapas...
+<darkblue>Attackerade av spelaren
+Du kan alltid attackera en bybo, men andra bybor kommer då att hjälpa bybon att slåss mot dig. skulle du lyckas att döda alla bybor av en by eller ensam byggnad, så kommer byns kistor att låsas upp och du kan sno deras saker.
+<darkblue>Banditer
+Vissa invånare av ensamma byggnader kommer att attackera dig utan varning om du närmar dig. Din respekt med deras kultur kommer inte att påverkas om du dödar dom. Som med andra bybor så återskapas de på natten - titta under "<darkblue>Förstör by<black>" för att se hur du motverkar det.
+<darkblue>Plundring mellan byar
+Millénaire byar har en positiv eller negativ relation med närliggande byar. Dessa relationer ändras slumpmässigt och kan påverkas av spelaren genom att prata med ledaren av byn. Om relationen är jätte dålig och en by har tillräckligt med soldater, så kan de genomföra en plundring på andra byar. Du kommer då att få ett meddelande om det. under en plundring, så kommer militärena som attackerar byn att försöka döda byborna av byn de attackerar. Om de lykas så kommer de att ta resurser som byte. Du kan hjälpa den ena sidan eller den andra under en plundring.
+Det kan vara användbart att uppmuntra en by som du gillar att attackera sina grannar för att öka sina resurser. mer cynisk, att uppmuntra till plundring kan ochså hjälpa dig att komma åt byte när försvararna är döda.
+<darkblue>Hyra en bybo
+Det är möjligt att hyra bybor såsom soldater och skogshuggare till att hjälpa dig i strid. De följer dig och bekämpar dina fiender med dig.
+

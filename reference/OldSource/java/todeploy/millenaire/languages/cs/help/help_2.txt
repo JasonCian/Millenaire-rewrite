@@ -1,0 +1,14 @@
+
+verze:3.4
+<darkblue>Obchod
+Tve nejcastejsi vymeny s vesnicanama budou zpusobem obchodu - muzes jim prodat mnoho zbozi a naoplatku nejake nakoupit jako napr. blocky a itemy specificke pro Millenaire mod. Pro obchod s vesnicanama musis jit do jejich hlavni budovy (nebo obchodu) a pockat az za tebou obchodnik prijde a rekne "Obchodovani s hracem" nad jeho hlavou. Nasledne <darkblue>kniknete pravym<black> na nej aby jste otevreli obchod.
+Vesnicane z Millenaire ti mohou prodat jenom veci ktere samy maji a ty jim muzes prodat jenom veci ktere potrebuji (v zavislosti na vesnici)
+Vsude se obchoduje s "Denary" starovekou Francouzskou menou.
+Jsou zde tri typy denaru:
+Bronzove denary
+Stribrne denary
+Jeden stribrny stoji 64 bronzovych
+a Zlate denary
+Jeden zlaty stoji 64 stribrnych
+<darkgreen>Rada:
+Na mape vesnice (ziskanou pravim kliknutim na prislusny panel v mestskem centru vesnice) obchody jsou zobrazeny kdyz prejedete kurzorem po budove.

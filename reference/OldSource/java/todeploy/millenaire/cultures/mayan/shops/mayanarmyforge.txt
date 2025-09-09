@@ -1,0 +1,2 @@
+sells=bow,stonesword,leatherhelmet,leatherchest,leatherlegs,leatherboots
+buys=wood,wood_birch,wood_pine,wood_jungle,wood_acacia,wood_darkoak,cobblestone,leather

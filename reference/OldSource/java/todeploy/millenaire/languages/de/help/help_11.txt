@@ -1,0 +1,29 @@
+version:4.8.0
+<darkred>Die Japaner
+
+Sie leben in religiösen, militärischen, Handels- oder kaiserlichen Dörfern, und zeichnen sich durch ihre elegante Architektur aus. Sie sprechen Japanisch, aber ihr Dialog wird übersetzt während der Spieler beim Sprechen mit Ihnen Ihre Sprache lernt.
+
+Die Japaner produzieren viele einzigartige Gegenstände.
+
+<darkred>Einzigartige Objekte und Blöcke:
+
+<darkblue>Reis
+Sie bauen Reis an. Der Spieler kann den Dorfältesten bitten, ihm beizubringen, wie man diese Getreideart kultiviert.
+
+<darkblue>Udon
+Sie kochen ein leckeres Udon Nudel Gericht aus Weizen und Huhn.
+
+<darkblue>Sake 
+In Handelsdörfern produzieren die Brauereien aus dem Reis Sake.
+
+<darkblue>Fachwerk
+Wie die Normannen produzieren sie Fachwerk.
+
+<darkblue>Reet
+Sie verwenden eine Menge Reet Blöcke um ihre Dächer zu decken, welche aus Weizen hergestellt werden.
+
+<darkblue>Reispapierwände
+Sie produzieren elegante Reispapierwände für ihre fortschrittlichen Gebäude.
+
+<darkblue>Tachi Schwerter, Yumi Langbögen, Rote Ō-yoroi-Rüstung, Blaue Ō-yoroi-Rüstung, Keiko-Rüstung
+Ihre Metallschmiede schmieden beeindruckende Tachi Schwerter und Yumi Langbögen sowie drei sehr effektive Rüstungen. Die Rote Ō-yoroi-Rüstung, die Blaue Ō-yoroi-Rüstung und die Keiko-Rüstung.

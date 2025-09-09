@@ -1,0 +1,10 @@
+0;Tujec;Tukaj smo zelo previdni z tujci, novoprišlek. Ampak bodi pošten in ljudje bodo zelo gostoljubni.
+4*64;Znan obraz;Že prej smo te videli tukaj in nobena kokoška še ni izginila. Nadaljuj tako in se bomo spoprijateljili.
+16*64;Reden obiskovalec;Pozdravljen, $name! še sreča, da te lahko ponovno vidim.
+64*64;Priljubljen trgovec;Oh, $name! Cela vas je že čakala na tvojo vrnitev.
+2*64*64;Prijatelj vasi;Mi, Normani nismo zelo prijateljski, ampak $name, ti si res pokazal da ti lahko zaupamo!
+8*64*64;Eden naših;Zmeraj nam je v čast da te vidimo, $name. Tudi če prihajaš iz zelo oddaljenih krajev, si vedno eden naših.
+32*64*64;Rojen vladar;$name, pridobil si zaupanje in spoštovanje Normanov. Sedaj ti bodo sledili povsod. 
+-64;Nadloga;Pazi se nas! Opazujemo te.
+-4*64;Neprijeten obiskovalec;Pokazal si da si lahko tukaj resna nadloga. Bodi vesel, da te se nismo vrgli ven.
+-16*64;Sovražnik;Samo en napačen gib in boš videl hudiča.

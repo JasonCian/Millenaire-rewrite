@@ -1,0 +1,205 @@
+{
+  "displayName": "华夏文化",
+  "description": "中华传统文化，以汉唐风格为主，体现了深厚的历史底蕴和独特的东方美学。包含儒家文化体系、传统建筑风格和丰富的手工艺传统。",
+  "version": "1.0.0",
+  "enabled": true,
+  
+  "social": {
+    "professions": [
+      "scholar",
+      "farmer",
+      "artisan", 
+      "merchant",
+      "official",
+      "doctor",
+      "teacher",
+      "craftsman",
+      "tea_master",
+      "calligrapher"
+    ],
+    "hierarchy": [
+      "emperor",
+      "mandarin",
+      "scholar",
+      "citizen",
+      "peasant"
+    ],
+    "values": {
+      "wisdom": 0.95,
+      "harmony": 0.9,
+      "filial_piety": 0.9,
+      "craftsmanship": 0.85,
+      "education": 0.9,
+      "trade": 0.7
+    }
+  },
+  
+  "architecture": {
+    "style": "traditional_chinese",
+    "building_types": [
+      "palace",
+      "pagoda",
+      "courtyard_house",
+      "temple",
+      "garden",
+      "market",
+      "tea_house",
+      "study_hall",
+      "workshop",
+      "pharmacy",
+      "gate_tower",
+      "bridge"
+    ],
+    "material_preferences": {
+      "wood": 0.9,
+      "brick": 0.8,
+      "tile": 0.85,
+      "stone": 0.7,
+      "bamboo": 0.8,
+      "jade": 0.6
+    },
+    "decorative_styles": {
+      "curved_roofs": true,
+      "dragon_motifs": true,
+      "lattice_windows": true,
+      "painted_beams": true,
+      "garden_elements": true,
+      "feng_shui": true
+    }
+  },
+  
+  "economy": {
+    "currencies": [
+      "copper_coin",
+      "silver_tael",
+      "gold_ingot"
+    ],
+    "trade_preferences": {
+      "tea": 0.95,
+      "silk": 0.9,
+      "porcelain": 0.85,
+      "spices": 0.8,
+      "jade": 0.7,
+      "rice": 0.8,
+      "medicine": 0.75,
+      "books": 0.7,
+      "calligraphy": 0.6
+    },
+    "production_specialties": [
+      "tea",
+      "silk",
+      "porcelain",
+      "jade_crafts",
+      "traditional_medicine",
+      "paper",
+      "ink",
+      "fireworks",
+      "lacquerware"
+    ],
+    "economic_model": {
+      "type": "imperial_bureaucratic",
+      "focus": "crafts_and_trade",
+      "trade_orientation": "silk_road",
+      "tax_system": "imperial_taxation"
+    }
+  },
+  
+  "culture_features": {
+    "cultural_items": [
+      "chinese_sword",
+      "silk_robe",
+      "tea_set",
+      "compass",
+      "scroll",
+      "ink_stone",
+      "calligraphy_brush",
+      "jade_ornament",
+      "paper_fan",
+      "chinese_medicine"
+    ],
+    "traditions": {
+      "tea_ceremony": {
+        "frequency": "daily",
+        "importance": "high"
+      },
+      "calligraphy_practice": {
+        "frequency": "daily",
+        "importance": "very_high"
+      },
+      "ancestor_worship": {
+        "frequency": "regular",
+        "importance": "very_high"
+      },
+      "scholarly_examinations": {
+        "frequency": "annual",
+        "importance": "very_high"
+      }
+    },
+    "religious_beliefs": {
+      "primary_faith": "confucianism",
+      "secondary_faiths": ["taoism", "buddhism"],
+      "religious_importance": 0.85,
+      "ancestor_veneration": 0.95,
+      "temple_importance": 0.8
+    },
+    "festivals": [
+      {
+        "name": "spring_festival",
+        "season": "spring",
+        "duration": 7,
+        "importance": "very_high"
+      },
+      {
+        "name": "mid_autumn_festival",
+        "season": "autumn", 
+        "duration": 3,
+        "importance": "high"
+      },
+      {
+        "name": "dragon_boat_festival",
+        "season": "summer",
+        "duration": 1,
+        "importance": "medium"
+      },
+      {
+        "name": "lantern_festival",
+        "season": "winter",
+        "duration": 2,
+        "importance": "high"
+      }
+    ]
+  },
+  
+  "technology": {
+    "levels": {
+      "agriculture": 6,
+      "construction": 5,
+      "craftsmanship": 7,
+      "metallurgy": 5,
+      "military": 4,
+      "navigation": 5,
+      "scholarship": 8,
+      "medicine": 6,
+      "astronomy": 6
+    },
+    "research_aptitudes": {
+      "agriculture": 0.8,
+      "construction": 0.7,
+      "craftsmanship": 0.9,
+      "metallurgy": 0.7,
+      "military": 0.6,
+      "navigation": 0.7,
+      "scholarship": 0.95,
+      "medicine": 0.8,
+      "astronomy": 0.8
+    },
+    "knowledge_transmission": {
+      "imperial_academies": true,
+      "written_records": "extensive",
+      "apprenticeship": true,
+      "examination_system": true,
+      "libraries": true,
+      "scholarly_traditions": true
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:torch"
+        },
+        "title": {
+            "translate": "advancements.thequest.name"
+        },
+        "description": {
+            "translate": "advancements.thequest.desc"
+        }
+    },
+    "parent": "millenaire:firstcontact",
+    "criteria": {
+        "thequest": {
+            "trigger": "thequest"
+        }
+    }
+}

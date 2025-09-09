@@ -1,0 +1,27 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "millenaire:timberframe_slab",
+      "millenaire:timberframe_stairs"
+    ]
+  },
+  "criteria": {
+    "has_item": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "millenaire:wood_deco",
+            "data": 0
+          }
+        ]
+	  }
+    }
+  },
+  "requirements": [
+    [
+      "has_item"
+    ]
+  ]
+}

@@ -1,0 +1,59 @@
+
+culture.indian=Indianos
+
+culture.fullname=Os indianos
+
+village.indian_agricole=vila agrícola
+
+village.indian_agricole_hamlet=aldeia agrícola
+
+village.indian_controlled=vila controlada
+
+village.indian_customcontrolled=vila controlada personalizada
+
+village.indian_fort=forte
+
+village.indian_fort_hamlet=aldeia militar
+
+village.indian_palace=Palácio
+
+villager.indian_adivasipeasant=Camponês Adivasi
+villager.indian_adivasipeasantwife=Camponesa Adivasi
+villager.indian_armysmith=Ferreiro Militar
+villager.indian_boy=Garoto
+villager.indian_girl=Garota
+villager.indian_lonetrader=Comerciante Solitário
+villager.indian_lumberman=Lenhador
+villager.indian_merchant=Comerciante
+villager.indian_miner=Minerador
+villager.indian_pandit=Sacerdote
+villager.indian_panditayin=Esposa do Sacerdote
+villager.indian_peasant=Camponês
+villager.indian_peasantwife=Camponesa
+villager.indian_raja=Rei
+villager.indian_rajputgeneral=General Rajput
+villager.indian_rani=Rainha
+villager.indian_richwoman=Mulher Rica
+villager.indian_sadhu=Sadhu
+villager.indian_sculptor=Escultor
+villager.indian_smith=Ferreiro
+villager.indian_soldier=Soldado Rajput
+villager.indian_teenagerfemale=Jovem
+villager.indian_teenagermale=Jovem
+villager.indian_villagechief=Chefe da Aldeia
+villager.merchant_adivasi=Comerciante Adivasi
+villager.merchant_oriental=Comerciante Persa
+villager.merchant_villagewoman=Comerciante
+villager.indian_craftsman=Artesão
+
+villager.indian_painter=Pintor
+
+villager.indian_weaver=Tecelão
+
+shop.adivasifarm=Fazenda Adivasi
+shop.armyforge=Forja
+shop.deserttradeoutpost=Mercadorias Preciosas
+shop.forge=Loja da Forja
+shop.sculptor=Loja do Escultor 
+
+shop.townhall=Loja Central

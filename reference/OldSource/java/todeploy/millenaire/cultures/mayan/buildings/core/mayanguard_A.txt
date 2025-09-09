@@ -1,0 +1,23 @@
+//Parameters for the building as a whole
+building.length=7
+building.width=8
+building.buildingorientation=3
+building.mindistance=0.5
+building.icon=mayanmace
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Chanan Nah
+initial.priority=900
+initial.male=mayan_warrior
+initial.female=mayan_peasantwife
+
+//Parameters for specific upgrades
+upgrade1.priority=90
+
+upgrade2.priority=85
+
+upgrade3.priority=80
+upgrade3.pathlevel=1
+

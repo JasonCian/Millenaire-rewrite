@@ -1,0 +1,8 @@
+{
+    "parent": "block/pane_post",
+    "textures": {
+        "edge": "millenaire:blocks/paper_wall_side",
+        "pane": "millenaire:blocks/paper_wall",
+        "particle" : "millenaire:blocks/paper_wall"
+    }
+}

@@ -1,0 +1,52 @@
+villager.greeting=Konnichiwa, $name-san! / Bonjour, $name-ji !
+villager.greeting=Oi. / Salut !
+villager.greeting=Ogenki desuka, $name-san  / Comment allez-vous, $name-ji ?
+villager.greeting=Kawatta koto aru? / Quoi de neuf ?
+villager.greeting=Hajimemashite / Ravi de faire votre connaissance.
+villager.greeting=Yokoso. / Bienvenue.
+villager.greeting=Gokigenyou. / Comment allez-vous ?
+
+villager.gorest=Watashi niwa kyu-kei ga hituyou desu. / Je dois me reposer.
+villager.gorest=A-, mou neru jikan da / Ah, il est l'heure d'aller se coucher.
+villager.gorest=Watashi wa totemo tukarete imasu./ Je suis trop fatigué.
+
+villager.gopray=Watashi wa housaku no tame ni megami Uga-no-Mintama ni inori masu. / Je prie la déesse Uga-no-Mintama pour une bonne récolte.
+villager.gopray=Kami wa watashitachi wo aku kara osukui ni naru. / Kami nous protége du mal.
+
+villager.BringBackResourcesHome=Cho cho cho... / Boulot boulot boulot...
+villager.ChopTrees=Watashi wa nanbonka no ki wo bassai suru tsumori da. / Je vais aller abattre quelques arbres.
+villager.GatherGoods=Watashi wa ikutuka no souchi ga hituyou da. / J'ai besoin de resources.
+villager.PlantSaplings=Watashi wa korera no naegi wo ueru tumori desu. / Je vais planter ces arbustes.
+
+villager.SlaughterChicken=Anata wa dareka no tame ni subarashii shokuji wo tukuru darou. / Tu feras un bon repas pour quelqu'un.
+
+villager.GetHouseResources=Watashi wa ie kara nanika totte konakereba ikenai. / Je dois aller chercher quelque chose à la maison.
+villager.GetGoodsHousold=Watashi wa ie ni korera no mono ga hituyou desu. / J'ai besoin de ça chez moi.
+villager.DeliverGoodsHousold=Watashi wa mise kara syokuryou wo eta. / J'ai pris de la nourriture au marché.
+
+villager.GetResourcesForBuild=Watashi wa motto takusan no zairyou ga hituyou desu. / J'ai besoin de plus de matière première.
+villager.ConstructionStepByStep=Watashi no chichi wa kentiku no houhou ni tuite watashi ni oshieta. / J'ai appris l'architecture de mon père.
+villager.ConstructionStepByStep=Watashi wa kami ga watashi no kenchiku wo kiniiru koto wo negatte imasu. / J'espère que le Kami aimera mon bâtiment.
+
+villager.GoPlay=Watashi wa asobitai desu. / Je veux jouer.
+
+villager.childobserveagriculture=Watashinohaha wa,-mai sakumotsu o saibai suru koto wa jūyōdesuga, sore wa watashi no tame ni totemo taikutsuda to iimasu... / Ma mère dit que c'est important de cultiver du riz, mais ça à l'air tellement ennuyeux...
+villager.childobserveconstruction=Tabun watashi ga ōkiku naru to, watashi wa tō o taterudeshou. Kin kara! / Quand je serais grand peut être que je construirais des pagodes. En or !
+villager.childobservesmithing=Watashitachi no buki ya yoroi wa mottomo utsukushī monodesu! / Nos armes et nos armures ont l'air les plus cools !
+villager.childobserveproducefood=Naze koko ni subete ga kome de tsukura renakereba naranai nodesu ka? Watashi wa kome ni tsukarete iru! / Pourquoi toute la nourriture ici doit être à base de riz ? J'en ai assez du riz !
+villager.childobserveproducealcohol=Zenkai watashi wa sake o tameshite mimashita. / J'ai été malade la dernière fois que j'ai essayé de boire du saké.
+
+villager.childeatapple=Kono sekai wa mahōdesu! Ringo wa subete no ki ni sodatsu! / Ce monde est magique ! Des pommes poussent sur tous les types d'arbes !
+
+
+villager.BecomeAdult=Seityou suru jikan. / Il est temps de grandir.
+male.BecomeAdult=Watashi wa sensi ni naritai desu. / Je veux être un noble samouraï.
+female.BecomeAdult=Watashi wa ituka hahaoya ni naritai desu. / Je veux être mère un jour.
+villager.gopray.chosen=Kokoro wo otitukasete kudasai. / Méditons.
+
+villager.calltoarms=Mura wo mamore! / Défendons le village!
+villager.calltoarms=Karera wa watashitachi wo kougeki suru hi wo koukai suru darou! / Ils regretteront le jour où ils nous ont attaqué !
+villager.calltoarms=Kuki wo mote! / Aux armes !
+
+villager.MakeTools=Watashi wa naganen no aida saikoukyu no dougu wo koumyou ni tukutte iru. / Je fabrique les meilleurs outils depuis bien des années.
+villager.MakeWeapons=Saikoukyu no buki no himitu wa sisyou kara watashi ni uketugareta. / Les secrets des meilleures armes me viennent de mon maitre.

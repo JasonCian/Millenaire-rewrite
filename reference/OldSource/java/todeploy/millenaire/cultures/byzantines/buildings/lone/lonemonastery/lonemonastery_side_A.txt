@@ -1,0 +1,10 @@
+building.length=26
+building.width=26
+building.travelbook_display=false
+building.issubbuilding=true
+building.parentbuildingplan=lonemonastery_A0
+
+initial.startlevel=-1
+initial.tag=library
+initial.nativename=Apothéke
+

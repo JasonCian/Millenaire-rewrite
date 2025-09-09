@@ -1,0 +1,12 @@
+
+//objets tenus par le villageois
+heldItems=sapling_appletree
+
+maxsimultaneousinbuilding=1
+
+range=5
+
+priority=2000
+
+sentencekey=plantsaplingappletree
+labelkey=plantsaplingappletree

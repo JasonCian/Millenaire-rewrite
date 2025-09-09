@@ -1,0 +1,9 @@
+0;Fremmede;Vi er ikke vant til fremmede i vores afsides landsby.
+4*64;Kendt ansigt;Vi har set dig før, og ingen kyllinger ser ud til at være forsvundet. Forsæt på denne måde og vi vil kunne enes
+16*64;Regulaer Besøgende;Velkommen, $name! Det er godt at se dig igen.
+64*64;Favorit Handlende;Ah, $name! Alle i byen ventede på du kom hjem.
+2*64*64;Ven af landsbyen;We Norman er ikke kendt for let at stole på folk, men min gode ven $name, du har virkelig vist vi kan stole på dig!
+8*64*64;En af os;Det er altid en fornøjelse at se dig $name. Du kommer måske langvejs fra, men du er virkelig en af os nu.
+-64;Pestilens;Vi holder øje med dig $name. Vær på vagt.
+-4*64;Usympatisk outsider;Du har vist sig at være en rigtig pestilens på engen. Vær glad for vi ikke har smidt dig ud endnu.
+-16*64;Folke Fjende;Din tilstedeværelse her er kun lige tolorerede. En forkert handling og det er slut.

@@ -1,0 +1,13 @@
+//Parameters for the building as a whole
+building.length=11
+building.width=15
+building.max=0
+building.reputation=1024
+building.price=1600
+building.icon=denier
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Mokuzoukaoku
+initial.priority=1000000
+

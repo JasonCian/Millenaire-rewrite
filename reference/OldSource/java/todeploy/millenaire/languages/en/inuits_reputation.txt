@@ -1,0 +1,15 @@
+//* The part before the ";" is the title, after it the description
+
+0;Stranger;Greetings. Would you like some help surviving in these frigid wastes?
+4*64;Familiarity;Your presence has not gone unnoticed. Stay peaceful and we will do the same.
+8*64;Known Face;We've seen you around here before. Feel free to stay a while and warm up.
+16*64;Regular Visitor; We're happy to see you again, $name.
+32*64;Fellow Survivor;Ah, it's good to see that you're still alive and surviving well!
+64*64;Favourite Trader;Everyone here is glad to see you. Have you brought anything exciting with you this time?
+2*64*64;Friend of the Village;You have shown yourself a worthy companion. You can find many friends here, $name.
+4*64*64;Blood Brother;You have done much to assist us, and we are glad to repay your efforts. You have our trust.
+8*64*64;One of us;The spirits have blessed us with you. They have decreed that you are part of our family now, and I feel they've made the right choice.
+32*64*64;Natural leader;$name, you have gained the trust and respect of the Inuit people. They will follow you anywhere.
+-64;Nuisance;Please, we have no time for people like you.
+-4*64;Unpleasant Outsider;We're wary of people like you. Just go away and leave us in peace.
+-16*64;Public Enemy;We've given you plenty of chances to commune with us, but you've shunned our efforts. Leave us be and hope the spirits don't take you as you wander the frozen wastes.

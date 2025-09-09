@@ -1,0 +1,12 @@
+minreputation:0
+chanceperhour:1               
+maxsimultaneous:1
+definevillager:key=marvelarchitect,type=norman/architect,forbiddentag=normanmarvel_architect
+forbiddenplayertag:marvel_norman_3_searchhelp
+
+step:new
+villager:marvelarchitect
+duration:48
+setplayertagsuccess:normanmarvel_search_help
+settagsuccess:marvelarchitect,normanmarvel_architect
+setplayertagsuccess:marvel_norman_3_searchhelp

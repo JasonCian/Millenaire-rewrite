@@ -1,0 +1,32 @@
+name=Repère de bandits
+weight=10
+radius=10
+carriesraid=true
+
+mindistancefromspawn=600
+
+//Vanilla biomes
+biome=Forest
+biome=ForestHills
+biome=Taiga
+biome=TaigaHills
+biome=Roofed Forest
+biome=Roofed Forest M
+
+//biomes o'plenty
+biome=bamboo forest
+biome=boreal forest
+biome=coniferous forest
+biome=dead forest
+biome=eucalyptus forest
+biome=grove
+biome=maple woods
+biome=ominous woods
+biome=redwood forest
+biome=shield
+biome=snowy coniferous forest
+biome=snowy forest
+biome=woodland
+
+//starting buildings=
+centre=banditlair

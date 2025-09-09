@@ -1,0 +1,14 @@
+//Parameters for the building as a whole
+building.length=9
+building.width=8
+building.buildingorientation=2
+building.max=0
+building.reputation=256
+building.price=1024
+building.icon=fence_oak
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Shakuchi
+initial.priority=1000000
+

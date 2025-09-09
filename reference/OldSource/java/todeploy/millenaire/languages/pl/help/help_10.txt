@@ -1,0 +1,14 @@
+
+Wersja: 4.8.0
+<darkblue> Majowie.
+Pochodzący z półwyspu Jukatan, Majowie są znani ze swojego mistrzostwa nad kamieniem, a także złotem. Żyją w wioskach rolniczych, religijnych i wojskowych. Mówią po Majańsku, ale można "nauczyć" się ich języka poprzez handel.
+<darkblue> Unikalne przedmioty i bloki.
+- Hodują kukurydzę. Gracz może nauczyć się jej hodowli poprzez rozmowę z wodzem wioski.
+- Przygotowują Wah i Masę z kukurydzy i kurczaków - pożywne tortille.
+- Uprawiają kakao i przygotowują z niego cacauhaa, ożywiający napój czekoladowy.
+- Produkują obsydianowe narzędzia - bardzo szybko się zużywają, ale za to są bardzo łatwe z zaklinaniu.
+- Rzeźbiarze tworzą dekoracyjne bloki z złota które dostarcza im gracz.
+- Tworzą także płaskorzeźby przedstawiające ich bogów.
+<darkblue> Specyficzne receptury.
+- Trzy kukurydze w rzędzie tworzą jedno Wah (typ tortilli)
+- Dwie kukurydzy z kurczakiem po środku tworzą jedną Masę ( Tortilla z mięsem)

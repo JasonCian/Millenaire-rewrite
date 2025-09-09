@@ -1,0 +1,14 @@
+version:3.4
+<darkblue>Creazione dei villaggi
+
+E' possibile generare un villaggio a scelta nel luogo che si preferisce usando la Bacchetta dell'Evocazione, un oggetto acquistabile nei villaggi avendo un'ottima reputazione. Per usare la bacchetta, posizionare un blocco d'oro dove si vuole far sorgere il villaggio e fare click-destro sul blocco. La schermata seguente permette di selezionare il tipo di villaggio.
+
+<darkblue>Distruzione di un villaggio o di un edificio isolato
+
+Gli abitanti di villaggi ed edifici risorgono ogni notte, anche se distruggi gli edifici. Per evitarlo (ad esempio se si vuole usare l'edificio per sè), bisogna usare la <darkblue>Bacchetta della Negazione<black>: la si trova nelle casse dell'edificio centrale, dopo che tutti gli abitanti sono morti. La distruzione di un villaggio è irreversibile.
+
+<darkblue>Villaggi del giocatore
+
+E' possibile creare un villaggio ed esserne il leader, e scegliere la posizione degli edifici. Per farlo è necessario essere o riconosciuto come leader dalla cultura per aver completato la Missione della Creazione (vedi la sezione delle missioni), o avere una reputazione pari a "leader naturale" e parlare col capo villaggio. Sarà aggiunta l'opzione per il villaggio controllato nella lista della schermata usando la Bacchetta dell'Evocazione.
+
+In un villaggio controllato è possibile ordinare la costruzione di un edificio usando la bacchetta nel luogo desiderato. Una schermata permette di selezionare quale edificio costruire. E' possibile permettere o bloccare lo sviluppo degli edifici dal pannello "Progetti". Il commercio con gli abitanti non è necessario, basta mettere le risorse nei bauli.

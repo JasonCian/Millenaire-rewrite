@@ -1,0 +1,90 @@
+//*       Beschreibungen für die normannisch spezifischen Einträge im Reisebuch.
+//* 
+//* 
+//* 
+//* 
+//* 
+//* 
+
+
+travelbook.culture.desc=Die Normannen scheinen ein robustes Volk zu sein, mit einer herzhaften Küche und einer Vorliebe für starken Alkohol. Wenn sie betrunken sind, sprechen sie von ihrer verlorenen Heimat an der französischen Küste wo auch immer das ist und rühmen sich ihrer weit verbreiteten Eroberungen an geheimnisvollen Orten wie "England" oder "Sizilien".
+travelbook.villager.abbot.desc=Der Abt ist ein Mann Gottes, dessen Aufgabe es ist, die Normannen zu halten, die er gerade und eng führt.
+travelbook.villager.alchemist.desc=Der berühmte Vif-Argent ist ein weiser Mann, der bekanntermaßen Tränke und Alchemie versucht, um die Geheimnisse dieses bizarren Landes zu ergründen.
+travelbook.villager.alchemistapprentice.desc=Dieser Alchemisten Lehrling trainiert fleißig auf den Wegen der Alchemie, so dass er eines Tages sein Meisterwerk aufnehmen kann.
+travelbook.villager.alchemistassistant.desc=Der Alchemist ist ein viel beschäftigter Mann und braucht die Hilfe seines vertrauten Assistenten, um die Geheimnisse des Lebens zu enthüllen.
+travelbook.villager.architect.desc=Nicolas de Weilbourg ist ein Meisterarchitekt aus Deutschland, der dem normannischen Thron seine Treue geschworen hat, weil er durch die Schaffung des normannischen Wunders seinen Namen in diesem neuen Land verewigt sehen konnte!
+travelbook.villager.armoredbandit.desc=Ein erfahrener Ritter, der sich dem Verbrecherleben hingab. Dieser Bandit ist viel schwerer zu besiegen als seine unbewaffneten Brüder.
+travelbook.villager.bandit.desc=Dieser Bandit ist ein einfacher Mann, der ein einfaches Leben mit Raub, Mord, Rebellion und Jaywalking lebt, sowohl für den Nervenkitzel als auch für einige Leugner.
+travelbook.villager.bishop.desc=Dieser normannische Bischof ist ein einzigartiger Verteidiger des Marvels, da er sich nur diagonal bewegen kann und oft die Teile ahnungsloser Gegner schnappt.
+travelbook.villager.boy.desc=Dieser Junge verbringt seine Tage gern mit Spielen und Lernen und freut sich darauf, zu einem produktiven normannischen Dorfbewohner zu werden.
+travelbook.villager.carpenter.desc=Tischler sind in normannischen Dörfern wichtig, da sie die einzigen sind, die Holz zu Fachwerk verarbeiten können.
+travelbook.villager.cattlefarmerfemale.desc=Die Frau eines Viehhalters ist ebenso wichtig für die Tierpflege.
+travelbook.villager.cattlefarmermale.desc=Dieser Bauer bewacht sein Vieh aus Kühen, Schweinen und Hühnern. Ein wichtiger Teil eines normannischen Dorfes.
+travelbook.villager.farmer.desc=Dieser Bauer baut Weizen und Möhren an und liefert Futter für das Vieh und Getreide der Stadt, um daraus Brot herzustellen.
+travelbook.villager.felonbaron.desc=Ein normannischer Baron ist ein Schurke, der sich in seinem Schloss befindet, umgeben von seinen zuverlässigsten Soldaten.
+travelbook.villager.felonsoldier.desc=Die Treue zu seinem Baron und ein netter Gehaltsscheck haben diesen Soldaten überzeugt, dass ein Verbrechen wirklich das beste Leben ist.
+travelbook.villager.girl.desc=Dieses junge Mädchen verbringt ihre Tage gern mit Spielen und Lernen und freut sich darauf, zu einer produktiven normannischen Dorfbewohnerin zu werden.
+travelbook.villager.glassblower.desc=Glasbläser erzeugen aus Glas und Farbstoffen alle Arten von prächtigen Glasmalereien.
+travelbook.villager.guard.desc=Wachen sind Soldaten, die ihre Zeit damit verbringen, ihre Normannen Kameraden vor Schaden zu bewahren, auch wenn dies ab und zu Offensive bedeutet.
+travelbook.villager.guildmaster.desc=Ein Mann des Handels und des Geschäfts, der mit der Führung eines Dorfes betraut ist. Wenn hier jemand die Komplexität von Märkten und Finanzen versteht, dann ist er es.
+travelbook.villager.herbalist.desc=Der Kräutersammler baut Blumen an und verwandelt sie in Farbstoffe und sorgt dafür, dass die Welt ein wenig mehr Farbe bekommt.
+travelbook.villager.host.desc=Während der Vikar sich um die spirituellen Bedürfnisse der Arbeiter kümmert, kümmert sich der Gastgeber um seine emotionalen Bedürfnisse durch den Apfelwein.
+travelbook.villager.hostess.desc=Die Gastgeberin unterhält Arbeiter, Soldaten, Kaufleute und Pilger auf die beste Weise, die sie kennt, natürlich durch die Kraft des Cidre!
+travelbook.villager.innkeeperfemale.desc=Die Frau des Gastwirts kocht Essen und braut Apfelwein für die müden Reisenden, die in ihr Gasthaus gehen, und gibt ihnen die Kraft für ein anderes Abenteuer.
+travelbook.villager.innkeepermale.desc=Der Wirt dieses einsamen Gasthauses verbringt seine Zeit damit, Apfelwein zuzubereiten und den Reisenden, die zuhören wollen, langweilige Geschichten über seine Zeit in der Armee zu erzählen.
+travelbook.villager.knight.desc=Mit einer eisernen Faust regiert der Ritter alles, um seine Untertanen in einer Linie zu halten und gut verteidigt zu werden.
+travelbook.villager.lady.desc=Diese schöne und anmutige Frau verbringt ihre Zeit damit, sich mit den Bauern zu unterhalten, Wandteppiche zu flechten und sich über ihren nicht guten Ehemann zu beschweren.
+travelbook.villager.loneabbot.desc=Er ist der Kopf einer Abtei, die von normannischen Dörfern entfernt liegt, und hält seine Gemeinde sicher und aufrichtig.
+travelbook.villager.lonelumberman.desc=Allein in seiner Holzhütte fällt er unermüdlich Holz, träumt von einer guten Flasche Calvados und dampfenden heißen Tripes.
+travelbook.villager.lonelumbermantaiga.desc=Dieser robuste Holzfäller ist auf Kiefern aus kälteren Wäldern spezialisiert.
+travelbook.villager.lonemiller.desc=Dieser Müller hat seine Mühle neben einem Bach, aber leider nicht in der Nähe anderer Dorfbewohner.
+travelbook.villager.loneminer.desc=Einsam ist das Leben eines Bergmanns, dessen Bergwerk oben im Berg ist ... Aber eines Tages wird er Gold finden, er weiß es einfach!
+travelbook.villager.lonemonk.desc=Unter der strengen Führung seines Abtes lebt dieser Mönch ein Leben der Stille und des Gebets. Zumindest jetzt.
+travelbook.villager.lonewife.desc=Sie kocht, sie baut, sie bietet ihrem Mann in ihrem einsamen Haus Begleitung.
+travelbook.villager.lumberman.desc=Dieser Nachkomme normannischer Räuber benutzt die eindrucksvolle Axt, um Bäume zu fällen - meistens.
+travelbook.villager.marvelbuilder.desc=Ein erfahrener Steinarbeiter, dessen bauliche Fähigkeiten das normannische Wunder ermöglichen.
+travelbook.villager.marvelpriest.desc=Dieser Priester hat die Aufgabe, die Arbeiter des Wunders in guter Verfassung und in der Nähe von Gott zu halten.
+travelbook.villager.merchant.desc=Dieser Händler tauscht seine Waren zwischen Dörfern und hofft, seinen normannischen Landsleuten durch geschickte Geschäfte dabei zu helfen, das zu bekommen was sie brauchen.
+travelbook.villager.merchant_art.desc=Dieser Händler verkauft normannische Kunst und Farbstoffe, nur für den Fall, dass du etwas normannischeres Dekorationsmaterial in Ihrem Haus benötigen.
+travelbook.villager.merchant_food.desc=Dieser Händler verkauft normannische Lebensmittel wie Tripes und Boudin noir, die perfekten Nahrungsmittel für jede wachsende normannische Gemeinschaft.
+travelbook.villager.merchant_plant.desc=Dieser Händler verkauft eine Reihe von Blumen und Setzlingen an diejenigen, die etwas mehr Natur in ihrem Leben haben möchten.
+travelbook.villager.merchant_viking.desc=Ein Kaufmann aus einem fernen Land. Er verließ seine Heimat in Dänemark, um durch die Wildnis zu wandern und eine Karriere zu betreiben, indem er magische Artefakte an Personen verkauft die genug Denier besitzen.
+travelbook.villager.merchant_weapons.desc=Dieser Händler verkauft eine Sammlung normannischer Waffen und Rüstungen an diejenigen, die ein wenig normannische Handwerkskunst verwenden könnten, um sie zu schützen.
+travelbook.villager.merchant_wool.desc=Dieser Händler verkauft Wolle in allen Farben und möchte das Leben seiner Kunden aufhellen.
+travelbook.villager.miner.desc=Bergbau ist nicht gerade eine hübsche oder prestigeträchtige Aufgabe, aber eine entscheidende Voraussetzung für die Entwicklung eines normannischen Dorfes.
+travelbook.villager.monk.desc=Dieser Mönch hilft, die Abtei mit dem Abt zu pflegen, oft indem er die Bücher verwaltet, mit Reisenden handelt und den Glauben unter den Dorfbewohnern stark hält.
+travelbook.villager.orderguard.desc=Als Mitglied des Großen Ritterordens hat dieser Glückssoldat sein ganzes Leben in der Kunst der Kriegsführung geschult und du solltest dich deshalb lieber NICHT mit ihm anlegen, da er über die volle Macht der Normannen verfügt.
+travelbook.villager.smith.desc=Der normannische Schmied stellt eine Vielzahl von Werkzeugen, Waffen und anderen Metallgegenständen her, die ein Dorf ordnungsgemäß funktionieren lassen.
+travelbook.villager.wife.desc=Das Rückgrat einer jeden Gemeinschaft. Die einfachen normannischen Ehefrauen haben die Aufgabe, die Dorfbewohner zu ernähren, Strukturen zu errichten, Güter zu transportieren und sicherzustellen, dass die normannische Lebensweise in dieser neuen Welt möglich ist.
+travelbook.village.grosbourg.desc=Das Zentrum eines blühenden Netzes von Dörfern. Beherbergt die fortschrittlicheren Gebäude.
+travelbook.building.lumbermanhut.desc=Das Haus des Dorfholzfällers und seiner Familie.
+travelbook.building.manor.desc=Das Zentrum des normannischen Bauerndorfes und der perfekte Ort für den Senechal und seine Frau.
+travelbook.building.manor_a_inn.desc=Dieses Gästezimmer im Herrenhaus kann von besuchenden Kaufleuten bewohnt werden.
+travelbook.building.market.desc=Ein Treffpunkt für Händler und deren potentielle Kunden.
+travelbook.building.pantheon.desc=Das mysteriöse Panthéon, ein gewaltiges Gebäude unbekannter Herkunft, in dem alle die bei Millénaire mitgewirkt haben, aufgeführt sind.
+travelbook.building.pigfarm.desc=Heimat des Schweinezüchters, seiner Frau und ihrer Vielzahl von Schweinen.
+travelbook.building.pilgrimhall.desc=Ein großer Saal, der viele Pilger aufnehmen kann.
+travelbook.building.playerestate.desc=Ein schickes Anwesen für sehr wohlhabende Spieler mit dem Komfort eines großen Herrenhauses.
+travelbook.building.playerfort.desc=Eine altmodische Militärfestung für kontrollierte Dörfer, die nicht mehr genutzt wird.
+travelbook.building.playerhugefield.desc=Ein großes Feld das gekauft werden kann um einen großen Palast darauf zu errichten.
+travelbook.building.playerlargefield.desc=Ein großes Feld, auf dem ein Herrenhaus gebaut werden kann.
+travelbook.building.playerlargefort.desc=Eine große und beeindruckende Festung, von der aus ein Spieler den Dorfherrn spielen kann.
+travelbook.building.playerlargehouse.desc=Ein großes Dorfhaus zum Kauf, geeignet für einen wohlhabenden Spieler.
+travelbook.building.playersmallfield.desc=Ein kleines Feld, das gekauft werden kann, um kleine Pieds à terre zu bauen.
+travelbook.building.playersmallhouse.desc=Ein kleines Dorfhaus, ideal für einen Anfänger.
+travelbook.building.presbytery.desc=Haus des Dorfpriesters, wo er zwischen den Predigten ruht.
+travelbook.building.quarry.desc=Wie viele Blöcke aus diesem einfachen Loch in der Erde kommen, ist ein Geheimnis, das den Minecraft-Göttern am besten überlassen bleibt.
+travelbook.building.residence.desc=Die stattliche Residenz des Bischofs der Kathedrale. Solcher Luxus ehrt Gott in einer Weise, die zu kompliziert ist, um nur Bauern zu erklären.
+travelbook.building.residence_a_orderoutpost.desc=Unterbringung der lokalen Mitglieder des Ordens der Neuen Welt.
+travelbook.building.residence_a_priest.desc=Ein kleiner Raum für einen Priester, von dem er davon träumen kann, Vikar zu werden.
+travelbook.building.residence_a_vicar.desc=Ein schöner Raum für einen Vikar, von dem er träumen kann, Bischof zu werden.
+travelbook.building.ruinedfarm.desc=Wer weiß was hier passiert ist? Nur Ruinen und eine kleine Beute bleibt übrig.
+travelbook.building.sheepchickenfarm.desc=Eine Farm zum Aufziehen und Schlachten von Hühnern und Schafen.
+travelbook.building.tavern.desc=Ein Platz für den durchschnittlichen Normannen, um sich mit einem starken Apfelwein und der Gesellschaft von Freunden zu entspannen.
+travelbook.building.warehouse.desc=Das Lager, aus dem der Bau des Wunders geplant ist. Der Architekt baute sich einen kleinen Nebenraum, um sicherzustellen, dass er immer in der Nähe seiner Arbeiter ist.
+travelbook.building.watchtower.desc=Ein Platz für Wachen, um den Horizont nach Feinden und Bedrohungen für das Dorf zu überwachen.
+travelbook.building.weaverhouse.desc=Das Haus der Stadtweber, in dem Wolle in schöne Teppiche verwandelt wird.
+travelbook.building.well.desc=Der Brunnen hilft normannischen Landwirten dabei, ihre Ernten regelmäßig zu bewässern, wodurch sie die Fruchtbarkeit der Böden und damit die Ernteerträge steigern.
+travelbook.building.workerhall.desc=Unterkunft für die Facharbeiter, die am Bau der Kathedrale beteiligt sind. Es ist nicht luxuriös, aber sie sind sehr engagiert.
+travelbook.building.smallorchard.desc=Ein kleiner Obstgarten, in dem der Holzfäller des Dorfes Äpfel sammelt und Cider produziert. Wird von Dörfern ohne Zugang zu einer richtigen Ciderei verwendet.
+travelbook.building.largeorchard.desc=Eine Ciderei mit angeschlossenem Obstgarten, in der ein Apfelweinproduzent Apfel sammelt, um Apfelwein herzustellen. Einmal mit einer Brennerei aufgerüstet, produziert auch Calvados.

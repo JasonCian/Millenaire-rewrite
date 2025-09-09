@@ -1,0 +1,193 @@
+﻿
+
+
+alchemist_1_introb_0_label=Alkimist
+alchemist_1_introb_0_description=Sin moj, slišal sem, da iščeš znanje zunaj zemlje, ki nam jo je dal Bog. Ne padaj v krivoverstvo! Če rabiš pomoč, pojdi v samostan in moli za to. Bog se nasmehuje ljudje, ki so pametni dovolj, da bi ga razumeli. Ampak ti si mlad in neumen in vem, da bodo moji nasveti naleteli na gluha ušesa, dokler se sam ne naučiš tega. Takšni so vedno mladi! <ret><ret>Tukaj je dtug moški, h kateremu lahko greš, nekdo, ki to bo mogoče celo lahko pomagal ali te vsaj prepričal, kako nesmiselno je tvoje iskanje. Čeprav se on ljubiteljsko ukvarja s stvarmi, ki jih ne razume, je izobražen in pameten. Želiš, da te peljem k njemu?
+alchemist_1_introb_0_description_success=Njegovo ime je Guillaume Vif-argent in se ima za alkimista. Ne poznam njegove točne lokacije, ampak vem, da je nastanjen v svoji delavnici v gorah, da lahko bolje opazuje zvezde.
+alchemist_1_introb_0_description_refuse=You are wiser than you look.
+alchemist_1_introb_1_label=Poročaj $startvillager_villagerrole$u
+alchemist_1_introb_1_description=Si našel tega človeka? Kaj mi lahko poveš o njem?
+alchemist_1_introb_1_description_success=Vidim, da je njegovo znanje ustvarilo vtis nate. Bodi pazljiv, $name.
+alchemist_1_introb_1_description_refuse=Ostal bo tukaj in molil, da si premsiliš, $name.
+alchemist_1_introb_1_listing=Najdi Alkimistov stolp na gorskem terenu, nato poročaj $startvillager_villagerrole$u v $startvillager_villagename$.
+
+alchemist_1_introguildmasterb_0_label=Alkimist
+alchemist_1_introguildmasterb_0_description=$name, razumem, da si preiskal povsod, da bi ti pomagalo odkriti skrivnosti sveta. Moral bi priti k meni na mesto k njemu! Imam čast največjega znanja, živega danes, alkimist Vif-argent, čigar ugled ni nikakeršen proti nam, ki smo šolani v filozofiji. K njemu bi moral iti.
+alchemist_1_introguildmasterb_0_description_success=Njegova delavnica je v gorah, kjer preučuje kamnine in zvezde.
+alchemist_1_introguildmasterb_0_description_refuse=Torej ne boš poslušal najizučenejšega moža po Platotu? Razočaral si me, $name.
+alchemist_1_introguildmasterb_1_label=Poročaj zadružnikovem gospodarju.
+alchemist_1_introguildmasterb_1_description=Kakšne novice imaš od velikega Alkimista?
+alchemist_1_introguildmasterb_1_description_success=Vidim, da je bister, kot vedno. Poslušaj ga in se uči od njega, mladi $name.
+alchemist_1_introguildmasterb_1_description_refuse=Ostal bom tukaj in molil, da se premisliš, $name.
+alchemist_1_introguildmasterb_1_listing=Najdi Alikimistov stolp v gorah, nato poročaj $startvillager_villagerrole$u v $startvillager_villagename$.
+
+alchemist_1_introknight_0_label=Alkimist
+alchemist_1_introknight_0_description=Torej bi rad vedel, kdo je v našem svetu najpametnejši? Niso duhovniki, to je jasno. In pazi se zadružnikovih gospodarjev, ti se imajo vedno za nekaj več, kot so. Ampak tukej je nekdo, ki bi ti lahko pomagal, mogoče - on je zelo pameten in izobražen ter se ponuja, da bi spreminjal grafit v zlato za našega kralja v starem svetu. Vedno mi je bil sumljiv, ampa mogoče je nekaj v njem.
+alchemist_1_introknight_0_description_success=Nastanjen je nekje v divjini, blizu gorá. Pravi, da rabi mir, da lahko dela, ampak sem gotov, da nekaj skriva. Kakorkoli, njegovo ime je Guillaume Vif-argent.
+alchemist_1_introknight_0_description_refuse=Verjetno pametna odločitev.
+alchemist_1_introknight_1_label=Poročaj $startvillager_villagerrole$u
+alchemist_1_introknight_1_description=Si ga videl?
+alchemist_1_introknight_1_description_success=Torej se ti zdi genij? No, dokler se briga sam zase...
+alchemist_1_introknight_1_description_refuse=Ostal bom tukaj in molil, da si premisliš, $name.
+alchemist_1_introknight_1_listing=Najdi Alkimistov stolp nekje v gorah, nato poročaj $startvillager_villagerrole$ v $startvillager_villagename$.
+
+alchemist_2_meeting_0_label=Dobrodošljica
+alchemist_2_meeting_0_description=Torej si bil poslan k meni, da poiščeš znanje, $name? Svetoval si se z nekom. Jaz sem edini pravi alkimist, ki ga boš našel tako bogu za hrbtom, fant moj. Če se želiš učiti od mene, boš potreboval pomoč. Vedno sem lahko bolj domišljiv. In moraš biti bolj motiviran kot čisto znanje, vaš, da še nisem uspel z spreminjanjem grafita v zlato, sem pa uspel spraviti mojo delavnico na kraljevo sodišče.
+alchemist_2_meeting_0_description_success=Lahko se nastaniš v hiši zunaj, če se želiš. Midva z asistentam sva prezaposlena, da bi jo kdaj uporabila.
+alchemist_2_meeting_0_description_refuse=Potem izgini, imam nekaj dela za narediti.
+
+alchemist_3_ores_0_label=Zbirka kamnov
+alchemist_3_ores_0_description=Trenutno delam na analiti kamnov tega sveta. Jasno je, da so ti stari na nekaj načinov, ampak njihova razširjenost je različna. Potrebujem nekaj vzorcev takoj! Ali si mislil, da sem le nekakšen neuporaben filozof, ki dela samo iz knjig?
+alchemist_3_ores_0_description_refuse=Zakaj me potem motiš?
+alchemist_3_ores_0_description_success=Dobro. Moj asistent ti bo priskrbel orodje, ki ga potrebuješ. Zagotavljam ti, da ti ni potrebno prinesti nazaj diamantov. Sem že končal na teh.
+alchemist_3_ores_1_label=Vzemi orodje
+alchemist_3_ores_1_description=Pozdravljen $name, Sem asistent Gospodarja Vif-argent. Ne smeš ućaliti njegov stil, je pravi znanstvenik, preveč se ukvarja z delmov, da bi imel kaj časa za druženje! Ampak je zelo moder, bolj kot vem. Kakorkoli, tukaj je tvoje orodje.
+alchemist_3_ores_1_description_success=Vso srečo, $name!
+alchemist_3_ores_1_description_refuse=To bom moral povedati Gospodarju.
+alchemist_3_ores_1_listing=Vzemi orodje od Alkimistovega asistenta.
+alchemist_3_ores_2_label=Vrni se z vzorci
+alchemist_3_ores_2_description=Kaj si našel?
+alchemist_3_ores_2_description_success=Dobro, zelo dobro! Si kar sposoben človek, $name. Všeč mi je to.
+alchemist_3_ores_2_description_refuse=Ostal bom tukaj in molil, da si premisliš, $name.
+alchemist_3_ores_2_listing=Vrni se z vzorci k Alkimistu.
+
+alchemist_4_lavab_0_label=Goreča potreba
+alchemist_4_lavab_0_description=Imam izkušnje v razmišljanju, $name. Ko si mogoče opazoval svet, ko si potoval, si lahko opazil, da ta svet nima vulkanov, kit ta stara Evropa, apmak zemlja je polna lave in ni tako nepogosta, da jo vidiš na površju. Moram vedeti iz česa je ta lava in to zna biti uporablno pri sprenujanju kovin. Moj dobri Robert je prestar za to ampak ti izgledaš dovolj sposoben, da mi prineseš vzorce, ki ji potrebujem.
+alchemist_4_lavab_0_description_refuse=Zakaj me potem motiš?
+alchemist_4_lavab_0_description_success=Pojdi k Robert, dal ti bo opremo, ki jo potrebuješ.
+alchemist_4_lavab_1_label=Vzemi opremo
+alchemist_4_lavab_1_description=Potrebuje tokrat lavo? Gotovo bo neka dobrega naredil z njo! Vzemi te vedra in želim ti srečo. Zapomni se, Gospodar potrebuje vseh 16 veder lave.
+alchemist_4_lavab_1_description_success=Kmalu pridi nazaj, $name!
+alchemist_4_lavab_1_description_refuse=Moral bom povedati to Gospodarju.
+alchemist_4_lavab_1_listing=Vzemi opremo pri Alkimistovem asistentu.
+alchemist_4_lavab_2_label=Vrni se z lavo
+alchemist_4_lavab_2_description=Si jo dobil?
+alchemist_4_lavab_2_description_success=Odlično, to bo najbolj uporabno za moje poskuse.
+alchemist_4_lavab_2_description_refuse=Ostal bom tukaj in molil, da si premisliš, $name.
+alchemist_4_lavab_2_listing=Vrni se z lavo k Alkimistu.
+
+alchemist_5_creeper_0_label=Eksplozivne potrebe
+alchemist_5_creeper_0_description=Ah, $name! Ti je gospodar dal nujno nalogo? Ne? Dobro, dobro... Sem v težavah, $name. Gospodar je naročil velike količine te skrivnostne eksplozivne snovi, ki jo kdaj najdeš okrog vasi, ampak nisem se mogel dovolj zavarovati. Preveč bo razočaran! Mi lahko pomagaš? Zagotovil ti bom orodje, ki ga potrebuješ.
+alchemist_5_creeper_0_description_refuse=Kaj boš potem naredi?
+alchemist_5_creeper_0_description_success=Hvala! Seveda ti lahko dam lok s puščicami, če jih potrebuješ.
+alchemist_5_creeper_1_label=Prinesi nazaj smodnik
+alchemist_5_creeper_1_description=Ti je uspelo dobiti kaj smodnika?
+alchemist_5_creeper_1_description_success=Kako ti je uspelo dobiti toliko smodnika tako hitro? Res si neverjeten človek, $name. Ne morem se ti dovolj zahvaliti za pomoč!
+alchemist_5_creeper_1_description_refuse=Potem bom moral to povedati gospodarju.
+alchemist_5_creeper_1_listing=Zberi smodnik za Alkimistovega pomočnika.
+
+
+
+alchemist_6_boreholec_0_label=Veliki izkop
+alchemist_6_boreholec_0_description=Preučeval sem geologijo tega sveta z vso natančnostjo alkimije. Večinoma je čudna, ampak nič bolj čudna od plasti te trde skale, ki jo moj asistent ni moral uničiti. Mogoče ni preveč delaven ampak tam spodaj je nekaj zelo zanimivega, kar ni mišljeno, da bi mi dostopali do tega. Karkoli je to, nameravam spremeniti. <ret><ret>Si pripravljen na nekaj težkega dela, $name?
+alchemist_6_boreholec_0_description_refuse=Zakaj me potem motiš?
+alchemist_6_boreholec_0_description_success=Predno resno poskusiš razbiti to skalo, bomo potrebovali pot do nje. $name, rabim te, da narediš tunel do dna sveta. Koplješ lahko kjer želiš, ampak potrebujem najmanj 5×5 pvršino te "trde skale" izpostavljene soncu. <ret><ret>Ne skrbi, ne bo ti treba kopati z rokami. Asistent ti bo dal najboljše orodje, ki ga lahko alkimija naredi.
+alchemist_6_boreholec_1_label=Vzemi eksploziv
+alchemist_6_boreholec_1_description=Torej, on res želi narediti loknjo do dna sveta? Tako velik človek, z takšnim ambicijam! Seveda, sedaj načrtuje nekaj pravega dela. Torej, vse je na tebi. <ret><ret>Kakorkoli... Hvala za tvoj smodnik, pripravil sem ta eksploziv po njegovih navodilih. To bi ti moralo pomagati kopati hitreje.
+alchemist_6_boreholec_1_description_success=Pazljiv bodi in vso srečo!
+alchemist_6_boreholec_1_description_refuse=Potem bom moral to povedati gospodarju.
+alchemist_6_boreholec_1_listing=Vzemi eksploziv pri Alkimistovem asistentu.
+alchemist_6_boreholec_2_label=Poročaj alkimistu
+alchemist_6_boreholec_2_description=Zaupam mojemu eksplozivu, da ti bo pomagal uspešno naredit nalogo.
+alchemist_6_boreholec_2_description_success=Odlično si opravil! Vse si opravil kot dober alkimist, $name. Narediti nalogo brez da bi se razstrelil, si pokazal svojo nadarjenost. <ret><ret>Dolgujem ti veliko, $name. Prosim, sprejmi v zahvalo ta moj alkimistični amulet, ki je moj izum - tvoji vzorci so bili ključni, da sem lahko končal ta izum. Svetilo se bo, ko si blizu dragocenih mineralov. <ret><ret>Končujem načrte, da bi prodrl skozi te skale. Spočil se malo in se vrni še kdaj.
+alchemist_6_boreholec_2_description_refuse=Ostal bom tukaj in molil, da si premisliš, $name.
+alchemist_6_boreholec_2_listing=Skoplji 5x5 luknjo do trde skale, nato poročaj Alkimistu.
+
+
+alchemist_7_boreholetnt_0_label=Eksplozivna snov
+alchemist_7_boreholetnt_0_description=Velik dan je prišel, $name! Preučeval sem, kako najbolje koncentrirati eksplozivno moč, da bi prodrl skozi trdo skalo in verjemi ali ne, kaj sem dobil. Ena plast obsidijana naj bi bila dovolj, da usmeri eksplozijo proti tlem in zagotovi uspeh. Si pripravljen?
+alchemist_7_boreholetnt_0_description_refuse=Zakaj me potem motiš?
+alchemist_7_boreholetnt_0_description_success=Robert ti bo dal eksploziv. Namesti ga na dno luknjein postavi obsidijan na vrh eksploziva. Po mojih izračunih, boš potreboval vsaj 20 kosov eksploziva, da se bo čutilo učinek. Ne polomi si nog na poti dol.
+alchemist_7_boreholetnt_1_label=Vzemi eksploziv
+alchemist_7_boreholetnt_1_description=Vse imam pripravljeno zate! Eksploziv, obsidijan in dovolj žice, da boš varen.
+alchemist_7_boreholetnt_1_description_success=Zavidam ti, prijatel moj - prvi boš videl bogastvo, skrito spodaj!
+alchemist_7_boreholetnt_1_description_refuse=Potem bom moral to povedati Gospodarju.
+alchemist_7_boreholetnt_1_listing=Vzemi eksploziv pri Alkimistovem asistentu.
+alchemist_7_boreholetnt_2_label=Poročaj alkimistu
+alchemist_7_boreholetnt_2_description=Torej, $name! Je vse delovalo? Kaj si videl spodaj?
+alchemist_7_boreholetnt_2_description_success=Nič? Nič Kako je to mogoče? Kako se lahko upre tako usmerjeni eksploziji? To je nemogoče, nekaj si moral narediti narobe! Nesposobnež! <ret><ret>Vredu, vredu, opravičujem se ti, $name. Vedno si opravil odlično. Tako sem bil naiven, da sem mislil, da bo preprost in navaden eksploziv deloval. Pustime, da preučim to previdnejše. Mora biti rešitev - in kako vredno mora biti nekaj, kar je spodaj, za je tako dobro zavarovano!
+alchemist_7_boreholetnt_2_description_refuse=Ostal bom tukaj in molil, da se boš premisli, $name.
+alchemist_7_boreholetnt_2_listing=Postavi 20 TNT kock na dno luknje, prekrij jih s plastjo obsidijana in vžgi TNT. Poročaj rezultate Alkimistu.
+
+
+alchemist_8_anomalyb_0_label=Nepravilnost
+alchemist_8_anomalyb_0_description=Naš neuspeh je zaradi mene, $name. Veliko sem premislil od takrat in verjamem, da ni bilo dovolj usmerjena eksplozija na materjal. Bolj kot je ovira, je skrivnost in naredili smo pomemben napredek, $name! Uspelo mi je narediti smodnik, ki naj bi reagiral ob prisotnosti "trde skale" in sem že poslal asistenta, da preiskusi na površju. Rezultati so me presenetili - vedno je stačno, šestdeset metrov pod morsko gladino. <ret><ret>Kakorkoli... Najdel sem najman en prostor, ki ni te "trde skale". Kjer je bližje površju, je "trda skala" veliko boljše kvalitete! Boš raziskal to namesto mene?
+alchemist_8_anomalyb_0_description_refuse=Zakaj me potem motiš?
+alchemist_8_anomalyb_0_description_success=Bodi pazljiv, $name! Ne vem, kaj s tem misli, ampak zna biti nevarno.
+alchemist_8_anomalyb_1_label=Poročaj Alkimistu
+alchemist_8_anomalyb_1_description=Ti je uspelo priti nazajS? Kaj si našel?
+alchemist_8_anomalyb_1_description_success=Sobo? Umetno narejena iz "trde skale"? To je največje odkritje od kar sem prišel v ta svet... To je definitiven dokaz, da so tukaj ali so bili ljudje v tem svetu z večjo močjo kot mi. To ni nič kot te strukture, o katerih sem slišal, te rudniki, trdnjave, neverjetne stavbe, ampak ne izven našega dosega. To je nekaj povesm drugega. In rekel si, da se pravtako te pošasti ustvarjajo? <ret><ret>$name, rabil bom nekaj časa, to je izven mojega znanja in izkušenj. Bom vedel, kaj lahko naredimo, da sledimo našim raziskavam, ko je bil prostor obiskaj, je bil prazen, razen pošasti.
+alchemist_8_anomalyb_1_description_refuse=
+alchemist_8_anomalyb_1_listing=Razišči nepravilnost in poročaj Alkimistu
+
+
+alchemist_9_anomalytwob_0_label=Drugi blip
+alchemist_9_anomalytwob_0_description=$name, imam odlične novice! Robert ke mađel novo nepravilnost, ne daleč stran od nas in izgleda, da je veliko večja kot prva. Kdo ve, kaj bomo našli tukaj? Mogoče je nekaj, kar nas postavi na pot teh ljudi ali nam celo končno pomaga se prebiti skozi skale? <ret><ret>Ampak kmalu bom moral stran... Najprej bi rad, da zavaruješ ta prostor. Tvoje težave s temi stvori v prvi nepravilnosti me skrbijo, $name. Vzemi nekaj hrane... In tukaj, vzemi moj meč. Rabil ga boš, bolj kot jaz.
+alchemist_9_anomalytwob_0_description_refuse=Potem mi vrni meč in moti nekoga drugega?
+alchemist_9_anomalytwob_0_description_success=Vso srečo in bodi pazljiv.
+alchemist_9_anomalytwob_1_label=Poročaj Alkimistu
+alchemist_9_anomalytwob_1_description=$name, zelo se srečej, da te vidim živega! Izgledaš izčrpan. Izgledaš, kot da potrebuješ nekaj za piti. Nato se bova pogovorila.
+alchemist_9_anomalytwob_1_description_success=Alkimistična opremat? Fascinirano! Teli skrivnostni gradbeniki so skoraj moji kolegi! Seveda, imajo več znanja kot jaz... za sedaj! In prinesel si mi vzorec skrivnostne rastline, ki so jo gojili. Mora imeti močne alkemijske lastnosti.
+alchemist_9_anomalytwob_1_description_refuse=
+alchemist_9_anomalytwob_1_listing=Razišči drugo nepravilnost in prinesi karkoli čudnega, kar najdeš tam k Alkimistu
+
+
+
+alchemist_10_anomalythree_0_label=Nikoli več brez dva, tri
+alchemist_10_anomalythree_0_description=Med tem, ko sem oreučeval tvoje zadnje odkritje, je Robert nadaljeval iskanje nepravilnosti. Misli, da je dobil novo, veliko večjo. Pomisli, kaj mora biti skrito tam! In jaz nisem niti končal razumevati skrivnosti zadnje nepravilnosti!
+alchemist_10_anomalythree_0_description_refuse=Zakaj me potem motiš?
+alchemist_10_anomalythree_0_description_success=Vidim, da si preveč neučakan, da bi videl, kaj je notri. To mi je všeč, fant moj!
+alchemist_10_anomalythree_1_label=Poročaj Alkimistu
+alchemist_10_anomalythree_1_description=Moj pogumnež $name, mogočen raziskovalec! Vidim, da ni bilo lahko. Vzemi kozarec calve in nekaj odličnih Normanskih krvavic in mi povej vse!
+alchemist_10_anomalythree_1_description_success=Neverjetno... Misliš, da je zadnja soba bila kot pečica lave? Teli ljudje so imeli alkimistično znanje veliko naprednejše! In več ustvarjalnikov in kako izgleda primerek sobe... Če ne bi bil alkimist, bi rekel, da bi obiskal Božjo delavnico, moj dobri prijatelj. <ret><ret>Preučil bom prah, ki si mi ga prinesel. Mora biti izjemnega pomena, da so morali narediti tako velik mehanizem okoli. Sedaj bom pa le še molil, da bi bilo moje učenje zadostno, da bi kaj nastalo iz tega, čeprav ne razumem, kaj je to.
+alchemist_10_anomalythree_1_description_refuse=
+alchemist_10_anomalythree_1_listing=Razišči tretjo nepravilnost in prinesi karkoli čudnega, kar najdeš k Alkimistu
+
+
+
+
+alchemist_11_brewingstudents_0_label=Širjenje znanja
+alchemist_11_brewingstudents_0_description=$name, imam nekaj odličnoh novic! Uspelo mi je narediti, da te rastilne rastejo. Ne izgledajo, kot da so iz te zemlje, ampak z mojimi gnojili jim lahko pomagam rasti. Kot izgleda, imajo močne alkemijske lastnosti. Nisem imel časa raziskovati naprej, ampak sem pripravil knjigo z raziskavami na to temo. Lahko jo vzameš v Normansko vas, kjer upam, da ambicije mladeniča bodo povzemale uporabne napoje iz tega.
+alchemist_11_brewingstudents_0_description_success=Pojdi k Zadružnikovemu Gospodarju ali k Vitezu ali k Senesčalu. Dvomim, da bodo v opatiji pregledali takšna odkritja. Raje so ozkogledni.
+alchemist_11_brewingstudents_0_description_refuse=Zakaj me potem motiš?
+alchemist_11_brewingstudents_1_label=Govori z Alkimistom
+alchemist_11_brewingstudents_1_description=Bi lahko delil to znanjez drugimi?
+alchemist_11_brewingstudents_1_description_success=Zelo dobro. Upam, da bo v vasi mladina dokazala, da so spretni. Jaz sem moram osredotočiti na tvoj prah - prepričan sem, da je to najpomembnejša stvar vsega.
+alchemist_11_brewingstudents_1_description_refuse=Zakaj me potem motiš?
+alchemist_11_brewingstudents_1_listing=Vrni se k Alkimistu po tem, ko si govoril z poglavarjem vasi.
+
+alchemist_11b_guildmaster_0_label=Govori z Zadružnikovem Gospodarjem
+alchemist_11b_guildmaster_0_description=Guillaume Vif-argent je uspel ponovno zagnati alkimijo v tem svetu? Res je izreden človek! Imel bi čast, da bi preučil njegovo delo in začel kot ti talentiran mladenič!
+alchemist_11b_guildmaster_0_description_success=Povej moje občudovanje gospodarju namesto mene.
+alchemist_11b_guildmaster_0_description_refuse=Zakaj me potem motiiš?
+
+
+alchemist_11b_knightseneschal_0_label=Govori z poglavarjem vasi
+alchemist_11b_knightseneschal_0_description=Torej tisti stari alkimist trdi, da je spet prišel do neverjetnih odkritij? Neverjetni del je on, ki se poslavlja od tega dela... Moj dobri $name, jaz tudi nisem imel časa za te stvari, ampak če mladenič iz vasi pokaže zanimanje za to, bom delil to knjigo z njim.
+alchemist_11b_knightseneschal_0_description_success=Vrni se in poglej, če mu je uspelo spremeniti grafit v zlato, kar je obljubljal že leta!
+alchemist_11b_knightseneschal_0_description_refuse=Zakaj me potem motiš?
+
+
+
+
+
+alchemist_12_theexperiment_0_label=Ekspriment
+alchemist_12_theexperiment_0_description=Nikoli nisem še videl takega prahu... Ne morem razumeti, kaj je in kako je ustvarjen. To je zelo daleč od mojega alkimističnega znanja, $name, zelo daleč. Vse kar sem lahko naredil, je ugotavljanje, za kaj se ga uporablja. Lahko je eksploziv. Poslusil sem le za minuto in še vedno sem blizu temu, da bo uničil ta prostor. Ni mi treba povedati, kaj želim, da poskusiš, prijatelj moj. Ampak previdno poslušaj, ta produkt je zelo reaktiven. <ret><ret>Uspelo mi ga je stabilizirati z mešanjem z drugim materjalom, tako da tvori kocko. Izgleda, da je samo v tem stanju stabilen, lahko se ukvarjaš s tem brez tveganja - upam. Kakorkoli, razstreljevanje normalnega eksploziva bo naredilo, da bo prah reagiral. Verjamem, da bo močno eksplodiral. Kako močno pa ne moram vedeti, ampak lahko poskusim, kako. <ret><ret>Naredi, da bo eksplodiral ravno zraven "trde skale". Mogoče ne bom uspel narediti dovolj in mi boš poral prinesti novo pošiljko, če ne uspeš tokrat.
+alchemist_12_theexperiment_0_description_refuse=Zakaj me potem motiš?
+alchemist_12_theexperiment_0_description_success=Robert ti bo dal zaloge z navadnim eksplozivom. Bodi pazljiv in upajmo, da bomo danes zvečer pili na predrtje skozi "trdo skalo"!
+alchemist_12_theexperiment_1_label=Vzemi zaloge
+alchemist_12_theexperiment_1_description=Oh, $name... Imam zaloge, za katere je zaprosil Gospodar. In ne maram reči to, ampak nikoli še nisem videl Gospodarja tako negotovega. Moteče ga ne videti takega.
+alchemist_12_theexperiment_1_description_success=Če bo šlo vse prav, boš postal legenda, prvi človek, ki je videl podzemni svet! Če pa ne, potem...
+alchemist_12_theexperiment_1_description_refuse=Potem bom moral povedati to Gospodarju.
+alchemist_12_theexperiment_1_listing=Vzemi zaloge pri Alkimistovem asistentu.
+alchemist_12_theexperiment_2_label=Poročaj Alkimistu
+alchemist_12_theexperiment_2_description=Pogled na tvojem obrazu je nenavaden, $name...
+alchemist_12_theexperiment_2_description_success=Praznina... Torej cel svet stoji na praznini... Torej ni druge resničnosti? Je tukaj druga trdna stvar v tem svetu? $name, ta svet ni za mene ali mojo alkimijo... To je svet senc in iluzij...
+alchemist_12_theexperiment_2_description_refuse=Ostal bom tukaj in molil, da si premisliš, $name.
+alchemist_12_theexperiment_2_listing=Razstreli alkimistov eksploziv ob "trdi skali" Z TNT-jem ob strani. Opazuj in poročaj alkimistu.
+
+
+alchemist_13_conclusion_0_label=Misli in snov
+alchemist_13_conclusion_0_description=Vse sem zelo dobro premislil, $name... Prav imaš, imam svojo vlogo. Mogoče ne bom razumel, kaj to posmehovanje sveta pomeni ali kaj delamo tukaj, ampak moji napoji in forumle ti lahko pomagajo, medtem ko ti jaz ne morem. Spet hvala ti, $name. Ne samo za tvoje delo, ampak tudi za tovo podporo. Pridi me še kdaj pogledati, če boš še kdaj potreboval pomoč. <ret><ret>Pravtako vedi, da sem uporabil moj vpliv pri Normanskih plemičih in zadružnikih, da bi razširil besedo, ki govori o tvojih sposobnostih. Če to ni bilo že prej, ti bodo Normani sedaj sledili povsod, kamorkoli se bož želel naseliti.
+alchemist_13_conclusion_0_description_refuse=Zakaj me potem motiš?
+alchemist_13_conclusion_0_description_success=Kot v darilo ti podarjam dragulje, ki sem jih med svojimi poskusi uspel ustvariti. Nič nimam početi z njimi, ampak vem, da jih boš dobro uporabil. <ret><ret>Upam, da se spet vidiva, $name in da slišim, da ti je uspelo v tem groznem, brezsmiselnem svetu.

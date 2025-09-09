@@ -1,0 +1,10 @@
+0;Võõras;Me oleme teadlikud võõrastest siin,uustulnuk. Aga ole aus meiega ja sa ei ole inimestega vaenulik.
+4*64;Tuntud nägu;Me oleme sind ennem siin näinud ja ükski kana pole kaduma läinud . Oled edasi nagu praegu ja me saame omavahel läbi.
+16*64;Reguraalne külastaja;Teretulemast, $name! Hea sind näha uueasti.
+64*64;Lemmik kaupmees;Ah, $name! Terve küla on sind tagasi oodanud.
+2*64*64;Küla sõber;Meie normaanlased ei usalda inimesi lihtsasti,aga mu hea sõber, $name, sa oled tõesti näidanud,et me saame sind usaldada!
+8*64*64;Üks meist;On alati olnud heameel sind näha $name.Sa võid tulla kaugelt maalt,aga sa oled tõesti üks meie seast.
+32*64*64;Naturaalne juht;$name, sa oled saanud usalduse ja truuduse normaanlastelt. Nad järgnevad sulle kõikjale. 
+-64;Nuhtlus;Me jälgime sind, $name. Ole valvas.
+-4*64;Ebameeldiv autsider;Sa oled näidanud,et oled tõeline nuhtlus siinkandis. Oled õnnelik,et me sind välja veel pole visanud.
+-16*64;Avalik vaenlane;Su kohalolek siin on vaevalt talutav. Üks vale käik ja me tepame su!

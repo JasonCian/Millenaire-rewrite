@@ -1,0 +1,23 @@
+name=Tour abandonnée
+weight=10
+radius=10
+
+//Vanilla biomes
+biome=ForestHills
+biome=TaigaHills
+biome=ExtremeHills
+biome=ExtremeHills M
+biome=ExtremeHills+
+biome=ExtremeHills+ M
+biome=Birch Forest Hills
+biome=Mega Taiga Hills
+
+//biomes o'plenty
+biome=alps
+biome=crag
+biome=highland
+biome=moor
+biome=mountain
+
+//starting buildings=
+centre=abandonedtower

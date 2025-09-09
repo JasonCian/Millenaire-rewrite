@@ -1,0 +1,17 @@
+//Parameters for the building as a whole
+building.length=9
+building.width=8
+building.buildingorientation=3
+building.icon=inuitbearstew
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Niqi Tupiq
+initial.priority=800
+initial.male=inuit_husband
+initial.female=inuit_chef
+initial.pathlevel=1
+
+//Parameters for specific upgrades
+upgrade2.priority=80
+

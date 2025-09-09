@@ -1,0 +1,16 @@
+native_name=Aj K'in 
+gender=male
+familyNameList=questshaman_family_name
+firstNameList=questshaman_name
+tag=religious
+icon=mushroomred
+
+travelbook_display=false
+
+texture=textures/entity/mayan/mayan_shaman0.png
+texture=textures/entity/mayan/mayan_shaman1.png
+
+goal=gorest
+goal=gopray
+
+

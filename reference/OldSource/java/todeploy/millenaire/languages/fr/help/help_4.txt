@@ -1,0 +1,10 @@
+version:3.4
+<darkblue>Expansion du village
+
+Les villages commencent petits, autour d’un bâtiment central (de type variable : fort, palais, monastère, etc... généralement nommés « mairie »), avec quelques maisons ou autres bâtiments. Le but principal des villageois est d’agrandir leur village, en choisissant de nouveaux bâtiments à construire et des améliorations aux bâtiments existants. Pour ça ils ont besoin de ressources - ils peuvent en produire certaines eux-mêmes (les bûcherons ramènent du bois, les mineurs de la pierre…) mais dépendent du joueur pour d’autres. Leurs besoins en matériaux pour la construction prévue sont affichés dans le bâtiment central. Vous pouvez les aider en leur vendant ces ressources en priorité.
+
+La population du village augmente également – la nuit, les couples de villageois peuvent avoir des enfants. Une fois grandis, ces enfants emménageront dans des maisons libres si disponible et deviendront adultes.
+
+L’expansion d’un village s’arrête en général de deux manières : ou parce que le village a terminé tous les bâtiments qu’il peut construire, ou parce qu’il n’a plus de place. Dans ce dernier cas, vous pouvez regarder la carte du village pour voir quels terrains sont inconstructibles. C’est parfois possible de les rendre constructibles en comblant un lac par exemple.
+
+Parfois, un village a besoin d'un type de bloc que vous ne pouvez pas produire, comme les colombages des normands et japonais. Vous devez attendre que le village construise un atelier pour un artisan et qu'un enfant s'y installe.

@@ -1,0 +1,21 @@
+
+travelbook.trade_good.akwardpotion.desc=Waarom is een vreemde drank vreemd? Niemand had het lef om het te vragen.
+travelbook.trade_good.arrow.desc=Een puntige stuk dat naar je vijanden vliegt. Populair in alle culture
+travelbook.trade_good.baked_potato.desc=Een Inuit hoofdschotel. Ooit gaan de Normandiërs dit krijgen en geschiedenis wordt die dag gemaakt.
+travelbook.trade_good.bearmeat_cooked.desc=Heerlijke vlees van een beer, gekookt tot perfectie. Het is extreem waardevol en geeft extreme sterke aan diegene die het eet.
+travelbook.trade_good.bearmeat_raw.desc=Rauwe beer vlees. Kook het voor een heerlijke maaltijd.
+travelbook.trade_good.bed_straw.desc=Een simpele slaapmat gemaakt uit stro, bladeren of iets wat lokaal beschikbaar en niet te puntig is.
+travelbook.trade_good.beefcooked.desc=Niks is beter dan een biefstuk gekookt in een oven. Beschikbaar in "doorgebakken", "erg doorgebakken" en "houtskool"
+travelbook.trade_good.beefraw.desc=Een sappige plak vlees recht uit een achterhand van de koe.
+travelbook.trade_good.bone.desc=Een mysterieuze bot, hopelijk van dierlijke oorsprong
+travelbook.trade_good.boneblock.desc=Een stuk van een massieve bot uit een onbekende oorsprong. Walvissen? Draken? Een gekke Zweedse spel ontwerper.
+travelbook.trade_good.book.desc=Zorgvuldig gemaakt uit papier en leer, met een indrukwekkend-uitziend rug. Perfect voor het invullen van een boekenplank om indruk op je vrienden te maken.
+travelbook.trade_good.bookshelves.desc=Een collectie van serieus-lijkende boeken, alleen voor weergave. Een goedkope manier om intellectueel te lijken.
+travelbook.trade_good.bottle.desc=Een lege fles, steeds zoekend naar een zin in het leven.
+travelbook.trade_good.boudin.desc=Net zoals zijn neef, de Engelse bloedworst, het is meest genietbaar door mensen die niet weten hoe het wordt gemaakt.
+travelbook.trade_good.bow.desc=Een stok en een draad, bogen kunnen niet meer basic zijn dat dit. Het werkt goed genoeg maar ontbreekt aan stijl.
+travelbook.trade_good.bread.desc=Een basische, gewone, en onopvallende brood. Simpel en vullend.
+travelbook.trade_good.brickmould.desc=Deze kleine apparaat laat je meedoen aan de meest vermakende stuk van een Indiase boer leven: het maken van honderden modderbaksteen.
+travelbook.trade_good.bricks.desc=Bakstenen gemaakt uit klei, voor dat hippe "industriële" uiterlijk.
+travelbook.trade_good.byzantine_tiles.desc=De Byzantijnse versie van klei bakstenen om gebouwen een nog meer hippe "Imperiale" uiterlijk te geven.
+travelbook.trade_good.byzantineboots.desc=Zware schoenen gemaakt uit roestvrije blauwe Byzantijnse staal. Roest niet, zelfs in moerassen.

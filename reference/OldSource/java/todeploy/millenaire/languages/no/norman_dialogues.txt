@@ -1,0 +1,364 @@
+newchat;key:rain,tag:notraining,weigth:10
+v1;0;Je sens qu'il va pleuvoir. / Jeg kan føle at det kommer til å regne.
+v2;30;Il pleut toujours en Normandie. / Det regner alltid i Normandie...
+
+
+newchat;key:beautifulvillage,weigth:10
+v1;0;Il est beau notre village, tu ne trouve pas? / Landsbyen vår er vakker, synes du ikke det?
+v2;30;Magnifique! Et on y travaille dur! / Supert! Og vi arbeider hardt med det!
+
+newchat;key:sunset,weigth:10
+v1;0;Le soleil se lève où, déjà? J'oublie toujours. / Hvorfra stiger solen opp, igjen? Jeg glemmer bestandig.
+v2;30;Au nord, bien sûr! / Fra nord, hvor ellers?
+
+newchat;key:harvest,weigth:10
+v1;0;Tu penses que la récolte sera bonne cette année? / Tror du at avlingen vil være god i år?
+v2;30;Qui sait, avec le temps qu'il a fait. / Hvem vet, med slik vær vi har hatt.
+v1;60;Il n'y a plus de saisons. / Årstidene gir ingen mening her.
+
+newchat;key:indianfood,weigth:5
+v1;0;Tu as entendu parler des Indiens? / Har du hørt om de indiske folkene?
+v2;30;Il paraît qu'ils sont très bizarres. / Folk sier at de er veldig pussige.
+v1;60;J'ai même entendu dire que leur nourriture brûle! / Jeg hører at de brenner maten sin!
+v2;100;Comme du calva? / Slik som med calva?
+v1;120;Non, pire! / Nei, verre!
+
+
+
+newchat;key:byzantines,v1:adult,v2:adult,weigth:5
+v1;0;Ces byzantins m'énervent! / De bysantinerne går meg på nervene!
+v2;30;Oui, tu as vu comme ils nous prennent de haut? / Så du hvor høye og mektige de blir?
+v1;60;Tout ça parce qu'ils prétendent être romains. / Alt det fordi de påstår at de er romere.
+v2;100;Quelle blague. Des romains dégénérés, alors. / Så latterlig. Degenererte romere, da.
+v1;130;On devrait organiser un raid chez eux. / Vi burde organisere et raid mot dem!
+v2;160;On est vikings après tout! / Vi er vikinger, tross alt!
+
+newchat;key:storm,weigth:10
+v1;0;Il y a eu un orage terrible hier. / Det var en forferdelig storm i går.
+v2;30;Oui, j'ai cru que le toit allait s'envoler. / Så sant, jeg trodde at taket skulle blåse vekk.
+v1;60;Il faudrait les renforcer tous. / Vi burde forsterke dem.
+
+newchat;key:visitors,weigth:10
+v1;0;Ce qui manque ici, c'est des visiteurs. / Det vi mangler rundt disse parter er besøkende.
+v2;30;Il y a bien $name... / Vel, det er jo $name...
+v1;60;Oui, mais il est un peu bizarre, non? / Men den personen er jo litt rar, synes du ikke?
+v2;100;C'est vrai qu'on ne sait jamais trop ce qu'il va faire. / Det er sant at vi aldri vet hva de holder på med.
+
+newchat;key:christmas,weigth:10
+v1;0;C'est quand Noël, déjà? / Når blir det jul?
+v2;30;Je ne sais pas trop... Les saisons ne changent pas ici. / Jeg vet sannelig ikke... Årstidene endres ikke her.
+v1;80;Quel monde bizarre quand même. / For en merkelig verden...
+v2;110;Parfois on dirait presque la Normandie... / Noen ganger ligner det nesten på Normandie...
+v2;140;et puis on se rappele que tout est différent. / og deretter ser vi at alt er annerledes.
+
+newchat;key:william,v2:adult,weigth:10
+v1;0;Tu as déjà vu le Duc Guillaume, toi? / Har du sett hertug Vilhelm?
+v2;30;Non, jamais. Et qui sait où il est maintenant? / Nei, aldri. Og hvem vet hvor han er nå?
+v1;60;S'il était là, nous aurions déjà conquis ce nouveau monde! / Hvis han var her, så hadde vi erobret denne nye verdenen allerede!
+v2;100;Vive le Duc Guillaume! / Lenge leve hertug Vilhelm!
+
+newchat;key:floatingearth,v2:adult,weigth:10
+v1;0;Tu as remarqué, ici la terre flotte si on creuse en-dessous. / Har du lagt merke til at jorden her svever dersom vi graver under den?
+v2;40;Oui, et alors? / Ja, og så?
+v1;60;En Normandie, elle tombait... / I Normandie pleide den å falle...
+v2;90;En Normandie, Dieu voulait qu'elle tombe. Ici, il veut qu'elle flotte. / I Normandie så ønsket Gud at den skulle falle. Her ønsker han at den skal sveve.
+v2;150;Pourquoi critiques-tu Dieu? / Hvorfor kritiserer du Gud?
+
+newchat;key:likingrain,tag:raining,weigth:10
+v1;0;J'aime bien la pluie. / Jeg liker regn.
+v2;30;C'est une bonne chose pour un normand! / Det er godt for en normanner!
+
+newchat;key:boudintripes,weigth:10
+v1;0;Tu préfères quoi toi, le boudin ou les tripes? / Hva foretrekker du, boudin eller tripes?
+v2;40;Le boudin, les tripes c'est trop lourd. / Boudin. Tripes er for tunge!
+v1;80;Trop lourd? Et tu te dis normand? / For tunge? Og du kaller deg selv en normanner?
+
+newchat;key:horses,v1:child,v2:adult,weigth:10
+v1;0;Ca manque d'animaux, ce pays. / Dette landet mangler dyr.
+v2;30;Il y a des vaches, des moutons et des cochons. / Det finnes kuer, sauer og griser.
+v2;60;Que faudrait-il de plus? / Hva annet trengs?
+v1;60;Des chevaux? Et des poneys! / Hester? Og ponnier!
+v2;90;Parce que tu veux un poney, maintenant? / Fordi du ønsker deg en ponni, nå da?
+
+
+newchat;key:tripes,v1:adult,v2:adult,v1:male,v2:female
+v1;0;Les tripes, ça c'est un plat d'homme. / Tripes, nå det er mat for menn.
+v2;30;Préparé par les femmes... / Preparert av kvinner...
+v1;60;Mais avec des vaches abattues par des hommes! / Med kuer slaktet av menn!
+v2;100;Et nourries par des femmes... / Og fôret av kvinner...
+
+newchat;key:countingcows,weigth:10
+v1;0;Ca manque de distraction par ici. / Det er ikke mye å finne på rundt her.
+v2;30;C'est bien, c'est calme. / Det er fint og rolig.
+v1;60;Et ennuyeux... / Og kjedelig...
+v2;75;Tu n'as qu'à compter les vaches pour te distraire. / Hvorfor teller du ikke kuer?
+v1;110;Déjà fait hier. Et les poulets aussi. / Det har jeg allerede gjort, i går. Kyllinger, også.
+
+newchat;key:paris,v1:adult,v2:adult,weigth:2
+v1;0;Quel coin paumé ici, quand même. J'aimerai voir autre chose un jour... / For et isolert sted. Jeg skulle likt å se noe annet en dag...
+v2;30;Les autres villages sont tous pareils. / De andre landsbyene er alle like.
+v1;60;Pas un village! Un bourg. Ou même une ville! / Ikke en landsby! En by. Eller til og med et tettsted!
+v2;90;Quoi, comme Rouen? Tu es fou, c'est à des jours d'ici. / Som for eksempel, hva, Rouen? Du er gal, det ligger dager unna.
+v1;120;Rouen... ou même... Pourquoi pas Paris? / Rouen... eller kanskje... Hvorfor ikke Paris?
+v1;150;Tu te rend compte, on dit qu'il y aurait 25 000 personnes là-bas! / Kan du tenke deg det, folk sier at det finnes 25 000 folk som bor der!
+v2;180;Tu divague, mon pauvre. 25 000 personnes au même endroit? Et où on les mettrait? / Du har gått fra vettet. 25 000 personer på samme sted? Hvor skulle de da gå hen?
+
+newchat;key:calva,v1:adult,v2:adult,v1:male,v2:male,weigth:10
+v1;0;Par ce temps, un petit calva s'impose! / I slikt vær er calva et must!
+v2;30;Par tous les temps! / I all slags vær!
+v1;50;A la Normandie et son climat à calva! / Hurra for Normandie og dets calva-vær!
+v2;70;Santé! / Hurra!
+
+newchat;key:boyvillagechief,v1:child,v1:male,v2:adult,weigth:5
+v1;0;Quand je serais grand, je serais le chef du village! / Når jeg blir voksen, så vil jeg bli lederen av landsbyen!
+v2;30;Il va falloir que tu mange beaucoup de soupe avant d'en arriver là. / Du vil trenge en hel masse suppe før du kommer til det punktet.
+v1;60;Et je te ferais punir! / Og jeg vil gi deg straff!
+v2;70;C'est ça. En attendant, va travailler ou tu vas prendre une claque. / Selvfølgelig. Men for øyeblikket, dra til arbeid ellers får du et dask.
+
+newchat;key:kids1,v1:child,v2:child,weigth:10
+v1;0;Mon papa est bien plus fort que le tien. / Faren min er mye sterker enn din.
+v2;30;N'importe quoi. Mon papa est le plus fort du village. / Tullprat. Faren min er den sterkeste i landsbyen.
+v1;60;Tu rêves. Mon père met le tien par terre en deux minutes. / Drøm videre. Faren min kan slå din på to minutter.
+v2;70;Et la Terre est ronde! / Og jorden er rund!
+
+newchat;key:kids2,v1:child,v1:male,v2:child,v2:female,weigth:10
+v1;0;Les filles, ça ne sert à rien. / Jenter er ubrukelige.
+
+newchat;key:kids3,v2:child,v2:male,v1:child,v1:female,weigth:10
+v1;0;T'es peut être un garçon, mais je te fait pleurer quand je veux. / Du er kanskje en gutt, men jeg kan få deg til å gråte når jeg vil.
+v2;30;Même pas vrai! Même pas vrai! / Det er ikke sant, det er ikke sant!
+
+newchat;key:enderman,v1:adult,v2:child,weigth:10
+v1;0;Sois sage, ou l'homme des limbes t'emportera cette nuit! / Vær grei, ellers kommer endermannen og tar deg i natt!
+v2;40;Pfff, j'ai passé l'âge de croire à ces bêtises. / Pff, jeg er for gammel til å tro på sånt tull.
+
+newchat;key:badflirt,v1:adult,v2:adult,v1:nospouse,v2:nospouse,v1:male,v2:female,notrel:sibling,v1:notvtype:monk-priest-abbot,weigth:20
+v1;0;Alors beauté, qu'est ce que tu fais ce soir? / Så, skjønnhet, hva gjør du i kveld?
+v2;40;$targetfirstname, je t'ai déjà dit non! / $targetfirstname, jeg har sagt nei allerede!
+v1;60;Quel caractère! / Slik karakter!
+v2;80;Quel nigaud! / Slik idioti!
+
+newchat;key:badflirt2,v1:vtype:guard-lumberman,v2:adult,v1:hasspouse,v2:female,notrel:sibling,notrel:parent,notrel:child,weigth:20
+v2;0;$targetfirstname, quels beaux muscles! / $targetfirstname, så fine muskler du har!
+v1;30;Tais-toi, malheureuse! Si ma femme t'endend... / Vær stille, idiot! Hvis min kone hører oss...
+v2;60;Et bien quoi, bel homme? / Hva skjer da, kjekken?
+v1;90;Tu sais bien comme elle est jalouse! / Du vet hvor sjalu hun blir!
+v2;120;Et? Elle te fait peur? / Så? Er du redd henne?
+v1;140;Peur? Elle? Quelle blague! / Redd? For henne? Du tuller!
+v2;160;Ha!
+
+newchat;key:frerejacques,v1:child,v2:child,weigth:10
+v1;0;Frère Jacques, frère Jacques / Fader Jakob, Fader Jakob
+v2;30;Dormez-vous? Dormez-vous? / Sover du? Sover du?
+v1;60;Sonnez les matines! Sonnez les matines! / Hører du ei klokken! Hører du ei klokken!
+v2;100;Ding, daing, dong. Ding, daing, dong!
+
+
+newchat;key:alouette,v1:child,v2:child,weigth:10
+v1;0;Alouette, gentille alouette, / Lille lerke, søte lille lerke,
+v2;0;Alouette, gentille alouette, / Lille lerke, søte lille lerke,
+v1;30;Alouette, je te plumerai. / Lille lerke, jeg skal plukke fjærene av deg.
+v2;30;Alouette, je te plumerai. / Lille lerke, jeg skal plukke fjærene av deg.
+v1;60;Je te plumerai la tête. / Jeg skal plukke fjærene av hodet ditt.
+v2;60;Je te plumerai la tête. / Jeg skal plukke fjærene av hodet ditt.
+v1;90;Et la tête! Et la tête! / Av hodet ditt!
+v2;90;Et la tête! Et la tête! / Av hodet ditt!
+v1;120;Pauvre alouette quand même... / Stakkars lerke, da...
+v2;160;Pourquoi? C'est drôle! / Hvorfor det? Det er gøy!
+
+
+newchat;key:loupyesttu,v1:child,v2:child,weigth:10
+v1;0;Promenons-nous dans les bois, / La oss gå til skogs,
+v2;0;Promenons-nous dans les bois, / La oss gå til skogs,
+v1;30;Tant que le loup n'y est pas. / Mens ulven er borte.
+v2;30;Tant que le loup n'y est pas. / Mens ulven er borte.
+v1;60;Si le loup y était / Hvis ulven var der
+v2;60;Si le loup y était / Hvis ulven var der
+v1;90;Il nous mangerait, / Ville han ha spist oss,
+v2;90;Il nous mangerait, / Ville han ha spist oss,
+v1;120;Mais comme il n'y est pas, / Men siden han ikke er der,
+v2;120;Mais comme il n'y est pas, / Men siden han ikke er der,
+v1;150;Il nous mangera pas. / Så vil han ikke spise oss.
+v2;150;Il nous mangera pas... / Så vil han ikke spise oss...
+v2;180;Euh, tu es sûr? / Ehm, er du sikker?
+v1;200;Lâche! / Feiging!
+
+
+newchat;key:dagobert,v1:child,v2:child,weigth:10
+v1;0;Le bon roi Dagobert / Den gode kong Dagobert
+v1;30;A mis sa culotte à l'envers / Hadde knebuksene på vranga.
+v1;60;Le grand saint Éloi / Det store sankt Eligius
+v1;90;Lui dit : Ô mon roi ! / Fortalte ham: Å min konge!
+v1;120;Votre Majesté / Deres majestet
+v1;150;Est mal culottée. / Er dårlig bebukset.
+v2;180;Mal culottée? Ca veut dire quoi? / Dårlig bebukset? Hva betyr det?
+v1;220;Qu'il a pas de culotte! / At han ikke har på seg bukser!
+v2;250;N'importe quoi, c'est le roi! / For noe tull, han er jo kongen!
+v1;280;Ben il a pas de culotte le roi! / Vel, kongen har ikke bukser!
+v2;310;Même toi t'as une culotte, idiot! / Til og med du har på deg det, idiot!
+
+newchat;key:confession,v1:vtype:abbot-priest,v2:male,v2:notvtype:abbot-priest,weigth:10
+v1;0;Mon fils, il y a longtemps que tu ne t'es pas confessé. / Min sønn, det er lenge siden sist du har skriftet.
+v2;40;Mais mon Père, je n'ai pas péché! / Men Fader, jeg har ikke syndet!
+v1;70;Tout le monde pèche dans ce bas monde. / Alle synder i denne falne verden.
+v2;110;Même vous, mon père? / Til og med deg, Fader?
+v1;130;Ne sois pas insolent! Tu feras dix Pater Noster en pénitence! / Nok frekkhet! Du skal gjøre du må gjøre ti "Fader vår" til bot!
+
+
+newchat;key:confession2,v1:vtype:abbot-monk-priest,v2:female,v2:adult,weigth:10
+v1;0;Ma fille, il y a longtemps que tu ne t'es pas confessée. / Min datter, det er lenge siden du sist du har skriftet.
+v2;30;C'est vrai mon père, et j'ai péché! / Det er sant, Fader, og jeg har syndet!
+v1;60;Si c'est un péché de chair, nous en parlerons ailleurs. / Dersom det var et av kjødets synder, så skal vi diskutere det et annet sted.
+v2;100;Merci, mon père. / Takk, Fader.
+v1;120;En attendant, dix Pater Noster. Ca servira toujours! / I mellomtiden, ti "Fader vår". Alltid nyttig!
+
+newchat;key:carpenter,v1:vtype:carpenter,weigth:10
+v1;0;J'ai encore amélioré ma technique. / Jeg har forbedret ferdighetene mine igjen.
+v1;30;Avant d'assembler les colombages, je commence par... / Nå, før jeg setter sammen rammer, så starter jeg ved å...
+v2;70;C'est fascinant. / Fascinerende.
+v1;90;Tu trouves? / Synes du virkelig det?
+v2;110;Non. / Nei.
+
+newchat;key:cattlefarmer,v1:vtype:cattlefarmermale-cattlefarmerfemale,v2:notvtype:cattlefarmermale-cattlefarmerfemale,weigth:10
+v1;0;J'adore préparer des tripes. D'abord, saigner la vache... / Jeg elsker å forberede tripes. Først, sug ut blodet fra kua...
+v1;40;Puis extraire les boyaux... / Deretter samle opp tarmene...
+v2;60;Arrête, tu me dégoutes! / Stopp, du gjør meg kvalm!
+v1;80;Mais tu adores les tripes! / Men du elsker jo tripes!
+v2;110;Et je ne veux pas savoir comment elles sont faites. / Og jeg ønsker ikke å vite hvordan det blir laget.
+
+newchat;key:farmer,v1:vtype:farmer,v2:notvtype:farmer,weigth:10
+v1;0;Aucun doute, fermier c'est le métier le plus important. / Ingen tvil, jordbruk er den viktigste jobben.
+v1;40;Sans moi, pas de pain! / Uten meg så blir det ikke brød!
+v2;60;Je préfère les tripes, de toute façon. / Jeg liker tripes bedre, uansett.
+
+newchat;key:guildmaster,v1:vtype:guildmaster,weigth:10
+v1;0;Quand j'étais jeune, j'étais un apprenti très prometteur. / Når jeg var ung, så var jeg en meget lovende lærling.
+v1;40;Guillaume Vif-Argent lui-même s'intéressait à moi! / Guillaume Vif-Argent selv var interessert i meg!
+v1;80;Et maintenant je suis coincé ici. / Og nå er jeg fanget her.
+v1;110;A m'occuper d'abrutis. / Og tar hånd om idioter.
+v2;130;Hein, quoi? / Eh, hva?
+v1;150;*soupir* / *stønn*
+
+
+newchat;key:knight,v1:vtype:knight,weigth:10
+v1;0;Regarde mon château! Une vraie forteresse! / Se på slottet mitt! Et sant høyborg!
+v2;30;Vous êtes si puissant, seigneur! / Du er mektig, min herre!
+v1;60;Quand le Duc Guillaume reviendra, il me fera sûrement Comte! / Når hertug Vilhelm kommer tilbake, vil han helt sikkert gjøre meg til greve!
+v2;100;Vive le Compte $targetfirstname! / Hurra for greven $targetfirstname!
+v1;130;Vive moi! / Hurra for meg!
+
+newchat;key:lady,v1:vtype:lady,v2:notvtype:knight,weigth:10
+v1;0;Ma beauté est célèbre dans ces contrés. / Min skjønnhet er legendarisk i disse landområder.
+v2;30;Vous êtes superbe, ma Dame! / Du er fremragende, min frue!
+v1;60;Et pourtant j'ai épousé un petit chevalier de rien du tout... / Og allikevel så giftet jeg meg med en smålig, ubrukelig ridder...
+v2;100;Mais sa Seigneurie deviendra certainement comte un jour! / Men han vil da helt sikkert bli greve en dag!
+v1;130;Ce nigaud? Ah! Et pourquoi pas Pape, tant qu'à faire? / Denne idioten? Og hvorfor ikke pave med det samme?
+v2;160;Pourquoi pas, ma Dame! Euh... Je voulais dire... / Hvorfor ikke, min frue! Ehm... jeg mente...
+
+newchat;key:lumberman,v1:vtype:lumberman,weigth:10
+v1;0;Pommes pommes pommes! / Epler epler epler!
+v1;30;Pommes, pommes... pommes! / Epler, epler... epler!
+v2;60;Plutôt cidre cidre cidre dans ton cas, non? / Er du sikker på at det ikke var sider sider sider?
+
+newchat;key:merchant,v1:vtype:merchant,weigth:10
+v1;0;Quel village minable. / For en smålig landsby.
+v2;30;Eh étranger, attention à ce que tu dis! / Hei, fremmede, pass på munnen din!
+v1;70;Et quels habitants charmants! / Og for et sjarmerende folk!
+
+newchat;key:miner,v1:vtype:merchant,weigth:10
+v1;0;J'ai composé une petite chanson, tu veux l'écouter? / Jeg har kommet opp med en liten sang, vil du høre på den?
+v2;40;Vas-y! / La oss få høre det!
+v1;50;Heigh-ho, heigh-ho, heigh-ho, heigh-ho... / Hei hå, hei hå, hei hå, hei hå...
+v2;70;Ca commence bien... / En lovende start...
+v1;90;Je rentre du boulot! / Fra arbeid går vi nå!
+v2;110;Et moi j'ai beaucoup à faire. / Og jeg har masse arbeid å gjøre, selv.
+
+newchat;key:monk,v1:vtype:monk,v2:child,weigth:10
+v2;0;Frère Jacques, frère Jacques! / Fader Jakob, Fader Jakob!
+v1;30;Très drôle, mon enfant. / Veldig morsomt, mitt barn.
+v2;60;Dormez-vous? Dormez-vous? / Sover du, sover du?
+v1;90;Ca va, ça va, je connais la chanson. / Det er nok, jeg kjenner sangen.
+
+newchat;key:pigherd,v1:vtype:pigherd-pigherdf,v2:notvtype:pigherd-pigherdf,weigth:10
+v1;0;Tout est bon dans le cochon! / Alt er godt i grisen!
+v2;30;Ils font beaucoup de bruit quand tu les égorges, quand même. / De lager litt vel mye lyd når du slakter dem, da.
+v1;70;Plus le cochon braille, meilleure est la viande! / Jo mer grisen hviner, desto bedre er kjøttet!
+
+newchat;key:priest,v1:vtype:priest,weigth:10
+v1;0;Je veille sur la santé spirituelle des villageois. / Jeg betjener den spirituelle helsen til landsbyboerne.I minister to the spiritual health of the villagers.
+v2;30;Et il y a du travail! / Og det er masse betjening å ta seg til, der!
+
+newchat;key:priest2,v1:vtype:priest,weigth:10
+v1;0;Notre village craint Dieu. / Vår landsby frykter Gud.
+v2;30;Et son représentant, Père $targetlastname. / Og hans sogneprest, Fader $targetlastname.
+
+newchat;key:seneschal,v1:vtype:seneschal,weigth:10
+v1;0;Je suis très estimé à la cour du Roi le Duc Guillaume. / Jeg er høyt aktet i hoffet til kongen, hertug Vilhelm.
+v2;40;Le Roi le Duc? / Kongen, hertug?
+v1;60;Sa Majesté Guillaume le Conquérant, Duc de Normandie et Roi d'Angleterre, ignare! / Hans majestet Vilhelm - erobreren, hertug av Normandie og konge av England, din tåpe!
+v2;100;C'est où l'Angleterre? / Hvor ligger England?
+v1;120;De l'autre côté de la mer. Quelle ignorance! / På den andre siden av havet. Slik uvitenhet!
+v2;140;De quelle mer, Seigneur? / Av hvilket hav, min herre?
+v1;160;Quelle insolence! Il suffit! / Slik frekkhet! Det holder!
+
+newchat;key:shepherd,v1:vtype:shepherd-shepherdf,v2:notvtype:shepherd-shepherdf,weigth:10
+v1;0;Etre berger est un métier très noble. / Det å være sauegjeter er et nobelt håndverk.
+v2;30;Noble? Berger? / Nobelt? Sauegjeter?
+v1;50;N'avons nous pas été choisis par Dieu pour recevoir la Bonne Nouvelle? / Ble vi ikke valgt av Gud til å høre de gode nyhetene?
+v2;90;Ah, oui. Pendant que vous vous occupiez des agneaux nouveau-nés - en Décembre. / Å, ja. Mens dere tok dere av de nyfødte lammene - i desember.
+v1;130;Et alors? Peut être qu'à Bethléem il n'y a pas de saisons. Comme ici! / Og så? Kanskje i Betlehem så finnes det ingen årstider. Slik som her!
+
+newchat;key:smith,v1:vtype:smith,weigth:10
+v1;0;La vrai force des normands, c'est leurs outils et leurs armes. / Den sanne styrken til normannerne ligger i våpnene og verktøyene deres.
+v2;40;Et donc leurs forgerons? / Og dermed også i smedene deres?
+v1;60;Voilà! / Helt riktig!
+
+
+newchat;key:wife,v1:vtype:wife,v2:male,v2:adult,weigth:10
+v1;0;Pourquoi est-ce toujours les femmes qui construisent? / Hvorfor er det alltid kvinnene som tar seg av byggingen?
+v2;40;Si ça te gène, je m'occupe du prochain bâtiment. / Dersom det plager deg, så kan jeg ta meg av det neste prosjektet.
+v1;80;Vraiment? Tu es adorable! Alors, pour les rideaux, n'oublie pas de... / Virkelig? Det er så søtt av deg! Så, angående gardinene, ikke glem å...
+v2;120;En fait non, je vais te laisser faire. / Forresten, nei, jeg tror jeg vil la deg få gjøre det.
+
+
+newchat;key:alchemyworkshop,villager:alchemistapprentice,v1:notvtype:alchemistapprentice-guildmaster,v2:notvtype:alchemistapprentice-guildmaster,v1:adult,v2:adult,weigth:10
+v1;0;Je suis passé devant l'atelier de l'alchimiste hier. / Jeg gikk foran alkymistens verksted i går.
+v1;40;Il y avait une odeur d'œuf pourris horrible! / Der var det en lukt av råtne egg!
+v2;80;Il paraît qu'il essaye de fabriquer la pierre philosophale! / De sier at han forsøker å lage de vises stein!
+v1;120;Moi j'ai entendu qu'il veut résusciter les morts. / Jeg har hørt at han ønsker å gjenopplive de døde.
+v2;160;Et moi qu'il va fabriquer un monstre avec des cadavres! / Og jeg at han vil skape et monster fra kroppsdeler!
+v1;200;Quelle horreur! / Så forferdelig!
+v2;220;C'était un garçon si charmant pourtant... / Og han som var slik en kjekk gutt...
+
+newchat;key:archives,building:archives,weigth:10
+v1;0;Tu as visité les nouvelles archives? / Har du sett de nye arkivene?
+v1;30;On y voit ce que tout le monde fait! / Du kan se hva alle holder på med!
+v2;60;Ah, vraiment... et euh... / Å, virkelig... og, ehm...
+v1;90;Oui, j'ai vu ton panneau. / Ja, jeg så panelet ditt.
+v1;120;Tu devrais avoir honte. / Du burde virkelig skamme deg.
+
+newchat;key:bakery,building:bakery,weigth:10
+v1;0;J'adore l'odeur de pain qui sort de la boulangerie. / Jeg elsker lukten av ferskt brød som kommer fra bakeriet.
+v2;40;Il ne nous manque plus que quelqu'un sachant faire des croissants. / Nå trenger vi bare noen som vet hvordan man lager croissanter.
+
+newchat;key:church,building:church,weigth:10
+v1;0;Notre église est vraiment superbe. / Kirken vår er sannelig fremragende!
+v2;30;Elle montre que nous sommes un village pieux. / Det viser at vi er en gudfryktig landsby.
+v1;60;Et elle est plus grande que celle du village voisin! / Og den er større enn den til nabolandsbyen!
+
+
+newchat;key:inn,building:inn,v1:notvtype:merchant,v2:notvtype:merchant,weigth:10
+v1;0;Maintenant que nous avons une auberge, nous allons pouvoir commercer! / Nå som vi har et vertshus, så kan vi handle!
+v2;40;Autrement dit, les marchands de passage vont se servir dans nos resources. / Sagt med andre ord, så kan kjøpmenn som kommer forbi forsyne seg med ressursene våre.
+v1;80;Tu as toujours été cynique. / Du har alltid vært en kyniker.
+
+
+newchat;key:market,building:market,v1:notvtype:merchant,v2:notvtype:merchant,weigth:10
+v1;0;J'adore le marché! Tellement de marchandises superbes! / Jeg elsker markedet! Så mange flotte varer!
+v2;40;On se sent moins isolé maintenant. / Vi føler oss mindre isolert nå som det er der.
+v2;80;Mais pas plus riches... / Men ikke rikere...
+
+
+newchat;key:tavern,building:tavern,v1:adult,v2:adult,weigth:10
+v1;0;La taverne est certainement la meilleure chose qu'on ait construite. / Kroa er sikkert det beste vi har bygget i landsbyen.
+v2;40;Personne ici ne dira le contraire! / Ingen her kan nekte mot det!

@@ -1,0 +1,18 @@
+version:4.8.0
+<darkblue>Les Mayas
+
+Venant du Yucutan, les Mayas se distinguent par leur architecture à base de pierre et de décoration en or et habitent des villages agricoles, religieux ou militaires. Ils parlent maya, mais leurs dialogues seront traduits au fur et à mesure que le joueur « apprend » leur langue en parlant avec eux.
+
+<darkblue>Objets et blocs uniques
+
+-Ils cultivent du maïs. Le joueur peut demander au chef de lui apprendre comment cultiver cette céréale.
+-À partir de maïs et de poulets, ils produisent des wah et des masas - des galettes très nourrissantes.
+-Ils cultivent le cacao et en tirent la cacauhaa, une boisson chocolaté reconstituante
+-L’artisan d’obsidienne produit des armes et des outils en obsidienne, qui sont fragiles mais s’enchantent très facilement
+-Les blocs décoratifs en or, fabriqués par l’artisan à partir d’or vendu par le joueur
+-Les bas-reliefs mayas fabriqués par l’artisan représentent des divinités mayas
+
+<darkblue>Recettes spécifiques
+
+-Trois maïs en une ligne donnent un wah (une espèce de tortilla)
+-Deux maïs en une ligne avec un poulet cru au milieu donnent un masa (une tortilla au poulet)

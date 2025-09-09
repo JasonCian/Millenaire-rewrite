@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "millenaire:purse"
+        },
+        "title": {
+            "translate": "advancements.cresus.name"
+        },
+        "description": {
+            "translate": "advancements.cresus.desc"
+        }
+    },
+    "parent": "millenaire:firstcontact",
+    "criteria": {
+        "cresus": {
+            "trigger": "cresus"
+        }
+    }
+}

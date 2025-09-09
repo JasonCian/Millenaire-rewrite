@@ -1,0 +1,25 @@
+//Parameters for the building as a whole
+building.length=13
+building.width=13
+building.icon=timberframecross
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Shugi Ie
+initial.priority=800
+initial.male=japanese_crafter
+initial.female=japanese_peasantwife
+initial.prioritymovein=20
+initial.shop=japanesecrafter
+
+//Parameters for specific upgrades
+upgrade1.priority=50
+upgrade1.tag=oven
+
+upgrade2.priority=75
+
+upgrade3.priority=70
+
+upgrade4.priority=65
+upgrade4.pathlevel=1
+

@@ -1,0 +1,32 @@
+﻿﻿culture.indian=Hindid
+
+villager.indian_boy=Poiss
+villager.indian_girl=Tüdruk
+villager.indian_teenagerMale=Nooruk
+villager.indian_teenagerFemale=Nooruk
+villager.indian_lumberman=Puuraidur
+villager.indian_miner=Kaevur
+villager.indian_pandit=Preester
+villager.indian_peasant=Talunik
+villager.indian_peasantwife=Nais talunik
+villager.indian_rajputgeneral=Rajput kindral
+villager.indian_richwoman=Rikkas naine
+villager.indian_soldier=Rajput sõdur
+villager.indian_villagechief=Küla juht
+villager.indian_smith=Sepp
+villager.indian_armysmith=Relvameister
+villager.indian_sculptor=Skulptor
+villager.indian_panditayin=Preestri naine
+villager.indian_raja=
+villager.indian_rani=
+villager.indian_merchant=Kaupmees
+villager.indian_lonetrader=Üksik kaupleja
+villager.indian_adivasipeasant=Adivasi talunik
+villager.indian_sadhu=
+villager.merchant_oriental=Pärsia kaupmees
+villager.merchant_adivasi=Adivasi kaupmees
+villager.merchant_villagewoman=Küla kaupleja
+
+shop.townhall=Kesk-pood
+shop.forge=Töövahendid
+shop.armyforge=Soomus ja relvad

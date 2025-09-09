@@ -1,0 +1,1 @@
+native:Boskótopos;gameNameKey:sheepfarm_A0;male:shepherd_byzantine;female:wife_byzantine;moveinpriority:10;tag:sheeps;tag:oven;chest:1-5;craft:1;sign:1;spawn:2-4;spawnType:Sheep;radius:10

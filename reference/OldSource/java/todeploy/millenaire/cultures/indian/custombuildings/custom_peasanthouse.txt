@@ -1,0 +1,1 @@
+native:Kisaan ka Ghar;gameNameKey:peasanthouse_A0;male:indian_peasant;female:indian_peasantwife;chest:1-5;sign:1;moveinpriority:10

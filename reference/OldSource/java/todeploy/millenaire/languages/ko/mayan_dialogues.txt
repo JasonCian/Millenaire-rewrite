@@ -1,0 +1,260 @@
+//Français par xIflot
+//French by xIflot
+//Anglais par Teethdude
+//English by Teethdude
+
+newchat;key:stone,weigth:10
+v1;0;Nojoch tuunich antal ts’íib ku bin táanil ti’ junp’éel k’aaba’ tia’al u ye’esik xiib yéetel chéen juntúul wáa junp’éel ma’alobkin wíiklal ka kuxtal. / 돌은 역시 이세상 존재하는 광물중에 최고의 광물이야.
+v2;30;¡Kux yaan ma'alobtal bi'bi'ki! ¡Ts'íic tuunich! / 이건 무려 요리할때 더 좋게 만들어준다고! 돌 만세!
+v1;60;¡Haah k'ana'an hóok's! Ich meyah! / 우린 이걸 채광해야할 필요가 있어! 빨리 움직여!
+
+newchat;key:pyramid,building:mayanpyramid,weigth:7
+v1;0;Tin nah k'uh haah ma'alobkin hats'uts yéetel ma'alobkin beet. / 우리의 피라미드가 제일 아름다운 빌딩이지 아마?
+v2;30;Haah u t'aan. Xíimbal uláak' chan kaah. Utia'al letio'ob antal ki'ichpam, ¡Ba'ale' ma' ki'ichkelem he'ebix in tia'al! / 맞아. 우리의 피라미드가 가장 아름다워. 내가 저번에 다른 동네에 갔었는데 거기도 우리 못지않게 멋졌지만 우아하지가 않았어. 
+v1;60;In tia'al xook utia'al nahil haah hun yéetel ha'as óol. / 우리의 건축방법은 독창적이면서도 특병하잖아.
+v2;90;Ma' u'uyba nohchil hach. Ma' k'áat kex antal he'ebix Byzantines. / 너무 자랑하지 말아. 난 우리가 망한 비잔티움처럼 될까봐 무섭단 말야... 
+v1;120;Ah, kux. In ch'a' k'uux. ¿¡Bixi' páahtal yaan hach  u'uyba noh ba'al!? / 아, 그래, 어... 나는 그들이 싫어. 어떻게 사람이 수도없이 잘난체를 하는지! 
+
+newchat;key:player,weigth:10
+v1;0;To'on ma' hach wíiniko'ob ka taal ich xíimbal lelo' kúuch. / 우리는 많은 방문객들을 원치않아. 
+v2;30;Kux, chéen lela' $name yéetel uláak' wíiniko'ob saat... / 그래, 여긴 오직 $name와 다른 잊혀진 사람들만이 있어.
+v1;60;T'aan utia'al $name, ¿ma' teech tuukul ka $name il ka'anal yéetel hela'an? / 거기 $name, 그를 찾으면 찾을수록 그는 더 이상해진다고, 그리고 피곤해? 
+v2;90;Kux. Leti' p'aax wa'atal. / True. 그는 쉴 필요가 있는것 같아. 
+
+newchat;key:miner,weigth:9
+v1;0;To'on p'aax antal máas áaktun máako'ob. / 우리는 더 많은 광부를 모집해야 해. 
+v2;30;¡Ah kux! Nohoch tuunich yéetel yaan ma'alokin bi'bi'ki ti' kúuch. / 오 그래! 그 돌과 광석들은 존재하는 것 중에 가장 좋은 걸거야. 
+v1;60;Kux, haah u t'aan. Kurx yaan k'aana'an máas utia'al to'on, P'aax ya'abtal xook. / 나도 그렇게 생각해... 하지만 마을에 우리같은 광부들이 없어서 말이야, 우리 인원을 좀 늘려야 겠어. 
+v2;90;Yéetel ma' ts'aa ich meyah ich mix may paal. / 그리고 우리는 아이들에게 일을시킬순 없어. 그들은 너무 어리잖아. 
+
+newchat;key:woman,weigth:6,v1:adult,v2:adult,v1:female
+v1;0;Haah k'iin utia'al nah. / 이제 집을 청소할때가 왔네. 
+v2;30;¡Kurx teech hun k'iin! / 하지만 어제 했잖아! 
+v1;60;Ma', yaan mix ba'al ka beet te'ela'. / 괜찮아. 난 이곳에서 뭘 할수있게 허락된게 없거든. 
+v2;90;¡Teech huntiich' tak ho'ol! / 넌 어떻게 언제나 불평만 늘어놓니! 
+v1;120;Yaáxil tak pool, ¡óot na'at! / 나의 불평에 항의하는 대신, 내가 왜 풀평을 하는지 생각하진 않는거야?
+
+newchat;key:friend,v1:vtype:mayan_miner,v2:adult,weigth:10
+v1;0;Ah, tin uts amikoo, ¡$targetfirstname! ¿Bixi' antal? / 아! 내친구  $targetfirstname! 오늘 기분은 어때? 
+v2;30;¡Toh oolal, $targetfirstname! Meen ka in páahtal, meyahil bin k'aas. / 안녕 $targetfirstname! 내가 할수 있는게 없어. 장사가 잘 안되거든...
+v1;60;¿Teech p'aat koonol tuunich ich Indians? / 히디스에 돌을 파는걸 멈춰줄순 없는거야?
+v2;90;Kux. Behla'e' leo'ob Japanese sahkab máako'ob k'a'ay meyah, leito'ob ma' k'abeet. / 그래, 일본 광부들은 이제 해방이야. 나에겐 더이상 필요가 없거든.
+v1;120;Teech ts'a'ah wa ba'ax hach. / 이제 당신은 그들의 다른 요구들을 들어줘야 할거야.
+v2;150;¿Teech yaan hun tuukul? / 넌 다른 아이디어가 없어?
+
+newchat;key:monster,weigth:5
+v1;0;Yaan hach k'aak'as ba'al táankab. / 지급은 밖에 많은 몬스터들이있어!
+v2;30;In antal máako'ob ba'ate'il páahtal kíimsah. / 나는 수호자들이 몬스터들과 싸울수있다는게 자랑스러워!
+v1;60;In antal sahkil beey hun múuch' lelo'ob paal wáak'al ya'ax taah ich chan kaah. / 나는 걱정인게 말이야.. 그 녹색의 폭발하는 괴물이 몰려오지 않을까.. 그게 걱정이야.
+v2;90;Ma' sahakil. To'on yaan léech tia'al ts'aa yiknal letio'ob. / 걱정하지마. 우리는 그것들에게 미끼를써서 괜찮아.
+v1;120;Lela' uts, to'on yaan ich $name. Leti' ma' ba'ate'el k'aw. Leti' páahtal áantah to'on. / 그래, 제일 나쁜건 $name이야. 이녀석이 몬스터들을 하나도 남김없이 싹쓸이 해버렸어!
+v2;150;Kin ma' péek óol. Leti' ma' k'aw. / 난 너와다르게 그렇지않아. $name은 착한 사람이야.
+
+newchat;key:normands,weigth:6
+v1;0;¿Teech yaan paakat boon oot'il utia'al Normans? ¡Letio'ob hach saas! / 넌 노만들의 피부색을 본적 있어? 그건 매우 창백했어!
+v2;30;¡Kux! In mix bik'in yaan paakat saas máako'ob. Hela'n.  / 아 그래! 그 피부색은 매우 창백했었어. 진짜 이상하다니까..
+v1;60;In tuukul letio'ob xota'an u k'iin... / 난 그들이 아마 저주받아서 그렇다고 생각해..
+v2;90;Ma' yaan ma' na'at. Letio'ob yaan wíinik he'ebix tuláakal to'on. / 바보같은 소리하지마. 그들은 사람들과 조금 다른것뿐이야.
+v1;120;Ma' péek óol yaan káaltalil k'eex beey. In antal chich leio'ob ma' yaan beey. / 그들은 술을 마시면 뭐같이 변한다니까. 난 그들이 싫어.
+v2;150;Wale' teech antal k'aw. / 넌 아마 잘못된거 같아.
+
+newchat;key:alchimist,weigth:4
+v1;0;Ch'óoch' káax, in il báaxal t'aan wáay. / 내가 숲을 탐험하던중 말이야, 재미있는 연금술사를 보았어.
+v2;30;¿Teech' he'ebix leti' léeyli'e'? Leti' yaan su'utsil hela'an. / 너도 그를 봤어? 그는 진짜 불가사의했었는데..
+v1;60;"¡Yéetel bixi'! Leti' yaan hun ts'íib hela'an xa'ak'. ¿Teech oohel "tseek' baakel muuts'" wa "sa'am utia'al píixan" p'aax a'al? / 그리고 어쪄면, 이런 재료들이 있을지도 몰라. '위더 스켈레톤의 뼈'나 '소울 샌드'와 같이 말이야.
+v2;90;Ma'. Kurx ma' yaan hach hets' tuukul. / 아마 아닐걸. 그리고 이건 안심되지가 않아.
+v1;120;¡Kurx! To'on tuukul leti' óot beet ich tuunich yum k'iin. / 야호! 우리는 그가 현자의돌을 만들었다고 행각해!
+v2;150;Tohol $targetfirstname, beey teech tuukul huum u tsikbalil wáa ba’ax, teech antal hach k'as tuukul kab yaan táax. / 용감한 $targetfirstname, 네가 만약 이 루머들을 믿는다면 말이야, 지구가 둥글다는걸 믿는다는것과 같아.
+v1;180;Teech antal wáa ma'alob. / 아마 네가 맞을거야.
+
+newchat;key:dragonegg,v1:adult,v2:adult,weigth:5
+v1;0;Kin il ich hela'an he' boox ich bilim. / 나 저번에 사막에서 이상한 알을 보았어. 
+v2;30;Ah, ¿ich wa maax? ¿Bixi' haah il? / 오 진짜? 그거 어떻게 생겼어?
+v1;60;Yaan noh, yaan wóolis chak puk’e’en. Yaan hach noh. ¡Nohoch! / 그건 매우크고 보라색 점들이있었어.
+v2;90;¿Teech uk' Norman máak sen ya'ab wa teech antal p'a'as? / 너 또 노먼술을 먹고 주정 부리는거야?
+v1;120;Ba'ale'... ¡Haah haahil! / 하지만... 이건 진짜라니깐!
+v2;150;¡Jaja! Teech tuukul teech tuus beey, ¡teech k'aw! / 하하! 아마 네가 날 놀리려는거 같은데 난 그런 뻔한 거짓말엔 안넘어가!
+
+newchat;key:wither,weigth:3
+v1;0;Ich k'aáx in il ich hela'an boox paal. / 저번에 숲속에서 이상한 검은 생물을 보았어.
+v2;30;¿Haah haahil? Tsool, ¡in k'áat oohel máas! / 진짜? 나에게 그걸 좀 설명해봐! 나 
+v1;60;Leti' yaan boox he'ebix baakel paal, yiknal ho'ol ich ts'ook utia'al k'ab, yéetel ich kaal, yéetel yaan ta' hach ke'el he'ebix ha' chichkunta'an tumen ke'el wáa síis... / 그건 검은 스켈레톤과 비슷했어. 그리고 두개의 목을 팔같이 생긴 목에 달고있었어. 그리고 그건 마치 춥고 얼음같았어.  
+v2;90;Xi'ix mukuy pu'uch. / 그게 내 척추를 시리게 했구나.
+v1;120;Enderwíinik antal k'óoch leti'. / 엔더맨이 그걸 공격했었어.
+v2;150;¿Ederwíinik? Letio'ob ma' kuxtal, teech antal wayak'. / 앤더맨? 그건 존재하지 않아. 너 꿈이라도 꾼거 아냐?
+
+newchat;key:bakery,notbuilding:mayanbakery,weigth:7
+v1;0;To'on p'aax wa'akum nah hun tu'ux ku meenta'al yéetel ku ko'onol waah. Too'n antal ich meyahil. / 우리는 제과점을 지을 필요가 있다고 생각해. 그게 아마 우리의 장사에 도움이될거야.
+v2;30;Haah u t'aan. To'on ma' kukin otoch waah. / 맞아, 우리는 정착하지 못한 사람들에게 집에서 직접 만든 빵을파는거야.
+v1;60;Bin ich t'aan ich halach wíinik. / 빨리 촌장님께 말하러 가자!
+
+newchat;key:bestdad,v1:child,v2:child,weigth:8
+v1;0;Tin taatáa yaan toop tumen leti' haah hun ma'ako'ob mol che'. / 우리 아빠가 세상에서 가장 멋진 나무꾼이야!
+v2;30;¡Jah! ¡Che' haah ma' k'abéet! Tin taatáa yaan toop tumen antal sahkab máako'ob. / 아냐! 나무는 쓸모없어! 채광이 더 멋져! 우리아빠가 광부란말야!
+v1;60;Mina'an che', a taatáa ma' meyah. / 나무를 떠나서 너희 아빠는 목적도 가진게 없잔아!
+v2;90;¿¡Ba'ax!? ¿Teech kaxan hun? / 그래?! 네가 그걸 어떻게 알아? 네가 보기라도 했어? 
+v1;120;Ka'anal, tuunich ma' yaan meyah. ¡Ta'! / 그만, 돌은 쓸모없어. 인정하지그래?
+v2;150;¡Mina'an tuunich, a taatáa weneh yáanal eek'! / 돌을 떠나서 너희 아빠는 별 아래에서 자는게 좋은가보지?
+
+newchat;key:becomeadult,v1:child,v2:child,weigth:9
+v1;0;Kin yaan sahakil utia'al suut nohoch máak. / 나는 어른이 되는게 무서워...
+v2;30;¿Ba'ax ten? / 어쨰서?
+v1;60;Tumen... Yaan hach hach meyahil yéetel ma' báaxah... / 하아.. 어째서냐면... 어른들은 일을 엄청많이 해야하잖아.. 놀 시간도 줄어들고..
+v2;90;Teech il, ¡toop! / 넌 알고있구나! 대단해!
+v1;120;Ma'... Kin ma' k'áat! Kin ma' k'áat! Kin ma' k'áat! / 이..안돼! 난 싫어! 난 싫다고!! 어른이 되기 싫어!
+
+newchat;key:rebellion,v1:child,v2:child,rel:sibling,weigth:6
+v1;0;¡Taatáa yéetel na' yaan k'aw! ¡To'on yaan léeyli'e' cho' tin otoch! / 엄마랑 아빠는 불공평해! 어째서 우리가 우리방을 청소해야 하냐고!
+v2;30;¡Kurx! ¡To'on p'aax e'es yéetel k'áat hun kuxtal hach tsikbe’en! / 그래! 우리는 더나은 대우를 받기위해 반란을 일으킬거야!
+v1;60;¡To'on il! ¡Teech na'! / 싸우자! 엄마는 우리에게 관심도 없어!
+
+newchat;key:japanese,v1:adult,weigth:8
+v1;0;Eh, $taargetfirstname, il. / 거기 $targetfirstname, 이거좀 봐봐.
+v2;30;¡Báaxal t'aan ts'oons! ¿Tu'ux teech antal? / 멋진 검이네! 멋진 활이다! 어디서 이걸 얻은거야?? 
+v1;60;Haah yumi yéetel tachi. Utia'al Japanese máaskab. / 이건 유미활이랑 타치라고 하는데 일본 공방에서 얻어온거야.
+v2;90;Haah hats'uts yéetel k'abéet. ¿Haah ko'ok? / 진짜 아름답고 강해보여.. 이거 비싸..?
+v1;120;¡Kurx! ¡In ch'iin 2 sak taak'in yiknal yumi! / 짜증나게도 그래! 활 하나 사는데에도 실버코인 2개나 들었어! 
+v2;150;¡Oohh! Teech líik'es hach táanil maan. / 와아.. 넌 그걸 사려고 저축을 많이 했나보구나.
+
+newchat;key:exchange,v1:adult,v2:adult,v1:male,v2:male,weigth:9
+v1;0;Heh, $targetfirstname. ¿To'on k'íiwik toohol koonol? / 안녕하세요 $targetlastname님, 계속 우리가게를 이용하실건가요? 
+v2;30;Kurx, kurx. He'ebix in a'al, in yaan túulis. / 그래요, 그래. 말만하세요. 우리는 모든걸 팔고있으니. 
+v1;60;¡Huntiich ich k'iin! Haah ma'aldo beet meyahil yiknal teech. / 언제나 시갇을 맞춰 달려옵니다! 저희는 비즈니스맨이니까요. 
+v2;90;Ki’imak óolal haah tin. Le túun... 32 chuun che' tumen 8 máaskab. ¡Péeka'an! q/ 모든 기쁨을 광산에게! 32개의 나무와 8개의 철괴를 모으는데 성공했어!
+v1;120;Hach dyos bo’otik, yuum. Teech yaan ich ma'aldo k'iin. / 감사합니다 손님. 좋은 하루 되세요.
+v2;150;Teech, yuum $targetlastname! / 좋은 하루 되세요. $targetlastname씨!
+
+newchat;key:embauchement,v1:adult,v2:vtype:mayan_warrior,weigth:7
+v1;0;Kin meyah máak teech tia'al kalan in, tumen 48 Deniers tumen k'iin. / 자신을 지키고싶다면 나를 고용해. 하루의 48코인. 충분한 거래라고 생각해.
+v2;30;Amm... koonol bahux k'iin teech meyah máak, $targetfirstname. / 흐음... 나를 언제 까지 고용할거야 $targetfirstname?
+v1;60;6 K'iin. Tin xiibil peek' ma' ka'ans tia'al kalan in kin. / 6일이라.. 그러면 난 내 강아지한테 밥을 못줘서.. 흐윽..
+v2;90;Hun Argentum. Ma' óotsil. / 그래, 거래성립. 실버코인으로. 적게 주면 안되는거 알지?. 
+v1;120;¡Lelo' haah ookol! / 강도다! 빨리 잡아야해! 
+v2;150;Ma', $targetfirstname. Kin péek óol tin kuxtal waye' meyahil. / 이게 전부가 아니야, $targetfirstname. 난 이일에 평생을 바쳤는걸.
+
+newchat;key:cereal,v2:vtype:mayan_farmer,weigth:9
+v1;0;Kin k'áat pak'al arroz. / 나는 쌀을 한번 재배해봐야겠어!
+v2;30;¿Arroz? ¿Ba'ax yaan? / 쌀? 그게뭔데?
+v1;60;Hun aban in maan utia'al Indians. ¡Letio'ob t'aan yaan ki'! / 힌두에서 온 식물인데 그들이 말하기로는 엄청 맛있다는데?
+v2;90;¿Kin páahtal túum? / 한번 먹어봤어?
+v1;120;Yah tu yool, ma'. Kin pak' neek'. / 아쉽게도 아직. 그래서 한번 재배해보려고.
+v2;150;Lelo' ma' antal k'abéet. / 그거 좋은 생각이야.
+
+newchat;key:zombiepigmen,weigth:6
+v1;0;¿Teech il chak iik' hach túumben? / 마지막 폭풍을 봤어?
+v2;30;¡Yéetel he'ebix! Tin koolki' óolt ha', kurx kin yaan sahkil. /하지만 어떻게! 우리의 작물이 걱정되긴 하지만.. 너무 무섭다고!
+v1;60;Kin antal pak'al, yéetel antal k'éek'en tséel kin. / 그래. 내가 목장에 있을때, 내옆에 돼지 한마리가 있었어.
+v2;90;¿Yéetel? / 긔리고? 
+v1;120;Hun haats' cháak yéetel leti'... Leti' níikil paachil mo'ol... / 번개가 내려쳤지.. 그리고 그가 일어섰고 그의 옆에.. 이상한 생명체가 돼지 대신 서있었어.
+v2;150;¿Haah u t'aan? ¿Bixi' il? / 진짜? 어떻게 생겼는데?
+v1;180;Lei' yaan kuuxum ya'ax óok'ol... wa wa ba'axhe'ebix leto'. Lei' yaan xtol k'uun. / 약간 초록색 이끼를 끼고.. 그리고 좀비를 닮았어. 또 금 칼을 들고있었어. 
+v2;210;¿Teech kóoch wa hóok'ol? / 달아나지는 않았어? 
+v1;240;In antal ma' xtol. Kurx leti' ma' k'áat kóoch kin. Leti' il kin, suut, yéetel xíimbal ma' ohéelal t'aan máan. / 나는 비무장이었어. 하지만 그건 나를 공격하지 않았어. 그건 나를 바라보며 머리를 돌리는게 뭔가 어디로갈지 궁금해하는거 같았어.
+v2;270;Teech p'aax ts'aa k'áak'. ¿Yéetel k'óoch chan kaah? / 불을 사용하지 그럤어.. 만약 마을을 공격하면 어떻해? 
+v1;300;Kurx haats' cháak, yéetel leti' uúy mix ba'al. / 그건 불이 통하지 않았어! 번개가 한번더 그걸 내쳤지만 아무 상처도 입지 않았다고!
+
+newchat;key:recolt,weigth:10
+v1;0;T'ook yaan pik'taan tun. / 이번 농사는 풍작인걸?
+v2;30;Kurx, yéetel tak ho'ol yaan chich pool. / 그래, 이런때에 불평을 하는건 바보같은 짓이지.
+v1;60;¡Wáa! / 그러게 말이야! 
+
+newchat;key:village,weigth:8
+v1;0;Kin tuukul chan kaah il ma'aldo. / 난 우리마을이 멋지다고 생각해. 
+v2;30;Wáa. Yaan hach hats' uts. / 나도 그렇게 생각해. 예술적이잖아. 
+v1;60;Yaan dyos bo'otik tuunich yéetel na'at meent. / 이건 아마 돌건축방법의 숙련도가 높아져서 그런걸거야.. 
+
+newchat;key:peasantdialog,v1:vtype:mayan_peasant,v2:vtype:mayan_peasant,weigth:10
+v1;0;Hach hach nal tia'al hooch, hach kóom k'iin... / 너무 옥수수가 많아서 수확하기 힘들어..
+v2;30;Kurx, in k'áat to'on yaan xet' utia'al hooch. / 그러게말이야.. 아직도 이만큼밖에 수확하지 못했어..
+
+newchat;key:playerorigins,weigth:10
+v1;0;$name haah ich hela'an máako'ob. / $name은 아주 이상한 사람이야.
+v2;30;Haah hach hela'an ka normans. / 어쩌면 노먼들보다 더 이상할지도 몰라.. 
+v1;60;¿Kurx utia'al tu'ux taal leti'? / 하지만 어디서 그가 왔을까?? 
+v2;90;Kin ma' antal, leti' ma' haah il he'ebix uláak' chan kaah. / 나도 모르지, 하지만 그가 우리 문화에서 온것같진 않아.
+
+newchat;key:byzantins,weigth:9
+v1;0;Kin ma' muk'yah ich leio'ob Byzantines, ¡letio'ob tuukul letio'ob yaan yuumil lu'um! / 나는 비잔티움녀석들 때문에 견딜수가 없어! 그들은 이땅이 자기껀줄 아나봐!
+v2;30;¿Yéetel teech il lelo'ob nahils? / 그런데 넌 비잔티움의 건물을 본적있어?
+v1;60;Kurx kin il lelo'ob, hach hela'am. / 물론이지, 난 그렇게 이상한건 처음봤지 말이야.
+v2;90;¿Pak'lu'um? ¿Ka haah xuul? / 어디디가 그렇게 이상한데? 벽돌?
+v1;120;Letio'ob ts'aa ba'al utia'al xukul, he'ebix Normans. / 그들은 노먼처럼 유리를 사용해잖아.
+v2;150;Túun, kurx leio'ob il hach máan táanil ka indians. Letio'ob chéen yaan hool. / 그래, 하지만 그들은 인도보다 발전되기는 했잖아. 그들은 창문조차도 없어.
+
+newchat;key:dialogchildmother,v1:child,v2:adult,v2:female,rel:parent,weigth:10
+v1;0;¡Na'! ¿Kin páathal bin báaxal táanakb chan kaah? / 엄마! 저 마을에서 더멀리 밖으로 나가도 되요? 
+v2;30;Ma' tin paal, kin ma' k'áat ka teech k'ool. / 안된다 아가야. 난 네가 다치는걸 보기 싫어. 
+v1;60;K'ool utia'al ka? Ma' haah hach k'as táanak. / 무엇떄문에 다친다는거예요? 난 위험한걸 본적이 없어요. 
+v2;90;U'uy, yaan hach k'as paal táankab... / 잘들어. 밖에는 무서운 생불들이 살고있어.
+v1;120;¿K-ka xook utia'al paal, na'? / 무.,무슨 생물인데요?
+v2;150;K'aas ba'al he'ebix... creepers. / 끔찍한 것들이지.. 예를들면 크리퍼.
+v1;180;C-c-creepers? /크..크..크리퍼?
+v2;210;Kurx tin paal, letio'ob áalkab paach teech chan kaah yéetel waak' teech. / 그래 우리아가. 그것들은 우리에 집에 달라붙어 폭발할지도 몰라.
+
+newchat;key:tobewarrior,v1:vtype:mayan_warrior,v2:notvtype:mayan_warrior,weigth:9
+v1;0;Antal máako'ob ba'ate'el yaan ma'aldo ka in beet. / 전사가 되는건 내 삶의 목표야!
+v2;30;¿He'ebix bin?? / 어째서야? 
+v1;60;Tumen kin páahtal bin aantah ich toop ch’a’ k’uxta’an, hach  náays óol ka hooch ixi'im. / 왜냐하면 나는 사람들을 구하면서 몬스터를 무찌르는게 좋아. 옥수수를 따는것 보다는 말이지.. 
+v2;90;Kux kuxtal yaan máas hets'. / 하지만 나처럼 삶을 안전하게 살순 없어?. 
+v1;120;Túun, kux huntiich' antal óot hach k'as. / 맞아. 하지만 나는 항상 스릴을느끼며 살아가고싶어.. 
+
+newchat;key:likemydad,v1:male,v2:child,v1:child,weigth:8
+v1;0;¡Kin k'áat yaan he'ebix taat utia'al noch. / 나는 아빠처럼 빨리 자라고싶어!
+v2;30;¿Hun sahak? / 겁쟁이처럼?
+v1;60;¿Ba'ax? Ma', Leti' ma' yaan hun sahak. / 무..뭐? 우리 아빠는 겁쟁이가 아니야! 
+
+newchat;key:palace,v1:vtype:mayan_king-mayan_leader-mayan_chieftain,v2:adult,weigth:9
+v1;0;Leti' kuxtal kuxtah tin ha'ak'óol nukuch nah. / 우리가 살고있는 이 궁전은 참 멋기다고 생각해.
+v2;30;¡Yéetel yaan hun ha'ak'óol nukuch nah, tin chanan! / 그리고 매우 놀랄만한 궁전이라고 생각합니다! 나의 군주시여! 
+
+newchat;key:become,v1:adult,v2:child,v2:male,rel:child,weigth:9
+v1;0;¿Kex teech k'áat yaan utia'al noch? / 넌 네가 자라면 무슨 직업을 갖고싶니? 
+v2;30;Kin ma' oohel, wale' kanan, wa pan... we'matz wale'.. / 나도 몰라.. 아마 용맹한 전사? 혹은 광부..? 아니면... 농부가 될지도 모르고.. 
+v1;60;Teech yaan yéey hayp'éel k'iin. / 그래, 네가 원하는걸 하는게 좋아.
+
+newchat;key:wah,weigth:9
+v1;0;Kin yaakun hanal wah. / 나는 와를 먹는다는걸 자랑스럽게 생각해.
+v2;30;¡Kin léeyli'e'! Yaan alobkin tuukul. / 나도 그래! 그건 이 세상에서 가장 위대한거야! 
+
+newchat;key:rain,v1:female,v2:female,v1:hasspouse,v2:hasspouse,weigth:9
+v1;0;To'on k'abeet cháak tia'al ixi'im. / 우리는 비를 원해. 옥수수 가 말라 죽을지도 몰라..
+v2;30;Kin óot cháak. / 하지만 언제 비가 내릴지 모르니 고생이란말야..
+v1;60;Wale' beey payal chi', píixan ts'a'ah to'on hun hooch nohoch lelo' tun. / 아마 기도하면 되지않을까?, 신이 우리를 불쌍하게 여겨 비를내려 이번년이 풍년이 되게 해주실지도 몰라. 
+v2;90;Ma'aldo, bin behla'e' túumen to'on ma' antal tusbel. / 그래! 우리가 이제 곧 쉴틈이 없어질지도 모르겠는데?
+
+newchat;key:zombie,v2:vtype:warrior,v2:vtype:mayan_warrior,weigth:8
+v1;0;¿Yéetel beey hun túuk utia'al kimen k'óoch? / 우리는 좀비가 침입했을때 어떻게하지..? 
+v2;30;Teech ma' tuukul, kin yaan ba'ate'el máako'ob ti' lu'um. / 걱정하지마. 우리마을엔 최고의 전사들이 마을을 지키고 있으니까 말이야. 
+
+newchat;key:rich,v1:female,v2:vtype:mayan_peasantwife,v1:vtype:mayan_peasantwife,weigth:8
+v1;0;Ixyaan túulis, ma' beet mix ba'al. /  그 부자여인은  일을하지않아! 불공평해!
+v2;30;Kux, kin tuukul kuxtal beey. / 그래! 그녀들이 한번 고생을 해봐야되! 
+v1;60;Kin tuukul kin ts’o’okol beel yiknal wa maax yiknal máas taak'in. / 나는 그녀가 좋은 남자와 경혼해서 돈을 많이 얻었다는걸 알고있어!
+
+newchat;key:rule,v1:male,v2:male,v1:notvtype:mayan_king-mayan_leader-mayan_chieftain,v2:notvtype:mayan_king-mayan_leader-mayan_chieftain,weigth:9
+v1;0;Kin pa'at hayp'éel k'iin kin ahau lela' chan kaah. /저는 한때 마을의 규칙을 지키지 않은걸 후회합니다..
+v2;30;Teech toohol náay, tumen kin antal ka'an ba'a teech. / 계속 기도해. 왜냐하면 난 너를위해 위에 좋게 말해줄거니까.
+v1;60;To'on paakat... to'on paakat. / 감사합니다... 감사합니다. 
+
+newchat;key:indians,weigth:8
+v1;0;Indians il máas hets' óol kex normans, ¿ma'? / 인디언들은 항상 평화로워. 그런데 노먼들은 뭐야? 
+v2;30;Kux, wale' to'on páathal óot nuuch yiknal letio'ob. / 그래, 우리는 그들과 동맹을 맺을 필요가 있는것같아. 
+v1;60;Hmm... Kux, le túun wale' to'on páathal k'óoch normans, wa Byzantines. / 음...그래. 그때는 우리가 힘을합쳐 노먼들을 몰아내자. 마치 비잔치움같이 말이야.
+
+newchat;key:gravity,weigth:7
+v1;0;K'iin yaan kóom waye' lu'um. / 신기한게 어제 자갈이 하늘에서 떨어지는걸 봤어
+v2;30;Ka, yéetel lu'um chíikpahal báab ichmáal. / 그래, 나도 봤어. 요즘들어 그런게 많은가봐
+v1;60;Chichan yaah... yéetel sa'am. / 자갈외에도 모래가 그런가봐.
+v2;90;Kin k'áat ba'ax ten. /왜그런 걸까?
+
+newchat;key:obsidian,v1:vtype:mayan_obsidiancrafter,weigth:8
+v1;0;Nu'ukul yéetel ts'oon utia'al obsidiana yaan máas hats'uts. / 옵시디언 도구들은 진짜 멋진거같아. 
+v2;30;Hats'uts ba'ale kex mix máak páahtal yaan wa hayp'éel. / 하지만 그건 너무 사치스러워. 그리고 아무도 가지고 있지 않는다고? 
+v1;60;Bahab yaan ma'alob tia'al peech' ich a ch’a’ k’uxta’an. / 그래도 그건 적들을 산산조각 내버리는걸 내가 봤는걸.
+v2;90;¿Haahil? Kin yaakun il hun ts'aa ich péek. / 진짜? 나도 한번 해볼까?
+
+newchat;key:mayanarchitecture,weigth:7
+v1;0;Nahil maya antal tsíib máas chichha'an ti' lu'um.  / 마야의 건축방식은 세상에서 가장 멋진거 같아.
+v2;30;Yaan yiknal túulis áaktum utia'al tuunich ka to'on beet lelo' hats'utsil. / 우리가 이 아름다운걸 만들게 된건 채석장 덕분인거같아.
+v1;60;Kin k'áat bahux nah utai'al tuunich to'on yaan ka beet. / 나는 어떻게 그렇게 많이 돌로 집을 짓는지 신가하단말이야? 
+v2;90;Chéen k'iin a'al, amikoo. / 그건 시간이 말해주겠지 친구. 

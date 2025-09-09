@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "millenaire:summoningwand"
+        },
+        "title": {
+            "translate": "advancements.summoningwand.name"
+        },
+        "description": {
+            "translate": "advancements.summoningwand.desc"
+        }
+    },
+    "parent": "millenaire:cresus",
+    "criteria": {
+        "summoningwand": {
+            "trigger": "summoningwand"
+        }
+    }
+}

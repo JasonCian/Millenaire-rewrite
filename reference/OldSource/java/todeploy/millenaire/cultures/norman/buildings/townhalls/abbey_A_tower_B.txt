@@ -1,0 +1,14 @@
+//Parameters for the building as a whole
+building.length=32
+building.width=32
+building.buildingorientation=1
+building.issubbuilding=true
+building.parentbuildingplan=abbey_A10
+building.icon=torch
+building.travelbook_display=false
+building.max=0
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.priority=5000
+initial.nativename=Tour d'Abbaye

@@ -1,0 +1,1 @@
+native:Muurtikaar ka Ghar;gameNameKey:scultorhouse_A0;male:indian_sculptor;female:indian_peasantwife;craft:1;chest:1-5;sign:1;moveinpriority:15

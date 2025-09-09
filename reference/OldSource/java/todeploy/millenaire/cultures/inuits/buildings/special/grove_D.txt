@@ -1,0 +1,14 @@
+//Parameters for the building as a whole
+building.length=10
+building.width=10
+building.areatoclear=3
+building.buildingorientation=3
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Napaaqtuq
+initial.translatedname=name_en,grove
+initial.priority=1000
+initial.tag=grove
+

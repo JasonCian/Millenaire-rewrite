@@ -1,0 +1,153 @@
+#From 1.12 onward, block and item names must be in lang files
+#packaged within the jar.
+#A copy is provided in millenaire/languages for the translators' convenience,
+#but will not be used by Minecraft. It will however be copied within the jar
+#when a new Millénaire version is packaged.
+
+#The Translation Gaps calculator however does use the versions in the
+#millenaire/language folder, so you can check your progress without
+#copying it in the jar
+
+
+#Item names
+
+#The following items should not be translated
+#They are either proper names (the deniers)
+#or specific local specialities that aren't translated
+#in other languages
+#I'm putting them for non-Latin alphabet languages,
+#so they can be written in other alphabets
+item.millenaire.denier.name=Dinaar(i)
+item.millenaire.denieror.name=Kuld Dinaar(i)
+item.millenaire.denierargent.name=Hõbe Dinaar(i)
+item.millenaire.calva.name=Calva
+item.millenaire.tripes.name=Tripes
+item.millenaire.boudin.name=Boudin Noir
+
+tile.millenaire.dirtwall.name=Muda Plokk
+
+tile.millenaire.locked_chest.name=Lukus Kirst
+item.millenaire.normanpickaxe.name=Normannide Kirka
+item.millenaire.normanaxe.name=Normannide Kirves
+item.millenaire.normanshovel.name= Normannide Labidas
+item.millenaire.normanhoe.name= Normannide Kõblas
+item.millenaire.normanbroadsword.name= Normannide Mõõk
+item.millenaire.normanhelmet.name= Normannide Kiiver
+item.millenaire.normanplate.name= Normannide Kehakaitse
+item.millenaire.normanlegs.name= Normannide Jalad
+item.millenaire.normanboots.name= Normannide Saapad
+item.millenaire.rice.name=Riis(i)
+item.millenaire.turmeric.name=Turmeric(i)
+item.millenaire.vegcurry.name=Vegetarian Curry
+item.millenaire.chickenmeat.name=Toores Kana
+item.millenaire.chickencurry.name=Murgh Karri
+item.millenaire.brickmould.name=Telliste Vorm
+item.millenaire.rasgulla.name=Rasgulla
+tile.millenaire.timberframeplain.name= Puit Raam
+tile.millenaire.timberframecross.name= Rist Puit Raam
+tile.millenaire.wetbrick0.name=Märg Tellis
+tile.millenaire.cookedbrick.name=Põletatud Kivi Tellis
+tile.millenaire.mudbrick.name=Muda Tellis
+item.millenaire.indianstatue.name= Hindu Kuju
+item.millenaire.ciderapple.name=Siidri Õun
+item.millenaire.cider.name=Siider
+item.millenaire.summoningwand.name=Loomis Sau
+item.millenaire.negationwand.name=Hävingu Sau
+item.millenaire.parchment_normanvillagers.name=Normannide külaelanikud
+item.millenaire.parchment_normanitems.name=Normannide objektid
+item.millenaire.parchment_normanbuildings.name=Normannide ehitised
+item.millenaire.parchment_normanfull.name=Valmis Normandja pärgament
+item.millenaire.tapestry.name=Normannide Seinavaip
+item.millenaire.vishnu_amulet.name=Vishnu amulett
+item.millenaire.alchemist_amulet.name=Alkeemiku amulett
+item.millenaire.yggdrasil_amulet.name=Yddrasili amulett
+item.millenaire.skoll_hati_amulet.name=Koidu ja Eha amulett 
+item.millenaire.parchment_villagescroll.name=Küla Pärgament
+item.millenaire.parchment_indianvillagers.name=Hindude Külaelanikud
+item.millenaire.parchment_indianitems.name=Hindude Objektid
+item.millenaire.parchment_indianbuildings.name=Hindude Ehitised
+item.millenaire.parchment_indianfull.name=Valmis Hindude Pärgament
+item.millenaire.unknownpowder.name= Tundmatu Pulber
+tile.millenaire.alchemistexplosive.name=Alkeemiku Pomm
+
+item.millenaire.wah.name=Wah
+item.millenaire.masa.name=Masa
+item.millenaire.maize.name=Mais
+tile.millenaire.mayangoldblock.name=Kuld Ornament
+item.millenaire.mayanstatue.name=Maiade Skulpruur
+item.millenaire.parchment_mayanvillagers.name=Maiade Külaelanikud
+item.millenaire.parchment_mayanitems.name=Maiade Objektid
+item.millenaire.parchment_mayanbuildings.name=Maiade Ehitised
+item.millenaire.parchment_mayanfull.name=Valmis Maiade Pärgament
+item.millenaire.mayanmace.name=Obsidiani Nui
+item.millenaire.mayanpickaxe.name=Obsidiani Kirka
+item.millenaire.mayanaxe.name=Obsidiani Kirves
+item.millenaire.mayanshovel.name=Obsidiani Labidas
+item.millenaire.mayanhoe.name=Obsidiani Kõblas
+item.millenaire.obsidianflake.name=Obsidian Toorik
+item.millenaire.cacauhaa.name=Cacauhaa
+
+tile.millenaire.paper_wall.name=Paber Sein
+item.millenaire.udon.name=Udon
+item.millenaire.thatched.name=Õle Plokk
+
+item.millenaire.parchment_sadhu.name=Sadhu raamat
+
+item.millenaire.tachisword.name=Samurai mõõk
+item.millenaire.yumibow.name=Yumi Vibu
+item.millenaire.sake.name=Sake
+item.millenaire.ikayaki.name=Ikayaki
+
+item.millenaire.japanesebluelegs.name=Sinised ō-yoroi Püksid
+item.millenaire.japanesebluehelmet.name= Sinised ō-yoroi Kiiver
+item.millenaire.japaneseblueplate.name= Sinised ō-yoroi Kehakaitse
+item.millenaire.japaneseblueboots.name= Sinised ō-yoroi Saapad
+
+item.millenaire.japaneseredlegs.name=Punased ō-yoroi Püksid
+item.millenaire.japaneseredhelmet.name= Punased ō-yoroi Kiiver
+item.millenaire.japaneseredplate.name= Punased ō-yoroi Kehakaitse
+item.millenaire.japaneseredboots.name= Punased ō-yoroi Saapad
+
+item.millenaire.japaneseguardlegs.name=Keiko Püksid
+item.millenaire.japaneseguardhelmet.name=Keiko Kiiver
+item.millenaire.japaneseguardplate.name=Keiko Kehakaitse
+item.millenaire.japaneseguardboots.name=Keiko Saapad
+
+item.millenaire.parchment_japanesevillagers.name= Jaapanlaste Külaelanikud
+item.millenaire.parchment_japaneseitems.name= Jaapanlaste Objektid
+item.millenaire.parchment_japanesebuildings.name= Jaapanlaste Ehitised
+item.millenaire.parchment_japanesefull.name=Valmis Jaapanlaste Pärgament
+
+tile.millenaire.silkwormempty.name=Tühi Siidiussikasvatuse Plokk
+tile.millenaire.silkwormfull.name=Siidiussikasvatuse Plokk
+tile.millenaire.byzantine_tiles.name= Bütsantsi Plokk
+tile.millenaire.byzantine_tiles_slab.name=Bütsansi Plaat
+tile.millenaire.byzantine_stone_tiles.name= Bütsansi Kivi plokk
+item.millenaire.grapes.name=Greibid
+item.millenaire.vine.name=Viinamarjad
+item.millenaire.winefancy.name=Malvasia vein
+item.millenaire.silk.name=Siid
+item.millenaire.byzantineiconsmall.name= Väike Bütsantsi ikoon
+item.millenaire.byzantineiconmedium.name= Keskmise Bütsantsi ikoon
+item.millenaire.byzantineiconlarge.name= Suured Bütsantsi ikoonid
+item.millenaire.byzantineboots.name= Bütsantsi Saapad
+item.millenaire.byzantinelegs.name= Bütsantsi Jalad
+item.millenaire.byzantineplate.name= Bütsantsi Kehakaitse
+item.millenaire.byzantinehelmet.name= Bütsantsi Kiiver
+item.millenaire.byzantinemace.name= Bütsantsi Nui
+item.millenaire.lambraw.name=Toores Lamba Liha
+item.millenaire.lambcooked.name= Grillitud Lambakarree
+item.millenaire.feta.name= Fetajuust
+item.millenaire.winebasic.name=Vein
+item.millenaire.clothes_byz_wool.name= Villased Bütsantsi Rõivad
+item.millenaire.clothes_byz_silk.name= Siidist Bütsantsi Rõivad
+
+item.millenaire.souvlaki.name=Souvlaki
+item.millenaire.purse.name= Rahakott
+
+tile.millenaire.pathdirt.name=Muda tee
+tile.millenaire.pathgravel.name=Kruusa tee
+tile.millenaire.pathslabs.name=Plaaditud tee
+tile.millenaire.pathsandstone.name=Liivakivist tee
+tile.millenaire.pathochretiles.name=Ochre tahvlitest tee
+tile.millenaire.pathgravelslabs.name=Plaaditud kruusa tee

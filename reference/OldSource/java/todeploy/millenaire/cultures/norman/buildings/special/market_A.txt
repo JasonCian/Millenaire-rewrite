@@ -1,0 +1,26 @@
+//Parameters for the building as a whole
+building.length=17
+building.width=17
+building.buildingorientation=1
+building.farfromtag=leasure,30
+building.version=2
+building.icon=purse
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Marché
+initial.priority=600
+initial.pathlevel=1
+initial.tag=market
+initial.tag=leasure
+
+//Parameters for specific upgrades
+upgrade1.priority=60
+upgrade1.rebuildpath=true
+
+upgrade2.priority=55
+
+upgrade3.priority=50
+upgrade3.pathlevel=2
+upgrade3.rebuildpath=false
+

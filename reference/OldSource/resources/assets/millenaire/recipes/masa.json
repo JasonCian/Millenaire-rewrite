@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+	"group": "masa",
+    "pattern": [
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "millenaire:maize"
+        }
+    },
+    "result": {
+        "item": "millenaire:masa"
+    }
+}

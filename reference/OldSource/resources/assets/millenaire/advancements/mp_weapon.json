@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "millenaire:mayanmace"
+        },
+        "title": {
+            "translate": "advancements.mp_weapon.name"
+        },
+        "description": {
+            "translate": "advancements.mp_weapon.desc"
+        }
+    },
+    "parent": "millenaire:firstcontact",
+    "criteria": {
+        "main": {
+            "trigger": "mp_weapon"
+        }
+    }
+}

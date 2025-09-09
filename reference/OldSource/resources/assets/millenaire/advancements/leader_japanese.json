@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "millenaire:japanesebluehelmet"
+        },
+        "title": {
+            "translate": "advancements.leader_japanese.name"
+        },
+        "description": {
+            "translate": "advancements.leader_japanese.desc"
+        }
+    },
+    "parent": "millenaire:rep_japanese",
+    "criteria": {
+        "leader_japanese": {
+            "trigger": "leader_japanese"
+        }
+    }
+}

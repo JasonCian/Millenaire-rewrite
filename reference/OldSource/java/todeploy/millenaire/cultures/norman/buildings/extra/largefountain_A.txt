@@ -1,0 +1,21 @@
+//Parameters for the building as a whole
+building.length=9
+building.width=9
+building.areatoclear=3
+building.farfromtag=pathnode,30
+building.icon=stone
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Grande fontaine
+initial.priority=750
+initial.tag=pathnode
+initial.tag=leasure
+
+//Parameters for specific upgrades
+upgrade1.priority=70
+upgrade1.pathlevel=1
+
+upgrade2.priority=65
+upgrade2.pathlevel=2
+

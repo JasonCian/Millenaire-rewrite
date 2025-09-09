@@ -1,0 +1,16 @@
+
+0;Främling;Som ett handels folk så måste vi aceptera alla. men vi måste inte lita på dom.
+4*64;Känd;På senaste tiden är du ofta sedd i dessa romerska områden.
+8*64;Känt ansikte;Andra Romare verkar ha lagt märke till dig och de pratar väl om dig! Du verkar iallafall inte vara barbar.
+16*64;Vanlig besökare;Xaire, $name! Trevligt att se dig. Hur är det?
+32*64;Civiliserad Man;Det är bra att se att andra utanför Romarriket också kan vara civiliserade som oss.
+64*64;Favorit handlare;Alla är glada att se dig. Har du något du vill byta?
+2*64*64;Vän till byn;Du är nu en del av våran by $name, vi litar på dig nu!
+4*64*64;Respektabel Bundsförvant;Grattis, $name! Du har förtjänat vår respekt. Det är svårt för utomstående att bli vänner med Romarriket, till och med respekterad. Men DU, du har visat att du är värdig.
+8*64*64;En av oss;Vi ser dig som en romersk medborgare $name. Du kanske inte är född som en av oss, men nu kan du stolt kalla dig själv en sann romare.
+32*64*64;Naturlig ledare;$name, du har nu förtjänat Byzantines tillit och respekt. de kommer att följa dig vartsom helst.
+4*32*64*64;Näste Caesar;Du kommer bli näste Caesar! Det arbete du har lagt ner för denna byn är makalöst och vi ska följa dig i att göra världen en bättre plats. Hylla $name!
+-64;Olägenhet;Du är inte särskilt trevlig, $name. Du borde verkligen se upp med vart du går.
+-4*64;Otrevlig utlänning;Vi acepterar handel, men inte med folk som du. Var på din vakt.
+-16*64;Allmän fiende;Det är pinsamt för hela det romerska riket att låta dig leva. Medans du fortsätter att leva, lämmna rommarnas land och komm aldrig tillbaka.
+-64*64;Tydligen Barbar;Förstår du oss inte? Okey, vi försöker något annat: BAR BAR BAR BAR, BAR BAR, BAR BARRRR!

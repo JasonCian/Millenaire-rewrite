@@ -1,0 +1,8 @@
+{
+	"forge_marker": 1,
+    "variants": {
+        "variant=mudbrick_smooth": { "model": "millenaire:mudbrick_smooth" },
+        "variant=mudbrick_seljuk_ornamented": { "model": "millenaire:mudbrick_seljuk_ornamented" },
+        "variant=mudbrick_seljuk_decorated": { "model": "millenaire:mudbrick_seljuk_decorated" }
+    }
+}

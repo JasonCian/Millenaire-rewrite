@@ -1,0 +1,21 @@
+//Parameters for the building as a whole
+building.length=11
+building.width=12
+building.buildingorientation=3
+building.icon=inuitcarving
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Kashim
+initial.translatedname=name_en,ceremonial house
+initial.priority=500
+initial.pathlevel=1
+initial.tag=praying
+
+//Parameters for specific upgrades
+upgrade1.priority=50
+
+upgrade2.priority=45
+upgrade2.pathlevel=2
+

@@ -1,0 +1,32 @@
+//Parameters for the building as a whole
+building.length=12
+building.width=7
+building.buildingorientation=3
+building.farfromtag=leasure,30
+building.version=2
+building.icon=bed_red
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Auberge
+initial.priority=600
+initial.male=merchant
+initial.pathlevel=1
+initial.tag=inn
+initial.tag=leasure
+initial.signs=1,0
+
+//Parameters for specific upgrades
+upgrade1.priority=60
+
+upgrade2.priority=55
+
+upgrade3.priority=50
+
+upgrade4.priority=45
+
+upgrade5.priority=40
+
+upgrade6.priority=35
+upgrade6.pathlevel=2
+

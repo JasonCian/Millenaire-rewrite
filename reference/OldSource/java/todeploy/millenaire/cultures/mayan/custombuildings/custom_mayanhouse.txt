@@ -1,0 +1,1 @@
+native:Maya Otoch;gameNameKey:mayanhouse_A0;male:mayan_Peasant;female:mayan_PeasantWife;chest:1-5;sign:1;moveinpriority:10

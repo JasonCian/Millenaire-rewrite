@@ -1,0 +1,17 @@
+//*  Der Teil vor dem ";" ist der Titel, danach die Beschreibung
+//* 
+
+
+0;Fremder;Seit Gegrüßt. Brauchst du Hilfe, um in dieser Eiswüste zu überleben?
+4*64;Vertrauter;Deine Anwesenheit ist nicht unbemerkt geblieben. Bleib friedlich und wir werden das selbe tun.
+8*64;Bekanntes Gesicht;Wir haben dich hier schon öfters gesehen. Bleib doch ein bisschen und wärm dich auf.
+16*64;Regelmäßiger Besucher;Schön dich wieder zu sehen, $name.
+32*64;Überlebenskamerad;Ah, schön zu sehen, dass du noch lebst und dass es dir gut geht!
+64*64;Bevorzugter Händler;Das ganze Dorf freut sich dich wiederzusehen. Hast du wieder etwas interessantes mitgebracht?
+2*64*64;Freund des Dorfes;Du hast dich als ein guter Kamerad erwiesen. Du kannst hier viele Freunde finden, $name.
+4*64*64;Blutbruder;Du hast so viel getan, um uns zu unterstützen und wir sind freuen uns, wenn wir uns revanchieren können. Du hast unserer Vertrauen.
+8*64*64;Einer von uns;Die Geister haben uns mit dir einen Segen geschenkt. Sie haben beschlossen, dass du zu unserer Familie gehörst und ich finde, dass sie die richtige Entscheidung getroffen haben.
+32*64*64;Geborener Anführer;Du hast das Vertrauen und den Respekt der Inuit gewonnen. Sie werden dir überallhin folgen.
+-64;Ärgernis;Bitte, wir haben keine Zeit für Leute wie dich.
+-4*64;Unangenehmer Außenseiter;Wir sind vorsichtig bei Leuten wie du. Geh einfach und lass uns in Frieden.
+-16*64;Staatsfeind;Wir haben dir viele Chancen gegeben, um mit uns zu  sprechen, aber du hast unsere Bemühungen ignoriert. Verlasse uns und hoffe, dass die Geister dich nicht holen kommen, während du durch die Eiswüste wanderst.

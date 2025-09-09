@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "millenaire:normanaxe"
+        },
+        "title": {
+            "translate": "advancements.hired.name"
+        },
+        "description": {
+            "translate": "advancements.hired.desc"
+        }
+    },
+    "parent": "millenaire:cheers",
+    "criteria": {
+        "hired": {
+            "trigger": "hired"
+        }
+    }
+}

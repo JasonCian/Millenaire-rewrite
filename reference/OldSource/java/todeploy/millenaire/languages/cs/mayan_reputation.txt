@@ -1,0 +1,15 @@
+
+0;Cizinec;Nevideli jsme mnoho s tvou barvou kuze, musime byt opatrni.
+4*64;Znamost;Dej si pozor, nasi valecnici te hlidaji.
+8*64;Znama tvar;Nasi stavitele rikaly ze jsi jim prodal velice kvalitni kamen. Uz si na tebe muzeme spolehnout.
+16*64;Pravidelny navstevnik;$name! Ze by se casy zmenily?
+32*64;Kamenik;Kdyz vidim jak rozumis tezeni kameni jako my tak premyslim ze by jsme se mohly stat prately.
+64*64;Oblibeny obchodnik;Vitej, $name. Jsi vzdy vitan.
+2*64*64;Pritel osady;Zdravim te $name, opravdu jsi nam pomohl k lepsim casum.
+4*64*64;Zdatny spojenec;$name, prave jsi se stal vazenym spojencem teto vesnice za ty vsechny suroviny a veci co jsi pro nas udelal.
+8*64*64;Jeden z nas;Samani te berou jako jednoho z nas.
+32*64*64;Prirozeny vudce;$name, ziskal si duveru a respekt meho lidu. Budou te nasledovat kamkoliv.
+4*32*64*64;Buh kamene;My vime ze nejste z tohoto sveta ale dal jste nam horu kamene. Musite byt buh.
+-64;Protiva;Opust nase zeme. Tvuj druh nebude znesvecovat nas lid!
+-4*64;Neprijemny outsider;Prinesl si do vesnice jen chaos!
+-16*64;Verejny nepritel;Tve porusovani nasich tradic nebude tolerovano!

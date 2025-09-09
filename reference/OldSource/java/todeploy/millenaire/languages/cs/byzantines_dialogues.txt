@@ -1,0 +1,611 @@
+//*               Nikde nepsat diakritiku kvuli uni-code minecraftu.
+//* 
+//* 
+//* 
+//* 
+//* 
+//* 
+//* 
+//* 
+//* 
+//* 
+//* 
+//* 
+//* 
+//* 
+
+
+
+newchat;key:nicevillage,weigth:10
+v1;0;Eínai pánta mia efcharístisi na doúme oraío chorió mas, étsi den eínai? / Je poteseni vzdy videt nasí okouzlujicí vesnici ze?
+v2;30;Fysiká, kai eínai óla lógo ton terástion prospatheión mas! /  Samozrejme, je to ovoce naseho usili!
+
+newchat;key:sunzombie,tag:notraining,weigth:2
+v1;0;Agapo ilióloustes méres! / Miluji slunecne dny!
+v2;30;Poios den échei? / Kdo by nemiloval?
+v1;60;Den to káno. / Ja treba ne.
+v2;120;Giatí óchi? / Proc ne?
+v1;150;O ílios kaíei! Misó to exoterikó! / To slunce me spaluje! Nesnasim to vedro venku!
+v2;180;Eísai san zómpi! / Chovas se jak zombie!
+v1;210;Ísos eímai ... / Mozna ze jim jsem..
+
+newchat;key:nothomeyet,weigth:6
+v1;0;Eínai pánta mia efcharístisi na doúme oraío chorió mas, étsi den eínai? / Je krasné vzdy videt nasí malou krasnou vesnici ze?
+v2;30;Fysiká eínai! Échoume xodépsei tóso polý chróno na doulépsoume se aftó to méros. / Samozrejme! Stravily jsme tak dlouho budovaním tohoto mista.
+v1;60;Eínai schedón san sto spíti, akrivós ópos prin írthame edó. / Uz je to temer nas domov, jeste peed tim nez jsme sem prisli.
+v2;90;Aftó eínai to spíti mas tóra, aplá prépei na to apodechtoúme. / Toto je ted nas domov, musime se s tím smirit.
+v1;120;Xéro, tha to dechtó me ton kairó ... / Ja vim, smirim se s tim, casem..
+
+newchat;key:ishome,weigth:6
+v1;0;Eínai pánta mia efcharístisi na doúme oraío chorió mas, étsi den eínai? / To je krasa vzdy videt nasi krasnou malou vesnici ze?
+v2;30;Fysiká eínai! Échoume xodépsei tóso polý chróno na doulépsoume se aftó to méros. / Samozrejme! Stravily jsme tolik casu budovanim tohoto mista.
+v1;60;Eínai schedón san sto spíti, akrivós ópos prin írthame edó. / Uz je to temer nas domov, jeste pred tim nez jsme sem prisli.
+v2;90;Aftó eínai to spíti mas tóra, aplá prépei na to apodechtoúme. / Toto je ted nas domov, musime se s tím smirit.
+v1;120;Aftó eínai to spíti mas tóra, aftí i syzítisi me ékane na to syneiditopoiíso. / Toto je ted náš domov, tahle konverzace mi pomohla uvědomit si to.
+
+newchat;key:harvest,weigth:10
+v1;0;sitári afxánetai polý kalá aftí ti chroniá, étsi eínai ta stafýlia, kathos kai. Lampro, den eínai? / Obili rostlo tento rok vskutku na vybornou, stejne tak vino. Briliantni, ne?
+v2;30;Nai, faínetai étsi: Échoume to períergo kairo edo na efcharistíso. / Ano, vypada to ze tu mame skvele pocasi za ktere muzeme dekovat.
+v1;60;Akoma kai an afto den échei kanéna noima gia ména! / Stejne mi to pocasi tady nedava smysl!
+
+newchat;key:lightning,weigth:7
+v1;0;Thymáste tin kataigída pou eíchame? Thélo na po to pragmatiká varý! / Pamatujes si na bourku kterou jsme tu meli? Myslim tu fakt velkou bourku!
+v2;30;Fysiká. Schedon katastráfike synkomidí mas. I fýsi eínai arketá entyposiako, e? / Samozrejme. Skoro znicila nasi urodu. Priroda je velmi pusobiva, co ?
+v1;60;Entyposiakí eínai éna prágma. Allá ímoun schedon chtypíthike apo keravno! / Pusobiva mozna. Ale skoro jsem umrel kdyz vedle me uhodil blesk!
+v2;100;Den ítan mésa sto spíti sas? Xérete oti eínai epikíndyno éxo katá ti diárkeia mias kataigídas! / Ty jsi nebyl doma? Vis jak je nebezpecne byt venku kdyz je bourka!
+v1;120;Zontaná kai na máthoun. / Uz to vim.
+
+newchat;key:lightningpig,weigth:1,v1:adult,v2:adult
+v1;0;Ego den aisthánomai kalá ... / Necitim se dobre...
+v2;30;Ti tréchei me séna? Eísai árrostos? / Copak je s tebou? Jsi nemocny?
+v1;60;Ochi, ego jj-molis thymíthike kápoia ora-na symveí. / Nejsem, ja j-j-jen jsem si vzpomnel ze se neco d-deje.
+v2;100;Boreíte íchou pragmatiká epireázontai. Eíste sígouroi oti den eínai árrostos? / Znis opravdu divne. Jsi si jisty zenejsi nemocny?
+v1;120;N-ochi, ego aplá f-aisthánontai fovisménoi. / N-ne, jen v-vystraseny.
+v2;150;Ti synévi loipon? / Tak co se stalo?
+v1;180;Katá ti diárkeia tis l-teleftaía kataigída. Perpátisa éxo apo to chorio-vv, íxera oti den boroúsa na páro píso sto chorio prin apo tin kataigída. Gi 'afto kai krýftike káto apo éna déntro. / Behem p-posledni bourky. prochazel jsem se mimo v-v-vesnici, vedel jsem ze se nestihnu vratit domu. Tak jsem se schoval pod strom.
+v2;210;Tha diakindýneve ti zoí sas éxo apo to chorio! Tha boroúse na eíche pethánei! / Riskovat takhle zivot mimo vesnici! Mohl jsi umrit!
+v1;240;Loipon, ímoun asfalís. Sti synécheia, omos eída éna gouroúni. I lighning chtýpise. Kai oi nekroí p-gouroúni ... I-afto sikothike kai kiníthike l-san ki emás, ch-kynigoún eména me éna lampero sw-spathí! / No, ale byl jsem v bezpeci. Ale pak jsem videl prase. Jak do nej uderil blesk. Ale to p-prase neumrelo, ch-chodilo jako my a s m-mecem!
+v2;290;Tha eínai anoisíes. Tha prépei na ítan énas efiáltis. / Povidas hlouposti. To byla jen nocni mura.
+v1;320;Ítan alítheia! Sosto! Sosto! Sosto! / Byla to pravda! Pravda! Pravda! Pravda!
+v2;350;Eíste treloí. Pigaínete na párete lígo krasí, kai na iremísoun. / Jsi blazen. Jdi, dej si nejaky vino a zklidni se.
+v1;380;Tha d-kánoume afto. Boreí-Ísos afto tha voithísei. / T-Tak jo. M-Mozna ze to pomuze.
+
+newchat;key:souvlaki,v1:adult,v2:adult,v1:male,v2:female,weigth:10
+v1;0;Ach ... Souvláki, to éna kai monadiko fagito! / Ach... Souvlaki, to jedine a prave jidlo!
+v2;30;An oi ándres den échoun trofí mas-kánei tis gynaíkes ... / Ano to jidlo vyrabene zenami...
+v1;60;Tha kánoun to fagito tous eaftoús mas! / Udelali bychom si jidlo sami!
+v2;100;Alítheia? Pos gínetai kai páli souvláki? / Vazne? A jak se souvlaki vyrabeji?
+v1;130;Err ... Vázete ta psária, ochi, païdákia sto foúrno, tote ... / No emmm... Das rybu do, ne, jehneci do trouby, a pak...
+v2;190;... vázeis me kápoion féta se éna ravdí. Den boreíte pragmatiká na mageirépsoun! / ...a pak to das s fetou na spejli vid. Ty fakt neumis varit!
+
+newchat;key:lonevillage,weigth:10
+v1;0;Vareto. ola eínai pánta to ídio edo. / Nuda.Vsecho je tady porad stejny.
+v2;30;Touláchiston eínai eirinikí. / A v posledni rade mirumilovny.
+v1;60;Típota idiaítero gia éna apomakrysméno chorio san ti dikí mas! / Nic zvlastniho pro vzdalenou vesnici jako je ta nase!
+
+newchat;key:city,v1:adult,v2:adult,weigth:2
+v1;0;Otan ímoun mikros, íthela na eínai énas exerevnitís, na anakalýpsoun néa edáfi kai na pliroún endiaférontes néous anthropous. Allá tora? Eímai kollísei se afto to apomakrysméno chorioudáki. Thélo na páo kai na episkeftheíte néa méri. / Kdyz jsem byl maly, tak jsem chtel byt pruzkumnikem, objevovat nove zeme a poznavat zajimave lidi. Ale ted? Jsem tady zkejsnul. Chci jit pryc a navstivit nova mista.
+v2;30;Allá den tha vreíte megáli diaforá sto állo chorio. Eímaste oloi lígo polý to ídio. / No ale nenajdes moc velkych rozidlu. Vsichni jsme skoro stejny.
+v1;60;Den milo gia ta choriá. Milo gia tis poleis, í akoma kai i poli! / Ale ja nemluvim o vesnicanech. Ja mluvim o mestech, nebo dokonce velkomestech!
+v2;90;I poli? Ennoeís Konstantinoúpoli? / Velkomesto? Myslis treba Konstantinopol?
+v1;120;Nai! To kéntro tis éndoxis aftokratorías mas. Eínai to thávma tou kosmou. / Ano! Centrum nasi velkolepe rise. Je to zazrak sveta.
+v1;150;Ypárchoun perissoteroi apo 500 000 ánthropoi pou zoun ekeí, boreíte na imangine afto?! / Zije tam vice nez pres 500 000 lidi, dokazes si to predstavit?!
+v2;180;Akoúgetai adýnato gia ména. 500 000 ánthropoi se éna méros? / To je nemozne. 500 000 lidi na jednom miste? Sni dal!
+
+newchat;key:wine,v1:adult,v2:adult,v1:male,v2:male,weigth:10
+v1;0;Min pieíte krasí mono! / Nepi vino sam!
+v2;30;Posimou mazí eínai pio diaskedastiko! / Kdyz pijes s nekym je to vetsi zabava!
+v1;50;Cheers gia to krasí! / Na vino!
+v2;70;Cheers! / Na zdravi!
+
+newchat;key:kids1,v1:child,v2:child,notrel:sibling,weigth:10
+v1;0;O bampás mou eínai ischyroteri apo ti dikí sas. / Muj tata je silnejsi nez tvuj.
+v2;30;Ochi! O bampás mou eínai i ischyroteri sto chorio! / A muj! Muj tata je nejsilnejsi ve vesnici!
+v1;60;Ochi! O bampás mou eínai o ischyroteros stin aftokratoría! / Ne ne! Muj tata je nejsilnejsi v cele risi!
+v2;90;Impossible! O bampás mou eínai i ischyroteri ston kosmo! / Nemozne! Muj tata je nejsilnejsi na svete!
+v1;120;Sígoura o bampás mou tha boroúse na nikísei dikí sas se ligotero apo dýo chtypímata! / Vsadim se ze muj tata by porazil tveho jen by se ho dotknul!
+v2;150;Párte ton bampá sas étoimos gia énan agona! / Tak at se tvuj tata pripravi na boj!
+
+newchat;key:kids2,v1:child,v1:male,v2:child,v2:female,weigth:10
+v1;0;Korítsia eínai ilíthioi. / Holky jsou hloupy.
+
+newchat;key:kids3,v2:child,v2:male,v1:child,v1:female,weigth:10
+v1;0;Échete dei pouthená koúkla mou? Den boro na to vro ... / Nevidel jsi nekde moji panenku? Nemuzu ji najit...
+v2;30;Dose mou píso to spathí mou kai tha to párei píso! / Dej mi muj mec zpatky a vratim ti ji!
+v3;60;Boreíte na to éklepse! Kléftis! / Ty jsi mi ji ukradl! Zlodeji!
+
+newchat;key:clothes1,v1:adult,v1:female,v2:adult,v2:female,weigth:10
+v1;0;Écheis dei kainoúrgia roúcha mou? / Videl jsi uz moje nove saty?
+v2;30;Eíste mia pragmatikí omorfiá agapité mou. o, ti tairiázei! / Vypadas opravdu krasne drahousku. Vsechno ti padne!
+v1;60;Allá den eímai toso omorfi oso boreíte! / Ale nejsem tak krasna jako ty!
+v2;90;Ohh afto den eínai alítheia, $targetfirstname! / Ale to neni pravda, $targetfirstname!
+
+newchat;key:clothes2,v1:adult,v1:female,v2:adult,v2:female,weigth:1
+v1;0;Échete dei néa roúcha mou? / Videla jsi moje nove obleceni?
+v2;30;Eíste mia omorfiá. o, ti tairiázei, agapité $targetfirstname mou! / Jsi nadherna. Vsechno ti slusi drahousku $targetfirstname!
+v1;60;Allá den eímai toso omorfi oso boreíte! / Ale nejsem tak pekna jako ty!
+v2;90;Alítheia / Pravda.
+v1;100;!!!
+
+newchat;key:clothes3,v1:adult,v1:female,v2:adult,v2:male,weigth:5
+v1;0;Écheis dei kainoúrgia roúcha mou, $targetfirstname? / Videl jsi moje nove saty, $targetfirstname?
+v2;30;Nomízo oti paliá roúcha sas fainotan polý kalýtera gia esás. / Myslim si ze stare saty ti sluseli vice.
+v1;60;TI? / CO?
+v2;70;Ochi. ochi! Eíste omorfi! Mou arései afto to néo ... prágmata! / Ne.. Ne! Jsi nadherna! Mam rad... novy veci!
+
+newchat;key:clothes4,v1:adult,v1:female,v2:adult,v2:male,weigth:5
+v1;0;Étsi den tha arései to néo mou forema? / Tak co, libi se ti moje nove saty?
+v2;30;I paliá sas tairiázei kalýtera. / Ty stare byli lepsi.
+v1;60;TI? / CO?
+v2;70;Hey $targetfirstname, eínai aplá i gnomi mou. / Hej $targetfirstname, je to jenom muj nazor.
+v1;90;Touláchiston eísai eilikrinís! / Alespon jsi uprimnej!
+
+newchat;key:girl,v1:adult,v1:female,v2:child,v2:male,rel:parent,weigth:5
+v2;0;Ti prépei na kánete otan sas arései éna korítsi? / Co by jsem mel udelat kdyz se mi libi holka?
+v1;30;Kánte kompliménta tis kai eínai oraío na tis. / Sloz ji kompliment a chovej se k ni hezky.
+v2;60;Ochi! Afto eínai adýnaton! Poies tha eínai oi álloi skéftontai gia ména tote? / Ne! To nejde! Co si pak o mne ostatni pomysli?
+v1;90;An agapoúse pragmatiká, den tha noiázontai gia tous állous. / Pokud ji opravdu milujes, tak ti bude jedno co si o tobe ostatni budou myslet.
+
+newchat;key:householdtry,v1:adult,v1:female,v2:child,v2:female,rel:parent,weigth:10
+v1;0;Írthe i ora na sas didáxei pos na frontísei éna spíti. / Je na case te naucit jak se starat o domov.
+v2;30;Megáli, ti échoume archísei me? Boro na káno souvláki? Pleaaase! / Skvele, s cim zacneme? Muzu udelat souvlaki? Prosiiiim!
+v1;60;As doúme poso kaloí eíste sto na kánei ton katharismo prota. / Pojdme se radsi nejprve podivat jak jsi dobry v uklizeni.
+v2;90;Entáxei, allá tha mou deíxei pos na kánei souvláki argotera, yposchéthike? / No dobre, ale slibujes ze me naucis delat souvlaki, domluveno?
+v1;120;Yposchetheí. / Slibuju.
+
+newchat;key:doll,v1:adult,v1:male,v2:child,v2:female,rel:parent,weigth:5
+v2;0;Boreís na mou agorásei afto to néo koúkla? O kathénas échei éna néo, allá ego ... / Koupis mi tuhle novou panenku? Kazdy ma novou panenku jen ja...
+v1;30;Poia eínai i magikí léxi ? / A jak se rika ?
+v2;60;Boreíte sas parakalo na mou agorásei mia néa koúkla? / Koupis mi PROSIM tuhle novou panenku?
+v1;90;Entáxei, allá tha prépei na min yposchontai na milísoume pia píso! / No dobre, ale slibujes mi ze uz takhle se mnou mluvit nebudes!
+v2;120;Yposchetheí. / Slibuju!
+
+newchat;key:woodsword,v1:adult,v1:male,v2:child,v2:male,rel:parent,weigth:5
+v2;0;Auu...
+v1;30;Eísai foverí! Ti synévi? / Vypadas priserne! Co se ti stalo?
+v2;60;Loipon, o kathénas échei éna xýlino spathí, allá eména. / No popravde, kazdy ma dreveny mec az na me.
+v2;80;Étsi apofásisan na mou epitethoún! / Takze se rozhodli ze me napadnou!
+v2;100;Tha prépei na páro éna, pára polý! / Musis mi taky jeden sehnat!
+v1;120;Vlépo échete chrisimopoiísei chroma gia ta simádia kai tis pligés sou. Kalí prospátheia! / Vidim ze jsi pouzil barvivo na tvoje jizvy a rany. Hezkej pokus!
+v2;150;Télos pánton! Parakalo na mou dosete éna spathí! / Tak jako tak! Prosim dej mi mec!
+v1;180;Spathí eínai epikíndynes. Den xífos gia séna! / Mece jsou nebezpecne. Zadnej mec!
+
+newchat;key:pride1,v1:adult,v1:male,v2:adult,v2:male,v1:vtype:architect_byzantine,weigth:3
+v1;0;Ktíria mas eínai toso omorfo pou eínai pánta megáli gia na deíte to érgo mas! / Nase budovy jsou tak krasne, ze je vzdy skvele videt nasi praci!
+v2;30;Oi Mágia théloun na dimiourgísoun polý oraía domés, kathos kai. / Maysky lide stavi taky hezke budovi.
+v1;60;Min me enochloún me tétoia weirdos. Ta ktíriá mas faínontai polý kalýtera! / Neobtezuj me s takovymi podiviny. Nase budovy vypadaji mnohem lepe!
+v2;90;Loipon ... / No...
+v1;100;Prodoti! Écheis kamía ethnikí yperifáneia? / Zradce! Mas byt snad patriot ne?
+
+newchat;key:pride2,weigth:10
+v1;0;Emeís oi Romaíoi boreí na eínai pragmatiká yperífanoi gia osa échoume petýchei! / My Rimane muzeme byt opravdu hrdi na to, ceho jsme dosahli!
+v2;30;Fysiká! o, ti égine deíte apo emás! / Samozrejme! Vsechno, co vidite, bylo vyrobeno nami!
+v1;60;I pio ischyrí aftokratoría stin istoría tou kosmou! / Nejmocnejsi risee v historii sveta!
+v2;90;Álla éthni tha apoláfsete se doxa mas. / Ostatni narody se musi smazit v lesku nasi slavy.
+v1;120;Tha prépei na! Eímaste oi kyríarchoi! / To teda! Jsme vladci!
+
+newchat;key:pride3,weigth:10
+v1;0;I romaïkí aftokratoría tha kyvernísei ton kosmo gia álli mia forá! / Rimska rise bude opet vladnout svetu!
+v2;30;Emeís tha! / To bude!
+v1;60;Ola tha eínai kalýtera sti synécheia! / Vse bude dokonale!
+v2;90;Nai! / Jop!
+v1;100;Cheers gia tin aftokratoría! / Na zdravi naseh imperia!
+v2;110;Cheers! / Na zdravi!
+
+newchat;key:rain,tag:notraining,weigth:10
+v1;0;Tha vréxei. Sýntoma. / Bude prset. Brzy.
+v2;30;Boro na aisthánomai, pára polý. / Citim to, taky.
+v1;60;Períergo. Eínai pánta i ídia posotita iméres méchri vréchei. / Zvlastni. Je to vzdy stejne mnozstvi dnu nez zacne prset.
+v2;100;Nomízete oti étsi, pára polý? / Taky si to myslis?
+v2;125;Períergo zoí edo, étsi den eínai? / Podivny zivot tady, ze?
+v1;155;Sígoura! / To rozhodne!
+
+newchat;key:weird1,v2:child,weigth:1
+v1;0;Koíta afto to gouroúni! Eínai charitoméno, étsi den eínai? / Podivej prasatko! Je tak roztomile, ze?
+v2;30;WAAAaaah, fýge! / Áááááá, jdi pryc!
+v1;60;Fovásai ton choíron? / Ty se bojis prasat?
+v2;80;N-ochi! Den eímai! / N-ne! Nebojim!
+v1;110;Hahahahahaha! Tora afto eínai asteío! / Hahahahahaha! Tak tohle je vazne vtipne!
+
+newchat;key:weird2,weigth:1
+v2;0;Aaa ... Kalí souvláki. Thélete mia boukiá? / Ach... Vyborne souvlaki. Chces kousnout?
+v1;30;*Bites* / *Kousnuti*
+v1;40;Sas efcharisto! Agapo souvláki. / Diky ti! Miluju souvlaki.
+v2;70;Poios den! / Kdo nema!
+v1;100;Échete poté prospathísei na thései kápoia vromiá gia souvláki? / Uz jste nekdy zkouseli dat na souvlaky nejakou hlinu?
+v2;140;...
+v2;150;Ochi? / Ne?
+v1;170;Merikés forés káno ... Ach .. ola xekínisan otan souvláki mou épese sto édafos pérysi ... Delicous! / No me se to stalo... Ach..Vsechno to zacalo minuly rok kdyz mi souvlaki spadlo na zem... Delikatni!
+v2;220;Periménete! Vázete souvláki sas sti vromiá kai sti synécheia na to fáte? Ti sto diáolo ..? / Co! Ty jsi dal souvlaki do hliny pak ho snedl? Co to sakra..?
+v1;260;Allá kalo goústo! / Ale chutnalo to vyborne!
+v2;280;Eíste pragmatiká trelos. / Jsi opravdu silenec.
+
+newchat;key:weird3,weigth:1
+v1;0;Thélo na odigíso éna gouroúni! / Chci ridit prase!
+v2;30;Giatí? / Proc?
+v1;60;Eínai diaskedastiko! / Je to sranda!
+v2;80;Giatí sto kalo tha odigíso éna gouroúni? / Proc by jsi sakra chtel jezdit na praseti?
+v1;110;Epeidí eínai diaskédasi! / Protoze je to sranda!
+v2;120;Eísai trelos. / Jsi hnup.
+
+newchat;key:chatter1,v1:female,v2:female,v1:adult,v2:adult,weigth:15
+v1;0;Échete ídi akoúsei gia to mystiko tou xylokopos tou? / Slysel jsi uz o tom drevorubcovo tajemstvi?
+v2;30;Ochi, ti eínai láthos me afton? / Ne, co je s nim?
+v1;60;Faínetai na syllégoun ta míla, kai ta poloún stous Normandoús! / Videli jsme ho jak sbira jablka, a prodava je Normanum!
+v2;90;No way! Kai kratá ta chrímata? / Jako fakt! A bral zato penize?
+v1;120;Fysiká! / Samozrejme!
+
+newchat;key:chatter2,v1:female,v2:female,v1:adult,v2:adult,weigth:15
+v1;0;O sýzygos mou eípe oti énas varonos tha episkeftheí to chorio mas sýntoma! / Muj manzel rekl ze nasi vesnici navstivi brzy baron!
+v2;30;Giatí tha prépei na échei érthei edo? / A co by tady delal?
+v2;40;Éna tétoio ischyro, ischyros kai omorfos ántras ... / Takovy mocny, silny a pohledny muz...
+v1;70;Ti? Boreíte na tous arései? / Pockej? Tobe se libi?
+v2;100;Tha prépei na paradechto oti eínai elkystikí! / Musis priznat ze je atraktivni!
+
+newchat;key:chatter3,v1:female,v2:female,v1:adult,v2:adult,v1:hasspouse,v2:hasspouse,weigth:15
+v1;0;Ypárchei mia chalarí gynaíka sto geitoniko chorio! / V sousedni vesnici je volna zena!
+v1;20;Sýmfona me tous ischyrismoús, akomi kai oi ándres tou chorioú mas échoun páei ekeí! / Udajne tam sli i muzi z nasi vesnice!
+v2;60;Kako eidíseis! Écho na amfisvitísei ton ántra mou! / Hrozne zpravy! Musim se zeptat sveho manzela!
+v1;90;Mine faínetai na eínai athoos. Den eíste sígouroi gia to diko sas, agapité mou! / Muj se zda byt nevinny. Nejsem si ale jista o tom tvem, draha!
+v2;120;Elpízo na eínai toso kalá. Échei kalýtera. / Doufam ze muj bude taky. Zda se byt lepsi nez ostatni.
+
+newchat;key:chatter4,v1:female,v2:female,v1:adult,v2:adult,,v1:hasspouse,weigth:15
+v1;0;Mou arései na vlépo paidiá na paízoun! / Miluju se koukat jak si deti hraji!
+v1;20;Tha me kánei pánta na théloun na échoun éna moro! / To me vzdy donuti ze bych chtela dite!
+v2;50;Eíste sígouroi oti eíste se thési na to antéxoun oikonomiká? / Jsi si jista, ze si to muzes dovolit?
+v2;70;Ta paidiá eínai akrivá! / Deti jsou drahy!
+v1;100;Den anisycheí edo! O ánthropos mou échei perissotero apo arketá chrímata. / Bez obav! Muj manzel ma vice nez dost penez.
+
+newchat;key:chatter5,v1:female,v2:female,v1:adult,v2:adult,v2:hasspouse,weigth:15
+v1;0;Agapité mou, o ánthropos sas eínai énas méthysos! / Ma draha, tvuj muz je opilec!
+v2;15;Pos boreís na to les afto? / Jak to muzes rict?
+v1;45;Sýzygos sas írthe methysménos sto spíti mas chthes to vrády! / Tvuj muz prisel vcerak nam domu opily!
+v1;70;Eípe oti thélei na pantrefteí éna provato. / Rekl ze si chce vzit za zenu ovci.
+v1;100;Kai oti tha ypárxei mia terástia celebretion gámo! / A tady by mohla byt velka oddavaci slavnost!
+v1;130;Parakaloúme, anaktísei ton élencho páno apo to átomo sas. / Prosim, hlidej si sveho muze.
+v1;150;Eínai pragmatiká anatrichiastiko. / To je opravdu divne.
+v2;180;Entáxei entáxei, ego tha ton timorísei! / Dobra dobra, potrestam ho!
+v2;210;Den krasí gi 'afton! / Nedostane zadne vino!
+
+newchat;key:chatter6,v1:female,v2:female,v1:adult,v2:adult,weigth:15
+v1;0;Psomí sas eínai toso nostimo! Poio eínai to mystiko sas? / Tvuj chleba je tak delikatni! Co je tve tajemstvi?
+v2;30;Aplá prosthéste lígi záchari mésa. / Pridam jen trochu cukru dovnitr testa.
+v1;60;Alítheia? Típota perissotero? / Vazne? Nic vic?
+v2;90;Afto ítan! Tha gefteíte tin diaforá. / No ano! Poznas ten rozdil.
+
+newchat;key:chatter7,v1:female,v2:female,v1:adult,v2:adult,v2:hasspouse,weigth:15
+v1;0;Poios ítan o ánthropos pou échete episkeftheí chthes to vrády? / Co to bylo za muze ktery te navstivil minulou noc?
+v2;30;Ti ánthropos? / Jaky muz?
+v1;40;O ánthropos pou sýrthike éxo apo to paráthyro sas! / Muz ktery vylezl ze tveho okna!
+v1;45;Min nomízete oti den tha paratirísete! / Nemysli si ze jsem tak slepa abych si toho nevsimla!
+v2;60;Pos tolmás ..? Ímoun kai eímai pánta pistí sto sýzygo mou. / Jak se opovazujes..? Ja jsem verna svemu muzi!
+v1;80;Nai, nai. Tha élega oti, kathos, an ímoun sti thési sou. / Jasny, jasny. Taky bych to rikala na tvem miste.
+v2;110;fto den eínai díkaio! Min diadídoun fímes gia ména. / Laskave toho nechte! Neriste takove zvesti kolme me.
+
+newchat;key:chatter8,v1:female,v2:female,v1:adult,v2:adult,weigth:15
+v1;0;Aftá ta néa ergaleía mageirikís eínai exairetiko! / Tyto nove nastroje na vareni jsou mimoradne!
+v2;30;Nai, kánei to mageírema toso éfkolo! Eínai diaskedastiko! / Ano, dela to vareni mnohem jednodussi! Je to sranda!
+v1;60;Efcharisto pigaínei stous Smiths kai technítes, oi opoíoi skefteí tétoia prágmata! / Dekuji kovarum a remeslnikum, ktere takove veci vymysleji!
+v2;90;Nai! Gi 'afto mou arései na Romaïkí. / Ano! To je to proc miluji byt Riman.
+
+newchat;key:chatter9,v1:female,v2:female,v1:adult,v2:adult,v1:notvtype:lady_byzantine,v2:notvtype:lady_byzantine,weigth:15
+v1;0;Eímai ziliáris afton ton plousíon. / Zavidim tem bohatym lidem.
+v1;20;Échoun tétoia oraía roúcha apo metáxi! / Maji tak krasne hedvabne saty!
+v2;50;Afto den eínai pragmatiká díkaios. Den kánoun típota kai na párete ta kalýtera prágmata pou oútos í állos. / Tohle opravdu není fer. Nedelaji nic a vzdy dostanou ty nejlepsi veci.
+
+newchat;key:chatter10,v1:female,v2:female,v1:adult,v2:adult,weigth:1
+v1;0;Échete akoúsei gia afto to varono se éna geitoniko chorio? / Slyseli jste o tom baronovi v sousedni vesnici?
+v2;30;Nai, afto eínai to éna tou opoíou i gynaíka vréthike dolofoniméni? / Ano, myslis jeden z tech jehoz manzelka byla nalezana zvrazdena?
+v1;60;Akrivos! O sýzygos mou mou eípe mono oti o varonos aftoktonise ti gynaíka tou! / Presne! Muj muz mi rikal ze baron zabil svoji vlastni zenu!
+v2;100; .. Ti? / Coze..?
+v2;130;Pánta íxera oti eprokeito na! / Vedela jsem ze toho je schopny!
+v2;150;Allá kaneís den me písteve ..! / Ale nikdo mi neveril...!
+
+newchat;key:chatter11,v1:female,v2:female,v1:adult,v2:adult,v1:hasspouse,weigth:15
+v1;0;Échete poté skefteí gia to pos tha ítan an eíchame ton polemo? / Premysleli jste jak by to vypadalo kdybychom byli ve valce?
+v1;30;Ypárchoun akomi kai tora oi ándres agonízontai gia ti chora mas! / Vsak ale i ted bojuji muzi za nasi zem!
+v1;55;Thavmázo pragmatiká tous! / Opravdu je obdivuji!
+v2;80;Énas polemos tha eínai tromero. / Ale valka by mohla byt otresna.
+v2;110;Ego na mantépsete akrivos san stratiotes. / Jake hruzy vidi vojaci.
+v2;140;Allá échete énan ántra! / Ale ty mas manzela!
+v1;170;Allá énas tempélis kai sychná methysménos éna! / Jo, lineho a vecne opileho!
+
+newchat;key:talking3,v1:male,v2:male,v1:adult,v2:adult,v1:hasspouse,v2:hasspouse,weigth:15
+v1;0;Den échoume arketo krasí se afto to chorio! / Nemame dostatek vina v teto vesnici!
+v2;30;Symfono! Prépei na chtísoume páno ampélia! /Souhlasim! Potrebujeme vybudovat vice vinarstvi!
+v1;60;Kai perissoteres tavérnes! / A vice hospod!
+v2;90;Ti tha gínei me to ánoigma dikí mas tavérna? / A co takhle is otevrit svoji vlastni hospodu?
+v1;120;Megáli idéa! As to schédio afto. / Skvely napad! Pojdme to naplanovat.
+v2;150;Allá poú na archísoume? / No ale kde zacneme?
+v1;180;Kai oi gynaíkes mas den tha eínai eftychís na akoúso afto! / A nase zeny to moc radi neuslysi!
+v2;210;Ochi, polisi romaïko krasí eínai pánta mia dikaiología! / Blbost, prodavat Rimske vino neni ostuda!
+v1;240;Entáxei! Sti synécheia, afíste mas na exoikonomísete chrímata mas. / Pravda! No tak pojdme setrit penize.
+v1;270;Otan échoume kerdísei arketá, as ekplirosei to schédio mas! / Az budeme mit dost penez, tak uskutecnime nas plan!
+v2;300;Tha échoume ti megalýteri tavérna se oli tin aftokratoría! / Budeme mit tu nejlepsi hospodu v cele risi!
+v1;325;Sígoura! / Zajiste!
+
+newchat;key:talking6,v1:male,v2:male,v1:adult,v2:adult,weigth:15
+v1;0;Megáli trofímon, megála opla, megáli téchni - afto eínai o, ti eínai to éthnos mas! / Skvele jidlo, skvele zbrane, skvele umeni - to je to, o cem nas narod je!
+v2;30;Kai kalo krasí! / A skvele vino!
+
+newchat;key:talking7,v1:male,v2:male,v1:adult,v2:adult,v1:hasspouse,v2:hasspouse,weigth:15
+v1;0;Echo varetheí ti sýzygo mou. Thélo na écho éna kainoúrgio! / Nudim se ze svoji zenou. Chci mit jinou!
+v2;30;Poios den échei? / A kdo ne?
+v1;60;Ísos prépei na afísoume xafniká to chorio kai sti synécheia na psáxoume gia néa! / Mozna by jsme se meli vyparit z vesnice a hledat nove!
+v2;90;Nai! Oi Mágia kai oi Indoí échoun tétoies omorfes gynaíkes, échete dei? / Ano! Mayove a Indove maji tak krasne manzelky, videl jsi?
+v2;140;Allá ... To chorio chánetai chorís emás. / Ale... Tahle vesnice je bez nas ztracena.
+v2;160;Kai min xechnáte ta paidiá mas! / A nezapomen na deti!
+v1;180;Urgh! Ta paidiá mas! Den tha epiviosei chorís patéra! / Ach! Nase deti! Nepreziji bez otce!
+v1;220;Allá ... afto den simaínei oti prépei na synechísoume me varetí zoí mas edo? / Ale ... tak to tedy znamena ze, budeme muset pokracovat v nasich nudnych zivotech?
+v2;255;Ypothéto oti aftos eínai o kalýteros tropos na páei. / Hadam ze nemame na vybranou.
+
+newchat;key:talking8,v1:male,v2:male,v1:adult,v2:adult,v2:vtype:silkfarmer_byzantine,weigth:15
+v1;0;Eínai apístefto poso leptomerí matiá eikones sas. /Je docela neuveritelne, jak podrobne vypadaji vase ikony.
+v2;30;Fysiká, dedoménou oti eínai megáli romaïkí téchni! /Samozrejme, vsak je to take Rimske umeni!
+v1;60;Opos kai o, ti kánoume. Koitáxte omorfa spítia mas! / Jako vsechno co delame. Podivej se na nase prekrasne domy!
+v2;90;Kai min xechnáte éndoxi istoría mas! / A nezapomen na nasi slavnou historii!
+
+newchat;key:talking9,v1:male,v2:male,v1:adult,v2:adult,weigth:15
+v1;0;Thymáste to korítsi pou polémisan páno stin paidikí ilikía mas? / Pamatujes si na divku, o kterou jsme v detstvi bojovali?
+v2;30; Nai ... Ítan mia polý kakí stigmí. Kalí oti eínai páno. / Jo... Byli to blbe casy. Jeste ze je po vsem.
+v1;60;Chaíromai pou to akoúo, giatí mou eípe aplá oti mou árese pánta! / Tak to rad slysim, protoze mi prave rekla ze mela vzdy radsi me!
+v2;90;Ti? Afto den eínai alítheia! / Coze? To neni pravda!
+
+newchat;key:flirt1,v1:male,v2:female,v1:adult,v2:adult,v1:hasspouse,v2:nospouse,notrel:sibling,notrel:child,notrel:parent,weigth:5
+v1;0;Geia sou omorfiá, sas arései afto pou vlépete? / Hej krasko, libi se ti co vidis?
+v2;20;*chastoúki* / *facka*
+v2;25;Échete mia gynaíka. / Mas manzelku.
+
+newchat;key:flirt2,v1:male,v2:female,v1:adult,v2:adult,notrel:sibling,notrel:child,notrel:parent,weigth:5
+v1;0;Geia sou, koitás polý oraía símera $targetfirstname! / Hej, dneska vypadas velice dobre $targetfirstname!
+v2;30;Sas efcharisto! / Dekuji ti!
+v1;60;Opos pánta, agapité mou! / Jako vzdy, zlaticko!
+
+newchat;key:flirt3,v1:male,v2:female,v1:adult,v2:adult,v1:hasspouse,v2:hasspouse,notrel:sibling,notrel:child,notrel:parent,weigth:5
+v1;0;Hey $targetfirstname, kánei mia omorfiá opos eseís thélete eínai éna omorfos ántras san ki eména? / Hej $targetfirstname, chtela by takova kraska jako ty krasavce jako jsem ja?
+v2;40;Eíste pantreménos, kai eímai toso kalá. / Jsi zenaty a ja vdana.
+v2;60;Ypothéto oti den eíste pistoí! Tha po sti gynaíka sas! / Hadam ze ji nejsi moc vernyl! Asi ji to reknu!
+v1;75;OCHI - Min kánete tha- / NE - Nedelej t-
+v1;85;Eímai kako dídymo adelfo tou! / Ja jsem jeho zle dvojce!
+v2;120;Fysiká eíste! To ídio kako dídymo pou eínai pánta methysménos! / Samozrejme ze jsi! To same dvojce co je vzdy opile!
+
+newchat;key:flirt4,v1:male,v2:female,v1:adult,v2:adult,notrel:sibling,notrel:child,notrel:parent,weigth:10
+v1;0;Pos tha me gynaíka-ta prágmatá sas? / Jak ti to jde s tvymi zenskymi veci?
+v2;30;Kalí kalí, ektos apo tin aísthisi lígo áschima ... / Dobre, dobre, ale citim se trochu spatne...
+v1;60;O, ochi, ti synévi? / Ale ne, co se stalo?
+v2;90;O sýzygos mou moú fonaxe. / Muj muz me serval.
+v1;120;Pos boreí o ídios se mia tétoia omorfiá? / Jak muze kricet na takovou krasku?
+v2;150;Sas efcharistoúme gia epeffimíes mou epáno, $targetfirstname! / Dekuju za povzbuzeni, $targetfirstname!
+
+newchat;key:flirt5,v1:male,v2:female,v1:adult,v2:adult,notrel:sibling,notrel:child,notrel:parent,weigth:10
+v2;0;*povzdech*
+v1;30;Eísai entáxei, $targetfirstname? / Je vse v poradku, $targetfirstname?
+v2;50;Nai, afto eínai mono i sklirí douleiá! / Ano, jen je to tezka prace!
+v1;70;Boro na sas voithíso? Tha aisthantheíte kalýtera sti synécheia? / Mam ti pomoct? Budes se pak citit lepe?
+v2;90;Fysiká! Sas efcharistoúme! / Samozrejme! Dekuji ti!
+
+newchat;key:flirt6,v1:male,v2:female,v1:adult,v2:adult,,weigth:10
+v1;0;Pos páei? / Jak to jde?
+v2;30;Ola eínai mia chará, ti gia sas? / Vse je v pohode, co ty?
+v1;60;Eínai pára polý! Efcharisto gia tin erotisi. / Taky tak! Diky za optani.
+v1;75;Allá vlépo oti ypárchei káti pou sas enochleí! / Ale ja vidim ze je tu neco co te trapi!
+v2;90;Eínai - típota. / Ale to je - nic.
+v1;110;Parakalo peíte mou! / Prosim rekni!
+v2;130;Eínai mono oti i zoí mou edo eínai toso varetí. / Jen muj zivot tady je tak nudny.
+v2;160;Efchomai pragmatiká eícha apofasísei na páei se mia poli otan ímoun néos! / Vazne si preju abych se tenkrát kdyz jsem byl mlady rozhodl jit do mesta!
+
+newchat;key:brothertalk1,v1:male,v1:adult,v2:male,v2:adult,rel:sibling,weigth:10
+v1;0;Adelfos $targetfirstname, eínai kalo na sas doúme! / Bratre $targetfirstname, rad te vidim!
+v1;30;Vríka ton palio xýlino spathí mas! / Nasel jsem nas stary dreveny mec!
+v1;50;Thymáste? / Pamatujes?
+v2;80;Periménete! Eínai afto to xífos tou patéra mas, mas édose? / Pockej! To je ten mec co nam dal tata?
+v1;110;Eínai! Thymáste tous agones mas me afto? / Ano je! Pamatujes si nase boje s nim?
+v2;140;Pos tha boroúsa na xecháso! Exakoloutho na écho kápoia simádia. / Jak bych mohl zapomenout! Stale mam nejake jizvy.
+v2;170;An skéfteste perissotero gi 'afto ... / Kdyz se nad tim zamyslim...
+v2;200;Ítan to eídos tis sklirís tou patéra mas gia na mas dosei mono éna spathí! / Bylo to docela bezcitne ze nam dal jen jeden mec!
+v2;240;Íxere oti tha agonistoúme gia afto! / Protoze vedel ze se o nej budeme prat!
+v1;270;Ypothéto oti eínai entáxei! / Ale hadam ze to bylo docela v pohode!
+v2;300;Epeidí to krátisa! / Jo protoze jsi si ho nechal!
+
+newchat;key:sistertalk1,v1:female,v1:adult,v2:female,v2:adult,rel:sibling,weigth:10
+v1;0;Thymáste ton iníocho pou agápise toso polý stin paidikí ilikía mas? / Pamatujete si na vozataje, ktereho jsme v detstvi tolik milovali?
+v2;30;Apo tin adelfí poreía. Ímastan oi megalýteroi opadoí! / Jasne sestro. Byli jsme jeho nejvetsi fandove!
+v1;60;Anarotiémai ti synévi s 'afton. / Zajimalo by me co se s nim stalo.
+v1;90;Tha akoúsei típota gi 'afton pia ... / Uz jsem pak o nem nic neslysel...
+v2;120;Eínai pithanon enkatastáthikan s 'éna chorio san ti dikí mas kai eíche mia sýzygo kai ta paidiá. / Pravdepodobne se usadil ve vesnici, jako je ta nase, a ma manzelku a deti.
+v1;150;Télos pánton exakoloutho na elpízo na ton synantíso kápoia stigmí! / Nicmene poraddoufam ze se s nim zase uvidim!
+v2;180;Ki ego! / Ja taky!
+
+newchat;key:brothersister,v1:male,v1:adult,v2:female,v2:adult,v2:hasspouse,rel:sibling,weigth:10
+v1;0;$targetfirstname, i adelfí mou, pánta íthela na mátho giatí pantréftike afto to trántagma. / $targetfirstname, sestro moje, vzdy jsem chtel vedet proc jsi si vzala takoveho pitomce.
+v2;30;Epeidí ton agapo! / Protoze ho miluju!
+v1;60;Kai tora to onomá sas eínai $targetlastname. $targetlastname! Akoúgetai toso kako! / Jo a ted je tvoje jmeno $targetlastname. $targetlastname! Zni to priserne!
+v2;90;Hey! Min simaínei étsi! Ítan eseís pou xekínise i sýnkrousi. / Hej! Nebud tak nerudny! Byl jsi to vzdycky ty kdo zacinal konflikt.
+v2;110;Tha ítan methysménos! / Byl jsi vzdy opily!
+
+newchat;key:seljuks,v1:adult,v2:adult,weigth:10
+v1;0;Échete akoúsei gia tous Seljuks apó ti stigmí pou ftásame edó? / Slysel jsi o Seldzukanech, kdyz jsme sem dorazili?
+v2;30;Óchi, den to écho nomísei óti írthan mazí mas se aftí ti gi? / Ne, neslysel, myslis si ze prisli sem s nami do teto zeme?
+v1;60;Amfivállo, échoume ídi akoúsei apó anthrópous pou den gnorízame óti ypírchan. / Pochybuju, uz jsem slysel i od lidi ze ani nevi kdo to je.
+v2;90;Ypothéto óti prépei na kánoume néous echthroús se aftí ti gi. / IHadam ze si musime udelat jine nepratele.
+v1;120;Échoume akóma tous Normandoús na antimetopísoun. / Porad se musime vyporadat s Normany.
+v2;150;Loipón, eímaste Romaíoi! Boroúme éfkola na nikísoume tétoious epidromeís, sti Rómi! / No, jsme Rimane! Muzeme lehce porazit jejich najezdniky, ve jmenu Rima!
+v1;165;Sti Rómi! / Ve jmenu Rima!
+
+newchat;key:normans,v1:adult,v2:adult,weigth:6
+v1;0;Akoúsate gia to kontinó chorió Norman? /Slysel jsi o te nedaleke Normanske vesnici?
+v2;30;Aftó den eínai kaló, thymámai óti synéchizan na epitíthentai sti nótia Italía protoú ftásoume edó. / To neni dobre, pamatuji si, ze utocili na jizni Italii, nez jsme sem prisli.
+v1;60;As elpísoume óti den tha mas epitethoún. / Doufam ze na nas nezautoci.
+v2;90;Elpízo kai egó. / Taky doufam.
+
+newchat;key:constantinople,v1:adult,v2:adult,weigth:9
+v1;0;Anarotiémai ti synévi stin Konstantinoúpoli? / Zajímalo by me, co se stalo s Konstantinopoli?
+v2;30;Nomízo óti írthe edó mazí mas se aftí ti néa gi. / Myslim si, ze prisla sem s nami do tohoto noveho sveta.
+v1;60;Giatí to pistéveis aftó? / Proc jsi to myslis?
+v2;90;Ézisa kontá sti megáli póli kai me odígisan edó. / Zil jsem blizko velkeho mesta a byl vzat sem.
+v1;120;Eínai alítheia, allá échei tósous polloús anthrópous. Tha to eíchame akoúsei méchri tóra. / Pravda, ale tam je hodne lidi. To uz by o tom slyseli.
+v2;150;Tha boroúse na eínai polý makriá. / Treba je to mesto jen hodne daleko.
+v1;180;Nai, allá i dóxa kai i megaloprépeia tis Konstantinoúpolis ítan tóso megáli pou akómi kai ánthropoi stin Kína ákousan gi 'aftó. / Jo, ale slava a nadhera Konstantinopole je tak velka, ze o ni slyseli i lide v Cine.
+v2;210;Mi mou peíte óti pistévete se aftés tis istoríes gia tin Kína? / Nerikej mi ze veris tyhle bachorce o Cine?
+v1;240;Pistévo óti ypárchei kápoia alítheia se aftá. / Verim zeje na tom neco pravdy.
+v2;270;Allá ypárchei tósa pollá mystíria gia tin Kína pou den boroúme na ypothésoume an ypárchei kápoia alítheia se aftá. / Ale Cina ma tolik zahad, nemuzeme predpokladat ze je tam vse pravdive.
+v1;300;Ypárchei tósa pollá mystíria an i Konstantinoúpoli eínai edó, étsi den boroúme na to ypothésoume. / Stejne tak je tolik zahadna i Konstantynopol jestli je tu s nami a taky nemuzeme verit tomu ze je.
+v2;330;Loipón, nai, allá akóma ki an i Konstantinoúpoli den eínai edó. Prépei na megalósoume kai na prostatépsoume ti Romaïkí Aftokratoría. / No, jo, ale pokud tu Konstantynopol neni. Musime se rozrust a ochranit nasi Rimskou Risi.
+v1;360;Tóra boró na symfoníso mazí sas gia aftó! / No tak s tim s tebou souhlasim!
+v2;390;Máios Rómi diarkeí gia pánta! / Necht Rim trva vecne!
+
+newchat;key:inuit,v1:adult,v2:adult,weigth:10
+v1; 0; Norítera, miloúsa me énan vyzantinó émporo kai mou eí gia choriá makriná sto chióni. / Kdysi jsem mluvil s byzantskym obchodnikem a vypravel mi o vesnicich daleko ve snehu.
+v2;30;Choriá sto chióni? / Vesnice ve snehu?
+v1;60;Nai, onomázontai "Inuit". / Jo, myslim ze se jmenuji "Inuite".
+v2;90;Inuit? Ti paráxeno ónoma, ti ítan?/ Inuite? Velice zvlastni jmeno, a jaky jsou?
+v1;120;O émporos eípe óti den pistévoun se chrímata. / Obchodnik rikalze neveri v penize.
+v2;150;Min pistévete sta chrímata ?! Pós tha boroúsan na zísoun? /Neveri v penize?! Jak muzou zit?
+v1;180;Óloi moirástikan ta pánta exísou. Ékane polý dýskoli ti diapragmátefsi mazí tous. / Proste vsechno mezi sebou sdileji. Velice tezko se s nimi obchoduje.
+v2;210;Kakí émporos. Touláchiston eínai píso sti Romaïkí Aftokratoría, makriá apó aftoús tous várvarous. / Chudak obchodnik. Alespon ze je zpet v Rimske risi, daleko od tech barbaru.
+v1;240;Symfonó! I Romaïkí Aftokratoría eínai i kalýteri gi gia empório! / Souhlasim! Rise Rimska je nejlepsi na obchodovani!
+
+newchat;key:soldiers2,v1:adult,v1:male,v1:vtype:soldier_byzantine,v2:adult,v2:male,v2:vtype:soldier_byzantine,weigth:3
+v1;0;Elpízo óti den tha chreiasteí na vgoúme éxo kai na polemísoume opoiondípote várvaro ópote sýntoma. /  Doufam ze ted nekdy nebudeme bojovat s barbarama.
+v2;30;Ti? Eímaste stratiótes, i douleiá mas eínai na vgoúme éxo kai na skotósoume várvarous. Giatí tha beíte ston strató an den sas arései na agonízeste? / Coze? Vzdyt jsme vojaci, nase prace je bojovat s barbarama. Proc jsi se teda pridaval k armade kdyz nemas rad boj?
+v1;60;Skéftika óti o stratiótis tha ítan efkolóteros, to móno pou perímena na káno eínai na stamatíso kai na skotóso lígous óchlous kai to peristasiakó várvaro. Allá tóra ótan skotóno éna várvaro, koitázo to prósopó tou kai skéftomai, "Ísos den prépei na skotónoume aftoús tous anthrópous". / Myslel jsem, ze byt vojak bude snazsi, vse co jsem ocekaval, bylo ze budu stat kolem a zabijet par mobu a sem tam obcas barbara. Ale ted, kdyz zabiju barbara, podivam se na jeho tvar a pomyslim si: „Mozna bychom tyto lidi nemeli zabijet.“
+v2;120;Skéftesai pára polý! Vgeíte éxo kai skotóste várvarous gia ti Rómi. Tha mas skotósoun kai tha katastrépsoun ta spítia mas! Eínai móno asyneíditoi ágrioi. / Moc premyslis! Jdi ven a zabi nejake barbary ve jmenu Rima. Kdyby meli tu prilezitost tak nas zabiji a znici nase domovy! Jsou akorat necivilizovany odpad.
+v1;150;Synantísate aftoús tous anthrópous pou kirýttete na skotónete? Óchi, den échete, ísos eínai diaforetikoí apó aftó pou mas eípan. / Uz jsi nekdy tyhle lidi potkal normalne, ze tu kazes o jejich zabijeni? Ne, nepotkal, mozna ze jsou jini nez jak nam bylo receno.
+v2;180;Eínai alítheia óti tha boroúsan na eínai polý cheirótera. / Pravda, muzou byt jeste mnohem horsi.
+v1;210;Den nomízo óti katalavaínete tis sképseis kai ta deiná pou pernáo. / Nemyslim si ze rozumis tomu co ti tim chci rict.
+v2;240;Eímai stratiótis, óchi filósofos. Tha prépei na páte na prosefchitheíte sto Theó gia kathodígisi, kathós safós chreiázeste kápoio. / Jsem vojak, ne fylozof. Mel by jsi se radsi modlit k Bohu za jeho prizen.
+v1;270;Écho ídi kai den écho típota perissótero apó ton Theó. Ótan prosefchómoun, émeina me to ídio sympérasma ópos écho tóra. /Uz jsem se k Bohu modlil a nedostal jsem od nej zadnou odpoved. Nechal me ve stejne situaci jako jsem ted.
+v2;300;Ti? Échete afísei safós ton Theó gia na min sas po tin alítheia! Pigaínete píso stin prosefchí méchri na borésete na skotósete kai páli tous varvárous! / Co? Jasne jsi Boha opustil po tom co jsi zacal takto uvazovat! Vrat se zpet k modleni po tom co zabijes barbara!
+v1;330;Ísos aftó eínai to sympérasma pou o Theós símane gia ména na écho! Tha páo na proséfchomai tóra. / Mozna po me Buh chtel abych k tomu dosel sam!
+v2;360;Akoúgetai perissótero ópos o Theós thélei na syntaxiodotitheíte ... / Spis to zni jako kdyby Buh chtel aby jsi odesel do duchodu...
+
+newchat;key:kidsbos,v1:child,v2:child,weigth:5
+v1;0;Bahh… Bahhh… / Bahhh… Bahhh… Eímai o vasiliás ton boskon!
+v2;30;Stamáta to! Tha ton kalésete me aftó / Prestan! Timhle ho akorat vyvolas!
+v1;60;O Boskokrátor, sas káno éna ieró tópo… / O Boskokratore, postavim ti posvatne misto…
+v2;90;Skáse! Den xérete ti symvaínei ston mýtho? / Sklapni! Copak nevis co se stane v te legende?
+v1;120;$targetfirstname, klápse moró! Eínai móno aftó! Enas mýthos! / $targetfirstname, ty uplakánku! No prave! Je to jen Legenda!
+
+newchat;key:goodharvest1,v1:adult,v2:adult,v2:notvtype:pastor_byzantine-patriarch_byzantine,building:farm,building:vineyard,notbuilding:taverna,weigth:24
+v1;0;To sitári kai ta stafýlia mas afxánontai polý fétos. / Nase psenice a hrozny letos rostly velmi dobre.
+v2;30;Nai, oi agrótes anaféroun rekór rekór kai dokimásate to krasí? / Ano, farmari hlasi rekordni sklizne tento rok a uz jsi vyzkousel vino?
+v1;60;Den échoume tavérna gia na kánoume krasí ... / Um, nemame tavernu na vyrobu vina ...
+v2;120;O ..., tóte ti épaiza chthes ?!/ Aha ... tak co jsem to vcera pil ?!
+
+newchat;key:goodharvest1withtavern,v1:adult,v2:adult,v2:notvtype:pastor_byzantine-patriarch_byzantine,building:farm,building:vineyard,building:taverna,weigth:14
+v1;0;To sitári kai ta stafýlia mas afxánontai polý fétos. / Nase psenice a hrozny letos rostly velmi dobre.
+v2;30;Nai, oi agrótes anaféroun rekór rekór kai dokimásate to krasí? / Ano, farmari hlasi rekordni sklizne tento rok a uz jsi vyzkousel vino?
+v1;60;Echo! To exairetikó romaïkó mas krasí échei kalýteri géfsi apó poté! / Vyzkousel! Nase Rimske vino chutna lepe nez kdy drive!
+v2;90;Xéro, den eínai katapliktikó? Eícha pénte olóklira boukália chthes. To kalýtero krasí pou eícha poté! /Já vim, neni to uzasne? Vcera jsem mel pet flasek. Nejlepsi vino co jsem kdy mel!
+v1;120;Pénte olóklira boukália? Prépei na epivradýneis ton ánthropo! Akómi kai an eínai mia exairetikí epochí, kindynéveis na gíneis methysménos me aftó to polý krasí! / Pet flasek? Trochu pribrzdi! I kdyz je to skvela sezona, tak riskujes ze se opijes z prilisneho piti vina!
+v2;150;Tha eímai kalá ótan o ponokéfalos aftós enkataleiftheí ... / Budu v pohode hned co zmizi ta bolest hlavy ...
+
+newchat;key:cider,v1:adult,v2:adult,notbuilding:taverna,weigth:2
+v1;0;Chreiazómaste mia tavérna gia na ftiáxoume to krasí polý sýntoma. / Brzo budeme potrebova postavit tavernu na vyrobu vina.
+v2;30;Ti? Giatí? Sígoura, to krasí eínai kaló, allá éna olókliro ktírio gia to krasí? Prépei na váloume proteraiótites stis proteraiótités sas! / Coze? Proc? Jiste, vino je dobre ale potrebujeme na to celou budovu? Meli bychom si ujasnit nase prority!
+v1;60;Dokímasa lígo chymó Norman chtes. Ítan friktó! Pós oi ágrioi san aftó? / Vcera jsem vyzkousel Normansky cider. Bylo to priserny! Presne jako ti co ho piji!
+v2;90;Giatí dokimázete ta potá ton ágrion? Eísai ilíthios?! / Proc pijes tohle divoke piti? Jsi snad idiot?!
+v1;120;Ego eimai... / Asi jsem ...
+v2;130;Pánta na píneis romaïkí ousía! ROMAÏKÍ OUSÍA! / Vzdy pij jen Rimske veci! Z RIMSKYCH MATERIALU!
+
+//newchat;key:boyvillagechief,v1:child,v1:vtype:baron_byzantine-centurio_byzantine-patriarch_byzantine,v1:male,weigth:5
+//v1;0;Tha eímai o archigos tou chorioú argotera, oldie! / Az budu dospely, tak budu vudce vesnice, vy nuly!
+//v2;30;Min eísai toso thrasýs, agoráki. Í tha párei éna chastoúki! /Nebude tak drzy, chlapce. Nebo dostanes na zadek!
+//v1;60;Kai ego tha sas párei sti synécheia chastoúkise! / A potom ti to vratím!
+//v2;80;*chastoúkia* / *plesk*
+//v1;85;Och, afto ponáei! / Au, to bolelo!
+//v2;105;Ísos échete máthei káti! / Aspon ses neco naucil!
+
+newchat;key:talking1,v1:male,v2:male,v1:adult,v2:adult,v1:hasspouse,v2:notvtype:patriarch_byzantine-pastor_byzantine,weigth:15
+v1;0;Xérete tin omorfiá sto geitoniko chorio? / Videl jsi tu krasku v te vedlejsi vesnici?
+v2;30;Fysiká, eínai polý charitoméno. / Samozrejme ze jo, je opravdu krasna.
+v1;60;Ti tha gínei me tin epískepsi tis? / Nepujdeme ji navstivit?
+v2;90;Xérete oti i gynaíka sas tha trelatho tote! / Ty vis ze by te tva manzelka zabila!
+
+//newchat;key:talking2,v1:male,v2:male,v1:adult,v2:adult,v1:notvtype:artisan_byzantine-pastor_byzantine-patriarch_byzantine,v2:notvtype:artisan_byzantine-pastor_byzantine-patriarch_byzantine,weigth:15
+//v1;0;Sýzygos tou techníti eínai polý omorfos, ti nomízete? / Remeslnikova zena je velice krasna, nemyslis?
+//v2;40;Nai, den eínai kako. Dystychos aftí eínai ídi pantreméni! /Ano, je zabavna. Skoda ze je vdana!
+//v1;70;Kalá nai. Kai den tha ítan díkaii gia afton. / Presne. Zaslouzi si lepsiho.
+//v2;100;Symfono. / Tyk si myslim.
+
+newchat;key:talking4,v1:male,v2:male,v1:adult,v2:adult,v1:vtype:miner_byzantine-farmiller_byzantine-lumberman_byzantine,v2:vtype:miner_byzantine-farmiller_byzantine-lumberman_byzantine,weigth:15
+v1;0;Échete dokimásei poté Norman ergaleía? / Uz jsi nekdy vyzkousel Normanske naradi?
+v2;30;Ochi, allá écho akoúsei oti eínai polý apotelesmatikí! / Ne, ale slysem jsem ze je velmi efektivni!
+v1;60;Eínai alítheia. Poté den eícha doulépsei me tétoia kalá ergaleía prin. / To je pravda. Nikdy predtim jsem nepracoval s tak dobrymi nastroji.
+v2;90;Periménete ... Échete éna ergaleío Norman? / Pockej... Ty mas Normaske naradi?
+v1;120;Err, eícha. Échei kápos chatheí! / Noo, mel jsem. Pak se nejak ztratilo!
+v2;140;TI? Eíches éna tétoio ergaleío kai na to chásei? / COZE? Mel jsi vyborne naradi a ty jsi ho ztratil?
+v1;170;Nai ... Tora ypárchoun mono anamníseis aristerá ... / Jop... Nyni to uz jsou jen vzpominky...
+
+//newchat;key:talking5,v1:male,v2:male,v1:adult,v2:adult,v1:notvtype:pastor_byzantine-patriarch_byzantine-armysmith_byzantine-baron_byzantine,v2:notvtype:pastor_byzantine-patriarch_byzantine-armysmith_byzantine-baron_byzantine,weigth:15
+//v1;0;Boom! Ímoun molis eínai se thési na elénxei éxo ti néa ropalo! / Bum! Ted konecne muzu vyzkouset tu palici!
+//v2;30;Nai! Prokeitai gia éna fovero oplo! Eínai chtypá tous echthroús makriá! / Jo! Fantasticka zbran! A dokonce odpali i nepratele!
+//v1;60;Entyposiako, e? Afto to aristoúrgima Romaïkí den boreí na synkritheí me otidípote állo se afto ton kosmo. /No není užasná? Tenhle Rimsky kousek se nemuze vyrovnat nicemu v tomto svete.
+//v2;100;Thats giatí boroúme na eímaste yperífanoi na eínai Romaíoi! / To je duvod proc byt hrdy na Rimany!
+
+//newchat;key:religious1,v1:vtype:patriarch_byzantine-pastor_byzantine,v2:male,weigth:10
+//v1;0;$targetfirstname, o gios mou, ego den eída na proséfchetai símera! / $targetfirstname, muj synu, nevidel jsem te dnes modlit se!
+//v2;30;Patéras $targetlastname, ego sígoura ékane. / Otce $targetlastname, ale ja se doopravdy modlil.
+
+//newchat;key:religious2,v1:vtype:patriarch_byzantine-pastor_byzantine,v2:female,weigth:10
+//v1;0;$targetfirstname, kori mou, ego den eída na proséfchetai símera! / $targetfirstname, ma dcero, nevidel jsem te dnes modlit se!
+//v2;30;Patéras $targetlastname, ego sígoura ékane. / Otče $targetlastname, ale ja se doopavdy modlila.
+
+//newchat;key:religious3,v1:vtype:patriarch_byzantine-pastor_byzantine,v2:female,weigth:10
+//v1;0;$targetfirstname, kóri mou, eísai eirinikí sto myaló sou? / $targetfirstname, dcero ma, mas klid na dusi?
+//v2;30;Patéras $targetlastname, Den eímai eirinikós, apó tóte pou ftásame edó, aisthánomai óti ypárchei káti diaforetikó. / Otče $targetlastname, nejsem, od chvile co jsme sem dorazili tak mam pocit ze neco neni v poradku.
+//v1;60;Paidí, polloí apó emás aisthánontai óti ypárchei káti diaforetikó edó. / Me dite, mnozi z nas citi to same.
+//v2;90;Allá ti boró na káno? I zoí mou edó tha eínai gia pánta diaforetikí edó. / Ale co mohu delat? Muj zivot zde bude navzdy jiny.
+//v1;120;To móno pou boroúme na kánoume eínai na prosefchómaste afoú o Theós échei éna schédio gia mas. / Vse, co muzeme udelat, je modlit se, protože Buh pro nas ma plan.
+
+//newchat;key:religious4,v1:vtype:patriarch_byzantine-pastor_byzantine,v2:male,weigth:10
+//v1;0;$targetfirstname, O gios mou, eíste eirinikós sto myaló? / $targetfirstname, muj synu, mas klid na dusi?
+//v2;30;Patéras $targetlastname, Den eímai eirinikós, apó tóte pou ftásame edó, aisthánomai óti ypárchei káti diaforetikó. / Otče $targetlastname, nejsem, od chvile co jsme sem dorazili tak mam pocit ze neco neni v poradku.
+//v1;60;Paidí, polloí apó emás aisthánontai óti ypárchei káti diaforetikó edó. / Me dite, mnozi z nas citi to same.
+//v2;90;Allá ti boró na káno? I zoí mou edó tha eínai gia pánta diaforetikí edó. / Ale co mohu delat? Muj zivot zde bude navzdy jiny.
+//v1;120;To móno pou boroúme na kánoume eínai na prosefchómaste afoú o Theós échei éna schédio gia mas. / Vse, co muzeme udelat, je modlit se, protože Buh pro nas ma plan.
+
+//newchat;key:ticlon,v1:notvtype:pastor_byzantine-patriarch_byzantine,v2:vtype:pastor_byzantine-patriarch_byzantine,weigth:1
+//v1;0;Patéras $targetlastname, otan proséfchomai, eída kápoia períerga sýmvola../ Otce $targetlastname, kdyz jsem se modlil, tak jsem spatril nejake zahadne symboly.
+//v2;30;Paidí, ti sou édeixe o Theós? / Copak ti Buh ukazal, me dite?
+//v1;60;Patéra, ta sýmvola ítan "Tiklón". Xérate ti ennooún? / Otce, znaky byli "Ticlon". Vite co to znamena?
+//v2;90;O Theós doulévei me mystiriódi trópo / Buh ma obcas zahadne cesty.
+
+//newchat;key:nobakery,building:farm,notbuilding:bakerybyzantine,v1:adult,v2:adult,weigth:15
+//v1;0;Ach, poios den thélei frésko, nóstimo psomí apó to agróktima sitarioú? / Ah, kdo by nechtel cerstvi a chutny chleb primo z farmy?
+//v2;30;Xérete óti chreiazómaste éna artopoieío gia na metatrépsoume to sitári se psomí sostá? / Vis, ze potrebujeme pekarstvi, aby se z psenice stal chleb ?
+//v1;60;Prépei na me gelás. Tóra tha petháno. / Delas si ze me srandu ze jo. Ted tu umru hlady.
+//v2;90;Limoktonó? Símera to proí fágate to proinó mou! Tha eímai o peinasménos. / Hlady? Vsak jsi mel dneska rano muj chleba! To ja budu ten kdo tu umre hlady.
+//v1;120;To chreiázomai perissótero apó eséna! / Ale ja potrebuju vic jidla jak ty!
+//v2;150;Den xéro giatí sas miláo! / Nevim proc se s tebou bavím!
+//v1;180;Chreiazómaste éna artopoieío, aftó eínai simantikó. / Potrebujeme pekarstvi, to je jedine na cem ted zalezi.
+
+newchat;key:baron1,v1:adult,v1:vtype:baron_byzantine,v2:adult,v2:male,v2:notvtype:pastor_byzantine,weigth:10
+v1;0;Óra na plirósete tous fórous sas. / Je na case zaplatit dane.
+v2;30;Lypámai, allá den ímoun se thési na synkentróso arketoús pórous. / Omlouvam se ale neziskal jsem dostatek prostredku.
+v1;60;Thélete na sas ekdióxo apó to chorió? / Chces abych te nakopal do tve vesnicke zadnice?
+v2;80;Ochi... / Ne...
+v1;90;Sti synécheia epistrépste me tous fórous sas TORA! / Takze se koukej vratit se svymi danemi, HNED TED!
+v2;120;Entáxei entáxei. / No dobře, dobře.
+
+newchat;key:notavern,v1:adult,v1:male,v2:adult,v2:male,notbuilding:taverna,weigth:25
+v1;0;Geiá sou! Den faínetai na eíste polý efcharistiménoi símera / Ahoj! Dneska nevypadas moc stastne.
+v2;30;Nai, den ypárchei tavérna gia na pioúme. / Jo, protoze tu neni zadna taverna na piti.
+v1;60;Éfchomai na ypárchei mia tavérna. Tóte tha boroúsame na pioúme romaïkó krasí. / Pravda, přeju si aby tu byla nejaka hospoda. Pak by jsme vesele mohly pit nase Rismke piti.
+v2;90;An móno... / Nezbyva nez snit ...
+
+newchat;key:soldiers1,v1:adult,v1:male,v1:vtype:soldier_byzantine,v2:adult,v2:male,v2:vtype:soldier_byzantine,weigth:3
+v1;0;Elpízo óti den tha chreiasteí na vgoúme éxo kai na polemísoume opoiondípote várvaro ópote sýntoma. /  Doufam ze ted nekdy nebudeme bojovat s barbarama.
+v2;30;Ti? Eímaste stratiótes, i douleiá mas eínai na vgoúme éxo kai na skotósoume várvarous. Giatí tha beíte ston strató an den sas arései na agonízeste? / Coze? Vzdyt jsme vojaci, nase prace je bojovat s barbarama. Proc jsi se teda pridaval k armade kdyz nemas rad boj?
+v1;60;Skéftika óti o stratiótis tha ítan efkolóteros, to móno pou perímena na káno eínai na stamatíso kai na skotóso lígous óchlous kai to peristasiakó várvaro. Allá tóra ótan skotóno éna várvaro, koitázo to prósopó tou kai skéftomai, "Ísos den prépei na skotónoume aftoús tous anthrópous". / Myslel jsem, ze byt vojak bude snazsi, vse co jsem ocekaval, bylo ze budu stat kolem a zabijet par mobu a sem tam obcas barbara. Ale ted, kdyz zabiju barbara, podivam se na jeho tvar a pomyslim si: „Mozna bychom tyto lidi nemeli zabijet.“
+v2;120;Skéftesai pára polý! Vgeíte éxo kai skotóste várvarous gia ti Rómi. Tha mas skotósoun kai tha katastrépsoun ta spítia mas! Eínai móno asyneíditoi ágrioi. / Moc premyslis! Jdi ven a zabi nejake barbary ve jmenu Rima. Kdyby meli tu prilezitost tak nas zabiji a znici nase domovy! Jsou akorat necivilizovany odpad.
+v1;150;Synantísate aftoús tous anthrópous pou kirýttete na skotónete? Óchi, den échete, ísos eínai diaforetikoí apó aftó pou mas eípan. / Uz jsi nekdy tyhle lidi potkal normalne, ze tu kazes o jejich zabijeni? Ne, nepotkal, mozna ze jsou jini nez jak nam bylo receno.
+v2;180;Eínai alítheia óti tha boroúsan na eínai polý cheirótera. / Pravda, muzou byt jeste mnohem horsi.
+v1;210;Den nomízo óti katalavaínete tis sképseis kai ta deiná pou pernáo. / Nejsem si jisty jestli rozumis tomu cim ted prochazim.
+v2;240;Eímai stratiótis, óchi filósofos. Tha prépei na páte na prosefchitheíte sto Theó gia kathodígisi, kathós safós chreiázeste kápoio. / Jsem vojak, ne fylozof. Mel by jsi se radsi modlit k Bohu za jeho prizen.
+v1;270;I prosefchí voithá se periódous psychikís krísis. Tha páo na proséfchomai tóra. / Modleni pomaha v case mentalni krize. Jdu se tedy modlit.
+v2;300;Elpízo óti o Theós tha teleiósei ti sýnchysi sas. / Doufam ze buch ukonci tve zmateni.
+
+newchat;key:sun,tag:notraining,weigth:10
+v1;0;Agapo ilióloustes méres! / Miluju slunecne dny!
+v2;30;Poios den échei? / A kdo ne?

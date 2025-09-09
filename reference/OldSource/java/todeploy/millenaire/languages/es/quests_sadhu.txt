@@ -1,0 +1,189 @@
+﻿sadhu_intro_0_label=El Sadhu
+sadhu_intro_0_description=$name, te conocemos desde hace mucho tiempo y sabes que confiamos en tí como si fueras uno de los nuestros, a pesar de no saber quien eras ni de donde venías. Al principio, creíamos que eras simplemente un hombre de una de las otras naciones que como nosotros había sido arrastrado aquí ese fatídico día en el que la Tierra se sacudió y acabamos en este extraño lugar, donde las estaciones nunca cambian y los ríos no tienen caudal; alguno de esos extraños hombres en sus pirámides de piedra o aquellos hombres de caras pálidas diestros en la fundición de hierro.<ret><ret>Pero te hemos observado por mucho tiempo y eres diferente. Pareces tener recuerdos de una tierra anterior, y prosperaste aquí como si fueras de este lugar. Y aún así no hemos conocido a otros como tú.<ret><ret>Si sabes más de lo que nosotros sabemos y no nos lo quieres decir, estás en tu derecho de no decirlo. Pero si, como sospecho, te preguntas por qué extraño mundo deambulas y cual es tu lugar en él, necesitarás sabiduría, de la cual no tengo. Sólo un hombre puede ayudarte: mi antiguo gurú, Sadhu Vidya. No lo he visto en años, pero sé que vaga por el bosque, escogiendo árboles altos y fuertes para refugiarse. Cuando lo encuentres, comunícale mis agradecimientos por la sabiduría que en su día compartió conmigo.
+sadhu_intro_0_description_success=Que la Diosa te bendiga en tus viajes.
+sadhu_intro_0_description_refuse=El camino del descubrimiento propioes difícil, lo entiendo.
+sadhu_intro_1_label=Preséntate ante el Pandit
+sadhu_intro_1_description=¿Entonces, has encontrado a mi viejo gurú?
+sadhu_intro_1_description_success=¡Te ha honorado grandemente compartiendo su conocimiento contigo! Eres un hombre al cual los dioses le sonríen.
+sadhu_intro_1_description_refuse=Me quedaré aquí a rezar para que cambies de idea, $name.
+sadhu_intro_1_listing=Encuentra al Sadhu bajo un alto árbol en un bosque. Cuando lo hayas encontrado, díselo al sacerdote $startvillager_villagename$.
+
+sadhu_introwife_0_label=El Sadhu
+sadhu_introwife_0_description=$name, te conocemos desde hace mucho tiempo y sabes que confiamos en tí como si fueras uno de los nuestros, a pesar de no saber quien eras ni de donde venías. Al principio, creíamos que eras simplemente un hombre de una de las otras naciones que como nosotros había sido arrastrado aquí ese fatídico día en el que la Tierra se sacudió y acabamos en este extraño lugar, donde las estaciones nunca cambian y los ríos no tienen caudal; alguno de esos extraños hombres en sus pirámides de piedra o aquellos hombres de caras pálidas diestros en la fundición de hierro.<ret><ret>Pero te hemos observado por mucho tiempo y eres diferente. Pareces tener recuerdos de una tierra anterior, y prosperaste aquí como si fueras de este lugar. Y aún así no hemos conocido a otros como tú.<ret><ret>Si sabes más de lo que nosotros sabemos y no nos lo quieres decir, estás en tu derecho de no decirlo. Pero si, como sospecho, te preguntas por qué extraño mundo deambulas y cual es tu lugar en él, necesitarás sabiduría, de la cual no tengo. Sólo un hombre puede ayudarte: mi antiguo gurú, Sadhu Vidya. No lo he visto en años, pero sé que vaga por el bosque, escogiendo árboles altos y fuertes para refugiarse. Cuando lo encuentres, comunícale mis agradecimientos por la sabiduría que en su día compartió conmigo.
+sadhu_introwife_0_description_success=Que la Diosa te bendiga en tus viajes.
+sadhu_introwife_0_description_refuse=No deberías rechazar la ayuda de tan sagrado hombre.
+sadhu_introwife_1_label=Preséntate ante $startvillager_villagerrole$
+sadhu_introwife_1_description=Entonces, ¿has seguido el consejo del sacro hombre?
+sadhu_introwife_1_description_success=¡Te ha honorado gratamente al compartir sus conocimiento contigo! Eres un hombre al cual los Dioses le sonríen.
+sadhu_introwife_1_description_refuse=Me quedaré aquí a rogar para que cambies de parecer, $name.
+sadhu_introwife_1_listing=Encuentra al Sadhu bajo un alto árbol en el bosque. Cuando lo encuentres, díselo al sacerdote $startvillager_villagerrole$ de la aldea $startvillager_villagename$.
+
+sadhu_first_0_label=Iniciación
+sadhu_first_0_description=Te estaba esperando, $name. Los aldeanos me visitan en busca de consejos, y me han dicho muchas veces que hay un extraño sin pasado que hace amistad con las aldeas y parece estar como en casa en este salvaje mundo al que nos han enviado. Algún aldeano anciano ha de haberte dicho que yo respondería tus preguntas. No será tan sencillo. Mi conocimiento era grande en el viejo mundo en las orillas del Sagrado Ganges, pero aquí debo aprender todo de nuevo. Si buscas un Gurú, has venido en vano.<ret><ret>Sin embargo... Antes de retirarme a una vida de meditación, fui experto en el conocimiento del mundo natural. No existía planta alguna que no pudiera nombrar o usar, desde el Himalaya hasta las junglas en el sur. Y, mientras mi cuerpo a envejecido frágil, mi mente sigue aguda. Ayúdame a estudiar este mundo y tú también aprenderás. Pero ten cuidado: no todas las criaturas aquí son pacíficas, y creo que afrontaremos... obstáculos, mientras exploramos este mundo.
+sadhu_first_0_description_success=Ahora me pondré a meditar. Regresa más tarde para tu primera tarea.
+sadhu_first_0_description_refuse=Me quedaré aquí a rogar para que cambies de parecer, $name.
+
+sadhu_1_samples_0_label=Muestras botánicas
+sadhu_1_samples_0_description=Tu primera tarea será simple. Necesito recopilar una colección de los principales tipos de vegetación que se encuentran alrededor. Iría yo mismo, pero premetí quedarme cerca de este árbol por las próximas tres lunas llenas, así que serás tú quien realize esta tarea.
+sadhu_1_samples_0_description_success=Meditaré en tu ausencia.
+sadhu_1_samples_0_description_refuse=Me quedaré aquí y rezaré porque cambies de parecer, $name.
+sadhu_1_samples_1_label=Entregar muestras
+sadhu_1_samples_1_description=He rezado para obtener consejo mientras trabajabas.
+sadhu_1_samples_1_description_success=Estas muestras serán muy útiles. Le rezaré a la Diosa por ti, $name.<ret><ret>Veo también que consideraste esta tarea muy simple. Que sepas que ninguna tarea útil es indigna de ser hecha. Y que sepas también que veo venir trabajos más demandantes para ti en el futuro.<ret><ret>Regresa cuando hayas descansado un rato.
+sadhu_1_samples_1_description_refuse=Me quedaré aquí y rezaré porque cambies de parecer, $name.
+sadhu_1_samples_1_listing=Llévale de vuelta las muestras al Sadhu.
+
+
+sadhu_2_forest_0_label=Explorando el bosque
+sadhu_2_forest_0_description=Debemos estudiar los paisajes de este nuevo mundo. Comenzaremos por el bosque; Necesitarás abrir tu mente a este lugar y visitarlo por la noche. Comienza en el atardecer, y pasa toda la noche deambulando por él, observando.<ret><ret>No necesito recordarte que estar al aire libre cuando el Sol se pone es peligroso, pero los dioses te vigilarán. Llevar una espada puede ser una buena idea; he notado que guerreros bien equipados disfrutan de protección divina más efectiva.
+sadhu_2_forest_0_description_success=Meditaré en tu ausencia.
+sadhu_2_forest_0_description_refuse=Me quedare aquí y rezaré para que cambies tu pensar, $name.
+sadhu_2_forest_1_label=Reporta tus descubrimientos
+sadhu_2_forest_1_description=¿Cómo estuvo tu paseo nocturno? ¿Sientes que estás cerca de alguna revelación?
+sadhu_2_forest_1_description_success=¿Entonces dices que fue perturbador? Era de esperarse, y aun así pareces haber encontrado más obstáculos de los que la suerte sugería. Hay todavía mucho que no entendemos de este mundo. Dame tiempo para reflexionar en esto y regresa a verme.
+sadhu_2_forest_1_description_refuse=Me quedaré aquí y rezaré porque cambies de parecer, $name.
+sadhu_2_forest_1_listing=Explora el bosque en la noche como lo indicó el Sadhu.
+
+
+
+sadhu_3_pandit_0_label=Epopeya hindú
+sadhu_3_pandit_0_description=He reflexionado un largo tiempo sobre tus infortunios en el bosque, pero la iluminación me elude. Esas grotescas criaturas humanoides no son como nada que hubiera visto en nuestro mundo anterior, y no puedo entender el propósito de su existencia. Pero hay, sin embargo, relatos de demonios en hindú antiguo que pueden estar relacionados con ellos. Mi solitaria existencia me previene conservar pergaminos tan costosos, pero deberías poder encontrarlos en las aldeas indias.
+sadhu_3_pandit_0_description_success=Necesito mi propia librería... La vida de un sadhu tiene sus desventajas.
+sadhu_3_pandit_0_description_refuse=Me quedaré aquí y rezaré para que cambies de parecer, $name.
+sadhu_3_pandit_1_label=Trae los libros de vuelta
+sadhu_3_pandit_1_description=Rezé por largo tiempo en tu ausencia, $name. Espero que los hayas encontrados sin dificultades.
+sadhu_3_pandit_1_description_success=Te lo agradezco, $name. Necesito estudiar los libros por un tiempo. Ve y medita, vuelve cuando hayas encontrado la paz interior.
+sadhu_3_pandit_1_description_refuse=Me entristeces.
+sadhu_3_pandit_1_listing=Encuentra una aldea india que pueda prestarte los libros y llévaselos al Sadhu.
+
+sadhu_3b_pandit_0_label=Habla con el Pandit
+sadhu_3b_pandit_0_description=¿Entonces conociste al sabio Sadhu? ¡Has de estar honrado de trabajar con tan sacro hombre!<ret><ret>Por supuesto que le daré los libros que necesita de inmediato. Deberías leerlos tú también. Claro, sólo si estás lo suficientemente instruido para leer sánscrito.
+sadhu_3b_pandit_0_description_success=¡Y envíale mis respetos al sagrado Sadhu!
+sadhu_3b_pandit_0_description_refuse=¿Cómo te atreves a rechazar una tarea que te asignó el propio Sadhu en persona?
+
+sadhu_3b_wife_0_label=Habla con la $startvillager_villagerrole$
+sadhu_3b_wife_0_description=¿El Sadhu necesita la Gran Epopeya Hindú? ¡Es un honor dejarle la copia que tengo!
+sadhu_3b_wife_0_description_success=¡Y envíale mis respetos al sagrado Sadhu!
+sadhu_3b_wife_0_description_refuse=¿Cómo te atreves a rechazar una tarea que te asignó el propio Sadhu en persona?
+
+
+sadhu_4_desertb_0_label=Explorando el desierto
+sadhu_4_desertb_0_description=La Gran Epopeya es fuente de sabiduría, tanto en este mundo como en el viejo. Muchos grande héroes y dioses pelearon contra demonios en los viejos tiempos, y el conocimiento de su proeza seguro que te ayudará a protegerte del mal en este mundo. Creo que puedo usar este conocimiento para protegerte, pero necesito primero ayunar para purificarme.<ret><ret>Mientras me preparo, quiero que continúes con tu trabajo y recolectes información de los yermos de este mundo, donde los humanos raramente van. Quizás encuentres menos obstáculos allí. Ve y explora el primer desierto que encuentres así como exploraste el bosque.
+sadhu_4_desertb_0_description_success=Reflexionaré sobre tu progreso mientras no estás aquí.
+sadhu_4_desertb_0_description_refuse=Me quedaré aquí a rezar porque cambies de parecer, $name.
+sadhu_4_desertb_1_label=Reporta tus descubrimientos
+sadhu_4_desertb_1_description=Le confío a la Diosa tú seguridad durante tu exploración.
+sadhu_4_desertb_1_description_success= Tu descripción del desierto como "estéril" y "arenoso" hacen poco para aumentar nuestro conocimiento, $name. Pero es interesante que hayas notado una cantidad mayor de esqueletos andantes que anteriormente. La tierra misma parece reaccionar a la vez que la exploras.
+sadhu_4_desertb_1_description_refuse=Me quedaré aquí a rezar hasta que cambies de parecer, $name.
+sadhu_4_desertb_1_listing=Explora el desieto por la noche como lo indicó el Sadhu.
+
+sadhu_5_adivasi_0_label=Expertos en ciénagas
+sadhu_5_adivasi_0_description=$name, necesitamos continuar recolectando información de este mundo. Creo que las ciénagas son lugares particularmente imporatantes; parecen estar mucho más presentes de lo que las fuerzas naturales sugieren. Por suerte para tí, no hay necesidad de que las explores tú mismo. Hay personas cuyo conocimiento de ellas es incomparable: los granjeros adivasi. Ellos son pobres y menospreciados por los aldeanos, pero son observadores y pasan su vida metidos en las ciénagas. Encuentra a uno y pídele información. Diles que vienes de mi parte y te darán la bienvenida.
+sadhu_5_adivasi_0_description_success=No puedo darte la ubicación de sus tierras, pero busca en las ciénagas.
+sadhu_5_adivasi_0_description_refuse=Me quedaré aquí a rezar hasta que cambies de parecer, $name.
+sadhu_5_adivasi_1_label=Trae de vuelta las muestras
+sadhu_5_adivasi_1_description=¿Compartieron los adivasi sus conocimientos contigo?
+sadhu_5_adivasi_1_description_success=Excelente, serán muy útiles. ¿Te ha dicho de alguna actividad anormal en las ciénagas?
+sadhu_5_adivasi_1_description_refuse=Me entristeces.
+sadhu_5_adivasi_1_listing=Encuentra un granjero adivasi en una ciénaga y pídele información sobre las ciénagas. Regresa con el Sadhu después de eso.
+
+
+sadhu_5b_adivasib_0_label=Habla con el granjero
+sadhu_5b_adivasib_0_description=¿El Sadhu mismo me pide información? Pero sólo soy un pobre e ignorante hombre... No le puedo dar nada salvo unas humildes plantas que he recolectado...<ret><ret>Y ruego que aceptes esta comida, $name, por favor. Quienquiera que trabaje para el Sadhu debe ser una buena persona.
+sadhu_5b_adivasib_0_description_success=Espero que esto sea útil para él. Su sabiduría no conoce límites. 
+sadhu_5b_adivasib_0_description_refuse=¿Cómo puedes rechazar la sagrada tarea de ayudar al Sadhu?
+
+
+sadhu_6_enchantedsword_0_label=Arma Sagrada
+sadhu_6_enchantedsword_0_description=Las historias de los adivasi son oscuras, $name. Incluso con tu amuleto, ¿cómo puedes sentirte seguro explorando esta tierra cuando los demonios vagan libremente luego de la puesta del Sol? He leído de nuevo la Epopeya en tu ausencia, y siento que sé lo que necesitas: un arma sagrada que te proteja, algo poderoso y terrible como la poderosa Súdarshan Chakra empuñada por el mísimo Señor Vishnu. Pero aun luego de tres días de reflexión, mis meditaciones no dan respuestas. Siento que mi conocimiento me falla. $name, tu conexión con este mundo es mucho más grande que la mía, aunque no lo entendamos; ¿crees que podrías conseguir un sable sagrado para hacerle frente al mal?
+sadhu_6_enchantedsword_0_description_success=Qué los dioses te protejan, $name.
+sadhu_6_enchantedsword_0_description_refuse=Me quedaré aquí a rezar porque cambies de opinión, $name.
+sadhu_6_enchantedsword_1_label=Trae la espada encantada
+sadhu_6_enchantedsword_1_description=¿Así que $name, te han concedido un arma con la que pelear contra esas criaturas impías?
+sadhu_6_enchantedsword_1_description_success=Tal voluntad tienes, que no pediste un arma mágica a los dioses, ¡la forjaste tú mismo! Tu sabiduría innata me asusta, $name. A veces cuestiono si eres un simple humano. Déjame en paz. Necesito rezar para guiarme.
+sadhu_6_enchantedsword_1_listing=Muéstrale al Sadhu una espada encantada.
+sadhu_6_enchantedsword_1_description_refuse=Me quedaré aquí a rezar porque cambies de parecer, $name.
+
+sadhu_7_enchantmenttable_0_label=Miedo y conocimiento
+sadhu_7_enchantmenttable_0_description=Perdóname, amigo mío. No tuve la intención de echarte tan bruscamente, luego de todo lo que has hecho. No debí dejar que mi miedo me superara. Necesito entender tus poderes para no asustarme. ¿Me podrías enseñar como creaste esa espada tuya?
+sadhu_7_enchantmenttable_0_description_success=Te lo agradezco.
+sadhu_7_enchantmenttable_0_description_refuse=Espero que cambies de parecer, $name.
+sadhu_7_enchantmenttable_1_label=Muéstrale la mesa de hechizos al Sadhu
+sadhu_7_enchantmenttable_1_description=Entonces, ¿cómo lograste esta hazaña digna de un dios?
+sadhu_7_enchantmenttable_1_description_success=Una mesa de obsidiana y diamantes, libros llenos de palabras que no puedes descifrar, energía reunida de demonios muertos, y naturalmente sabes cómo hacer que todo funcione, como por instinto. Alguien te está guiando, $name. O un Dios o un Rey Demonio, no lo puedo saber.
+sadhu_7_enchantmenttable_1_listing=Construye una mesa de encantamientos y al menos una librería junto a ella a diez metros del árbol de Sadhu.
+sadhu_7_enchantmenttable_1_description_refuse=Me quedaré aquí a rezar porque cambies de parecer, $name.
+
+sadhu_8_mountain_0_label=Explorando montañas
+sadhu_8_mountain_0_description=Debo estudiar esta mesa que construiste y ver si puedo entender cómo funciona. Mientras hago esto, tengo una última exploración que necesito que hagas, $name. Necesito que estudies una cadena montañosa cercana. En mis meditaciones, casi puedo ver un patrón formándose, casi...
+sadhu_8_mountain_0_description_success=Reflexionaré sobre tus progresos mientras no estás.
+sadhu_8_mountain_0_description_refuse=Me quedaré aquí a rezar hasta que cambies de parecer, $name.
+sadhu_8_mountain_1_label=Informa sobre tus descubrimientos
+sadhu_8_mountain_1_description=Supongo que encontraste las montañas muy pacíficas bajo la luz de la Luna.
+sadhu_8_mountain_1_description_success= ¿Entonces esta vez fueron las arañas las que dificultaron tu travesía nocturna? Las he visto por la noche, asechando cerca de los árboles. ¿Pero qué significa esto? ¿Por qué están presentes en las montañas donde no encajan? Está es una señal preocupante, criaturas que no pertenecen al lugar por el cual vagan.
+sadhu_8_mountain_1_description_refuse=Me quedaré aquí a rezar hasta que cambies de parecer, $name.
+sadhu_8_mountain_1_listing=Explora una cadena montañosa por la noche como lo indicó el Sadhu.
+
+sadhu_9_underwater_0_label=La gran inmersión
+sadhu_9_underwater_0_description=Anoche la Diosa me habló susurrando "es más profundo de lo que ves". He pensado mucho, pero ahora sé a qué se refería: debemos explorar las profundidades del mar.
+sadhu_9_underwater_0_description_success=Sumérgete, amigo mío, y dime qué yace en las profundidades.
+sadhu_9_underwater_0_description_refuse=Me quedaré aquí y rezaré para que cambies de parecer, $name.
+sadhu_9_underwater_1_label=Informa sobre tus descubrimientos
+sadhu_9_underwater_1_description=¿Entonces qué es lo que yace allá, bajo las olas, qué debe ser visto?
+sadhu_9_underwater_1_description_success=¿Dices que tan profundo como fuiste, no hubo señales de ningún tipo de vida...? ¿Ni peces, ni niguna vida marina? Esto requerirá que reflexione mucho durante un tiempo.
+sadhu_9_underwater_1_description_refuse=Me quedaré a rezar hasta que cambies de paracer, $name.
+sadhu_9_underwater_1_listing=Sumérgete al menos 12 metros bajo la superficie del mar.
+
+sadhu_10_underwaterglass_0_label=Ventana en las profundidades
+sadhu_10_underwaterglass_0_description=He reflexionado mucho sobre tu reporte, $name. Quizás no viste lo suficientemente bien, en una de tus fugaces sumergidas. Necesito que regreses al mar y construyas una cámara de observación tan profunda como puedas, desde donde puedas estudiar las profundidades en paz.
+sadhu_10_underwaterglass_0_description_success=Sé que es un proyecto desafiante, pero confío en que la Diosa te inspire en su construcción.
+sadhu_10_underwaterglass_0_description_refuse=Me quedaré aquí a rezar porque cambies de parecer, $name.
+sadhu_10_underwaterglass_1_label=Reporta tus descubrimientos
+sadhu_10_underwaterglass_1_description=¿Qué has visto, donde ningún otro hombre ha visto antes?
+sadhu_10_underwaterglass_1_description_success=Entonces el fondo del mar es en verdad un lugar inhóspito, desprovisto de vida más allá de esos misteriosos calamares. Esto no puede ser... Ningún mar puede estar tan vacío, ¿y cómo pueden tan enormes animales sobrevivir sin ninguna presa? <ret><ret>Me has dado mucho en qué pensar, $name. Regresa luego y tal vez tenga algunas respuestas para ti.
+sadhu_10_underwaterglass_1_description_refuse=Me quedaré aquí a rezar porque cambies de parecer, $name.
+sadhu_10_underwaterglass_1_listing=Construye una cámara de observación con vidrio al menos 15 metros bajo la superficie.
+
+sadhu_11_pujas_0_label=Conocimientos y rituales
+sadhu_11_pujas_0_description=Mientras explorabas los mares, enfoqué todos mis pensamientos en ese misterio que me dejaste: la mesa de hechizos. He luchado para descifrar la escritura del libro y los secretos tras la construcción de la mesa en sí, y no pude entender nada. Pero la sabiduría vino en mis meditaciones: la mesa y el libro no importan. Un hombre práctico como tú los necesita, pues son un soporte material en el que enfocarse. Pero el poder no esta en ellos, está en tí y el mundo. Y hay otras formas de aprovecharlo.<ret><ret>Incluso creo que un aldeano pandit puede hacer lo mismo, con entrenamiento suficiente. Quiero que vayas a la aldea india más cercana y lleves este pergamino a su sacerdote. Con los cánticos que escribí en él, debería poder pedirle a los dioses que bendigan las herramientas que le des, siempre y cuando ofrezcas ofrendas apropiadas para las deidades.
+sadhu_11_pujas_0_description_success=No me atrevo a escribir cánticos de guerra, así que se limitará a bendecir sólo las herramientas, no las armas.
+sadhu_11_pujas_0_description_refuse=Me quedaré aquí a rezar porque cambies de parecer, $name.
+sadhu_11_pujas_1_label=Habla con el Sadhu
+sadhu_11_pujas_1_description=¿Leyó el sacerdote los cánticos?
+sadhu_11_pujas_1_description_success=Me alegra que funcionara. Esto será muy útil para ti, $name, y es reconfortante descubrir que podemos moldear este mundo de formas inesperadas.
+sadhu_11_pujas_1_description_refuse=Me quedaré aquí a rezar porque cambies de parecer, $name.
+sadhu_11_pujas_1_listing=Regresa con el Sadhu luego de hablar con el sacerdote.
+
+sadhu_11b_pandit_0_label=Habla con el pandit
+sadhu_11b_pandit_0_description=¿Por qué querría el Sadhu que cantase nuevos cánticos, cuando toda la sabiduría está en los antiguos? Si no fuera un hombre tan sagrado me preguntaría si no ha estado mucho tiempo en el bosque. Pero voy a realizar las puyás con esos cánticos si así lo quieres. Ven a verme al templo con tus ofrendas, mis honorarios y las herramientas que quieras bendecidas.
+sadhu_11b_pandit_0_description_success=No olvides mis honorarios, si quieres que realice puyás para tí.
+sadhu_11b_pandit_0_description_refuse=¿Cómo puedes rehusar la tarea que te dio tan sagrado hombre?
+
+sadhu_12_topandbottom_0_label=Límites del mundo
+sadhu_12_topandbottom_0_description=$name, hay un último desafío que necesito que hagas por mí. Sé por relatos de valientes aldeanos indios que este mundo es vasto, en los primeros años tras de la noche en llamas que nos trajo aquí, muchos jóvenes aldeanos indios viajaron por todas partes para encontrar costas conocidas de nuevo, en vano. Tampoco vieron montañas dignas de ese nombre, nada comparable al imponente Himalaya. He pensado mucho sobre eso, y se me ha venido a la mente algo: el cielo aquí luce tan alto como si estuviera sobre las planicies del Ganges, pero las nubes están siempre bajas, y nunca vemos criaturas encima de ellas. ¿Podría ser que todo lo que está arriba de ellas sea una ilusión? Necesitas ir y ver por ti mismo lo que hay encima de las nubes.
+sadhu_12_topandbottom_0_description_success=Puedes comenzar escalando las ramas de este venerable árbol si te ayuda a emprender tu tarea.
+sadhu_12_topandbottom_0_description_refuse=Me quedaré aquí y rezaré hasta que cambies de parecer, $name.
+sadhu_12_topandbottom_1_label=Reporta tus descubrimientos
+sadhu_12_topandbottom_1_description=¿Qué has visto desde tan alto sobre el suelo, $name?
+sadhu_12_topandbottom_1_description_success=Así que hay un límite, no más allá que la altura de noventa hombres sobre las aguas del mar... Si este mundo es una parodia del verdadero, ¿es el trabajo de un dios o un demonio? $name, debes confirmar este descubrimiento. Debes averiguar si el mundo es finito hacia abajo también, si este suelo en el que vivimos no es más que una rebanada de tierra flotando en la nada.
+sadhu_12_topandbottom_1_description_refuse=Me quedaré aquí y rezaré porque cambies de parecer, $name.
+sadhu_12_topandbottom_1_listing=Alcanza el punto más alto que puedas e informa de tus resultados al Sadhu.
+sadhu_12_topandbottom_2_label=Informa de tus descubrimientos
+sadhu_12_topandbottom_2_description=¿Qué encontraste debajo de la tierra mi loable explorador?
+sadhu_12_topandbottom_2_description_success=¿Así que encontraste rocas tan duras de romper que no pudiste seguir yendo más profundo? Y dices que esta era la altura de treinta hombres hacia abajo. Hay mucha simetría en juego aquí, $name. No puede ser, pero igualmente ocurre.<ret><ret>No tengo más trabajo para ti. Necesito pensar y meditar para ser guiado, hasta que pueda encontrarle sentido a todo esto. Regresa más tarde y te daré el resultado de mis descubrimientos, si el Señor Ganesha me inspira.
+sadhu_12_topandbottom_2_description_refuse=Me quedaré aquí y rezaré porque cambies de parecer, $name.
+sadhu_12_topandbottom_2_listing=Cava tan profundo como puedas e informa de los resultados al Sadhu.
+
+
+sadhu_13_conclusion_0_label=El Libro del Sadhu
+sadhu_13_conclusion_0_description=He ayunado y rezado para ser guiado, y los Dioses han susurrado algo de sabiduría a mis oídos. Pero no fui digno de descubrir la verdad, sólo entrever algunos aspectos de ella.<ret><ret>$name, estoy muy cansado para hablar ahora. He escrito mis descubrimientos en este pergamino. Tómalo y ten mis bendiciones en tu aventura en busca del conocimiento, no creo que pueda ser útil para tí por el momento. Quizás necesites más sabiduría de la que cualquier viejo sadhu pueda darte.
+sadhu_13_conclusion_0_description_success=Escribí este pergamino en la sagrada lengua sánscrita, la cual sólo algunos pandits dominan hoy en día. Pero por alguna razón sabría que tú la entenderías. La Diosa susurra en tu oído, aun incluso si no puedes oírla.
+sadhu_13_conclusion_0_description_refuse=Me quedaré con este libro hasta que cambies de parecer.
+
+sadhu_leadership_0_label=Liderazgo
+sadhu_leadership_0_description=He escuchado que ambicionas poder liderar un grupo de aldeanos indios para comenzar una nueva aldea. $name, después de todo lo que has hecho por mí, estoy convencido de tu honradez. Si así lo quieres, tienes mi bendición en este proyecto.
+sadhu_leadership_0_description_success=Rezaré por tu éxito. Buena suerte, $name.
+sadhu_leadership_0_description_refuse=¿Entonces prefieres enfocarte en la búsqueda de la verdad? Esa es una decisión sabia. Pero de cambiar de parecer, regresa a mí.
+
+
+

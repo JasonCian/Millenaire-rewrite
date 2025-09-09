@@ -1,0 +1,14 @@
+
+version:4.8.0
+<darkblue>Los Mayas
+Desde el Yucatán, los mayas se distinguen por su arquitectura de piedra con decoración de oro y viven en aldeas agrícolas, religiosas y militares. Hablan maya, pero el diálogo se traducirá mientras el jugador "aprende" a hablar su idioma con ellos.
+<darkblue>Objetos únicos y bloques
+-Cultivan maíz. El jugador puede pedir al jefe de la aldea que le enseñe cómo cultivar este cereal.
+-Cocinan tamales y masas de maíz y pollo - llenando tortillas.
+-Cultivan cacao y preparan cacauhaa de él, una bebida de chocolate vivificante.
+-La obsidiana artesanal produce armas y herramientas de obsidiana que son frágiles pero de fácil encantamiento.
+-Sus artesanos hacen bloques decorativos a partir de lingotes de oro suministrados por el jugador.
+-También tallan bajorrelieves que representan las deidades mayas.
+<darkblue>Recetas
+-Tres de maíz en una línea producen un wah (una especie de tortilla).
+-Dos de maíz en una línea con un pollo crudo en el medio producen una masa (tortilla con pollo).

@@ -1,0 +1,19 @@
+name=Saray
+weight=10
+radius=10
+
+mindistancefromspawn=1000
+
+//Vanilla biomes
+biome=Desert
+biome=DesertHills
+biome=Desert M
+biome=Savanna
+
+//biomes o'plenty
+biome=lush desert
+biome=outback
+biome=xeric shrubland
+
+//starting buildings=
+centre=deserttradeoutpost

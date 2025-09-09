@@ -1,0 +1,10 @@
+﻿version:3.4
+<darkblue>Širjenje vasi
+
+Vse vasi začjo kot zelo majhne okrog središčne stavbe (odvisno od kulture: utrdba, palača samostan, itd... pogosteje imenovana kot "mestna hiša"), z malo hišami ali drugimi stavbami okrog. Vaščanov glavni cilj je razširitev vas z izbiro novih stavb za izgradnjo in izboljšanje že zgrajenih stavb. Zato potrebujejo surovine - od teh nekaj pridelajo sami (gozdarjeva koča, kamnolomi...), ostale so odvisne od igralca. Materjal, ki ga potrebujejo za izgradnjo je prikazan na ploščah v glavni stavbi. Lahko jim pomagaš z prodajo teh surovin.
+
+Prebivalstvo v vasi se bo sčasoma zvečalo - ponoči imajo lahko poročeni vaščani otroke. Ko zrastejo, se preselijo v nove domove in postanejo odrasli.
+
+Širjenje vasi se konča na dva načina: ali ker so vse stavbe končane ali ker ni prostora. V drugem primeru lahko pogledaš na zemljevid vasi in pogledaš katera območja so ne zazidljiva. Včasih jih je mogoče narediti zazidljive, na primer z zasuvanjem jezera.
+
+Včasih vas potrebuje blok, ki ga nemoreš ustvariti sam, kot pri Normanih in Japoncih lesenii okvirji. Moraš počakati dokler vas ne zgradi delavnice in se notri ne naseli tesar.

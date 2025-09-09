@@ -1,0 +1,28 @@
+name=Autsituqpuq
+weight=1
+radius=5
+carriesraid=false
+
+mindistancefromspawn=420
+
+//Vanilla biomes
+
+biome=cold beach
+biome=stone beach
+//biome=sunflower plains
+biome=river
+biome=beach
+biome=mushroom island
+biome=mushroom island shore
+biome=desert
+biome=desert m
+biome=desert hills
+biome=plateau
+biome=ocean
+biome=deep ocean
+
+//biomes o'plenty
+//biome=?
+
+//starting buildings=
+centre=sanduit

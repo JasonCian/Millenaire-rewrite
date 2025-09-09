@@ -1,0 +1,24 @@
+marvel_norman_1_picklocation_0_description=$name, have you heard the inspiring news? A great architect from the lands of the Eastern Franks, the renowned Nicolas de Weilbourg, has been touring nearby villages to raise support for the construction of a great cathedral, a monument to our faith in this new and alien land! While not a Norman, he has learned much of our architecture ever since reaching Normandy in search of work worthy of his talents.<ret><ret>Nearby lords and me have been debating where this marvel should be built - they cannot seem to recognise that $startvillager_villagename$ is the only place worthy of such a monument. But maybe you could help us break this deadlock and scout a proper location acceptable to all parties?
+marvel_norman_1_picklocation_0_description_refuse=This saddens me greatly.
+marvel_norman_1_picklocation_0_description_success=Many thanks, $name. You will need a "wand of summoning" - we can sell you one if you do not yet own this powerful relic. When you have found a proper location, away from existing settlements and with ample free space, use it there to mark the spot chosen and come back to see me.
+marvel_norman_1_picklocation_0_label=A Godly Vision
+
+marvel_norman_2_generate_0_description=Ah, $name! Are you satisfied with the location you have chosen? I am impatient to see the great Nicolas at work!
+marvel_norman_2_generate_0_description_refuse=You are right, this is not a decision to take lightly. Come back when you are sure.
+marvel_norman_2_generate_0_description_success=This is certainly an excellent location. I am sure the Master will start work very soon.
+marvel_norman_2_generate_0_label=A Choice Location
+
+marvel_norman_3_searchhelp_0_description=$name, I am honoured to meet you finally. The spot you picked is an inspired location!<ret><ret>May I ask another favour of you? We are always in need of more contributions for the Marvel. The more villages commit to helping us, the faster we will gather resources and finish this great work - as you can see in our "donation" panel.<ret><ret>Would you be willing to take a pilgrim's stick and head out to every Norman village you can find and spread news of our work?
+marvel_norman_3_searchhelp_0_description_refuse=You are not a man of faith, $name.
+marvel_norman_3_searchhelp_0_description_success=Seek out the leaders of each village - they will surely be willing to do their duty to God and me.
+marvel_norman_3_searchhelp_0_label=Request for Help
+
+marvel_norman_4_gethelp_0_description=Welcome, $name!<ret><ret>We have heard news of a great cathedral being raised by a renowned architect, do you have any news of this?
+marvel_norman_4_gethelp_0_description_refuse=Unfortunate.
+marvel_norman_4_gethelp_0_description_success=Splendid! What an impressive work! $startvillager_villagename$ will be honoured to contribute to it. Be assured that we will send regular contributions to this great work from now on.
+marvel_norman_4_gethelp_0_label=Answering the Call
+
+marvel_norman_5_return_0_description=$name, we have received notifications that donations should arrive soon! This is going to greatly increase the speed at which we can build this great cathedral. I cannot thank you enough!
+marvel_norman_5_return_0_description_refuse=I was not asking for anything else!
+marvel_norman_5_return_0_description_success=Thanks again!
+marvel_norman_5_return_0_label=Report to the Architect

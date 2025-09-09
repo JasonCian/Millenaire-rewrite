@@ -1,0 +1,14 @@
+//Parameters for the building as a whole
+building.length=14
+building.width=18
+building.buildingorientation=3
+building.icon=sandstone
+
+building.startinggood=book,1.0,1,0
+building.startinggood=clothes_byz_wool,1.0,1,5
+building.startinggood=clothes_byz_silk,1.0,1,1
+
+//Parameters for initial construction
+initial.startlevel=-3
+initial.nativename=Archaío Théatro
+

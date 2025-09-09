@@ -1,0 +1,100 @@
+List of valid parameters for building files that applies for a specific upgrade with the 'initial' or 'upgradeX' prefixes.
+
+startlevel (integer value):
+Level from the ground where the building plan starts. 0 is just above ground level.
+Default value: 0
+
+nativename (string):
+Name of the building in the village's language.
+
+translatedname (translated string, with the format: 'fr,ferme'):
+Name of the building in a specified language. Used for library buildings.
+
+priority (integer value):
+Priority given to this building or upgrade for construction. Adjusted based on whether the building is core, secondary or extra.
+Default value: 1
+
+male (A villager type from the current culture. Multiple lines allowed.):
+A male villager that will populate this building.
+
+female (A villager type from the current culture. Multiple lines allowed.):
+A female villager that will populate this building.
+
+visitor (A villager type from the current culture. Multiple lines allowed.):
+A villager type that can temporarily visit this building.
+
+prioritymovein (integer value):
+Priority given to this building by teenagers moving in.
+Default value: 10
+
+subbuilding (string (multiple parameters possible)):
+Sub-building that can be constructed once the building reaches this level.
+
+pathlevel (integer value):
+Level of the path connected to this building.
+Default value: 0
+
+pathwidth (integer value):
+Width of the path to this building.
+Default value: 2
+
+rebuildpath (boolean):
+Rebuild the path to this building when the upgrade is complete. Use if the layout has changed.
+Default value: false
+
+nopathstobuilding (boolean):
+This building should not have paths leading to it.
+Default value: false
+
+exploretag (string (case-insensitive)):
+A tag to give the player when he is near this building. Used in some quests.
+
+requiredglobaltag (string (case-insensitive)):
+A global tag that must be set for this building or upgrade to be a valid construction.
+
+tag (string (case-insensitive, multiple parameters possible)):
+Tag to apply to the building. Either activates special behaviour (see provided list), or for use in quests, goal references etc.
+
+cleartag (string (case-insensitive, multiple parameters possible)):
+Tag to remove from the building.
+
+forbiddentaginvillage (string (case-insensitive, multiple parameters possible)):
+A tag that will stop this upgrade from being built if present on any village building. Used for instance to stop wall sections from getting upgraded to level 3 before the whole wall is level2.
+
+requiredtag (string (case-insensitive, multiple parameters possible)):
+A tag that must be set on this building for this building or upgrade to be a valid construction.
+
+villagetag (string (case-insensitive, multiple parameters possible)):
+A tag that get applied to the village/Town Hall on construction or on upgrade of this plan.
+
+requiredvillagetag (string (case-insensitive, multiple parameters possible)):
+A tag that must be set on this village's town hall for this building or upgrade to be a valid construction.
+
+parenttag (string (case-insensitive, multiple parameters possible)):
+A tag that get applied to the building's parent building on construction or on upgrade of this plan.
+
+requiredparenttags (string (case-insensitive, multiple parameters possible)):
+A tag that must be set on this building's parent building for this building or upgrade to be a valid construction.
+
+irrigation (integer value):
+Amount by which the building increases the village's irrigation level, boosting harvests.
+Default value: 0
+
+extrasimultaneousconstructions (integer value):
+Number of extra construction slots to activate in the village for regular buildings (not walls).
+Default value: 0
+
+extrasimultaneouswallconstructions (integer value):
+Number of extra construction slots to activate in the village for wall buildings.
+Default value: 0
+
+shop (A shop from the current culture.):
+The shop file this building uses to trade with the player.
+
+signs (list of integers: '1,2,3'):
+Order of the signs in the plan.
+
+abstractedproduction (item and number: 'bone,8'):
+An abstracted daily production of a good. Used to calculate marvel donations.
+
+

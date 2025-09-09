@@ -1,0 +1,25 @@
+//Parameters for the building as a whole
+building.length=13
+building.width=10
+building.buildingorientation=2
+building.icon=dye_brown
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Ka'kau' Makan
+initial.priority=800
+initial.male=mayan_cocoafarmer
+initial.female=mayan_peasantwife
+initial.tag=cacaofarm
+initial.tag=nopaths
+initial.shop=mayancocoa
+
+//Parameters for specific upgrades
+upgrade1.priority=80
+
+upgrade2.priority=75
+
+upgrade3.priority=70
+upgrade3.pathlevel=1
+

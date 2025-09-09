@@ -1,0 +1,38 @@
+List of tags for villager types that changes their behaviours.
+
+archer: This villager is able to use a bow, if present in his inventory.
+
+chief: The villager is a village chief. Allows use of the Chief UI.
+
+child: The villager is a child that will grow up into an adult villager.
+
+defensive: This villager will stop following a target if more than 20 blocks away.
+
+foreignmerchant: The villager is a foreign merchant that will appear in markets and disappear after a few days.
+
+helpinattacks: This villager will help defend his village against any attacks (raid, other players, mobs...).
+
+hidename: This villager's name should not be displayed above his head.
+
+hostile: This villager will attack the player unprovoked. Used for bandits and similar mobs.
+
+localmerchant: The villager is a local merchant that will travel from village to village.
+
+meditates: The villager provides the 'meditation' service unlocked by the Indian CQ quest.
+
+noleafclearing: This villager cannot clear leaves when they are blocking his path. Used for villagers living in buildings with decorative leaves.
+
+noresurrect: This villager should never be resurrected. Used for some quest opponents.
+
+noteleport: This villager cannot teleport if stuck. Used to prevent bandits and similar villagers from teleporting straight into enemy bases.
+
+performssacrifices: The villager provides the 'sacrifices' service unlocked by the Maya CQ quest.
+
+raider: This villager can take part in raids organised by his village.
+
+seller: The villager is a seller. Will come to see the player when he visits a shop, and will open the trade UI when interacted with.
+
+showhealth: This villager's health should be displayed above his head, even if not hired by the player.
+
+visitor: The villager is a visitor to the village, that should not be counted in population listings etc (like merchants).
+

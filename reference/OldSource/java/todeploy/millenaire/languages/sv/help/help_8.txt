@@ -1,0 +1,13 @@
+﻿version:3.4
+<darkblue>Normanerna
+
+De var den första kulturen som introducerades i Millenaire, Normanerna har det största antalet olika byar - jordbruk, militär, religös och industriel inriktning, samt större byar som har tre mindre byar runt sig. Normanerna pratar franska i spelet, men deras menigar blir mer och mer översatta ju mer spelaren "lär" sig att prata deras språk. 
+
+<darkblue>Unika saker och block
+
+Normanerna har många unika saker:
+-Normanska verktyg, som är mer effektiva än diamant (De görs av en smed)
+-Normanska svärd och rustning, som görs i vapenförrådet och är bättre än diamant
+-Boudin, tripes, calvados och cider, mat som direkt återställer spelarens hälsa.
+-Trä ramar, är ett byggnads block i två olika varianter som mest används för att bygga advancerade byggnader, Görs bara av en snickare.
+-Normanska tapeter, Görs av damen i slottet av ull (två vita, en grå, en ljus grå, en svart, en brun) och avbildar olika utdrag från Bayeux tapeter.

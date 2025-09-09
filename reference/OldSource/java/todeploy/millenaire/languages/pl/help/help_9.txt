@@ -1,0 +1,12 @@
+
+Wersja 3.4
+<darkblue> Hindusi
+Pochodzący z północy półwyspu Indyjskiego, żyją w trzech typach wiosek: Wojskowych, otaczających fort na wzgórzu, rolniczych zbudowanych wokoło domu naczelnika, a także wokół pałacu królewskiego, wokoło którego występuje także dodatkowe dwie wioski. Mówią po Hindusku, ale ich języka można się "nauczyć" poprzez handel.
+<darkblue> Unikalne przedmioty i bloki.
+- Hindusi uprawiają ryż i kurkumę. Gracz może nauczyć się wodza wioski jak sadzić te rośliny.
+- Gliniane cegły i wypalone cegły, tworzone poprzez wystawianie mokrych cegieł na słońcu. Tworzone są za pomocą formy na cegły (do kupna w wiosce.)
+- Hinduskie Płaskorzeźby, przedstawiające bóstwa.
+- Przepyszną rasgullę, deser tworzony z trzciny cukrowej.
+<darkblue> Specyficzne receptury (bezkształtne)
+- Ryż i kurkuma tworzą wegetariańskie curry.
+- Ryż, kurkuma i kurczak tworzą curry murgh.

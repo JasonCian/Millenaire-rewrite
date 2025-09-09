@@ -1,0 +1,27 @@
+native_name=Apprenti alchimiste
+gender=male
+familyNameList=family_names
+firstNameList=men_names
+icon=bottle
+
+travelbook_held_item=netherwart
+travelbook_held_item_off_hand=bottle
+
+texture=textures/entity/norman/special/alchemistapprentice.png
+
+goal=gorest
+goal=gosocialise
+goal=chat
+goal=goDrinkCider
+goal=makeglassbottles
+goal=harvestwarts
+goal=plantwarts
+goal=brewpotions
+goal=getGoodsHousehold
+goal=deliverGoodsHousehold
+
+
+requiredGood=glass,32
+
+experiencegiven=2
+tag=helpInAttacks

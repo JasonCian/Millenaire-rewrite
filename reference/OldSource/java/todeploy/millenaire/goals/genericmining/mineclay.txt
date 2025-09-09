@@ -1,0 +1,13 @@
+priority=30
+priorityrandom=10
+
+
+villagelimit=clay,256
+
+sourceblockstate=minecraft:clay
+
+loot=clay,1
+
+sentencekey=mining
+
+range=4

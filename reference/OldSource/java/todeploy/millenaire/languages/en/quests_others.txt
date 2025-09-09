@@ -1,0 +1,338 @@
+//normanbasic:
+
+guardwife_0_label=Husband's lunch
+guardwife_0_description=My husband $guard_villagername$ the guard is starving and I forgot to pack food for him! Could you please take him this boudin?
+guardwife_0_description_success=Thank you my good man!
+guardwife_0_description_refuse=You are really not the helpful kind.
+guardwife_1_label=Hungry!
+guardwife_1_description=My wife forgot my meal again! Ah, women!
+guardwife_1_description_success=That was awfully kind of you.
+guardwife_1_description_refuse=Never trust a stranger.
+guardwife_1_description_timeup=You did not deliver the meal on time. The villagers of $guard_villagename$ won't forget.
+guardwife_1_listing=Give his lunch to $guard_villagername$ in village $guard_villagename$.
+
+lumbermancider_0_label=Thirsty!
+lumbermancider_0_description=Chopping wood is such hard work... If only someone would bring me a bottle of cider!
+lumbermancider_0_description_success=Ah, I needed that! Thank you so much, my good man!
+lumbermancider_0_description_refuse=Don't count on me next time you need some wood!
+
+lonelumbermancalva_0_label=Alcohol needed!
+lonelumbermancalva_0_description=It's freezing cold in this horrible forest and I can't even find apples to make calva with! I would kill for a few bottles!
+lonelumbermancalva_0_description_success=Incredible! Let's have a glass to celebrate!
+lonelumbermancalva_0_description_refuse=One visitor a year, and he doesn't even have a bottle to share.
+
+loneminerfood_0_label=I need a real meal
+loneminerfood_0_description=It's been months since I've had a real, proper meal. I hate being stuck here mining and eating stale bread!
+loneminerfood_0_description_success=Now that was a proper Norman meal!
+loneminerfood_0_description_refuse=Well, back to bread then.
+
+knightstonedelivery_0_label=Stone needed
+knightstonedelivery_0_description=$name, I need more stone for the defence of $startvillager_villagename$! $miner_villagername$, who works in the hills around $miner_distance$ to the $miner_direction$, had promised me a large batch but never sent anything. Would you check what he is doing?
+knightstonedelivery_0_description_success=Have a good journey!
+knightstonedelivery_0_description_refuse=Well, I'll send one of my own men then.
+knightstonedelivery_1_label=Stone collection
+knightstonedelivery_1_description=Ah yes, the stones for $startvillager_villagename$! I was just about to ship them. I hope you have space, there are four full stacks.
+knightstonedelivery_1_description_success=I'll get back to mining then.
+knightstonedelivery_1_description_refuse=Why come all that way to tell me this...
+knightstonedelivery_1_description_timeup=You did not find $miner_villagername$ in time.
+knightstonedelivery_1_listing=Go see the miner $miner_villagername$, who lives $startvillager_miner_distanceshort$ to the $startvillager_miner_direction$ of $startvillager_villagename$, to enquire about $startvillager_villagername$'s stones.
+knightstonedelivery_2_label=Stone delivery
+knightstonedelivery_2_description=You have the stones? Perfect! Your service to the Norman crown will not be forgotten.
+knightstonedelivery_2_description_success=You have my gratitude.
+knightstonedelivery_2_description_refuse=Treason! Be happy you are not dead already.
+knightstonedelivery_2_description_timeup=You did not return the stones to $startvillager_villagername$ in time.
+knightstonedelivery_2_listing=Return to $startvillager_villagename$ with the stones for $startvillager_villagername$.
+
+abbotbooksdelivery_0_label=Letter to send
+abbotbooksdelivery_0_description=My son $name, it is good to see you. I have great need of some precious books for my research, kept in the remote monastery of $loneabbot_villagename$. Would you be kind to an old man and request them from my old friend Abbot $loneabbot_villagername$? I will write you a letter of introduction. You will find his monastery around $loneabbot_distance$ to the $loneabbot_direction$.
+abbotbooksdelivery_0_description_success=God be with you on your travels.
+abbotbooksdelivery_0_description_refuse=Young men are so unhelpful.
+abbotbooksdelivery_1_label=Deliver letter
+abbotbooksdelivery_1_description=A letter from my old friend Father $startvillager_villagername$? Excellent! Of course, I can spare him those books. Convey my best wishes to him, my son.
+abbotbooksdelivery_1_description_success=Save travels, my son.
+abbotbooksdelivery_1_description_refuse=God will have to find an other way then.
+abbotbooksdelivery_1_description_timeup=You did not deliver the letter to $loneabbot_villagername$ in time.
+abbotbooksdelivery_1_listing=Deliver the letter from $startvillager_villagername$ to Abbot $loneabbot_villagername$. His abbey is $startvillager_loneabbot_distanceshort$ to the $startvillager_loneabbot_direction$ of $startvillager_villagename$.
+abbotbooksdelivery_2_label=Deliver books
+abbotbooksdelivery_2_description=My books! You have been swift, my son! You will get your true reward in another world, but please accept this small token of gratitude in the meantime.
+abbotbooksdelivery_2_description_success=God be with you.
+abbotbooksdelivery_2_description_refuse=Why come back all this way to taunt me with those, my son?
+abbotbooksdelivery_2_description_timeup=You did not return the books to $startvillager_villagername$ in time.
+abbotbooksdelivery_2_listing=Deliver the books from $loneabbot_villagename$ to Abbot $startvillager_villagername$ of $startvillager_villagername$.
+
+//hindibasic:
+
+rajadiamondsword_0_label=Confidential mission
+rajadiamondsword_0_description=Namaste, $name. You have shown yourself to be a friend of $startvillager_villagename$, and I have a need of someone trustworthy for a special mission. General $general_villagername$ has proven himself a loyal and competent soldier, and it is time to reward him. Would you take this priceless diamond sword to him, in his fortress of $general_villagename$, $general_distance$ to the $general_direction$ from here?
+rajadiamondsword_0_description_success=Protect this sword with your life!
+rajadiamondsword_0_description_refuse=We will not forget this.
+rajadiamondsword_1_label=Deliver sword
+rajadiamondsword_1_description=What have you come here for, stranger?
+rajadiamondsword_1_description_success=His Highness $startvillager_villagername$ honours me! He is a great ruler. You have my thanks, and his.
+rajadiamondsword_1_description_refuse=Honourless thief!
+rajadiamondsword_1_description_timeup=You did not deliver the sword to $general_villagername$ in time. The Raja and him are furious with you.
+rajadiamondsword_1_listing=Deliver the diamond sword to $general_villagername$ in his fort of $general_villagename$.
+
+adivasifarmdelivery_0_label=Delivery needed
+adivasifarmdelivery_0_description=We have just rice and turmeric that we grow ourself here, it is a tough life... Would you help us poor people? A farmer in the village of $peasant_villagername$ is willing to barter our products for meat and rasgulla. If you could take those goods to his village of $peasant_villagename$, we would be very grateful. It's around $peasant_distance$ to the $peasant_direction$ from here.
+adivasifarmdelivery_0_description_success=Shukriya, my friend
+adivasifarmdelivery_0_description_refuse=Nobody helps the poor...
+adivasifarmdelivery_1_label=Deliver crops
+adivasifarmdelivery_1_description=Ah, you are coming from $startvillager_villagername$? Yes, I have some goods for him. I'll go get them.
+adivasifarmdelivery_1_description_success=Remember: the farm is $startvillager_distanceshort$ to the $startvillager_direction$.
+adivasifarmdelivery_1_description_refuse=Well, tough luck for him then.
+adivasifarmdelivery_1_description_timeup=You did not deliver the goods to $peasant_villagername$ in time.
+adivasifarmdelivery_1_listing=Go to $peasant_villagename$ deliver the goods from the adivasi farm to $peasant_villagername$.
+adivasifarmdelivery_2_label=Deliver goods
+adivasifarmdelivery_2_description=Shukriya, $name! Those goods are most welcome! I hope $peasant_villagername$ received you well?
+adivasifarmdelivery_2_description_success=May the goddess bless you.
+adivasifarmdelivery_2_description_refuse=Stealing from poor people is no glorious feat.
+adivasifarmdelivery_2_description_timeup=You did not return the goods to $startvillager_villagername in time.
+adivasifarmdelivery_2_listing=Deliver the goods from $peasant_villagename$ to $startvillager_villagername$'s farm, $peasant_startvillager_direction$ to the $peasant_startvillager_distance$ of $peasant_villagename$.
+
+traderdiamonds_0_label=Jewel delivery
+traderdiamonds_0_description=Namaste, $name. I have heard you are trustworthy and a friend of us Indians, and I have a valuable delivery to make. The lovely Rani $rani_villagername$ of $rani_villagename$ has ordered priceless gems from me for some new jewellery. Would you deliver them to her palace? It's $rani_distance$ to the $rani_direction$ from here. You can keep two of the gems as a reward.
+traderdiamonds_0_description_success=Do not show anyone else those diamonds! I don't want them getting stolen.
+traderdiamonds_0_description_refuse=Too dangerous for you, I believe?
+traderdiamonds_1_label=Deliver diamonds
+traderdiamonds_1_description=At last. I was getting impatient. $startvillager_villagername$ wouldn't like to see me angry.
+traderdiamonds_1_description_success=I shall go and try those out!
+traderdiamonds_1_description_refuse=You will end up crushed by one of the Raja's elephants!
+traderdiamonds_1_description_timeup=You did not deliver the diamonds to Rani $rani_villagername$ in time. Your standing amongst Indian villages is much lowered.
+traderdiamonds_1_listing=Deliver the diamonds from the trader $startvillager_villagername$ to Rani $rani_villagername$ of $rani_villagename$.
+
+//mystery basic:
+
+normanrasgullas_0_label=Sick Child
+normanrasgullas_0_description=My son $child_villagername$ has been pale lately. He claims he cannot eat one more mouthful of boudin or tripes! Would you have anything to suggest? You look well-travelled.
+normanrasgullas_0_description_success=That sweet is delicious! I think I'll eat it myself.
+normanrasgullas_0_description_refuse=I'll try calva. After that everything works.
+
+mayanlumbermanaxe_0_label=Frustrated Lumberman
+mayanlumbermanaxe_0_description=This axe is useless. Why is no Maya artisan capable of making a really good axe? I would be so much more productive with decent tools!
+mayanlumbermanaxe_0_description_success=That axe feels magical! Was it made by a God?
+mayanlumbermanaxe_0_description_refuse=Back to work then.
+
+losttapestry_0_label=Lost Tapestry
+losttapestry_0_description=Hello $name! I found a tapestry lying in the fields. Can you find whom it belongs to?
+losttapestry_0_description_success=Thank you $name!
+losttapestry_0_description_refuse=You are horrible! I'm telling my mother on you!
+losttapestry_1_label=Missing Tapestry
+losttapestry_1_description=I have lost a tapestry! Has nobody seen it?
+losttapestry_1_description_success=Thank you for finding it.
+losttapestry_1_description_refuse=You're hiding something, I know it.
+losttapestry_1_listing=Find to whom the tapestry belongs.
+
+spiders_0_label=Missing Friend
+spiders_0_description=A friend of mine named $miner_villagername$ usually visits me at the same time every day. The strange thing is that he hasn't been by today at all -- he's several hours late, in fact. I admit, I am a little worried, $name. $miner_villagername$ spends a lot of time over by the mine, and I'm sure you know how dangerous it is there. If you happen to be going that way, though, will you keep an eye out for him?
+spiders_0_description_success=Thank you my friend!
+spiders_0_description_refuse=I'm sure he will turn up somewhere.
+spiders_1_label=I'm so glad you found me.
+spiders_1_description=Ughhh... A spider bit me very badly while I was exploring the cave very close to here. I am sure I have been seriously poisoned; you must help me. Please tell my wife $wife_villagername$. She will be able to help me.
+spiders_1_description_success=Hurry... I'm so dizzy... 
+spiders_1_description_refuse=You can't just leave me here! Urghh.
+spiders_1_listing=Find $miner_villagername$ over by the mine.
+spiders_2_label=Making the antidote.
+spiders_2_description=There is no time to lose to save my husband! I know of an antidote that should help with the poison. It requires some ingredients, though, before I can make it. I'll need two brown mushrooms, two red mushrooms, and some squid ink.
+spiders_2_description_success=Speed be with you, $name.
+spiders_2_description_refuse=Fine, I'll take it myself!
+spiders_2_listing=Ask $wife_villagername$ for an antidote.
+spiders_3_label=$miner_villagername$'s Antidote
+spiders_3_description=Bring $miner_villagername$'s Antidote to $miner_villagername$ before the time limit is up.
+spiders_3_description_success=Oh, I knew $wife_villagername$ would be able to help me! <$miner_villagername$ drinks the antidote.> I'm always getting into trouble and $wife_villagername$, well, she always manages to help me out of it. 
+spiders_3_description_refuse=Do you want me to die?
+spiders_3_description_timeup=You did not bring $miner_villagername$'s Antidote to $miner_villagername$ in time.
+spiders_3_listing=Take $miner_villagername$'s Antidote to $miner_villagername$.
+
+findtheegg_0_label=Find the eggs
+findtheegg_0_description=There are too many chickens around here!. To stop them breeding we need to collect their eggs... Would you help?
+findtheegg_0_description_success=Very good, $name. I will be sending this egg home where I hope it will soon hatch! Please accept this as a symbol of my gratitude.
+findtheegg_0_description_refuse=Come back when you have more eggs for me!
+
+feathercrafter_0_label=More feathers
+feathercrafter_0_description=My wife makes pillows for us poor folk. To make them we need lots and lots of feathers. Would you have any you could spare?
+feathercrafter_0_description_success=Very good, $name. I will be giving these to my wife. You have my thanks.
+feathercrafter_0_description_refuse=Back to the wooden pillow then.
+
+watersample_0_label=Strange reports
+watersample_0_description=My wife has received reports from the villagers that the water from the well is making our kids unwell. Take this bucket and return a sample of water to me.
+watersample_0_description_success=Hurry... before other kids become ill.
+watersample_0_description_refuse=I must warn you, what I ask of you next will be very dangerous.
+watersample_1_label=Water sample
+watersample_1_description=Did you bring the water sample ?
+watersample_1_description_success=Thank you! This will help me find the source of our problems.
+watersample_1_description_refuse=I must warn you, the next time you want help it's going to cost you, $name!
+watersample_1_description_timeup=You did not bring $startvillager_villagername$'s water sample to him in time.
+watersample_1_listing=$startvillager_villagername$ at $startvillager_villagename$ wants you to bring him a water sample.
+
+lordssword_0_label=Broken Sword
+lordssword_0_description=My husband $knight_villagername$ has broken his sword again! Could you please give this new sword to him?
+lordssword_0_description_success=Thank you my good man!
+lordssword_0_description_refuse=You are really not the helpful kind.
+lordssword_1_label=Lost Sword
+lordssword_1_description=My wife $startvillager_villagename$ has a sword for me. Did you bring it?
+lordssword_1_description_success=Thank you, you have saved the day again.
+lordssword_1_description_refuse=How do you expect me to help you fight if I don't have a sword?
+lordssword_1_description_timeup=You did not deliver the sword on time to $knight_villagername$. The villagers will never forget.
+lordssword_1_listing=$startvillager_villagername$ at $startvillager_villagename$ wants you to bring him his new sword.
+
+sweettrader_0_label=Cousin's birthday
+sweettrader_0_description=My young cousin $girl_villagername$ has her birthday today. Will you take this cake to her please?
+sweettrader_0_description_success=Thank you for your help.
+sweettrader_0_description_refuse=That's not very nice of you!
+sweettrader_1_label=[Deliver cake]
+sweettrader_1_description=Nobody is celebrating my birthday...
+sweettrader_1_description_success=Thank you! Thank you! Thank you!
+sweettrader_1_description_refuse=Nobody likes me.
+sweettrader_1_listing=Deliver a cake to $girl_villagername$ at $startvillager_villagename$ for her birthday.
+
+fishingfrenzy_0_label=Fishing Frenzy
+fishingfrenzy_0_description=Hello there, my name is $startvillager_villagername$. Fishing is time consuming work, and I don't know if I will be able to meet my quota for today. Do you think I could get you to help me?
+fishingfrenzy_0_description_success=Thank you, four raw fish should be enough. Return them to my wife, she will repay you.
+fishingfrenzy_0_description_refuse=I understand, we are all busy now days.
+fishingfrenzy_1_label=Fishing Frenzy
+fishingfrenzy_1_description=Ah you must be the traveller $startvillager_villagername$ told me about. Have you caught the fish?
+fishingfrenzy_1_description_success=Wonderful, these are fine looking fish. The rest of the village shall be thankful as well.
+fishingfrenzy_1_description_refuse=Not an apt fisher eh? Oh well, you may still be useful for something.
+fishingfrenzy_1_description_timeup=You could not catch the fish in time. The villagers of $startvillager_villagename$ have noted your disgrace.
+fishingfrenzy_1_listing=Catch four fishes and bring them to $wife_villagername$
+
+poems_0_label=Writing Poems
+poems_0_description=Could you help me, $name?<ret>I am missing my friends and family in the capital. We always enjoy writing poems and letters to each other. I hope for the day when we can write to each others again. When that day comes, I would like to be prepared.<ret>Could you gather some bits and pieces for me?
+I would need ten papers and two each of black, yellow and red dyes.
+poems_0_description_success=Arigatou gozaimasu! Thank you very much!<ret>You are honourable to help me like this. Here is my grateful reward.
+poems_0_description_refuse=I will write a poem on the selfishness of men.
+
+startingtrader_0_label=Aspiring Trader
+startingtrader_0_description=Hey! Are you a trader...? Looking for a good deal? <ret>It's hard making a living being a trader. Buy it low and sell it high. Hahaha!<ret>And yet, a farmer gets more respect than me. But I have new plans to trade with other villages, dealing in luxury goods! I just lack a starting stock.<ret><ret>I would need two diamonds and eight gold bars. Could you sell me that?
+startingtrader_0_description_success=Good, very good... This will work nice for my plans. Doumo arigatou! Many thanks!
+startingtrader_0_description_refuse=You have no talent for trade!
+
+architectwife_0_label=Husband's lunch
+architectwife_0_description=My husband $architect_villagername$ the architect is starving and I forgot to pack food for him! Could you please take him this fish?
+architectwife_0_description_success=Thank you my good man!
+architectwife_0_description_refuse=You are really not the helpful kind.
+architectwife_1_label=Hungry!
+architectwife_1_description=My wife forgot my meal again! Ah, women!
+architectwife_1_description_success=That was awfully kind of you.
+architectwife_1_description_refuse=Never trust a stranger.
+architectwife_1_description_timeup=You did not deliver the meal on time. The villagers of $architect_villagename$ won't forget.
+architectwife_1_listing=Give $architect_villagername$ in village $architect_villagename$ his lunch.
+
+lumbermanwine_0_label=Thirsty!
+lumbermanwine_0_description=Chopping wood is such hard work... If only someone would bring me a bottle of wine!
+lumbermanwine_0_description_success=Ah, I needed that! Thank you so much, my good man!
+lumbermanwine_0_description_refuse=Don't count on me next time you need some wood!
+
+thehunt_0_label=The Hunt
+thehunt_0_description=Hey, you! Our hunters are wanting to go on a Hunt in order to replenish supplies but we are low on materials, can you help us out?
+thehunt_0_description_success=Thank you, for our Hunt we are short about 4 bows and 8 leather, can you get us those?
+thehunt_0_description_refuse=I guess we will have to do without.
+thehunt_1_label=Return With the Spoils
+thehunt_1_description=How was the hunt?
+thehunt_1_description_success=Ah! Wonderful! We're very thankful that you decided to help us out. Our hunters will be able to bring back a feast!
+thehunt_1_description_refuse=That's disappointing, but I suppose you might get better in time.
+thehunt_1_description_timeup=You could not aid the community in time. The villagers of $startvillager_villagename$ have noted your disgrace.
+thehunt_1_listing=Give $startvillager_villagername$ 4 bows and 8 leather so they can start the Hunt.
+
+enderhunt_0_label=The Shadow-People
+enderhunt_0_description=Brave warrior, we've noticed an unusually high number of what we believe are Shadow-People rightfully cursed by Sedna. They are of course very strong and hard to defend against but we've seen they drop these strange orbs when we defeat them, can you help us collect these?
+enderhunt_0_description_success=Wonderful! Get right on it, we're counting on you. We've heard locals of this world call them, "Endermen." Bring me back 6 of their orbs so we can further study them.
+enderhunt_0_description_refuse=You're going to leave us out here to fend for ourselves?! We'll surely die!
+enderhunt_1_label=Return With the Spoils
+enderhunt_1_description=Have you dispelled a few of them?
+enderhunt_1_description_success=Sedna be praised, these orbs have very unusual properties to study, I may need more of these orbs later.
+enderhunt_1_description_refuse=This isn't enough orbs, but I guess you tried at least.
+enderhunt_1_description_timeup=You didn't kill enough Shadow-People in time. Our village of $startvillager_villagename$ grieves at our eventual defeat to them.
+enderhunt_1_listing=Kill enough Endermen to get 6 Ender Pearls and bring them back to $startvillager_villagername$.
+
+enderhunt0_0_label=The Shadow-People
+enderhunt0_0_description=Brave warrior, we've noticed an unusually high number of what we believe are Shadow-People rightfully cursed by Sedna. They are of course very strong and hard to defend against but we've seen they drop these strange orbs when we defeat them, can you help us collect these?
+enderhunt0_0_description_success=Wonderful! Get right on it, we're counting on you. We've heard locals of this world call them, "Endermen." Bring me back 6 of their orbs so we can further study them.
+enderhunt0_0_description_refuse=You're going to leave us out here to fend for ourselves?! We'll surely die!
+enderhunt0_1_label=Return With the Spoils
+enderhunt0_1_description=Have you dispelled a few of them?
+enderhunt0_1_description_success=Sedna be praised, these orbs have very unusual properties to study, I may need more of these orbs later.
+enderhunt0_1_description_refuse=This isn't enough orbs, but I guess you tried at least.
+enderhunt0_1_description_timeup=You didn't kill enough Shadow-People in time. Our village of $startvillager_villagename$ grieves at our eventual defeat to them.
+enderhunt0_1_listing=Kill enough Endermen to get 6 Ender Pearls and bring them back to $startvillager_villagername$.
+
+bonefetch_0_label=Fetch
+bonefetch_0_description=I was playing with a rabbit skull, but mommy took it away from me! Can you talk to her and get it back?
+bonefetch_0_description_success=Thanks!
+bonefetch_0_description_refuse=You're a big meanie!
+bonefetch_1_label=Talk to Her Mother
+bonefetch_1_description=She wants to play with the skull? I took it away because we need it for dinner. Go tell her she's not getting it back.
+bonefetch_1_description_success=She'll understand.
+bonefetch_1_description_refuse=I don't understand, why won't you help?
+bonefetch_2_label=Talk to the Girl
+bonefetch_2_description=Waa! She won't give it back!? Well, go find me a new toy to play with!
+bonefetch_2_description_success=Maybe some bones?
+bonefetch_2_description_refuse=Waaa!!!!!
+bonefetch_3_label=Hand Her the Bones
+bonefetch_3_description=Yay! More toys!
+bonefetch_3_description_success=You're the best! Bones are so much fun!
+bonefetch_3_description_refuse=You're a big meanie!
+bonefetch_3_description_timeup=You didn't give the girl 2 bones you promised. The villagers of $startvillager_villagername$ are a little disappointed in you.
+bonefetch_3_listing=Give $startvillager_villagername$ 2 skeleton bones.
+
+potatofarm_0_label=Masu Farming
+potatofarm_0_description=Hello friend, have you heard of this unusual thing called farming? This land is so blessed that the ground produces food with just a little work! Have what I hear is called a potato and try for yourself.
+potatofarm_0_description_success=That's great, you won't be disappointed it makes so much food! Bring me back just 8 of those potatos you grow though, I want to try making a stew out of them!
+potatofarm_0_description_refuse=That is fine I guess, farming must just be too hard for you to understand.
+potatofarm_1_label=Return With the Spoils
+potatofarm_1_description=My mouth is watering at the thought of potato stew, have you had success in this... farming thing?
+potatofarm_1_description_success=Great! This is enough to make enough so you can have some too!
+potatofarm_1_description_refuse=Oh no, this isn't enough. Do you need me to explain farming?
+potatofarm_1_description_timeup=The seasons have changed and I am assured that that is bad for farming. Maybe you can try again another time.
+potatofarm_1_listing=Grow 8 potatos and give them to $startvillager_villagername$ for a tasty stew.
+
+//Seljuk Basic: 
+ayranpidesoldier_0_label=Soldiers's Lunch
+ayranpidesoldier_0_description=It is finally time for lunch break, but I forgot to bring my lunch with me... Could you please bring me a pide and an ayran?
+ayranpidesoldier_0_description_success=Thank you. I can go back to work now and finish my morning patrol.
+ayranpidesoldier_0_description_refuse=That's alright. I must be strong and endure this hunger.
+
+cottonweaver_0_label=Cotton Harvest
+cottonweaver_0_description=Hello $name, have you heard about the cotton disaster? The extreme hot weather has caused this year's cotton harvest to all burn up. We are in dire need of cotton to prepare for the next Winter...
+cottonweaver_0_description_success=That is really kind of you. We will make good use of this cotton.
+cottonweaver_0_description_refuse=What will we do... Our children don't have enough clothes for the winter...
+
+helvachild_0_label=Delicious Sweets
+helvachild_0_description=I remember eating some sweets made from pistachios and wheat, but I can't for the life of me remember it's name. Was it hava..? No, hela? No, lale...?
+helvachild_0_description_success=Now I remember! It is called helva. You should try some yourself next time. I can't wait to eat this...
+helvachild_0_description_refuse=Oh, how I yearn to be able to eat some sweets right now...
+
+imambook_0_label=The Imam's Book
+imambook_0_description=Do you know my husband, the imam? He forgot to take this book with him when he left the house this morning. Could you please deliver it to him?
+imambook_0_description_success=Thank you, that book is very important for the imam to do his job properly.
+imambook_0_description_refuse=I will bring the book to him myself...
+imambook_1_label=The Imam's Book
+imambook_1_description_success=Thank you, now i can finally continue my research.
+
+irontoolsmith_0_label=The Ironsmith
+irontoolsmith_0_description=I am the best iron smith you will ever find. Unfortunately I am running low on iron. If you bring me 8 iron ingots I can show you my true skills...
+irontoolsmith_0_description_success=Great, now wait untill I finish smithing this iron. It will be a true masterpiece...
+irontoolsmith_0_description_refuse=Whatever, I will go find my own iron then.
+
+
+lightbluedyeweaver_0_label=Light Blue Dye
+lightbluedyeweaver_0_description=Hello $name, I have searched through the whole bazaar, but I couldn't find any. Do you think you could find 16 pieces of light blue dye for me please? I need it to craft colored wool...
+lightbluedyeweaver_0_description_success=Yes that's it! I can craft beautiful carpets from these.
+lightbluedyeweaver_0_description_refuse=It looks like you couldn't find any dye either. That's too bad...
+
+loneminerayran_0_label=Need a Break
+loneminerayran_0_description=You know what would really be refreshing to drink right now? A cold glass of ayran. Could you bring me this drink please?
+loneminerayran_0_description_success=Ah, this is what I really needed to drink right now. Thank you $name. You are a good person...
+loneminerayran_0_description_refuse=All I asked for was a glass of ayran. I wish I could have drank that right now...
+
+mudbrickminer_0_label=Under the Sun
+mudbrickminer_0_description=I have a lot of work to do today, but I have no time to watch these mudbricks dry. Can you gather a few dry mudbricks for me while I finish my other work?
+mudbrickminer_0_description_success=Excellent, we can use these bricks for the next construction.
+mudbrickminer_0_description_refuse=I guess watching mudbricks dry is too boring for you...
+
+ornamentedstonecrafter_0_label=Ornamented Mud Bricks
+ornamentedstonecrafter_0_description=Our leader asked me to bring him beautiful ornamented mud bricks, but I am completely out of those... Could you please find another stonecrafter and bring me more of those ornamented mud bricks?
+ornamentedstonecrafter_0_description_success=Thank you $name, this good deed will not be forgotten my friend.
+ornamentedstonecrafter_0_description_refuse=That's not good, now how will I ever find more of these ornamented mud bricks...
+

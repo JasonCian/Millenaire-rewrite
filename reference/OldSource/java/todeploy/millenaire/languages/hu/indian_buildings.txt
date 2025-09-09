@@ -1,0 +1,48 @@
+playerestate_A0=Kastély
+forge_A0=Kovácsműhely
+armyforge_A0=Katonai kovácsműhely
+scultorhouse_A0=Szobrászműhely
+archives_A0=Templomi levéltár
+chiefhouse_A0=A Vezér háza
+chiefhouse_B0=A Vezér háza
+fort_A0=Vár
+fort_A_forge_A0=A Vár kovácsműhelye
+fort_A_soldierhouse_A0=Barakk
+peasanthouse_A0=Parasztház
+peasanthouse_B0=Parasztház
+peasanthouse_C0=Parasztház
+lumbermanhouse_A0=Favágó háza
+quarry_A0=Kőbánya
+quarry_B0=Kőbánya
+soldierhouse_A0=Katonaház
+brickkiln_A0=Téglaégető épület
+grove_A0=Liget
+paddy_A0=Rizsföld
+spicegarden_A0=Fűszerkert
+sugarplantation_A0=Cukornádültetvény
+villagetemple_A0=Falu temploma
+palace_A0=Palota
+guesthouse_A0=Vendégház
+inn_A0=Kocsma
+largepeasanthouse_A0=Nagyobb ház
+largepeasanthouse_A_secondary_A0=Nyaraló
+playerpalace_A0=Játékos palotája
+playerhugefield_A0=Nagyon nagy birtok
+playerlargefield_A0=Nagy birtok
+playersmallfield_A0=Kis birtok
+playersmallhouse_A0=Kicsi ház
+bazaar_A0=
+tank_A0=Stepwell
+
+//extra buildings:
+well_A0=Kút
+
+//lone buildings:
+adivasifarm_A0=Adivasi Farm
+adivasifarm_B0=Adivasi Farm
+deserttradeoutpost_A0=Sivatagi Piac
+ruinedfort_A0=Romos erőd
+sandblasted_A0=Sivatag pusztította kereskedőhely
+indiandesertedfarm_A0=Lerombolt indiai farm
+loneshrine_A0=Elhagyatott hindu szent hely
+sadhutree_A0=Sadhu fája

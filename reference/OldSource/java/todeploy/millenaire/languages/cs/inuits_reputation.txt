@@ -1,0 +1,14 @@
+
+0;Cizinec; Zdravim. potreboval by jste pomoct s prezitim v techto mrazivych pustinach?
+4*64;Znamost; Vase chovani nezustalo bez povsimnuti. Budte mirumilovni a my budeme take.
+8*64;Znama tvar; Uz jsme te tu drive videly. Muzes tady chvily zustat a ohrat se.
+16*64;Pravidelny navstevnik; Radi te zase vidime, $name.
+32*64;Prezivsi; Rad vidim ze jsi stale nazivu a dari se ti dobre!
+64*64;Oblibeny obchodnik; Vsichni te radi vidime. Prinesl jsi nam zase neco zajimaveho?
+2*64*64;Pritel vesnice; Ukazal jsi se jako hodnotny spolecnik. Najdes zde mnoho pratel, $name.
+4*64*64;Bratr v krvy; Tolik jsi toho pro nas udelal a radi ti to oplatime. Verime v tebe.
+8*64*64;Jeden z nas; Duchove nam pozehnaly vasi pritomnosti. Rozhodli se ze budete soucast nasi rodiny, a myslim si ze se rozhodly spravne.
+32*64*64;Prirozeny vudce; $name, ziskal jsi si vernost a respekt Inuitu. Budou te nasledovat kamkoliv.
+-64;Protiva; Nemame cas na lidi jako jste vy.
+-4*64;Neprijemny outsider; Budeme si na vas davat pozor. Proste bezte pryc a nechte nas v klidu zit.
+-16*64;Nepritel lidu; Daly jsme vam nekolik moznosti ke komunikaci s nami ale vy jste se nam vyhybal. Nechte nas na pokoji a doufejte ze vas duchove neodtahnou do ledove pustiny.

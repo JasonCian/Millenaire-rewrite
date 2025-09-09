@@ -1,0 +1,9 @@
+{
+	"forge_marker": 1,
+    "variants": {
+        "progress=silkwormempty": { "model": "millenaire:silkwormempty" },
+        "progress=silkwormip1": { "model": "millenaire:silkwormip1" },
+        "progress=silkwormip2": { "model": "millenaire:silkwormip2" },
+        "progress=silkwormfull": { "model": "millenaire:silkwormfull" }
+    }
+}

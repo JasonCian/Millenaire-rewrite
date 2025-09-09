@@ -1,0 +1,1 @@
+native:Pandit ka Ghar;gameNameKey:pandithouse_A0;male:indian_pandit;female:indian_panditayin;chest:1-5;sign:1;moveinpriority:5

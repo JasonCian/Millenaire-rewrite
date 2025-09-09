@@ -1,0 +1,188 @@
+#From 1.12 onward, block and item names must be in lang files
+#packaged within the jar.
+#A copy is provided in millenaire/languages for the translators' convenience,
+#but will not be used by Minecraft. It will however be copied within the jar
+#when a new Millénaire version is packaged.
+
+#The Translation Gaps calculator however does use the versions in the
+#millenaire/language folder, so you can check your progress without
+#copying it in the jar
+
+
+#Item names
+#The following items should not be translated#They are either proper names (the deniers)#or specific local specialities that aren't translated#in other languages#I'm putting them for non-Latin alphabet languages,
+#so they can be written in other alphabets
+item.millenaire.denier.name=Denier
+item.millenaire.denieror.name=Denier Or
+item.millenaire.denierargent.name=Denier Argent
+item.millenaire.calva.name=Calva
+item.millenaire.tripes.name=Tripes
+item.millenaire.boudin.name=Bloedworst
+
+tile.millenaire.dirtwall.name=Aarden Muur
+
+tile.millenaire.locked_chest.name=Locked Chest
+item.millenaire.normanpickaxe.name=Normandische Pikhouweel
+item.millenaire.normanaxe.name=Normandische Bijl
+item.millenaire.normanshovel.name=Normandische Schep
+item.millenaire.normanhoe.name=Normandische Schoffel
+item.millenaire.normanbroadsword.name=Normandisch Breedzwaard
+item.millenaire.normanhelmet.name=Normandische Helm
+item.millenaire.normanplate.name=Normandische Borstplaat
+item.millenaire.normanlegs.name=Normandische Leggings
+item.millenaire.normanboots.name=Normandische Laarzen
+item.millenaire.rice.name=Rijst
+item.millenaire.turmeric.name=Turmeric
+item.millenaire.vegcurry.name=Vegetarische Curry
+item.millenaire.chickenmeat.name=Rouwe Kip
+item.millenaire.chickencurry.name=Murgh Curry
+item.millenaire.brickmould.name=Baksteenman
+item.millenaire.rasgulla.name=Rasgulla
+tile.millenaire.timberframeplain.name=Gewoon Houten Frame
+tile.millenaire.timberframecross.name=Kruis Houten Frame
+tile.millenaire.wetbrick0.name=Natte Baksteen
+tile.millenaire.cookedbrick.name=Gebakken Baksteen
+tile.millenaire.mudbrick.name=Modderbaksteen
+item.millenaire.indianstatue.name=HindoeStandbeeld
+item.millenaire.ciderapple.name=Cider Appel
+item.millenaire.cider.name=Cider
+item.millenaire.summoningwand.name=Oproepstaf
+item.millenaire.negationwand.name=Staf der Negatievering
+item.millenaire.parchment_normanvillagers.name=Normandische Dorpelingen
+item.millenaire.parchment_normanitems.name=Normandische Objecten
+item.millenaire.parchment_normanbuildings.name=Normandische Gebouwen
+item.millenaire.parchment_normanfull.name=Complete Normandische Rol
+item.millenaire.tapestry.name=Normandisch Tapijs
+item.millenaire.vishnu_amulet.name=Amulet van Vishnu
+item.millenaire.alchemist_amulet.name=Amulet van de Alchemist
+item.millenaire.yggdrasil_amulet.name=Amulet van Yddrasil
+item.millenaire.skoll_hati_amulet.name=Amulet van Sköll and Hati
+item.millenaire.parchment_villagescroll.name=Dorpsrol
+item.millenaire.parchment_indianvillagers.name=Indiaanse Dorpelignen
+item.millenaire.parchment_indianitems.name=Indiaanse Objecten
+item.millenaire.parchment_indianbuildings.name=Indiaanse Gebouwen
+item.millenaire.parchment_indianfull.name=Complete Indiaanse Rol
+item.millenaire.unknownpowder.name=Onbekend Poeder
+tile.millenaire.alchemistexplosive.name=Alchimists Explief
+
+item.millenaire.wah.name=Wah
+item.millenaire.masa.name=Masa
+item.millenaire.maize.name=Mais
+tile.millenaire.mayangoldblock.name=Gouden Ornament
+item.millenaire.mayanstatue.name=Mayaanse Kerving
+item.millenaire.parchment_mayanvillagers.name=Mayaanse Dorpelignen
+item.millenaire.parchment_mayanitems.name=Mayaanse Objecten
+item.millenaire.parchment_mayanbuildings.name=Mayaanse Gebouwen
+item.millenaire.parchment_mayanfull.name=Complete Mayaanse Rol
+item.millenaire.mayanmace.name=Obsidiaanse Goedendag
+item.millenaire.mayanpickaxe.name=Obsidiaans Pikhouweel
+item.millenaire.mayanaxe.name=Obsidiaanse bijl
+item.millenaire.mayanshovel.name=Obsidiaanse Schep
+item.millenaire.mayanhoe.name=Obsidiaanse Schoffel
+item.millenaire.obsidianflake.name=Obsidiaanse Flake
+
+tile.millenaire.paper_wall.name=Papieren Muur
+item.millenaire.udon.name=Udon
+item.millenaire.thatched.name=Thatch
+
+item.millenaire.parchment_sadhu.name=Boek van de Sadhu
+
+item.millenaire.tachisword.name=Tachi
+item.millenaire.yumibow.name=Yumi Boog
+
+item.millenaire.japanesebluelegs.name=Blauwe ō-yoroi Leggings
+item.millenaire.japanesebluehelmet.name=Blauwe ō-yoroi Helm
+item.millenaire.japaneseblueplate.name=Blauwe ō-yoroi Borstplaat
+item.millenaire.japaneseblueboots.name=Blauwe ō-yoroi Laarzen
+
+item.millenaire.japaneseredlegs.name=Rode ō-yoroi Leggings
+item.millenaire.japaneseredhelmet.name=Rode ō-yoroi Helm
+item.millenaire.japaneseredplate.name=Rode ō-yoroi Borstplaat
+item.millenaire.japaneseredboots.name=Rode ō-yoroi Laarzen
+
+item.millenaire.japaneseguardlegs.name=Keiko leggings
+item.millenaire.japaneseguardhelmet.name=Keiko helmet
+item.millenaire.japaneseguardplate.name=Keiko Borstplaat
+item.millenaire.japaneseguardboots.name=Keiko Laarzen
+
+item.millenaire.parchment_japanesevillagers.name=Japanse Dorpelingen
+item.millenaire.parchment_japaneseitems.name=Japanse Objecten
+item.millenaire.parchment_japanesebuildings.name=Japanse Gebouwen
+item.millenaire.parchment_japanesefull.name=Complete Japanse Rol
+
+tile.millenaire.silkwormempty.name=Leeg Sericulture Block
+tile.millenaire.silkwormfull.name=Sericulture Block
+tile.millenaire.byzantine_tiles.name=byzantijnse tegels
+tile.millenaire.byzantine_tiles_slab.name=byzantijnse tegel slab
+tile.millenaire.byzantine_stone_tiles.name=byzantijnse Stenen Tegel
+item.millenaire.grapes.name=Druiven
+item.millenaire.winefancy.name=Malvasia Wijn
+item.millenaire.silk.name=Silk
+item.millenaire.byzantineiconsmall.name=Klein byzantijns Icoon
+item.millenaire.byzantineiconmedium.name=Middel byzantijns Icoon
+item.millenaire.byzantineiconlarge.name=Groot byzantijns Icoon
+item.millenaire.byzantineboots.name=byzantijnse laarzen
+item.millenaire.byzantinelegs.name=byzantijnse Legging
+item.millenaire.byzantineplate.name=byzantijnse Borstplaat
+item.millenaire.byzantinehelmet.name=byzantijnse Helm
+item.millenaire.byzantinemace.name=byzantijnse Morgenster
+item.millenaire.vine.name=Druivenplant
+item.millenaire.lambraw.name=Rauwe lam
+item.millenaire.lambcooked.name=Gegrilde lamskoteletjes
+item.millenaire.feta.name=Feta
+item.millenaire.winebasic.name=Wijn
+item.millenaire.clothes_byz_wool.name=Wollen Byzantijnse kleding
+item.millenaire.clothes_byz_silk.name=Zijden Byzantijnse kleding
+item.millenaire.souvlaki.name=Souvlaki
+item.millenaire.purse.name=Portemonnee
+tile.millenaire.pathdirt.name=Zandpad
+tile.millenaire.pathgravel.name=Grindpad
+tile.millenaire.pathslabs.name=Stenen pad
+tile.millenaire.pathsandstone.name=Sandstenen pad
+tile.millenaire.pathochretiles.name=Ochre pad
+tile.millenaire.pathgravelslabs.name=Steen- en grindpad
+item.millenaire.sake.name=Sake
+item.millenaire.ikayaki.name=Ikayaki
+item.millenaire.cacauhaa.name=Cacauhaa
+
+
+advancements.firstcontact.name=Millénaire
+advancements.firstcontact.desc=Ontmoet een dorpeling
+advancements.cresus.name=Croesus
+advancements.cresus.desc=Verdien een denier or
+advancements.summoningwand.name=Verschijning
+advancements.summoningwand.desc=Koop een oproepstaf en creeër een dorp
+advancements.villageleader.name=Dorpsleider
+advancements.villageleader.desc=Wordt leider in een cultuur en maak een bestuurd dorp
+advancements.thequest.name=De Quest
+advancements.thequest.desc=Voltooi een Quest gegeven door een dorpeling
+advancements.maitreapenser.name=Maître à penser
+advancements.maitreapenser.desc=Ontmoet de Sadhu of de Alchemist
+advancements.forbiddenknwoledge.name=Verboden kennis
+advancements.forbiddenknwoledge.desc=Voltooi 2 hoofdstukken van de creatie quest
+advancements.puja.name=Een beetje hulp van de goden
+advancements.puja.desc=Betaal een priester en doe een gebed
+advancements.explorer.name=Verkenner
+advancements.explorer.desc=Verken een geïsoleerd gebouw
+advancements.marcopolo.name=Marco Polo
+advancements.marcopolo.desc=Bezoek 3 dorpen van 3 culturen in het spel
+advancements.magellan.name=Fernand de Magellan
+advancements.magellan.desc=Bezoek dorpen van alle culturen in dezelfde wereld
+advancements.selfdefense.name=Zelfverdediging
+advancements.selfdefense.desc=Vermoord een bandiet
+advancements.pantheon.name=The Panthéon
+advancements.pantheon.desc=Bezoek het mysterieuze Panthéon
+
+advancements.darkside.name=De donkere kant
+advancements.darkside.desc=Vermoord een dorpeling
+advancements.scipio.name=Carthago delenda est
+advancements.scipio.desc=Vernietig een dorp met de staf der negatievering
+advancements.attila.name=Attila
+advancements.attila.desc=Verkrijg de "Gesel van God" reputatie in 3 culturen
+
+advancements.cheers.name=Diemaal proost voor minecraft!
+advancements.cheers.desc=Drink alcohol in millénaire
+advancements.hired.name=Gehuurde hulp
+advancements.hired.desc=Huur een dorpeling
+advancements.masterfarmer.name=Professioneel boer
+advancements.masterfarmer.desc=Plant een Millénaire gewas.

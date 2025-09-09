@@ -1,0 +1,23 @@
+building.length=18
+building.width=13
+building.buildingorientation=2
+building.mindistance=0.4
+building.areatoclear=3
+
+building.icon=steelaxe
+
+initial.startlevel=-1
+initial.nativename=Oduncunun Evi
+initial.priority=150
+initial.male=turk_lumberman
+initial.female=turk_peasantwife
+initial.tag=grove
+initial.villagetag=grove_built
+
+upgrade1.priority=200
+upgrade1.rebuildpath=true
+
+upgrade2.priority=175
+upgrade2.pathlevel=1
+
+upgrade3.priority=170

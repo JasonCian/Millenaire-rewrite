@@ -1,0 +1,267 @@
+//Note to translators: the version in devanagari (Hindi script) is for reference purpose. It will not show in game.                                             
+newchat;key:sun,tag:notraining,weigth:10
+v1;0;Kitni Garmi Hai! / Es ist so heiss!
+v2;30;Main is garmi se pagal ho gaya hoon. / Die hitze treibt mich in den Wahnsinn.
+v1;70;Baarish kab hogi? / Wann wird es regnen?
+
+//कीतनी गर्मी है!
+//मैं इस गर्मी से पागल हो गया हूं |
+//बारीश कब होगी ?
+
+
+newchat;key:monsoon,tag:notraining,weigth:10
+v1;0;Barish nahi ho rahi hai. / Es regnet nicht.
+v2;30;Barish hogi. Chinta mat karo. / Keine Sorge. Es wird regnen.
+v1;60;Tum har sal yahi bolte ho... / Das sagst du jedes Jahr...
+
+//बारिश नही हो रही है |
+//बारिश होगी| चिन्ता मत करो|
+//तुम हर साल यही कहते हो ...
+
+
+newchat;key:rain,tag:raining,weigth:10
+v1;0;Arre! Baarish ho rahi hai! / Ja! Es regnet!
+v2;40;Itni si baarish se kya hoga... / So wenig regen wird nichts bewirken...
+v1;80;Sukhe se toh behtar hai. / Immernoch besser als überhaupt kein regen.
+v1;120;Lekin fasal kaise hogi? / Aber wie sollen unsere Früchte wachsen?
+
+//अरे! बारिश हो रही है!
+//इतनी सी बारिश से क्या होगा ...        
+//सूखे से तो बेह्तर है। 
+//लेकिन फसल कैसे होगी?        
+
+
+newchat;key:sandstone,weigth:10
+v1;0;Hamara gaon pragati kar raha hai, hai na? / Unser Dorf macht Fortschritte, nicht?
+v2;40;Par abhi bahut kaam baki hai. / Aber es gibt noch eine Menge zu tun.
+v1;80;Sach me? / Wirklich?
+v2;100;Bilkul! / Sicherlich!
+
+//हमारा गांव प्रगति कर रहा है, है ना?
+//हाँ, लेकिन अभी बहुत काम बाकी है |
+//सच में?
+//बिल्कुल!
+
+
+newchat;key:lakshmi,v1:adult,v2:adult,weigth:10
+v1;0;Jao, puja ke liye ek thali le aao. / Geh, hole einen Teller mit Opfergaben für die Puja.
+v2;40;Turant le aata hoon. / Ich hole ihn sofort.
+v1;80;Bhagwaan ko prabhavit karna jaroori hai. / Wir müssen die Götter besänftigen.
+v1;130;Tab hi baarish samay par aayegi. / Nur dann wird es rechtzeitig regnen.
+
+//जाओ, पूजा के लिए एके थाली ले आओ|
+//तुरंत ले आता हूं |        
+//भगवान को प्रभावित करना आवश्यक है |
+//तब ही बारिश समय पर आएगी |        
+
+
+newchat;key:beef,v2:adult,weigth:10
+v1;0;Kabhi socha hai, guy ka maas ka swad kya ho sakta hai? / Hast du dich je gefragt wie Kuhfleisch schmeckt?
+v2;60;Guy ka maas? Lekin ye toh dharm ke khilaaf hai! / Kuhfleisch? Es zu essen ist gegen unser Dharma!
+v1;120;Lekin shayad woh swadisht hai...? / Doch was wenn es lecker ist...?
+v2;180;Kya tum normandi ke jungli ho? / Bist du ein normannischer Barbar?
+
+//कभी सोचा है, गाय का मांस का क्या स्वाद हो सकता है?
+//गाय का मांस? लेकिन यह धर्म के खिलाफ है!
+//लेकिन शायद वह स्वादिष्ट है...?        
+//क्या तुम नोरमंडी के जंगली हो
+
+
+newchat;key:rice,v1:child,v2:adult,weigth:10
+v1;0;Mai rasgulla chahta hoon. Mujhe bohot bhukh lagi hai! / Ich möchte Rasgulla. Ich habe wirklich hunger! 
+v2;60;Nahi. Tumhe sirf chawal khaana chahiye. / Nein. Du solltest nur Reis essen.
+v1;120;Lekin maine subhah hi ye khaya hai! / Aber ich habe heute Morgen schon etwas gegessen!
+v1;180;Aur kal bhi, parson bhi... / Und Gestern, und den Tag davor...
+v2;220;Toh tum yahi aaj raat ko, kal, aur jeevan bhar khao! / Und du wirst ihn heute Nacht essen, Morgen und den Rest deines Lebens!
+
+//मैं रसगुल्ला चाहता हु। मुझे भूख  लग रहा है ।
+//नहीं | तुम्हे सिर्फ चावल खाना चाहिए |
+//लेकिन मैंने  सुबह ही  यह खाया है!
+//और कल भी, परसों भि…        
+//तो तुम यही आज रात को, कल, और जीवन भर खाना!
+
+
+newchat;key:indian_lumberman,v1:vtype:indian_lumberman,weigth:10
+v1;0;Aaj maine bahut jyada lakdi kaat li! / Ich habe heute eine Menge Holz geschlagen.
+v2;60;Tum hamare jungle ko reghistaan bana doge! / Du wirst unseren Wald in eine Wüste verwandeln! 
+v1;120;Pareshan mat ho, yahaan bina kuch kiye hi pedh badhte hai. / Keine Sorge, Bäume wachsen hier fast von selbst.
+
+//अज मैने बहुत ज़्यादा  लकड़ी काटीं  !
+//तुम हमारे गाँव को रेगिस्तान में बदल दोगे !
+//परेशान  मत हो, यहाँ बिना कुछ किये ही पेड़ बढते हैं। 
+
+
+newchat;key:indian_raja,v1:vtype:indian_raja,v2:adult,notrel:spouse,weigth:10
+v1;0;Mera mahal bahut chota ho gaya hai. / Mein Palast ist ziemlich klein geworden.
+v2;60;Lekin maharaj, ye is kshetra me sabse bada hai! / Aber Maharaja, es ist der größte im ganzen Land!
+v1;120;Lekin ye mujhe chota lagne laga hai. / Für mich fühlt er sich klein an.
+
+//मेरा महल बहुत छोटा हो गया है |        
+//लेकिन महाराज, यह इस क्षेत्र में सबसे बड़ा है!
+//लेकिन मुझे यह छोटा लगने लगा है |
+
+
+newchat;key:indian_rajputgeneral,v1:vtype:indian_rajputgeneral,weigth:10
+v1;0;Ek shaktishali qila hamare dushmanon ke khilaaf sabse accha bachaav hai. / Ein starkes Fort ist die beste Verteidigung gegen unsere Feinde.
+v2;60;Kaun se dushman, senapati? / Welche Feinde, General?
+v1;100;Ye Norman aur anya jungli log. / Die Normannen und die anderen Barbaren.
+
+//एक शक्तिशाली किले हमारे दुश्मनों के खिलाफ सबसे अच्छा बचाव है |
+//कौन से दुश्मन, सेनापति?        
+//ये नॉर्मन और अन्य जंगली लोग |        
+
+
+newchat;key:indian_rani,v1:vtype:indian_rani,notrel:spouse,weigth:10
+v1;0;Mere pati amir aur prasidh hai. / Mein Mann ist reich und respektabel.
+v2;50;Ji han! Yeh sach hai. / Oh ja! Das ist wahr.
+v1;110;Par ve mere liye kabhi kuch laatey nahi hai. / Und doch schenkt er mir nie etwas.
+v2;160;Kyon nahi? Kal hi unhone tumhare liye teen sariyaan laayi thi. / Warum nicht? Er hat dir erst gestern drei Saris gekauft.
+
+//मेरा पति अमीर और प्रसिद्ध है |        
+//जी हाँ! ये सच है |
+//पर वे मेरे लिये कभी कुछ लाते नही है |
+//क्यों नहीं? कल ही उन्होंने तुम्हारे लिये तीन साड़ियाँ खरीदा थी|
+
+
+newchat;key:indian_richwoman,v1:vtype:indian_richwoman,v2:female,v2:adult,v2:notvtype:indian_richwoman-indian-rani,weigth:10
+v1;0;Aaj mere pati ne mere liye 50 tola sona kharida. / Mein Mann hat heute fünzig Tola's Gold gekauft.
+v2;60;50 tola sona! Mere paas sirf 10 tola sona hai... / Fünfzig Tola's Gold! Ich habe nur Zehn Tola's...
+v1;120;Aasha hai ki sitaare tumhare paksh mein honge. / Lass uns hoffen das die Sterne zu deinen Gunsten stehen werden.        
+
+//आज मेरे पति ने मेरे लिये 50 तोला सोना खरीदा |        
+//50 तोला सोना! मेरे पास सिर्फ 10 तोला सोना है ...        
+//आशा है कि सितारों तुम्हारे पक्ष में होंगे|                                
+
+
+newchat;key:indian_sculptor,v1:vtype:indian_sculptor,weigth:10
+v1;0;Mujhe pratimaon banane ka achha mauka mila hai. / Ich bekam eine großartige Gelegenheit Statuen zu machen.
+v2;50;Tum bahut achhe murtiyan banate ho. / Das liegt daran, das du sehr gute Statuen machst.
+v1;100;Main pandhara saal se murtiyan bana raha hoon. / Ich mache Statuen seid Fünfzehn Jahren!
+
+//मुझे प्रतिमाओं बनाने का अच्छा मौका मिला है|        
+//तुम बहुत अच्छे मूर्तियों बना ते हो|        
+//मैं 15 साल से मूर्ति बना रहा हूं |        
+
+
+newchat;key:indian_smith,v1:vtype:indian_smith,v2:adult,weigth:10
+v1;0;Hame aur phavadon ki zarurat hai. / Wir brauchen mehr Spitzhacken.
+v2;50;Main kaam mein vyasth hoon. / Ich bin gerade beschäftigt.
+v1;100;Phavdiyon ki bhi zarurat hai. / Schaufeln brauchen wir auch.
+v2;150;Uff! Mujhe kitna kaam karna padta hai! / Uff! Ich habe soviel Arbeit!
+
+//हमें और फावडों की जरूरत है |
+//मैं काम मैं व्यस्त हूँ|        
+//फावड़ियों की भी जरूरत है |        
+//उफ़फ़! मुझे कितना काम करना पडता है !        
+
+
+newchat;key:indian_soldier,v1:vtype:indian_soldier,v2:adult,v2:female,notrel:spouse,notrel:sibling,notrel:child,notrel:parent,weigth:10
+v1;0; <targetname>, shayad gaon ke nikat daaku hai! /  <targetname>, Ich glaube da schleichen Banditen um's Dorf!
+v2;50;Chinta mat karo, main gaon ki raksha karonga. / Keine Sorge, ich werde das Dorf schützen.
+v1;100;Tum bahut shaktishaali ho! / Du bist so stark!
+v1;130;Aur sundar bhi. / Und so stattlich.
+v1;150;Agar aap ke paas moonch na hoti... / Wenn da nicht dein Bart wäre...
+v2;200;Meri moonch ke baare main kuch bhi na kaho! / Kein Wort über meinen Bart!
+
+//<targetname>, शायद गांव के निकट डाकू है!
+//चिंता मत करो, मैं गाँव की रक्षा करूंगा|        
+//तुम बहुत शक्तिशाली हो!        
+//और सुंदर भी |        
+//अगर आप के पास मूंछें न होती ...        
+//मेरी मूंछ के बारे में कुछ भी न कहो!
+
+
+newchat;key:indian_villagechief,v1:vtype:indian_villagechief,v2:vtype:indian_peasant-indian_peasantwife,weigth:10
+v1;0;Senapati, iss saal fasal achhi nahi hai./ Mein Herr, die Ernte dieses Jahr ist nicht gut.
+v2;40;Tu aalsi hai! Jyada kaam kar! / Das ist weil du faul bist! Arbeite mehr!
+v1;80;Lekin baarish hi nahi hui... / Aber es hat überhaupt nicht geregnet...
+v2;120;Meri galti nahi hai. Mujhe apna paisa chahiye. / Das ist nicht mein Problem. Ich will meine Steuer.
+v1;170;Lekin mere paas paise nahi hai. / Aber ich habe kein Geld.
+v2;210;Fir mujhe meri zameen do. / Dann gib mir das Land zurück.
+v1;260;Mere paas kuch bhi nahi rehe jayega! / Aber dann habe ich nichts mehr!
+
+//सेनापति, इस साल फसल अच्छी नहीं है |
+//तू आलसी है! ज्यादा काम कर!        
+//लेकिन बारिश ही नही हुई ...        
+//मेरी गलती नहीं है| मुझे अपना पैसा चाहिए |        
+//लेकिन मेरे पास पैसे नही है |        
+//फिर मुझे मेरी जमीन दो|        
+//मेरी पास कुछ भी नही रह जाएगा!        
+
+
+newchat;key:newhouse,villager:indian_merchant,v1:notvtype:indian_merchant,v2:notvtype:indian_merchant,weigth:10
+v1;0;Vaha Vyapaari apne ghar ke bagal mein ek naya ghar ban rahe hai. / Dieser Händler baut ein neues Haus neben seinem eigenen.
+v2;60;Ek aur ghar? Par kyun? / Noch ein Haus? Aber wofür brauch er ein neues?
+v1;90;Vaha naya ghar unke betey ke liye hai. / Das neue Haus ist für seinen Sohn.
+v1;140;Jab unke betey ki shaadi hogi, tab dono paas me honge. / Wenn sein Sohn heiratet, werden sie nebeneinander leben.
+
+//वह व्यापारी अपने घर के बगल में एक नया घर बना रहे है|
+//एक और घर? पर क्यों?        
+//वह नया घर अपने बेटे के लिए है |        
+//जब उनके बेटे की शादी होगी, तब दोनों पास में होंगे |
+
+
+newchat;key:gold,v1:vtype:indian_peasantwife,rel:spouse,villager:indian_villagechief,weigth:10
+v1;0;Gaon ke mukhiye ne apni patni ke liye sone ke kangan laaye. / Der Dorfhäuptling hat seiner Frau Goldarmbänder gekauft.
+v1;60;Par aap mere liye kuch nahi laatey... / Doch du hast mir nie irgendwelchen Schmuck geschenkt...
+v2;110;Tumhe ek amir aadmi se shaadi karni chahiye thi. / Du hättest einen reichen Mann heiraten sollen.
+v1;160;Lekin mujhe aur dahej dena padta. / Aber dann hätte ich mehr Mitgift zahlen müssen.
+v2;200;Fir tumhe bhagyawaan lagna chahiye ki main tumhara pati hoon. / Dann solltest du dich gesegnet fühlen, einen Mann wie mich zu haben.
+
+//गांव के मुखिये ने अपनी पत्नी के लिये सोने के कंगन लाये|        
+//वाह! पर आप मेरे लिये कुछ नही लाते...        
+//तुम्हे एक अमीर आदमी से शादी करनी चाहए थी |        
+//लेकिन मुझे और दहेज देना पडता|                
+//फिर तुम्हे भाग्यावान लगना चाहिए की मैं तुम्हारा पति हूं|
+
+
+newchat;key:alcohol,v1:vtype:indian_peasant-indian_lumberman,v2:vtype:indian_peasant-indian_lumberman,weigth:10
+v1;0;Maine bahit dinon se sharaab nahi piya hai. / Ich hatte schon lange keinen Alkohol mehr.
+v2;50;Gaon ke bahar ek aadmi sharaab aur moongfali bechta hai. / Da sitzt ein Mann unter dem Banyan Baum ausserhalb des Dorfes und verkauft Alkohol und Erdnüsse.
+v1;110;Sach? Maine socha tha ki gaon mein sharaab par pratibandh laga diya gaya hai. / Wirklich? Ich dachte es wäre verboten im Dorf Alkohol zu verkaufen!
+v2;160;Yeh kisi aur ko mat batana. / Erzähl's niemandem.
+v1;200;Chalo, hum aaj shaam ko vahan jaatey hai. / Ok, lass uns heute Abend zu ihm gehen.
+
+//मैने कई दिनों से शराब नही पिया है|
+//गांव के बहार एक आदमी शराब और मूंगफली बेचता है |
+//सच? मैंने सोचा था की गांव में शराब पर प्रतिबंध लगा दिया है|        
+//यह किसी और को मत बताना|         
+//चलो हम आज शाम को वहाँ
+//चलो, हम आज शाम को वहाँ
+
+
+newchat;key:childoneliner1,v1:child,v2:child,weigth:10
+v1;0;Kya aap ne mere liye khiloune laaye? / Hast du mir Spielzeug mitgebracht?
+
+//क्या आप ने मेरे लिये खिलौने लेय?
+
+
+newchat;key:childoneliner2,v1:child,v2:child,weigth:10
+v1;0;Mere paas bahut saare dost hai. / Ich habe viele Freunde.
+
+//मेरे पास बहुत सारे दोस्त हैं |
+
+
+newchat;key:childoneliner3,v1:child,v2:child,weigth:10
+v1;0;Meri maa shaam ko mujhe khelne nahi deti hai. / Meine Mutter erlaubt mir nicht im dunkeln draussen zu spielen.
+
+//मेरी माँ शाम को खेलने नही देती है |
+
+
+newchat;key:childrenzombie,v1:child,v2:child,weigth:2
+v1;0;Namaskaar! / Hallo!
+v2;50;Kya tumane dekha? / Hast du das gesehen?
+v1;100;Kya dekhoon? / Was gesehen?
+v2;150;Mainne dekha ... ek zombee! / Ich sah ... einen Zombie!
+v1;200;Vaastav mein? / Wirklich?
+v2;250;Haan! Yah bahut daraavana tha! Usane mujhe yah bhee bataaya ki yah aapako khaega! / Ja! Es war so gruselig! Es hat mir sogar gesagt es würde dich fressen!
+v1;300;Ahhhhh! Maan! Ek zombee mujhe khaane ja raha hai! / Ahhhhh! Mamma! Ein Zombie wird mich fressen!
+
+newchat;key:childrencreeper,v1:child,v2:child,weigth:2
+v1;0;Namaskaar! / Hallo!
+v2;50;Kya tumane dekha? / Hast du das gesehen?
+v1;100;Kya dekhoon? / Was gesehen?
+v2;150;Mainne dekha ... ek lata! / Ich sah... einen Creeper!
+v1;200;Vaastav mein? / Wirklich?
+v2;250;Haan! Yah bahut daraavana tha! yah vahaan ek ped uda diya! / Ja! Es war so gruselig! Es hat da drüben einen Baum gesprengt!
+v1;300;Lekin ruko, mera pasandeeda ped vahaan par tha ... waaaaaaa / Warte, mein Lieblingsbaum war da drüben... WAAAAAAAA

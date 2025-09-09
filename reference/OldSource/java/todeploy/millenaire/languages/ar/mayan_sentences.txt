@@ -1,0 +1,56 @@
+﻿
+villager.greeting=Ola, $name-ji! / مرحبا , يا $name-جاي!
+villager.greeting=U- ka'an yam k'iinal behla'e'. / الجو حار اليوم.
+villager.greeting=Biix men u- pixan ts'aakik teech؟ / كيف تعاملك الأرواح؟
+villager.greeting=Ba'ax tumben؟ / مالاخبار؟
+villager.greeting=Biix yam teech pamilya؟ / كيف حال عائلتك؟
+villager.greeting=Pixan tuuxtik gnat k'aaxal. / الارواح ترسل المطر إلينا.
+villager.greeting=Tu'ux yam teech lu'um؟ / اين ارضك؟
+mayan_shaman.greeting=Ts'aakik tal teech. / الأرواح تحميك.
+
+villager.gorest=He'lel bisik na. / الراحة تأخذ كل اهتمامي الان.
+villager.gorest=Ichil chuy ti wenel beora. / يجب ان انام الان.
+villager.gorest=Yaaawn. /  سأستريح تعبت.
+
+villager.gopray=Pixan taka gnat ichil k'a'am hoch. / يا ارواح الاجداد ارسلي لنا الحصاد الوفير.
+villager.gopray=Pixan an gnat. / ياارواح ساعدينا.
+
+villager.BringBackResourcesHome=Ichil chuy ti yaab se'es ti kuch. / لدي الكثير من الحطب ساعود به للمنزل.
+villager.ChopTrees=Ya'ul pak. / وقت قطع الاشجار.
+villager.GatherGoods=Ichil chuk u- se'es sut otoch. / سوف أءخذ الخشب للمنزل.
+villager.PlantSaplings=Ichil tz'ap tulakal he'-la -che'. / لقد زرعت كل الاشجار. 
+
+//villager.DryBrick=To'on k'ab'eet tunich ti b'et ki- otoch. / نحتاج للحجارة لنتمكن من بناء منازلنا. 
+//villager.GatherBrick=Ichil kuch ti yaab tunich. / انا احمل الكثير من الحجارة. 
+//villager.CookBrick=A'-la yam k'a'am tunich. / هذا حجر صلب.
+villager.PlantMaize=K'aaxal tuuxtik gnat ichil k'a'am hoch. / المطر ارسل لنا الحصاد الوفير.
+villager.HarvestMaize=Ki' k'aaxal ki' hoch. / مطر وفير حصاد وفير.
+villager.PlantTurmeric=Yooch men u- han-ha. / البهارات تصنع طعام جيد.
+villager.HarvestTurmeric=A'-la yooch hoch si muk' ti han-ha. / محصود هذه البهارات يعطي القوة للطعام.
+villager.SlaughterChicken=Ah kax si gnat b'ak'. / الدجاج يوفر لنا اللحم.
+
+villager.GetHouseResources=Ichil chik nah yam ichil utz nah. / المنزل النظيف منزل جيد. 
+villager.GetGoodsHousold=Ichil k'ab'eet he'-la a-d'a'ax-tak k'am- otoch/ احتاج ان تكون هذه الاشياء بالمنزل.
+villager.DeliverGoodsHousold=Ti yaab han-ha ti kuch. / طعام كثير جدا لحمله.
+villager.makeRasgulla=In-wah mo'nol pall yam k'oh. / طفلي الصغير مريض.
+
+
+villager.GetResourcesForBuild=Yaab' ti- yaab' tunich. / كثير بل الكثير من الحجارة.
+villager.ConstructionStepByStep=Meyah meyah meyah. / عمل عمل عمل.
+villager.ConstructionStepByStep=Ichil k'ab'eet ichil k'a'am et-meyah. / احتاج إلى زميل قوي جدا ليساعدني بالعمل. 
+
+villager.GoPlay=Ichil kolom uk chun su'uk. / احب اللعب في العشب.
+villager.BecomeAdult=La la la la. / وقت البلوغ
+male.BecomeAdult=Ichil k'a't ti tz'ak-b' ha ah tz'on. / اريد ان اكون صياد.
+female.BecomeAdult=Ichil k'a't ha ichki. / اريد زوج.
+
+villager.gopray.chosen=Ichil t'an u- orasion. / انا ادعي.
+mayan_shaman.gopray.chosen=U- orasion tal teech / لتحميك دعواتي.
+
+villager.calltoarms=U- k'in yam in-ti'a'al! / اليوم يومنا!
+villager.calltoarms=Kin-s-ab u- k'as hun. / اقتلو السيئين!
+villager.calltoarms=Ti k'ab! / هيا تسلحوا!
+
+villager.MakeTools=Man in-wah a'-b'a'ax. / جرب ادواتي.
+villager.MakeWeapons=U- k'ab wa'yeh nik k'a'am. / اسلحتي ودروعي قوية.
+villager.ScultMayan=P'e k'in ichil k'am ti b'om. / يوما من الايام اريد تجربة الرسم.

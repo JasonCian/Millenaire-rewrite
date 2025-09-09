@@ -1,0 +1,43 @@
+culture.mayan=Maya
+
+villager.mayan_boy=Bambino
+villager.mayan_girl=Bambina
+villager.mayan_teenagerMale=Ragazzo
+villager.mayan_teenagerFemale=Ragazza
+villager.mayan_lumberman=Taglialegna
+villager.mayan_miner=Minatore
+villager.mayan_shaman=Sciamano
+villager.mayan_peasant=Paesano
+villager.mayan_peasantwife=Paesana
+villager.mayan_leader=Leader
+villager.mayan_richwoman=Regina
+villager.mayan_warrior=Guerriero
+villager.mayan_chieftain=Capo villaggio
+villager.mayan_crafter=Artigiano
+villager.mayan_armysmith=Armaiolo
+villager.mayan_sculptor=Intagliatore
+villager.mayan_shamanwife=Moglie dello sciamano
+villager.mayan_king=Re
+villager.mayan_merchant=Mercante
+villager.mayan_chickenfarmer=Allevatore di polli
+villager.mayan_farmer=Coltivatore di mais
+villager.mayan_obsidiancrafter=Artigiano dell'ossidiana
+
+villager.lonemayanfarmer=Contadino solitario
+villager.lonemayanpeasantwife=Moglie del contadino
+villager.lonemayanshaman=Sciamano
+villager.lonemayanshamanwife=Moglie dello sciamano
+villager.mayanbanditboy=Giovane bandito
+villager.mayanbanditwarrior=Bandito guerriero
+villager.mayanfemalebandit=Bandito donna
+
+villager.merchant_mayanfarmer=Mercante coltivatore
+villager.merchant_mayanhunter=Mercante di cacciagione
+villager.merchant_mayanshaman=Mercante sciamano
+
+shop.mayantownhall=Negozio principale
+shop.mayancrafter=Utensili
+shop.mayanarmyforge=Armi e armature
+shop.mayansheepchickenfarm=Pollame
+shop.mayanobsidiancrafter=Oggetti d'ossidiana
+shop.lonemayanfarm=Prodotti agricoli

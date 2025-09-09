@@ -1,0 +1,45 @@
+//Parameters for the building as a whole
+building.length=28
+building.width=24
+building.areatoclear=5
+building.buildingorientation=3
+building.max=0
+building.version=2
+building.icon=paper
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Place du village
+initial.priority=600
+initial.male=guildmaster
+initial.tag=leasure
+initial.shop=townhall
+initial.signs=5,3,1,2,4,0,8,7,6
+
+//Parameters for specific upgrades
+upgrade1.nativename=Hall de la Guilde
+upgrade1.rebuildpath=true
+upgrade1.extrasimultaneouswallconstructions=1
+
+upgrade2.priority=580
+upgrade2.rebuildpath=false
+
+upgrade3.extrasimultaneouswallconstructions=2
+upgrade3.priority=560
+
+upgrade4.priority=540
+upgrade4.pathlevel=2
+upgrade4.rebuildpath=true
+
+upgrade5.priority=520
+upgrade5.rebuildpath=false
+
+upgrade6.priority=500
+
+upgrade7.priority=480
+
+upgrade8.priority=460
+
+upgrade9.priority=440
+

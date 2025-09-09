@@ -1,0 +1,10 @@
+0;Idegen;Nem bízunk meg az idegenekben könnyen. Viselkedj jól!
+4*64;Ismerős;Láttunk errefelé régebben, de ez még nem azt jelenti, hogy bízunk is benned.
+16*64;Rendszeres látogató;Hogy utaztál mostanában $name?
+64*64;Kedvenc kereskedő;Ó, $name, hosszú utat bejártál a helyiek szemében...
+2*64*64;A falu barátja;Jó napot barátom, mit tehetünk érted a mai napon?
+8*64*64;Egy közülünk;Üdv $name, jó előérzettel vártuk visszatérésed.
+32*64*64;Natural leader;$name, you have gained the trust and respect of my people. They will follow you anywhere. 
+-64;Gyanús;Ó te vagy? Mit szeretnél?
+-4*64;Unpleasant outsider;Leave our village now swine!
+-16*64;Public enemy;How dare you show yourself here. Face your punishment!

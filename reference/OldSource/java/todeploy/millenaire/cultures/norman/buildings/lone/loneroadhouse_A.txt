@@ -1,0 +1,21 @@
+//Parameters for the building as a whole
+building.length=13
+building.width=7
+building.buildingorientation=3
+building.startinggood=cider,1.0,8,16
+building.startinggood=calva,1.0,2,4
+building.startinggood=tripes,1.0,2,4
+building.startinggood=boudin,1.0,4,4
+building.startinggood=bread,1.0,8,16
+building.icon=cider
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Relais
+initial.male=innkeepermale
+initial.female=innkeeperfemale
+initial.tag=market
+initial.tag=drinking
+initial.tag=alembic
+initial.shop=loneinn
+

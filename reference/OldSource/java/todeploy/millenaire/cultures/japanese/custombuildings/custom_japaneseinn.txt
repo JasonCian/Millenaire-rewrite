@@ -1,0 +1,1 @@
+native:Shijin;gameNameKey:japaneseinn_A0;tag:inn;tag:leasure;male:japanese_merchant;chest:4-8;sign:2

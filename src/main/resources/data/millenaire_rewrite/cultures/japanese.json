@@ -1,0 +1,194 @@
+{
+  "displayName": "Japanese Culture",
+  "description": "Traditional Japanese culture emphasizing honor, discipline, and harmony with nature. Features samurai traditions, zen philosophy, and distinctive architectural styles.",
+  "version": "1.0.0",
+  "enabled": true,
+  
+  "social": {
+    "professions": [
+      "samurai",
+      "farmer",
+      "artisan",
+      "merchant", 
+      "monk",
+      "tea_master",
+      "sword_smith",
+      "archer",
+      "fisherman",
+      "poet"
+    ],
+    "hierarchy": [
+      "daimyo",
+      "samurai",
+      "ashigaru",
+      "citizen",
+      "peasant"
+    ],
+    "values": {
+      "honor": 0.95,
+      "discipline": 0.9,
+      "harmony": 0.85,
+      "craftsmanship": 0.85,
+      "loyalty": 0.9,
+      "nature_reverence": 0.8
+    }
+  },
+  
+  "architecture": {
+    "style": "traditional_japanese",
+    "building_types": [
+      "dojo",
+      "traditional_house",
+      "temple",
+      "shrine",
+      "tea_house",
+      "farm",
+      "market",
+      "zen_garden",
+      "pagoda",
+      "castle",
+      "bridge"
+    ],
+    "material_preferences": {
+      "wood": 0.95,
+      "bamboo": 0.9,
+      "paper": 0.8,
+      "stone": 0.6,
+      "thatch": 0.8,
+      "clay": 0.7
+    },
+    "decorative_styles": {
+      "sliding_doors": true,
+      "tatami_mats": true,
+      "zen_gardens": true,
+      "cherry_blossoms": true,
+      "curved_roofs": true,
+      "minimalism": true
+    }
+  },
+  
+  "economy": {
+    "currencies": [
+      "koban",
+      "mon",
+      "ryo"
+    ],
+    "trade_preferences": {
+      "rice": 0.9,
+      "tea": 0.85,
+      "silk": 0.7,
+      "pottery": 0.8,
+      "swords": 0.75,
+      "fish": 0.8,
+      "sake": 0.7,
+      "bamboo_goods": 0.75
+    },
+    "production_specialties": [
+      "rice",
+      "tea",
+      "pottery",
+      "swords",
+      "bamboo_crafts",
+      "silk",
+      "sake",
+      "lacquerware"
+    ],
+    "economic_model": {
+      "type": "feudal_rice_based",
+      "focus": "agriculture_and_crafts",
+      "trade_orientation": "regional",
+      "tax_system": "rice_taxation"
+    }
+  },
+  
+  "culture_features": {
+    "cultural_items": [
+      "katana",
+      "wakizashi",
+      "kimono",
+      "tea_set",
+      "sake_cup",
+      "bamboo_flute",
+      "origami",
+      "calligraphy_set",
+      "zen_stone",
+      "cherry_blossom"
+    ],
+    "traditions": {
+      "tea_ceremony": {
+        "frequency": "daily",
+        "importance": "very_high"
+      },
+      "sword_training": {
+        "frequency": "daily",
+        "importance": "high"
+      },
+      "meditation": {
+        "frequency": "daily",
+        "importance": "high"
+      },
+      "poetry_composition": {
+        "frequency": "regular",
+        "importance": "medium"
+      }
+    },
+    "religious_beliefs": {
+      "primary_faith": "shintoism",
+      "secondary_faiths": ["buddhism", "zen"],
+      "religious_importance": 0.85,
+      "nature_worship": 0.9,
+      "ancestor_veneration": 0.8
+    },
+    "festivals": [
+      {
+        "name": "cherry_blossom_festival",
+        "season": "spring",
+        "duration": 5,
+        "importance": "very_high"
+      },
+      {
+        "name": "rice_harvest_festival",
+        "season": "autumn",
+        "duration": 3,
+        "importance": "high"
+      },
+      {
+        "name": "new_year_celebration",
+        "season": "winter",
+        "duration": 7,
+        "importance": "very_high"
+      }
+    ]
+  },
+  
+  "technology": {
+    "levels": {
+      "agriculture": 5,
+      "construction": 4,
+      "craftsmanship": 6,
+      "metallurgy": 6,
+      "military": 6,
+      "navigation": 4,
+      "scholarship": 5,
+      "aesthetics": 7
+    },
+    "research_aptitudes": {
+      "agriculture": 0.8,
+      "construction": 0.6,
+      "craftsmanship": 0.85,
+      "metallurgy": 0.8,
+      "military": 0.8,
+      "navigation": 0.6,
+      "scholarship": 0.7,
+      "aesthetics": 0.9
+    },
+    "knowledge_transmission": {
+      "master_apprentice": true,
+      "written_records": "moderate",
+      "oral_tradition": true,
+      "dojos": true,
+      "temples": true,
+      "family_lineages": true
+    }
+  }
+}

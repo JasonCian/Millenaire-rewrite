@@ -1,0 +1,15 @@
+building.length=30
+building.width=40
+building.issubbuilding=true
+building.parentbuildingplan=fort_A9
+building.max=0
+building.icon=steelchest
+
+initial.startlevel=-4
+initial.nativename=Qila Ka Bhati
+initial.priority=800
+initial.male=indian_armysmith
+initial.female=indian_peasantwife
+initial.prioritymovein=15
+initial.tag=armoury
+initial.shop=armyforge

@@ -376,8 +376,9 @@ public class MillenaireLanguageProvider extends LanguageProvider {
     private void addGuiTranslations() {
         // 创造标签页翻译
         add("creativetab.millenaire_rewrite.millenaire_tab", "Millenaire");
-        add("creativetab.millenaire_rewrite.millenaire_blocks_tab", "Millenaire Blocks");
-        add("creativetab.millenaire_rewrite.millenaire_culture_tab", "Millenaire Cultures");
+        add("creativetab.millenaire_rewrite.millenaire_blocks_tab", "Millenaire: Blocks");
+        add("creativetab.millenaire_rewrite.millenaire_huaxia_tab", "Millenaire: Huaxia Culture");
+        add("creativetab.millenaire_rewrite.millenaire_debug_tab", "Millenaire: Debug Tools");
 
         // 容器界面翻译
         add("container.millenaire_rewrite.huaxia_chest", "Huaxia Chest");
@@ -397,8 +398,9 @@ public class MillenaireLanguageProvider extends LanguageProvider {
     private void addGuiTranslationsZh() {
         // 创造标签页翻译
         add("creativetab.millenaire_rewrite.millenaire_tab", "千年村庄");
-        add("creativetab.millenaire_rewrite.millenaire_blocks_tab", "千年村庄方块");
-        add("creativetab.millenaire_rewrite.millenaire_culture_tab", "千年村庄文化");
+        add("creativetab.millenaire_rewrite.millenaire_blocks_tab", "千年村庄：方块");
+        add("creativetab.millenaire_rewrite.millenaire_huaxia_tab", "千年村庄：华夏文化");
+        add("creativetab.millenaire_rewrite.millenaire_debug_tab", "千年村庄：调试工具");
 
         // 容器界面翻译
         add("container.millenaire_rewrite.huaxia_chest", "华夏箱子");

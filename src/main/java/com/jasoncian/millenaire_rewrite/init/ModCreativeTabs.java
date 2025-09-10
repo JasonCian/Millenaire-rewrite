@@ -141,6 +141,9 @@ public final class ModCreativeTabs {
 
                         // ===== 特殊物品 =====
                         output.accept(ModItems.UNIVERSAL_WALLET.get());
+                        
+                        // ===== 开发工具物品 =====
+                        output.accept(ModItems.MILL_VILLAGER_SPAWNER.get());
 
                         // TODO: 添加其他文化货币物品
                         // output.accept(ModItems.DENIER.get());

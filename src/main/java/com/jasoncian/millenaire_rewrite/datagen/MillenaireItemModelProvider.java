@@ -61,6 +61,9 @@ public class MillenaireItemModelProvider extends ItemModelProvider {
         // 为特殊物品预留的扩展点
         generateSpecialItems();
 
+        // 为开发工具预留的扩展点
+        generateDevelopmentTools();
+
         // 为方块物品预留的扩展点
         generateBlockItems();
 
@@ -260,16 +263,33 @@ public class MillenaireItemModelProvider extends ItemModelProvider {
     }
 
     /**
+     * 生成开发工具物品的模型
+     * 
+     * 包括各种开发和测试用的工具物品：
+     * - 村民生成器
+     * - 调试工具
+     * - 测试物品
+     */
+    private void generateDevelopmentTools() {
+        // ===== 实体生成器 =====
+        // TODO: 生成村民生成器纹理后再启用
+        // simpleItem(ModItems.MILL_VILLAGER_SPAWNER);
+        
+        // TODO: 添加其他开发工具
+        // simpleItem(ModItems.DEBUG_WAND);
+        // simpleItem(ModItems.VILLAGE_BUILDER);
+    }
+
+    /**
      * 为简单物品生成标准模型
      * 
      * @param item 要生成模型的物品
      */
     @SuppressWarnings("unused")
     private ItemModelBuilder simpleItem(RegistryObject<Item> item) {
-        // 使用 getBuilder 而不是 withExistingParent 来避免纹理存在性检查
-        return getBuilder(item.getId().getPath())
-                .parent(getExistingFile(mcLoc("item/generated")))
-                .texture("layer0", modLoc("item/" + item.getId().getPath()));
+        String itemName = item.getId().getPath();
+        return withExistingParent(itemName, "item/generated")
+                .texture("layer0", modLoc("item/" + itemName));
     }
 
     /**

@@ -381,6 +381,13 @@ public final class ModItems {
     public static final RegistryObject<Item> UNIVERSAL_WALLET = ITEMS.register("universal_wallet",
             () -> new UniversalWalletItem(new Item.Properties()));
 
+    // ========== 开发工具物品 ==========
+    
+    /** 千年村民生成器 - 开发测试工具 */
+    public static final RegistryObject<Item> MILL_VILLAGER_SPAWNER = ITEMS.register("mill_villager_spawner",
+            () -> new com.jasoncian.millenaire_rewrite.item.spawn.MillVillagerSpawnerItem(
+                    new Item.Properties().stacksTo(16)));
+
     // TODO: 注册其他特殊物品
     // public static final RegistryObject<Item> VILLAGE_WAND =
     // ITEMS.register("village_wand",

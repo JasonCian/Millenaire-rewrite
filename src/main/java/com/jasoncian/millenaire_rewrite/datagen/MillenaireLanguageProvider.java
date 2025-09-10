@@ -146,6 +146,32 @@ public class MillenaireLanguageProvider extends LanguageProvider {
         addItem(ModItems.HUAXIA_ADVANCED_FENGSHUI_COMPASS, "Advanced Fengshui Compass");
         addItem(ModItems.HUAXIA_MASTER_FENGSHUI_COMPASS, "Master Fengshui Compass");
 
+        // ===== 开发工具物品翻译 =====
+        addItem(ModItems.MILL_VILLAGER_SPAWNER, "Millenaire Villager Spawner");
+
+        // ===== 实体翻译 =====
+        add("entity.millenaire_rewrite.mill_villager", "Millenaire Villager");
+
+        // ===== 村民职业翻译 =====
+        add("villager.profession.farmer", "Farmer");
+        add("villager.profession.herder", "Herder");
+        add("villager.profession.blacksmith", "Blacksmith");
+        add("villager.profession.carpenter", "Carpenter");
+        add("villager.profession.tailor", "Tailor");
+        add("villager.profession.merchant", "Merchant");
+        add("villager.profession.shopkeeper", "Shopkeeper");
+        add("villager.profession.guard", "Guard");
+        add("villager.profession.archer", "Archer");
+        add("villager.profession.scholar", "Scholar");
+        add("villager.profession.tea_merchant", "Tea Merchant");
+        add("villager.profession.potter", "Potter");
+        add("villager.profession.cook", "Cook");
+        add("villager.profession.healer", "Healer");
+
+        // ===== 村民性别翻译 =====
+        add("villager.gender.male", "Male");
+        add("villager.gender.female", "Female");
+
         // TODO: 添加其他物品翻译
         // addItem(ModItems.CULTURE_SCROLL, "Culture Scroll");
         // addItem(ModItems.DENIER, "Denier");
@@ -280,6 +306,32 @@ public class MillenaireLanguageProvider extends LanguageProvider {
         addItem(ModItems.HUAXIA_BASIC_FENGSHUI_COMPASS, "基础风水罗盘");
         addItem(ModItems.HUAXIA_ADVANCED_FENGSHUI_COMPASS, "精制风水罗盘");
         addItem(ModItems.HUAXIA_MASTER_FENGSHUI_COMPASS, "大师风水罗盘");
+
+        // ===== 开发工具物品翻译 =====
+        addItem(ModItems.MILL_VILLAGER_SPAWNER, "千年村民生成器");
+
+        // ===== 实体翻译 =====
+        add("entity.millenaire_rewrite.mill_villager", "千年村民");
+
+        // ===== 村民职业翻译 =====
+        add("villager.profession.farmer", "农民");
+        add("villager.profession.herder", "牧民");
+        add("villager.profession.blacksmith", "铁匠");
+        add("villager.profession.carpenter", "木匠");
+        add("villager.profession.tailor", "裁缝");
+        add("villager.profession.merchant", "商人");
+        add("villager.profession.shopkeeper", "店主");
+        add("villager.profession.guard", "守卫");
+        add("villager.profession.archer", "弓箭手");
+        add("villager.profession.scholar", "学者");
+        add("villager.profession.tea_merchant", "茶商");
+        add("villager.profession.potter", "瓷匠");
+        add("villager.profession.cook", "厨师");
+        add("villager.profession.healer", "治疗师");
+
+        // ===== 村民性别翻译 =====
+        add("villager.gender.male", "男性");
+        add("villager.gender.female", "女性");
 
         // TODO: 添加其他物品翻译
         // addItem(ModItems.CULTURE_SCROLL, "文化卷轴");

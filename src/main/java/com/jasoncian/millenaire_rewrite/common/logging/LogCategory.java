@@ -42,6 +42,9 @@ public enum LogCategory {
     /** AI系统 - 村民AI、行为逻辑等 */
     AI("AI", "AI系统"),
     
+    /** 实体系统 - 实体创建、管理、行为等 */
+    ENTITY("ENTITY", "实体系统"),
+    
     /** 建筑系统 - 建筑生成、规划等 */
     BUILDING("BUILDING", "建筑系统"),
     

@@ -55,6 +55,7 @@ public class MillenaireTexturePlaceholderProvider implements DataProvider {
 
                 generateItemTexturePlaceholders(cache);
                 generateBlockTexturePlaceholders(cache);
+                generateEntityTexturePlaceholders(cache);
                 generateCultureSpecificTextures(cache);
                 generateGUITexturePlaceholders(cache);
 
@@ -197,6 +198,9 @@ public class MillenaireTexturePlaceholderProvider implements DataProvider {
         generateTexturePlaceholder(cache, "item/huaxia_advanced_fengshui_compass", "精制罗盘", new Color(169, 169, 169));
         generateTexturePlaceholder(cache, "item/huaxia_master_fengshui_compass", "大师罗盘", new Color(255, 215, 0));
 
+        // ===== 开发工具物品 =====
+        generateTexturePlaceholder(cache, "item/mill_villager_spawner", "村民生成器", new Color(144, 238, 144));
+
         // TODO: 其他文化的物品纹理占位将在对应文化实现时添加
         // Norman（诺曼）文化物品
         // Japanese（日本）文化物品
@@ -229,6 +233,111 @@ public class MillenaireTexturePlaceholderProvider implements DataProvider {
         // Norman（诺曼）文化方块
         // Japanese（日本）文化方块
         // Byzantine（拜占庭）文化方块
+    }
+
+    /**
+     * 生成实体纹理占位文件
+     */
+    private void generateEntityTexturePlaceholders(CachedOutput cache) throws IOException {
+        // ===== 村民实体纹理 =====
+        
+        // 为每个文化、性别、职业组合生成纹理占位符
+        String[] cultures = {"norman", "byzantine", "japanese", "huaxia"};
+        String[] genders = {"male", "female"};
+        String[] professions = {"farmer", "blacksmith", "merchant", "guard", "scholar", "tea_merchant", "potter"};
+        
+        Color[] cultureColors = {
+            new Color(139, 69, 19),    // Norman - 棕色
+            new Color(128, 0, 128),    // Byzantine - 紫色
+            new Color(255, 99, 71),    // Japanese - 红橙色
+            new Color(255, 215, 0)     // Huaxia - 金色
+        };
+        
+        for (int i = 0; i < cultures.length; i++) {
+            String culture = cultures[i];
+            Color baseColor = cultureColors[i];
+            
+            for (String gender : genders) {
+                for (String profession : professions) {
+                    // 根据性别调整颜色
+                    Color genderColor = gender.equals("male") ? baseColor : adjustColorForFemale(baseColor);
+                    
+                    // 根据职业调整颜色
+                    Color finalColor = adjustColorForProfession(genderColor, profession);
+                    
+                    String texturePath = String.format("entity/villager/%s_%s_%s", culture, gender, profession);
+                    String displayText = String.format("%s %s %s", 
+                        culture.substring(0, 1).toUpperCase() + culture.substring(1),
+                        gender.equals("male") ? "男" : "女",
+                        getProfessionDisplayName(profession));
+                    
+                    // 生成64x64的实体纹理占位符
+                    generateTexturePlaceholder(cache, texturePath, displayText, finalColor, 64, 64);
+                }
+            }
+        }
+        
+        MillenaireLogger.info(LogCategory.DATAGEN, "实体纹理占位文件生成完成");
+    }
+
+    /**
+     * 为女性角色调整颜色（通常使用更柔和的色调）
+     */
+    private Color adjustColorForFemale(Color baseColor) {
+        int r = Math.min(255, baseColor.getRed() + 20);
+        int g = Math.min(255, baseColor.getGreen() + 20);
+        int b = Math.min(255, baseColor.getBlue() + 20);
+        return new Color(r, g, b);
+    }
+
+    /**
+     * 根据职业调整颜色
+     */
+    private Color adjustColorForProfession(Color baseColor, String profession) {
+        switch (profession) {
+            case "farmer":
+                return mixColors(baseColor, new Color(34, 139, 34)); // 绿色
+            case "blacksmith":
+                return mixColors(baseColor, new Color(128, 128, 128)); // 灰色
+            case "merchant":
+                return mixColors(baseColor, new Color(255, 215, 0)); // 金色
+            case "guard":
+                return mixColors(baseColor, new Color(139, 0, 0)); // 深红色
+            case "scholar":
+                return mixColors(baseColor, new Color(70, 130, 180)); // 钢蓝色
+            case "tea_merchant":
+                return mixColors(baseColor, new Color(144, 238, 144)); // 淡绿色
+            case "potter":
+                return mixColors(baseColor, new Color(160, 82, 45)); // 棕色
+            default:
+                return baseColor;
+        }
+    }
+
+    /**
+     * 混合两种颜色
+     */
+    private Color mixColors(Color color1, Color color2) {
+        int r = (color1.getRed() + color2.getRed()) / 2;
+        int g = (color1.getGreen() + color2.getGreen()) / 2;
+        int b = (color1.getBlue() + color2.getBlue()) / 2;
+        return new Color(r, g, b);
+    }
+
+    /**
+     * 获取职业显示名称
+     */
+    private String getProfessionDisplayName(String profession) {
+        switch (profession) {
+            case "farmer": return "农";
+            case "blacksmith": return "铁";
+            case "merchant": return "商";
+            case "guard": return "卫";
+            case "scholar": return "学";
+            case "tea_merchant": return "茶";
+            case "potter": return "陶";
+            default: return profession.substring(0, 1).toUpperCase();
+        }
     }
 
     /**

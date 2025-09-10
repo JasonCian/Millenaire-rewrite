@@ -54,7 +54,7 @@ public final class ModRegistries {
         ModBlockEntities.init(modEventBus);
 
         // 4. 实体类型注册表
-        // TODO: ModEntityTypes.init(modEventBus);
+        ModEntityTypes.init(modEventBus);
 
         // 5. 声音事件注册表
         // TODO: ModSounds.init(modEventBus);

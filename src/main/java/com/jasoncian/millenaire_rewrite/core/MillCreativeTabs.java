@@ -1,6 +1,7 @@
 package com.jasoncian.millenaire_rewrite.core;
 
 import com.jasoncian.millenaire_rewrite.MillenaireRewrite;
+import com.jasoncian.millenaire_rewrite.items.ItemMillParchment;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.network.chat.Component;
 import net.minecraft.world.item.CreativeModeTab;
@@ -8,6 +9,7 @@ import net.minecraft.world.item.ItemStack;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.RegistryObject;
+import com.jasoncian.millenaire_rewrite.data.ParchmentContentData;
 
 /**
  * Millenaire 创意模式标签页管理器 - 1.20.1现代化实现
@@ -132,10 +134,10 @@ public class MillCreativeTabs {
                 output.accept(ModItems.TAPESTRY.get());
                 
                 // 诺曼羊皮纸
-                output.accept(ModItems.PARCHMENT_NORMAN_VILLAGER.get());
-                output.accept(ModItems.PARCHMENT_NORMAN_BUILDING.get());
-                output.accept(ModItems.PARCHMENT_NORMAN_ITEM.get());
-                output.accept(ModItems.PARCHMENT_NORMAN_ALL.get());
+                output.accept(ParchmentContentData.createNormanVillagerParchment());
+                output.accept(ParchmentContentData.createNormanBuildingParchment());
+                output.accept(ParchmentContentData.createNormanItemParchment());
+                output.accept(ParchmentContentData.createNormanAllParchment());
             })
             .build());
 
@@ -176,10 +178,10 @@ public class MillCreativeTabs {
                 output.accept(ModItems.BYZANTINE_ICON_LARGE.get());
                 
                 // 拜占庭羊皮纸
-                output.accept(ModItems.PARCHMENT_BYZANTINE_VILLAGER.get());
-                output.accept(ModItems.PARCHMENT_BYZANTINE_BUILDING.get());
-                output.accept(ModItems.PARCHMENT_BYZANTINE_ITEM.get());
-                output.accept(ModItems.PARCHMENT_BYZANTINE_ALL.get());
+                output.accept(ParchmentContentData.createByzantineVillagerParchment());
+                output.accept(ParchmentContentData.createByzantineBuildingParchment());
+                output.accept(ParchmentContentData.createByzantineItemParchment());
+                output.accept(ParchmentContentData.createByzantineAllParchment());
             })
             .build());
 
@@ -219,10 +221,10 @@ public class MillCreativeTabs {
                 output.accept(ModItems.JAPANESE_BOW.get());
                 
                 // 日本羊皮纸
-                output.accept(ModItems.PARCHMENT_JAPANESE_VILLAGER.get());
-                output.accept(ModItems.PARCHMENT_JAPANESE_BUILDING.get());
-                output.accept(ModItems.PARCHMENT_JAPANESE_ITEM.get());
-                output.accept(ModItems.PARCHMENT_JAPANESE_ALL.get());
+                output.accept(ParchmentContentData.createJapaneseVillagerParchment());
+                output.accept(ParchmentContentData.createJapaneseBuildingParchment());
+                output.accept(ParchmentContentData.createJapaneseItemParchment());
+                output.accept(ParchmentContentData.createJapaneseAllParchment());
             })
             .build());
 
@@ -257,10 +259,10 @@ public class MillCreativeTabs {
                 output.accept(ModItems.MAYAN_STATUE.get());
                 
                 // 玛雅羊皮纸
-                output.accept(ModItems.PARCHMENT_MAYAN_VILLAGER.get());
-                output.accept(ModItems.PARCHMENT_MAYAN_BUILDING.get());
-                output.accept(ModItems.PARCHMENT_MAYAN_ITEM.get());
-                output.accept(ModItems.PARCHMENT_MAYAN_ALL.get());
+                output.accept(ParchmentContentData.createMayanVillagerParchment());
+                output.accept(ParchmentContentData.createMayanBuildingParchment());
+                output.accept(ParchmentContentData.createMayanItemParchment());
+                output.accept(ParchmentContentData.createMayanAllParchment());
             })
             .build());
 
@@ -286,10 +288,10 @@ public class MillCreativeTabs {
                 output.accept(ModItems.PARCHMENT_SADHU.get());
                 
                 // 印度羊皮纸
-                output.accept(ModItems.PARCHMENT_HINDI_VILLAGER.get());
-                output.accept(ModItems.PARCHMENT_HINDI_BUILDING.get());
-                output.accept(ModItems.PARCHMENT_HINDI_ITEM.get());
-                output.accept(ModItems.PARCHMENT_HINDI_ALL.get());
+                output.accept(ParchmentContentData.createHindiVillagerParchment());
+                output.accept(ParchmentContentData.createHindiBuildingParchment());
+                output.accept(ParchmentContentData.createHindiItemParchment());
+                output.accept(ParchmentContentData.createHindiAllParchment());
             })
             .build());
 

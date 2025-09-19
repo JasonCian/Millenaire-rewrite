@@ -65,6 +65,25 @@ public class ParchmentContentData {
         return ItemMillParchment.createParchment(title, contents, 
             ItemMillParchment.Culture.NORMAN, ItemMillParchment.ParchmentType.ITEM);
     }
+
+    /**
+     * 创建诺曼全书羊皮纸 - 诺曼完整指南
+     */
+    public static ItemStack createNormanAllParchment() {
+        String title = "诺曼完整指南";
+        String[] contents = {
+                "=== 诺曼文化综合指南 ===",
+                "包含诺曼村民、建筑、物品的完整信息",
+                "村民: 首领、骑士、农民、工匠、妇女、儿童、商人、建筑师",
+                "建筑: 市政厅、铁匠铺、农场、哨塔、民居、教堂、市场、马厩",
+                "物品: 诺曼剑、诺曼斧、诺曼镐、诺曼铲、诺曼锄、苹果酒、血肠、诺曼盔甲",
+                "=== 文化特色 ===",
+                "诺曼人以其军事组织和农业技术闻名",
+                "他们建立坚固的村庄和有效的管理体系"
+        };
+        return ItemMillParchment.createParchment(title, contents,
+                ItemMillParchment.Culture.NORMAN, ItemMillParchment.ParchmentType.ALL);
+    }
     
     /**
      * 创建拜占庭村民羊皮纸
@@ -121,6 +140,25 @@ public class ParchmentContentData {
         };
         return ItemMillParchment.createParchment(title, contents, 
             ItemMillParchment.Culture.BYZANTINE, ItemMillParchment.ParchmentType.ITEM);
+    }
+
+    /**
+     * 创建拜占庭全书羊皮纸 - 拜占庭完整指南
+     */
+    public static ItemStack createByzantineAllParchment() {
+        String title = "拜占庭完整指南";
+        String[] contents = {
+                "=== 拜占庭文化综合指南 ===",
+                "包含拜占庭村民、建筑、物品的完整信息",
+                "村民: 执政官、百夫长、工匠、学者、贵妇、奴隶、商贾、神父",
+                "建筑: 总督府、要塞、工坊、图书馆、浴场、斗兽场、大教堂、港口",
+                "物品: 拜占庭权杖、希腊火、葡萄酒、马尔瓦西亚酒、羊乳酪、烤肉串、拜占庭盔甲、紫色丝绸",
+                "=== 文化特色 ===",
+                "拜占庭帝国以其豪华和军事技术闻名",
+                "他们继承罗马传统并发展出独特的东正教文化"
+        };
+        return ItemMillParchment.createParchment(title, contents,
+                ItemMillParchment.Culture.BYZANTINE, ItemMillParchment.ParchmentType.ALL);
     }
     
     /**
@@ -179,6 +217,20 @@ public class ParchmentContentData {
         return ItemMillParchment.createParchment(title, contents, 
             ItemMillParchment.Culture.HINDI, ItemMillParchment.ParchmentType.ITEM);
     }
+
+    /**
+     * 创建印度全书羊皮纸 - 印度完整指南
+     */
+    public static ItemStack createHindiAllParchment() {
+        String title = "印度完整指南";
+        String[] contents = {
+                "=== 印度文化综合指南 ===",
+                "包含印度村民、建筑、物品的完整信息",
+                // ... 添加具体内容
+        };
+        return ItemMillParchment.createParchment(title, contents,
+                ItemMillParchment.Culture.HINDI, ItemMillParchment.ParchmentType.ALL);
+    }
     
     /**
      * 创建玛雅村民羊皮纸
@@ -236,6 +288,20 @@ public class ParchmentContentData {
         return ItemMillParchment.createParchment(title, contents, 
             ItemMillParchment.Culture.MAYAN, ItemMillParchment.ParchmentType.ITEM);
     }
+
+    /**
+     * 创建玛雅全书羊皮纸
+     */
+    public static ItemStack createMayanAllParchment() {
+        String title = "玛雅完整指南";
+        String[] contents = {
+                "=== 玛雅文化综合指南 ===",
+                "包含玛雅村民、建筑、物品的完整信息",
+                // ... 添加具体内容
+        };
+        return ItemMillParchment.createParchment(title, contents,
+                ItemMillParchment.Culture.MAYAN, ItemMillParchment.ParchmentType.ALL);
+    }
     
     /**
      * 创建日本村民羊皮纸
@@ -292,5 +358,18 @@ public class ParchmentContentData {
         };
         return ItemMillParchment.createParchment(title, contents, 
             ItemMillParchment.Culture.JAPANESE, ItemMillParchment.ParchmentType.ITEM);
+    }
+    /**
+     * 创建日本全书羊皮纸
+     */
+    public static ItemStack createJapaneseAllParchment() {
+        String title = "日本完整指南";
+        String[] contents = {
+                "=== 日本文化综合指南 ===",
+                "包含玛雅村民、建筑、物品的完整信息",
+                // ... 添加具体内容
+        };
+        return ItemMillParchment.createParchment(title, contents,
+                ItemMillParchment.Culture.JAPANESE, ItemMillParchment.ParchmentType.ALL);
     }
 }

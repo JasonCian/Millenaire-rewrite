@@ -377,6 +377,7 @@ public class ModLanguageProvider extends LanguageProvider {
         add("currency.millenaire_rewrite.copper", "Copper");
         add("currency.millenaire_rewrite.denier", "Denier");
         add("currency.millenaire_rewrite.zero", "0 Copper Denier");
+        addEnglishParchmentContentTranslations();
     }
 
     private void addChineseTranslations() {
@@ -714,5 +715,454 @@ public class ModLanguageProvider extends LanguageProvider {
         add("currency.millenaire_rewrite.copper", "铜");
         add("currency.millenaire_rewrite.denier", "第纳尔");
         add("currency.millenaire_rewrite.zero", "0 铜第纳尔");
+        addChineseParchmentContentTranslations();
     }
+
+    /**
+     * 添加羊皮纸内容的翻译
+     */
+    private void addEnglishParchmentContentTranslations() {
+        // Norman Parchment Contents
+        add("parchment.norman.villager.title", "Norman Villager Guide");
+        add("parchment.norman.villager.chief", "Chief - Leader of the village");
+        add("parchment.norman.villager.knight", "Knight - Armed warrior");
+        add("parchment.norman.villager.farmer", "Farmer - Crop cultivator");
+        add("parchment.norman.villager.artisan", "Artisan - Craftsman");
+        add("parchment.norman.villager.women", "Women - Household manager");
+        add("parchment.norman.villager.children", "Children - Future of the village");
+        add("parchment.norman.villager.merchant", "Merchant - Trade expert");
+        add("parchment.norman.villager.architect", "Architect - Master builder");
+
+        add("parchment.norman.building.title", "Norman Building Guide");
+        add("parchment.norman.building.town_hall", "Town Hall - Administrative center of the village");
+        add("parchment.norman.building.blacksmith", "Blacksmith - Makes metal tools and weapons");
+        add("parchment.norman.building.farm", "Farm - Grows wheat and raises livestock");
+        add("parchment.norman.building.watchtower", "Watchtower - Defense structure and lookout point");
+        add("parchment.norman.building.house", "House - Villager residence");
+        add("parchment.norman.building.church", "Church - Religious activities place");
+        add("parchment.norman.building.market", "Market - Trade center");
+        add("parchment.norman.building.stable", "Stable - Warhorse breeding place");
+
+        add("parchment.norman.item.title", "Norman Item Guide");
+        add("parchment.norman.item.sword", "Norman Sword - Sharp one-handed sword");
+        add("parchment.norman.item.axe", "Norman Axe - Practical logging tool");
+        add("parchment.norman.item.pickaxe", "Norman Pickaxe - Sturdy mining tool");
+        add("parchment.norman.item.shovel", "Norman Shovel - Efficient digging tool");
+        add("parchment.norman.item.hoe", "Norman Hoe - Agricultural specialized tool");
+        add("parchment.norman.item.cider", "Cider - Norman specialty drink");
+        add("parchment.norman.item.blood_sausage", "Blood Sausage - Traditional food");
+        add("parchment.norman.item.armor", "Norman Armor - Protective equipment");
+
+        add("parchment.norman.all.title", "Norman Complete Guide");
+        add("parchment.norman.all.line1", "=== Norman Culture Complete Guide ===");
+        add("parchment.norman.all.line2", "Complete information about Norman villagers, buildings, and items");
+        add("parchment.norman.all.line3", "Villagers: Chief, Knight, Farmer, Artisan, Women, Children, Merchant, Architect");
+        add("parchment.norman.all.line4", "Buildings: Town Hall, Blacksmith, Farm, Watchtower, House, Church, Market, Stable");
+        add("parchment.norman.all.line5", "Items: Norman Sword, Norman Axe, Norman Pickaxe, Norman Shovel, Norman Hoe, Cider, Blood Sausage, Norman Armor");
+        add("parchment.norman.all.line6", "=== Cultural Features ===");
+        add("parchment.norman.all.line7", "Normans are known for their military organization and agricultural technology");
+        add("parchment.norman.all.line8", "They establish sturdy villages and effective management systems");
+
+        // Byzantine Parchment Contents
+        add("parchment.byzantine.villager.title", "Byzantine Villager Guide");
+        add("parchment.byzantine.villager.governor", "Governor - Ruler of Byzantine village");
+        add("parchment.byzantine.villager.centurion", "Centurion - Military commander");
+        add("parchment.byzantine.villager.artisan", "Artisan - Skilled craftsman");
+        add("parchment.byzantine.villager.scholar", "Scholar - Guardian of knowledge");
+        add("parchment.byzantine.villager.noblewoman", "Noblewoman - Woman of high social status");
+        add("parchment.byzantine.villager.slave", "Slave - Performs manual labor");
+        add("parchment.byzantine.villager.merchant", "Merchant - Long-distance trader");
+        add("parchment.byzantine.villager.priest", "Priest - Orthodox clergy");
+
+        add("parchment.byzantine.building.title", "Byzantine Building Guide");
+        add("parchment.byzantine.building.governor_palace", "Governor's Palace - Administrative center");
+        add("parchment.byzantine.building.fortress", "Fortress - Military defense structure");
+        add("parchment.byzantine.building.workshop", "Workshop - Handicraft production site");
+        add("parchment.byzantine.building.library", "Library - Knowledge preservation center");
+        add("parchment.byzantine.building.baths", "Baths - Public bathing facilities");
+        add("parchment.byzantine.building.colosseum", "Colosseum - Entertainment arena");
+        add("parchment.byzantine.building.cathedral", "Cathedral - Religious worship center");
+        add("parchment.byzantine.building.port", "Port - Maritime trade base");
+
+        add("parchment.byzantine.item.title", "Byzantine Item Guide");
+        add("parchment.byzantine.item.scepter", "Byzantine Scepter - Symbol of power");
+        add("parchment.byzantine.item.greek_fire", "Greek Fire - Secret military weapon");
+        add("parchment.byzantine.item.wine", "Wine - Quality fermented drink");
+        add("parchment.byzantine.item.malvasia", "Malvasia - Premium sweet wine");
+        add("parchment.byzantine.item.feta_cheese", "Feta Cheese - Traditional dairy product");
+        add("parchment.byzantine.item.kebab", "Kebab - Specialty food");
+        add("parchment.byzantine.item.armor", "Byzantine Armor - Refined protective gear");
+        add("parchment.byzantine.item.purple_silk", "Purple Silk - Fabric for nobility only");
+
+        add("parchment.byzantine.all.title", "Byzantine Complete Guide");
+        add("parchment.byzantine.all.line1", "=== Byzantine Culture Complete Guide ===");
+        add("parchment.byzantine.all.line2", "Complete information about Byzantine villagers, buildings, and items");
+        add("parchment.byzantine.all.line3", "Villagers: Governor, Centurion, Artisan, Scholar, Noblewoman, Slave, Merchant, Priest");
+        add("parchment.byzantine.all.line4", "Buildings: Governor's Palace, Fortress, Workshop, Library, Baths, Colosseum, Cathedral, Port");
+        add("parchment.byzantine.all.line5", "Items: Byzantine Scepter, Greek Fire, Wine, Malvasia, Feta Cheese, Kebab, Byzantine Armor, Purple Silk");
+        add("parchment.byzantine.all.line6", "=== Cultural Features ===");
+        add("parchment.byzantine.all.line7", "Byzantine Empire is famous for its luxury and military technology");
+        add("parchment.byzantine.all.line8", "They inherit Roman traditions and develop unique Orthodox culture");
+
+        // Hindi Parchment Contents
+        add("parchment.hindi.villager.title", "Hindi Villager Guide");
+        add("parchment.hindi.villager.raja", "Raja - Indian prince or ruler");
+        add("parchment.hindi.villager.brahmin", "Brahmin - Priest class");
+        add("parchment.hindi.villager.kshatriya", "Kshatriya - Warrior class");
+        add("parchment.hindi.villager.vaishya", "Vaishya - Merchants and farmers");
+        add("parchment.hindi.villager.shudra", "Shudra - Servant class");
+        add("parchment.hindi.villager.yogi", "Yogi - Spiritual guide");
+        add("parchment.hindi.villager.dancer", "Dancer - Traditional art performer");
+        add("parchment.hindi.villager.spice_merchant", "Spice Merchant - Trade expert");
+
+        add("parchment.hindi.building.title", "Hindi Building Guide");
+        add("parchment.hindi.building.palace", "Palace - Magnificent residence of Raja");
+        add("parchment.hindi.building.temple", "Temple - Religious worship place");
+        add("parchment.hindi.building.market", "Market - Spice trade center");
+        add("parchment.hindi.building.yoga_studio", "Yoga Studio - Meditation practice place");
+        add("parchment.hindi.building.weaving_room", "Weaving Room - Silk production workshop");
+        add("parchment.hindi.building.spice_garden", "Spice Garden - Grows seasoning plants");
+        add("parchment.hindi.building.well", "Well - Community water supply");
+        add("parchment.hindi.building.dance_hall", "Dance Hall - Art performance venue");
+
+        add("parchment.hindi.item.title", "Hindi Item Guide");
+        add("parchment.hindi.item.turmeric", "Turmeric - Precious spice seasoning");
+        add("parchment.hindi.item.rice", "Rice - Main food crop");
+        add("parchment.hindi.item.vegetable_curry", "Vegetable Curry - Vegetarian delicacy");
+        add("parchment.hindi.item.chicken_curry", "Chicken Curry - Meat delicacy");
+        add("parchment.hindi.item.gulab_jamun", "Gulab Jamun - Traditional sweet dessert");
+        add("parchment.hindi.item.silk_cloth", "Silk Cloth - Luxurious textile");
+        add("parchment.hindi.item.indian_sword", "Indian Sword - Decorative weapon");
+        add("parchment.hindi.item.spice_powder", "Spice Powder - Seasoning material");
+
+        add("parchment.hindi.all.title", "Hindi Complete Guide");
+        add("parchment.hindi.all.line1", "=== Hindi Culture Complete Guide ===");
+        add("parchment.hindi.all.line2", "Complete information about Hindi villagers, buildings, and items");
+        add("parchment.hindi.all.line3", "Villagers: Raja, Brahmin, Kshatriya, Vaishya, Shudra, Yogi, Dancer, Spice Merchant");
+        add("parchment.hindi.all.line4", "Buildings: Palace, Temple, Market, Yoga Studio, Weaving Room, Spice Garden, Well, Dance Hall");
+        add("parchment.hindi.all.line5", "Items: Turmeric, Rice, Vegetable Curry, Chicken Curry, Gulab Jamun, Silk Cloth, Indian Sword, Spice Powder");
+        add("parchment.hindi.all.line6", "=== Cultural Features ===");
+        add("parchment.hindi.all.line7", "Hindi culture is known for its rich religious traditions and spice trade");
+        add("parchment.hindi.all.line8", "They developed unique caste system and spiritual practice systems");
+
+        // Mayan Parchment Contents
+        add("parchment.mayan.villager.title", "Mayan Villager Guide");
+        add("parchment.mayan.villager.priest_king", "Priest King - Ruler of Mayan civilization");
+        add("parchment.mayan.villager.warrior", "Warrior - Brave jungle fighter");
+        add("parchment.mayan.villager.astronomer", "Astronomer - Wise star observer");
+        add("parchment.mayan.villager.farmer", "Farmer - Corn cultivation expert");
+        add("parchment.mayan.villager.artisan", "Artisan - Obsidian carver");
+        add("parchment.mayan.villager.dancer", "Dancer - Religious ceremony performer");
+        add("parchment.mayan.villager.merchant", "Merchant - Long-distance trader");
+        add("parchment.mayan.villager.shaman", "Shaman - Spirit communicator wizard");
+
+        add("parchment.mayan.building.title", "Mayan Building Guide");
+        add("parchment.mayan.building.pyramid", "Pyramid - Religious ceremony center");
+        add("parchment.mayan.building.observatory", "Observatory - Celestial body observation");
+        add("parchment.mayan.building.ball_court", "Ball Court - Traditional sports competition");
+        add("parchment.mayan.building.altar", "Altar - Sacrifice ceremony place");
+        add("parchment.mayan.building.steam_bath", "Steam Bath - Purification place");
+        add("parchment.mayan.building.workshop", "Workshop - Obsidian processing factory");
+        add("parchment.mayan.building.farmland", "Farmland - Corn cultivation area");
+        add("parchment.mayan.building.cenote", "Cenote - Sacred water source");
+
+        add("parchment.mayan.item.title", "Mayan Item Guide");
+        add("parchment.mayan.item.corn", "Corn - Sacred food crop");
+        add("parchment.mayan.item.cacao", "Cacao - Makes sacred drink");
+        add("parchment.mayan.item.masa", "Masa - Food made from corn");
+        add("parchment.mayan.item.wah", "Wah - Special ritual food");
+        add("parchment.mayan.item.obsidian_tool", "Obsidian Tool - Sharp stone tool");
+        add("parchment.mayan.item.scepter", "Mayan Scepter - Symbol of power");
+        add("parchment.mayan.item.feather_headress", "Feather Headress - Status symbol");
+        add("parchment.mayan.item.jade_ornament", "Jade Ornament - Precious decoration");
+
+        add("parchment.mayan.all.title", "Mayan Complete Guide");
+        add("parchment.mayan.all.line1", "=== Mayan Culture Complete Guide ===");
+        add("parchment.mayan.all.line2", "Complete information about Mayan villagers, buildings, and items");
+        add("parchment.mayan.all.line3", "Villagers: Priest King, Warrior, Astronomer, Farmer, Artisan, Dancer, Merchant, Shaman");
+        add("parchment.mayan.all.line4", "Buildings: Pyramid, Observatory, Ball Court, Altar, Steam Bath, Workshop, Farmland, Cenote");
+        add("parchment.mayan.all.line5", "Items: Corn, Cacao, Masa, Wah, Obsidian Tool, Mayan Scepter, Feather Headress, Jade Ornament");
+        add("parchment.mayan.all.line6", "=== Cultural Features ===");
+        add("parchment.mayan.all.line7", "Mayan civilization is known for its precise astronomical knowledge and grand architecture");
+        add("parchment.mayan.all.line8", "They developed complex calendar systems and unique religious ceremonies");
+
+        // Japanese Parchment Contents
+        add("parchment.japanese.villager.title", "Japanese Villager Guide");
+        add("parchment.japanese.villager.daimyo", "Daimyo - Feudal lord");
+        add("parchment.japanese.villager.samurai", "Samurai - Professional warrior class");
+        add("parchment.japanese.villager.monk", "Monk - Buddhist practitioner");
+        add("parchment.japanese.villager.farmer", "Farmer - Rice cultivator");
+        add("parchment.japanese.villager.artisan", "Artisan - Handicraft expert");
+        add("parchment.japanese.villager.geisha", "Geisha - Traditional art performer");
+        add("parchment.japanese.villager.merchant", "Merchant - Trade practitioner");
+        add("parchment.japanese.villager.ninja", "Ninja - Secret spy");
+
+        add("parchment.japanese.building.title", "Japanese Building Guide");
+        add("parchment.japanese.building.castle_keep", "Castle Keep - Main tower of castle");
+        add("parchment.japanese.building.shrine", "Shrine - Shinto sacred place");
+        add("parchment.japanese.building.dojo", "Dojo - Martial arts training ground");
+        add("parchment.japanese.building.tea_room", "Tea Room - Tea ceremony venue");
+        add("parchment.japanese.building.rice_field", "Rice Field - Rice cultivation area");
+        add("parchment.japanese.building.onsen", "Onsen - Natural hot spring bath");
+        add("parchment.japanese.building.bamboo_forest", "Bamboo Forest - Bamboo growing area");
+        add("parchment.japanese.building.zen_garden", "Zen Garden - Meditation practice place");
+
+        add("parchment.japanese.item.title", "Japanese Item Guide");
+        add("parchment.japanese.item.katana", "Katana - Sharp long sword");
+        add("parchment.japanese.item.yumi", "Yumi - Traditional bow");
+        add("parchment.japanese.item.sake", "Sake - Rice brewed alcohol");
+        add("parchment.japanese.item.udon", "Udon - Traditional noodles");
+        add("parchment.japanese.item.takoyaki", "Takoyaki - Specialty snack");
+        add("parchment.japanese.item.samurai_armor", "Samurai Armor - Protective equipment");
+        add("parchment.japanese.item.kimono", "Kimono - Traditional clothing");
+        add("parchment.japanese.item.bamboo_product", "Bamboo Product - Practical tool");
+
+        add("parchment.japanese.all.title", "Japanese Complete Guide");
+        add("parchment.japanese.all.line1", "=== Japanese Culture Complete Guide ===");
+        add("parchment.japanese.all.line2", "Complete information about Japanese villagers, buildings, and items");
+        add("parchment.japanese.all.line3", "Villagers: Daimyo, Samurai, Monk, Farmer, Artisan, Geisha, Merchant, Ninja");
+        add("parchment.japanese.all.line4", "Buildings: Castle Keep, Shrine, Dojo, Tea Room, Rice Field, Onsen, Bamboo Forest, Zen Garden");
+        add("parchment.japanese.all.line5", "Items: Katana, Yumi, Sake, Udon, Takoyaki, Samurai Armor, Kimono, Bamboo Product");
+        add("parchment.japanese.all.line6", "=== Cultural Features ===");
+        add("parchment.japanese.all.line7", "Japanese culture is known for its refined arts and strict etiquette");
+        add("parchment.japanese.all.line8", "They developed unique Bushido spirit and Zen philosophy");
+
+        // GUI and Tooltips
+        add("gui.millenaire_rewrite.parchment.title", "Parchment");
+        add("gui.millenaire_rewrite.parchment.previous", "Previous");
+        add("gui.millenaire_rewrite.parchment.next", "Next");
+        add("gui.millenaire_rewrite.parchment.close", "Close");
+        add("gui.millenaire_rewrite.parchment.page_info", "Page %s of %s");
+
+        add("tooltip.millenaire_rewrite.parchment.title", "Title: %s");
+        add("tooltip.millenaire_rewrite.parchment.culture", "Culture: %s");
+        add("tooltip.millenaire_rewrite.parchment.type", "Type: %s");
+        add("tooltip.millenaire_rewrite.parchment.entries", "Entries: %s");
+        add("tooltip.millenaire_rewrite.parchment.use", "Right-click to read");
+    }
+
+    private void addChineseParchmentContentTranslations() {
+        // Norman Parchment Contents
+        add("parchment.norman.villager.title", "诺曼村民指南");
+        add("parchment.norman.villager.chief", "首领 - 村庄的领导者");
+        add("parchment.norman.villager.knight", "骑士 - 武装战士");
+        add("parchment.norman.villager.farmer", "农民 - 种植作物");
+        add("parchment.norman.villager.artisan", "工匠 - 手工艺人");
+        add("parchment.norman.villager.women", "妇女 - 家庭管理者");
+        add("parchment.norman.villager.children", "儿童 - 村庄的未来");
+        add("parchment.norman.villager.merchant", "商人 - 贸易专家");
+        add("parchment.norman.villager.architect", "建筑师 - 建筑大师");
+
+        add("parchment.norman.building.title", "诺曼建筑指南");
+        add("parchment.norman.building.town_hall", "市政厅 - 村庄的行政中心");
+        add("parchment.norman.building.blacksmith", "铁匠铺 - 制作金属工具和武器");
+        add("parchment.norman.building.farm", "农场 - 种植小麦和饲养牲畜");
+        add("parchment.norman.building.watchtower", "哨塔 - 防御工事和瞭望点");
+        add("parchment.norman.building.house", "民居 - 村民的住所");
+        add("parchment.norman.building.church", "教堂 - 宗教活动场所");
+        add("parchment.norman.building.market", "市场 - 商品交易中心");
+        add("parchment.norman.building.stable", "马厩 - 饲养战马的场所");
+
+        add("parchment.norman.item.title", "诺曼物品指南");
+        add("parchment.norman.item.sword", "诺曼剑 - 锋利的单手剑");
+        add("parchment.norman.item.axe", "诺曼斧 - 实用的伐木工具");
+        add("parchment.norman.item.pickaxe", "诺曼镐 - 坚固的采矿工具");
+        add("parchment.norman.item.shovel", "诺曼铲 - 高效的挖掘工具");
+        add("parchment.norman.item.hoe", "诺曼锄 - 农业专用工具");
+        add("parchment.norman.item.cider", "苹果酒 - 诺曼特色饮品");
+        add("parchment.norman.item.blood_sausage", "血肠 - 传统食物");
+        add("parchment.norman.item.armor", "诺曼盔甲 - 防护装备");
+
+        add("parchment.norman.all.title", "诺曼文化全书");
+        add("parchment.norman.all.line1", "=== 诺曼文化综合指南 ===");
+        add("parchment.norman.all.line2", "包含诺曼村民、建筑、物品的完整信息");
+        add("parchment.norman.all.line3", "村民: 首领、骑士、农民、工匠、妇女、儿童、商人、建筑师");
+        add("parchment.norman.all.line4", "建筑: 市政厅、铁匠铺、农场、哨塔、民居、教堂、市场、马厩");
+        add("parchment.norman.all.line5", "物品: 诺曼剑、诺曼斧、诺曼镐、诺曼铲、诺曼锄、苹果酒、血肠、诺曼盔甲");
+        add("parchment.norman.all.line6", "=== 文化特色 ===");
+        add("parchment.norman.all.line7", "诺曼人以其军事组织和农业技术闻名");
+        add("parchment.norman.all.line8", "他们建立坚固的村庄和有效的管理体系");
+
+        // Byzantine Parchment Contents
+        add("parchment.byzantine.villager.title", "拜占庭村民指南");
+        add("parchment.byzantine.villager.governor", "执政官 - 拜占庭村庄的统治者");
+        add("parchment.byzantine.villager.centurion", "百夫长 - 军事指挥官");
+        add("parchment.byzantine.villager.artisan", "工匠 - 熟练的手工业者");
+        add("parchment.byzantine.villager.scholar", "学者 - 知识的守护者");
+        add("parchment.byzantine.villager.noblewoman", "贵妇 - 社会地位崇高的女性");
+        add("parchment.byzantine.villager.slave", "奴隶 - 从事体力劳动");
+        add("parchment.byzantine.villager.merchant", "商贾 - 远程贸易商人");
+        add("parchment.byzantine.villager.priest", "神父 - 东正教神职人员");
+
+        add("parchment.byzantine.building.title", "拜占庭建筑指南");
+        add("parchment.byzantine.building.governor_palace", "总督府 - 行政管理中心");
+        add("parchment.byzantine.building.fortress", "要塞 - 军事防御建筑");
+        add("parchment.byzantine.building.workshop", "工坊 - 手工业生产场所");
+        add("parchment.byzantine.building.library", "图书馆 - 知识保存中心");
+        add("parchment.byzantine.building.baths", "浴场 - 公共洗浴设施");
+        add("parchment.byzantine.building.colosseum", "斗兽场 - 娱乐竞技场所");
+        add("parchment.byzantine.building.cathedral", "大教堂 - 宗教礼拜中心");
+        add("parchment.byzantine.building.port", "港口 - 海上贸易据点");
+
+        add("parchment.byzantine.item.title", "拜占庭物品指南");
+        add("parchment.byzantine.item.scepter", "拜占庭权杖 - 权力的象征");
+        add("parchment.byzantine.item.greek_fire", "希腊火 - 秘密军事武器");
+        add("parchment.byzantine.item.wine", "葡萄酒 - 优质发酵饮品");
+        add("parchment.byzantine.item.malvasia", "马尔瓦西亚酒 - 高档甜酒");
+        add("parchment.byzantine.item.feta_cheese", "羊乳酪 - 传统奶制品");
+        add("parchment.byzantine.item.kebab", "烤肉串 - 特色美食");
+        add("parchment.byzantine.item.armor", "拜占庭盔甲 - 精制防具");
+        add("parchment.byzantine.item.purple_silk", "紫色丝绸 - 贵族专用布料");
+
+        add("parchment.byzantine.all.title", "拜占庭文化全书");
+        add("parchment.byzantine.all.line1", "=== 拜占庭文化综合指南 ===");
+        add("parchment.byzantine.all.line2", "包含拜占庭村民、建筑、物品的完整信息");
+        add("parchment.byzantine.all.line3", "村民: 执政官、百夫长、工匠、学者、贵妇、奴隶、商贾、神父");
+        add("parchment.byzantine.all.line4", "建筑: 总督府、要塞、工坊、图书馆、浴场、斗兽场、大教堂、港口");
+        add("parchment.byzantine.all.line5", "物品: 拜占庭权杖、希腊火、葡萄酒、马尔瓦西亚酒、羊乳酪、烤肉串、拜占庭盔甲、紫色丝绸");
+        add("parchment.byzantine.all.line6", "=== 文化特色 ===");
+        add("parchment.byzantine.all.line7", "拜占庭帝国以其豪华和军事技术闻名");
+        add("parchment.byzantine.all.line8", "他们继承罗马传统并发展出独特的东正教文化");
+
+        // Hindi Parchment Contents
+        add("parchment.hindi.villager.title", "印度村民指南");
+        add("parchment.hindi.villager.raja", "拉贾 - 印度王子或统治者");
+        add("parchment.hindi.villager.brahmin", "婆罗门 - 祭司阶层");
+        add("parchment.hindi.villager.kshatriya", "刹帝利 - 武士阶层");
+        add("parchment.hindi.villager.vaishya", "吠舍 - 商人和农民");
+        add("parchment.hindi.villager.shudra", "首陀罗 - 服务者阶层");
+        add("parchment.hindi.villager.yogi", "瑜伽师 - 精神导师");
+        add("parchment.hindi.villager.dancer", "舞者 - 传统艺术表演者");
+        add("parchment.hindi.villager.spice_merchant", "香料商 - 贸易专家");
+
+        add("parchment.hindi.building.title", "印度建筑指南");
+        add("parchment.hindi.building.palace", "宫殿 - 拉贾的华丽居所");
+        add("parchment.hindi.building.temple", "神庙 - 宗教朝拜场所");
+        add("parchment.hindi.building.market", "市场 - 香料贸易中心");
+        add("parchment.hindi.building.yoga_studio", "瑜伽馆 - 修行冥想场所");
+        add("parchment.hindi.building.weaving_room", "织布房 - 丝绸生产工坊");
+        add("parchment.hindi.building.spice_garden", "香料园 - 种植调料植物");
+        add("parchment.hindi.building.well", "水井 - 社区供水设施");
+        add("parchment.hindi.building.dance_hall", "舞蹈厅 - 艺术表演场所");
+
+        add("parchment.hindi.item.title", "印度物品指南");
+        add("parchment.hindi.item.turmeric", "姜黄 - 珍贵的调料香料");
+        add("parchment.hindi.item.rice", "大米 - 主要粮食作物");
+        add("parchment.hindi.item.vegetable_curry", "蔬菜咖喱 - 素食美味");
+        add("parchment.hindi.item.chicken_curry", "鸡肉咖喱 - 荤食佳肴");
+        add("parchment.hindi.item.gulab_jamun", "奶球甜点 - 传统甜食");
+        add("parchment.hindi.item.silk_cloth", "丝绸布料 - 华丽纺织品");
+        add("parchment.hindi.item.indian_sword", "印度宝剑 - 装饰性武器");
+        add("parchment.hindi.item.spice_powder", "香料粉末 - 调味材料");
+
+        add("parchment.hindi.all.title", "印度文化全书");
+        add("parchment.hindi.all.line1", "=== 印度文化综合指南 ===");
+        add("parchment.hindi.all.line2", "包含印度村民、建筑、物品的完整信息");
+        add("parchment.hindi.all.line3", "村民: 拉贾、婆罗门、刹帝利、吠舍、首陀罗、瑜伽师、舞者、香料商");
+        add("parchment.hindi.all.line4", "建筑: 宫殿、神庙、市场、瑜伽馆、织布房、香料园、水井、舞蹈厅");
+        add("parchment.hindi.all.line5", "物品: 姜黄、大米、蔬菜咖喱、鸡肉咖喱、奶球甜点、丝绸布料、印度宝剑、香料粉末");
+        add("parchment.hindi.all.line6", "=== 文化特色 ===");
+        add("parchment.hindi.all.line7", "印度文化以其丰富的宗教传统和香料贸易闻名");
+        add("parchment.hindi.all.line8", "他们发展了独特的种姓制度和精神修行体系");
+
+        // Mayan Parchment Contents
+        add("parchment.mayan.villager.title", "玛雅村民指南");
+        add("parchment.mayan.villager.priest_king", "祭司王 - 玛雅文明的统治者");
+        add("parchment.mayan.villager.warrior", "战士 - 勇猛的丛林战士");
+        add("parchment.mayan.villager.astronomer", "天文学家 - 观测星象的智者");
+        add("parchment.mayan.villager.farmer", "农民 - 种植玉米的专家");
+        add("parchment.mayan.villager.artisan", "工匠 - 黑曜石雕刻师");
+        add("parchment.mayan.villager.dancer", "舞者 - 宗教仪式表演者");
+        add("parchment.mayan.villager.merchant", "商人 - 远距离贸易者");
+        add("parchment.mayan.villager.shaman", "萨满 - 沟通神灵的巫师");
+
+        add("parchment.mayan.building.title", "玛雅建筑指南");
+        add("parchment.mayan.building.pyramid", "金字塔 - 宗教仪式中心");
+        add("parchment.mayan.building.observatory", "天文台 - 观测天体运动");
+        add("parchment.mayan.building.ball_court", "球场 - 传统体育竞技");
+        add("parchment.mayan.building.altar", "祭坛 - 献祭仪式场所");
+        add("parchment.mayan.building.steam_bath", "蒸汽浴室 - 净化身心场所");
+        add("parchment.mayan.building.workshop", "工坊 - 黑曜石加工厂");
+        add("parchment.mayan.building.farmland", "农田 - 玉米种植区域");
+        add("parchment.mayan.building.cenote", "天坑 - 神圣的水源地");
+
+        add("parchment.mayan.item.title", "玛雅物品指南");
+        add("parchment.mayan.item.corn", "玉米 - 神圣的粮食作物");
+        add("parchment.mayan.item.cacao", "可可 - 制作神圣饮品");
+        add("parchment.mayan.item.masa", "玛萨 - 玉米制作的食物");
+        add("parchment.mayan.item.wah", "瓦赫 - 特殊仪式食品");
+        add("parchment.mayan.item.obsidian_tool", "黑曜石工具 - 锋利的石器");
+        add("parchment.mayan.item.scepter", "玛雅权杖 - 权力象征");
+        add("parchment.mayan.item.feather_headress", "羽毛头饰 - 地位标志");
+        add("parchment.mayan.item.jade_ornament", "翡翠饰品 - 珍贵装饰");
+
+        add("parchment.mayan.all.title", "玛雅文化全书");
+        add("parchment.mayan.all.line1", "=== 玛雅文化综合指南 ===");
+        add("parchment.mayan.all.line2", "包含玛雅村民、建筑、物品的完整信息");
+        add("parchment.mayan.all.line3", "村民: 祭司王、战士、天文学家、农民、工匠、舞者、商人、萨满");
+        add("parchment.mayan.all.line4", "建筑: 金字塔、天文台、球场、祭坛、蒸汽浴室、工坊、农田、天坑");
+        add("parchment.mayan.all.line5", "物品: 玉米、可可、玛萨、瓦赫、黑曜石工具、玛雅权杖、羽毛头饰、翡翠饰品");
+        add("parchment.mayan.all.line6", "=== 文化特色 ===");
+        add("parchment.mayan.all.line7", "玛雅文明以其精确的天文知识和宏伟的建筑闻名");
+        add("parchment.mayan.all.line8", "他们发展了复杂的历法系统和独特的宗教仪式");
+
+        // Japanese Parchment Contents
+        add("parchment.japanese.villager.title", "日本村民指南");
+        add("parchment.japanese.villager.daimyo", "大名 - 封建领主");
+        add("parchment.japanese.villager.samurai", "武士 - 职业战士阶层");
+        add("parchment.japanese.villager.monk", "僧侣 - 佛教修行者");
+        add("parchment.japanese.villager.farmer", "农民 - 稻米种植者");
+        add("parchment.japanese.villager.artisan", "工匠 - 手工业专家");
+        add("parchment.japanese.villager.geisha", "艺伎 - 传统艺术表演者");
+        add("parchment.japanese.villager.merchant", "商人 - 贸易从业者");
+        add("parchment.japanese.villager.ninja", "忍者 - 秘密间谍");
+
+        add("parchment.japanese.building.title", "日本建筑指南");
+        add("parchment.japanese.building.castle_keep", "天守阁 - 城堡主塔");
+        add("parchment.japanese.building.shrine", "神社 - 神道教圣地");
+        add("parchment.japanese.building.dojo", "道场 - 武术训练场");
+        add("parchment.japanese.building.tea_room", "茶室 - 茶道仪式场所");
+        add("parchment.japanese.building.rice_field", "稻田 - 水稻种植区");
+        add("parchment.japanese.building.onsen", "温泉 - 天然热水浴场");
+        add("parchment.japanese.building.bamboo_forest", "竹林 - 竹子种植区域");
+        add("parchment.japanese.building.zen_garden", "禅花园 - 冥想修行场所");
+
+        add("parchment.japanese.item.title", "日本物品指南");
+        add("parchment.japanese.item.katana", "武士刀 - 锋利的长剑");
+        add("parchment.japanese.item.yumi", "和弓 - 传统弓箭");
+        add("parchment.japanese.item.sake", "清酒 - 米酿造酒");
+        add("parchment.japanese.item.udon", "乌冬面 - 传统面条");
+        add("parchment.japanese.item.takoyaki", "鱿鱼烧 - 特色小食");
+        add("parchment.japanese.item.samurai_armor", "武士盔甲 - 防护装备");
+        add("parchment.japanese.item.kimono", "和服 - 传统服装");
+        add("parchment.japanese.item.bamboo_product", "竹制品 - 实用工具");
+
+        add("parchment.japanese.all.title", "日本文化全书");
+        add("parchment.japanese.all.line1", "=== 日本文化综合指南 ===");
+        add("parchment.japanese.all.line2", "包含日本村民、建筑、物品的完整信息");
+        add("parchment.japanese.all.line3", "村民: 大名、武士、僧侣、农民、工匠、艺伎、商人、忍者");
+        add("parchment.japanese.all.line4", "建筑: 天守阁、神社、道场、茶室、稻田、温泉、竹林、禅花园");
+        add("parchment.japanese.all.line5", "物品: 武士刀、和弓、清酒、乌冬面、鱿鱼烧、武士盔甲、和服、竹制品");
+        add("parchment.japanese.all.line6", "=== 文化特色 ===");
+        add("parchment.japanese.all.line7", "日本文化以其精致的艺术和严格的礼仪闻名");
+        add("parchment.japanese.all.line8", "他们发展了独特的武士道精神和禅宗哲学");
+
+        // GUI and Tooltips
+        add("gui.millenaire_rewrite.parchment.title", "羊皮纸");
+        add("gui.millenaire_rewrite.parchment.previous", "上一页");
+        add("gui.millenaire_rewrite.parchment.next", "下一页");
+        add("gui.millenaire_rewrite.parchment.close", "关闭");
+        add("gui.millenaire_rewrite.parchment.page_info", "第 %s 页，共 %s 页");
+
+        add("tooltip.millenaire_rewrite.parchment.title", "标题: %s");
+        add("tooltip.millenaire_rewrite.parchment.culture", "文化: %s");
+        add("tooltip.millenaire_rewrite.parchment.type", "类型: %s");
+        add("tooltip.millenaire_rewrite.parchment.entries", "条目: %s");
+        add("tooltip.millenaire_rewrite.parchment.use", "右键阅读");
+    }
+
 }
+
+
+
+

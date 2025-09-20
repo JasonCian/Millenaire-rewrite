@@ -774,7 +774,6 @@ public class ModItems {
     /** 日本全书羊皮纸 - 日本完整指南 */
     public static final RegistryObject<Item> PARCHMENT_JAPANESE_ALL = ITEMS.register("parchment_japanese_all",
             () -> new ItemMillParchment(new Item.Properties().stacksTo(16)));
-
     // ================ 特殊羊皮纸 ================
 
     /** 村庄卷轴 - 一般村庄信息 */

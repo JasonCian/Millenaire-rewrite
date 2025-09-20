@@ -224,10 +224,13 @@ public class ItemMillParchment extends Item {
      * 获取文化类型
      */
     public static Culture getCulture(ItemStack stack) {
+        // 首先尝试从NBT获取
         CompoundTag tag = stack.getTag();
         if (tag != null && tag.contains(NBT_CULTURE)) {
             return Culture.fromName(tag.getString(NBT_CULTURE));
         }
+
+        // 如果NBT不存在，从物品ID推断文化
         return Culture.NORMAN;
     }
     
@@ -243,10 +246,13 @@ public class ItemMillParchment extends Item {
      * 获取羊皮纸类型
      */
     public static ParchmentType getParchmentType(ItemStack stack) {
+        // 首先尝试从NBT获取
         CompoundTag tag = stack.getTag();
         if (tag != null && tag.contains(NBT_TYPE)) {
             return ParchmentType.fromName(tag.getString(NBT_TYPE));
         }
+
+        // 如果NBT不存在，从物品ID推断类型
         return ParchmentType.VILLAGER;
     }
     
@@ -257,16 +263,80 @@ public class ItemMillParchment extends Item {
         CompoundTag tag = stack.getOrCreateTag();
         tag.putString(NBT_TYPE, type.getName());
     }
-    
+
+
     /**
      * 创建预设的羊皮纸
      */
     public static ItemStack createParchment(String title, String[] contents, Culture culture, ParchmentType type) {
-        ItemStack stack = new ItemStack(com.jasoncian.millenaire_rewrite.core.ModItems.PARCHMENT_NORMAN_VILLAGER.get());
+        // 根据文化和类型获取对应的物品
+        Item correspondingItem = getParchmentItemForCultureAndType(culture, type);
+        ItemStack stack = new ItemStack(correspondingItem);
+
+        // 设置NBT数据
         setTitle(stack, title);
         setContents(stack, contents);
         setCulture(stack, culture);
         setParchmentType(stack, type);
+
+
         return stack;
+    }
+
+    /**
+     * 简单的物品选择器 - 根据文化和类型返回对应的注册物品
+     */
+    private static Item getParchmentItemForCultureAndType(Culture culture, ParchmentType type) {
+        String expectedName = "parchment_" + culture.getName() + "_" + type.getName();
+
+        switch (expectedName) {
+            case "parchment_norman_villager":
+                return com.jasoncian.millenaire_rewrite.core.ModItems.PARCHMENT_NORMAN_VILLAGER.get();
+            case "parchment_norman_building":
+                return com.jasoncian.millenaire_rewrite.core.ModItems.PARCHMENT_NORMAN_BUILDING.get();
+            case "parchment_norman_item":
+                return com.jasoncian.millenaire_rewrite.core.ModItems.PARCHMENT_NORMAN_ITEM.get();
+            case "parchment_norman_all":
+                return com.jasoncian.millenaire_rewrite.core.ModItems.PARCHMENT_NORMAN_ALL.get();
+
+            case "parchment_byzantine_villager":
+                return com.jasoncian.millenaire_rewrite.core.ModItems.PARCHMENT_BYZANTINE_VILLAGER.get();
+            case "parchment_byzantine_building":
+                return com.jasoncian.millenaire_rewrite.core.ModItems.PARCHMENT_BYZANTINE_BUILDING.get();
+            case "parchment_byzantine_item":
+                return com.jasoncian.millenaire_rewrite.core.ModItems.PARCHMENT_BYZANTINE_ITEM.get();
+            case "parchment_byzantine_all":
+                return com.jasoncian.millenaire_rewrite.core.ModItems.PARCHMENT_BYZANTINE_ALL.get();
+
+            case "parchment_hindi_villager":
+                return com.jasoncian.millenaire_rewrite.core.ModItems.PARCHMENT_HINDI_VILLAGER.get();
+            case "parchment_hindi_building":
+                return com.jasoncian.millenaire_rewrite.core.ModItems.PARCHMENT_HINDI_BUILDING.get();
+            case "parchment_hindi_item":
+                return com.jasoncian.millenaire_rewrite.core.ModItems.PARCHMENT_HINDI_ITEM.get();
+            case "parchment_hindi_all":
+                return com.jasoncian.millenaire_rewrite.core.ModItems.PARCHMENT_HINDI_ALL.get();
+
+            case "parchment_mayan_villager":
+                return com.jasoncian.millenaire_rewrite.core.ModItems.PARCHMENT_MAYAN_VILLAGER.get();
+            case "parchment_mayan_building":
+                return com.jasoncian.millenaire_rewrite.core.ModItems.PARCHMENT_MAYAN_BUILDING.get();
+            case "parchment_mayan_item":
+                return com.jasoncian.millenaire_rewrite.core.ModItems.PARCHMENT_MAYAN_ITEM.get();
+            case "parchment_mayan_all":
+                return com.jasoncian.millenaire_rewrite.core.ModItems.PARCHMENT_MAYAN_ALL.get();
+
+            case "parchment_japanese_villager":
+                return com.jasoncian.millenaire_rewrite.core.ModItems.PARCHMENT_JAPANESE_VILLAGER.get();
+            case "parchment_japanese_building":
+                return com.jasoncian.millenaire_rewrite.core.ModItems.PARCHMENT_JAPANESE_BUILDING.get();
+            case "parchment_japanese_item":
+                return com.jasoncian.millenaire_rewrite.core.ModItems.PARCHMENT_JAPANESE_ITEM.get();
+            case "parchment_japanese_all":
+                return com.jasoncian.millenaire_rewrite.core.ModItems.PARCHMENT_JAPANESE_ALL.get();
+
+            default:
+                return com.jasoncian.millenaire_rewrite.core.ModItems.PARCHMENT_NORMAN_VILLAGER.get();
+        }
     }
 }

@@ -231,10 +231,17 @@ public class ParchmentScreen extends Screen {
 
         // 渲染页码信息
         if (pages.length > 1) {
-            Component pageInfo = Component.translatable("gui.millenaire_rewrite.parchment.page_info",
+            // 先创建翻译组件
+            Component pageInfoComponent = Component.translatable("gui.millenaire_rewrite.parchment.page_info",
                     currentPage + 1, pages.length);
-            int pageInfoX = leftPos + (GUI_WIDTH - font.width(pageInfo)) / 2;
-            guiGraphics.drawString(font, pageInfo, pageInfoX, topPos + GUI_HEIGHT - 40, 0x666666, false);
+
+            // 将组件转换为字符串用于宽度计算
+            String pageInfoString = pageInfoComponent.getString();
+
+            int pageInfoX = leftPos + (GUI_WIDTH - font.width(pageInfoString)) / 2;
+
+            // 使用翻译组件进行渲染
+            guiGraphics.drawString(font, pageInfoComponent, pageInfoX, topPos + GUI_HEIGHT - 40, 0x666666, false);
         }
         
         // 渲染按钮和其他组件

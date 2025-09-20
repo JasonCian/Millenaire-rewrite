@@ -13,16 +13,16 @@ public class ParchmentContentData {
      * 创建诺曼村民羊皮纸
      */
     public static ItemStack createNormanVillagerParchment() {
-        String title = "诺曼村民指南";
+        String title = "parchment.norman.villager.title";
         String[] contents = {
-            "村庄首领 - 管理村庄事务的权威人物",
-            "骑士 - 保卫村庄的武装力量",
-            "农民 - 负责种植作物和畜牧",
-            "工匠 - 制作工具和装备",
-            "妇女 - 负责纺织和家务",
-            "儿童 - 村庄的未来希望",
-            "商人 - 进行贸易和交换",
-            "建筑师 - 设计和建造建筑物"
+                "parchment.norman.villager.chief",
+                "parchment.norman.villager.knight",
+                "parchment.norman.villager.farmer",
+                "parchment.norman.villager.artisan",
+                "parchment.norman.villager.women",
+                "parchment.norman.villager.children",
+                "parchment.norman.villager.merchant",
+                "parchment.norman.villager.architect"
         };
         return ItemMillParchment.createParchment(title, contents, 
             ItemMillParchment.Culture.NORMAN, ItemMillParchment.ParchmentType.VILLAGER);
@@ -32,16 +32,16 @@ public class ParchmentContentData {
      * 创建诺曼建筑羊皮纸
      */
     public static ItemStack createNormanBuildingParchment() {
-        String title = "诺曼建筑指南";
+        String title = "parchment.norman.building.title";
         String[] contents = {
-            "市政厅 - 村庄的行政中心",
-            "铁匠铺 - 制作金属工具和武器",
-            "农场 - 种植小麦和饲养牲畜",
-            "哨塔 - 防御工事和瞭望点",
-            "民居 - 村民的住所",
-            "教堂 - 宗教活动场所",
-            "市场 - 商品交易中心",
-            "马厩 - 饲养战马的场所"
+                "parchment.norman.building.town_hall",
+                "parchment.norman.building.blacksmith",
+                "parchment.norman.building.farm",
+                "parchment.norman.building.watchtower",
+                "parchment.norman.building.house",
+                "parchment.norman.building.church",
+                "parchment.norman.building.market",
+                "parchment.norman.building.stable"
         };
         return ItemMillParchment.createParchment(title, contents, 
             ItemMillParchment.Culture.NORMAN, ItemMillParchment.ParchmentType.BUILDING);
@@ -51,16 +51,16 @@ public class ParchmentContentData {
      * 创建诺曼物品羊皮纸
      */
     public static ItemStack createNormanItemParchment() {
-        String title = "诺曼物品指南";
+        String title = "parchment.norman.item.title";
         String[] contents = {
-            "诺曼剑 - 锋利的单手剑",
-            "诺曼斧 - 实用的伐木工具",
-            "诺曼镐 - 坚固的采矿工具",
-            "诺曼铲 - 高效的挖掘工具",
-            "诺曼锄 - 农业专用工具",
-            "苹果酒 - 诺曼特色饮品",
-            "血肠 - 传统食物",
-            "诺曼盔甲 - 防护装备"
+                "parchment.norman.item.sword",
+                "parchment.norman.item.axe",
+                "parchment.norman.item.pickaxe",
+                "parchment.norman.item.shovel",
+                "parchment.norman.item.hoe",
+                "parchment.norman.item.cider",
+                "parchment.norman.item.blood_sausage",
+                "parchment.norman.item.armor"
         };
         return ItemMillParchment.createParchment(title, contents, 
             ItemMillParchment.Culture.NORMAN, ItemMillParchment.ParchmentType.ITEM);
@@ -70,16 +70,17 @@ public class ParchmentContentData {
      * 创建诺曼全书羊皮纸 - 诺曼完整指南
      */
     public static ItemStack createNormanAllParchment() {
-        String title = "诺曼完整指南";
+        String title = "parchment.norman.all.title";
         String[] contents = {
-                "=== 诺曼文化综合指南 ===",
-                "包含诺曼村民、建筑、物品的完整信息",
-                "村民: 首领、骑士、农民、工匠、妇女、儿童、商人、建筑师",
-                "建筑: 市政厅、铁匠铺、农场、哨塔、民居、教堂、市场、马厩",
-                "物品: 诺曼剑、诺曼斧、诺曼镐、诺曼铲、诺曼锄、苹果酒、血肠、诺曼盔甲",
-                "=== 文化特色 ===",
-                "诺曼人以其军事组织和农业技术闻名",
-                "他们建立坚固的村庄和有效的管理体系"
+                "parchment.norman.all.line1",
+                "parchment.norman.all.line2",
+                "parchment.norman.all.line3",
+                "parchment.norman.all.line4",
+                "parchment.norman.all.line5",
+                "",
+                "parchment.norman.all.line6",
+                "parchment.norman.all.line7",
+                "parchment.norman.all.line8"
         };
         return ItemMillParchment.createParchment(title, contents,
                 ItemMillParchment.Culture.NORMAN, ItemMillParchment.ParchmentType.ALL);
@@ -89,16 +90,16 @@ public class ParchmentContentData {
      * 创建拜占庭村民羊皮纸
      */
     public static ItemStack createByzantineVillagerParchment() {
-        String title = "拜占庭村民指南";
+        String title = "parchment.byzantine.villager.title";
         String[] contents = {
-            "执政官 - 拜占庭村庄的统治者",
-            "百夫长 - 军事指挥官",
-            "工匠 - 熟练的手工业者",
-            "学者 - 知识的守护者",
-            "贵妇 - 社会地位崇高的女性",
-            "奴隶 - 从事体力劳动",
-            "商贾 - 远程贸易商人",
-            "神父 - 东正教神职人员"
+                "parchment.byzantine.villager.governor",
+                "parchment.byzantine.villager.centurion",
+                "parchment.byzantine.villager.artisan",
+                "parchment.byzantine.villager.scholar",
+                "parchment.byzantine.villager.noblewoman",
+                "parchment.byzantine.villager.slave",
+                "parchment.byzantine.villager.merchant",
+                "parchment.byzantine.villager.priest"
         };
         return ItemMillParchment.createParchment(title, contents, 
             ItemMillParchment.Culture.BYZANTINE, ItemMillParchment.ParchmentType.VILLAGER);
@@ -108,16 +109,16 @@ public class ParchmentContentData {
      * 创建拜占庭建筑羊皮纸
      */
     public static ItemStack createByzantineBuildingParchment() {
-        String title = "拜占庭建筑指南";
+        String title = "parchment.byzantine.building.title";
         String[] contents = {
-            "总督府 - 行政管理中心",
-            "要塞 - 军事防御建筑",
-            "工坊 - 手工业生产场所",
-            "图书馆 - 知识保存中心",
-            "浴场 - 公共洗浴设施",
-            "斗兽场 - 娱乐竞技场所",
-            "大教堂 - 宗教礼拜中心",
-            "港口 - 海上贸易据点"
+                "parchment.byzantine.building.governor_palace",
+                "parchment.byzantine.building.fortress",
+                "parchment.byzantine.building.workshop",
+                "parchment.byzantine.building.library",
+                "parchment.byzantine.building.baths",
+                "parchment.byzantine.building.colosseum",
+                "parchment.byzantine.building.cathedral",
+                "parchment.byzantine.building.port"
         };
         return ItemMillParchment.createParchment(title, contents, 
             ItemMillParchment.Culture.BYZANTINE, ItemMillParchment.ParchmentType.BUILDING);
@@ -127,16 +128,16 @@ public class ParchmentContentData {
      * 创建拜占庭物品羊皮纸
      */
     public static ItemStack createByzantineItemParchment() {
-        String title = "拜占庭物品指南";
+        String title = "parchment.byzantine.item.title";
         String[] contents = {
-            "拜占庭权杖 - 权力的象征",
-            "希腊火 - 秘密军事武器",
-            "葡萄酒 - 优质发酵饮品",
-            "马尔瓦西亚酒 - 高档甜酒",
-            "羊乳酪 - 传统奶制品",
-            "烤肉串 - 特色美食",
-            "拜占庭盔甲 - 精制防具",
-            "紫色丝绸 - 贵族专用布料"
+                "parchment.byzantine.item.scepter",
+                "parchment.byzantine.item.greek_fire",
+                "parchment.byzantine.item.wine",
+                "parchment.byzantine.item.malvasia",
+                "parchment.byzantine.item.feta_cheese",
+                "parchment.byzantine.item.kebab",
+                "parchment.byzantine.item.armor",
+                "parchment.byzantine.item.purple_silk"
         };
         return ItemMillParchment.createParchment(title, contents, 
             ItemMillParchment.Culture.BYZANTINE, ItemMillParchment.ParchmentType.ITEM);
@@ -146,16 +147,17 @@ public class ParchmentContentData {
      * 创建拜占庭全书羊皮纸 - 拜占庭完整指南
      */
     public static ItemStack createByzantineAllParchment() {
-        String title = "拜占庭完整指南";
+        String title = "parchment.byzantine.all.title";
         String[] contents = {
-                "=== 拜占庭文化综合指南 ===",
-                "包含拜占庭村民、建筑、物品的完整信息",
-                "村民: 执政官、百夫长、工匠、学者、贵妇、奴隶、商贾、神父",
-                "建筑: 总督府、要塞、工坊、图书馆、浴场、斗兽场、大教堂、港口",
-                "物品: 拜占庭权杖、希腊火、葡萄酒、马尔瓦西亚酒、羊乳酪、烤肉串、拜占庭盔甲、紫色丝绸",
-                "=== 文化特色 ===",
-                "拜占庭帝国以其豪华和军事技术闻名",
-                "他们继承罗马传统并发展出独特的东正教文化"
+                "parchment.byzantine.all.line1",
+                "parchment.byzantine.all.line2",
+                "parchment.byzantine.all.line3",
+                "parchment.byzantine.all.line4",
+                "parchment.byzantine.all.line5",
+                "",
+                "parchment.byzantine.all.line6",
+                "parchment.byzantine.all.line7",
+                "parchment.byzantine.all.line8"
         };
         return ItemMillParchment.createParchment(title, contents,
                 ItemMillParchment.Culture.BYZANTINE, ItemMillParchment.ParchmentType.ALL);
@@ -165,16 +167,16 @@ public class ParchmentContentData {
      * 创建印度村民羊皮纸
      */
     public static ItemStack createHindiVillagerParchment() {
-        String title = "印度村民指南";
+        String title = "parchment.hindi.villager.title";
         String[] contents = {
-            "拉贾 - 印度王子或统治者",
-            "婆罗门 - 祭司阶层",
-            "刹帝利 - 武士阶层",
-            "吠舍 - 商人和农民",
-            "首陀罗 - 服务者阶层",
-            "瑜伽师 - 精神导师",
-            "舞者 - 传统艺术表演者",
-            "香料商 - 贸易专家"
+                "parchment.hindi.villager.raja",
+                "parchment.hindi.villager.brahmin",
+                "parchment.hindi.villager.kshatriya",
+                "parchment.hindi.villager.vaishya",
+                "parchment.hindi.villager.shudra",
+                "parchment.hindi.villager.yogi",
+                "parchment.hindi.villager.dancer",
+                "parchment.hindi.villager.spice_merchant"
         };
         return ItemMillParchment.createParchment(title, contents, 
             ItemMillParchment.Culture.HINDI, ItemMillParchment.ParchmentType.VILLAGER);
@@ -184,16 +186,16 @@ public class ParchmentContentData {
      * 创建印度建筑羊皮纸
      */
     public static ItemStack createHindiBuildingParchment() {
-        String title = "印度建筑指南";
+        String title = "parchment.hindi.building.title";
         String[] contents = {
-            "宫殿 - 拉贾的华丽居所",
-            "神庙 - 宗教朝拜场所",
-            "市场 - 香料贸易中心",
-            "瑜伽馆 - 修行冥想场所",
-            "织布房 - 丝绸生产工坊",
-            "香料园 - 种植调料植物",
-            "水井 - 社区供水设施",
-            "舞蹈厅 - 艺术表演场所"
+                "parchment.hindi.building.palace",
+                "parchment.hindi.building.temple",
+                "parchment.hindi.building.market",
+                "parchment.hindi.building.yoga_studio",
+                "parchment.hindi.building.weaving_room",
+                "parchment.hindi.building.spice_garden",
+                "parchment.hindi.building.well",
+                "parchment.hindi.building.dance_hall"
         };
         return ItemMillParchment.createParchment(title, contents, 
             ItemMillParchment.Culture.HINDI, ItemMillParchment.ParchmentType.BUILDING);
@@ -203,16 +205,16 @@ public class ParchmentContentData {
      * 创建印度物品羊皮纸
      */
     public static ItemStack createHindiItemParchment() {
-        String title = "印度物品指南";
+        String title = "parchment.hindi.item.title";
         String[] contents = {
-            "姜黄 - 珍贵的调料香料",
-            "大米 - 主要粮食作物",
-            "蔬菜咖喱 - 素食美味",
-            "鸡肉咖喱 - 荤食佳肴",
-            "奶球甜点 - 传统甜食",
-            "丝绸布料 - 华丽纺织品",
-            "印度宝剑 - 装饰性武器",
-            "香料粉末 - 调味材料"
+                "parchment.hindi.item.turmeric",
+                "parchment.hindi.item.rice",
+                "parchment.hindi.item.vegetable_curry",
+                "parchment.hindi.item.chicken_curry",
+                "parchment.hindi.item.gulab_jamun",
+                "parchment.hindi.item.silk_cloth",
+                "parchment.hindi.item.indian_sword",
+                "parchment.hindi.item.spice_powder"
         };
         return ItemMillParchment.createParchment(title, contents, 
             ItemMillParchment.Culture.HINDI, ItemMillParchment.ParchmentType.ITEM);
@@ -222,11 +224,17 @@ public class ParchmentContentData {
      * 创建印度全书羊皮纸 - 印度完整指南
      */
     public static ItemStack createHindiAllParchment() {
-        String title = "印度完整指南";
+        String title = "parchment.hindi.all.title";
         String[] contents = {
-                "=== 印度文化综合指南 ===",
-                "包含印度村民、建筑、物品的完整信息",
-                // ... 添加具体内容
+                "parchment.hindi.all.line1",
+                "parchment.hindi.all.line2",
+                "parchment.hindi.all.line3",
+                "parchment.hindi.all.line4",
+                "parchment.hindi.all.line5",
+                "",
+                "parchment.hindi.all.line6",
+                "parchment.hindi.all.line7",
+                "parchment.hindi.all.line8"
         };
         return ItemMillParchment.createParchment(title, contents,
                 ItemMillParchment.Culture.HINDI, ItemMillParchment.ParchmentType.ALL);
@@ -236,16 +244,16 @@ public class ParchmentContentData {
      * 创建玛雅村民羊皮纸
      */
     public static ItemStack createMayanVillagerParchment() {
-        String title = "玛雅村民指南";
+        String title = "parchment.mayan.villager.title";
         String[] contents = {
-            "祭司王 - 玛雅文明的统治者",
-            "战士 - 勇猛的丛林战士",
-            "天文学家 - 观测星象的智者",
-            "农民 - 种植玉米的专家",
-            "工匠 - 黑曜石雕刻师",
-            "舞者 - 宗教仪式表演者",
-            "商人 - 远距离贸易者",
-            "萨满 - 沟通神灵的巫师"
+                "parchment.mayan.villager.priest_king",
+                "parchment.mayan.villager.warrior",
+                "parchment.mayan.villager.astronomer",
+                "parchment.mayan.villager.farmer",
+                "parchment.mayan.villager.artisan",
+                "parchment.mayan.villager.dancer",
+                "parchment.mayan.villager.merchant",
+                "parchment.mayan.villager.shaman"
         };
         return ItemMillParchment.createParchment(title, contents, 
             ItemMillParchment.Culture.MAYAN, ItemMillParchment.ParchmentType.VILLAGER);
@@ -255,16 +263,16 @@ public class ParchmentContentData {
      * 创建玛雅建筑羊皮纸
      */
     public static ItemStack createMayanBuildingParchment() {
-        String title = "玛雅建筑指南";
+        String title = "parchment.mayan.building.title";
         String[] contents = {
-            "金字塔 - 宗教仪式中心",
-            "天文台 - 观测天体运动",
-            "球场 - 传统体育竞技",
-            "祭坛 - 献祭仪式场所",
-            "蒸汽浴室 - 净化身心场所",
-            "工坊 - 黑曜石加工厂",
-            "农田 - 玉米种植区域",
-            "天坑 - 神圣的水源地"
+                "parchment.mayan.building.pyramid",
+                "parchment.mayan.building.observatory",
+                "parchment.mayan.building.ball_court",
+                "parchment.mayan.building.altar",
+                "parchment.mayan.building.steam_bath",
+                "parchment.mayan.building.workshop",
+                "parchment.mayan.building.farmland",
+                "parchment.mayan.building.cenote"
         };
         return ItemMillParchment.createParchment(title, contents, 
             ItemMillParchment.Culture.MAYAN, ItemMillParchment.ParchmentType.BUILDING);
@@ -274,16 +282,16 @@ public class ParchmentContentData {
      * 创建玛雅物品羊皮纸
      */
     public static ItemStack createMayanItemParchment() {
-        String title = "玛雅物品指南";
+        String title = "parchment.mayan.item.title";
         String[] contents = {
-            "玉米 - 神圣的粮食作物",
-            "可可 - 制作神圣饮品",
-            "玛萨 - 玉米制作的食物",
-            "瓦赫 - 特殊仪式食品",
-            "黑曜石工具 - 锋利的石器",
-            "玛雅权杖 - 权力象征",
-            "羽毛头饰 - 地位标志",
-            "翡翠饰品 - 珍贵装饰"
+                "parchment.mayan.item.corn",
+                "parchment.mayan.item.cacao",
+                "parchment.mayan.item.masa",
+                "parchment.mayan.item.wah",
+                "parchment.mayan.item.obsidian_tool",
+                "parchment.mayan.item.scepter",
+                "parchment.mayan.item.feather_headress",
+                "parchment.mayan.item.jade_ornament"
         };
         return ItemMillParchment.createParchment(title, contents, 
             ItemMillParchment.Culture.MAYAN, ItemMillParchment.ParchmentType.ITEM);
@@ -293,11 +301,17 @@ public class ParchmentContentData {
      * 创建玛雅全书羊皮纸
      */
     public static ItemStack createMayanAllParchment() {
-        String title = "玛雅完整指南";
+        String title = "parchment.mayan.all.title";
         String[] contents = {
-                "=== 玛雅文化综合指南 ===",
-                "包含玛雅村民、建筑、物品的完整信息",
-                // ... 添加具体内容
+                "parchment.mayan.all.line1",
+                "parchment.mayan.all.line2",
+                "parchment.mayan.all.line3",
+                "parchment.mayan.all.line4",
+                "parchment.mayan.all.line5",
+                "",
+                "parchment.mayan.all.line6",
+                "parchment.mayan.all.line7",
+                "parchment.mayan.all.line8"
         };
         return ItemMillParchment.createParchment(title, contents,
                 ItemMillParchment.Culture.MAYAN, ItemMillParchment.ParchmentType.ALL);
@@ -307,16 +321,16 @@ public class ParchmentContentData {
      * 创建日本村民羊皮纸
      */
     public static ItemStack createJapaneseVillagerParchment() {
-        String title = "日本村民指南";
+        String title = "parchment.japanese.villager.title";
         String[] contents = {
-            "大名 - 封建领主",
-            "武士 - 职业战士阶层",
-            "僧侣 - 佛教修行者",
-            "农民 - 稻米种植者",
-            "工匠 - 手工业专家",
-            "艺伎 - 传统艺术表演者",
-            "商人 - 贸易从业者",
-            "忍者 - 秘密间谍"
+                "parchment.japanese.villager.daimyo",
+                "parchment.japanese.villager.samurai",
+                "parchment.japanese.villager.monk",
+                "parchment.japanese.villager.farmer",
+                "parchment.japanese.villager.artisan",
+                "parchment.japanese.villager.geisha",
+                "parchment.japanese.villager.merchant",
+                "parchment.japanese.villager.ninja"
         };
         return ItemMillParchment.createParchment(title, contents, 
             ItemMillParchment.Culture.JAPANESE, ItemMillParchment.ParchmentType.VILLAGER);
@@ -326,16 +340,16 @@ public class ParchmentContentData {
      * 创建日本建筑羊皮纸
      */
     public static ItemStack createJapaneseBuildingParchment() {
-        String title = "日本建筑指南";
+        String title = "parchment.japanese.building.title";
         String[] contents = {
-            "天守阁 - 城堡主塔",
-            "神社 - 神道教圣地",
-            "道场 - 武术训练场",
-            "茶室 - 茶道仪式场所",
-            "稻田 - 水稻种植区",
-            "温泉 - 天然热水浴场",
-            "竹林 - 竹子种植区域",
-            "禅花园 - 冥想修行场所"
+                "parchment.japanese.building.castle_keep",
+                "parchment.japanese.building.shrine",
+                "parchment.japanese.building.dojo",
+                "parchment.japanese.building.tea_room",
+                "parchment.japanese.building.rice_field",
+                "parchment.japanese.building.onsen",
+                "parchment.japanese.building.bamboo_forest",
+                "parchment.japanese.building.zen_garden"
         };
         return ItemMillParchment.createParchment(title, contents, 
             ItemMillParchment.Culture.JAPANESE, ItemMillParchment.ParchmentType.BUILDING);
@@ -345,16 +359,16 @@ public class ParchmentContentData {
      * 创建日本物品羊皮纸
      */
     public static ItemStack createJapaneseItemParchment() {
-        String title = "日本物品指南";
+        String title = "parchment.japanese.item.title";
         String[] contents = {
-            "武士刀 - 锋利的长剑",
-            "和弓 - 传统弓箭",
-            "清酒 - 米酿造酒",
-            "乌冬面 - 传统面条",
-            "鱿鱼烧 - 特色小食",
-            "武士盔甲 - 防护装备",
-            "和服 - 传统服装",
-            "竹制品 - 实用工具"
+                "parchment.japanese.item.katana",
+                "parchment.japanese.item.yumi",
+                "parchment.japanese.item.sake",
+                "parchment.japanese.item.udon",
+                "parchment.japanese.item.takoyaki",
+                "parchment.japanese.item.samurai_armor",
+                "parchment.japanese.item.kimono",
+                "parchment.japanese.item.bamboo_product"
         };
         return ItemMillParchment.createParchment(title, contents, 
             ItemMillParchment.Culture.JAPANESE, ItemMillParchment.ParchmentType.ITEM);
@@ -363,11 +377,17 @@ public class ParchmentContentData {
      * 创建日本全书羊皮纸
      */
     public static ItemStack createJapaneseAllParchment() {
-        String title = "日本完整指南";
+        String title = "parchment.japanese.all.title";
         String[] contents = {
-                "=== 日本文化综合指南 ===",
-                "包含玛雅村民、建筑、物品的完整信息",
-                // ... 添加具体内容
+                "parchment.japanese.all.line1",
+                "parchment.japanese.all.line2",
+                "parchment.japanese.all.line3",
+                "parchment.japanese.all.line4",
+                "parchment.japanese.all.line5",
+                "",
+                "parchment.japanese.all.line6",
+                "parchment.japanese.all.line7",
+                "parchment.japanese.all.line8"
         };
         return ItemMillParchment.createParchment(title, contents,
                 ItemMillParchment.Culture.JAPANESE, ItemMillParchment.ParchmentType.ALL);

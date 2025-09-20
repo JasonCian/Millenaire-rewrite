@@ -145,30 +145,35 @@ public class ItemMillParchment extends Item {
     @Override
     public void appendHoverText(ItemStack stack, @Nullable Level level, List<Component> tooltip, TooltipFlag isAdvanced) {
         super.appendHoverText(stack, level, tooltip, isAdvanced);
-        
+
         String title = getTitle(stack);
         Culture culture = getCulture(stack);
         ParchmentType type = getParchmentType(stack);
-        
+
         if (!title.isEmpty()) {
-            tooltip.add(Component.literal("标题: " + title)
-                .withStyle(type.getColor()));
+            tooltip.add(Component.translatable("tooltip.millenaire_rewrite.parchment.title", title)
+                    .withStyle(type.getColor()));
         }
-        
-        tooltip.add(Component.literal("文化: " + culture.getDisplayName())
-            .withStyle(culture.getColor()));
-        tooltip.add(Component.literal("类型: " + type.getDisplayName())
-            .withStyle(type.getColor()));
-        
+
+        // 分别创建文化名称组件和完整提示组件
+        Component cultureName = Component.translatable(culture.getTranslationKey());
+        tooltip.add(Component.translatable("tooltip.millenaire_rewrite.parchment.culture", cultureName)
+                .withStyle(culture.getColor()));
+
+        // 分别创建类型名称组件和完整提示组件
+        Component typeName = Component.translatable(type.getTranslationKey());
+        tooltip.add(Component.translatable("tooltip.millenaire_rewrite.parchment.type", typeName)
+                .withStyle(type.getColor()));
+
         String[] contents = getContents(stack);
         if (contents.length > 0) {
-            tooltip.add(Component.literal("内容条目: " + contents.length)
-                .withStyle(ChatFormatting.GRAY));
+            tooltip.add(Component.translatable("tooltip.millenaire_rewrite.parchment.entries", contents.length)
+                    .withStyle(ChatFormatting.GRAY));
         }
-        
+
         tooltip.add(Component.literal(""));
-        tooltip.add(Component.literal("右键打开羊皮纸界面")
-            .withStyle(ChatFormatting.GREEN));
+        tooltip.add(Component.translatable("tooltip.millenaire_rewrite.parchment.use")
+                .withStyle(ChatFormatting.GREEN));
     }
     
     // ================ 数据管理方法 ================
@@ -179,7 +184,15 @@ public class ItemMillParchment extends Item {
     public static String getTitle(ItemStack stack) {
         CompoundTag tag = stack.getTag();
         if (tag != null && tag.contains(NBT_TITLE)) {
-            return tag.getString(NBT_TITLE);
+            String title = tag.getString(NBT_TITLE);
+
+            // 如果是翻译键格式（包含.），返回翻译后的文本
+            if (title.contains(".")) {
+                return Component.translatable(title).getString();
+            }
+
+            // 如果是旧版硬编码文本，直接返回
+            return title;
         }
         return "";
     }
@@ -198,10 +211,18 @@ public class ItemMillParchment extends Item {
     public static String[] getContents(ItemStack stack) {
         CompoundTag tag = stack.getTag();
         if (tag != null && tag.contains(NBT_CONTENTS)) {
-            ListTag listTag = tag.getList(NBT_CONTENTS, 8); // 8 = StringTag
+            ListTag listTag = tag.getList(NBT_CONTENTS, 8);
             String[] contents = new String[listTag.size()];
+
             for (int i = 0; i < listTag.size(); i++) {
-                contents[i] = listTag.getString(i);
+                String content = listTag.getString(i);
+
+                // 如果是翻译键格式，返回翻译后的文本
+                if (content.contains(".")) {
+                    contents[i] = Component.translatable(content).getString();
+                } else {
+                    contents[i] = content; // 旧版硬编码文本
+                }
             }
             return contents;
         }

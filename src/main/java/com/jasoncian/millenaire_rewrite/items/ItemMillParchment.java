@@ -22,7 +22,7 @@ import java.util.List;
 
 /**
  * 羊皮纸/卷轴系统 - 显示文档和指南信息
- * 
+ *
  * 功能列表:
  * - 存储文档标题和内容
  * - 右键显示文档内容
@@ -30,107 +30,102 @@ import java.util.List;
  * - NBT数据持久化
  * - 客户端GUI界面显示
  * - 工具提示信息展示
- * 
+ *
  * @author JasonCian
  * @version 0.1.3-alpha
  * @since 1.20.1
  */
 public class ItemMillParchment extends Item {
-    
+
     /** NBT标签常量 */
     private static final String NBT_TITLE = "parchment_title";
     private static final String NBT_CONTENTS = "parchment_contents";
     private static final String NBT_CULTURE = "parchment_culture";
     private static final String NBT_TYPE = "parchment_type";
-    
+
     /** 羊皮纸类型枚举 */
     public enum ParchmentType {
-        VILLAGER("villager", "item.millenaire_rewrite.parchment.type.villager", ChatFormatting.GREEN),
-        BUILDING("building", "item.millenaire_rewrite.parchment.type.building", ChatFormatting.BLUE),
-        ITEM("item", "item.millenaire_rewrite.parchment.type.item", ChatFormatting.YELLOW),
-        ALL("all", "item.millenaire_rewrite.parchment.type.all", ChatFormatting.GOLD);
-        
+        VILLAGE_SCROLL("village_scroll", "item.millenaire_rewrite.parchment.type.village_scroll", ChatFormatting.DARK_PURPLE),
+        SADHU_SCROLL("sadhu_scroll", "item.millenaire_rewrite.parchment.type.sadhu_scroll", ChatFormatting.GOLD);
+
         private final String name;
         private final String translationKey;
         private final ChatFormatting color;
-        
+
         ParchmentType(String name, String translationKey, ChatFormatting color) {
             this.name = name;
             this.translationKey = translationKey;
             this.color = color;
         }
-        
+
         public String getName() { return name; }
         public String getTranslationKey() { return translationKey; }
-        public String getDisplayName() { 
-            return Component.translatable(translationKey).getString(); 
+        public String getDisplayName() {
+            return Component.translatable(translationKey).getString();
         }
         public ChatFormatting getColor() { return color; }
-        
+
         public static ParchmentType fromName(String name) {
             for (ParchmentType type : values()) {
                 if (type.name.equals(name)) {
                     return type;
                 }
             }
-            return VILLAGER;
+            return VILLAGE_SCROLL;
         }
     }
-    
+
     /** 文化类型枚举 */
     public enum Culture {
-        NORMAN("norman", "item.millenaire_rewrite.parchment.culture.norman", ChatFormatting.BLUE),
-        BYZANTINE("byzantine", "item.millenaire_rewrite.parchment.culture.byzantine", ChatFormatting.DARK_PURPLE),
-        HINDI("hindi", "item.millenaire_rewrite.parchment.culture.hindi", ChatFormatting.GOLD),
-        MAYAN("mayan", "item.millenaire_rewrite.parchment.culture.mayan", ChatFormatting.GREEN),
-        JAPANESE("japanese", "item.millenaire_rewrite.parchment.culture.japanese", ChatFormatting.RED);
-        
+        UNIVERSAL("universal", "item.millenaire_rewrite.parchment.culture.universal", ChatFormatting.WHITE),
+        HINDI("hindi", "item.millenaire_rewrite.parchment.culture.hindi", ChatFormatting.GOLD);
+
         private final String name;
         private final String translationKey;
         private final ChatFormatting color;
-        
+
         Culture(String name, String translationKey, ChatFormatting color) {
             this.name = name;
             this.translationKey = translationKey;
             this.color = color;
         }
-        
+
         public String getName() { return name; }
         public String getTranslationKey() { return translationKey; }
-        public String getDisplayName() { 
-            return Component.translatable(translationKey).getString(); 
+        public String getDisplayName() {
+            return Component.translatable(translationKey).getString();
         }
         public ChatFormatting getColor() { return color; }
-        
+
         public static Culture fromName(String name) {
             for (Culture culture : values()) {
                 if (culture.name.equals(name)) {
                     return culture;
                 }
             }
-            return NORMAN;
+            return UNIVERSAL;
         }
     }
-    
+
     public ItemMillParchment(Properties properties) {
         super(properties);
     }
-    
+
     /**
      * 右键使用羊皮纸
      */
     @Override
     public InteractionResultHolder<ItemStack> use(Level level, Player player, InteractionHand hand) {
         ItemStack itemStack = player.getItemInHand(hand);
-        
+
         if (level.isClientSide) {
             // 客户端打开GUI
             openParchmentGui(itemStack);
         }
-        
+
         return InteractionResultHolder.sidedSuccess(itemStack, level.isClientSide);
     }
-    
+
     /**
      * 打开羊皮纸GUI（仅客户端）
      */
@@ -138,7 +133,7 @@ public class ItemMillParchment extends Item {
     private void openParchmentGui(ItemStack stack) {
         Minecraft.getInstance().setScreen(new ParchmentScreen(stack));
     }
-    
+
     /**
      * 物品工具提示
      */
@@ -175,9 +170,9 @@ public class ItemMillParchment extends Item {
         tooltip.add(Component.translatable("tooltip.millenaire_rewrite.parchment.use")
                 .withStyle(ChatFormatting.GREEN));
     }
-    
+
     // ================ 数据管理方法 ================
-    
+
     /**
      * 获取标题
      */
@@ -194,9 +189,24 @@ public class ItemMillParchment extends Item {
             // 如果是旧版硬编码文本，直接返回
             return title;
         }
+
+        // 如果没有设置标题，根据物品类型返回默认标题
+        if (stack.getItem() instanceof ItemMillParchment) {
+            ParchmentType type = getParchmentType(stack);
+
+            // 根据类型返回特定的默认标题
+            if (type == ParchmentType.VILLAGE_SCROLL) {
+                return Component.translatable("item.millenaire_rewrite.parchment_village_scroll.default_title").getString();
+            } else if (type == ParchmentType.SADHU_SCROLL) {
+                return Component.translatable("item.millenaire_rewrite.parchment_sadhu.default_title").getString();
+            }
+
+            return Component.translatable("item.millenaire_rewrite.parchment.default_title").getString();
+        }
+
         return "";
     }
-    
+
     /**
      * 设置标题
      */
@@ -204,7 +214,7 @@ public class ItemMillParchment extends Item {
         CompoundTag tag = stack.getOrCreateTag();
         tag.putString(NBT_TITLE, title);
     }
-    
+
     /**
      * 获取内容数组
      */
@@ -228,7 +238,7 @@ public class ItemMillParchment extends Item {
         }
         return new String[0];
     }
-    
+
     /**
      * 设置内容数组
      */
@@ -240,7 +250,7 @@ public class ItemMillParchment extends Item {
         }
         tag.put(NBT_CONTENTS, listTag);
     }
-    
+
     /**
      * 获取文化类型
      */
@@ -252,9 +262,17 @@ public class ItemMillParchment extends Item {
         }
 
         // 如果NBT不存在，从物品ID推断文化
-        return Culture.NORMAN;
+        String itemName = stack.getItem().getDescriptionId();
+        if (itemName.contains("parchment_village_scroll")) {
+            return Culture.UNIVERSAL; // 村庄卷轴使用通用文化
+        }
+        if (itemName.contains("parchment_sadhu")) {
+            return Culture.HINDI; // 萨杜卷轴使用印度文化
+        }
+
+        return Culture.UNIVERSAL;
     }
-    
+
     /**
      * 设置文化类型
      */
@@ -262,7 +280,7 @@ public class ItemMillParchment extends Item {
         CompoundTag tag = stack.getOrCreateTag();
         tag.putString(NBT_CULTURE, culture.getName());
     }
-    
+
     /**
      * 获取羊皮纸类型
      */
@@ -274,9 +292,17 @@ public class ItemMillParchment extends Item {
         }
 
         // 如果NBT不存在，从物品ID推断类型
-        return ParchmentType.VILLAGER;
+        String itemName = stack.getItem().getDescriptionId();
+        if (itemName.contains("parchment_village_scroll")) {
+            return ParchmentType.VILLAGE_SCROLL; // 村庄卷轴
+        }
+        if (itemName.contains("parchment_sadhu")) {
+            return ParchmentType.SADHU_SCROLL; // 萨杜卷轴
+        }
+
+        return ParchmentType.VILLAGE_SCROLL;
     }
-    
+
     /**
      * 设置羊皮纸类型
      */
@@ -284,7 +310,6 @@ public class ItemMillParchment extends Item {
         CompoundTag tag = stack.getOrCreateTag();
         tag.putString(NBT_TYPE, type.getName());
     }
-
 
     /**
      * 创建预设的羊皮纸
@@ -300,7 +325,6 @@ public class ItemMillParchment extends Item {
         setCulture(stack, culture);
         setParchmentType(stack, type);
 
-
         return stack;
     }
 
@@ -308,56 +332,32 @@ public class ItemMillParchment extends Item {
      * 简单的物品选择器 - 根据文化和类型返回对应的注册物品
      */
     private static Item getParchmentItemForCultureAndType(Culture culture, ParchmentType type) {
-        String expectedName = "parchment_" + culture.getName() + "_" + type.getName();
-
-        switch (expectedName) {
-            case "parchment_norman_villager":
-                return com.jasoncian.millenaire_rewrite.core.ModItems.PARCHMENT_NORMAN_VILLAGER.get();
-            case "parchment_norman_building":
-                return com.jasoncian.millenaire_rewrite.core.ModItems.PARCHMENT_NORMAN_BUILDING.get();
-            case "parchment_norman_item":
-                return com.jasoncian.millenaire_rewrite.core.ModItems.PARCHMENT_NORMAN_ITEM.get();
-            case "parchment_norman_all":
-                return com.jasoncian.millenaire_rewrite.core.ModItems.PARCHMENT_NORMAN_ALL.get();
-
-            case "parchment_byzantine_villager":
-                return com.jasoncian.millenaire_rewrite.core.ModItems.PARCHMENT_BYZANTINE_VILLAGER.get();
-            case "parchment_byzantine_building":
-                return com.jasoncian.millenaire_rewrite.core.ModItems.PARCHMENT_BYZANTINE_BUILDING.get();
-            case "parchment_byzantine_item":
-                return com.jasoncian.millenaire_rewrite.core.ModItems.PARCHMENT_BYZANTINE_ITEM.get();
-            case "parchment_byzantine_all":
-                return com.jasoncian.millenaire_rewrite.core.ModItems.PARCHMENT_BYZANTINE_ALL.get();
-
-            case "parchment_hindi_villager":
-                return com.jasoncian.millenaire_rewrite.core.ModItems.PARCHMENT_HINDI_VILLAGER.get();
-            case "parchment_hindi_building":
-                return com.jasoncian.millenaire_rewrite.core.ModItems.PARCHMENT_HINDI_BUILDING.get();
-            case "parchment_hindi_item":
-                return com.jasoncian.millenaire_rewrite.core.ModItems.PARCHMENT_HINDI_ITEM.get();
-            case "parchment_hindi_all":
-                return com.jasoncian.millenaire_rewrite.core.ModItems.PARCHMENT_HINDI_ALL.get();
-
-            case "parchment_mayan_villager":
-                return com.jasoncian.millenaire_rewrite.core.ModItems.PARCHMENT_MAYAN_VILLAGER.get();
-            case "parchment_mayan_building":
-                return com.jasoncian.millenaire_rewrite.core.ModItems.PARCHMENT_MAYAN_BUILDING.get();
-            case "parchment_mayan_item":
-                return com.jasoncian.millenaire_rewrite.core.ModItems.PARCHMENT_MAYAN_ITEM.get();
-            case "parchment_mayan_all":
-                return com.jasoncian.millenaire_rewrite.core.ModItems.PARCHMENT_MAYAN_ALL.get();
-
-            case "parchment_japanese_villager":
-                return com.jasoncian.millenaire_rewrite.core.ModItems.PARCHMENT_JAPANESE_VILLAGER.get();
-            case "parchment_japanese_building":
-                return com.jasoncian.millenaire_rewrite.core.ModItems.PARCHMENT_JAPANESE_BUILDING.get();
-            case "parchment_japanese_item":
-                return com.jasoncian.millenaire_rewrite.core.ModItems.PARCHMENT_JAPANESE_ITEM.get();
-            case "parchment_japanese_all":
-                return com.jasoncian.millenaire_rewrite.core.ModItems.PARCHMENT_JAPANESE_ALL.get();
-
-            default:
-                return com.jasoncian.millenaire_rewrite.core.ModItems.PARCHMENT_NORMAN_VILLAGER.get();
+        // 村庄卷轴
+        if (type == ParchmentType.VILLAGE_SCROLL) {
+            return com.jasoncian.millenaire_rewrite.core.ModItems.PARCHMENT_VILLAGE_SCROLL.get();
         }
+
+        // 萨杜卷轴
+        if (type == ParchmentType.SADHU_SCROLL) {
+            return com.jasoncian.millenaire_rewrite.core.ModItems.PARCHMENT_SADHU.get();
+        }
+
+        // 默认返回村庄卷轴
+        return com.jasoncian.millenaire_rewrite.core.ModItems.PARCHMENT_VILLAGE_SCROLL.get();
+    }
+
+    /**
+     * 获取物品的显示名称
+     */
+    @Override
+    public Component getName(ItemStack stack) {
+        // 如果有自定义标题，使用自定义标题
+        String title = getTitle(stack);
+        if (!title.isEmpty()) {
+            return Component.literal(title);
+        }
+
+        // 否则使用默认的物品名称
+        return super.getName(stack);
     }
 }

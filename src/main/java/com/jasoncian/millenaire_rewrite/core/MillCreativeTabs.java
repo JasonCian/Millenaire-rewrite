@@ -134,10 +134,7 @@ public class MillCreativeTabs {
                 output.accept(ModItems.TAPESTRY.get());
                 
                 // 诺曼羊皮纸
-                output.accept(ParchmentContentData.createNormanVillagerParchment());
-                output.accept(ParchmentContentData.createNormanBuildingParchment());
-                output.accept(ParchmentContentData.createNormanItemParchment());
-                output.accept(ParchmentContentData.createNormanAllParchment());
+
             })
             .build());
 
@@ -178,10 +175,7 @@ public class MillCreativeTabs {
                 output.accept(ModItems.BYZANTINE_ICON_LARGE.get());
                 
                 // 拜占庭羊皮纸
-                output.accept(ParchmentContentData.createByzantineVillagerParchment());
-                output.accept(ParchmentContentData.createByzantineBuildingParchment());
-                output.accept(ParchmentContentData.createByzantineItemParchment());
-                output.accept(ParchmentContentData.createByzantineAllParchment());
+
             })
             .build());
 
@@ -221,10 +215,7 @@ public class MillCreativeTabs {
                 output.accept(ModItems.JAPANESE_BOW.get());
                 
                 // 日本羊皮纸
-                output.accept(ParchmentContentData.createJapaneseVillagerParchment());
-                output.accept(ParchmentContentData.createJapaneseBuildingParchment());
-                output.accept(ParchmentContentData.createJapaneseItemParchment());
-                output.accept(ParchmentContentData.createJapaneseAllParchment());
+
             })
             .build());
 
@@ -259,10 +250,7 @@ public class MillCreativeTabs {
                 output.accept(ModItems.MAYAN_STATUE.get());
                 
                 // 玛雅羊皮纸
-                output.accept(ParchmentContentData.createMayanVillagerParchment());
-                output.accept(ParchmentContentData.createMayanBuildingParchment());
-                output.accept(ParchmentContentData.createMayanItemParchment());
-                output.accept(ParchmentContentData.createMayanAllParchment());
+
             })
             .build());
 
@@ -286,12 +274,11 @@ public class MillCreativeTabs {
                 // 印度特色物品
                 output.accept(ModItems.INDIAN_STATUE.get());
                 output.accept(ModItems.PARCHMENT_SADHU.get());
+
+
                 
                 // 印度羊皮纸
-                output.accept(ParchmentContentData.createHindiVillagerParchment());
-                output.accept(ParchmentContentData.createHindiBuildingParchment());
-                output.accept(ParchmentContentData.createHindiItemParchment());
-                output.accept(ParchmentContentData.createHindiAllParchment());
+
             })
             .build());
 
@@ -404,7 +391,8 @@ public class MillCreativeTabs {
                 // 特殊功能物品
                 output.accept(ModItems.PURSE.get());
                 output.accept(ModItems.VILLAGE_SIGN.get());
-                output.accept(ModItems.PARCHMENT_VILLAGE_SCROLL.get());
+                output.accept(ParchmentContentData.createPARCHMENT_VILLAGE_SCROLLParchment());
+                output.accept(ParchmentContentData.createPARCHMENT_SADHUParchment());
                 
                 // 基础材料
                 output.accept(ModItems.UNKNOWN_POWDER.get());

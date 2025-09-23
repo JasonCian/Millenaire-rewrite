@@ -1,12 +1,10 @@
 package com.jasoncian.millenaire_rewrite.core;
 
 import com.jasoncian.millenaire_rewrite.MillenaireRewrite;
-import com.jasoncian.millenaire_rewrite.blockentities.VillageStoneBlockEntity;
 import net.minecraft.world.level.block.entity.BlockEntityType;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
-import net.minecraftforge.registries.RegistryObject;
 
 /**
  * 模组BlockEntity注册器
@@ -19,16 +17,7 @@ public class ModBlockEntities {
     public static final DeferredRegister<BlockEntityType<?>> BLOCK_ENTITIES = 
         DeferredRegister.create(ForgeRegistries.BLOCK_ENTITY_TYPES, MillenaireRewrite.MOD_ID);
 
-    /**
-     * Village Stone BlockEntity - 村庄核心方块实体
-     * 替代legacy的TileEntityVillageStone
-     */
-    public static final RegistryObject<BlockEntityType<VillageStoneBlockEntity>> VILLAGE_STONE =
-        BLOCK_ENTITIES.register("village_stone", 
-            () -> BlockEntityType.Builder.<VillageStoneBlockEntity>of(
-                VillageStoneBlockEntity::new,
-                ModBlocks.VILLAGE_STONE.get()
-            ).build(null));
+    // TODO: 添加真正需要的方块实体（基于 legacy 代码研究）
 
     /**
      * 注册所有BlockEntity类型到模组事件总线

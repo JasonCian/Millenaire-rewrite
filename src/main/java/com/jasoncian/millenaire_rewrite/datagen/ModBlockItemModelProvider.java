@@ -1,7 +1,6 @@
 package com.jasoncian.millenaire_rewrite.datagen;
 
 import com.jasoncian.millenaire_rewrite.MillenaireRewrite;
-import com.jasoncian.millenaire_rewrite.core.ModBlocks;
 // import com.jasoncian.millenaire_rewrite.core.ModBlockItems;
 import net.minecraft.data.PackOutput;
 // import net.minecraft.world.item.Item;
@@ -34,9 +33,7 @@ public class ModBlockItemModelProvider extends ItemModelProvider {
 
         // ================ 核心功能方块 ================
 
-        // Village Stone - 继承方块模型
-        withExistingParent(ModBlocks.VILLAGE_STONE.getId().getPath(),
-                modLoc("block/" + ModBlocks.VILLAGE_STONE.getId().getPath()));
+        // TODO: 添加真正需要的方块物品模型
 
         // ================ 装饰方块变体物品 - 已弃用 ================
         // ⚠️  装饰方块物品模型生成已弃用，已迁移至统一方块系统

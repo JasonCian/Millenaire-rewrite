@@ -1,7 +1,6 @@
 package com.jasoncian.millenaire_rewrite.datagen;
 
 import com.jasoncian.millenaire_rewrite.MillenaireRewrite;
-import com.jasoncian.millenaire_rewrite.core.ModBlocks;
 import com.jasoncian.millenaire_rewrite.core.ModItems;
 
 import net.minecraft.data.PackOutput;
@@ -230,7 +229,7 @@ public class ModLanguageProvider extends LanguageProvider {
         add(ModItems.PAINT_BUCKET_BLACK.get(), "Black Paint Bucket");
 
         // ================ Blocks ================
-        add(ModBlocks.VILLAGE_STONE.get(), "Village Stone");
+        // TODO: 添加真正需要的方块的语言条目
 
         // ================ Tooltips and UI ================
         // Purse tooltips
@@ -559,7 +558,7 @@ public class ModLanguageProvider extends LanguageProvider {
         add(ModItems.PARCHMENT_SADHU.get(), "圣者之书");
 
         // ================ Blocks ================
-        add(ModBlocks.VILLAGE_STONE.get(), "村庄石头");
+        // TODO: 添加真正需要的方块的语言条目
 
         // ================ Tooltips and UI ================
         // Purse tooltips

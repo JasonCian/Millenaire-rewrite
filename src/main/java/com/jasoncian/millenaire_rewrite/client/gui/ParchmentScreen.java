@@ -300,20 +300,20 @@ public class ParchmentScreen extends Screen {
         String lowerContent = content.toLowerCase();
         
         if (lowerContent.contains("首领") || lowerContent.contains("leader")) {
-            return 0xFFD700; // 金色
+            return 0x000000; // 金色
         } else if (lowerContent.contains("战士") || lowerContent.contains("守卫") || lowerContent.contains("warrior") || lowerContent.contains("guard")) {
-            return 0xFF5555; // 红色
+            return 0x000000; // 红色
         } else if (lowerContent.contains("工人") || lowerContent.contains("农民") || lowerContent.contains("worker") || lowerContent.contains("farmer")) {
-            return 0x55FF55; // 绿色
+            return 0x000000; // 绿色
         } else if (lowerContent.contains("女性") || lowerContent.contains("妇女") || lowerContent.contains("woman") || lowerContent.contains("women")) {
-            return 0xFF55FF; // 紫色
+            return 0x000000; // 紫色
         } else if (lowerContent.contains("儿童") || lowerContent.contains("孩子") || lowerContent.contains("child") || lowerContent.contains("children")) {
-            return 0xFFFF55; // 黄色
+            return 0x000000; // 黄色
         } else if (lowerContent.contains("建筑") || lowerContent.contains("房屋") || lowerContent.contains("building") || lowerContent.contains("house")) {
-            return 0x5555FF; // 蓝色
+            return 0x000000; // 蓝色
         } else if (lowerContent.contains("食物") || lowerContent.contains("武器") || lowerContent.contains("工具") || 
                    lowerContent.contains("food") || lowerContent.contains("weapon") || lowerContent.contains("tool")) {
-            return 0x55FFFF; // 青色
+            return 0x000000; // 青色
         } else {
             return 0x000000; // 黑色
         }

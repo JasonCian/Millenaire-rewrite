@@ -8,13 +8,24 @@ import net.minecraft.world.item.ItemStack;
  * 预设各个文化的羊皮纸内容，基于旧版本Millenaire的本地化文件
  */
 public class ParchmentContentData {
-    
+
     /**
-     * 创建诺曼村民羊皮纸
+     * 创建村民羊皮纸
      */
-    public static ItemStack createNormanVillagerParchment() {
-        String title = "parchment.norman.villager.title";
+    public static ItemStack createPARCHMENT_VILLAGE_SCROLLParchment() {
+        String title = "parchment.villager.title";
         String[] contents = {
+                "parchment.norman.all.title",
+                "parchment.norman.all.line1",
+                "parchment.norman.all.line2",
+                "parchment.norman.all.line3",
+                "parchment.norman.all.line4",
+                "parchment.norman.all.line5",
+                "parchment.norman.all.line6",
+                "parchment.norman.all.line7",
+                "parchment.norman.all.line8",
+                "",
+                "parchment.norman.villager.title",
                 "parchment.norman.villager.chief",
                 "parchment.norman.villager.knight",
                 "parchment.norman.villager.farmer",
@@ -22,18 +33,9 @@ public class ParchmentContentData {
                 "parchment.norman.villager.women",
                 "parchment.norman.villager.children",
                 "parchment.norman.villager.merchant",
-                "parchment.norman.villager.architect"
-        };
-        return ItemMillParchment.createParchment(title, contents, 
-            ItemMillParchment.Culture.NORMAN, ItemMillParchment.ParchmentType.VILLAGER);
-    }
-    
-    /**
-     * 创建诺曼建筑羊皮纸
-     */
-    public static ItemStack createNormanBuildingParchment() {
-        String title = "parchment.norman.building.title";
-        String[] contents = {
+                "parchment.norman.villager.architect",
+                "",
+                "parchment.norman.building.title",
                 "parchment.norman.building.town_hall",
                 "parchment.norman.building.blacksmith",
                 "parchment.norman.building.farm",
@@ -41,18 +43,9 @@ public class ParchmentContentData {
                 "parchment.norman.building.house",
                 "parchment.norman.building.church",
                 "parchment.norman.building.market",
-                "parchment.norman.building.stable"
-        };
-        return ItemMillParchment.createParchment(title, contents, 
-            ItemMillParchment.Culture.NORMAN, ItemMillParchment.ParchmentType.BUILDING);
-    }
-    
-    /**
-     * 创建诺曼物品羊皮纸
-     */
-    public static ItemStack createNormanItemParchment() {
-        String title = "parchment.norman.item.title";
-        String[] contents = {
+                "parchment.norman.building.stable",
+                "",
+                "parchment.norman.item.title",
                 "parchment.norman.item.sword",
                 "parchment.norman.item.axe",
                 "parchment.norman.item.pickaxe",
@@ -60,38 +53,19 @@ public class ParchmentContentData {
                 "parchment.norman.item.hoe",
                 "parchment.norman.item.cider",
                 "parchment.norman.item.blood_sausage",
-                "parchment.norman.item.armor"
-        };
-        return ItemMillParchment.createParchment(title, contents, 
-            ItemMillParchment.Culture.NORMAN, ItemMillParchment.ParchmentType.ITEM);
-    }
-
-    /**
-     * 创建诺曼全书羊皮纸 - 诺曼完整指南
-     */
-    public static ItemStack createNormanAllParchment() {
-        String title = "parchment.norman.all.title";
-        String[] contents = {
-                "parchment.norman.all.line1",
-                "parchment.norman.all.line2",
-                "parchment.norman.all.line3",
-                "parchment.norman.all.line4",
-                "parchment.norman.all.line5",
+                "parchment.norman.item.armor",
                 "",
-                "parchment.norman.all.line6",
-                "parchment.norman.all.line7",
-                "parchment.norman.all.line8"
-        };
-        return ItemMillParchment.createParchment(title, contents,
-                ItemMillParchment.Culture.NORMAN, ItemMillParchment.ParchmentType.ALL);
-    }
-    
-    /**
-     * 创建拜占庭村民羊皮纸
-     */
-    public static ItemStack createByzantineVillagerParchment() {
-        String title = "parchment.byzantine.villager.title";
-        String[] contents = {
+                "parchment.byzantine.all.title",
+                "parchment.byzantine.all.line1",
+                "parchment.byzantine.all.line2",
+                "parchment.byzantine.all.line3",
+                "parchment.byzantine.all.line4",
+                "parchment.byzantine.all.line5",
+                "parchment.byzantine.all.line6",
+                "parchment.byzantine.all.line7",
+                "parchment.byzantine.all.line8",
+                "",
+                "parchment.byzantine.villager.title",
                 "parchment.byzantine.villager.governor",
                 "parchment.byzantine.villager.centurion",
                 "parchment.byzantine.villager.artisan",
@@ -99,18 +73,9 @@ public class ParchmentContentData {
                 "parchment.byzantine.villager.noblewoman",
                 "parchment.byzantine.villager.slave",
                 "parchment.byzantine.villager.merchant",
-                "parchment.byzantine.villager.priest"
-        };
-        return ItemMillParchment.createParchment(title, contents, 
-            ItemMillParchment.Culture.BYZANTINE, ItemMillParchment.ParchmentType.VILLAGER);
-    }
-    
-    /**
-     * 创建拜占庭建筑羊皮纸
-     */
-    public static ItemStack createByzantineBuildingParchment() {
-        String title = "parchment.byzantine.building.title";
-        String[] contents = {
+                "parchment.byzantine.villager.priest",
+                "",
+                "parchment.byzantine.building.title",
                 "parchment.byzantine.building.governor_palace",
                 "parchment.byzantine.building.fortress",
                 "parchment.byzantine.building.workshop",
@@ -118,18 +83,9 @@ public class ParchmentContentData {
                 "parchment.byzantine.building.baths",
                 "parchment.byzantine.building.colosseum",
                 "parchment.byzantine.building.cathedral",
-                "parchment.byzantine.building.port"
-        };
-        return ItemMillParchment.createParchment(title, contents, 
-            ItemMillParchment.Culture.BYZANTINE, ItemMillParchment.ParchmentType.BUILDING);
-    }
-    
-    /**
-     * 创建拜占庭物品羊皮纸
-     */
-    public static ItemStack createByzantineItemParchment() {
-        String title = "parchment.byzantine.item.title";
-        String[] contents = {
+                "parchment.byzantine.building.port",
+                "",
+                "parchment.byzantine.item.title",
                 "parchment.byzantine.item.scepter",
                 "parchment.byzantine.item.greek_fire",
                 "parchment.byzantine.item.wine",
@@ -137,38 +93,19 @@ public class ParchmentContentData {
                 "parchment.byzantine.item.feta_cheese",
                 "parchment.byzantine.item.kebab",
                 "parchment.byzantine.item.armor",
-                "parchment.byzantine.item.purple_silk"
-        };
-        return ItemMillParchment.createParchment(title, contents, 
-            ItemMillParchment.Culture.BYZANTINE, ItemMillParchment.ParchmentType.ITEM);
-    }
-
-    /**
-     * 创建拜占庭全书羊皮纸 - 拜占庭完整指南
-     */
-    public static ItemStack createByzantineAllParchment() {
-        String title = "parchment.byzantine.all.title";
-        String[] contents = {
-                "parchment.byzantine.all.line1",
-                "parchment.byzantine.all.line2",
-                "parchment.byzantine.all.line3",
-                "parchment.byzantine.all.line4",
-                "parchment.byzantine.all.line5",
+                "parchment.byzantine.item.purple_silk",
                 "",
-                "parchment.byzantine.all.line6",
-                "parchment.byzantine.all.line7",
-                "parchment.byzantine.all.line8"
-        };
-        return ItemMillParchment.createParchment(title, contents,
-                ItemMillParchment.Culture.BYZANTINE, ItemMillParchment.ParchmentType.ALL);
-    }
-    
-    /**
-     * 创建印度村民羊皮纸
-     */
-    public static ItemStack createHindiVillagerParchment() {
-        String title = "parchment.hindi.villager.title";
-        String[] contents = {
+                "parchment.hindi.all.title",
+                "parchment.hindi.all.line1",
+                "parchment.hindi.all.line2",
+                "parchment.hindi.all.line3",
+                "parchment.hindi.all.line4",
+                "parchment.hindi.all.line5",
+                "parchment.hindi.all.line6",
+                "parchment.hindi.all.line7",
+                "parchment.hindi.all.line8",
+                "",
+                "parchment.hindi.villager.title",
                 "parchment.hindi.villager.raja",
                 "parchment.hindi.villager.brahmin",
                 "parchment.hindi.villager.kshatriya",
@@ -176,18 +113,9 @@ public class ParchmentContentData {
                 "parchment.hindi.villager.shudra",
                 "parchment.hindi.villager.yogi",
                 "parchment.hindi.villager.dancer",
-                "parchment.hindi.villager.spice_merchant"
-        };
-        return ItemMillParchment.createParchment(title, contents, 
-            ItemMillParchment.Culture.HINDI, ItemMillParchment.ParchmentType.VILLAGER);
-    }
-    
-    /**
-     * 创建印度建筑羊皮纸
-     */
-    public static ItemStack createHindiBuildingParchment() {
-        String title = "parchment.hindi.building.title";
-        String[] contents = {
+                "parchment.hindi.villager.spice_merchant",
+                "",
+                "parchment.hindi.building.title",
                 "parchment.hindi.building.palace",
                 "parchment.hindi.building.temple",
                 "parchment.hindi.building.market",
@@ -195,18 +123,9 @@ public class ParchmentContentData {
                 "parchment.hindi.building.weaving_room",
                 "parchment.hindi.building.spice_garden",
                 "parchment.hindi.building.well",
-                "parchment.hindi.building.dance_hall"
-        };
-        return ItemMillParchment.createParchment(title, contents, 
-            ItemMillParchment.Culture.HINDI, ItemMillParchment.ParchmentType.BUILDING);
-    }
-    
-    /**
-     * 创建印度物品羊皮纸
-     */
-    public static ItemStack createHindiItemParchment() {
-        String title = "parchment.hindi.item.title";
-        String[] contents = {
+                "parchment.hindi.building.dance_hall",
+                "",
+                "parchment.hindi.item.title",
                 "parchment.hindi.item.turmeric",
                 "parchment.hindi.item.rice",
                 "parchment.hindi.item.vegetable_curry",
@@ -214,38 +133,19 @@ public class ParchmentContentData {
                 "parchment.hindi.item.gulab_jamun",
                 "parchment.hindi.item.silk_cloth",
                 "parchment.hindi.item.indian_sword",
-                "parchment.hindi.item.spice_powder"
-        };
-        return ItemMillParchment.createParchment(title, contents, 
-            ItemMillParchment.Culture.HINDI, ItemMillParchment.ParchmentType.ITEM);
-    }
-
-    /**
-     * 创建印度全书羊皮纸 - 印度完整指南
-     */
-    public static ItemStack createHindiAllParchment() {
-        String title = "parchment.hindi.all.title";
-        String[] contents = {
-                "parchment.hindi.all.line1",
-                "parchment.hindi.all.line2",
-                "parchment.hindi.all.line3",
-                "parchment.hindi.all.line4",
-                "parchment.hindi.all.line5",
+                "parchment.hindi.item.spice_powder",
                 "",
-                "parchment.hindi.all.line6",
-                "parchment.hindi.all.line7",
-                "parchment.hindi.all.line8"
-        };
-        return ItemMillParchment.createParchment(title, contents,
-                ItemMillParchment.Culture.HINDI, ItemMillParchment.ParchmentType.ALL);
-    }
-    
-    /**
-     * 创建玛雅村民羊皮纸
-     */
-    public static ItemStack createMayanVillagerParchment() {
-        String title = "parchment.mayan.villager.title";
-        String[] contents = {
+                "parchment.mayan.all.title",
+                "parchment.mayan.all.line1",
+                "parchment.mayan.all.line2",
+                "parchment.mayan.all.line3",
+                "parchment.mayan.all.line4",
+                "parchment.mayan.all.line5",
+                "parchment.mayan.all.line6",
+                "parchment.mayan.all.line7",
+                "parchment.mayan.all.line8",
+                "",
+                "parchment.mayan.villager.title",
                 "parchment.mayan.villager.priest_king",
                 "parchment.mayan.villager.warrior",
                 "parchment.mayan.villager.astronomer",
@@ -253,18 +153,9 @@ public class ParchmentContentData {
                 "parchment.mayan.villager.artisan",
                 "parchment.mayan.villager.dancer",
                 "parchment.mayan.villager.merchant",
-                "parchment.mayan.villager.shaman"
-        };
-        return ItemMillParchment.createParchment(title, contents, 
-            ItemMillParchment.Culture.MAYAN, ItemMillParchment.ParchmentType.VILLAGER);
-    }
-    
-    /**
-     * 创建玛雅建筑羊皮纸
-     */
-    public static ItemStack createMayanBuildingParchment() {
-        String title = "parchment.mayan.building.title";
-        String[] contents = {
+                "parchment.mayan.villager.shaman",
+                "",
+                "parchment.mayan.building.title",
                 "parchment.mayan.building.pyramid",
                 "parchment.mayan.building.observatory",
                 "parchment.mayan.building.ball_court",
@@ -272,18 +163,9 @@ public class ParchmentContentData {
                 "parchment.mayan.building.steam_bath",
                 "parchment.mayan.building.workshop",
                 "parchment.mayan.building.farmland",
-                "parchment.mayan.building.cenote"
-        };
-        return ItemMillParchment.createParchment(title, contents, 
-            ItemMillParchment.Culture.MAYAN, ItemMillParchment.ParchmentType.BUILDING);
-    }
-    
-    /**
-     * 创建玛雅物品羊皮纸
-     */
-    public static ItemStack createMayanItemParchment() {
-        String title = "parchment.mayan.item.title";
-        String[] contents = {
+                "parchment.mayan.building.cenote",
+                "",
+                "parchment.mayan.item.title",
                 "parchment.mayan.item.corn",
                 "parchment.mayan.item.cacao",
                 "parchment.mayan.item.masa",
@@ -291,38 +173,19 @@ public class ParchmentContentData {
                 "parchment.mayan.item.obsidian_tool",
                 "parchment.mayan.item.scepter",
                 "parchment.mayan.item.feather_headress",
-                "parchment.mayan.item.jade_ornament"
-        };
-        return ItemMillParchment.createParchment(title, contents, 
-            ItemMillParchment.Culture.MAYAN, ItemMillParchment.ParchmentType.ITEM);
-    }
-
-    /**
-     * 创建玛雅全书羊皮纸
-     */
-    public static ItemStack createMayanAllParchment() {
-        String title = "parchment.mayan.all.title";
-        String[] contents = {
-                "parchment.mayan.all.line1",
-                "parchment.mayan.all.line2",
-                "parchment.mayan.all.line3",
-                "parchment.mayan.all.line4",
-                "parchment.mayan.all.line5",
+                "parchment.mayan.item.jade_ornament",
                 "",
-                "parchment.mayan.all.line6",
-                "parchment.mayan.all.line7",
-                "parchment.mayan.all.line8"
-        };
-        return ItemMillParchment.createParchment(title, contents,
-                ItemMillParchment.Culture.MAYAN, ItemMillParchment.ParchmentType.ALL);
-    }
-    
-    /**
-     * 创建日本村民羊皮纸
-     */
-    public static ItemStack createJapaneseVillagerParchment() {
-        String title = "parchment.japanese.villager.title";
-        String[] contents = {
+                "parchment.japanese.all.title",
+                "parchment.japanese.all.line1",
+                "parchment.japanese.all.line2",
+                "parchment.japanese.all.line3",
+                "parchment.japanese.all.line4",
+                "parchment.japanese.all.line5",
+                "parchment.japanese.all.line6",
+                "parchment.japanese.all.line7",
+                "parchment.japanese.all.line8",
+                "",
+                "parchment.japanese.villager.title",
                 "parchment.japanese.villager.daimyo",
                 "parchment.japanese.villager.samurai",
                 "parchment.japanese.villager.monk",
@@ -330,18 +193,9 @@ public class ParchmentContentData {
                 "parchment.japanese.villager.artisan",
                 "parchment.japanese.villager.geisha",
                 "parchment.japanese.villager.merchant",
-                "parchment.japanese.villager.ninja"
-        };
-        return ItemMillParchment.createParchment(title, contents, 
-            ItemMillParchment.Culture.JAPANESE, ItemMillParchment.ParchmentType.VILLAGER);
-    }
-    
-    /**
-     * 创建日本建筑羊皮纸
-     */
-    public static ItemStack createJapaneseBuildingParchment() {
-        String title = "parchment.japanese.building.title";
-        String[] contents = {
+                "parchment.japanese.villager.ninja",
+                "",
+                "parchment.japanese.building.title",
                 "parchment.japanese.building.castle_keep",
                 "parchment.japanese.building.shrine",
                 "parchment.japanese.building.dojo",
@@ -349,18 +203,9 @@ public class ParchmentContentData {
                 "parchment.japanese.building.rice_field",
                 "parchment.japanese.building.onsen",
                 "parchment.japanese.building.bamboo_forest",
-                "parchment.japanese.building.zen_garden"
-        };
-        return ItemMillParchment.createParchment(title, contents, 
-            ItemMillParchment.Culture.JAPANESE, ItemMillParchment.ParchmentType.BUILDING);
-    }
-    
-    /**
-     * 创建日本物品羊皮纸
-     */
-    public static ItemStack createJapaneseItemParchment() {
-        String title = "parchment.japanese.item.title";
-        String[] contents = {
+                "parchment.japanese.building.zen_garden",
+                "",
+                "parchment.japanese.item.title",
                 "parchment.japanese.item.katana",
                 "parchment.japanese.item.yumi",
                 "parchment.japanese.item.sake",
@@ -369,27 +214,34 @@ public class ParchmentContentData {
                 "parchment.japanese.item.samurai_armor",
                 "parchment.japanese.item.kimono",
                 "parchment.japanese.item.bamboo_product"
-        };
-        return ItemMillParchment.createParchment(title, contents, 
-            ItemMillParchment.Culture.JAPANESE, ItemMillParchment.ParchmentType.ITEM);
-    }
-    /**
-     * 创建日本全书羊皮纸
-     */
-    public static ItemStack createJapaneseAllParchment() {
-        String title = "parchment.japanese.all.title";
-        String[] contents = {
-                "parchment.japanese.all.line1",
-                "parchment.japanese.all.line2",
-                "parchment.japanese.all.line3",
-                "parchment.japanese.all.line4",
-                "parchment.japanese.all.line5",
-                "",
-                "parchment.japanese.all.line6",
-                "parchment.japanese.all.line7",
-                "parchment.japanese.all.line8"
+
+
         };
         return ItemMillParchment.createParchment(title, contents,
-                ItemMillParchment.Culture.JAPANESE, ItemMillParchment.ParchmentType.ALL);
+                ItemMillParchment.Culture.UNIVERSAL, ItemMillParchment.ParchmentType.VILLAGE_SCROLL);
     }
+
+    /**
+     * 创建萨杜羊皮纸
+     */
+    public static ItemStack createPARCHMENT_SADHUParchment() {
+        String title = "parchment.sadhu.title";
+        String[] contents = {
+                "parchment.sadhu.line0",
+                "parchment.sadhu.line1",
+                "parchment.sadhu.line2",
+                "parchment.sadhu.line3",
+                "parchment.sadhu.line4",
+                "parchment.sadhu.line5",
+                "parchment.sadhu.line6",
+                "parchment.sadhu.line7",
+                "parchment.sadhu.line8"
+        };
+        return ItemMillParchment.createParchment(title, contents,
+                ItemMillParchment.Culture.HINDI, ItemMillParchment.ParchmentType.SADHU_SCROLL);
+    }
+
+
+
+
 }

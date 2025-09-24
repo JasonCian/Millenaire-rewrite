@@ -310,6 +310,13 @@ public class ModLanguageProvider extends LanguageProvider {
         add("item.millenaire_rewrite.parchment.type.item", "Item Guide");
         add("item.millenaire_rewrite.parchment.type.all", "Complete Guide");
 
+        add("item.millenaire_rewrite.parchment.type.village_scroll", "Village Scroll");
+        add("item.millenaire_rewrite.parchment.type.sadhu_scroll", "Sadhu Scroll");
+        add("item.millenaire_rewrite.parchment.culture.universal","Universal");
+        add("item.millenaire_rewrite.parchment_village_scroll.default_title","Village Guide Scroll");
+        add("item.millenaire_rewrite.parchment_sadhu.default_title", "Sadhu Scroll");
+        add("item.millenaire_rewrite.parchment.default_title", "Parchment Scroll");
+
         // ================ Magic Amulets ================
         add(ModItems.AMULET_VISHNU.get(), "Vishnu Amulet");
         add(ModItems.AMULET_ALCHEMIST.get(), "Alchemist Amulet");
@@ -621,7 +628,6 @@ public class ModLanguageProvider extends LanguageProvider {
         // Parchment content headers
         add("item.millenaire_rewrite.parchment.culture.norman", "诺曼");
         add("item.millenaire_rewrite.parchment.culture.byzantine", "拜占庭");
-        add("item.millenaire_rewrite.parchment.culture.hindi", "印度");
         add("item.millenaire_rewrite.parchment.culture.mayan", "玛雅");
         add("item.millenaire_rewrite.parchment.culture.japanese", "日本");
 
@@ -629,6 +635,14 @@ public class ModLanguageProvider extends LanguageProvider {
         add("item.millenaire_rewrite.parchment.type.building", "建筑指南");
         add("item.millenaire_rewrite.parchment.type.item", "物品指南");
         add("item.millenaire_rewrite.parchment.type.all", "完整指南");
+
+        add("item.millenaire_rewrite.parchment.type.village_scroll", "村庄卷轴");
+        add("item.millenaire_rewrite.parchment.type.sadhu_scroll", "萨杜圣者卷轴");
+        add("item.millenaire_rewrite.parchment.culture.universal","通用");
+        add("item.millenaire_rewrite.parchment.culture.hindi", "印度");
+        add("item.millenaire_rewrite.parchment_village_scroll.default_title","村庄指南卷轴");
+        add("item.millenaire_rewrite.parchment_sadhu.default_title", "萨杜圣者卷轴");
+        add("item.millenaire_rewrite.parchment.default_title", "羊皮纸卷轴");
 
         // ================ 魔法护身符 ================
         add(ModItems.AMULET_VISHNU.get(), "毗湿奴护身符");
@@ -721,6 +735,20 @@ public class ModLanguageProvider extends LanguageProvider {
      * 添加羊皮纸内容的翻译
      */
     private void addEnglishParchmentContentTranslations() {
+        add("parchment.villager.title", "Villager Guide");
+        add("parchment.space","                ");
+
+        add("parchment.sadhu.title", "Sadhu Sage Scroll");
+        add("parchment.sadhu.line0","The wise men and spiritual guides of Indian culture");
+        add("parchment.sadhu.line1","Sadhus are the spiritual leaders in Indian villages,");
+        add("parchment.sadhu.line2","possessing profound philosophical knowledge and spiritual wisdom.");
+        add("parchment.sadhu.line3","Sadhus usually reside in temples or meditation places,");
+        add("parchment.sadhu.line4","providing spiritual guidance and advice to villagers.");
+        add("parchment.sadhu.line5", "Communicating with Sadhus can gain knowledge about Indian culture,");
+        add("parchment.sadhu.line6", "as well as opportunities to complete specific tasks.");
+        add("parchment.sadhu.line7", "Helping Sadhus complete spiritual tasks can increase reputation,");
+        add("parchment.sadhu.line8", "and obtain special blessed items.");
+
         // Norman Parchment Contents
         add("parchment.norman.villager.title", "Norman Villager Guide");
         add("parchment.norman.villager.chief", "Chief - Leader of the village");
@@ -942,6 +970,20 @@ public class ModLanguageProvider extends LanguageProvider {
 
     private void addChineseParchmentContentTranslations() {
         // Norman Parchment Contents
+        add("parchment.villager.title", "村民指南");
+        add("parchment.space","                ");
+
+        add("parchment.sadhu.title", "萨杜圣者卷轴");
+        add("parchment.sadhu.line0","印度文化的智者与精神导师");
+        add("parchment.sadhu.line1","萨杜是印度村庄中的精神领袖，");
+        add("parchment.sadhu.line2","他们拥有深厚的哲学知识和灵性智慧。");
+        add("parchment.sadhu.line3","萨杜通常居住在寺庙或冥想场所，");
+        add("parchment.sadhu.line4","为村民提供精神指导和建议。");
+        add("parchment.sadhu.line5", "与萨杜交流可以获得关于印度文化的知识，");
+        add("parchment.sadhu.line6", "以及完成特定任务的机会。");
+        add("parchment.sadhu.line7", "帮助萨杜完成精神任务可以提升声望，");
+        add("parchment.sadhu.line8", "并获得特殊的祝福物品。");
+
         add("parchment.norman.villager.title", "诺曼村民指南");
         add("parchment.norman.villager.chief", "首领 - 村庄的领导者");
         add("parchment.norman.villager.knight", "骑士 - 武装战士");
